@@ -2,12 +2,12 @@
 !pragma layout smetana
 "Comparable" <|-- "ext.plantuml.com.ctreber.acearth.scandot.ScanDot"
 class ext.plantuml.com.ctreber.acearth.scandot.ScanDot {
-+ScanDot(int;int;int) : ScanDot [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#16]]]
-+ScanDot(int;Point2D) : ScanDot [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#23]]]
-+compareTo(Object) : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#30]]]
-+getType() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#42]]]
-+getX() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#47]]]
-+getY() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#52]]]
-+toString() : String [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#57]]]
++ScanDot(int;int;int) : ScanDot [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#22]]]
++ScanDot(int;Point2D) : ScanDot [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#29]]]
++compareTo(Object) : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#36]]]
++getType() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#48]]]
++getX() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#53]]]
++getY() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#58]]]
++toString() : String [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#63]]]
 } 
 @enduml

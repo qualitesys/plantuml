@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "smetana.core.ACCESS"
 class smetana.core.ACCESS {
-get() : O [[[./../../../.././qc/src/smetana/core/ACCESS.java.html#7]]]
-set(O) : void [[[./../../../.././qc/src/smetana/core/ACCESS.java.html#9]]]
+get() : O [[[./../../../.././qc/src/smetana/core/ACCESS.java.html#41]]]
+set(O) : void [[[./../../../.././qc/src/smetana/core/ACCESS.java.html#43]]]
 } 
 @enduml

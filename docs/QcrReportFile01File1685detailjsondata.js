@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.core.TaskGroup" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#54"
  , "c1" : "TaskGroup"
  , "c2" : "TaskGroup(TaskGroup;StyleBuilder;String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#59"
  , "c1" : "Day"
  , "c2" : "getStart()"
  , "c3" : "4"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#71"
  , "c1" : "Day"
  , "c2" : "getEnd()"
  , "c3" : "4"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#49"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#83"
  , "c1" : "void"
  , "c2" : "setStart(Day)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#53"
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#87"
  , "c1" : "void"
  , "c2" : "setEnd(Day)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#57"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#91"
  , "c1" : "void"
  , "c2" : "setColors(CenterBorderColor...)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#61"
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#95"
  , "c1" : "void"
  , "c2" : "addResource(Resource;int)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#65"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#99"
  , "c1" : "Load"
  , "c2" : "getLoad()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#69"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#103"
  , "c1" : "void"
  , "c2" : "setLoad(Load)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#73"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#107"
  , "c1" : "void"
  , "c2" : "setDiamond(boolean)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#77"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#111"
  , "c1" : "boolean"
  , "c2" : "isDiamond()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#81"
+ , "c5" : "00115"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#115"
  , "c1" : "void"
  , "c2" : "setCompletion(int)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#85"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#119"
  , "c1" : "void"
  , "c2" : "setUrl(Url)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00089"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#89"
+ , "c5" : "00123"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#123"
  , "c1" : "void"
  , "c2" : "addPause(Day)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#93"
+ , "c5" : "00127"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#127"
  , "c1" : "void"
  , "c2" : "addPause(DayOfWeek)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#97"
+ , "c5" : "00131"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#131"
  , "c1" : "void"
  , "c2" : "setNote(Display)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00100"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#100"
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#134"
  , "c1" : "void"
  , "c2" : "addTask(Task)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00104"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#104"
+ , "c5" : "00138"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#138"
  , "c1" : "TaskGroup"
  , "c2" : "getParent()"
  , "c3" : "1"
@@ -242,157 +242,157 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.project.core.TaskGroup.getStart@POLYN157319 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.project.core.TaskGroup.getStart@POLYN157523 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.project.core.TaskGroup.getStart@POLYN157319 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.project.core.TaskGroup.getStart@POLYN157523 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.project.core.TaskGroup.getStart@POLYN157319 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.project.core.TaskGroup.getStart@POLYN157523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.project.core.TaskGroup.getStart@POLYN157319 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.project.core.TaskGroup.getStart@POLYN157523 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.project.core.TaskGroup.getEnd@POLYN157868 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.project.core.TaskGroup.getEnd@POLYN158072 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.project.core.TaskGroup.getEnd@POLYN157868 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.project.core.TaskGroup.getEnd@POLYN158072 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.project.core.TaskGroup.getEnd@POLYN157868 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.project.core.TaskGroup.getEnd@POLYN158072 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.project.core.TaskGroup.getEnd@POLYN157868 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.project.core.TaskGroup.getEnd@POLYN158072 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#83"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method setStart arguments Day  start"
+ , "c3" : "QC-JAV000006[00083] For method setStart arguments Day  start"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#53"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#87"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method setEnd arguments Day  end"
+ , "c3" : "QC-JAV000006[00087] For method setEnd arguments Day  end"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#57"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#91"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00057] For method setColors arguments CenterBorderColor  ...colors"
+ , "c3" : "QC-JAV000006[00091] For method setColors arguments CenterBorderColor  ...colors"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#95"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method addResource arguments Resource  resource|int  percentage"
+ , "c3" : "QC-JAV000006[00095] For method addResource arguments Resource  resource|int  percentage"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#69"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#103"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method setLoad arguments Load  load"
+ , "c3" : "QC-JAV000006[00103] For method setLoad arguments Load  load"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#73"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#107"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method setDiamond arguments boolean  diamond"
+ , "c3" : "QC-JAV000006[00107] For method setDiamond arguments boolean  diamond"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#81"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#115"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00081] For method setCompletion arguments int  completion"
+ , "c3" : "QC-JAV000006[00115] For method setCompletion arguments int  completion"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#85"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#119"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00085] For method setUrl arguments Url  url"
+ , "c3" : "QC-JAV000006[00119] For method setUrl arguments Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#89"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#123"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00089] For method addPause arguments Day  pause"
+ , "c3" : "QC-JAV000006[00123] For method addPause arguments Day  pause"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#93"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#127"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00093] For method addPause arguments DayOfWeek  pause"
+ , "c3" : "QC-JAV000006[00127] For method addPause arguments DayOfWeek  pause"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#97"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#131"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method setNote arguments Display  note"
+ , "c3" : "QC-JAV000006[00131] For method setNote arguments Display  note"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#100"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#134"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00100] For method addTask arguments Task  child"
+ , "c3" : "QC-JAV000006[00134] For method addTask arguments Task  child"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#97"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#131"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00097] Void method setNote is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00131] Void method setNote is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#97"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#131"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00097] Void method setNote is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00131] Void method setNote is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.math.AsciiMath" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#53"
  , "c1" : "AsciiMath"
  , "c2" : "AsciiMath(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#58"
  , "c1" : "XDimension2D"
  , "c2" : "getDimension()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#62"
  , "c1" : "UImageSvg"
  , "c2" : "getSvg(double;Color;Color)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#68"
  , "c1" : "MutableImage"
  , "c2" : "getImage(Color;Color)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#74"
  , "c1" : "String"
  , "c2" : "getSource()"
  , "c3" : "1"
@@ -104,17 +104,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method getSvg arguments double  scale|Color  foregroundColor|Color  backgroundColor"
+ , "c3" : "QC-JAV000006[00062] For method getSvg arguments double  scale|Color  foregroundColor|Color  backgroundColor"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method getImage arguments Color  foregroundColor|Color  backgroundColor"
+ , "c3" : "QC-JAV000006[00068] For method getImage arguments Color  foregroundColor|Color  backgroundColor"
 }} 
 ]
 , 

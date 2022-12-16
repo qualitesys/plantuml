@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.creole.atom.AtomSprite" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#53"
  , "c1" : "AtomSprite"
  , "c2" : "AtomSprite(HColor;double;FontConfiguration;Sprite;Url)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#60"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#64"
  , "c1" : "double"
  , "c2" : "getStartingAltitude(StringBounder)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#68"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "3"
@@ -109,66 +109,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#53"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00019] The argument fontConfiguration is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00053] The argument fontConfiguration is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.creole.atom.AtomSprite.AtomSprite@POLYN150751 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.creole.atom.AtomSprite.AtomSprite@POLYN150955 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00060] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method getStartingAltitude arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00064] For method getStartingAltitude arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.creole.atom.AtomSprite.getStartingAltitude@POLYN151474 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.creole.atom.AtomSprite.getStartingAltitude@POLYN151678 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00068] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#68"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00034] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00068] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.creole.atom.AtomSprite.drawU@POLYN151576 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.creole.atom.AtomSprite.drawU@POLYN151780 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSprite.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.creole.atom.AtomSprite.drawU@POLYN151576 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.creole.atom.AtomSprite.drawU@POLYN151780 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

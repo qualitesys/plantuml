@@ -2,6 +2,6 @@
 !pragma layout smetana
 "UnsupportedStarStruct" <|-- "h.ST_arrowname_t"
 class h.ST_arrowname_t {
-+___(__struct__) : void [[[./../../.././qc/src/h/ST_arrowname_t.java.html#14]]]
++___(__struct__) : void [[[./../../.././qc/src/h/ST_arrowname_t.java.html#58]]]
 } 
 @enduml

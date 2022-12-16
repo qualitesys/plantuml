@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.json.Location" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/Location.java.html#48"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/Location.java.html#52"
  , "c1" : "Location"
  , "c2" : "Location(int;int;int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/Location.java.html#48"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/Location.java.html#52"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/Location.java.html#48"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/Location.java.html#52"
  , "c1" : "int"
  , "c2" : "hashCode()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/Location.java.html#48"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/Location.java.html#52"
  , "c1" : "boolean"
  , "c2" : "equals(Object)"
  , "c3" : "4"
@@ -109,52 +109,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/Location.java.html#48"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/Location.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.json.Location.toString@POLYN152194 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.json.Location.toString@POLYN152218 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/Location.java.html#48"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/Location.java.html#52"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method equals arguments Object  obj"
+ , "c3" : "QC-JAV000006[00052] For method equals arguments Object  obj"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/Location.java.html#48"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/Location.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00048] The same method call obj.getClass() is used several times, should be optimized "
+ , "c3" : "QC-JAV000021[00052] The same method call obj.getClass() is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/Location.java.html#48"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/Location.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.json.Location.equals@POLYN152440 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.json.Location.equals@POLYN152464 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/Location.java.html#48"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/Location.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.json.Location.equals@POLYN152440 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.json.Location.equals@POLYN152464 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/Location.java.html#48"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/Location.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.json.Location.equals@POLYN152440 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.json.Location.equals@POLYN152464 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/Location.java.html#48"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/Location.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.json.Location.equals@POLYN152440 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.json.Location.equals@POLYN152464 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

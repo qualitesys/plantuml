@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.FileWatcher" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/FileWatcher.java.html#13"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileWatcher.java.html#47"
  , "c1" : "FileWatcher"
  , "c2" : "FileWatcher(Set<File>)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/FileWatcher.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileWatcher.java.html#57"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/FileWatcher.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/FileWatcher.java.html#61"
  , "c1" : "boolean"
  , "c2" : "hasChanged()"
  , "c3" : "3"
@@ -93,31 +93,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileWatcher.java.html#13"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileWatcher.java.html#47"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00013] The argument files is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00047] The argument files is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileWatcher.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileWatcher.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.FileWatcher.FileWatcher@POLYN148848 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.FileWatcher.FileWatcher@POLYN149052 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileWatcher.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileWatcher.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.FileWatcher.hasChanged@POLYN149398 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.FileWatcher.hasChanged@POLYN149602 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/FileWatcher.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/FileWatcher.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.FileWatcher.hasChanged@POLYN149398 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.FileWatcher.hasChanged@POLYN149602 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

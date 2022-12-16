@@ -2,11 +2,11 @@
 !pragma layout smetana
 "Command" <|-- "net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange"
 class net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange {
-+startingChars() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#14]]]
-+create() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#25]]]
-+createEol() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#29]]]
--CommandCreoleFontFamilyChange(Pattern2) : CommandCreoleFontFamilyChange [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#33]]]
-+matchingSize(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#38]]]
-+executeAndGetRemaining(String;StripeSimple) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#46]]]
++startingChars() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#48]]]
++create() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#59]]]
++createEol() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#63]]]
+-CommandCreoleFontFamilyChange(Pattern2) : CommandCreoleFontFamilyChange [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#67]]]
++matchingSize(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#72]]]
++executeAndGetRemaining(String;StripeSimple) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#80]]]
 } 
 @enduml

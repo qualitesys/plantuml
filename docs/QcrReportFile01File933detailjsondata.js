@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.command.CommandMultilines2" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#53"
  , "c1" : "CommandMultilines2"
  , "c2" : "CommandMultilines2(IRegex;MultilinesStrategy;Trim)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#62"
  , "c1" : "boolean"
  , "c2" : "syntaxWithFinalBracket()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#66"
  , "c1" : "String"
  , "c2" : "getPatternEnd()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#68"
  , "c1" : "String[]"
  , "c2" : "getDescription()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#38"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#72"
  , "c1" : "CommandControl"
  , "c2" : "isValid(BlocLines)"
  , "c3" : "9"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#105"
  , "c1" : "CommandExecutionResult"
  , "c2" : "execute(S;BlocLines)"
  , "c3" : "2"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#83"
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#117"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeNow(S;BlocLines)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#85"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#119"
  , "c1" : "boolean"
  , "c2" : "isCommandForbidden()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00089"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#89"
+ , "c5" : "00123"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#123"
  , "c1" : "CommandControl"
  , "c2" : "finalVerification(BlocLines)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#93"
+ , "c5" : "00127"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#127"
  , "c1" : "IRegex"
  , "c2" : "getStartingPattern()"
  , "c3" : "1"
@@ -170,185 +170,185 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#53"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00019] The argument patternStart is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00020] The same method call patternStart.getPattern() is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.command.CommandMultilines2.CommandMultilines2@POLYN158674 the MagicNumber/String  '^' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.command.CommandMultilines2.CommandMultilines2@POLYN158674 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.command.CommandMultilines2.CommandMultilines2@POLYN158674 the MagicNumber/String  '$' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.command.CommandMultilines2.CommandMultilines2@POLYN158674 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.command.CommandMultilines2.CommandMultilines2@POLYN158674 the MagicNumber/String  'Bad pattern ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.command.CommandMultilines2.syntaxWithFinalBracket@POLYN159328 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.command.CommandMultilines2.getDescription@POLYN159471 the MagicNumber/String  'START: ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.command.CommandMultilines2.getDescription@POLYN159471 the MagicNumber/String  'END: ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#38"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method isValid arguments BlocLines  lines"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#38"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00038] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159716 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159716 the MagicNumber/String  '{' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159716 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159716 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159716 the MagicNumber/String  ' {' should be converted to const"
+ , "c3" : "QC-JAVCWE476[00053] The argument patternStart is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159716 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000021[00054] The same method call patternStart.getPattern() is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#58"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159716 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.command.CommandMultilines2.CommandMultilines2@POLYN158878 the MagicNumber/String  '^' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#61"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159716 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.command.CommandMultilines2.CommandMultilines2@POLYN158878 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#65"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159716 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.command.CommandMultilines2.CommandMultilines2@POLYN158878 the MagicNumber/String  '$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#71"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#54"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.command.CommandMultilines2.CommandMultilines2@POLYN158878 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#55"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.CommandMultilines2.CommandMultilines2@POLYN158878 the MagicNumber/String  'Bad pattern ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.command.CommandMultilines2.syntaxWithFinalBracket@POLYN159532 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#69"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.CommandMultilines2.getDescription@POLYN159675 the MagicNumber/String  'START: ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#69"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.CommandMultilines2.getDescription@POLYN159675 the MagicNumber/String  'END: ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#72"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method execute arguments S  system|BlocLines  lines"
+ , "c3" : "QC-JAV000006[00072] For method isValid arguments BlocLines  lines"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#71"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#72"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00071] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00072] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#83"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method executeNow arguments S  system|BlocLines  lines"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#86"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.command.CommandMultilines2.isCommandForbidden@POLYN162295 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159920 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#89"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#78"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159920 the MagicNumber/String  '{' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#78"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159920 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#79"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159920 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#79"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159920 the MagicNumber/String  ' {' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#88"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159920 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#92"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159920 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159920 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#99"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.command.CommandMultilines2.isValid@POLYN159920 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#105"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00089] For method finalVerification arguments BlocLines  lines"
+ , "c3" : "QC-JAV000006[00105] For method execute arguments S  system|BlocLines  lines"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#105"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00105] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#117"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00117] For method executeNow arguments S  system|BlocLines  lines"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#120"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.command.CommandMultilines2.isCommandForbidden@POLYN162499 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines2.java.html#123"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00123] For method finalVerification arguments BlocLines  lines"
 }} 
 ]
 , 

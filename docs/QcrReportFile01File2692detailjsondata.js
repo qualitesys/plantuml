@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#41"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#74"
  , "c1" : "double"
  , "c2" : "dpiFactor()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#46"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#79"
  , "c1" : "AbstractCommonUGraphic"
  , "c2" : "copyUGraphic()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#50"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#83"
  , "c1" : "UGraphicSvg"
  , "c2" : "UGraphicSvg(UGraphicSvg)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#58"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#91"
  , "c1" : "UGraphicSvg"
  , "c2" : "UGraphicSvg(HColor;boolean;XDimension2D;ColorMapper;boolean;double;String;String;long;String;StringBounder;LengthAdjust;boolean)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00072"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#72"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#105"
  , "c1" : "boolean"
  , "c2" : "manageHiddenAutomatically()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#77"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#110"
  , "c1" : "void"
  , "c2" : "beforeDraw()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00082"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#82"
+ , "c5" : "00115"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#115"
  , "c1" : "void"
  , "c2" : "afterDraw()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#86"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#119"
  , "c1" : "UGraphicSvg"
  , "c2" : "UGraphicSvg(HColor;XDimension2D;ColorMapper;SvgGraphics;boolean;String;StringBounder;boolean)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#95"
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#128"
  , "c1" : "void"
  , "c2" : "register()"
  , "c3" : "3"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#113"
+ , "c5" : "00146"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#146"
  , "c1" : "SvgGraphics"
  , "c2" : "getSvgGraphics()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00118"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#118"
+ , "c5" : "00151"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#151"
  , "c1" : "void"
  , "c2" : "writeToStream(OutputStream;String;int)"
  , "c3" : "3"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00139"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#139"
+ , "c5" : "00172"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#172"
  , "c1" : "void"
  , "c2" : "startGroup(Map<UGroupType,String>)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00144"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#144"
+ , "c5" : "00177"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#177"
  , "c1" : "void"
  , "c2" : "closeGroup()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00149"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#149"
+ , "c5" : "00182"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#182"
  , "c1" : "void"
  , "c2" : "startUrl(Url)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00154"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#154"
+ , "c5" : "00187"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#187"
  , "c1" : "void"
  , "c2" : "closeUrl()"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00159"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#159"
+ , "c5" : "00192"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#192"
  , "c1" : "void"
  , "c2" : "drawComment(UComment)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00164"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#164"
+ , "c5" : "00197"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#197"
  , "c1" : "boolean"
  , "c2" : "matchesProperty(String)"
  , "c3" : "2"
@@ -226,136 +226,136 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#42"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.dpiFactor@POLYN171551 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#50"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00050] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#58"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00058] The argument defaultBackground is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.manageHiddenAutomatically@POLYN173246 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.dpiFactor@POLYN171749 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.afterDraw@POLYN173510 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#118"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00118] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.writeToStream@POLYN175966 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#127"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.writeToStream@POLYN175966 the MagicNumber/String  'onmouseinteractivefooter.css' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.writeToStream@POLYN175966 the MagicNumber/String  'https://cdn.jsdelivr.net/npm/@svgdotjs/svg.js@3.0/dist/svg.min.js' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.writeToStream@POLYN175966 the MagicNumber/String  'onmouseinteractivefooter.js' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#139"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00139] For method startGroup arguments Map&lt;UGroupType ,String &gt;  typeIdents"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#149"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00149] For method startUrl arguments Url  url"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#149"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00149] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00083] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#159"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00159] For method drawComment arguments UComment  comment"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#159"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#91"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00159] The argument comment is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00091] The argument defaultBackground is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#164"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.manageHiddenAutomatically@POLYN173444 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#116"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.afterDraw@POLYN173708 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#151"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00164] For method matchesProperty arguments String  propertyName"
+ , "c3" : "QC-JAV000006[00151] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#164"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.writeToStream@POLYN176164 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.writeToStream@POLYN176164 the MagicNumber/String  'onmouseinteractivefooter.css' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#161"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.writeToStream@POLYN176164 the MagicNumber/String  'https://cdn.jsdelivr.net/npm/@svgdotjs/svg.js@3.0/dist/svg.min.js' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#162"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.writeToStream@POLYN176164 the MagicNumber/String  'onmouseinteractivefooter.js' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#172"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00172] For method startGroup arguments Map&lt;UGroupType ,String &gt;  typeIdents"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#182"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00182] For method startUrl arguments Url  url"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#182"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00164] The argument propertyName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00182] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#165"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.matchesProperty@POLYN177662 the MagicNumber/String  'SVG' should be converted to const"
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#192"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00192] For method drawComment arguments UComment  comment"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#166"
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#192"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00192] The argument comment is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#197"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00197] For method matchesProperty arguments String  propertyName"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#197"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00197] The argument propertyName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.matchesProperty@POLYN177662 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.matchesProperty@POLYN177860 the MagicNumber/String  'SVG' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#199"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.matchesProperty@POLYN177860 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphic.TextBlock" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlock.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlock.java.html#45"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlock.java.html#13"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlock.java.html#47"
  , "c1" : "MinMax"
  , "c2" : "getMinMax(StringBounder)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlock.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlock.java.html#49"
  , "c1" : "XRectangle2D"
  , "c2" : "getInnerPosition(String;StringBounder;InnerStrategy)"
  , "c3" : "1"

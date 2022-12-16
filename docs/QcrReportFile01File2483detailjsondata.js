@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.stdlib.SimpleReturnFunction" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#17"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#50"
  , "c1" : "TFunctionType"
  , "c2" : "getFunctionType()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#21"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#54"
  , "c1" : "void"
  , "c2" : "executeProcedure(TContext;TMemory;LineLocation;String)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#26"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#59"
  , "c1" : "void"
  , "c2" : "executeProcedureInternal(TContext;TMemory;List<TValue>;Map<String,TValue>)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#31"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#64"
  , "c1" : "boolean"
  , "c2" : "isUnquoted()"
  , "c3" : "1"
@@ -102,24 +102,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#21"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method executeProcedure arguments TContext  context|TMemory  memory|LineLocation  location|String  s"
+ , "c3" : "QC-JAV000006[00054] For method executeProcedure arguments TContext  context|TMemory  memory|LineLocation  location|String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#26"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method executeProcedureInternal arguments TContext  context|TMemory  memory|List&lt;TValue &gt;  args|Map&lt;String ,TValue &gt;  named"
+ , "c3" : "QC-JAV000006[00059] For method executeProcedureInternal arguments TContext  context|TMemory  memory|List&lt;TValue &gt;  args|Map&lt;String ,TValue &gt;  named"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#32"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.tim.stdlib.SimpleReturnFunction.isUnquoted@POLYN149641 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.tim.stdlib.SimpleReturnFunction.isUnquoted@POLYN149839 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.preproc.ReadLineList" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#49"
  , "c1" : "ReadLineList"
  , "c2" : "ReadLineList(List<String>;LineLocation)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#54"
  , "c1" : "void"
  , "c2" : "close()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#57"
  , "c1" : "StringLocated"
  , "c2" : "readLine()"
  , "c3" : "2"
@@ -107,38 +107,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#49"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument definition is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00049] The argument definition is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.preproc.ReadLineList.readLine@POLYN147729 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.preproc.ReadLineList.readLine@POLYN147933 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.preproc.ReadLineList.readLine@POLYN147729 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.preproc.ReadLineList.readLine@POLYN147933 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#54"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00020] Void method close is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00054] Void method close is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#54"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00020] Void method close is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00054] Void method close is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

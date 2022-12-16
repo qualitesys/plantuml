@@ -2,17 +2,17 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.LivingSpaces"
 class net.sourceforge.plantuml.sequencediagram.teoz.LivingSpaces {
-+values() : Collection<LivingSpace> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#23]]]
-+addConstraints(StringBounder) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#27]]]
-+previous(LivingSpace) : LivingSpace [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#39]]]
-+next(LivingSpace) : LivingSpace [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#50]]]
-+participants() : Collection<Participant> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#61]]]
-+put(Participant;LivingSpace) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#65]]]
-+get(Participant) : LivingSpace [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#69]]]
-+drawHeads(UGraphic;Context2D;VerticalAlignment) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#73]]]
-+getHeadHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#87]]]
-+drawLifeLines(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#96]]]
-+delayOn(double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#109]]]
-+size() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#115]]]
++values() : Collection<LivingSpace> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#57]]]
++addConstraints(StringBounder) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#61]]]
++previous(LivingSpace) : LivingSpace [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#73]]]
++next(LivingSpace) : LivingSpace [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#84]]]
++participants() : Collection<Participant> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#95]]]
++put(Participant;LivingSpace) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#99]]]
++get(Participant) : LivingSpace [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#103]]]
++drawHeads(UGraphic;Context2D;VerticalAlignment) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#107]]]
++getHeadHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#121]]]
++drawLifeLines(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#130]]]
++delayOn(double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#143]]]
++size() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpaces.java.html#149]]]
 } 
 @enduml

@@ -2,12 +2,12 @@
 !pragma layout smetana
 "UDrawable" <|-- "net.sourceforge.plantuml.project.GanttArrow"
 class net.sourceforge.plantuml.project.GanttArrow {
-+GanttArrow(HColorSet;Style;TimeScale;TaskInstant;TaskInstant;ToTaskDraw;StyleBuilder) : GanttArrow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttArrow.java.html#36]]]
--getSource() : TaskDraw [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttArrow.java.html#62]]]
--getDestination() : TaskDraw [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttArrow.java.html#70]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttArrow.java.html#77]]]
--drawLine(UGraphic;double...) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttArrow.java.html#127]]]
--getStyleSignatureTask() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttArrow.java.html#138]]]
--getX(TaskAttribute;TaskDraw;Direction) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttArrow.java.html#142]]]
++GanttArrow(HColorSet;Style;TimeScale;TaskInstant;TaskInstant;ToTaskDraw;StyleBuilder) : GanttArrow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttArrow.java.html#70]]]
+-getSource() : TaskDraw [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttArrow.java.html#96]]]
+-getDestination() : TaskDraw [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttArrow.java.html#104]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttArrow.java.html#111]]]
+-drawLine(UGraphic;double...) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttArrow.java.html#161]]]
+-getStyleSignatureTask() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttArrow.java.html#172]]]
+-getX(TaskAttribute;TaskDraw;Direction) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttArrow.java.html#176]]]
 } 
 @enduml

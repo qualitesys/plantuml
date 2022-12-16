@@ -2,9 +2,9 @@
 !pragma layout smetana
 "Hint" <|-- "jcckit.plot.PositionHint"
 class jcckit.plot.PositionHint {
-+PositionHint(ConfigParameters) : PositionHint [[[./../../../.././qc/src/jcckit/plot/PositionHint.java.html#16]]]
-+PositionHint(GraphPoint;GraphPoint) : PositionHint [[[./../../../.././qc/src/jcckit/plot/PositionHint.java.html#23]]]
-+getPosition() : GraphPoint [[[./../../../.././qc/src/jcckit/plot/PositionHint.java.html#29]]]
-+getOrigin() : GraphPoint [[[./../../../.././qc/src/jcckit/plot/PositionHint.java.html#34]]]
++PositionHint(ConfigParameters) : PositionHint [[[./../../../.././qc/src/jcckit/plot/PositionHint.java.html#50]]]
++PositionHint(GraphPoint;GraphPoint) : PositionHint [[[./../../../.././qc/src/jcckit/plot/PositionHint.java.html#61]]]
++getPosition() : GraphPoint [[[./../../../.././qc/src/jcckit/plot/PositionHint.java.html#67]]]
++getOrigin() : GraphPoint [[[./../../../.././qc/src/jcckit/plot/PositionHint.java.html#72]]]
 } 
 @enduml

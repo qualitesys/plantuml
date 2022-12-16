@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#55"
  , "c1" : "GtileSplit"
  , "c2" : "GtileSplit(List<Gtile>;Swimlane;HColor)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#61"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "getDefaultStyleDefinitionActivity()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#65"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "getDefaultStyleDefinitionDiamond()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#69"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "getDefaultStyleDefinitionArrow()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#74"
  , "c1" : "void"
  , "c2" : "drawUInternal(UGraphic)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#58"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#92"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -127,73 +127,73 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit.GtileSplit@POLYN156008 the MagicNumber/String  20 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit.GtileSplit@POLYN156212 the MagicNumber/String  20 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method drawUInternal arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00074] For method drawUInternal arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#74"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00040] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00074] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit.drawUInternal@POLYN157046 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit.drawUInternal@POLYN157250 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit.drawUInternal@POLYN157046 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit.drawUInternal@POLYN157250 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit.drawUInternal@POLYN157046 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit.drawUInternal@POLYN157250 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit.drawUInternal@POLYN157046 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit.drawUInternal@POLYN157250 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#58"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#92"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00092] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit.calculateDimension@POLYN158511 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit.calculateDimension@POLYN158715 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit.calculateDimension@POLYN158511 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit.calculateDimension@POLYN158715 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.sprite.SpriteColorBuilder4096"
 class net.sourceforge.plantuml.sprite.SpriteColorBuilder4096 {
-+buildSprite(List<String>) : Sprite [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder4096.java.html#14]]]
-+encodeColor(BufferedImage) : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder4096.java.html#29]]]
++buildSprite(List<String>) : Sprite [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder4096.java.html#48]]]
++encodeColor(BufferedImage) : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder4096.java.html#63]]]
 } 
 @enduml

@@ -2,7 +2,7 @@
 !pragma layout smetana
 "UShape" <|-- "net.sourceforge.plantuml.ugraphic.UShapeIgnorableForCompression"
 class net.sourceforge.plantuml.ugraphic.UShapeIgnorableForCompression {
-+isIgnoreForCompressionOn(CompressionMode) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UShapeIgnorableForCompression.java.html#8]]]
-+drawWhenCompressed(UGraphic;CompressionMode) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UShapeIgnorableForCompression.java.html#10]]]
++isIgnoreForCompressionOn(CompressionMode) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UShapeIgnorableForCompression.java.html#42]]]
++drawWhenCompressed(UGraphic;CompressionMode) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UShapeIgnorableForCompression.java.html#44]]]
 } 
 @enduml

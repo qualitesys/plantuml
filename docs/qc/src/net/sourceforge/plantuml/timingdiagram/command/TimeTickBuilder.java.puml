@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.timingdiagram.command.TimeTickBuilder"
 class net.sourceforge.plantuml.timingdiagram.command.TimeTickBuilder {
-+expressionAtWithoutArobase(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/TimeTickBuilder.java.html#18]]]
-+expressionAtWithArobase(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/TimeTickBuilder.java.html#27]]]
-+optionalExpressionAtWithArobase(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/TimeTickBuilder.java.html#33]]]
-+parseTimeTick(String;RegexResult;Clocks) : TimeTick [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/TimeTickBuilder.java.html#37]]]
++expressionAtWithoutArobase(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/TimeTickBuilder.java.html#51]]]
++expressionAtWithArobase(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/TimeTickBuilder.java.html#60]]]
++optionalExpressionAtWithArobase(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/TimeTickBuilder.java.html#66]]]
++parseTimeTick(String;RegexResult;Clocks) : TimeTick [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/TimeTickBuilder.java.html#70]]]
 } 
 @enduml

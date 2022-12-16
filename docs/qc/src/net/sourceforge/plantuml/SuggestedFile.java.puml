@@ -2,16 +2,16 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.SuggestedFile"
 class net.sourceforge.plantuml.SuggestedFile {
--SuggestedFile(SFile;FileFormat;int) : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#12]]]
-+withPreprocFormat() : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#21]]]
-+toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#26]]]
-+fromOutputFile(SFile;FileFormat) : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#30]]]
-+fromOutputFile(java.io.File;FileFormat) : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#34]]]
-+getParentFile() : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#38]]]
-+getName() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#42]]]
-+getFile(int) : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#46]]]
-+fromOutputFile(SFile;FileFormat;int) : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#51]]]
-+fromOutputFile(java.io.File;FileFormat;int) : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#55]]]
-+getTmpFile() : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#59]]]
+-SuggestedFile(SFile;FileFormat;int) : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#46]]]
++withPreprocFormat() : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#55]]]
++toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#60]]]
++fromOutputFile(SFile;FileFormat) : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#64]]]
++fromOutputFile(java.io.File;FileFormat) : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#68]]]
++getParentFile() : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#72]]]
++getName() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#76]]]
++getFile(int) : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#80]]]
++fromOutputFile(SFile;FileFormat;int) : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#85]]]
++fromOutputFile(java.io.File;FileFormat;int) : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#89]]]
++getTmpFile() : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SuggestedFile.java.html#93]]]
 } 
 @enduml

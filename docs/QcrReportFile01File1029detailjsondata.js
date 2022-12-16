@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#48"
  , "c1" : "AtomHorizontalTexts"
  , "c2" : "AtomHorizontalTexts(List<Atom>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#52"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#63"
  , "c1" : "double"
  , "c2" : "getStartingAltitude(StringBounder)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#70"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "2"
@@ -116,87 +116,87 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#52"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00052] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00022] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00056] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.calculateDimension@POLYN150993 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.calculateDimension@POLYN151197 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.calculateDimension@POLYN150993 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.calculateDimension@POLYN151197 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method getStartingAltitude arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00063] For method getStartingAltitude arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.getStartingAltitude@POLYN151660 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.getStartingAltitude@POLYN151864 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.getStartingAltitude@POLYN151660 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.getStartingAltitude@POLYN151864 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.getStartingAltitude@POLYN151660 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.getStartingAltitude@POLYN151864 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00070] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#70"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00070] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00039] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00073] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.drawU@POLYN151971 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.drawU@POLYN152175 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

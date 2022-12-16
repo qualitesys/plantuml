@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.svek.MinFinder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#13"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#47"
  , "c1" : "void"
  , "c2" : "manage(double;double)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#56"
  , "c1" : "void"
  , "c2" : "manage(XPoint2D)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#61"
  , "c1" : "void"
  , "c2" : "manage(MinFinder)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#66"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#70"
  , "c1" : "double"
  , "c2" : "getMinX()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#74"
  , "c1" : "double"
  , "c2" : "getMinY()"
  , "c3" : "1"
@@ -127,45 +127,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#13"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#47"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method manage arguments double  x|double  y"
+ , "c3" : "QC-JAV000006[00047] For method manage arguments double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method manage arguments XPoint2D  p"
+ , "c3" : "QC-JAV000006[00056] For method manage arguments XPoint2D  p"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method manage arguments MinFinder  other"
+ , "c3" : "QC-JAV000006[00061] For method manage arguments MinFinder  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#61"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00027] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00061] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.svek.MinFinder.toString@POLYN149262 the MagicNumber/String  'minX=' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.svek.MinFinder.toString@POLYN149466 the MagicNumber/String  'minX=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.svek.MinFinder.toString@POLYN149262 the MagicNumber/String  ' minY=' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.svek.MinFinder.toString@POLYN149466 the MagicNumber/String  ' minY=' should be converted to const"
 }} 
 ]
 , 

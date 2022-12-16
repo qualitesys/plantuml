@@ -2,14 +2,14 @@
 !pragma layout smetana
 "AbstractAtomAtom" <|-- "net.sourceforge.plantuml.creole.atom.AtomImg"
 class net.sourceforge.plantuml.creole.atom.AtomImg {
--AtomImg(BufferedImage;double;Url;String) : AtomImg [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#43]]]
-+createQrcode(String;double) : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#50]]]
-+create(String;ImgValign;int;double;Url) : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#61]]]
--buildRasterFromData(String;FontConfiguration;byte[];double;Url) : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#125]]]
--buildRasterFromUrl(String;FontConfiguration;SURL;double;Url) : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#134]]]
--buildSvgFromUrl(String;FontConfiguration;SURL;double;Url) : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#146]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#160]]]
-+getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#164]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#168]]]
+-AtomImg(BufferedImage;double;Url;String) : AtomImg [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#77]]]
++createQrcode(String;double) : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#84]]]
++create(String;ImgValign;int;double;Url) : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#95]]]
+-buildRasterFromData(String;FontConfiguration;byte[];double;Url) : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#159]]]
+-buildRasterFromUrl(String;FontConfiguration;SURL;double;Url) : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#168]]]
+-buildSvgFromUrl(String;FontConfiguration;SURL;double;Url) : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#180]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#194]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#198]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#202]]]
 } 
 @enduml

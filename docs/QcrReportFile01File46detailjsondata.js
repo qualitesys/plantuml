@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.aclib.gui.MOEnum" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#11"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#25"
  , "c1" : "void"
  , "c2" : "addValidValue(Object)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#15"
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#29"
  , "c1" : "void"
  , "c2" : "set(Object)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#24"
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#38"
  , "c1" : "Object"
  , "c2" : "get()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#28"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#42"
  , "c1" : "boolean"
  , "c2" : "is(Object)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#34"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#48"
  , "c1" : "int"
  , "c2" : "hashCode()"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#42"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#56"
  , "c1" : "void"
  , "c2" : "checkValue(Object)"
  , "c3" : "2"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#48"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#62"
  , "c1" : "boolean"
  , "c2" : "equals(Object)"
  , "c3" : "4"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#65"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#79"
  , "c1" : "HashSet"
  , "c2" : "getValidValues()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#69"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#83"
  , "c1" : "boolean"
  , "c2" : "checkRange()"
  , "c3" : "1"
@@ -154,115 +154,115 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#11"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#25"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00011] For method addValidValue arguments Object  pValue"
+ , "c3" : "QC-JAV000006[00025] For method addValidValue arguments Object  pValue"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#15"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#29"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method set arguments Object  pValue"
+ , "c3" : "QC-JAV000006[00029] For method set arguments Object  pValue"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#16"
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.set@POLYN144091 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#28"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method is arguments Object  pObject"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.hashCode@POLYN144693 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.hashCode@POLYN144693 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00030] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.set@POLYN144175 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#42"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method checkValue arguments Object  pValue"
+ , "c3" : "QC-JAV000006[00042] For method is arguments Object  pObject"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#44"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.checkValue@POLYN144902 the MagicNumber/String  'Illegal enum value '' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.hashCode@POLYN144777 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#44"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.checkValue@POLYN144902 the MagicNumber/String  ''' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.hashCode@POLYN144777 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#48"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method equals arguments Object  obj"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#48"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00048] The argument obj is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.equals@POLYN145192 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.equals@POLYN145192 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000006[00056] For method checkValue arguments Object  pValue"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.equals@POLYN145192 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.checkValue@POLYN144986 the MagicNumber/String  'Illegal enum value '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#59"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.equals@POLYN145192 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.checkValue@POLYN144986 the MagicNumber/String  ''' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#70"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#62"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00062] For method equals arguments Object  obj"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#62"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00062] The argument obj is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.checkRange@POLYN145938 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.equals@POLYN145276 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#66"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00066] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.equals@POLYN145276 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#72"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.equals@POLYN145276 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#73"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.equals@POLYN145276 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOEnum.java.html#84"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00084] In method ext.plantuml.com.ctreber.aclib.gui.MOEnum.checkRange@POLYN146022 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.code.TranscoderSmartProtected" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#50"
  , "c1" : "String"
  , "c2" : "decode(String)"
  , "c3" : "4"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#67"
  , "c1" : "String"
  , "c2" : "decodeZlib(String)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#75"
  , "c1" : "String"
  , "c2" : "decodeHuffman(String)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#49"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#83"
  , "c1" : "String"
  , "c2" : "textProtectedHuffman(String)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#105"
  , "c1" : "String"
  , "c2" : "textProtectedDeflate2(String)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00100"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#100"
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#134"
  , "c1" : "void"
  , "c2" : "appendURL(StringBuilder;String)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#110"
+ , "c5" : "00144"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#144"
  , "c1" : "void"
  , "c2" : "appendLine(StringBuilder;String)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00115"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#115"
+ , "c5" : "00149"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#149"
  , "c1" : "String"
  , "c2" : "encode(String)"
  , "c3" : "1"
@@ -145,430 +145,430 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method decode arguments String  code"
+ , "c3" : "QC-JAV000006[00050] For method decode arguments String  code"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#50"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00016] The argument code is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.decode@POLYN161545 the MagicNumber/String  '~0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.decode@POLYN161545 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.decode@POLYN161545 the MagicNumber/String  '~1' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.decode@POLYN161545 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.decode@POLYN161545 the MagicNumber/String  '~h' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.decode@POLYN161545 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#33"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method decodeZlib arguments String  code"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#41"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method decodeHuffman arguments String  code"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#49"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method textProtectedHuffman arguments String  code"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN162856 the MagicNumber/String  '@startuml' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN162856 the MagicNumber/String  'legend' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN162856 the MagicNumber/String  'The plugin you are using seems to generated a bad URL.' should be converted to const"
+ , "c3" : "QC-JAVCWE476[00050] The argument code is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN162856 the MagicNumber/String  'This URL does not look like HUFFMAN data.' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.decode@POLYN161749 the MagicNumber/String  '~0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN162856 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN162856 the MagicNumber/String  'See https://plantuml.com/pte' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.decode@POLYN161749 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN162856 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.decode@POLYN161749 the MagicNumber/String  '~1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN162856 the MagicNumber/String  'You may contact the PlantUML team at plantuml@gmail.com' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.decode@POLYN161749 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN162856 the MagicNumber/String  'But you should also probably contact the plugin authors you are currently using and send them this image' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.decode@POLYN161749 the MagicNumber/String  '~h' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN162856 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.decode@POLYN161749 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN162856 the MagicNumber/String  'For the record, here is your data:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN162856 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN162856 the MagicNumber/String  'endlegend' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN162856 the MagicNumber/String  '@enduml' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#71"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method textProtectedDeflate2 arguments String  code"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#71"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00071] The argument code is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  30 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  30 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  '...' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  '@startuml' should be converted to const"
+ , "c3" : "QC-JAV000006[00067] For method decodeZlib arguments String  code"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  'legend' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  'The plugin you are using seems to generated a bad URL.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  'This URL does not look like DEFLATE data.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  'It looks like your plugin is using HUFFMAN encoding.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  'This means you have now to add an header ~1 to your data. For example, you have to change:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  'http://www.plantuml.com/plantuml/png/' should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00075] For method decodeHuffman arguments String  code"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  'to' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  'http://www.plantuml.com/plantuml/png/~1' should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00083] For method textProtectedHuffman arguments String  code"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN163060 the MagicNumber/String  '@startuml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  'It will work this way' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN163060 the MagicNumber/String  'legend' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  'You may contact the PlantUML team at plantuml@gmail.com' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN163060 the MagicNumber/String  'The plugin you are using seems to generated a bad URL.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#88"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN163060 the MagicNumber/String  'This URL does not look like HUFFMAN data.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  'But you should also probably contact the plugin authors you are currently using and send them this image' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN163060 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN163060 the MagicNumber/String  'See https://plantuml.com/pte' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  'For the record, here is your data:' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN163060 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN163060 the MagicNumber/String  'You may contact the PlantUML team at plantuml@gmail.com' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  'endlegend' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN163060 the MagicNumber/String  'But you should also probably contact the plugin authors you are currently using and send them this image' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164366 the MagicNumber/String  '@enduml' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN163060 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#96"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN163060 the MagicNumber/String  'For the record, here is your data:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN163060 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#99"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN163060 the MagicNumber/String  'endlegend' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#100"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00100] For method appendURL arguments StringBuilder  result|String  url"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#100"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00100] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.appendURL@POLYN166584 the MagicNumber/String  80 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.appendURL@POLYN166584 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.appendURL@POLYN166584 the MagicNumber/String  80 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.appendURL@POLYN166584 the MagicNumber/String  80 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedHuffman@POLYN163060 the MagicNumber/String  '@enduml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.appendURL@POLYN166584 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#110"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method appendLine arguments StringBuilder  sb|String  s"
+ , "c3" : "QC-JAV000006[00105] For method textProtectedDeflate2 arguments String  code"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#105"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00105] The argument code is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  30 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  30 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  '...' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#108"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  '@startuml' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#109"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  'legend' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#110"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00110] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  'The plugin you are using seems to generated a bad URL.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#111"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  'This URL does not look like DEFLATE data.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.appendLine@POLYN167194 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  'It looks like your plugin is using HUFFMAN encoding.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#113"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#115"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  'This means you have now to add an header ~1 to your data. For example, you have to change:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#116"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  'http://www.plantuml.com/plantuml/png/' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  'to' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  'http://www.plantuml.com/plantuml/png/~1' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#120"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  'It will work this way' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#121"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  'You may contact the PlantUML team at plantuml@gmail.com' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  'But you should also probably contact the plugin authors you are currently using and send them this image' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#124"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  'For the record, here is your data:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#126"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  'endlegend' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#129"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.textProtectedDeflate2@POLYN164570 the MagicNumber/String  '@enduml' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#134"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00115] For method encode arguments String  text"
+ , "c3" : "QC-JAV000006[00134] For method appendURL arguments StringBuilder  result|String  url"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#134"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00134] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.appendURL@POLYN166788 the MagicNumber/String  80 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#136"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.appendURL@POLYN166788 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#136"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.appendURL@POLYN166788 the MagicNumber/String  80 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#137"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.appendURL@POLYN166788 the MagicNumber/String  80 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#139"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.appendURL@POLYN166788 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#144"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00144] For method appendLine arguments StringBuilder  sb|String  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#144"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00144] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#146"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.code.TranscoderSmartProtected.appendLine@POLYN167398 the MagicNumber/String  '\n' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderSmartProtected.java.html#149"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00149] For method encode arguments String  text"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.svek.DecorateEntityImage" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#62"
  , "c1" : "TextBlock"
  , "c2" : "addTop(TextBlock;TextBlock;HorizontalAlignment)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#66"
  , "c1" : "TextBlock"
  , "c2" : "addBottom(TextBlock;TextBlock;HorizontalAlignment)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#70"
  , "c1" : "TextBlock"
  , "c2" : "add(TextBlock;TextBlock;HorizontalAlignment;VerticalAlignment)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#78"
  , "c1" : "TextBlock"
  , "c2" : "addTopAndBottom(TextBlock;TextBlock;HorizontalAlignment;TextBlock;HorizontalAlignment)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#49"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#83"
  , "c1" : "DecorateEntityImage"
  , "c2" : "DecorateEntityImage(TextBlock;TextBlock;HorizontalAlignment;TextBlock;HorizontalAlignment)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#58"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#92"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#83"
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#117"
  , "c1" : "XDimension2D"
  , "c2" : "getTextDim(TextBlock;StringBounder)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#90"
+ , "c5" : "00124"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#124"
  , "c1" : "double"
  , "c2" : "getTextX(XDimension2D;XDimension2D;HorizontalAlignment)"
  , "c3" : "7"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00102"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#102"
+ , "c5" : "00136"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#136"
  , "c1" : "HColor"
  , "c2" : "getBackcolor()"
  , "c3" : "2"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#109"
+ , "c5" : "00143"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#143"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00118"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#118"
+ , "c5" : "00152"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#152"
  , "c1" : "MinMax"
  , "c2" : "getMinMax(StringBounder)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00122"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#122"
+ , "c5" : "00156"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#156"
  , "c1" : "double"
  , "c2" : "getDeltaX()"
  , "c3" : "2"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00129"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#129"
+ , "c5" : "00163"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#163"
  , "c1" : "double"
  , "c2" : "getDeltaY()"
  , "c3" : "2"
@@ -190,171 +190,171 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method addTop arguments TextBlock  original|TextBlock  text|HorizontalAlignment  horizontal"
+ , "c3" : "QC-JAV000006[00062] For method addTop arguments TextBlock  original|TextBlock  text|HorizontalAlignment  horizontal"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.svek.DecorateEntityImage.addTop@POLYN166392 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.svek.DecorateEntityImage.addTop@POLYN166596 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.svek.DecorateEntityImage.addTop@POLYN166392 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.svek.DecorateEntityImage.addTop@POLYN166596 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method addBottom arguments TextBlock  original|TextBlock  text|HorizontalAlignment  horizontal"
+ , "c3" : "QC-JAV000006[00066] For method addBottom arguments TextBlock  original|TextBlock  text|HorizontalAlignment  horizontal"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.svek.DecorateEntityImage.addBottom@POLYN166685 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.svek.DecorateEntityImage.addBottom@POLYN166889 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.svek.DecorateEntityImage.addBottom@POLYN166685 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#36"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method add arguments TextBlock  original|TextBlock  text|HorizontalAlignment  horizontal|VerticalAlignment  verticalAlignment"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#44"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method addTopAndBottom arguments TextBlock  original|TextBlock  text1|HorizontalAlignment  horizontal1|TextBlock  text2|HorizontalAlignment  horizontal2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#58"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#58"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00058] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.svek.DecorateEntityImage.drawU@POLYN168258 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.svek.DecorateEntityImage.addBottom@POLYN166889 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.svek.DecorateEntityImage.drawU@POLYN168258 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.svek.DecorateEntityImage.drawU@POLYN168258 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#83"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method getTextDim arguments TextBlock  text|StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00070] For method add arguments TextBlock  original|TextBlock  text|HorizontalAlignment  horizontal|VerticalAlignment  verticalAlignment"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.svek.DecorateEntityImage.getTextDim@POLYN170194 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.svek.DecorateEntityImage.getTextDim@POLYN170194 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.svek.DecorateEntityImage.getTextDim@POLYN170194 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#90"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00090] For method getTextX arguments XDimension2D  dimText|XDimension2D  dimTotal|HorizontalAlignment  h"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#90"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00090] The argument dimText is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#90"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00090] The argument dimTotal is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000006[00078] For method addTopAndBottom arguments TextBlock  original|TextBlock  text1|HorizontalAlignment  horizontal1|TextBlock  text2|HorizontalAlignment  horizontal2"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.svek.DecorateEntityImage.getTextX@POLYN170521 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.svek.DecorateEntityImage.getTextX@POLYN170521 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#109"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00109] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00092] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#92"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00092] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#102"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.svek.DecorateEntityImage.drawU@POLYN168462 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#104"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.svek.DecorateEntityImage.drawU@POLYN168462 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#111"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.svek.DecorateEntityImage.drawU@POLYN168462 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#117"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00117] For method getTextDim arguments TextBlock  text|StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.svek.DecorateEntityImage.getTextDim@POLYN170398 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.svek.DecorateEntityImage.getTextDim@POLYN170398 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.svek.DecorateEntityImage.getTextDim@POLYN170398 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#124"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00118] For method getMinMax arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00124] For method getTextX arguments XDimension2D  dimText|XDimension2D  dimTotal|HorizontalAlignment  h"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#124"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00124] The argument dimText is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#124"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00124] The argument dimTotal is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#126"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.svek.DecorateEntityImage.getTextX@POLYN170725 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.svek.DecorateEntityImage.getTextX@POLYN170725 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#143"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00143] For method calculateDimension arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#152"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00152] For method getMinMax arguments StringBounder  stringBounder"
 }} 
 ]
 , 

@@ -2,12 +2,12 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.cgraph.refstr__c"
 class gen.lib.cgraph.refstr__c {
--refdict(ST_Agraph_s) : ST_dt_s [[[./../../../../.././qc/src/gen/lib/cgraph/refstr__c.java.html#27]]]
--refsymbind(ST_dt_s;CString) : ST_refstr_t [[[./../../../../.././qc/src/gen/lib/cgraph/refstr__c.java.html#67]]]
--refstrbind(ST_dt_s;CString) : CString [[[./../../../../.././qc/src/gen/lib/cgraph/refstr__c.java.html#86]]]
-+agstrbind(ST_Agraph_s;CString) : CString [[[./../../../../.././qc/src/gen/lib/cgraph/refstr__c.java.html#104]]]
-+agstrdup(ST_Agraph_s;CString) : CString [[[./../../../../.././qc/src/gen/lib/cgraph/refstr__c.java.html#118]]]
-+agstrfree(ST_Agraph_s;CString) : int [[[./../../../../.././qc/src/gen/lib/cgraph/refstr__c.java.html#152]]]
-+aghtmlstr(CString) : int [[[./../../../../.././qc/src/gen/lib/cgraph/refstr__c.java.html#180]]]
+-refdict(ST_Agraph_s) : ST_dt_s [[[./../../../../.././qc/src/gen/lib/cgraph/refstr__c.java.html#71]]]
+-refsymbind(ST_dt_s;CString) : ST_refstr_t [[[./../../../../.././qc/src/gen/lib/cgraph/refstr__c.java.html#111]]]
+-refstrbind(ST_dt_s;CString) : CString [[[./../../../../.././qc/src/gen/lib/cgraph/refstr__c.java.html#130]]]
++agstrbind(ST_Agraph_s;CString) : CString [[[./../../../../.././qc/src/gen/lib/cgraph/refstr__c.java.html#148]]]
++agstrdup(ST_Agraph_s;CString) : CString [[[./../../../../.././qc/src/gen/lib/cgraph/refstr__c.java.html#162]]]
++agstrfree(ST_Agraph_s;CString) : int [[[./../../../../.././qc/src/gen/lib/cgraph/refstr__c.java.html#196]]]
++aghtmlstr(CString) : int [[[./../../../../.././qc/src/gen/lib/cgraph/refstr__c.java.html#227]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.PlainStringsDiagram" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/PlainStringsDiagram.java.html#21"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/PlainStringsDiagram.java.html#54"
  , "c1" : "PlainStringsDiagram"
  , "c2" : "PlainStringsDiagram(UmlSource)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/PlainStringsDiagram.java.html#26"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/PlainStringsDiagram.java.html#59"
  , "c1" : "UDrawable"
  , "c2" : "getRootDrawable(FileFormatOption)"
  , "c3" : "1"
@@ -77,10 +77,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PlainStringsDiagram.java.html#26"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PlainStringsDiagram.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method getRootDrawable arguments FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00059] For method getRootDrawable arguments FileFormatOption  fileFormatOption"
 }} 
 ]
 , 

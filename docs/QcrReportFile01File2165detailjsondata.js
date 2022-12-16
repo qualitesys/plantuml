@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.style.CssVariables" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#50"
  , "c1" : "void"
  , "c2" : "learn(String)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#56"
  , "c1" : "String"
  , "c2" : "value(String)"
  , "c3" : "4"
@@ -84,52 +84,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method learn arguments String  s"
+ , "c3" : "QC-JAV000006[00050] For method learn arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.style.CssVariables.learn@POLYN149522 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.style.CssVariables.learn@POLYN149726 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.style.CssVariables.learn@POLYN149522 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.style.CssVariables.learn@POLYN149726 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method value arguments String  v"
+ , "c3" : "QC-JAV000006[00056] For method value arguments String  v"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.style.CssVariables.value@POLYN149921 the MagicNumber/String  'var(' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.style.CssVariables.value@POLYN150125 the MagicNumber/String  'var(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.style.CssVariables.value@POLYN149921 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.style.CssVariables.value@POLYN150125 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CssVariables.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.style.CssVariables.value@POLYN149921 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.style.CssVariables.value@POLYN150125 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

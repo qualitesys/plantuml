@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.TextBlockArrow2"
 class net.sourceforge.plantuml.graphic.TextBlockArrow2 {
-+TextBlockArrow2(GuideLine;FontConfiguration) : TextBlockArrow2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockArrow2.java.html#20]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockArrow2.java.html#27]]]
--getPoint(double;double) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockArrow2.java.html#44]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockArrow2.java.html#50]]]
++TextBlockArrow2(GuideLine;FontConfiguration) : TextBlockArrow2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockArrow2.java.html#54]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockArrow2.java.html#61]]]
+-getPoint(double;double) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockArrow2.java.html#78]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockArrow2.java.html#84]]]
 } 
 @enduml

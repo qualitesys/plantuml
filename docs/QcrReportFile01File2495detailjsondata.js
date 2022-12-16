@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.timingdiagram.Player" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#33"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#66"
  , "c1" : "Player"
  , "c2" : "Player(String;ISkinParam;TimingRuler;boolean;Stereotype)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#41"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#74"
  , "c1" : "boolean"
  , "c2" : "isCompact()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#45"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#78"
  , "c1" : "StyleSignature"
  , "c2" : "getStyleSignature()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#47"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#80"
  , "c1" : "Style"
  , "c2" : "getStyle()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#51"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#84"
  , "c1" : "FontConfiguration"
  , "c2" : "getFontConfiguration()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#56"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#89"
  , "c1" : "UStroke"
  , "c2" : "getStroke()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#61"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#94"
  , "c1" : "SymbolContext"
  , "c2" : "getContext()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#70"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#103"
  , "c1" : "TextBlock"
  , "c2" : "getTitle()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#74"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#107"
  , "c1" : "void"
  , "c2" : "addNote(TimeTick;Display;Position)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#76"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#109"
  , "c1" : "void"
  , "c2" : "defineState(String;String)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#78"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#111"
  , "c1" : "void"
  , "c2" : "setState(TimeTick;String;Colors;String...)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00080"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#80"
+ , "c5" : "00113"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#113"
  , "c1" : "void"
  , "c2" : "createConstraint(TimeTick;TimeTick;String;ArrowConfiguration)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00082"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#82"
+ , "c5" : "00115"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#115"
  , "c1" : "TextBlock"
  , "c2" : "getPart1(double;double)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#84"
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#117"
  , "c1" : "UDrawable"
  , "c2" : "getPart2()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#86"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#119"
  , "c1" : "double"
  , "c2" : "getFullHeight(StringBounder)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#88"
+ , "c5" : "00121"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#121"
  , "c1" : "void"
  , "c2" : "setHeight(int)"
  , "c3" : "1"
@@ -203,52 +203,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#74"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#107"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00074] For method addNote arguments TimeTick  now|Display  note|Position  position"
+ , "c3" : "QC-JAV000006[00107] For method addNote arguments TimeTick  now|Display  note|Position  position"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#76"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#109"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method defineState arguments String  stateCode|String  label"
+ , "c3" : "QC-JAV000006[00109] For method defineState arguments String  stateCode|String  label"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#78"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#111"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method setState arguments TimeTick  now|String  comment|Colors  color|String  ...states"
+ , "c3" : "QC-JAV000006[00111] For method setState arguments TimeTick  now|String  comment|Colors  color|String  ...states"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#80"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#113"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method createConstraint arguments TimeTick  tick1|TimeTick  tick2|String  message|ArrowConfiguration  config"
+ , "c3" : "QC-JAV000006[00113] For method createConstraint arguments TimeTick  tick1|TimeTick  tick2|String  message|ArrowConfiguration  config"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#82"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#115"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method getPart1 arguments double  fullAvailableWidth|double  specialVSpace"
+ , "c3" : "QC-JAV000006[00115] For method getPart1 arguments double  fullAvailableWidth|double  specialVSpace"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#86"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#119"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00086] For method getFullHeight arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00119] For method getFullHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#88"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Player.java.html#121"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method setHeight arguments int  height"
+ , "c3" : "QC-JAV000006[00121] For method setHeight arguments int  height"
 }} 
 ]
 , 

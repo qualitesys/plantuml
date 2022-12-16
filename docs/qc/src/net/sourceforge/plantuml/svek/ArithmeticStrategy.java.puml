@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.svek.ArithmeticStrategy"
 class net.sourceforge.plantuml.svek.ArithmeticStrategy {
-eat(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategy.java.html#6]]]
-getResult() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategy.java.html#8]]]
+eat(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategy.java.html#40]]]
+getResult() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategy.java.html#42]]]
 } 
 @enduml

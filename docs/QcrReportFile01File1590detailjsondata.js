@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.posimo.GraphvizSolverB" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#54"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#88"
  , "c1" : "XDimension2D"
  , "c2" : "solve(Cluster;Collection<Path>)"
  , "c3" : "10"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00146"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#146"
+ , "c5" : "00180"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#180"
  , "c1" : "List<XPoint2D>"
  , "c2" : "extractPointsList(String;int;YDelta)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00150"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#150"
+ , "c5" : "00184"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#184"
  , "c1" : "double"
  , "c2" : "getMaxX(List<XPoint2D>)"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00160"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#160"
+ , "c5" : "00194"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#194"
  , "c1" : "double"
  , "c2" : "getMinX(List<XPoint2D>)"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00170"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#170"
+ , "c5" : "00204"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#204"
  , "c1" : "double"
  , "c2" : "getMaxY(List<XPoint2D>)"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00180"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#180"
+ , "c5" : "00214"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#214"
  , "c1" : "double"
  , "c2" : "getMinY(List<XPoint2D>)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00190"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#190"
+ , "c5" : "00224"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#224"
  , "c1" : "void"
  , "c2" : "exportPng(String;SFile)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00200"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#200"
+ , "c5" : "00234"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#234"
  , "c1" : "Path"
  , "c2" : "getPath(Collection<Path>;int;int)"
  , "c3" : "3"
@@ -152,437 +152,437 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#54"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#88"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00054] For method solve arguments Cluster  root|Collection&lt;Path &gt;  paths"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#54"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00054] The argument root is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00092] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00097] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00104] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#109"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00109] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00120] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00121] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#122"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00122] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00129] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00130] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00136] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  'nodesep=0.2;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  'ranksep=0.2;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  'svg' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  'Timeout2 ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  '(?m)\\&amp;lt;svg\\s+width=\'(\\d+)pt\'\\s+height=\'(\\d+)pt\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000006[00088] For method solve arguments Cluster  root|Collection&lt;Path &gt;  paths"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  2 should be converted to const"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00088] The argument root is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#92"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  'b' should be converted to const"
+ , "c3" : "QC-JAV000001[00126] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#93"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  '&amp;lt;title&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000001[00131] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#93"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  '&amp;lt;/title&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000001[00138] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#94"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00143] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#104"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  'cluster' should be converted to const"
+ , "c3" : "QC-JAV000001[00154] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#105"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  '&amp;lt;title&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000001[00155] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#105"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  '&amp;lt;/title&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000001[00156] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00163] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00164] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#170"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00170] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  'nodesep=0.2;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  'ranksep=0.2;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#101"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#101"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  'svg' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  'Timeout2 ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#120"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  'b' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '(?m)\\&amp;lt;svg\\s+width=\'(\\d+)pt\'\\s+height=\'(\\d+)pt\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  'b' should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  '&amp;lt;title&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#122"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  '&amp;#45;&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#122"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  '&amp;lt;/title&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  'b' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  ' d=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '&amp;lt;title&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#127"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '&amp;lt;/title&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#128"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  ' d=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  'cluster' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#129"
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  ' d=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '&amp;lt;title&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#135"
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178651 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '&amp;lt;/title&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#146"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00146] For method extractPointsList arguments String  svg|int  starting|YDelta  yDelta"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#150"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00150] For method getMaxX arguments List&lt;XPoint2D &gt;  points"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#150"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00150] The argument points is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#151"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMaxX@POLYN185509 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#152"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMaxX@POLYN185509 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  'b' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#160"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00160] For method getMinX arguments List&lt;XPoint2D &gt;  points"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#155"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  'b' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#160"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00160] The argument points is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '&amp;lt;title&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '&amp;#45;&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '&amp;lt;/title&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#158"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMinX@POLYN186165 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  ' d=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMinX@POLYN186165 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#170"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00170] For method getMaxY arguments List&lt;XPoint2D &gt;  points"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#170"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00170] The argument points is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00171"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#171"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMaxY@POLYN186821 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  ' d=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#172"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMaxY@POLYN186821 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  ' d=\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#169"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#180"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00180] For method getMinY arguments List&lt;XPoint2D &gt;  points"
+ , "c3" : "QC-JAV000006[00180] For method extractPointsList arguments String  svg|int  starting|YDelta  yDelta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00180"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#180"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00180] The argument points is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#181"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMinY@POLYN187477 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00182"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#182"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMinY@POLYN187477 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#190"
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#184"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00190] For method exportPng arguments String  dotString|SFile  f"
+ , "c3" : "QC-JAV000006[00184] For method getMaxX arguments List&lt;XPoint2D &gt;  points"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00191"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#191"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.exportPng@POLYN188120 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#184"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00184] The argument points is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00191"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#191"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.exportPng@POLYN188120 the MagicNumber/String  'png' should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMaxX@POLYN185713 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#186"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMaxX@POLYN185713 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#194"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00194] For method getMinX arguments List&lt;XPoint2D &gt;  points"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#194"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00194] The argument points is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.exportPng@POLYN188120 the MagicNumber/String  'Timeout3 ' should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMinX@POLYN186369 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00200"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#200"
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#196"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMinX@POLYN186369 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#204"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00200] For method getPath arguments Collection&lt;Path &gt;  paths|int  start|int  end"
+ , "c3" : "QC-JAV000006[00204] For method getMaxY arguments List&lt;XPoint2D &gt;  points"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#204"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00204] The argument points is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#205"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMaxY@POLYN187025 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00206"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#206"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMaxY@POLYN187025 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00214"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#214"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00214] For method getMinY arguments List&lt;XPoint2D &gt;  points"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00214"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#214"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00214] The argument points is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#215"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMinY@POLYN187681 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#216"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMinY@POLYN187681 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#224"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00224] For method exportPng arguments String  dotString|SFile  f"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00225"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#225"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.exportPng@POLYN188324 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00225"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#225"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.exportPng@POLYN188324 the MagicNumber/String  'png' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#229"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.exportPng@POLYN188324 the MagicNumber/String  'Timeout3 ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#234"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00234] For method getPath arguments Collection&lt;Path &gt;  paths|int  start|int  end"
 }} 
 ]
 , 

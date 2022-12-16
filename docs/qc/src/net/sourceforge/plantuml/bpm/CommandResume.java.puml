@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<BpmDiagram>" <|-- "net.sourceforge.plantuml.bpm.CommandResume"
 class net.sourceforge.plantuml.bpm.CommandResume {
-+CommandResume() : CommandResume [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CommandResume.java.html#14]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CommandResume.java.html#18]]]
-executeArg(BpmDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CommandResume.java.html#27]]]
++CommandResume() : CommandResume [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CommandResume.java.html#48]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CommandResume.java.html#52]]]
+executeArg(BpmDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CommandResume.java.html#61]]]
 } 
 @enduml

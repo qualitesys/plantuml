@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphic.RemoveStyle" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.html#42"
  , "c1" : "RemoveStyle"
  , "c2" : "RemoveStyle(FontStyle)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.html#46"
  , "c1" : "FontConfiguration"
  , "c2" : "apply(FontConfiguration)"
  , "c3" : "1"
@@ -84,17 +84,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method apply arguments FontConfiguration  initial"
+ , "c3" : "QC-JAV000006[00046] For method apply arguments FontConfiguration  initial"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.html#46"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument initial is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00046] The argument initial is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

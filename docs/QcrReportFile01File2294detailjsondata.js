@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryTriangle" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryTriangle.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryTriangle.java.html#50"
  , "c1" : "ExtremityFactoryTriangle"
  , "c2" : "ExtremityFactoryTriangle(HColor;int;int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryTriangle.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryTriangle.java.html#57"
  , "c1" : "UDrawable"
  , "c2" : "createUDrawable(XPoint2D;double;Side)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryTriangle.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryTriangle.java.html#62"
  , "c1" : "UDrawable"
  , "c2" : "createUDrawable(XPoint2D;XPoint2D;XPoint2D;Side)"
  , "c3" : "1"
@@ -93,38 +93,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryTriangle.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryTriangle.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method createUDrawable arguments XPoint2D  p0|double  angle|Side  side"
+ , "c3" : "QC-JAV000006[00057] For method createUDrawable arguments XPoint2D  p0|double  angle|Side  side"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryTriangle.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryTriangle.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryTriangle.createUDrawable@POLYN149871 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryTriangle.createUDrawable@POLYN150075 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryTriangle.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryTriangle.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryTriangle.createUDrawable@POLYN149871 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryTriangle.createUDrawable@POLYN150075 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryTriangle.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryTriangle.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method createUDrawable arguments XPoint2D  p0|XPoint2D  p1|XPoint2D  p2|Side  side"
+ , "c3" : "QC-JAV000006[00062] For method createUDrawable arguments XPoint2D  p0|XPoint2D  p1|XPoint2D  p2|Side  side"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryTriangle.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryTriangle.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryTriangle.createUDrawable@POLYN150247 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryTriangle.createUDrawable@POLYN150451 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

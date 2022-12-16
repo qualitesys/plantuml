@@ -2,19 +2,19 @@
 !pragma layout smetana
 "GroupingEventWithDeactivate" <|-- "net.sourceforge.plantuml.sequencediagram.GroupingLeaf"
 class net.sourceforge.plantuml.sequencediagram.GroupingLeaf {
-+GroupingLeaf(String;String;GroupingType;HColor;HColor;GroupingStart;StyleBuilder) : GroupingLeaf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#17]]]
-+getJustAfter() : Grouping [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#25]]]
-+getGroupingStart() : GroupingStart [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#36]]]
-+getLevel() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#41]]]
-+getBackColorGeneral() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#46]]]
-+dealWith(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#53]]]
-+getUrl() : Url [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#57]]]
-+hasUrl() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#61]]]
-+isParallel() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#66]]]
-+setPosYendLevel(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#72]]]
-+getPosYendLevel() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#76]]]
-+addLifeEvent(LifeEvent) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#80]]]
-+setNote(Note) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#86]]]
-+getNoteOnMessages() : List<Note> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#93]]]
++GroupingLeaf(String;String;GroupingType;HColor;HColor;GroupingStart;StyleBuilder) : GroupingLeaf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#51]]]
++getJustAfter() : Grouping [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#59]]]
++getGroupingStart() : GroupingStart [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#70]]]
++getLevel() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#75]]]
++getBackColorGeneral() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#80]]]
++dealWith(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#87]]]
++getUrl() : Url [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#91]]]
++hasUrl() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#95]]]
++isParallel() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#100]]]
++setPosYendLevel(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#106]]]
++getPosYendLevel() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#110]]]
++addLifeEvent(LifeEvent) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#114]]]
++setNote(Note) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#120]]]
++getNoteOnMessages() : List<Note> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingLeaf.java.html#127]]]
 } 
 @enduml

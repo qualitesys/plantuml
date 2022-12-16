@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.golem.Tile"
 class net.sourceforge.plantuml.golem.Tile {
-Tile(int) : Tile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Tile.java.html#32]]]
-+getArea(TileGeometry) : TileArea [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Tile.java.html#41]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Tile.java.html#45]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Tile.java.html#60]]]
+Tile(int) : Tile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Tile.java.html#66]]]
++getArea(TileGeometry) : TileArea [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Tile.java.html#75]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Tile.java.html#79]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Tile.java.html#94]]]
 } 
 @enduml

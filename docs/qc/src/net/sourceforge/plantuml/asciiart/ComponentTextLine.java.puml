@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractComponentText" <|-- "net.sourceforge.plantuml.asciiart.ComponentTextLine"
 class net.sourceforge.plantuml.asciiart.ComponentTextLine {
-+ComponentTextLine(ComponentType;FileFormat) : ComponentTextLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextLine.java.html#18]]]
-+drawU(UGraphic;Area;Context2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextLine.java.html#29]]]
-+getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextLine.java.html#42]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextLine.java.html#46]]]
++ComponentTextLine(ComponentType;FileFormat) : ComponentTextLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextLine.java.html#52]]]
++drawU(UGraphic;Area;Context2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextLine.java.html#63]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextLine.java.html#76]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextLine.java.html#80]]]
 } 
 @enduml

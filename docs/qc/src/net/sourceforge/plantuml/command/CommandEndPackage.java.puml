@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<AbstractEntityDiagram>" <|-- "net.sourceforge.plantuml.command.CommandEndPackage"
 class net.sourceforge.plantuml.command.CommandEndPackage {
-+CommandEndPackage() : CommandEndPackage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandEndPackage.java.html#15]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandEndPackage.java.html#19]]]
-executeArg(AbstractEntityDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandEndPackage.java.html#26]]]
++CommandEndPackage() : CommandEndPackage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandEndPackage.java.html#49]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandEndPackage.java.html#53]]]
+executeArg(AbstractEntityDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandEndPackage.java.html#60]]]
 } 
 @enduml

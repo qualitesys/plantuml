@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.UHorizontalLine" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#52"
  , "c1" : "UHorizontalLine"
  , "c2" : "UHorizontalLine(double;double;double;TextBlock;boolean;char)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#62"
  , "c1" : "UHorizontalLine"
  , "c2" : "infinite(double;double;double;char)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#66"
  , "c1" : "UHorizontalLine"
  , "c2" : "infinite(double;double;double;TextBlock;char)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#71"
  , "c1" : "boolean"
  , "c2" : "isDouble()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#45"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#79"
  , "c1" : "void"
  , "c2" : "drawLineInternal(UGraphic;Stencil;double;UStroke)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#61"
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#95"
  , "c1" : "Stencil"
  , "c2" : "addSkip(Stencil)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#73"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#107"
  , "c1" : "Stencil"
  , "c2" : "firstHalf(Stencil;double)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#88"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#122"
  , "c1" : "Stencil"
  , "c2" : "secondHalf(Stencil;double)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00103"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#103"
+ , "c5" : "00137"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#137"
  , "c1" : "void"
  , "c2" : "drawHLine(Stencil;double;UGraphic)"
  , "c3" : "2"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#110"
+ , "c5" : "00144"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#144"
  , "c1" : "void"
  , "c2" : "drawSimpleHline(UGraphic;Stencil;double)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00116"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#116"
+ , "c5" : "00150"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#150"
  , "c1" : "void"
  , "c2" : "drawTitleInternal(UGraphic;double;double;double;boolean)"
  , "c3" : "3"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#132"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#166"
  , "c1" : "void"
  , "c2" : "drawMe(UGraphic)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00136"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#136"
+ , "c5" : "00170"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#170"
  , "c1" : "UStroke"
  , "c2" : "getStroke()"
  , "c3" : "9"
@@ -190,290 +190,290 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method infinite arguments double  defaultThickness|double  skipAtStart|double  skipAtEnd|char  style"
+ , "c3" : "QC-JAV000006[00062] For method infinite arguments double  defaultThickness|double  skipAtStart|double  skipAtEnd|char  style"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.infinite@POLYN170177 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.infinite@POLYN170381 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.infinite@POLYN170177 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.infinite@POLYN170381 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method infinite arguments double  defaultThickness|double  skipAtStart|double  skipAtEnd|TextBlock  title|char  style"
+ , "c3" : "QC-JAV000006[00066] For method infinite arguments double  defaultThickness|double  skipAtStart|double  skipAtEnd|TextBlock  title|char  style"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.infinite@POLYN170517 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.infinite@POLYN170721 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.isDouble@POLYN170875 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.isDouble@POLYN171079 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#79"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method drawLineInternal arguments UGraphic  ug|Stencil  stencil|double  y|UStroke  defaultStroke"
+ , "c3" : "QC-JAV000006[00079] For method drawLineInternal arguments UGraphic  ug|Stencil  stencil|double  y|UStroke  defaultStroke"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#79"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00045] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00079] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#79"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00045] The argument stencil is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00079] The argument stencil is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#47"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawLineInternal@POLYN170977 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawLineInternal@POLYN171181 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawLineInternal@POLYN170977 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawLineInternal@POLYN171181 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#57"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawLineInternal@POLYN170977 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawLineInternal@POLYN171181 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#95"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method addSkip arguments Stencil  stencil"
+ , "c3" : "QC-JAV000006[00095] For method addSkip arguments Stencil  stencil"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#95"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00061] The argument stencil is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00095] The argument stencil is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#73"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#107"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method firstHalf arguments Stencil  stencil|double  widthTitle"
+ , "c3" : "QC-JAV000006[00107] For method firstHalf arguments Stencil  stencil|double  widthTitle"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#73"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#107"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00073] The argument stencil is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.firstHalf@POLYN173138 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#88"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method secondHalf arguments Stencil  stencil|double  widthTitle"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#88"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00088] The argument stencil is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.secondHalf@POLYN174052 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#103"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00103] For method drawHLine arguments Stencil  stencil|double  y|UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawHLine@POLYN174953 the MagicNumber/String  '=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#106"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawHLine@POLYN174953 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#110"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method drawSimpleHline arguments UGraphic  ug|Stencil  stencil|double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#110"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00110] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#110"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00110] The argument stencil is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00107] The argument stencil is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#116"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00116] For method drawTitleInternal arguments UGraphic  ug|double  startingX|double  endingX|double  y|boolean  clearArea"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#116"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00116] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawTitleInternal@POLYN175996 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.firstHalf@POLYN173342 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#122"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawTitleInternal@POLYN175996 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawTitleInternal@POLYN175996 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawTitleInternal@POLYN175996 the MagicNumber/String  0.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#132"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00132] For method drawMe arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00122] For method secondHalf arguments Stencil  stencil|double  widthTitle"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#132"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#122"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00132] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00122] The argument stencil is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#127"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.secondHalf@POLYN174256 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN177428 the MagicNumber/String  '\0' should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00137] For method drawHLine arguments Stencil  stencil|double  y|UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN177428 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawHLine@POLYN175157 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#141"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN177428 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawHLine@POLYN175157 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN177428 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#144"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00144] For method drawSimpleHline arguments UGraphic  ug|Stencil  stencil|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN177428 the MagicNumber/String  2 should be converted to const"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#144"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00144] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN177428 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#144"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00144] The argument stencil is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#143"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#150"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00150] For method drawTitleInternal arguments UGraphic  ug|double  startingX|double  endingX|double  y|boolean  clearArea"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#150"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00150] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN177428 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawTitleInternal@POLYN176200 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawTitleInternal@POLYN176200 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#158"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawTitleInternal@POLYN176200 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#158"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawTitleInternal@POLYN176200 the MagicNumber/String  0.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#166"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00166] For method drawMe arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#166"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00166] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN177632 the MagicNumber/String  '\0' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#173"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN177632 the MagicNumber/String  '=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN177632 the MagicNumber/String  '.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN177632 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN177632 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN177632 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN177632 the MagicNumber/String  '-' should be converted to const"
 }} 
 ]
 , 

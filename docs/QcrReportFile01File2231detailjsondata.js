@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.svek.InnerActivity" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#53"
  , "c1" : "InnerActivity"
  , "c2" : "InnerActivity(IEntityImage;HColor;HColor;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#62"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#39"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#73"
  , "c1" : "HColor"
  , "c2" : "getBackcolor()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#43"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#77"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#82"
  , "c1" : "ShapeType"
  , "c2" : "getShapeType()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#86"
  , "c1" : "Margins"
  , "c2" : "getShield(StringBounder)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#56"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#90"
  , "c1" : "boolean"
  , "c2" : "isHidden()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#60"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#94"
  , "c1" : "double"
  , "c2" : "getOverscanX(StringBounder)"
  , "c3" : "1"
@@ -145,45 +145,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00062] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#62"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00062] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00077] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#52"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#86"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method getShield arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00086] For method getShield arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#94"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method getOverscanX arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00094] For method getOverscanX arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.svek.InnerActivity.getOverscanX@POLYN155563 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.svek.InnerActivity.getOverscanX@POLYN155767 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

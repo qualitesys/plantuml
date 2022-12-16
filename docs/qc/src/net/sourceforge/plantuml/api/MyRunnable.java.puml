@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.api.MyRunnable"
 class net.sourceforge.plantuml.api.MyRunnable {
-+runJob() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MyRunnable.java.html#6]]]
-+cancelJob() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MyRunnable.java.html#8]]]
++runJob() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MyRunnable.java.html#40]]]
++cancelJob() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MyRunnable.java.html#42]]]
 } 
 @enduml

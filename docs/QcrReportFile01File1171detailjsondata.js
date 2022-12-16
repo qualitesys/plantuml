@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.dedication.TurningBytes" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#9"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#43"
  , "c1" : "TurningBytes"
  , "c2" : "TurningBytes(byte[])"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#13"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#47"
  , "c1" : "byte"
  , "c2" : "nextByte()"
  , "c3" : "3"
@@ -77,24 +77,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.dedication.TurningBytes.nextByte@POLYN146378 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.dedication.TurningBytes.nextByte@POLYN146582 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.dedication.TurningBytes.nextByte@POLYN146378 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.dedication.TurningBytes.nextByte@POLYN146582 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.dedication.TurningBytes.nextByte@POLYN146378 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.dedication.TurningBytes.nextByte@POLYN146582 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

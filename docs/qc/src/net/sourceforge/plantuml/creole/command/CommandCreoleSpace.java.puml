@@ -2,10 +2,10 @@
 !pragma layout smetana
 "Command" <|-- "net.sourceforge.plantuml.creole.command.CommandCreoleSpace"
 class net.sourceforge.plantuml.creole.command.CommandCreoleSpace {
-+startingChars() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#12]]]
--CommandCreoleSpace() : CommandCreoleSpace [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#18]]]
-+create() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#21]]]
-+matchingSize(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#25]]]
-+executeAndGetRemaining(String;StripeSimple) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#33]]]
++startingChars() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#46]]]
+-CommandCreoleSpace() : CommandCreoleSpace [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#52]]]
++create() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#55]]]
++matchingSize(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#59]]]
++executeAndGetRemaining(String;StripeSimple) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSpace.java.html#67]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithMargin" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#55"
  , "c1" : "GtileWithMargin"
  , "c2" : "GtileWithMargin(AbstractGtileRoot;double;double;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#64"
  , "c1" : "Set<Swimlane>"
  , "c2" : "getSwimlanes()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#69"
  , "c1" : "Swimlane"
  , "c2" : "getSwimlane(String)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#74"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#45"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#79"
  , "c1" : "UTranslate"
  , "c2" : "getTranslate()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#50"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#84"
  , "c1" : "void"
  , "c2" : "drawUInternal(UGraphic)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#89"
  , "c1" : "UTranslate"
  , "c2" : "getCoordImpl(String)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#60"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#94"
  , "c1" : "Collection<GConnection>"
  , "c2" : "getInnerConnections()"
  , "c3" : "1"
@@ -138,45 +138,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#21"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00021] The argument orig is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#35"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method getSwimlane arguments String  point"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#40"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method calculateDimension arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#50"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method drawUInternal arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#50"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00050] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#55"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00055] The argument orig is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method getCoordImpl arguments String  name"
+ , "c3" : "QC-JAV000006[00069] For method getSwimlane arguments String  point"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#74"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00074] For method calculateDimension arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#84"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00084] For method drawUInternal arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#84"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00084] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#89"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00089] For method getCoordImpl arguments String  name"
 }} 
 ]
 , 

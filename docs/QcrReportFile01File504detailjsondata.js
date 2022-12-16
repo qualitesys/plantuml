@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#48"
  , "c1" : "LinkRendering"
  , "c2" : "create(Rainbow)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#52"
  , "c1" : "LinkRendering"
  , "c2" : "none()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#56"
  , "c1" : "LinkRendering"
  , "c2" : "LinkRendering(Rainbow;Display)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#61"
  , "c1" : "LinkRendering"
  , "c2" : "withRainbow(Rainbow)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#65"
  , "c1" : "LinkRendering"
  , "c2" : "withDisplay(Display)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#69"
  , "c1" : "Display"
  , "c2" : "getDisplay()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#39"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#73"
  , "c1" : "Rainbow"
  , "c2" : "getRainbow()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#43"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#77"
  , "c1" : "Rainbow"
  , "c2" : "getRainbow(Rainbow)"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#50"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#84"
  , "c1" : "boolean"
  , "c2" : "isNone()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#89"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -163,66 +163,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method create arguments Rainbow  rainbow"
+ , "c3" : "QC-JAV000006[00048] For method create arguments Rainbow  rainbow"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method withRainbow arguments Rainbow  rainbow"
+ , "c3" : "QC-JAV000006[00061] For method withRainbow arguments Rainbow  rainbow"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method withDisplay arguments Display  display"
+ , "c3" : "QC-JAV000006[00065] For method withDisplay arguments Display  display"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method getRainbow arguments Rainbow  defaultColor"
+ , "c3" : "QC-JAV000006[00077] For method getRainbow arguments Rainbow  defaultColor"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.activitydiagram3.LinkRendering.getRainbow@POLYN151465 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.activitydiagram3.LinkRendering.getRainbow@POLYN151669 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.activitydiagram3.LinkRendering.isNone@POLYN151702 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.activitydiagram3.LinkRendering.isNone@POLYN151906 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#56"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.LinkRendering.toString@POLYN151907 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.activitydiagram3.LinkRendering.toString@POLYN152111 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#56"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.LinkRendering.toString@POLYN151907 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.activitydiagram3.LinkRendering.toString@POLYN152111 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#52"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00018] Public method none is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00052] Public method none is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

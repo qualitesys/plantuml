@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.ShadowManager"
 class net.sourceforge.plantuml.ugraphic.ShadowManager {
-+ShadowManager(int;int) : ShadowManager [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ShadowManager.java.html#13]]]
-+getShadowDeltaPoints(double;double;double[]) : double[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ShadowManager.java.html#18]]]
-+getColor(double;double) : Color [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ShadowManager.java.html#41]]]
++ShadowManager(int;int) : ShadowManager [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ShadowManager.java.html#47]]]
++getShadowDeltaPoints(double;double;double[]) : double[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ShadowManager.java.html#52]]]
++getColor(double;double) : Color [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ShadowManager.java.html#75]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "gen.lib.cdt.dttree__c" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/gen/lib/cdt/dttree__c.java.html#66"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/gen/lib/cdt/dttree__c.java.html#110"
  , "c1" : "Object"
  , "c2" : "dttree(ST_dt_s;__ptr__;int)"
  , "c3" : "98"
@@ -178,185 +178,185 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#58"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00058] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#58"
- , "c2" : "MINOR"
- , "c3" : "QC-JAVCWE500[00058] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#66"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method dttree arguments ST_dt_s  dt|__ptr__  obj|int  type"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#66"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00066] The argument dt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00094] Assigning instead of comparing on t=root._left (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAVCWE493[00102] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00102] Assigning instead of comparing on root=t (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAVCWE500[00102] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00110] Assigning instead of comparing on t=root.right (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00110] For method dttree arguments ST_dt_s  dt|__ptr__  obj|int  type"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#116"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00116] Assigning instead of comparing on t=root._left (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#110"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00110] The argument dt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#165"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00165] Assigning instead of comparing on minp=dt.data.minp (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAVCWE481[00138] Assigning instead of comparing on t=root._left (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00212"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#212"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00212] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAVCWE481[00146] Assigning instead of comparing on root=t (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00217"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#217"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00217] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAVCWE481[00154] Assigning instead of comparing on t=root.right (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#244"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00244] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAVCWE481[00160] Assigning instead of comparing on t=root._left (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#213"
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00213] Assigning instead of comparing on cmp=_DTCMP(dt,key,k,disc,cmpf,sz) (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAVCWE481[00209] Assigning instead of comparing on minp=dt.data.minp (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00216"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#216"
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#256"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00216] Assigning instead of comparing on t=root._left (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAV000001[00256] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00218"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#218"
+ , "c1" : "00261"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#261"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00218] Assigning instead of comparing on cmp=_DTCMP(dt,key,k,disc,cmpf,sz) (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAV000001[00261] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00221"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#221"
+ , "c1" : "00288"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#288"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00221] Assigning instead of comparing on root=t._left (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAV000001[00288] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00232"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#232"
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00232] Assigning instead of comparing on root=t.right (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAVCWE481[00257] Assigning instead of comparing on cmp=_DTCMP(dt,key,k,disc,cmpf,sz) (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00243"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#243"
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#260"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00243] Assigning instead of comparing on t=root.right (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAVCWE481[00260] Assigning instead of comparing on t=root._left (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00245"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#245"
+ , "c1" : "00262"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#262"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00245] Assigning instead of comparing on cmp=_DTCMP(dt,key,k,disc,cmpf,sz) (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAVCWE481[00262] Assigning instead of comparing on cmp=_DTCMP(dt,key,k,disc,cmpf,sz) (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00248"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#248"
+ , "c1" : "00265"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#265"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00248] Assigning instead of comparing on root=t.right (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAVCWE481[00265] Assigning instead of comparing on root=t._left (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00259"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#259"
+ , "c1" : "00276"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#276"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00259] Assigning instead of comparing on root=t._left (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00286"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#286"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00286] Assigning instead of comparing on root=link._left (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAVCWE481[00276] Assigning instead of comparing on root=t.right (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00287"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#287"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00287] Assigning instead of comparing on t=root._left (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAVCWE481[00287] Assigning instead of comparing on t=root.right (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00315"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#315"
+ , "c1" : "00289"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#289"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00315] Assigning instead of comparing on dt.data.size-=1 (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAVCWE481[00289] Assigning instead of comparing on cmp=_DTCMP(dt,key,k,disc,cmpf,sz) (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00292"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#292"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00519] Assigning instead of comparing on root=link._left (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAVCWE481[00292] Assigning instead of comparing on root=t.right (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00303"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#303"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00519] Assigning instead of comparing on t=root._left (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAVCWE481[00303] Assigning instead of comparing on root=t._left (see http://cwe.mitre.org/data/definitions/481.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00330"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#330"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE481[00330] Assigning instead of comparing on root=link._left (see http://cwe.mitre.org/data/definitions/481.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00331"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#331"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE481[00331] Assigning instead of comparing on t=root._left (see http://cwe.mitre.org/data/definitions/481.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00359"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#359"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE481[00359] Assigning instead of comparing on dt.data.size-=1 (see http://cwe.mitre.org/data/definitions/481.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE481[00563] Assigning instead of comparing on root=link._left (see http://cwe.mitre.org/data/definitions/481.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE481[00563] Assigning instead of comparing on t=root._left (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -367,731 +367,731 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#67"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  'abqfzg1d1vkzk51225tcdlik5' should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  'abqfzg1d1vkzk51225tcdlik5' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#67"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  'dttree' should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  'dttree' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#71"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#73"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#88"
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#90"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#92"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#92"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#94"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#97"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#100"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#106"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#109"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#116"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#147"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#149"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00149] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#158"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#158"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#165"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#165"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#206"
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  'do_search1' should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#211"
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00211] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#213"
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00215"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#215"
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00216"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#216"
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00218"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#218"
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00224"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#224"
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00238"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#238"
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00243"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#243"
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00243] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00250] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  'do_search1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00245"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#245"
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#255"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00255] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00251"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#251"
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00251] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00265"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#265"
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#259"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00265] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00259] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00271"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#271"
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#260"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00271] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00260] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00277"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#277"
+ , "c1" : "00262"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#262"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00262] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00281"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#281"
+ , "c1" : "00268"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#268"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00281] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00268] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#283"
+ , "c1" : "00282"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#282"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00283] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00286"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#286"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00282] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00287"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#287"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00287] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00287] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00296"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#296"
+ , "c1" : "00289"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#289"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00296] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00289] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00310"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#310"
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#295"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00295] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00318"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#318"
+ , "c1" : "00309"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#309"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00318] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00309] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00318"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#318"
+ , "c1" : "00315"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#315"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00318] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00315] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00422"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#422"
+ , "c1" : "00321"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#321"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00422] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  '//zzzzdt-&amp;gt;data-&amp;gt;size = -1;' should be converted to const"
+ , "c3" : "QC-JAV000010[00321] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00325"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#325"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00325] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00327"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#327"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00327] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00330"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#330"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00330] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00331"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#331"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00331] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00340"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#340"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00340] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00354"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#354"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00354] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00362"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#362"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00362] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00362"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#362"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00362] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00466"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#466"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00466] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  '//zzzzdt-&amp;gt;data-&amp;gt;size = -1;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  '(*disc-&amp;gt;freef)(dt,obj,disc);' should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  'goto no_root' should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  '(*disc-&amp;gt;freef)(dt,obj,disc);' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  'goto dt_prev' should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  'goto no_root' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  'goto dt_prev' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  '(*disc-&amp;gt;freef)(dt,obj,disc);' should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  'goto no_root' should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  'goto has_root' should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  'goto no_root' should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  '(*disc-&amp;gt;freef)(dt,obj,disc);' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00519] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  'goto no_root' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  'goto has_root' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  'goto no_root' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00563] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  'abqfzg1d1vkzk51225tcdlik5' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  'abqfzg1d1vkzk51225tcdlik5' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String  'dttree' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String  'dttree' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1112,21 +1112,21 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c._DTCMP@POLYN238975 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c._DTCMP@POLYN239239 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c._DTCMP@POLYN238975 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c._DTCMP@POLYN239239 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c._DTCMP@POLYN238975 the MagicNumber/String  'memcmp(key,k,sz))' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c._DTCMP@POLYN239239 the MagicNumber/String  'memcmp(key,k,sz))' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1154,7 +1154,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c._DTOBJ@POLYN239686 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c._DTOBJ@POLYN239950 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1189,798 +1189,798 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c.UNFLATTEN@POLYN240234 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c.UNFLATTEN@POLYN240498 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c.UNFLATTEN@POLYN240234 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method gen.lib.cdt.dttree__c.UNFLATTEN@POLYN240498 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dttree__c._DTOBJ@POLYN239686"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dttree__c._DTOBJ@POLYN239950"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dttree__c.dttree@POLYN219434"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dttree__c.dttree@POLYN219698"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dttree__c._DTLNK@POLYN238591"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dttree__c._DTLNK@POLYN238855"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dttree__c._DTCMP@POLYN238975"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dttree__c._DTCMP@POLYN239239"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c._DTOBJ@POLYN239686 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c._DTOBJ@POLYN239950 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 'abqfzg1d1vkzk51225tcdlik5' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 'abqfzg1d1vkzk51225tcdlik5' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 'dttree' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 'dttree' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#67"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#111"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00067] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 'abqfzg1d1vkzk51225tcdlik5' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00111] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 'abqfzg1d1vkzk51225tcdlik5' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#67"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#111"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00067] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 'dttree' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00111] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 'dttree' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#71"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#115"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00071] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00115] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#73"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#117"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00073] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00117] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#88"
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#132"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00088] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00132] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#90"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#134"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00090] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00134] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#92"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#136"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00092] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00136] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#92"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#136"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00092] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00136] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#94"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#138"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00094] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00138] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#97"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#141"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00097] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00141] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#100"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#144"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00100] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#101"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00101] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#102"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00102] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#104"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00104] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#105"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00105] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#106"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00106] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#109"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00109] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#110"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00110] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#116"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00116] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#129"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00129] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00144] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#145"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00145] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00145] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#146"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00146] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00146] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#147"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#148"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00147] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00148] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#149"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00149] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#150"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00150] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00150] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#158"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#153"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00158] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String false MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00153] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#158"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#154"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00158] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00154] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#165"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#160"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00165] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00160] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#165"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#173"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00165] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00173] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#206"
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#189"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00206] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 'do_search1' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00189] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#211"
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#190"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00211] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String true MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00190] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#213"
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#191"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00213] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00191] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00215"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#215"
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#194"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00215] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00194] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00216"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#216"
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#202"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00216] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00202] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String false MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00218"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#218"
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#202"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00218] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00202] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00224"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#224"
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#209"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00224] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00209] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00238"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#238"
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#209"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00238] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00209] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00243"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#243"
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#250"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00243] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00250] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 'do_search1' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00245"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#245"
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#255"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00245] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00255] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String true MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00251"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#251"
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#257"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00251] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00257] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00265"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#265"
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#259"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00265] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00259] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00271"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#271"
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#260"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00271] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00260] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00277"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#277"
+ , "c1" : "00262"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#262"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00277] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00262] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00281"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#281"
+ , "c1" : "00268"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#268"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00281] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00268] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#283"
+ , "c1" : "00282"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#282"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00283] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00286"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#286"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00286] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00282] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00287"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#287"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00287] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00287] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00296"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#296"
+ , "c1" : "00289"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#289"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00296] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00289] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00310"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#310"
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#295"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00310] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00295] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00318"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#318"
+ , "c1" : "00309"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#309"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00318] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00309] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00318"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#318"
+ , "c1" : "00315"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#315"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00318] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00315] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00422"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#422"
+ , "c1" : "00321"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#321"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00422] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String '//zzzzdt-&amp;gt;data-&amp;gt;size = -1;' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00321] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00325"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#325"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String '-*disc-&amp;gt;freef--dt,obj,disc-;' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00325] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00327"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#327"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String '-*disc-&amp;gt;freef--dt,obj,disc-;' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00327] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00330"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#330"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 'goto dt_prev' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00330] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00331"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#331"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 'goto has_root' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00331] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00340"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#340"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 'goto no_root' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00340] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00354"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#354"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 'goto no_root' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00354] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00362"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#362"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 'goto no_root' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00362] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00362"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#362"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00362] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00466"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#466"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00466] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String '//zzzzdt-&amp;gt;data-&amp;gt;size = -1;' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String '-*disc-&amp;gt;freef--dt,obj,disc-;' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String '-*disc-&amp;gt;freef--dt,obj,disc-;' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 'goto dt_prev' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 'goto has_root' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 'goto no_root' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 'goto no_root' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 'goto no_root' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#519"
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00519] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219434 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#563"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00563] In the recursive method gen.lib.cdt.dttree__c.dttree@POLYN219698 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c._DTCMP@POLYN238975 the MagicNumber/String 'memcmp-key,k,sz--' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c._DTCMP@POLYN239239 the MagicNumber/String 'memcmp-key,k,sz--' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c._DTCMP@POLYN238975 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c._DTCMP@POLYN239239 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c._DTCMP@POLYN238975 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cdt.dttree__c._DTCMP@POLYN239239 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ]
 , 

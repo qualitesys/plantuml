@@ -2,16 +2,16 @@
 !pragma layout smetana
 "IteratorCounter2" <|-- "net.sourceforge.plantuml.version.IteratorCounter2Impl"
 class net.sourceforge.plantuml.version.IteratorCounter2Impl {
-+copyStateFrom(IteratorCounter2) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#16]]]
-+IteratorCounter2Impl(List<StringLocated>) : IteratorCounter2Impl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#23]]]
--IteratorCounter2Impl(List<StringLocated>;int;List<StringLocated>) : IteratorCounter2Impl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#27]]]
-+cloneMe() : IteratorCounter2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#33]]]
-+currentNum() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#37]]]
-+hasNext() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#41]]]
-+next() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#45]]]
-+peek() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#52]]]
-+peekPrevious() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#56]]]
-+remove() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#63]]]
-+getTrace() : List<StringLocated> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#67]]]
++copyStateFrom(IteratorCounter2) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#49]]]
++IteratorCounter2Impl(List<StringLocated>) : IteratorCounter2Impl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#56]]]
+-IteratorCounter2Impl(List<StringLocated>;int;List<StringLocated>) : IteratorCounter2Impl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#60]]]
++cloneMe() : IteratorCounter2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#66]]]
++currentNum() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#70]]]
++hasNext() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#74]]]
++next() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#78]]]
++peek() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#85]]]
++peekPrevious() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#89]]]
++remove() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#96]]]
++getTrace() : List<StringLocated> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#100]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.draw.TaskDrawRegular" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#86"
  , "c1" : "TaskDrawRegular"
  , "c2" : "TaskDrawRegular(TimeScale;Real;String;Day;Day;boolean;boolean;ISkinParam;Task;ToTaskDraw;Collection<GanttConstraint>;StyleBuilder)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#105"
  , "c1" : "double"
  , "c2" : "getShapeHeight(StringBounder)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#78"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#112"
  , "c1" : "void"
  , "c2" : "drawTitle(UGraphic;LabelStrategy;double;double)"
  , "c3" : "8"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00111"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#111"
+ , "c5" : "00145"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#145"
  , "c1" : "TextBlock"
  , "c2" : "getTitle()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00116"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#116"
+ , "c5" : "00150"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#150"
  , "c1" : "double"
  , "c2" : "getOutPosition(double)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00123"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#123"
+ , "c5" : "00157"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#157"
  , "c1" : "boolean"
  , "c2" : "isThereRightArrow()"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#132"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#166"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "getStyleSignature()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00136"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#136"
+ , "c5" : "00170"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#170"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00144"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#144"
+ , "c5" : "00178"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#178"
  , "c1" : "double"
  , "c2" : "getYNotePosition(StringBounder)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00150"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#150"
+ , "c5" : "00184"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#184"
  , "c1" : "void"
  , "c2" : "drawNote(UGraphic)"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00159"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#159"
+ , "c5" : "00193"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#193"
  , "c1" : "double"
  , "c2" : "getHeightMax(StringBounder)"
  , "c3" : "2"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00166"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#166"
+ , "c5" : "00200"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#200"
  , "c1" : "Opale"
  , "c2" : "getOpaleNote()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00184"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#184"
+ , "c5" : "00218"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#218"
  , "c1" : "FingerPrint"
  , "c2" : "getFingerPrint(StringBounder)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00191"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#191"
+ , "c5" : "00225"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#225"
  , "c1" : "FingerPrint"
  , "c2" : "getFingerPrintNote(StringBounder)"
  , "c3" : "2"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00202"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#202"
+ , "c5" : "00236"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#236"
  , "c1" : "UGraphic"
  , "c2" : "applyColors(UGraphic)"
  , "c3" : "2"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00210"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#210"
+ , "c5" : "00244"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#244"
  , "c1" : "double"
  , "c2" : "getX1(TaskAttribute)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00218"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#218"
+ , "c5" : "00252"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#252"
  , "c1" : "double"
  , "c2" : "getX2(TaskAttribute)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00226"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#226"
+ , "c5" : "00260"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#260"
  , "c1" : "void"
  , "c2" : "drawShape(UGraphic)"
  , "c3" : "4"
@@ -242,248 +242,248 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#63"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00063] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00097] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#62"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.TaskDrawRegular@POLYN197099 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.TaskDrawRegular@POLYN197303 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#64"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.TaskDrawRegular@POLYN197099 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.TaskDrawRegular@POLYN197303 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#71"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#105"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method getShapeHeight arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00105] For method getShapeHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#78"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#112"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method drawTitle arguments UGraphic  ug|LabelStrategy  labelStrategy|double  colTitles|double  colBars"
+ , "c3" : "QC-JAV000006[00112] For method drawTitle arguments UGraphic  ug|LabelStrategy  labelStrategy|double  colTitles|double  colBars"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#78"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#112"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00078] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00112] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#78"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#112"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00078] The argument labelStrategy is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00112] The argument labelStrategy is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#100"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawTitle@POLYN199148 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawTitle@POLYN199352 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#101"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawTitle@POLYN199148 the MagicNumber/String  6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#116"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00116] For method getOutPosition arguments double  pos2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getOutPosition@POLYN201767 the MagicNumber/String  18 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getOutPosition@POLYN201767 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#126"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.isThereRightArrow@POLYN202002 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.isThereRightArrow@POLYN202002 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#136"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00136] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#136"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00136] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#144"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00144] For method getYNotePosition arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawTitle@POLYN199352 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#150"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00150] For method drawNote arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00150] For method getOutPosition arguments double  pos2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#151"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawNote@POLYN203413 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getOutPosition@POLYN201971 the MagicNumber/String  18 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#159"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00159] For method getHeightMax arguments StringBounder  stringBounder"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#154"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getOutPosition@POLYN201971 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getHeightMax@POLYN203653 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.isThereRightArrow@POLYN202206 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#181"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getOpaleNote@POLYN204007 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.isThereRightArrow@POLYN202206 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#170"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00170] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#170"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00170] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#178"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00178] For method getYNotePosition arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#184"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00184] For method getFingerPrint arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00184] For method drawNote arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00191"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#191"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00191] For method getFingerPrintNote arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#192"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getFingerPrintNote@POLYN206255 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawNote@POLYN203617 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getFingerPrintNote@POLYN206255 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#202"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00202] For method applyColors arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00193] For method getHeightMax arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#202"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00202] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00204"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#204"
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.applyColors@POLYN206914 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getHeightMax@POLYN203857 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00210"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#210"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00210] For method getX1 arguments TaskAttribute  taskAttribute"
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#215"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getOpaleNote@POLYN204211 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00218"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#218"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00218] For method getX2 arguments TaskAttribute  taskAttribute"
+ , "c3" : "QC-JAV000006[00218] For method getFingerPrint arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#226"
+ , "c1" : "00225"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#225"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00226] For method drawShape arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00225] For method getFingerPrintNote arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#226"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getFingerPrintNote@POLYN206459 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#227"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getFingerPrintNote@POLYN206459 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#236"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00236] For method applyColors arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#236"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00226] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00236] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#233"
+ , "c1" : "00238"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawShape@POLYN208516 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.applyColors@POLYN207118 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00257"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#257"
+ , "c1" : "00244"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#244"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00244] For method getX1 arguments TaskAttribute  taskAttribute"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00252"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#252"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00252] For method getX2 arguments TaskAttribute  taskAttribute"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#260"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00260] For method drawShape arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#260"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00260] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00267"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#267"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawShape@POLYN208516 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawShape@POLYN208720 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00291"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#291"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawShape@POLYN208720 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

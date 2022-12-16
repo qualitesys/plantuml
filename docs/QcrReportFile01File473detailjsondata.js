@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#51"
  , "c1" : "CommandEndPartition"
  , "c2" : "CommandEndPartition()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#55"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#67"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(ActivityDiagram;LineLocation;RegexResult)"
  , "c3" : "2"
@@ -100,52 +100,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition.getRegexConcat@POLYN151255 the MagicNumber/String  'end' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition.getRegexConcat@POLYN151459 the MagicNumber/String  'end' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition.getRegexConcat@POLYN151255 the MagicNumber/String  'partition' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition.getRegexConcat@POLYN151459 the MagicNumber/String  'partition' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition.getRegexConcat@POLYN151255 the MagicNumber/String  '\\}' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition.getRegexConcat@POLYN151459 the MagicNumber/String  '\\}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method executeArg arguments ActivityDiagram  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00067] For method executeArg arguments ActivityDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#67"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00067] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition.executeArg@POLYN151812 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition.executeArg@POLYN152016 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition.executeArg@POLYN151812 the MagicNumber/String  'No partition defined' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition.executeArg@POLYN152016 the MagicNumber/String  'No partition defined' should be converted to const"
 }} 
 ]
 , 

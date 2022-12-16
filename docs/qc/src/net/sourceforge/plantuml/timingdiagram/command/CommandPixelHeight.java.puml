@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<TimingDiagram>" <|-- "net.sourceforge.plantuml.timingdiagram.command.CommandPixelHeight"
 class net.sourceforge.plantuml.timingdiagram.command.CommandPixelHeight {
-+CommandPixelHeight() : CommandPixelHeight [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandPixelHeight.java.html#16]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandPixelHeight.java.html#20]]]
-executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandPixelHeight.java.html#35]]]
++CommandPixelHeight() : CommandPixelHeight [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandPixelHeight.java.html#50]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandPixelHeight.java.html#54]]]
+executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandPixelHeight.java.html#69]]]
 } 
 @enduml

@@ -2,7 +2,7 @@
 !pragma layout smetana
 "CurveFactory" <|-- "jcckit.plot.SimpleCurveFactory"
 class jcckit.plot.SimpleCurveFactory {
-+SimpleCurveFactory(ConfigParameters) : SimpleCurveFactory [[[./../../../.././qc/src/jcckit/plot/SimpleCurveFactory.java.html#20]]]
-+create(int;int;ClippingShape;Legend) : Curve [[[./../../../.././qc/src/jcckit/plot/SimpleCurveFactory.java.html#32]]]
++SimpleCurveFactory(ConfigParameters) : SimpleCurveFactory [[[./../../../.././qc/src/jcckit/plot/SimpleCurveFactory.java.html#53]]]
++create(int;int;ClippingShape;Legend) : Curve [[[./../../../.././qc/src/jcckit/plot/SimpleCurveFactory.java.html#75]]]
 } 
 @enduml

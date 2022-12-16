@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.BodierJSon" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#54"
  , "c1" : "void"
  , "c2" : "muteClassToObject()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#58"
  , "c1" : "BodierJSon"
  , "c2" : "BodierJSon()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#62"
  , "c1" : "void"
  , "c2" : "setLeaf(ILeaf)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#68"
  , "c1" : "Display"
  , "c2" : "getMethodsToDisplay()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#39"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#73"
  , "c1" : "Display"
  , "c2" : "getFieldsToDisplay()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#78"
  , "c1" : "boolean"
  , "c2" : "hasUrl()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#49"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#83"
  , "c1" : "TextBlock"
  , "c2" : "getBody(ISkinParam;boolean;boolean;Stereotype;Style;FontConfiguration)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#89"
  , "c1" : "List<CharSequence>"
  , "c2" : "getRawBody()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#60"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#94"
  , "c1" : "boolean"
  , "c2" : "addFieldOrMethod(String)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#64"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#98"
  , "c1" : "void"
  , "c2" : "setJson(JsonValue)"
  , "c3" : "1"
@@ -163,45 +163,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method setLeaf arguments ILeaf  leaf"
+ , "c3" : "QC-JAV000006[00062] For method setLeaf arguments ILeaf  leaf"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.cucadiagram.BodierJSon.hasUrl@POLYN152028 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.cucadiagram.BodierJSon.hasUrl@POLYN152232 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#83"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method getBody arguments ISkinParam  skinParam|boolean  showMethods|boolean  showFields|Stereotype  stereotype|Style  style|FontConfiguration  fontConfiguration"
+ , "c3" : "QC-JAV000006[00083] For method getBody arguments ISkinParam  skinParam|boolean  showMethods|boolean  showFields|Stereotype  stereotype|Style  style|FontConfiguration  fontConfiguration"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#50"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#84"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00050] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00084] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#94"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method addFieldOrMethod arguments String  s"
+ , "c3" : "QC-JAV000006[00094] For method addFieldOrMethod arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#64"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method setJson arguments JsonValue  json"
+ , "c3" : "QC-JAV000006[00098] For method setJson arguments JsonValue  json"
 }} 
 ]
 , 

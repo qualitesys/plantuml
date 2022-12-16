@@ -2,18 +2,18 @@
 !pragma layout smetana
 "AbstractFtile" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBox2"
 class net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBox2 {
-+getDefaultStyleDefinitionActivity() : StyleSignatureBasic [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#64]]]
-+getDefaultStyleDefinitionArrow() : StyleSignatureBasic [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#68]]]
-+getInLinkRendering() : LinkRendering [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#72]]]
-+getSwimlanes() : Set<Swimlane> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#76]]]
-+getSwimlaneIn() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#83]]]
-+getSwimlaneOut() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#87]]]
-+create(ISkinParam;Display;Swimlane;BoxStyle;Stereotype) : FtileBox2 [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#104]]]
--FtileBox2(ISkinParam;Display;Swimlane;BoxStyle;Style;Style) : FtileBox2 [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#112]]]
-+toString() : String [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#153]]]
-+drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#157]]]
-calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#195]]]
--getDimRaw(StringBounder) : XDimension2D [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#202]]]
-+getMyChildren() : Collection<Ftile> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#210]]]
++getDefaultStyleDefinitionActivity() : StyleSignatureBasic [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#98]]]
++getDefaultStyleDefinitionArrow() : StyleSignatureBasic [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#102]]]
++getInLinkRendering() : LinkRendering [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#106]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#110]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#117]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#121]]]
++create(ISkinParam;Display;Swimlane;BoxStyle;Stereotype) : FtileBox2 [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#138]]]
+-FtileBox2(ISkinParam;Display;Swimlane;BoxStyle;Style;Style) : FtileBox2 [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#146]]]
++toString() : String [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#187]]]
++drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#191]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#229]]]
+-getDimRaw(StringBounder) : XDimension2D [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#236]]]
++getMyChildren() : Collection<Ftile> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileBox2.java.html#244]]]
 } 
 @enduml

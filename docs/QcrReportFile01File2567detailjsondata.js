@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2Right" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Right.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Right.java.html#48"
  , "c1" : "PlacementStrategyY1Y2Right"
  , "c2" : "PlacementStrategyY1Y2Right(StringBounder)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Right.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Right.java.html#52"
  , "c1" : "Map<TextBlock,XPoint2D>"
  , "c2" : "getPositions(double;double)"
  , "c3" : "2"
@@ -84,17 +84,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Right.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Right.java.html#52"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method getPositions arguments double  width|double  height"
+ , "c3" : "QC-JAV000006[00052] For method getPositions arguments double  width|double  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Right.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Right.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2Right.getPositions@POLYN150019 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2Right.getPositions@POLYN150223 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

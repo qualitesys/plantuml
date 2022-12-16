@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.cdt.dttree__c"
 class gen.lib.cdt.dttree__c {
-+dttree(ST_dt_s;__ptr__;int) : Object [[[./../../../../.././qc/src/gen/lib/cdt/dttree__c.java.html#66]]]
++dttree(ST_dt_s;__ptr__;int) : Object [[[./../../../../.././qc/src/gen/lib/cdt/dttree__c.java.html#110]]]
 -_DTLNK(__ptr__;OFFSET) : ST_dtlink_s [[[./../../../../.././qc/src/gen/lib/cdt/dttree__c.java.html#1]]]
 -_DTCMP(ST_dt_s;Object;Object;ST_dtdisc_s;CFunction;int) : int [[[./../../../../.././qc/src/gen/lib/cdt/dttree__c.java.html#1]]]
 -_DTOBJ(ST_dtlink_s;OFFSET) : Object [[[./../../../../.././qc/src/gen/lib/cdt/dttree__c.java.html#1]]]

@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.common.strcasecmp__c"
 class gen.lib.common.strcasecmp__c {
-+strcasecmp(CString;CString) : int [[[./../../../../.././qc/src/gen/lib/common/strcasecmp__c.java.html#16]]]
++strcasecmp(CString;CString) : int [[[./../../../../.././qc/src/gen/lib/common/strcasecmp__c.java.html#60]]]
 } 
 @enduml

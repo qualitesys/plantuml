@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.gtile.Gtiles" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#61"
  , "c1" : "GtileHexagonInside"
  , "c2" : "hexagonInside(Swimlane;StringBounder;ISkinParam;StyleSignatureBasic;HColor;Display)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#46"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#80"
  , "c1" : "AbstractGtileRoot"
  , "c2" : "diamondEmpty(Swimlane;StringBounder;ISkinParam;StyleSignatureBasic;HColor)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#59"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#93"
  , "c1" : "Gtile"
  , "c2" : "withSouthMargin(Gtile;double)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#64"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#98"
  , "c1" : "Gtile"
  , "c2" : "withNorthMargin(Gtile;double)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00072"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#72"
+ , "c5" : "00106"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#106"
  , "c1" : "Gtile"
  , "c2" : "withIncomingArrow(Gtile;double)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#78"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#112"
  , "c1" : "Gtile"
  , "c2" : "withOutgoingArrow(Gtile;double)"
  , "c3" : "2"
@@ -127,115 +127,115 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method hexagonInside arguments Swimlane  swimlane|StringBounder  stringBounder|ISkinParam  skinParam|StyleSignatureBasic  styleSignature|HColor  color|Display  label"
+ , "c3" : "QC-JAV000006[00061] For method hexagonInside arguments Swimlane  swimlane|StringBounder  stringBounder|ISkinParam  skinParam|StyleSignatureBasic  styleSignature|HColor  color|Display  label"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#61"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00027] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00061] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#62"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument styleSignature is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00062] The argument styleSignature is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.activitydiagram3.gtile.Gtiles.hexagonInside@POLYN161136 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.activitydiagram3.gtile.Gtiles.hexagonInside@POLYN161340 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method diamondEmpty arguments Swimlane  swimlane|StringBounder  stringBounder|ISkinParam  skinParam|StyleSignatureBasic  styleSignature|HColor  color"
+ , "c3" : "QC-JAV000006[00080] For method diamondEmpty arguments Swimlane  swimlane|StringBounder  stringBounder|ISkinParam  skinParam|StyleSignatureBasic  styleSignature|HColor  color"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#80"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00046] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00080] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#47"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#81"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00047] The argument styleSignature is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00081] The argument styleSignature is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.activitydiagram3.gtile.Gtiles.diamondEmpty@POLYN162789 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.activitydiagram3.gtile.Gtiles.diamondEmpty@POLYN162993 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method withSouthMargin arguments Gtile  orig|double  south"
+ , "c3" : "QC-JAV000006[00093] For method withSouthMargin arguments Gtile  orig|double  south"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.gtile.Gtiles.withSouthMargin@POLYN163677 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.activitydiagram3.gtile.Gtiles.withSouthMargin@POLYN163881 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.gtile.Gtiles.withSouthMargin@POLYN163677 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.activitydiagram3.gtile.Gtiles.withSouthMargin@POLYN163881 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#64"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method withNorthMargin arguments Gtile  orig|double  north"
+ , "c3" : "QC-JAV000006[00098] For method withNorthMargin arguments Gtile  orig|double  north"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#65"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.activitydiagram3.gtile.Gtiles.withNorthMargin@POLYN163942 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.activitydiagram3.gtile.Gtiles.withNorthMargin@POLYN164146 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#65"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.activitydiagram3.gtile.Gtiles.withNorthMargin@POLYN163942 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.activitydiagram3.gtile.Gtiles.withNorthMargin@POLYN164146 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#69"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#103"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method withIncomingArrow arguments Gtile  orig|double  margin"
+ , "c3" : "QC-JAV000006[00103] For method withIncomingArrow arguments Gtile  orig|double  margin"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#78"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#112"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method withOutgoingArrow arguments Gtile  orig|double  margin"
+ , "c3" : "QC-JAV000006[00112] For method withOutgoingArrow arguments Gtile  orig|double  margin"
 }} 
 ]
 , 

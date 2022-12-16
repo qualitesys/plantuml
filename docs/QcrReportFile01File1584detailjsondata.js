@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.posimo.BezierUtils" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#46"
  , "c1" : "double"
  , "c2" : "getEndingAngle(XCubicCurve2D)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#53"
  , "c1" : "double"
  , "c2" : "getStartingAngle(XCubicCurve2D)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#60"
  , "c1" : "double"
  , "c2" : "getAngle(XPoint2D;XPoint2D)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#67"
  , "c1" : "boolean"
  , "c2" : "isCutting(XCubicCurve2D;XRectangle2D)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#39"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#73"
  , "c1" : "void"
  , "c2" : "shorten(XCubicCurve2D;XRectangle2D)"
  , "c3" : "6"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#63"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#97"
  , "c1" : "void"
  , "c2" : "subdivide(XCubicCurve2D;XCubicCurve2D;XCubicCurve2D;double)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#88"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#122"
  , "c1" : "double"
  , "c2" : "dist(XCubicCurve2D)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00092"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#92"
+ , "c5" : "00126"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#126"
  , "c1" : "double"
  , "c2" : "dist(XLine2D)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#96"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#130"
  , "c1" : "XPoint2D"
  , "c2" : "middle(XLine2D)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00100"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#100"
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#134"
  , "c1" : "XPoint2D"
  , "c2" : "middle(XPoint2D;XPoint2D)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00104"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#104"
+ , "c5" : "00138"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#138"
  , "c1" : "XPoint2D"
  , "c2" : "intersect(XLine2D;XRectangle2D)"
  , "c3" : "8"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#132"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#166"
  , "c1" : "XRectangle2D"
  , "c2" : "toRectangle(Positionable)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00138"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#138"
+ , "c5" : "00172"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#172"
  , "c1" : "boolean"
  , "c2" : "intersect(Positionable;Positionable)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00142"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#142"
+ , "c5" : "00176"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#176"
  , "c1" : "XPoint2D"
  , "c2" : "getCenter(Positionable)"
  , "c3" : "1"
@@ -206,325 +206,325 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method getEndingAngle arguments XCubicCurve2D  left"
+ , "c3" : "QC-JAV000006[00046] For method getEndingAngle arguments XCubicCurve2D  left"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#46"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument left is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#19"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method getStartingAngle arguments XCubicCurve2D  left"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#19"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00019] The argument left is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#26"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method getAngle arguments XPoint2D  p1|XPoint2D  p2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#26"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00026] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#26"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00026] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#33"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method isCutting arguments XCubicCurve2D  bez|XRectangle2D  shape"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#33"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument bez is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#33"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#39"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method shorten arguments XCubicCurve2D  bez|XRectangle2D  shape"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#39"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00039] The argument bez is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#39"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00039] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.posimo.BezierUtils.shorten@POLYN176962 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.posimo.BezierUtils.shorten@POLYN176962 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.posimo.BezierUtils.shorten@POLYN176962 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.posimo.BezierUtils.shorten@POLYN176962 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAVCWE476[00046] The argument left is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#53"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00053] For method getStartingAngle arguments XCubicCurve2D  left"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#53"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00053] The argument left is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#60"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00060] For method getAngle arguments XPoint2D  p1|XPoint2D  p2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#60"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00060] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#60"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00060] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#67"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00067] For method isCutting arguments XCubicCurve2D  bez|XRectangle2D  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#67"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00067] The argument bez is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#67"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00067] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#73"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00073] For method shorten arguments XCubicCurve2D  bez|XRectangle2D  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#73"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00073] The argument bez is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#73"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00073] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.posimo.BezierUtils.shorten@POLYN176962 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.posimo.BezierUtils.shorten@POLYN177166 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#63"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00063] For method subdivide arguments XCubicCurve2D  src|XCubicCurve2D  left|XCubicCurve2D  right|double  coef"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#63"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00063] The argument src is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#63"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00063] The argument left is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#63"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00063] The argument right is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#65"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.posimo.BezierUtils.subdivide@POLYN178798 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.posimo.BezierUtils.shorten@POLYN177166 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#88"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method dist arguments XCubicCurve2D  seg"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.posimo.BezierUtils.shorten@POLYN177166 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#88"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00088] The argument seg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.posimo.BezierUtils.shorten@POLYN177166 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#92"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00092] For method dist arguments XLine2D  seg"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#92"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00092] The argument seg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#96"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00096] For method middle arguments XLine2D  seg"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#96"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00096] The argument seg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#87"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.posimo.BezierUtils.shorten@POLYN177166 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.posimo.BezierUtils.middle@POLYN182028 the MagicNumber/String  2 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00097] For method subdivide arguments XCubicCurve2D  src|XCubicCurve2D  left|XCubicCurve2D  right|double  coef"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.posimo.BezierUtils.middle@POLYN182028 the MagicNumber/String  2 should be converted to const"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00097] The argument src is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#100"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#97"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00097] The argument left is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#97"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00097] The argument right is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#99"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.posimo.BezierUtils.subdivide@POLYN179002 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#122"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00100] For method middle arguments XPoint2D  p1|XPoint2D  p2"
+ , "c3" : "QC-JAV000006[00122] For method dist arguments XCubicCurve2D  seg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#100"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#122"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00100] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00122] The argument seg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#100"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00100] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.posimo.BezierUtils.middle@POLYN182369 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.posimo.BezierUtils.middle@POLYN182369 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#104"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#126"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00104] For method intersect arguments XLine2D  orig|XRectangle2D  shape"
+ , "c3" : "QC-JAV000006[00126] For method dist arguments XLine2D  seg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#104"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#126"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00104] The argument orig is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00126] The argument seg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#104"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00104] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00113] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.posimo.BezierUtils.intersect@POLYN182783 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#112"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.posimo.BezierUtils.intersect@POLYN182783 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.posimo.BezierUtils.intersect@POLYN182783 the MagicNumber/String  0.1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#132"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#130"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00132] For method toRectangle arguments Positionable  p"
+ , "c3" : "QC-JAV000006[00130] For method middle arguments XLine2D  seg"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#130"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00130] The argument seg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.posimo.BezierUtils.middle@POLYN182232 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.posimo.BezierUtils.middle@POLYN182232 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#134"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00134] For method middle arguments XPoint2D  p1|XPoint2D  p2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#134"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00134] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#134"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00134] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.posimo.BezierUtils.middle@POLYN182573 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.posimo.BezierUtils.middle@POLYN182573 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#138"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00138] For method intersect arguments Positionable  p1|Positionable  p2"
+ , "c3" : "QC-JAV000006[00138] For method intersect arguments XLine2D  orig|XRectangle2D  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#138"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00138] The argument orig is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#138"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00138] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#147"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00147] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#142"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.posimo.BezierUtils.intersect@POLYN182987 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#146"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.posimo.BezierUtils.intersect@POLYN182987 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#154"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.posimo.BezierUtils.intersect@POLYN182987 the MagicNumber/String  0.1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#166"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00142] For method getCenter arguments Positionable  p"
+ , "c3" : "QC-JAV000006[00166] For method toRectangle arguments Positionable  p"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#172"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00172] For method intersect arguments Positionable  p1|Positionable  p2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/BezierUtils.java.html#176"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00176] For method getCenter arguments Positionable  p"
 }} 
 ]
 , 

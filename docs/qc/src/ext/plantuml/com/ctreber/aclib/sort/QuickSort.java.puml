@@ -2,9 +2,9 @@
 !pragma layout smetana
 "CTSort" <|-- "ext.plantuml.com.ctreber.aclib.sort.QuickSort"
 class ext.plantuml.com.ctreber.aclib.sort.QuickSort {
-+sort(Object[];Comparator) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#8]]]
--qsort(Object[];Comparator;int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#20]]]
--swap(Object[];int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#67]]]
--insertionSort(Object[];Comparator;int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#75]]]
++sort(Object[];Comparator) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#11]]]
+-qsort(Object[];Comparator;int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#23]]]
+-swap(Object[];int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#70]]]
+-insertionSort(Object[];Comparator;int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#78]]]
 } 
 @enduml

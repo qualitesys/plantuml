@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.creole.atom.AtomEmoji" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#51"
  , "c1" : "AtomEmoji"
  , "c2" : "AtomEmoji(Emoji;double;double;HColor)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#57"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#62"
  , "c1" : "double"
  , "c2" : "getStartingAltitude(StringBounder)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#66"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "1"
@@ -102,38 +102,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00057] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.creole.atom.AtomEmoji.calculateDimension@POLYN149824 the MagicNumber/String  36 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.creole.atom.AtomEmoji.calculateDimension@POLYN150028 the MagicNumber/String  36 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method getStartingAltitude arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00062] For method getStartingAltitude arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.creole.atom.AtomEmoji.getStartingAltitude@POLYN150076 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.creole.atom.AtomEmoji.getStartingAltitude@POLYN150280 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00066] For method drawU arguments UGraphic  ug"
 }} 
 ]
 , 

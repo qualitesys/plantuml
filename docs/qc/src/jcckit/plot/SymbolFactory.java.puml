@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "jcckit.plot.SymbolFactory"
 class jcckit.plot.SymbolFactory {
-+createSymbol(GraphPoint;Hint;Hint) : Symbol [[[./../../../.././qc/src/jcckit/plot/SymbolFactory.java.html#17]]]
-+createLegendSymbol(GraphPoint;double) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/SymbolFactory.java.html#21]]]
++createSymbol(GraphPoint;Hint;Hint) : Symbol [[[./../../../.././qc/src/jcckit/plot/SymbolFactory.java.html#53]]]
++createLegendSymbol(GraphPoint;double) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/SymbolFactory.java.html#63]]]
 } 
 @enduml

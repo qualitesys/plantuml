@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.stats.PSystemStatsFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/PSystemStatsFactory.java.html#14"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/PSystemStatsFactory.java.html#47"
  , "c1" : "AbstractPSystem"
  , "c2" : "executeLine(UmlSource;String)"
  , "c3" : "2"
@@ -82,38 +82,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStatsFactory.java.html#14"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStatsFactory.java.html#47"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method executeLine arguments UmlSource  source|String  line"
+ , "c3" : "QC-JAV000006[00047] For method executeLine arguments UmlSource  source|String  line"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStatsFactory.java.html#14"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStatsFactory.java.html#47"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00047] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStatsFactory.java.html#16"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStatsFactory.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.stats.PSystemStatsFactory.executeLine@POLYN146970 the MagicNumber/String  '(?i)^stats\\s*$' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.stats.PSystemStatsFactory.executeLine@POLYN147168 the MagicNumber/String  '(?i)^stats\\s*$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStatsFactory.java.html#20"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStatsFactory.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.stats.PSystemStatsFactory.executeLine@POLYN146970 the MagicNumber/String  'Error ' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.stats.PSystemStatsFactory.executeLine@POLYN147168 the MagicNumber/String  'Error ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStatsFactory.java.html#22"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStatsFactory.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.stats.PSystemStatsFactory.executeLine@POLYN146970 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.stats.PSystemStatsFactory.executeLine@POLYN147168 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

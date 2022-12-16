@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#53"
  , "c1" : "GraphicalDelayText"
  , "c2" : "GraphicalDelayText(double;Component;ParticipantBox;ParticipantBox)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#61"
  , "c1" : "void"
  , "c2" : "drawInternalU(UGraphic;double;Context2D)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#74"
  , "c1" : "double"
  , "c2" : "getPreferredHeight(StringBounder)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#45"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#79"
  , "c1" : "double"
  , "c2" : "getPreferredWidth(StringBounder)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#50"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#84"
  , "c1" : "double"
  , "c2" : "getStartingX(StringBounder)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#54"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#88"
  , "c1" : "double"
  , "c2" : "getEndingY(StringBounder)"
  , "c3" : "1"
@@ -127,66 +127,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method drawInternalU arguments UGraphic  ug|double  maxX|Context2D  context"
+ , "c3" : "QC-JAV000006[00061] For method drawInternalU arguments UGraphic  ug|double  maxX|Context2D  context"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#61"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00027] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00061] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText.drawInternalU@POLYN153372 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText.drawInternalU@POLYN153576 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText.drawInternalU@POLYN153372 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText.drawInternalU@POLYN153576 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method getPreferredHeight arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00074] For method getPreferredHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#79"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method getPreferredWidth arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00079] For method getPreferredWidth arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#50"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method getStartingX arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00084] For method getStartingX arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText.getStartingX@POLYN154857 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText.getStartingX@POLYN155061 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#54"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#88"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00054] For method getEndingY arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00088] For method getEndingY arguments StringBounder  stringBounder"
 }} 
 ]
 , 

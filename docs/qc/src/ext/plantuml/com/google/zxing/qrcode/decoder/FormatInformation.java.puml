@@ -2,13 +2,13 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation"
 class ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation {
--FormatInformation(int) : FormatInformation [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#53]]]
-numBitsDiffering(int;int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#60]]]
-decodeFormatInformation(int;int) : FormatInformation [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#74]]]
--doDecodeFormatInformation(int;int) : FormatInformation [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#86]]]
-getErrorCorrectionLevel() : ErrorCorrectionLevel [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#119]]]
-getDataMask() : byte [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#123]]]
-+hashCode() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#127]]]
-+equals(Object) : boolean [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#131]]]
+-FormatInformation(int) : FormatInformation [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#78]]]
+numBitsDiffering(int;int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#85]]]
+decodeFormatInformation(int;int) : FormatInformation [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#105]]]
+-doDecodeFormatInformation(int;int) : FormatInformation [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#117]]]
+getErrorCorrectionLevel() : ErrorCorrectionLevel [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#150]]]
+getDataMask() : byte [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#154]]]
++hashCode() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#158]]]
++equals(Object) : boolean [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#162]]]
 } 
 @enduml

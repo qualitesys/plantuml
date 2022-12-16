@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#65"
  , "c1" : "HColor"
  , "c2" : "getDefaultBackground()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#69"
  , "c1" : "double"
  , "c2" : "dpiFactor()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#39"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#73"
  , "c1" : "UGraphic"
  , "c2" : "apply(UChange)"
  , "c3" : "16"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#63"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#97"
  , "c1" : "UClip"
  , "c2" : "getClip()"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#70"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#104"
  , "c1" : "void"
  , "c2" : "enlargeClip()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#74"
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#108"
  , "c1" : "AbstractCommonUGraphic"
  , "c2" : "AbstractCommonUGraphic(HColor;ColorMapper;StringBounder)"
  , "c3" : "2"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#83"
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#117"
  , "c1" : "AbstractCommonUGraphic"
  , "c2" : "AbstractCommonUGraphic(AbstractCommonUGraphic)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00100"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#100"
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#134"
  , "c1" : "AbstractCommonUGraphic"
  , "c2" : "copyUGraphic()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00102"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#102"
+ , "c5" : "00136"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#136"
  , "c1" : "UParam"
  , "c2" : "getParam()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00128"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#128"
+ , "c5" : "00162"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#162"
  , "c1" : "StringBounder"
  , "c2" : "getStringBounder()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#132"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#166"
  , "c1" : "double"
  , "c2" : "getTranslateX()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00136"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#136"
+ , "c5" : "00170"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#170"
  , "c1" : "double"
  , "c2" : "getTranslateY()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00140"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#140"
+ , "c5" : "00174"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#174"
  , "c1" : "ColorMapper"
  , "c2" : "getColorMapper()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00144"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#144"
+ , "c5" : "00178"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#178"
  , "c1" : "void"
  , "c2" : "flushUg()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00148"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#148"
+ , "c5" : "00182"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#182"
  , "c1" : "void"
  , "c2" : "startUrl(Url)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00152"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#152"
+ , "c5" : "00186"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#186"
  , "c1" : "void"
  , "c2" : "closeUrl()"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00155"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#155"
+ , "c5" : "00189"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#189"
  , "c1" : "void"
  , "c2" : "startGroup(Map<UGroupType,String>)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00158"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#158"
+ , "c5" : "00192"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#192"
  , "c1" : "void"
  , "c2" : "closeGroup()"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00161"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#161"
+ , "c5" : "00195"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#195"
  , "c1" : "boolean"
  , "c2" : "matchesProperty(String)"
  , "c3" : "1"
@@ -258,157 +258,157 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.dpiFactor@POLYN164330 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.dpiFactor@POLYN164534 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#73"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method apply arguments UChange  change"
+ , "c3" : "QC-JAV000006[00073] For method apply arguments UChange  change"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#64"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.getClip@POLYN166113 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.getClip@POLYN166317 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#65"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.getClip@POLYN166113 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.getClip@POLYN166317 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#71"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.enlargeClip@POLYN166350 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.enlargeClip@POLYN166554 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#75"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.AbstractCommonUGraphic@POLYN166454 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.AbstractCommonUGraphic@POLYN166658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#83"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#117"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00083] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00117] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#85"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.AbstractCommonUGraphic@POLYN166866 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.AbstractCommonUGraphic@POLYN167070 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#148"
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#182"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00148] For method startUrl arguments Url  url"
+ , "c3" : "QC-JAV000006[00182] For method startUrl arguments Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#155"
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#189"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00155] For method startGroup arguments Map&lt;UGroupType ,String &gt;  typeIdents"
+ , "c3" : "QC-JAV000006[00189] For method startGroup arguments Map&lt;UGroupType ,String &gt;  typeIdents"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#161"
+ , "c1" : "00195"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#195"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00161] For method matchesProperty arguments String  propertyName"
+ , "c3" : "QC-JAV000006[00195] For method matchesProperty arguments String  propertyName"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#162"
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.matchesProperty@POLYN169170 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic.matchesProperty@POLYN169374 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#144"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#178"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00144] Void method flushUg is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00178] Void method flushUg is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#144"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#178"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00144] Void method flushUg is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00178] Void method flushUg is empty or contains only a return. Interface segregation"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#148"
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#182"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00148] Void method startUrl is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00182] Void method startUrl is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#148"
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#182"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00148] Void method startUrl is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00182] Void method startUrl is empty or contains only a return. Interface segregation"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#152"
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#186"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00152] Void method closeUrl is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00186] Void method closeUrl is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#152"
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#186"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00152] Void method closeUrl is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00186] Void method closeUrl is empty or contains only a return. Interface segregation"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#155"
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#189"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00155] Void method startGroup is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00189] Void method startGroup is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#155"
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#189"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00155] Void method startGroup is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00189] Void method startGroup is empty or contains only a return. Interface segregation"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#158"
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#192"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00158] Void method closeGroup is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00192] Void method closeGroup is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#158"
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#192"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00158] Void method closeGroup is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00192] Void method closeGroup is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.expression.Knowledge" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/Knowledge.java.html#11"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/Knowledge.java.html#44"
  , "c1" : "TValue"
  , "c2" : "getVariable(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/Knowledge.java.html#13"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/Knowledge.java.html#46"
  , "c1" : "TFunction"
  , "c2" : "getFunction(TFunctionSignature)"
  , "c3" : "1"

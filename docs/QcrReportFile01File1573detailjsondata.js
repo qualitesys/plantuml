@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.picoweb.RenderRequest" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#14"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#16"
  , "c1" : "RenderRequest"
  , "c2" : "RenderRequest(String[];String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#19"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#21"
  , "c1" : "String[]"
  , "c2" : "getOptions()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#23"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#25"
  , "c1" : "String"
  , "c2" : "getSource()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#27"
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#29"
  , "c1" : "RenderRequest"
  , "c2" : "fromJson(String)"
  , "c3" : "4"
@@ -102,45 +102,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#27"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#29"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method fromJson arguments String  json"
+ , "c3" : "QC-JAV000006[00029] For method fromJson arguments String  json"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#31"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN141804 the MagicNumber/String  'options' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN141804 the MagicNumber/String  'options' should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN141816 the MagicNumber/String  'options' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00034"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN141804 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN141816 the MagicNumber/String  'options' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#38"
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN141804 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN141816 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#41"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN141804 the MagicNumber/String  'source' should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN141816 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#43"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN141816 the MagicNumber/String  'source' should be converted to const"
 }} 
 ]
 , 

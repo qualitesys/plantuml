@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#60"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#94"
  , "c1" : "ILeaf"
  , "c2" : "getLeafForEmptyGroup(IGroup)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#64"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#98"
  , "c1" : "SuperGroup"
  , "c2" : "getRootSuperGroup()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#105"
  , "c1" : "Set<SuperGroup>"
  , "c2" : "getAllSuperGroups()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#75"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#109"
  , "c1" : "void"
  , "c2" : "buildSuperGroups()"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#84"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#118"
  , "c1" : "ILeaf"
  , "c2" : "createLeafForEmptyGroup(IGroup;ISkinParam)"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00112"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#112"
+ , "c5" : "00146"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#146"
  , "c1" : "Display"
  , "c2" : "getIntricatedDisplay(Ident)"
  , "c3" : "4"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00130"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#130"
+ , "c5" : "00164"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#164"
  , "c1" : "IGroup"
  , "c2" : "isIntricated(IGroup)"
  , "c3" : "5"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00149"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#149"
+ , "c5" : "00183"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#183"
  , "c1" : "EntityFactory"
  , "c2" : "EntityFactory(List<HideOrShow2>;List<HideOrShow2>;CucaDiagram)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00164"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#164"
+ , "c5" : "00198"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#198"
  , "c1" : "boolean"
  , "c2" : "isHidden(ILeaf)"
  , "c3" : "3"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00176"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#176"
+ , "c5" : "00210"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#210"
  , "c1" : "boolean"
  , "c2" : "isRemoved(ILeaf)"
  , "c3" : "3"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00188"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#188"
+ , "c5" : "00222"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#222"
  , "c1" : "IEntity"
  , "c2" : "isNoteWithSingleLinkAttachedTo(ILeaf)"
  , "c3" : "6"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00205"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#205"
+ , "c5" : "00239"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#239"
  , "c1" : "boolean"
  , "c2" : "isRemovedIgnoreUnlinked(ILeaf)"
  , "c3" : "3"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00214"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#214"
+ , "c5" : "00248"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#248"
  , "c1" : "ILeaf"
  , "c2" : "createLeaf(Ident;Code;Display;LeafType;IGroup;Set<VisibilityModifier>;String)"
  , "c3" : "5"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00231"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#231"
+ , "c5" : "00265"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#265"
  , "c1" : "IGroup"
  , "c2" : "createGroup(Ident;Code;Display;Code;GroupType;IGroup;Set<VisibilityModifier>;String)"
  , "c3" : "4"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00247"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#247"
+ , "c5" : "00281"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#281"
  , "c1" : "void"
  , "c2" : "addLeaf(ILeaf)"
  , "c3" : "3"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00255"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#255"
+ , "c5" : "00289"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#289"
  , "c1" : "void"
  , "c2" : "addGroup(IGroup)"
  , "c3" : "3"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00263"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#263"
+ , "c5" : "00297"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#297"
  , "c1" : "void"
  , "c2" : "ensureParentIsCreated(Ident)"
  , "c3" : "2"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00269"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#269"
+ , "c5" : "00303"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#303"
  , "c1" : "void"
  , "c2" : "removeGroup(String)"
  , "c3" : "3"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00279"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#279"
+ , "c5" : "00313"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#313"
  , "c1" : "void"
  , "c2" : "removeGroup(Ident)"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00283"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#283"
+ , "c5" : "00317"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#317"
  , "c1" : "void"
  , "c2" : "bigError()"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00289"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#289"
+ , "c5" : "00323"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#323"
  , "c1" : "void"
  , "c2" : "removeLeaf(String)"
  , "c3" : "3"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00299"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#299"
+ , "c5" : "00333"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#333"
  , "c1" : "void"
  , "c2" : "removeLeaf(Ident)"
  , "c3" : "2"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00307"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#307"
+ , "c5" : "00341"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#341"
  , "c1" : "void"
  , "c2" : "removeLeaf1972(ILeaf)"
  , "c3" : "2"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00315"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#315"
+ , "c5" : "00349"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#349"
  , "c1" : "IGroup"
  , "c2" : "muteToGroup(String;Code;GroupType;IGroup)"
  , "c3" : "2"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00325"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#325"
+ , "c5" : "00359"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#359"
  , "c1" : "IGroup"
  , "c2" : "muteToGroup1972(Ident;Code;GroupType;IGroup)"
  , "c3" : "4"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00339"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#339"
+ , "c5" : "00373"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#373"
  , "c1" : "IGroup"
  , "c2" : "getRootGroup()"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00343"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#343"
+ , "c5" : "00377"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#377"
  , "c1" : "ILeaf"
  , "c2" : "getLeafStrict(Ident)"
  , "c3" : "1"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00347"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#347"
+ , "c5" : "00381"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#381"
  , "c1" : "ILeaf"
  , "c2" : "getLeafSmart(Ident)"
  , "c3" : "5"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00359"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#359"
+ , "c5" : "00393"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#393"
  , "c1" : "ILeaf"
  , "c2" : "getLeafVerySmart(Ident)"
  , "c3" : "5"
@@ -279,8 +279,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00371"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#371"
+ , "c5" : "00405"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#405"
  , "c1" : "Ident"
  , "c2" : "buildFullyQualified(Ident;Ident)"
  , "c3" : "4"
@@ -288,8 +288,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00382"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#382"
+ , "c5" : "00416"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#416"
  , "c1" : "IGroup"
  , "c2" : "getGroupStrict(Ident)"
  , "c3" : "2"
@@ -297,8 +297,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00390"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#390"
+ , "c5" : "00424"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#424"
  , "c1" : "IGroup"
  , "c2" : "getGroupVerySmart(Ident)"
  , "c3" : "4"
@@ -306,8 +306,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00400"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#400"
+ , "c5" : "00434"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#434"
  , "c1" : "ILeaf"
  , "c2" : "getLeaf(Code)"
  , "c3" : "3"
@@ -315,8 +315,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00410"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#410"
+ , "c5" : "00444"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#444"
  , "c1" : "IGroup"
  , "c2" : "getGroup(Code)"
  , "c3" : "3"
@@ -324,8 +324,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00420"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#420"
+ , "c5" : "00454"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#454"
  , "c1" : "Collection<ILeaf>"
  , "c2" : "leafs()"
  , "c3" : "3"
@@ -333,8 +333,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00430"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#430"
+ , "c5" : "00464"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#464"
  , "c1" : "Collection<IGroup>"
  , "c2" : "groups()"
  , "c3" : "3"
@@ -342,8 +342,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00440"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#440"
+ , "c5" : "00474"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#474"
  , "c1" : "Collection<IGroup>"
  , "c2" : "groups2()"
  , "c3" : "1"
@@ -351,8 +351,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00445"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#445"
+ , "c5" : "00479"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#479"
  , "c1" : "Collection<ILeaf>"
  , "c2" : "leafs2()"
  , "c3" : "1"
@@ -360,8 +360,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00450"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#450"
+ , "c5" : "00484"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#484"
  , "c1" : "void"
  , "c2" : "incRawLayout()"
  , "c3" : "1"
@@ -369,8 +369,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00454"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#454"
+ , "c5" : "00488"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#488"
  , "c1" : "List<Link>"
  , "c2" : "getLinks()"
  , "c3" : "1"
@@ -378,8 +378,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00458"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#458"
+ , "c5" : "00492"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#492"
  , "c1" : "void"
  , "c2" : "addLink(Link)"
  , "c3" : "2"
@@ -387,8 +387,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00465"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#465"
+ , "c5" : "00499"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#499"
  , "c1" : "boolean"
  , "c2" : "containsSimilarLink(Link)"
  , "c3" : "3"
@@ -396,8 +396,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00473"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#473"
+ , "c5" : "00507"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#507"
  , "c1" : "void"
  , "c2" : "removeLink(Link)"
  , "c3" : "2"
@@ -405,8 +405,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00480"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#480"
+ , "c5" : "00514"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#514"
  , "c1" : "IGroup"
  , "c2" : "getParentContainer(Ident;IGroup)"
  , "c3" : "4"
@@ -414,8 +414,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00499"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#499"
+ , "c5" : "00533"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#533"
  , "c1" : "CucaDiagram"
  , "c2" : "getDiagram()"
  , "c3" : "1"
@@ -492,801 +492,801 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#94"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method getLeafForEmptyGroup arguments IGroup  g"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00078] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#84"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00084] For method createLeafForEmptyGroup arguments IGroup  g|ISkinParam  skinParam"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#86"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.createLeafForEmptyGroup@POLYN228198 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.createLeafForEmptyGroup@POLYN228198 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000006[00094] For method getLeafForEmptyGroup arguments IGroup  g"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#112"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00112] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#118"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00112] For method getIntricatedDisplay arguments Ident  ident"
+ , "c3" : "QC-JAV000006[00118] For method createLeafForEmptyGroup arguments IGroup  g|ISkinParam  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#112"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00112] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#116"
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getIntricatedDisplay@POLYN229537 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.createLeafForEmptyGroup@POLYN228402 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#117"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getIntricatedDisplay@POLYN229537 the MagicNumber/String  '.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getIntricatedDisplay@POLYN229537 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getIntricatedDisplay@POLYN229537 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#130"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00130] For method isIntricated arguments IGroup  parent"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#130"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00130] The argument parent is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isIntricated@POLYN230799 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isIntricated@POLYN230799 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isIntricated@POLYN230799 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isIntricated@POLYN230799 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isIntricated@POLYN230799 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isIntricated@POLYN230799 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isIntricated@POLYN230799 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.createLeafForEmptyGroup@POLYN228402 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#146"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00146] For method getIntricatedDisplay arguments Ident  ident"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#146"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00146] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isIntricated@POLYN230799 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getIntricatedDisplay@POLYN229741 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getIntricatedDisplay@POLYN229741 the MagicNumber/String  '.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getIntricatedDisplay@POLYN229741 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getIntricatedDisplay@POLYN229741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#164"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00164] For method isHidden arguments ILeaf  leaf"
+ , "c3" : "QC-JAV000006[00164] For method isIntricated arguments IGroup  parent"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#164"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00164] The argument parent is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isIntricated@POLYN231003 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isIntricated@POLYN231003 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isHidden@POLYN232638 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isIntricated@POLYN231003 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#169"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isIntricated@POLYN231003 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#170"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isIntricated@POLYN231003 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isIntricated@POLYN231003 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#176"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00176] For method isRemoved arguments ILeaf  leaf"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isRemoved@POLYN233201 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isIntricated@POLYN231003 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00188"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#188"
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#180"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isIntricated@POLYN231003 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#198"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00188] For method isNoteWithSingleLinkAttachedTo arguments ILeaf  leaf"
+ , "c3" : "QC-JAV000006[00198] For method isHidden arguments ILeaf  leaf"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00188"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#188"
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isHidden@POLYN232842 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#210"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00210] For method isRemoved arguments ILeaf  leaf"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#215"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isRemoved@POLYN233405 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00222"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#222"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00222] For method isNoteWithSingleLinkAttachedTo arguments ILeaf  leaf"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00222"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#222"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00188] The argument leaf is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00222] The argument leaf is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#190"
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isNoteWithSingleLinkAttachedTo@POLYN233764 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isNoteWithSingleLinkAttachedTo@POLYN233968 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00191"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#191"
+ , "c1" : "00225"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#225"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isNoteWithSingleLinkAttachedTo@POLYN233764 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isNoteWithSingleLinkAttachedTo@POLYN233968 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#196"
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#230"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isNoteWithSingleLinkAttachedTo@POLYN233764 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isNoteWithSingleLinkAttachedTo@POLYN233968 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00205"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#205"
+ , "c1" : "00239"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#239"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00205] For method isRemovedIgnoreUnlinked arguments ILeaf  leaf"
+ , "c3" : "QC-JAV000006[00239] For method isRemovedIgnoreUnlinked arguments ILeaf  leaf"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#206"
+ , "c1" : "00240"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isRemovedIgnoreUnlinked@POLYN234506 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isRemovedIgnoreUnlinked@POLYN234710 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#208"
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isRemovedIgnoreUnlinked@POLYN234506 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#214"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00214] For method createLeaf arguments Ident  ident|Code  code|Display  display|LeafType  entityType|IGroup  parentContainer|Set&lt;VisibilityModifier &gt;  hides|String  namespaceSeparator"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#231"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00231] For method createGroup arguments Ident  ident|Code  code|Display  display|Code  namespace|GroupType  groupType|IGroup  parentContainer|Set&lt;VisibilityModifier &gt;  hides|String  namespaceSeparator"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00241"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#241"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.createGroup@POLYN236093 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00247"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#247"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00247] For method addLeaf arguments ILeaf  entity"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00247"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#247"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00247] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.isRemovedIgnoreUnlinked@POLYN234710 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00248"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#248"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.addLeaf@POLYN237261 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00255"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#255"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00255] For method addGroup arguments IGroup  group"
+ , "c3" : "QC-JAV000006[00248] For method createLeaf arguments Ident  ident|Code  code|Display  display|LeafType  entityType|IGroup  parentContainer|Set&lt;VisibilityModifier &gt;  hides|String  namespaceSeparator"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00255"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#255"
+ , "c1" : "00265"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#265"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00265] For method createGroup arguments Ident  ident|Code  code|Display  display|Code  namespace|GroupType  groupType|IGroup  parentContainer|Set&lt;VisibilityModifier &gt;  hides|String  namespaceSeparator"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00275"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#275"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.createGroup@POLYN236297 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00281"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#281"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00281] For method addLeaf arguments ILeaf  entity"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00281"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#281"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00255] The argument group is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00281] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00256"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#256"
+ , "c1" : "00282"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#282"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.addGroup@POLYN237765 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00263"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#263"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00263] For method ensureParentIsCreated arguments Ident  ident"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00263"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#263"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00263] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00264"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#264"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.ensureParentIsCreated@POLYN238269 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00266"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#266"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.ensureParentIsCreated@POLYN238269 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00269"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#269"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00269] For method removeGroup arguments String  name"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00279"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#279"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00279] For method removeGroup arguments Ident  ident"
+ , "c3" : "QC-JAV000010[00282] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.addLeaf@POLYN237465 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00289"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#289"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00289] For method removeLeaf arguments String  name"
+ , "c3" : "QC-JAV000006[00289] For method addGroup arguments IGroup  group"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00299"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#299"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00299] For method removeLeaf arguments Ident  ident"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00299"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#299"
+ , "c1" : "00289"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#289"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00299] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00289] The argument group is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00301"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#301"
+ , "c1" : "00290"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#290"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.removeLeaf@POLYN239915 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.addGroup@POLYN237969 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00302"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#302"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.removeLeaf@POLYN239915 the MagicNumber/String  'leafs2=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00307"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#307"
+ , "c1" : "00297"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#297"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00307] For method removeLeaf1972 arguments ILeaf  leaf"
+ , "c3" : "QC-JAV000006[00297] For method ensureParentIsCreated arguments Ident  ident"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00307"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#307"
+ , "c1" : "00297"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#297"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00307] The argument leaf is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00297] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00309"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#309"
+ , "c1" : "00298"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00309] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.removeLeaf1972@POLYN240406 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.ensureParentIsCreated@POLYN238473 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00310"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#310"
+ , "c1" : "00300"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#300"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.removeLeaf1972@POLYN240406 the MagicNumber/String  'leafs2=' should be converted to const"
+ , "c3" : "QC-JAV000010[00300] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.ensureParentIsCreated@POLYN238473 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00315"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#315"
+ , "c1" : "00303"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#303"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00315] For method muteToGroup arguments String  name|Code  namespace|GroupType  type|IGroup  parent"
+ , "c3" : "QC-JAV000006[00303] For method removeGroup arguments String  name"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00325"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#325"
+ , "c1" : "00313"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#313"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00325] For method muteToGroup1972 arguments Ident  ident|Code  namespace|GroupType  type|IGroup  parent"
+ , "c3" : "QC-JAV000006[00313] For method removeGroup arguments Ident  ident"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00329"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#329"
+ , "c1" : "00323"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#323"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00323] For method removeLeaf arguments String  name"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00333"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#333"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00333] For method removeLeaf arguments Ident  ident"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00333"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#333"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00333] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00335"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#335"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00329] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.muteToGroup1972@POLYN241572 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00335] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.removeLeaf@POLYN240119 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00336"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#336"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.removeLeaf@POLYN240119 the MagicNumber/String  'leafs2=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00341"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#341"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00341] For method removeLeaf1972 arguments ILeaf  leaf"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00341"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#341"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00341] The argument leaf is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00343"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#343"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00343] For method getLeafStrict arguments Ident  ident"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00347"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#347"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00347] For method getLeafSmart arguments Ident  ident"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00347"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#347"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00347] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00351"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#351"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00351] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getLeafSmart@POLYN242702 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00343] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.removeLeaf1972@POLYN240610 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00351"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#351"
+ , "c1" : "00344"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#344"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00351] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getLeafSmart@POLYN242702 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00344] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.removeLeaf1972@POLYN240610 the MagicNumber/String  'leafs2=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00349"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#349"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00349] For method muteToGroup arguments String  name|Code  namespace|GroupType  type|IGroup  parent"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00359"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#359"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00359] For method getLeafVerySmart arguments Ident  ident"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00359"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#359"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00359] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000006[00359] For method muteToGroup1972 arguments Ident  ident|Code  namespace|GroupType  type|IGroup  parent"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00363"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#363"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00363] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getLeafVerySmart@POLYN243455 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00363] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.muteToGroup1972@POLYN241776 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00371"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#371"
+ , "c1" : "00377"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#377"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00371] For method buildFullyQualified arguments Ident  currentPath|Ident  id"
+ , "c3" : "QC-JAV000006[00377] For method getLeafStrict arguments Ident  ident"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00371"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#371"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00371] The argument currentPath is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00371"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#371"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00371] The argument id is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00372"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#372"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00372] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.buildFullyQualified@POLYN244137 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00376"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#376"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00376] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.buildFullyQualified@POLYN244137 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00382"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#382"
+ , "c1" : "00381"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#381"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00382] For method getGroupStrict arguments Ident  ident"
+ , "c3" : "QC-JAV000006[00381] For method getLeafSmart arguments Ident  ident"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00383"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#383"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00383] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getGroupStrict@POLYN244689 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00390"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#390"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00390] For method getGroupVerySmart arguments Ident  ident"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00390"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#390"
+ , "c1" : "00381"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#381"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00390] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00381] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00392"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#392"
+ , "c1" : "00385"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#385"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00392] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getGroupVerySmart@POLYN245043 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00385] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getLeafSmart@POLYN242906 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00400"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#400"
+ , "c1" : "00385"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#385"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00385] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getLeafSmart@POLYN242906 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00393"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#393"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00400] For method getLeaf arguments Code  code"
+ , "c3" : "QC-JAV000006[00393] For method getLeafVerySmart arguments Ident  ident"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00400"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#400"
+ , "c1" : "00393"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#393"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00400] The argument code is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00393] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00404"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#404"
+ , "c1" : "00397"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#397"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00404] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getLeaf@POLYN245615 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00397] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getLeafVerySmart@POLYN243659 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00405"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#405"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00405] For method buildFullyQualified arguments Ident  currentPath|Ident  id"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00405"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#405"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00405] The argument currentPath is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00405"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#405"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00405] The argument id is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00406"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#406"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00406] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.buildFullyQualified@POLYN244341 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00410"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#410"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00410] For method getGroup arguments Code  code"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00410"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#410"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00410] The argument code is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00414"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#414"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00414] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getGroup@POLYN246158 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00410] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.buildFullyQualified@POLYN244341 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00416"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#416"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00416] For method getGroupStrict arguments Ident  ident"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00417"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#417"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00417] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getGroupStrict@POLYN244893 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00424"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#424"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00424] For method getGroupVerySmart arguments Ident  ident"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00424"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#424"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00424] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00426"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#426"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00424] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.leafs@POLYN246722 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00426] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getGroupVerySmart@POLYN245247 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00434"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#434"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00434] For method getLeaf arguments Code  code"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00434"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#434"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00434] The argument code is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00438"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#438"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00434] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.groups@POLYN247322 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00438] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getLeaf@POLYN245819 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00444"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#444"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00444] For method getGroup arguments Code  code"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00444"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#444"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00444] The argument code is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00448"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#448"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00448] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getGroup@POLYN246362 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00458"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#458"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00458] For method addLink arguments Link  link"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00458"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#458"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00458] The argument link is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00465"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#465"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00465] For method containsSimilarLink arguments Link  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00465"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#465"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00465] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00458] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.leafs@POLYN246926 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00468"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#468"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00468] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.containsSimilarLink@POLYN248962 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00468] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.groups@POLYN247526 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00470"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#470"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00470] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.containsSimilarLink@POLYN248962 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00473"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#473"
+ , "c1" : "00492"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#492"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00473] For method removeLink arguments Link  link"
+ , "c3" : "QC-JAV000006[00492] For method addLink arguments Link  link"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00475"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#475"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00475] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.removeLink@POLYN249231 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00480"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#480"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00480] For method getParentContainer arguments Ident  ident|IGroup  parentContainer"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00480"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#480"
+ , "c1" : "00492"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#492"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00480] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00492] The argument link is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00487"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#487"
+ , "c1" : "00499"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#499"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00499] For method containsSimilarLink arguments Link  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00499"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#499"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00499] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00502"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#502"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00487] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getParentContainer@POLYN249511 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00502] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.containsSimilarLink@POLYN249166 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00491"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#491"
+ , "c1" : "00504"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#504"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00491] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getParentContainer@POLYN249511 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00504] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.containsSimilarLink@POLYN249166 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00491"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#491"
+ , "c1" : "00507"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#507"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00507] For method removeLink arguments Link  link"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00509"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#509"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00491] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getParentContainer@POLYN249511 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00509] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.removeLink@POLYN249435 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#60"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00060] Public method getLeafForEmptyGroup is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00514"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#514"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00514] For method getParentContainer arguments Ident  ident|IGroup  parentContainer"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#64"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00064] Public method getRootSuperGroup is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00514"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#514"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00514] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#71"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00071] Public method getAllSuperGroups is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00521"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#521"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00521] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getParentContainer@POLYN249715 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#130"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00130] Public method isIntricated is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00525"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#525"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00525] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getParentContainer@POLYN249715 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00339"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#339"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00339] Public method getRootGroup is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00525"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#525"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00525] In method net.sourceforge.plantuml.cucadiagram.entity.EntityFactory.getParentContainer@POLYN249715 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00343"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#343"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#94"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00343] Public method getLeafStrict is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00094] Public method getLeafForEmptyGroup is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00371"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#371"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#98"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00371] Public method buildFullyQualified is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00098] Public method getRootSuperGroup is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00390"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#390"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#105"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00390] Public method getGroupVerySmart is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00105] Public method getAllSuperGroups is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00440"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#440"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#164"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00440] Public method groups2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00164] Public method isIntricated is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00445"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#445"
+ , "c1" : "00373"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#373"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00445] Public method leafs2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00373] Public method getRootGroup is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00454"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#454"
+ , "c1" : "00377"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#377"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00454] Public method getLinks is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00377] Public method getLeafStrict is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#75"
+ , "c1" : "00405"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#405"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00075] Public method buildSuperGroups is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00405] Public method buildFullyQualified is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#283"
+ , "c1" : "00424"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#424"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00283] Public method bigError is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00424] Public method getGroupVerySmart is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00458"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#458"
+ , "c1" : "00474"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#474"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00458] Public method addLink is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00474] Public method groups2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00473"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#473"
+ , "c1" : "00479"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#479"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00473] Public method removeLink is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00479] Public method leafs2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00488"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#488"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00488] Public method getLinks is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#109"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00109] Public method buildSuperGroups is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00317"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#317"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00317] Public method bigError is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00492"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#492"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00492] Public method addLink is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00507"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#507"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00507] Public method removeLink is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

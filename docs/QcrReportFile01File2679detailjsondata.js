@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.html5.UGraphicHtml5" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#21"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#54"
  , "c1" : "AbstractCommonUGraphic"
  , "c2" : "copyUGraphic()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#25"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#58"
  , "c1" : "UGraphicHtml5"
  , "c2" : "UGraphicHtml5(HColor;ColorMapper;StringBounder)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#43"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#76"
  , "c1" : "String"
  , "c2" : "generateHtmlCode()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#48"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#81"
  , "c1" : "void"
  , "c2" : "writeToStream(OutputStream;String;int)"
  , "c3" : "1"
@@ -102,17 +102,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#48"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#81"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
+ , "c3" : "QC-JAV000006[00081] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#48"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/UGraphicHtml5.java.html#81"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00048] The argument os is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00081] The argument os is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

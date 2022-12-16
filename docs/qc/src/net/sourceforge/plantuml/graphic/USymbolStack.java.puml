@@ -2,10 +2,10 @@
 !pragma layout smetana
 "USymbol" <|-- "net.sourceforge.plantuml.graphic.USymbolStack"
 class net.sourceforge.plantuml.graphic.USymbolStack {
-+getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolStack.java.html#17]]]
--drawQueue(UGraphic;double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolStack.java.html#21]]]
--getMargin() : Margin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolStack.java.html#51]]]
-+asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolStack.java.html#56]]]
-+asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolStack.java.html#80]]]
++getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolStack.java.html#51]]]
+-drawQueue(UGraphic;double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolStack.java.html#55]]]
+-getMargin() : Margin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolStack.java.html#85]]]
++asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolStack.java.html#90]]]
++asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolStack.java.html#114]]]
 } 
 @enduml

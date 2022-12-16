@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphic.HtmlCommandFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#70"
  , "c1" : "HtmlCommand"
  , "c2" : "getHtmlCommand(String)"
  , "c3" : "17"
@@ -75,52 +75,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method getHtmlCommand arguments String  s"
+ , "c3" : "QC-JAV000006[00070] For method getHtmlCommand arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.graphic.HtmlCommandFactory.getHtmlCommand@POLYN159821 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.graphic.HtmlCommandFactory.getHtmlCommand@POLYN160025 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#41"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.graphic.HtmlCommandFactory.getHtmlCommand@POLYN159821 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.graphic.HtmlCommandFactory.getHtmlCommand@POLYN160025 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.graphic.HtmlCommandFactory.getHtmlCommand@POLYN159821 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.graphic.HtmlCommandFactory.getHtmlCommand@POLYN160025 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#80"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.graphic.HtmlCommandFactory.getHtmlCommand@POLYN159821 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.graphic.HtmlCommandFactory.getHtmlCommand@POLYN160025 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#82"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.graphic.HtmlCommandFactory.getHtmlCommand@POLYN159821 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.graphic.HtmlCommandFactory.getHtmlCommand@POLYN160025 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#89"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/HtmlCommandFactory.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.graphic.HtmlCommandFactory.getHtmlCommand@POLYN159821 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.graphic.HtmlCommandFactory.getHtmlCommand@POLYN160025 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

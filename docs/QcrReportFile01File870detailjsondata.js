@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#49"
  , "c1" : "CommandHideShowSpecificClass"
  , "c2" : "CommandHideShowSpecificClass()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#53"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#61"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(CucaDiagram;LineLocation;RegexResult)"
  , "c3" : "1"
@@ -93,45 +93,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN149639 the MagicNumber/String  'COMMAND' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN149843 the MagicNumber/String  'COMMAND' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN149639 the MagicNumber/String  '(hide|show)' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN149843 the MagicNumber/String  '(hide|show)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN149639 the MagicNumber/String  'CODE' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN149843 the MagicNumber/String  'CODE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN149639 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN149843 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN149639 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN149843 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method executeArg arguments CucaDiagram  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00061] For method executeArg arguments CucaDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ]
 , 

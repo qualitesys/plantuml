@@ -2,12 +2,12 @@
 !pragma layout smetana
 "AbstractTextBlockITF" <|-- "net.sourceforge.plantuml.wbs.ITFLeaf"
 class net.sourceforge.plantuml.wbs.ITFLeaf {
-+ITFLeaf(Style;ISkinParam;Display;IdeaShape) : ITFLeaf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFLeaf.java.html#22]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFLeaf.java.html#33]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFLeaf.java.html#37]]]
-+getT1(StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFLeaf.java.html#41]]]
-+getT2(StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFLeaf.java.html#46]]]
-+getF1(StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFLeaf.java.html#51]]]
-+getF2(StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFLeaf.java.html#56]]]
++ITFLeaf(Style;ISkinParam;Display;IdeaShape) : ITFLeaf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFLeaf.java.html#56]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFLeaf.java.html#67]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFLeaf.java.html#71]]]
++getT1(StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFLeaf.java.html#75]]]
++getT2(StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFLeaf.java.html#80]]]
++getF1(StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFLeaf.java.html#85]]]
++getF2(StringBounder) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/ITFLeaf.java.html#90]]]
 } 
 @enduml

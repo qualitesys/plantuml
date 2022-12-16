@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.command.ProtectedCommand" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#49"
  , "c1" : "ProtectedCommand"
  , "c2" : "ProtectedCommand(Command<S>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#53"
  , "c1" : "CommandExecutionResult"
  , "c2" : "execute(S;BlocLines)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#38"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#72"
  , "c1" : "CommandControl"
  , "c2" : "isValid(BlocLines)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#76"
  , "c1" : "String[]"
  , "c2" : "getDescription()"
  , "c3" : "1"
@@ -102,45 +102,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method execute arguments S  system|BlocLines  lines"
+ , "c3" : "QC-JAV000006[00053] For method execute arguments S  system|BlocLines  lines"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.command.ProtectedCommand.execute@POLYN150086 the MagicNumber/String  'Error ' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.ProtectedCommand.execute@POLYN150290 the MagicNumber/String  'Error ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.command.ProtectedCommand.execute@POLYN150086 the MagicNumber/String  'You should send a mail to plantuml@gmail.com or post to http://plantuml.com/qa with this log (V' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.command.ProtectedCommand.execute@POLYN150290 the MagicNumber/String  'You should send a mail to plantuml@gmail.com or post to http://plantuml.com/qa with this log (V' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.command.ProtectedCommand.execute@POLYN150086 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.command.ProtectedCommand.execute@POLYN150290 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.command.ProtectedCommand.execute@POLYN150086 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.command.ProtectedCommand.execute@POLYN150290 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#72"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method isValid arguments BlocLines  lines"
+ , "c3" : "QC-JAV000006[00072] For method isValid arguments BlocLines  lines"
 }} 
 ]
 , 

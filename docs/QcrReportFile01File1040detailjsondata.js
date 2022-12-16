@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.creole.atom.Bullet" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#53"
  , "c1" : "Bullet"
  , "c2" : "Bullet(FontConfiguration;int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#58"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#71"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#43"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#77"
  , "c1" : "double"
  , "c2" : "getStartingAltitude(StringBounder)"
  , "c3" : "2"
@@ -109,157 +109,157 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00058] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#58"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00024] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00058] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152787 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152991 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152787 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152991 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152787 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152991 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152787 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152991 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152787 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152991 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152787 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152991 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152787 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152991 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152787 the MagicNumber/String  3.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152991 the MagicNumber/String  3.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152787 the MagicNumber/String  3.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.creole.atom.Bullet.drawU@POLYN152991 the MagicNumber/String  3.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#71"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00071] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.creole.atom.Bullet.calculateDimension@POLYN153848 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.creole.atom.Bullet.calculateDimension@POLYN154052 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.creole.atom.Bullet.calculateDimension@POLYN153848 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.creole.atom.Bullet.calculateDimension@POLYN154052 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.creole.atom.Bullet.calculateDimension@POLYN153848 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.creole.atom.Bullet.calculateDimension@POLYN154052 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.creole.atom.Bullet.calculateDimension@POLYN153848 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.creole.atom.Bullet.calculateDimension@POLYN154052 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.creole.atom.Bullet.calculateDimension@POLYN153848 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.creole.atom.Bullet.calculateDimension@POLYN154052 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.creole.atom.Bullet.calculateDimension@POLYN153848 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.creole.atom.Bullet.calculateDimension@POLYN154052 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method getStartingAltitude arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00077] For method getStartingAltitude arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.creole.atom.Bullet.getStartingAltitude@POLYN154221 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.creole.atom.Bullet.getStartingAltitude@POLYN154425 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.creole.atom.Bullet.getStartingAltitude@POLYN154221 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.creole.atom.Bullet.getStartingAltitude@POLYN154425 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/Bullet.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.creole.atom.Bullet.getStartingAltitude@POLYN154221 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.creole.atom.Bullet.getStartingAltitude@POLYN154425 the MagicNumber/String  7 should be converted to const"
 }} 
 ]
 , 

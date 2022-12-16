@@ -2,7 +2,7 @@
 !pragma layout smetana
 "SentenceSimple" <|-- "net.sourceforge.plantuml.project.lang.SentenceTaskStartsAbsolute"
 class net.sourceforge.plantuml.project.lang.SentenceTaskStartsAbsolute {
-+SentenceTaskStartsAbsolute() : SentenceTaskStartsAbsolute [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsAbsolute.java.html#11]]]
-+execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsAbsolute.java.html#16]]]
++SentenceTaskStartsAbsolute() : SentenceTaskStartsAbsolute [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsAbsolute.java.html#45]]]
++execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsAbsolute.java.html#50]]]
 } 
 @enduml

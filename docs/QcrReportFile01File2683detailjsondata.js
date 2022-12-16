@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.svg.DriverImagePng" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#19"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#52"
  , "c1" : "DriverImagePng"
  , "c2" : "DriverImagePng(ClipContainer)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#23"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#56"
  , "c1" : "void"
  , "c2" : "draw(UImage;double;double;ColorMapper;UParam;SvgGraphics)"
  , "c3" : "4"
@@ -91,59 +91,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method draw arguments UImage  image|double  x|double  y|ColorMapper  mapper|UParam  param|SvgGraphics  svg"
+ , "c3" : "QC-JAV000006[00056] For method draw arguments UImage  image|double  x|double  y|ColorMapper  mapper|UParam  param|SvgGraphics  svg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00023] The argument image is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00056] The argument image is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00023] The argument svg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00056] The argument svg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#25"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.ugraphic.svg.DriverImagePng.draw@POLYN150846 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.ugraphic.svg.DriverImagePng.draw@POLYN151044 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#26"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.ugraphic.svg.DriverImagePng.draw@POLYN150846 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ugraphic.svg.DriverImagePng.draw@POLYN151044 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#29"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.ugraphic.svg.DriverImagePng.draw@POLYN150846 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.svg.DriverImagePng.draw@POLYN151044 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#35"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.ugraphic.svg.DriverImagePng.draw@POLYN150846 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.svg.DriverImagePng.draw@POLYN151044 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#37"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverImagePng.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.ugraphic.svg.DriverImagePng.draw@POLYN150846 the MagicNumber/String  'Error in svg for image ' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.ugraphic.svg.DriverImagePng.draw@POLYN151044 the MagicNumber/String  'Error in svg for image ' should be converted to const"
 }} 
 ]
 , 

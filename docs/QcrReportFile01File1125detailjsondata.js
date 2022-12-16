@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.SquareLinker" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/SquareLinker.java.html#6"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/SquareLinker.java.html#40"
  , "c1" : "void"
  , "c2" : "leftRight(O;O)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/SquareLinker.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/SquareLinker.java.html#42"
  , "c1" : "void"
  , "c2" : "topDown(O;O)"
  , "c3" : "1"

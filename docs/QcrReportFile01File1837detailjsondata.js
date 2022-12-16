@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.salt.factory.AbstractElementFactoryComplex" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#53"
  , "c1" : "AbstractElementFactoryComplex"
  , "c2" : "AbstractElementFactoryComplex(DataSource;Dictionary)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#58"
  , "c1" : "void"
  , "c2" : "addFactory(ElementFactory)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#62"
  , "c1" : "Terminated<Element>"
  , "c2" : "getNextElement()"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#71"
  , "c1" : "DataSource"
  , "c2" : "getDataSource()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#75"
  , "c1" : "Dictionary"
  , "c2" : "getDictionary()"
  , "c3" : "1"
@@ -111,17 +111,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method addFactory arguments ElementFactory  factory"
+ , "c3" : "QC-JAV000006[00058] For method addFactory arguments ElementFactory  factory"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.salt.factory.AbstractElementFactoryComplex.getNextElement@POLYN150146 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.salt.factory.AbstractElementFactoryComplex.getNextElement@POLYN150350 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

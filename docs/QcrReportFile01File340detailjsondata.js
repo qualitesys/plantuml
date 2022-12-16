@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.util.Factory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/jcckit/util/Factory.java.html#12"
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/jcckit/util/Factory.java.html#34"
  , "c1" : "Factory"
  , "c2" : "Factory()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/jcckit/util/Factory.java.html#15"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/jcckit/util/Factory.java.html#43"
  , "c1" : "Object"
  , "c2" : "create(String)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/jcckit/util/Factory.java.html#25"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/jcckit/util/Factory.java.html#67"
  , "c1" : "Object"
  , "c2" : "create(ConfigParameters)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/jcckit/util/Factory.java.html#31"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/jcckit/util/Factory.java.html#83"
  , "c1" : "Object"
  , "c2" : "create(ConfigParameters;String)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/jcckit/util/Factory.java.html#38"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/jcckit/util/Factory.java.html#96"
  , "c1" : "Object"
  , "c2" : "createOrGet(ConfigParameters;Object)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/jcckit/util/Factory.java.html#45"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/jcckit/util/Factory.java.html#103"
  , "c1" : "Object"
  , "c2" : "createObject(ConfigParameters;String)"
  , "c3" : "1"
@@ -134,122 +134,122 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#15"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#43"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method create arguments String  className"
+ , "c3" : "QC-JAV000006[00043] For method create arguments String  className"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#19"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method jcckit.util.Factory.create@POLYN158729 the MagicNumber/String  'Could not create an instance of ' should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method jcckit.util.Factory.create@POLYN159077 the MagicNumber/String  'Could not create an instance of ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#20"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method jcckit.util.Factory.create@POLYN158729 the MagicNumber/String  ' because of ' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method jcckit.util.Factory.create@POLYN159077 the MagicNumber/String  ' because of ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#25"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method create arguments ConfigParameters  configParameters"
+ , "c3" : "QC-JAV000006[00067] For method create arguments ConfigParameters  configParameters"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#25"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00025] For method create list of called methods Object monObjet|java.lang.String configParameters_getN159686"
+ , "c3" : "QC-JAV000007[00067] For method create list of called methods Object monObjet|java.lang.String configParameters_getN160034"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#25"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#67"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00025] The argument configParameters is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00067] The argument configParameters is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#31"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#83"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method create arguments ConfigParameters  configParameters|String  defaultClassName"
+ , "c3" : "QC-JAV000006[00083] For method create arguments ConfigParameters  configParameters|String  defaultClassName"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#31"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#83"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00031] For method create list of called methods Object monObjet|java.lang.String configParameters_getN160327"
+ , "c3" : "QC-JAV000007[00083] For method create list of called methods Object monObjet|java.lang.String configParameters_getN160675"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#31"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#83"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00031] The argument configParameters is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00083] The argument configParameters is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#38"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#96"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method createOrGet arguments ConfigParameters  configParameters|Object  defaultObject"
+ , "c3" : "QC-JAV000006[00096] For method createOrGet arguments ConfigParameters  configParameters|Object  defaultObject"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#38"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#96"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00038] For method createOrGet list of called methods Object monObjet|java.lang.String configParameters_getN160894"
+ , "c3" : "QC-JAV000007[00096] For method createOrGet list of called methods Object monObjet|java.lang.String configParameters_getN161242"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#38"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#96"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00038] The argument configParameters is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00096] The argument configParameters is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#40"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method jcckit.util.Factory.createOrGet@POLYN160772 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method jcckit.util.Factory.createOrGet@POLYN161120 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#41"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method jcckit.util.Factory.createOrGet@POLYN160772 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method jcckit.util.Factory.createOrGet@POLYN161120 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#45"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#103"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method createObject arguments ConfigParameters  configParameters|String  className"
+ , "c3" : "QC-JAV000006[00103] For method createObject arguments ConfigParameters  configParameters|String  className"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#49"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method jcckit.util.Factory.createObject@POLYN161149 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method jcckit.util.Factory.createObject@POLYN161497 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/jcckit/util/Factory.java.html#50"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/jcckit/util/Factory.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method jcckit.util.Factory.createObject@POLYN161149 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method jcckit.util.Factory.createObject@POLYN161497 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

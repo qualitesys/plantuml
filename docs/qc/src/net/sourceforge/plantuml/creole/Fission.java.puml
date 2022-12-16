@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.creole.Fission"
 class net.sourceforge.plantuml.creole.Fission {
-+Fission(Stripe;LineBreakStrategy) : Fission [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Fission.java.html#24]]]
-+getSplitted(StringBounder) : List<Stripe> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Fission.java.html#29]]]
--noHeader() : List<Atom> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Fission.java.html#67]]]
--blank(Atom) : Atom [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Fission.java.html#75]]]
--getSplitted(StringBounder;Atom) : Collection<?extendsAtom> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Fission.java.html#95]]]
++Fission(Stripe;LineBreakStrategy) : Fission [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Fission.java.html#58]]]
++getSplitted(StringBounder) : List<Stripe> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Fission.java.html#63]]]
+-noHeader() : List<Atom> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Fission.java.html#101]]]
+-blank(Atom) : Atom [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Fission.java.html#109]]]
+-getSplitted(StringBounder;Atom) : Collection<?extendsAtom> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Fission.java.html#129]]]
 } 
 @enduml

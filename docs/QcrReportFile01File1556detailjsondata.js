@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.openiconic.SvgPosition" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#13"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#47"
  , "c1" : "SvgPosition"
  , "c2" : "SvgPosition()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#51"
  , "c1" : "SvgPosition"
  , "c2" : "SvgPosition(SvgCommandNumber;SvgCommandNumber)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#57"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#61"
  , "c1" : "SvgPosition"
  , "c2" : "SvgPosition(double;double)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#66"
  , "c1" : "SvgCommandNumber"
  , "c2" : "getX()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#70"
  , "c1" : "SvgCommandNumber"
  , "c2" : "getY()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#74"
  , "c1" : "double"
  , "c2" : "getXDouble()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#78"
  , "c1" : "double"
  , "c2" : "getYDouble()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#82"
  , "c1" : "SvgPosition"
  , "c2" : "add(SvgPosition)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#86"
  , "c1" : "SvgPosition"
  , "c2" : "getMirror(SvgPosition)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#61"
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#95"
  , "c1" : "XPoint2D"
  , "c2" : "affine(AffineTransform)"
  , "c3" : "1"
@@ -179,80 +179,80 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.openiconic.SvgPosition.SvgPosition@POLYN151996 the MagicNumber/String  '0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#14"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.openiconic.SvgPosition.SvgPosition@POLYN151996 the MagicNumber/String  '0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.openiconic.SvgPosition.toString@POLYN152431 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.openiconic.SvgPosition.SvgPosition@POLYN152200 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#48"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method add arguments SvgPosition  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#48"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00048] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#52"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method getMirror arguments SvgPosition  tobeMirrored"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#52"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument tobeMirrored is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.openiconic.SvgPosition.getMirror@POLYN153538 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.openiconic.SvgPosition.SvgPosition@POLYN152200 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#57"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.openiconic.SvgPosition.getMirror@POLYN153538 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.openiconic.SvgPosition.toString@POLYN152635 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#61"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method affine arguments AffineTransform  at"
+ , "c3" : "QC-JAV000006[00082] For method add arguments SvgPosition  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#61"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#82"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00082] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#86"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00086] For method getMirror arguments SvgPosition  tobeMirrored"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#86"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00086] The argument tobeMirrored is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.openiconic.SvgPosition.getMirror@POLYN153742 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.openiconic.SvgPosition.getMirror@POLYN153742 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#95"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00095] For method affine arguments AffineTransform  at"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPosition.java.html#95"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00061] Public method affine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00095] Public method affine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

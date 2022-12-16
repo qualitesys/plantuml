@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.security.authentication.token.TokenAuthAccessInterceptor" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#15"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#61"
  , "c1" : "void"
  , "c2" : "apply(SecurityAuthentication;URLConnection)"
  , "c3" : "3"
@@ -89,59 +89,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#15"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method apply arguments SecurityAuthentication  authentication|URLConnection  connection"
+ , "c3" : "QC-JAV000006[00061] For method apply arguments SecurityAuthentication  authentication|URLConnection  connection"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#15"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#61"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument authentication is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00061] The argument authentication is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#15"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#61"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument connection is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00061] The argument connection is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#21"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00021] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00067] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#22"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00022] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00068] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#18"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.security.authentication.token.TokenAuthAccessInterceptor.apply@POLYN150966 the MagicNumber/String  'headers.' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.security.authentication.token.TokenAuthAccessInterceptor.apply@POLYN151242 the MagicNumber/String  'headers.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#18"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.security.authentication.token.TokenAuthAccessInterceptor.apply@POLYN150966 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.security.authentication.token.TokenAuthAccessInterceptor.apply@POLYN151242 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#21"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.security.authentication.token.TokenAuthAccessInterceptor.apply@POLYN150966 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.security.authentication.token.TokenAuthAccessInterceptor.apply@POLYN151242 the MagicNumber/String  8 should be converted to const"
 }} 
 ]
 , 

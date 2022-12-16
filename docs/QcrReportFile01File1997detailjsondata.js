@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#59"
  , "c1" : "SegmentColored"
  , "c2" : "create(double;double;SymbolContext;boolean)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#63"
  , "c1" : "SegmentColored"
  , "c2" : "SegmentColored(Segment;SymbolContext;boolean;double)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#70"
  , "c1" : "HColor"
  , "c2" : "getSpecificBackColor()"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#43"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#77"
  , "c1" : "HColor"
  , "c2" : "getSpecificLineColor()"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#51"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#85"
  , "c1" : "boolean"
  , "c2" : "equals(Object)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#57"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#91"
  , "c1" : "int"
  , "c2" : "hashCode()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#62"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#96"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#66"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#100"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic;Component;int)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#75"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#109"
  , "c1" : "Collection<SegmentColored>"
  , "c2" : "cutSegmentIfNeed(Collection<Segment>)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00079"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#79"
+ , "c5" : "00113"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#113"
  , "c1" : "double"
  , "c2" : "getPos1Initial()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#83"
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#117"
  , "c1" : "SegmentColored"
  , "c2" : "merge(SegmentColored)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#88"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#122"
  , "c1" : "Segment"
  , "c2" : "getSegment()"
  , "c3" : "1"
@@ -181,108 +181,108 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method create arguments double  pos1|double  pos2|SymbolContext  colors|boolean  shadowing"
+ , "c3" : "QC-JAV000006[00059] For method create arguments double  pos1|double  pos2|SymbolContext  colors|boolean  shadowing"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.getSpecificBackColor@POLYN163743 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.getSpecificBackColor@POLYN163743 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.getSpecificLineColor@POLYN163960 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.getSpecificLineColor@POLYN163960 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#51"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method equals arguments Object  obj"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#66"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method drawU arguments UGraphic  ug|Component  compAliveBox|int  level"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#66"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00066] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#66"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00066] The argument compAliveBox is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.drawU@POLYN164687 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.drawU@POLYN164687 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.getSpecificBackColor@POLYN163947 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.drawU@POLYN164687 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.getSpecificBackColor@POLYN163947 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#75"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#78"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.getSpecificLineColor@POLYN164164 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#79"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.getSpecificLineColor@POLYN164164 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#85"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00075] For method cutSegmentIfNeed arguments Collection&lt;Segment &gt;  allDelays"
+ , "c3" : "QC-JAV000006[00085] For method equals arguments Object  obj"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#83"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#100"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method merge arguments SegmentColored  this2"
+ , "c3" : "QC-JAV000006[00100] For method drawU arguments UGraphic  ug|Component  compAliveBox|int  level"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#83"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#100"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00083] The argument this2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00100] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#100"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00100] The argument compAliveBox is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.drawU@POLYN164891 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.drawU@POLYN164891 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.drawU@POLYN164891 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#109"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00109] For method cutSegmentIfNeed arguments Collection&lt;Segment &gt;  allDelays"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#117"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00117] For method merge arguments SegmentColored  this2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#117"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00117] The argument this2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

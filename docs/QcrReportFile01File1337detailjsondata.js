@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphic.FontConfiguration" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#71"
  , "c1" : "String"
  , "c2" : "toStringDebug()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#75"
  , "c1" : "FontConfiguration"
  , "c2" : "create(UFont;HColor;HColor;UStroke)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#46"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#80"
  , "c1" : "FontConfiguration"
  , "c2" : "create(UFont;HColor;HColor;UStroke;int)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#86"
  , "c1" : "FontConfiguration"
  , "c2" : "blackBlueTrue(UFont)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#56"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#90"
  , "c1" : "FontConfiguration"
  , "c2" : "create(ISkinParam;FontParam;Stereotype)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#62"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#96"
  , "c1" : "FontConfiguration"
  , "c2" : "create(ISkinParam;Style)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#66"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#100"
  , "c1" : "FontConfiguration"
  , "c2" : "create(ISkinParam;Style;Colors)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#77"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#111"
  , "c1" : "EnumSet<FontStyle>"
  , "c2" : "getStyles(UFont)"
  , "c3" : "4"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#93"
+ , "c5" : "00127"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#127"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#97"
+ , "c5" : "00131"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#131"
  , "c1" : "FontConfiguration"
  , "c2" : "FontConfiguration(EnumSet<FontStyle>;UFont;HColor;UFont;HColor;HColor;FontPosition;SvgAttributes;HColor;UStroke;int)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#113"
+ , "c5" : "00147"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#147"
  , "c1" : "FontConfiguration"
  , "c2" : "forceFont(UFont;HColor)"
  , "c3" : "3"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00125"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#125"
+ , "c5" : "00159"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#159"
  , "c1" : "FontConfiguration"
  , "c2" : "changeAttributes(SvgAttributes)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00130"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#130"
+ , "c5" : "00164"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#164"
  , "c1" : "FontConfiguration"
  , "c2" : "withHyperlink()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00135"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#135"
+ , "c5" : "00169"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#169"
  , "c1" : "FontConfiguration"
  , "c2" : "changeColor(HColor)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00140"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#140"
+ , "c5" : "00174"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#174"
  , "c1" : "FontConfiguration"
  , "c2" : "mute(Colors)"
  , "c3" : "2"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00148"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#148"
+ , "c5" : "00182"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#182"
  , "c1" : "FontConfiguration"
  , "c2" : "changeExtendedColor(HColor)"
  , "c3" : "1"
@@ -162,64 +162,10 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00153"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#153"
+ , "c5" : "00187"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#187"
  , "c1" : "FontConfiguration"
  , "c2" : "changeSize(float)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00158"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#158"
- , "c1" : "FontConfiguration"
- , "c2" : "bigger(double)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00162"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#162"
- , "c1" : "FontConfiguration"
- , "c2" : "changeFontPosition(FontPosition)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00167"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#167"
- , "c1" : "FontConfiguration"
- , "c2" : "changeFamily(String)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00173"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#173"
- , "c1" : "FontConfiguration"
- , "c2" : "resetFont()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00178"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#178"
- , "c1" : "FontConfiguration"
- , "c2" : "add(FontStyle)"
- , "c3" : "2"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00188"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#188"
- , "c1" : "FontConfiguration"
- , "c2" : "italic()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -228,7 +174,7 @@ var maDataBlocs = {
  , "c5" : "00192"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#192"
  , "c1" : "FontConfiguration"
- , "c2" : "bold()"
+ , "c2" : "bigger(double)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -237,34 +183,25 @@ var maDataBlocs = {
  , "c5" : "00196"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#196"
  , "c1" : "FontConfiguration"
- , "c2" : "unbold()"
+ , "c2" : "changeFontPosition(FontPosition)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00200"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#200"
+ , "c5" : "00201"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#201"
  , "c1" : "FontConfiguration"
- , "c2" : "unitalic()"
+ , "c2" : "changeFamily(String)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00204"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#204"
+ , "c5" : "00207"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#207"
  , "c1" : "FontConfiguration"
- , "c2" : "underline()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00208"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#208"
- , "c1" : "FontConfiguration"
- , "c2" : "wave(HColor)"
+ , "c2" : "resetFont()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -273,34 +210,43 @@ var maDataBlocs = {
  , "c5" : "00212"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#212"
  , "c1" : "FontConfiguration"
- , "c2" : "hyperlink()"
+ , "c2" : "add(FontStyle)"
  , "c3" : "2"
- , "c4" : "2"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00219"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#219"
+ , "c5" : "00222"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#222"
  , "c1" : "FontConfiguration"
- , "c2" : "remove(FontStyle)"
+ , "c2" : "italic()"
  , "c3" : "1"
- , "c4" : "3"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00226"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#226"
- , "c1" : "UFont"
- , "c2" : "getFont()"
- , "c3" : "2"
- , "c4" : "3"
+ , "c1" : "FontConfiguration"
+ , "c2" : "bold()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00230"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#230"
+ , "c1" : "FontConfiguration"
+ , "c2" : "unbold()"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00234"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#234"
- , "c1" : "HColor"
- , "c2" : "getColor()"
+ , "c1" : "FontConfiguration"
+ , "c2" : "unitalic()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -308,8 +254,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00238"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#238"
- , "c1" : "HColor"
- , "c2" : "getExtendedColor()"
+ , "c1" : "FontConfiguration"
+ , "c2" : "underline()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -317,8 +263,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00242"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#242"
- , "c1" : "boolean"
- , "c2" : "containsStyle(FontStyle)"
+ , "c1" : "FontConfiguration"
+ , "c2" : "wave(HColor)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -326,6 +272,60 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00246"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#246"
+ , "c1" : "FontConfiguration"
+ , "c2" : "hyperlink()"
+ , "c3" : "2"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00253"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#253"
+ , "c1" : "FontConfiguration"
+ , "c2" : "remove(FontStyle)"
+ , "c3" : "1"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00260"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#260"
+ , "c1" : "UFont"
+ , "c2" : "getFont()"
+ , "c3" : "2"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00268"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#268"
+ , "c1" : "HColor"
+ , "c2" : "getColor()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00272"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#272"
+ , "c1" : "HColor"
+ , "c2" : "getExtendedColor()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00276"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#276"
+ , "c1" : "boolean"
+ , "c2" : "containsStyle(FontStyle)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00280"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#280"
  , "c1" : "int"
  , "c2" : "getSpace()"
  , "c3" : "1"
@@ -333,8 +333,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00250"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#250"
+ , "c5" : "00284"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#284"
  , "c1" : "Map<String,String>"
  , "c2" : "getAttributes()"
  , "c3" : "1"
@@ -342,8 +342,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00254"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#254"
+ , "c5" : "00288"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#288"
  , "c1" : "double"
  , "c2" : "getSize2D()"
  , "c3" : "1"
@@ -351,8 +351,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00258"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#258"
+ , "c5" : "00292"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#292"
  , "c1" : "int"
  , "c2" : "getTabSize()"
  , "c3" : "1"
@@ -360,8 +360,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00262"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#262"
+ , "c5" : "00296"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#296"
  , "c1" : "UStroke"
  , "c2" : "getUnderlineStroke()"
  , "c3" : "1"
@@ -431,339 +431,339 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.graphic.FontConfiguration.toStringDebug@POLYN185720 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.graphic.FontConfiguration.toStringDebug@POLYN185924 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#41"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#75"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method create arguments UFont  font|HColor  color|HColor  hyperlinkColor|UStroke  hyperlinkUnderlineStroke"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN185909 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#46"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method create arguments UFont  font|HColor  color|HColor  hyperlinkColor|UStroke  hyperlinkUnderlineStroke|int  tabSize"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN186218 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#52"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method blackBlueTrue arguments UFont  font"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.graphic.FontConfiguration.blackBlueTrue@POLYN186749 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#56"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method create arguments ISkinParam  skinParam|FontParam  fontParam|Stereotype  stereo"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#56"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00056] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#62"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method create arguments ISkinParam  skinParam|Style  style"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN187573 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#66"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method create arguments ISkinParam  skinParam|Style  style|Colors  colors"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#66"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00066] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#66"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00066] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN187788 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN187788 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN187788 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000006[00075] For method create arguments UFont  font|HColor  color|HColor  hyperlinkColor|UStroke  hyperlinkUnderlineStroke"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#77"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00077] For method getStyles arguments UFont  font"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN186113 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#77"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#80"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00080] For method create arguments UFont  font|HColor  color|HColor  hyperlinkColor|UStroke  hyperlinkUnderlineStroke|int  tabSize"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN186422 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#86"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00086] For method blackBlueTrue arguments UFont  font"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#87"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.graphic.FontConfiguration.blackBlueTrue@POLYN186953 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#90"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00090] For method create arguments ISkinParam  skinParam|FontParam  fontParam|Stereotype  stereo"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#90"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00077] The argument font is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00090] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.graphic.FontConfiguration.toString@POLYN189492 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#113"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#96"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method forceFont arguments UFont  newFont|HColor  htmlColorForStereotype"
+ , "c3" : "QC-JAV000006[00096] For method create arguments ISkinParam  skinParam|Style  style"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#114"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.graphic.FontConfiguration.forceFont@POLYN190679 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN187777 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#119"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#100"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00100] For method create arguments ISkinParam  skinParam|Style  style|Colors  colors"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#100"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00100] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#100"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00100] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.graphic.FontConfiguration.forceFont@POLYN190679 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN187992 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#125"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00125] For method changeAttributes arguments SvgAttributes  toBeAdded"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#135"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00135] For method changeColor arguments HColor  newHtmlColor"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#140"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00140] For method mute arguments Colors  colors"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#142"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.graphic.FontConfiguration.mute@POLYN192521 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN187992 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#104"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN187992 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#111"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00111] For method getStyles arguments UFont  font"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#111"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00111] The argument font is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.graphic.FontConfiguration.toString@POLYN189696 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#147"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00147] For method forceFont arguments UFont  newFont|HColor  htmlColorForStereotype"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#148"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00148] For method changeExtendedColor arguments HColor  newExtendedColor"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.graphic.FontConfiguration.forceFont@POLYN190883 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#153"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00153] For method changeSize arguments float  size"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.graphic.FontConfiguration.forceFont@POLYN190883 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#158"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#159"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00158] For method bigger arguments double  delta"
+ , "c3" : "QC-JAV000006[00159] For method changeAttributes arguments SvgAttributes  toBeAdded"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#162"
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#169"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00162] For method changeFontPosition arguments FontPosition  fontPosition"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#167"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00167] For method changeFamily arguments String  family"
+ , "c3" : "QC-JAV000006[00169] For method changeColor arguments HColor  newHtmlColor"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#174"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.graphic.FontConfiguration.resetFont@POLYN194737 the MagicNumber/String  null should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00174] For method mute arguments Colors  colors"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#178"
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.graphic.FontConfiguration.mute@POLYN192725 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#182"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00178] For method add arguments FontStyle  style"
+ , "c3" : "QC-JAV000006[00182] For method changeExtendedColor arguments HColor  newExtendedColor"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#187"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00187] For method changeSize arguments float  size"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#192"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00192] For method bigger arguments double  delta"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#196"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00196] For method changeFontPosition arguments FontPosition  fontPosition"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#201"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00201] For method changeFamily arguments String  family"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#208"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00208] For method wave arguments HColor  color"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#213"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.graphic.FontConfiguration.hyperlink@POLYN196575 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.graphic.FontConfiguration.resetFont@POLYN194941 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00219"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#219"
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#212"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00219] For method remove arguments FontStyle  style"
+ , "c3" : "QC-JAV000006[00212] For method add arguments FontStyle  style"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#242"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00242] For method containsStyle arguments FontStyle  style"
+ , "c3" : "QC-JAV000006[00242] For method wave arguments HColor  color"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#52"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00052] Public method blackBlueTrue is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00247"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#247"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.graphic.FontConfiguration.hyperlink@POLYN196779 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#56"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00056] Public method create is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#253"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00253] For method remove arguments FontStyle  style"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#62"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00062] Public method create is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00276"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#276"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00276] For method containsStyle arguments FontStyle  style"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#140"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#86"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00140] Public method mute is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00086] Public method blackBlueTrue is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00188"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#188"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#90"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00188] Public method italic is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00090] Public method create is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#192"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#96"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00192] Public method bold is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00096] Public method create is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#196"
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#174"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00196] Public method unbold is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00174] Public method mute is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00200"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#200"
+ , "c1" : "00222"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#222"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00200] Public method unitalic is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00222] Public method italic is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00204"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#204"
+ , "c1" : "00226"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#226"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00204] Public method underline is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00226] Public method bold is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#208"
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#230"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00208] Public method wave is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00230] Public method unbold is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#234"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00234] Public method unitalic is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00238"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#238"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00238] Public method underline is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#242"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00242] Public method wave is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

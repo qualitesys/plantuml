@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#13"
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#32"
  , "c1" : "ReedSolomonEncoder"
  , "c2" : "ReedSolomonEncoder(GF256)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#22"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#41"
  , "c1" : "GF256Poly"
  , "c2" : "buildGenerator(int)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#34"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#53"
  , "c1" : "void"
  , "c2" : "encode(int[];int)"
  , "c3" : "4"
@@ -130,171 +130,171 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#15"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.ReedSolomonEncoder@POLYN149533 the MagicNumber/String  'Only QR Code is supported at this time' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.ReedSolomonEncoder@POLYN149533 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#22"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method buildGenerator arguments int  degree"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00026] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN150113 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN150113 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN150113 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00034"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#34"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00034] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.ReedSolomonEncoder@POLYN149647 the MagicNumber/String  'Only QR Code is supported at this time' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#38"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00038] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.ReedSolomonEncoder@POLYN149647 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#41"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method encode arguments int[]  toEncode|int  ecBytes"
+ , "c3" : "QC-JAV000006[00041] For method buildGenerator arguments int  degree"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#34"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00034] For method encode list of called methods Object monObjet|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly buildGeneratorN151629"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#35"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00045] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#36"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151122 the MagicNumber/String  'No error correction bytes' should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN150227 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#39"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN150227 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#40"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151122 the MagicNumber/String  'No data bytes provided' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151122 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151122 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151122 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151122 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151122 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN150227 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#53"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00053] For method encode arguments int[]  toEncode|int  ecBytes"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#53"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00053] For method encode list of called methods Object monObjet|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly buildGeneratorN151743"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151236 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#55"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00055] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151236 the MagicNumber/String  'No error correction bytes' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151236 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#59"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00059] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151236 the MagicNumber/String  'No data bytes provided' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151236 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151236 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#65"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00065] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151236 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#66"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00066] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151236 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#69"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151236 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151236 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#72"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.encode@POLYN151236 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN150113"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN150227"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#24"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#43"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00024] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN150113 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00043] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN150227 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#26"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#45"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00026] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN150113 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00045] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN150227 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#26"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#45"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00026] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN150113 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00045] In the recursive method ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN150227 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ]
 , 

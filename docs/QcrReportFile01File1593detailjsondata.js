@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.posimo.LabelImage" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#56"
  , "c1" : "LabelImage"
  , "c2" : "LabelImage(Link;Rose;ISkinParam)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#68"
  , "c1" : "XDimension2D"
  , "c2" : "getDimension(StringBounder)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#74"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic;double;double)"
  , "c3" : "1"
@@ -93,24 +93,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method getDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00068] For method getDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method drawU arguments UGraphic  ug|double  x|double  y"
+ , "c3" : "QC-JAV000006[00074] For method drawU arguments UGraphic  ug|double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#74"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00040] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00074] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

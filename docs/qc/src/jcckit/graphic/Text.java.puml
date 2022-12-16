@@ -2,9 +2,9 @@
 !pragma layout smetana
 "BasicGraphicalElement" <|-- "jcckit.graphic.Text"
 class jcckit.graphic.Text {
-+Text(GraphPoint;String;GraphicAttributes) : Text [[[./../../../.././qc/src/jcckit/graphic/Text.java.html#11]]]
-+getPosition() : GraphPoint [[[./../../../.././qc/src/jcckit/graphic/Text.java.html#18]]]
-+getText() : String [[[./../../../.././qc/src/jcckit/graphic/Text.java.html#23]]]
-+renderWith(Renderer) : void [[[./../../../.././qc/src/jcckit/graphic/Text.java.html#28]]]
++Text(GraphPoint;String;GraphicAttributes) : Text [[[./../../../.././qc/src/jcckit/graphic/Text.java.html#37]]]
++getPosition() : GraphPoint [[[./../../../.././qc/src/jcckit/graphic/Text.java.html#44]]]
++getText() : String [[[./../../../.././qc/src/jcckit/graphic/Text.java.html#49]]]
++renderWith(Renderer) : void [[[./../../../.././qc/src/jcckit/graphic/Text.java.html#59]]]
 } 
 @enduml

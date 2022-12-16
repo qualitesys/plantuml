@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.flowdiagram.ActivityBox" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#65"
  , "c1" : "ActivityBox"
  , "c2" : "ActivityBox(Tile;String;String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#74"
  , "c1" : "Tile"
  , "c2" : "getTile()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#78"
  , "c1" : "String"
  , "c2" : "getId()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#82"
  , "c1" : "String"
  , "c2" : "getLabel()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#86"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#66"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#100"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -127,52 +127,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.flowdiagram.ActivityBox.ActivityBox@POLYN157074 the MagicNumber/String  14 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.flowdiagram.ActivityBox.ActivityBox@POLYN157278 the MagicNumber/String  14 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#52"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#86"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00086] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#52"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#86"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00086] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.flowdiagram.ActivityBox.drawU@POLYN158040 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.flowdiagram.ActivityBox.drawU@POLYN158244 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#66"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#100"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00100] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#69"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.flowdiagram.ActivityBox.calculateDimension@POLYN159083 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.flowdiagram.ActivityBox.calculateDimension@POLYN159287 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#69"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.flowdiagram.ActivityBox.calculateDimension@POLYN159083 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.flowdiagram.ActivityBox.calculateDimension@POLYN159287 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

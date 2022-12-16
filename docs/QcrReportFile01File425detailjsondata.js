@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ScaleMaxWidthAndHeight" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleMaxWidthAndHeight.java.html#9"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleMaxWidthAndHeight.java.html#43"
  , "c1" : "ScaleMaxWidthAndHeight"
  , "c2" : "ScaleMaxWidthAndHeight(double;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleMaxWidthAndHeight.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleMaxWidthAndHeight.java.html#48"
  , "c1" : "double"
  , "c2" : "getScaleInternal(double;double)"
  , "c3" : "2"
@@ -84,24 +84,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxWidthAndHeight.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxWidthAndHeight.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method getScaleInternal arguments double  width|double  height"
+ , "c3" : "QC-JAV000006[00048] For method getScaleInternal arguments double  width|double  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxWidthAndHeight.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxWidthAndHeight.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.ScaleMaxWidthAndHeight.getScaleInternal@POLYN146784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.ScaleMaxWidthAndHeight.getScaleInternal@POLYN146988 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxWidthAndHeight.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxWidthAndHeight.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.ScaleMaxWidthAndHeight.getScaleInternal@POLYN146784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.ScaleMaxWidthAndHeight.getScaleInternal@POLYN146988 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

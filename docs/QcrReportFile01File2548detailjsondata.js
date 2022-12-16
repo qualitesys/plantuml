@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.AbstractUGraphicHorizontalLine" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#44"
  , "c1" : "UGraphic"
  , "c2" : "apply(UChange)"
  , "c3" : "5"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#60"
  , "c1" : "AbstractUGraphicHorizontalLine"
  , "c2" : "copy(UGraphic)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#62"
  , "c1" : "AbstractUGraphicHorizontalLine"
  , "c2" : "AbstractUGraphicHorizontalLine(UGraphic)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#66"
  , "c1" : "void"
  , "c2" : "drawHline(UGraphic;UHorizontalLine;UTranslate)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#68"
  , "c1" : "void"
  , "c2" : "draw(UShape)"
  , "c3" : "3"
@@ -104,31 +104,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#10"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#44"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00010] For method apply arguments UChange  change"
+ , "c3" : "QC-JAV000006[00044] For method apply arguments UChange  change"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method copy arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00060] For method copy arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method drawHline arguments UGraphic  ug|UHorizontalLine  line|UTranslate  translate"
+ , "c3" : "QC-JAV000006[00066] For method drawHline arguments UGraphic  ug|UHorizontalLine  line|UTranslate  translate"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method draw arguments UShape  shape"
+ , "c3" : "QC-JAV000006[00068] For method draw arguments UShape  shape"
 }} 
 ]
 , 

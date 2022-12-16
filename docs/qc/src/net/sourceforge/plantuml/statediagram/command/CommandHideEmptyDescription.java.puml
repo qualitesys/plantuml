@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<UmlDiagram>" <|-- "net.sourceforge.plantuml.statediagram.command.CommandHideEmptyDescription"
 class net.sourceforge.plantuml.statediagram.command.CommandHideEmptyDescription {
-+CommandHideEmptyDescription() : CommandHideEmptyDescription [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandHideEmptyDescription.java.html#15]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandHideEmptyDescription.java.html#19]]]
-executeArg(UmlDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandHideEmptyDescription.java.html#29]]]
++CommandHideEmptyDescription() : CommandHideEmptyDescription [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandHideEmptyDescription.java.html#49]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandHideEmptyDescription.java.html#53]]]
+executeArg(UmlDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandHideEmptyDescription.java.html#63]]]
 } 
 @enduml

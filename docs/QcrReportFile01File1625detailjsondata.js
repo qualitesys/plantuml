@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.preproc.ReadLineSimple" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#46"
  , "c1" : "ReadLineSimple"
  , "c2" : "ReadLineSimple(StringLocated;String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#51"
  , "c1" : "void"
  , "c2" : "close()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#54"
  , "c1" : "StringLocated"
  , "c2" : "readLine()"
  , "c3" : "2"
@@ -100,31 +100,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.preproc.ReadLineSimple.readLine@POLYN146854 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.preproc.ReadLineSimple.readLine@POLYN147058 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.preproc.ReadLineSimple.readLine@POLYN146854 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.preproc.ReadLineSimple.readLine@POLYN147058 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#51"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00017] Void method close is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00051] Void method close is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#51"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00017] Void method close is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00051] Void method close is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

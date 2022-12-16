@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.html.LinkHtmlPrinter"
 class net.sourceforge.plantuml.html.LinkHtmlPrinter {
-+LinkHtmlPrinter(Link;IEntity) : LinkHtmlPrinter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#18]]]
-printLink(PrintWriter) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#29]]]
--getHtml(String;String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#65]]]
--getHtmlChiral(String;String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#100]]]
-htmlLink(IEntity) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#134]]]
-urlOf(IEntity) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#144]]]
++LinkHtmlPrinter(Link;IEntity) : LinkHtmlPrinter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#52]]]
+printLink(PrintWriter) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#63]]]
+-getHtml(String;String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#99]]]
+-getHtmlChiral(String;String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#134]]]
+htmlLink(IEntity) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#168]]]
+urlOf(IEntity) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#178]]]
 } 
 @enduml

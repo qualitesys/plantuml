@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.Stereotag" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#44"
  , "c1" : "String"
  , "c2" : "pattern()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#50"
  , "c1" : "Stereotag"
  , "c2" : "Stereotag(String)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#57"
  , "c1" : "String"
  , "c2" : "getName()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#62"
  , "c1" : "int"
  , "c2" : "hashCode()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#67"
  , "c1" : "boolean"
  , "c2" : "equals(Object)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#38"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#72"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -127,52 +127,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.cucadiagram.Stereotag.pattern@POLYN147871 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.cucadiagram.Stereotag.pattern@POLYN148075 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.cucadiagram.Stereotag.pattern@POLYN147871 the MagicNumber/String  '([%s]+' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.cucadiagram.Stereotag.pattern@POLYN148075 the MagicNumber/String  '([%s]+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.cucadiagram.Stereotag.pattern@POLYN147871 the MagicNumber/String  ')*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.cucadiagram.Stereotag.pattern@POLYN148075 the MagicNumber/String  ')*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.cucadiagram.Stereotag.Stereotag@POLYN148080 the MagicNumber/String  '$' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.cucadiagram.Stereotag.Stereotag@POLYN148284 the MagicNumber/String  '$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method equals arguments Object  arg0"
+ , "c3" : "QC-JAV000006[00067] For method equals arguments Object  arg0"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.cucadiagram.Stereotag.toString@POLYN148852 the MagicNumber/String  '$' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.cucadiagram.Stereotag.toString@POLYN149056 the MagicNumber/String  '$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#10"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotag.java.html#44"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00010] Public method pattern is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00044] Public method pattern is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.flowdiagram.CommandLineSimple" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#50"
  , "c1" : "CommandLineSimple"
  , "c2" : "CommandLineSimple()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#54"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#67"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(FlowDiagram;LineLocation;RegexResult)"
  , "c3" : "2"
@@ -100,115 +100,115 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.getRegexConcat@POLYN152233 the MagicNumber/String  'ORIENTATION' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.getRegexConcat@POLYN152437 the MagicNumber/String  'ORIENTATION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.getRegexConcat@POLYN152233 the MagicNumber/String  '([nsew])' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.getRegexConcat@POLYN152437 the MagicNumber/String  '([nsew])' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.getRegexConcat@POLYN152233 the MagicNumber/String  'ID_DEST' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.getRegexConcat@POLYN152437 the MagicNumber/String  'ID_DEST' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.getRegexConcat@POLYN152233 the MagicNumber/String  '(\\w+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.getRegexConcat@POLYN152437 the MagicNumber/String  '(\\w+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.getRegexConcat@POLYN152233 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.getRegexConcat@POLYN152437 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.getRegexConcat@POLYN152233 the MagicNumber/String  '[%g](.*)[%g]' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.getRegexConcat@POLYN152437 the MagicNumber/String  '[%g](.*)[%g]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method executeArg arguments FlowDiagram  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00067] For method executeArg arguments FlowDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#67"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00067] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#67"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00067] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.executeArg@POLYN152904 the MagicNumber/String  'ID_DEST' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.executeArg@POLYN153108 the MagicNumber/String  'ID_DEST' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.executeArg@POLYN152904 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.executeArg@POLYN153108 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.executeArg@POLYN152904 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.executeArg@POLYN153108 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.executeArg@POLYN152904 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.executeArg@POLYN153108 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.executeArg@POLYN152904 the MagicNumber/String  'ORIENTATION' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.executeArg@POLYN153108 the MagicNumber/String  'ORIENTATION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.executeArg@POLYN152904 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.executeArg@POLYN153108 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/CommandLineSimple.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.executeArg@POLYN152904 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.flowdiagram.CommandLineSimple.executeArg@POLYN153108 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

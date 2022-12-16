@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.asciiart.ComponentTextDelay" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#53"
  , "c1" : "ComponentTextDelay"
  , "c2" : "ComponentTextDelay(ComponentType;Display;FileFormat)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#57"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic;Area;Context2D)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#38"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#72"
  , "c1" : "double"
  , "c2" : "getPreferredHeight(StringBounder)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#76"
  , "c1" : "double"
  , "c2" : "getPreferredWidth(StringBounder)"
  , "c3" : "1"
@@ -109,66 +109,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method drawU arguments UGraphic  ug|Area  area|Context2D  context"
+ , "c3" : "QC-JAV000006[00057] For method drawU arguments UGraphic  ug|Area  area|Context2D  context"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#57"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00023] The argument area is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00057] The argument area is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.drawU@POLYN152014 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.drawU@POLYN152218 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.drawU@POLYN152014 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.drawU@POLYN152218 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.drawU@POLYN152014 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.drawU@POLYN152218 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#72"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method getPreferredHeight arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00072] For method getPreferredHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.getPreferredHeight@POLYN152986 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.getPreferredHeight@POLYN153190 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method getPreferredWidth arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00076] For method getPreferredWidth arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.getPreferredWidth@POLYN153157 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.getPreferredWidth@POLYN153361 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

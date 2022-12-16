@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.util.EdgeCrossing" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#15"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#21"
  , "c1" : "EdgeCrossing"
  , "c2" : "EdgeCrossing(int;int;double;double;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#24"
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#30"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#29"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#35"
  , "c1" : "int"
  , "c2" : "getType()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#34"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#40"
  , "c1" : "double"
  , "c2" : "getX()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#39"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#45"
  , "c1" : "double"
  , "c2" : "getY()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#44"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#50"
  , "c1" : "double"
  , "c2" : "getAngle()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#49"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#55"
  , "c1" : "int"
  , "c2" : "getIndex()"
  , "c3" : "1"
@@ -122,38 +122,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#26"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method ext.plantuml.com.ctreber.acearth.util.EdgeCrossing.toString@POLYN141538 the MagicNumber/String  ': ' should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.util.EdgeCrossing.toString@POLYN141574 the MagicNumber/String  ': ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#26"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method ext.plantuml.com.ctreber.acearth.util.EdgeCrossing.toString@POLYN141538 the MagicNumber/String  ', ' should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.util.EdgeCrossing.toString@POLYN141574 the MagicNumber/String  ', ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#26"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method ext.plantuml.com.ctreber.acearth.util.EdgeCrossing.toString@POLYN141538 the MagicNumber/String  ', ' should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.util.EdgeCrossing.toString@POLYN141574 the MagicNumber/String  ', ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#26"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method ext.plantuml.com.ctreber.acearth.util.EdgeCrossing.toString@POLYN141538 the MagicNumber/String  ' (' should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.util.EdgeCrossing.toString@POLYN141574 the MagicNumber/String  ' (' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#26"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/EdgeCrossing.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method ext.plantuml.com.ctreber.acearth.util.EdgeCrossing.toString@POLYN141538 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.util.EdgeCrossing.toString@POLYN141574 the MagicNumber/String  ')' should be converted to const"
 }} 
 ]
 , 

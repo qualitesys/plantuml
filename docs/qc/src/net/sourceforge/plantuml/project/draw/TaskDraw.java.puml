@@ -2,18 +2,18 @@
 !pragma layout smetana
 "UDrawable" <|-- "net.sourceforge.plantuml.project.draw.TaskDraw"
 class net.sourceforge.plantuml.project.draw.TaskDraw {
-+getTrueRow() : TaskDraw [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#18]]]
-+setColorsAndCompletion(CenterBorderColor;int;Url;Display) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#20]]]
-+getY(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#22]]]
-+getY(StringBounder;Direction) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#24]]]
-+drawTitle(UGraphic;LabelStrategy;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#26]]]
-+getTitleWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#28]]]
-+getFullHeightTask(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#30]]]
-+getHeightMax(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#32]]]
-+getTask() : Task [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#34]]]
-+getFingerPrint(StringBounder) : FingerPrint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#36]]]
-+getFingerPrintNote(StringBounder) : FingerPrint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#38]]]
-+getX1(TaskAttribute) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#40]]]
-+getX2(TaskAttribute) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#42]]]
++getTrueRow() : TaskDraw [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#52]]]
++setColorsAndCompletion(CenterBorderColor;int;Url;Display) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#54]]]
++getY(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#56]]]
++getY(StringBounder;Direction) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#58]]]
++drawTitle(UGraphic;LabelStrategy;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#60]]]
++getTitleWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#62]]]
++getFullHeightTask(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#64]]]
++getHeightMax(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#66]]]
++getTask() : Task [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#68]]]
++getFingerPrint(StringBounder) : FingerPrint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#70]]]
++getFingerPrintNote(StringBounder) : FingerPrint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#72]]]
++getX1(TaskAttribute) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#74]]]
++getX2(TaskAttribute) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDraw.java.html#76]]]
 } 
 @enduml

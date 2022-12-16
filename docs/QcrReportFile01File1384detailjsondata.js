@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphic.TextBlockWithUrl" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#49"
  , "c1" : "TextBlock"
  , "c2" : "withUrl(TextBlock;Url)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#57"
  , "c1" : "TextBlockWithUrl"
  , "c2" : "TextBlockWithUrl(TextBlock;Url)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#62"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#68"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#38"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#72"
  , "c1" : "MinMax"
  , "c2" : "getMinMax(StringBounder)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#76"
  , "c1" : "XRectangle2D"
  , "c2" : "getInnerPosition(String;StringBounder;InnerStrategy)"
  , "c3" : "1"
@@ -127,52 +127,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method withUrl arguments TextBlock  block|Url  url"
+ , "c3" : "QC-JAV000006[00049] For method withUrl arguments TextBlock  block|Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.graphic.TextBlockWithUrl.withUrl@POLYN149901 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.graphic.TextBlockWithUrl.withUrl@POLYN150105 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00062] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#62"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00062] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00068] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#72"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method getMinMax arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00072] For method getMinMax arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockWithUrl.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method getInnerPosition arguments String  member|StringBounder  stringBounder|InnerStrategy  strategy"
+ , "c3" : "QC-JAV000006[00076] For method getInnerPosition arguments String  member|StringBounder  stringBounder|InnerStrategy  strategy"
 }} 
 ]
 , 

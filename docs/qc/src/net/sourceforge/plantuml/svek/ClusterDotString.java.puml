@@ -2,19 +2,19 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.svek.ClusterDotString"
 class net.sourceforge.plantuml.svek.ClusterDotString {
-+ClusterDotString(Cluster;ISkinParam) : ClusterDotString [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#28]]]
-printInternal(StringBuilder;Collection<SvekLine>;StringBounder;DotMode;GraphvizVersion;UmlDiagramType) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#33]]]
--getSourceInPoint(UmlDiagramType) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#151]]]
--getSinkInPoint(UmlDiagramType) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#158]]]
--empty() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#165]]]
--hasPort() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#173]]]
--entityPositionsExceptNormal() : Set<EntityPosition> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#181]]]
--subgraphClusterNoLabel(StringBuilder;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#190]]]
--subgraphClusterWithLabel(StringBuilder;String;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#194]]]
--printRanks(String;List<?extendsSvekNode>;StringBuilder;StringBounder) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#199]]]
--withPosition(Set<EntityPosition>) : List<SvekNode> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#234]]]
--protection0(UmlDiagramType) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#245]]]
--protection1(UmlDiagramType) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#252]]]
--isThereALinkFromOrToGroup(Collection<SvekLine>) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#262]]]
++ClusterDotString(Cluster;ISkinParam) : ClusterDotString [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#63]]]
+printInternal(StringBuilder;Collection<SvekLine>;StringBounder;DotMode;GraphvizVersion;UmlDiagramType) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#68]]]
+-getSourceInPoint(UmlDiagramType) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#186]]]
+-getSinkInPoint(UmlDiagramType) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#193]]]
+-empty() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#200]]]
+-hasPort() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#208]]]
+-entityPositionsExceptNormal() : Set<EntityPosition> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#216]]]
+-subgraphClusterNoLabel(StringBuilder;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#225]]]
+-subgraphClusterWithLabel(StringBuilder;String;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#229]]]
+-printRanks(String;List<?extendsSvekNode>;StringBuilder;StringBounder) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#234]]]
+-withPosition(Set<EntityPosition>) : List<SvekNode> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#269]]]
+-protection0(UmlDiagramType) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#280]]]
+-protection1(UmlDiagramType) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#287]]]
+-isThereALinkFromOrToGroup(Collection<SvekLine>) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#297]]]
 } 
 @enduml

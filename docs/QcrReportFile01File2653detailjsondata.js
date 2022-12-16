@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.g2d.DriverCenteredCharacterG2d" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#49"
  , "c1" : "void"
  , "c2" : "draw(UCenteredCharacter;double;double;ColorMapper;UParam;Graphics2D)"
  , "c3" : "1"
@@ -82,45 +82,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method draw arguments UCenteredCharacter  characterCircled|double  x|double  y|ColorMapper  mapper|UParam  param|Graphics2D  g2d"
+ , "c3" : "QC-JAV000006[00049] For method draw arguments UCenteredCharacter  characterCircled|double  x|double  y|ColorMapper  mapper|UParam  param|Graphics2D  g2d"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#49"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument characterCircled is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00049] The argument characterCircled is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#49"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00049] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#49"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00049] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.ugraphic.g2d.DriverCenteredCharacterG2d.draw@POLYN149785 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ugraphic.g2d.DriverCenteredCharacterG2d.draw@POLYN149989 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.ugraphic.g2d.DriverCenteredCharacterG2d.draw@POLYN149785 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ugraphic.g2d.DriverCenteredCharacterG2d.draw@POLYN149989 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
 , 

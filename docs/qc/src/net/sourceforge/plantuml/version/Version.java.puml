@@ -2,17 +2,17 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.version.Version"
 class net.sourceforge.plantuml.version.Version {
-+version() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#13]]]
-+versionPatched() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#17]]]
-+versionString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#24]]]
-+fullDescription() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#31]]]
--dotted(int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#35]]]
-+versionString(int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#41]]]
-+beta() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#49]]]
-+etag() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#54]]]
-+turningId() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#58]]]
-+compileTime() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#62]]]
-+compileTimeString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#66]]]
-+getJarPath() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#73]]]
++version() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#47]]]
++versionPatched() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#51]]]
++versionString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#58]]]
++fullDescription() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#65]]]
+-dotted(int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#69]]]
++versionString(int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#75]]]
++beta() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#83]]]
++etag() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#88]]]
++turningId() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#92]]]
++compileTime() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#96]]]
++compileTimeString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#100]]]
++getJarPath() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/version/Version.java.html#107]]]
 } 
 @enduml

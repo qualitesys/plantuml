@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.wire.WPrint" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#58"
  , "c1" : "WPrint"
  , "c2" : "WPrint(ISkinParam;UTranslate;HColor;Display)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#65"
  , "c1" : "HColor"
  , "c2" : "getBlack()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#69"
  , "c1" : "TextBlock"
  , "c2" : "getTextBlock()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#75"
  , "c1" : "UChange"
  , "c2" : "getPosition()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#45"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#79"
  , "c1" : "void"
  , "c2" : "drawMe(UGraphic)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#49"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#83"
  , "c1" : "double"
  , "c2" : "getHeight(StringBounder)"
  , "c3" : "1"
@@ -127,45 +127,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.wire.WPrint.WPrint@POLYN152724 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.wire.WPrint.WPrint@POLYN152928 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.wire.WPrint.getTextBlock@POLYN153347 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.wire.WPrint.getTextBlock@POLYN153551 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#79"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method drawMe arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00079] For method drawMe arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#83"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method getHeight arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00083] For method getHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#83"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00049] Public method getHeight is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00083] Public method getHeight is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WPrint.java.html#79"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00045] Public method drawMe is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00079] Public method drawMe is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

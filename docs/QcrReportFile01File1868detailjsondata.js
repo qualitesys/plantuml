@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.security.authentication.SecurityAuthorizeManager" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00007"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthorizeManager.java.html#7"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthorizeManager.java.html#53"
  , "c1" : "SecurityAuthentication"
  , "c2" : "create(SecurityCredentials)"
  , "c3" : "1"

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.command.CommandSkin" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#51"
  , "c1" : "CommandSkin"
  , "c2" : "CommandSkin()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#55"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#63"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(TitledDiagram;LineLocation;RegexResult)"
  , "c3" : "1"
@@ -100,66 +100,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.sequencediagram.command.CommandSkin.getRegexConcat@POLYN150254 the MagicNumber/String  'skin' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandSkin.getRegexConcat@POLYN150458 the MagicNumber/String  'skin' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.sequencediagram.command.CommandSkin.getRegexConcat@POLYN150254 the MagicNumber/String  'SKIN' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.sequencediagram.command.CommandSkin.getRegexConcat@POLYN150458 the MagicNumber/String  'SKIN' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.sequencediagram.command.CommandSkin.getRegexConcat@POLYN150254 the MagicNumber/String  '([\\w.]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.sequencediagram.command.CommandSkin.getRegexConcat@POLYN150458 the MagicNumber/String  '([\\w.]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method executeArg arguments TitledDiagram  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00063] For method executeArg arguments TitledDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#63"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00063] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#63"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00063] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.sequencediagram.command.CommandSkin.executeArg@POLYN150697 the MagicNumber/String  'SKIN' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.command.CommandSkin.executeArg@POLYN150901 the MagicNumber/String  'SKIN' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.sequencediagram.command.CommandSkin.executeArg@POLYN150697 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.command.CommandSkin.executeArg@POLYN150901 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.sequencediagram.command.CommandSkin.executeArg@POLYN150697 the MagicNumber/String  'Skin read error' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.sequencediagram.command.CommandSkin.executeArg@POLYN150901 the MagicNumber/String  'Skin read error' should be converted to const"
 }} 
 ]
 , 

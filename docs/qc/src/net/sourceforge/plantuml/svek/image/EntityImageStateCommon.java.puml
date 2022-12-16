@@ -2,15 +2,15 @@
 !pragma layout smetana
 "AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageStateCommon"
 class net.sourceforge.plantuml.svek.image.EntityImageStateCommon {
-+EntityImageStateCommon(IEntity;ISkinParam) : EntityImageStateCommon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#31]]]
-+getStyleStateTitle(IEntity;ISkinParam) : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#45]]]
-+getStyleStateHeader(IEntity;ISkinParam) : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#50]]]
-+getStyleState(IEntity;ISkinParam) : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#55]]]
-+getStyleStateBody(IEntity;ISkinParam) : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#60]]]
-getStyleState() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#65]]]
-getStyleStateHeader() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#69]]]
-+getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#73]]]
-getShape(XDimension2D) : URectangle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#77]]]
-applyColor(UGraphic) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#87]]]
++EntityImageStateCommon(IEntity;ISkinParam) : EntityImageStateCommon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#65]]]
++getStyleStateTitle(IEntity;ISkinParam) : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#79]]]
++getStyleStateHeader(IEntity;ISkinParam) : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#84]]]
++getStyleState(IEntity;ISkinParam) : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#89]]]
++getStyleStateBody(IEntity;ISkinParam) : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#94]]]
+getStyleState() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#99]]]
+getStyleStateHeader() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#103]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#107]]]
+getShape(XDimension2D) : URectangle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#111]]]
+applyColor(UGraphic) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#121]]]
 } 
 @enduml

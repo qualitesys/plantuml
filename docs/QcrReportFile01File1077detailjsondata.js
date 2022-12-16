@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.Body3" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#61"
  , "c1" : "Body3"
  , "c2" : "Body3(List<CharSequence>;ISkinParam;Stereotype;Style)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#70"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#75"
  , "c1" : "TextBlock"
  , "c2" : "getTextBlock()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#82"
  , "c1" : "Ports"
  , "c2" : "getPorts(StringBounder)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#86"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -111,31 +111,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.cucadiagram.Body3.Body3@POLYN153638 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.cucadiagram.Body3.Body3@POLYN153842 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00070] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#48"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method getPorts arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00082] For method getPorts arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#52"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#86"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00086] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ]
 , 

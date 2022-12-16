@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.color.HColorSimple" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#48"
  , "c1" : "int"
  , "c2" : "hashCode()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#53"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#69"
  , "c1" : "String"
  , "c2" : "asString()"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#46"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#80"
  , "c1" : "HColor"
  , "c2" : "lighten(int)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#53"
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#87"
  , "c1" : "HColor"
  , "c2" : "darken(int)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#60"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#94"
  , "c1" : "HColor"
  , "c2" : "reverseHsluv()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#65"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#99"
  , "c1" : "HColor"
  , "c2" : "reverse()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#70"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#104"
  , "c1" : "boolean"
  , "c2" : "isDark()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#75"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#109"
  , "c1" : "boolean"
  , "c2" : "isTransparent()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00080"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#80"
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#114"
  , "c1" : "boolean"
  , "c2" : "equals(Object)"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#87"
+ , "c5" : "00121"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#121"
  , "c1" : "HColorSimple"
  , "c2" : "HColorSimple(Color)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00092"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#92"
+ , "c5" : "00126"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#126"
  , "c1" : "HColorSimple"
  , "c2" : "HColorSimple(Color;HColor)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#97"
+ , "c5" : "00131"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#131"
  , "c1" : "Color"
  , "c2" : "getAwtColor()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#101"
+ , "c5" : "00135"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#135"
  , "c1" : "HColor"
  , "c2" : "asMonochrome()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00105"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#105"
+ , "c5" : "00139"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#139"
  , "c1" : "HColor"
  , "c2" : "asMonochrome(HColorSimple;double;double)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00117"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#117"
+ , "c5" : "00151"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#151"
  , "c1" : "HColor"
  , "c2" : "opposite()"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00123"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#123"
+ , "c5" : "00157"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#157"
  , "c1" : "int"
  , "c2" : "distanceTo(HColorSimple)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00127"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#127"
+ , "c5" : "00161"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#161"
  , "c1" : "boolean"
  , "c2" : "isGray()"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00131"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#131"
+ , "c5" : "00165"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#165"
  , "c1" : "HColorSimple"
  , "c2" : "unlinear(HColorSimple;HColorSimple;int)"
  , "c3" : "2"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00150"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#150"
+ , "c5" : "00184"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#184"
  , "c1" : "float[]"
  , "c2" : "linear(float;float[];float[])"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00157"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#157"
+ , "c5" : "00191"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#191"
  , "c1" : "float"
  , "c2" : "linear(float;float;float)"
  , "c3" : "1"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00162"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#162"
+ , "c5" : "00196"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#196"
  , "c1" : "HColor"
  , "c2" : "withDark(HColor)"
  , "c3" : "1"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00167"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#167"
+ , "c5" : "00201"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#201"
  , "c1" : "HColor"
  , "c2" : "darkSchemeTheme()"
  , "c3" : "1"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00172"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#172"
+ , "c5" : "00206"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#206"
  , "c1" : "Color"
  , "c2" : "toColor(ColorMapper)"
  , "c3" : "2"
@@ -296,325 +296,325 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.toString@POLYN169375 the MagicNumber/String  'WITHDARK ' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.toString@POLYN169579 the MagicNumber/String  'WITHDARK ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.toString@POLYN169375 the MagicNumber/String  ' \u03B1=' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.toString@POLYN169579 the MagicNumber/String  ' \u03B1=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.toString@POLYN169375 the MagicNumber/String  ' transparent' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.asString@POLYN170135 the MagicNumber/String  'transparent' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#39"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.asString@POLYN170135 the MagicNumber/String  255 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.asString@POLYN170135 the MagicNumber/String  '#' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#46"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method lighten arguments int  ratio"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.lighten@POLYN170569 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.lighten@POLYN170569 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.lighten@POLYN170569 the MagicNumber/String  100.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#53"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method darken arguments int  ratio"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.darken@POLYN171095 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.darken@POLYN171095 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.darken@POLYN171095 the MagicNumber/String  100.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.toString@POLYN169579 the MagicNumber/String  ' transparent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.isDark@POLYN171983 the MagicNumber/String  128 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.asString@POLYN170339 the MagicNumber/String  'transparent' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#73"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.asString@POLYN170339 the MagicNumber/String  255 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.isTransparent@POLYN172146 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.asString@POLYN170339 the MagicNumber/String  '#' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method equals arguments Object  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.equals@POLYN172290 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000006[00080] For method lighten arguments int  ratio"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.equals@POLYN172290 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.lighten@POLYN170773 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.lighten@POLYN170773 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.lighten@POLYN170773 the MagicNumber/String  100.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#87"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00087] For method darken arguments int  ratio"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.darken@POLYN171299 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.darken@POLYN171299 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.darken@POLYN171299 the MagicNumber/String  100.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.isDark@POLYN172187 the MagicNumber/String  128 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#110"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.isTransparent@POLYN172350 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#114"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00105] For method asMonochrome arguments HColorSimple  colorForMonochrome|double  minGray|double  maxGray"
+ , "c3" : "QC-JAV000006[00114] For method equals arguments Object  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#105"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00105] The argument colorForMonochrome is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#111"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.asMonochrome@POLYN173252 the MagicNumber/String  256.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.equals@POLYN172494 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#119"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.opposite@POLYN174048 the MagicNumber/String  255 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.opposite@POLYN174048 the MagicNumber/String  127 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.opposite@POLYN174048 the MagicNumber/String  255 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.opposite@POLYN174048 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#123"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00123] For method distanceTo arguments HColorSimple  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#123"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00123] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00128] The same method call color.getGreen()color.getBlue() is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#131"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00131] For method unlinear arguments HColorSimple  color1|HColorSimple  color2|int  completionInt"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#131"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00131] The argument color1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#131"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00131] The argument color2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#138"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.unlinear@POLYN174953 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.equals@POLYN172494 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.unlinear@POLYN174953 the MagicNumber/String  100 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.unlinear@POLYN174953 the MagicNumber/String  100.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#150"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00150] For method linear arguments float  factor|float[]  hsl1|float[]  hsl2"
+ , "c3" : "QC-JAV000006[00139] For method asMonochrome arguments HColorSimple  colorForMonochrome|double  minGray|double  maxGray"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#151"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.linear@POLYN176135 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#139"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00139] The argument colorForMonochrome is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#151"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.linear@POLYN176135 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#152"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.linear@POLYN176135 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#152"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.linear@POLYN176135 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.asMonochrome@POLYN173456 the MagicNumber/String  256.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.linear@POLYN176135 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.opposite@POLYN174252 the MagicNumber/String  255 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.linear@POLYN176135 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.opposite@POLYN174252 the MagicNumber/String  127 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.opposite@POLYN174252 the MagicNumber/String  255 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.opposite@POLYN174252 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#157"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00157] For method linear arguments float  factor|float  x|float  y"
+ , "c3" : "QC-JAV000006[00157] For method distanceTo arguments HColorSimple  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#157"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00157] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#162"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00162] For method withDark arguments HColor  dark"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00162] The same method call color.getGreen()color.getBlue() is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#172"
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#165"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00172] For method toColor arguments ColorMapper  mapper"
+ , "c3" : "QC-JAV000006[00165] For method unlinear arguments HColorSimple  color1|HColorSimple  color2|int  completionInt"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#172"
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#165"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00172] The argument mapper is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00165] The argument color1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#165"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00165] The argument color2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.unlinear@POLYN175157 the MagicNumber/String  100 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#173"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.unlinear@POLYN175157 the MagicNumber/String  100 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.unlinear@POLYN175157 the MagicNumber/String  100.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#184"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00184] For method linear arguments float  factor|float[]  hsl1|float[]  hsl2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#185"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.linear@POLYN176339 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#185"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.linear@POLYN176339 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#186"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.linear@POLYN176339 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#186"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.linear@POLYN176339 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.linear@POLYN176339 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.ugraphic.color.HColorSimple.linear@POLYN176339 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#191"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00191] For method linear arguments float  factor|float  x|float  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#196"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00196] For method withDark arguments HColor  dark"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00206"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#206"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00206] For method toColor arguments ColorMapper  mapper"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00206"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSimple.java.html#206"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00206] The argument mapper is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

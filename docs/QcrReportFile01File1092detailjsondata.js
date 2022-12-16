@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.EntityGenderUtils" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#42"
  , "c1" : "EntityGender"
  , "c2" : "byEntityType(LeafType)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#50"
  , "c1" : "EntityGender"
  , "c2" : "byEntityAlone(IEntity)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#58"
  , "c1" : "EntityGender"
  , "c2" : "byStereotype(String)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#69"
  , "c1" : "EntityGender"
  , "c2" : "byPackage(IGroup)"
  , "c3" : "4"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#86"
  , "c1" : "EntityGender"
  , "c2" : "and(EntityGender;EntityGender)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#60"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#94"
  , "c1" : "EntityGender"
  , "c2" : "all()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#68"
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#102"
  , "c1" : "EntityGender"
  , "c2" : "emptyMethods()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#76"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#110"
  , "c1" : "EntityGender"
  , "c2" : "emptyFields()"
  , "c3" : "1"
@@ -145,122 +145,122 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#8"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00008] For method byEntityType arguments LeafType  type"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#16"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method byEntityAlone arguments IEntity  entity"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#16"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00016] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#24"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method byStereotype arguments String  stereotype"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#24"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00024] The argument stereotype is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byStereotype@POLYN154704 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byStereotype@POLYN154704 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#35"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method byPackage arguments IGroup  group"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00042"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byPackage@POLYN155194 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byPackage@POLYN155194 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byPackage@POLYN155194 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#52"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method and arguments EntityGender  g1|EntityGender  g2"
+ , "c3" : "QC-JAV000006[00042] For method byEntityType arguments LeafType  type"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#52"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#50"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00050] For method byEntityAlone arguments IEntity  entity"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#50"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument g1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00050] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#52"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#58"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00058] For method byStereotype arguments String  stereotype"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#58"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument g2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00058] The argument stereotype is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#63"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.all@POLYN156248 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byStereotype@POLYN154908 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#71"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.emptyMethods@POLYN156478 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byStereotype@POLYN154908 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#69"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00069] For method byPackage arguments IGroup  group"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byPackage@POLYN155398 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.emptyFields@POLYN156790 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byPackage@POLYN155398 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byPackage@POLYN155398 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#86"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00086] For method and arguments EntityGender  g1|EntityGender  g2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#86"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00086] The argument g1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#86"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00086] The argument g2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.all@POLYN156452 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.emptyMethods@POLYN156682 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#113"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.emptyFields@POLYN156994 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

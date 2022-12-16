@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.FrontierComplex" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#45"
  , "c1" : "FrontierComplex"
  , "c2" : "create(double;int)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#53"
  , "c1" : "FrontierComplex"
  , "c2" : "FrontierComplex(double[])"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#57"
  , "c1" : "double"
  , "c2" : "getFreeY(ParticipantRange)"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#68"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#38"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#72"
  , "c1" : "FrontierComplex"
  , "c2" : "add(double;ParticipantRange)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#47"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#81"
  , "c1" : "FrontierComplex"
  , "c2" : "copy()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#51"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#85"
  , "c1" : "FrontierComplex"
  , "c2" : "mergeMax(FrontierComplex)"
  , "c3" : "3"
@@ -136,73 +136,73 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#45"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00011] For method create arguments double  freeY|int  rangeEnd"
+ , "c3" : "QC-JAV000006[00045] For method create arguments double  freeY|int  rangeEnd"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierComplex.create@POLYN153434 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierComplex.create@POLYN153638 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#13"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierComplex.create@POLYN153434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierComplex.create@POLYN153638 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method getFreeY arguments ParticipantRange  range"
+ , "c3" : "QC-JAV000006[00057] For method getFreeY arguments ParticipantRange  range"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#57"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00023] The argument range is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00057] The argument range is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#72"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method add arguments double  delta|ParticipantRange  range"
+ , "c3" : "QC-JAV000006[00072] For method add arguments double  delta|ParticipantRange  range"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#72"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00038] The argument range is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00072] The argument range is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#85"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method mergeMax arguments FrontierComplex  other"
+ , "c3" : "QC-JAV000006[00085] For method mergeMax arguments FrontierComplex  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#85"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00051] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00085] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#56"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierComplex.mergeMax@POLYN155718 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierComplex.mergeMax@POLYN155922 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

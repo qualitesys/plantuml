@@ -2,18 +2,18 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.creole.Position"
 class net.sourceforge.plantuml.creole.Position {
-+Position(double;double;XDimension2D) : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#17]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#30]]]
-+align(double) : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#34]]]
-+getMinY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#39]]]
-+getMaxY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#43]]]
-+translate(UGraphic) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#47]]]
-+translateY(double) : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#51]]]
-+translateX(double) : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#55]]]
-+update(MinMax) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#59]]]
-+drawDebug(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#63]]]
-+getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#69]]]
-+getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#73]]]
-+getTranslate() : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#77]]]
++Position(double;double;XDimension2D) : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#51]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#64]]]
++align(double) : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#68]]]
++getMinY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#73]]]
++getMaxY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#77]]]
++translate(UGraphic) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#81]]]
++translateY(double) : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#85]]]
++translateX(double) : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#89]]]
++update(MinMax) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#93]]]
++drawDebug(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#97]]]
++getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#103]]]
++getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#107]]]
++getTranslate() : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Position.java.html#111]]]
 } 
 @enduml

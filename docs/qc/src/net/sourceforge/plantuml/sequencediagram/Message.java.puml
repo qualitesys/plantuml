@@ -2,14 +2,14 @@
 !pragma layout smetana
 "AbstractMessage" <|-- "net.sourceforge.plantuml.sequencediagram.Message"
 class net.sourceforge.plantuml.sequencediagram.Message {
-+Message(StyleBuilder;Participant;Participant;Display;ArrowConfiguration;String) : Message [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#16]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#24]]]
-+getParticipant1() : Participant [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#29]]]
-+getParticipant2() : Participant [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#34]]]
-+dealWith(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#38]]]
-+compatibleForCreate(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#43]]]
-+isSelfMessage() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#47]]]
-+setMulticast(List<Participant>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#53]]]
-+getMulticast() : List<Participant> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#57]]]
++Message(StyleBuilder;Participant;Participant;Display;ArrowConfiguration;String) : Message [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#50]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#58]]]
++getParticipant1() : Participant [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#63]]]
++getParticipant2() : Participant [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#68]]]
++dealWith(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#72]]]
++compatibleForCreate(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#77]]]
++isSelfMessage() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#81]]]
++setMulticast(List<Participant>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#87]]]
++getMulticast() : List<Participant> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#91]]]
 } 
 @enduml

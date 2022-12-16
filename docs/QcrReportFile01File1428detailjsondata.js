@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#66"
  , "c1" : "GraphmlDescriptionDiagram"
  , "c2" : "GraphmlDescriptionDiagram(DescriptionDiagram)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#56"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#90"
  , "c1" : "void"
  , "c2" : "addElement(IEntity;Element)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#62"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#96"
  , "c1" : "Element"
  , "c2" : "createEntityNode(IEntity)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#68"
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#102"
  , "c1" : "void"
  , "c2" : "transformerXml(OutputStream)"
  , "c3" : "1"
@@ -116,157 +116,157 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#66"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00032] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00066] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00051] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00085] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157025 the MagicNumber/String  '1.0' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157229 the MagicNumber/String  '1.0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157025 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157025 the MagicNumber/String  'graphml' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157025 the MagicNumber/String  'xmlns' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157025 the MagicNumber/String  'http://graphml.graphdrawing.org/xmlns' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157025 the MagicNumber/String  'xmlns:xsi' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157025 the MagicNumber/String  'http://www.w3.org/2001/XMLSchema-instance' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157025 the MagicNumber/String  'xsi:schemaLocation' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157025 the MagicNumber/String  'http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157025 the MagicNumber/String  'graph' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157025 the MagicNumber/String  'edgedefault' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157025 the MagicNumber/String  'undirected' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#56"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method addElement arguments IEntity  tobeAdded|Element  container"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#56"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00056] The argument container is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#62"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method createEntityNode arguments IEntity  entity"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#62"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00062] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.createEntityNode@POLYN158701 the MagicNumber/String  'node' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.createEntityNode@POLYN158701 the MagicNumber/String  'id' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#68"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00068] For method transformerXml arguments OutputStream  os"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157229 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.transformerXml@POLYN159037 the MagicNumber/String  'yes' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157229 the MagicNumber/String  'graphml' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157229 the MagicNumber/String  'xmlns' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157229 the MagicNumber/String  'http://graphml.graphdrawing.org/xmlns' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157229 the MagicNumber/String  'xmlns:xsi' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157229 the MagicNumber/String  'http://www.w3.org/2001/XMLSchema-instance' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#77"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157229 the MagicNumber/String  'xsi:schemaLocation' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#77"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157229 the MagicNumber/String  'http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#80"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157229 the MagicNumber/String  'graph' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157229 the MagicNumber/String  'edgedefault' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.GraphmlDescriptionDiagram@POLYN157229 the MagicNumber/String  'undirected' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#90"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00090] For method addElement arguments IEntity  tobeAdded|Element  container"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#90"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00090] The argument container is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#96"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00096] For method createEntityNode arguments IEntity  entity"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#96"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00096] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.createEntityNode@POLYN158905 the MagicNumber/String  'node' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.createEntityNode@POLYN158905 the MagicNumber/String  'id' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#102"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00102] For method transformerXml arguments OutputStream  os"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#108"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram.transformerXml@POLYN159241 the MagicNumber/String  'yes' should be converted to const"
 }} 
 ]
 , 

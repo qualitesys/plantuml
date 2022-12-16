@@ -2,12 +2,12 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.salt.element.ElementTreeEntry"
 class net.sourceforge.plantuml.salt.element.ElementTreeEntry {
-+ElementTreeEntry(int;Element) : ElementTreeEntry [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#19]]]
-+addCell(Element) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#24]]]
-+getPreferredDimensionFirstCell(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#28]]]
-+getPreferredDimensionOtherCell(StringBounder) : ListWidth [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#32]]]
-+getXDelta() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#40]]]
-+drawFirstCell(UGraphic;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#44]]]
-+drawSecondCell(UGraphic;double;double;ListWidth;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#48]]]
++ElementTreeEntry(int;Element) : ElementTreeEntry [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#53]]]
++addCell(Element) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#58]]]
++getPreferredDimensionFirstCell(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#62]]]
++getPreferredDimensionOtherCell(StringBounder) : ListWidth [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#66]]]
++getXDelta() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#74]]]
++drawFirstCell(UGraphic;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#78]]]
++drawSecondCell(UGraphic;double;double;ListWidth;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#82]]]
 } 
 @enduml

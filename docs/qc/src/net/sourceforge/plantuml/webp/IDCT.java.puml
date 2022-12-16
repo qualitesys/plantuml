@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.webp.IDCT"
 class net.sourceforge.plantuml.webp.IDCT {
-+idct4x4llm(int[]) : int[][] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/IDCT.java.html#10]]]
-+iwalsh4x4(int[]) : int[][] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/IDCT.java.html#77]]]
++idct4x4llm(int[]) : int[][] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/IDCT.java.html#24]]]
++iwalsh4x4(int[]) : int[][] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/IDCT.java.html#91]]]
 } 
 @enduml

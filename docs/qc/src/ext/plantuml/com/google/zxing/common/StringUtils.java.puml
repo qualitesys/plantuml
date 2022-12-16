@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "ext.plantuml.com.google.zxing.common.StringUtils"
 class ext.plantuml.com.google.zxing.common.StringUtils {
--StringUtils() : StringUtils [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#22]]]
-+guessEncoding(byte[];Hashtable) : String [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#25]]]
+-StringUtils() : StringUtils [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#40]]]
++guessEncoding(byte[];Hashtable) : String [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#49]]]
 } 
 @enduml

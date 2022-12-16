@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.posimo.Racorder"
 class net.sourceforge.plantuml.posimo.Racorder {
-+getRacordIn(XRectangle2D;XLine2D) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Racorder.java.html#8]]]
-+getRacordOut(XRectangle2D;XLine2D) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Racorder.java.html#9]]]
++getRacordIn(XRectangle2D;XLine2D) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Racorder.java.html#42]]]
++getRacordOut(XRectangle2D;XLine2D) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Racorder.java.html#43]]]
 } 
 @enduml

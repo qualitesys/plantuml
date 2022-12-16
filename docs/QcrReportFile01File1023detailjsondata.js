@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.creole.StripeStyle" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#49"
  , "c1" : "StripeStyle"
  , "c2" : "StripeStyle(StripeStyleType;int;char)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#55"
  , "c1" : "StripeStyleType"
  , "c2" : "getType()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#59"
  , "c1" : "Atom"
  , "c2" : "getHeader(FontConfiguration;CreoleContext)"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#70"
  , "c1" : "int"
  , "c2" : "getOrder()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#74"
  , "c1" : "char"
  , "c2" : "getStyle()"
  , "c3" : "1"
@@ -118,24 +118,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method getHeader arguments FontConfiguration  fontConfiguration|CreoleContext  context"
+ , "c3" : "QC-JAV000006[00059] For method getHeader arguments FontConfiguration  fontConfiguration|CreoleContext  context"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#59"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00025] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00059] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.creole.StripeStyle.getHeader@POLYN149835 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.creole.StripeStyle.getHeader@POLYN150039 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

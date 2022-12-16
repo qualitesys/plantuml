@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.creole.Sea" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#53"
  , "c1" : "Sea"
  , "c2" : "Sea(StringBounder)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#57"
  , "c1" : "void"
  , "c2" : "add(Atom)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#65"
  , "c1" : "Position"
  , "c2" : "getPosition(Atom)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#69"
  , "c1" : "void"
  , "c2" : "doAlign()"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#45"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#79"
  , "c1" : "void"
  , "c2" : "translateMinYto(double)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#54"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#88"
  , "c1" : "void"
  , "c2" : "exportAllPositions(Map<Atom,Position>)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#58"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#92"
  , "c1" : "double"
  , "c2" : "getMinY()"
  , "c3" : "4"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#105"
  , "c1" : "double"
  , "c2" : "getMaxY()"
  , "c3" : "4"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#84"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#118"
  , "c1" : "double"
  , "c2" : "getHeight()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#88"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#122"
  , "c1" : "MinMax"
  , "c2" : "update(MinMax)"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#95"
+ , "c5" : "00129"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#129"
  , "c1" : "double"
  , "c2" : "getWidth()"
  , "c3" : "1"
@@ -186,157 +186,157 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method add arguments Atom  atom"
+ , "c3" : "QC-JAV000006[00057] For method add arguments Atom  atom"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#57"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00023] The argument atom is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#25"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.creole.Sea.add@POLYN159552 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#31"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method getPosition arguments Atom  atom"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00037] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00038] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00040] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#45"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method translateMinYto arguments double  newValue"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00048] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00049] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#54"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00054] For method exportAllPositions arguments Map&lt;Atom ,Position &gt;  destination"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#54"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00054] The argument destination is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00057] The argument atom is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.creole.Sea.getMinY@POLYN161864 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.creole.Sea.add@POLYN159756 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#65"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00065] For method getPosition arguments Atom  atom"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#71"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00071] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.creole.Sea.getMaxY@POLYN162426 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00072] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00074] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#79"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00079] For method translateMinYto arguments double  newValue"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00082] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#83"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00083] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#88"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method update arguments MinMax  minMax"
+ , "c3" : "QC-JAV000006[00088] For method exportAllPositions arguments Map&lt;Atom ,Position &gt;  destination"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#31"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00031] Public method getPosition is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#88"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00088] The argument destination is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#58"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00058] Public method getMinY is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.creole.Sea.getMinY@POLYN162068 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#71"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00071] Public method getMaxY is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.creole.Sea.getMaxY@POLYN162630 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#84"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#122"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00122] For method update arguments MinMax  minMax"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#65"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00084] Public method getHeight is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00065] Public method getPosition is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#92"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00092] Public method getMinY is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#105"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00105] Public method getMaxY is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#118"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00118] Public method getHeight is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#122"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00122] Public method update is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#79"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00079] Public method translateMinYto is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#88"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00088] Public method update is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#45"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00045] Public method translateMinYto is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#54"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00054] Public method exportAllPositions is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00088] Public method exportAllPositions is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

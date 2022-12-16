@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.EaterImport" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterImport.java.html#10"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterImport.java.html#43"
  , "c1" : "EaterImport"
  , "c2" : "EaterImport(StringLocated)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterImport.java.html#15"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterImport.java.html#48"
  , "c1" : "void"
  , "c2" : "analyze(TContext;TMemory)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterImport.java.html#23"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterImport.java.html#56"
  , "c1" : "String"
  , "c2" : "getLocation()"
  , "c3" : "1"
@@ -100,24 +100,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterImport.java.html#15"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterImport.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method analyze arguments TContext  context|TMemory  memory"
+ , "c3" : "QC-JAV000006[00048] For method analyze arguments TContext  context|TMemory  memory"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterImport.java.html#15"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterImport.java.html#48"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00048] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterImport.java.html#17"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterImport.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.tim.EaterImport.analyze@POLYN146649 the MagicNumber/String  '!import' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.EaterImport.analyze@POLYN146847 the MagicNumber/String  '!import' should be converted to const"
 }} 
 ]
 , 

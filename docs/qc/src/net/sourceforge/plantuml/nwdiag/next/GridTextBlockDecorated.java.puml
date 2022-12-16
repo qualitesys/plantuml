@@ -2,14 +2,14 @@
 !pragma layout smetana
 "GridTextBlockSimple" <|-- "net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated"
 class net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated {
-+GridTextBlockDecorated(int;int;List<NwGroup>;List<Network>;ISkinParam) : GridTextBlockDecorated [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#28]]]
-drawGrid(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#36]]]
--drawLinks(UGraphic;StyleBuilder) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#44]]]
--drawGroups(UGraphic;NwGroup;ISkinParam) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#66]]]
--isThereALink(int;Network) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#92]]]
--getStyleDefinitionNetwork(SName) : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#102]]]
--drawNetworkTube(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#106]]]
--computeMixMax(LinkedElement[];StringBounder;Network) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#138]]]
--getNetwork(int) : Network [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#156]]]
++GridTextBlockDecorated(int;int;List<NwGroup>;List<Network>;ISkinParam) : GridTextBlockDecorated [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#61]]]
+drawGrid(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#69]]]
+-drawLinks(UGraphic;StyleBuilder) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#77]]]
+-drawGroups(UGraphic;NwGroup;ISkinParam) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#99]]]
+-isThereALink(int;Network) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#125]]]
+-getStyleDefinitionNetwork(SName) : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#135]]]
+-drawNetworkTube(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#139]]]
+-computeMixMax(LinkedElement[];StringBounder;Network) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#171]]]
+-getNetwork(int) : Network [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#189]]]
 } 
 @enduml

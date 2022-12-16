@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.api.INumberAnalyzed" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/INumberAnalyzed.java.html#6"
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/INumberAnalyzed.java.html#33"
  , "c1" : "long"
  , "c2" : "getNb()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/INumberAnalyzed.java.html#8"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/INumberAnalyzed.java.html#35"
  , "c1" : "long"
  , "c2" : "getSum()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/INumberAnalyzed.java.html#10"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/INumberAnalyzed.java.html#37"
  , "c1" : "long"
  , "c2" : "getMin()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/INumberAnalyzed.java.html#12"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/INumberAnalyzed.java.html#39"
  , "c1" : "long"
  , "c2" : "getMax()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/INumberAnalyzed.java.html#14"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/INumberAnalyzed.java.html#41"
  , "c1" : "long"
  , "c2" : "getMean()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/INumberAnalyzed.java.html#16"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/INumberAnalyzed.java.html#43"
  , "c1" : "long"
  , "c2" : "getSliddingMean()"
  , "c3" : "1"

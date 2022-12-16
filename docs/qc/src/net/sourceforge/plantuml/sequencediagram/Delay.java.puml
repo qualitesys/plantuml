@@ -2,10 +2,10 @@
 !pragma layout smetana
 "AbstractEventEvent" <|-- "net.sourceforge.plantuml.sequencediagram.Delay"
 class net.sourceforge.plantuml.sequencediagram.Delay {
-+getStyleSignature() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Delay.java.html#17]]]
-+getUsedStyles() : Style[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Delay.java.html#21]]]
-+Delay(Display;StyleBuilder) : Delay [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Delay.java.html#25]]]
-+getText() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Delay.java.html#30]]]
-+dealWith(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Delay.java.html#34]]]
++getStyleSignature() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Delay.java.html#51]]]
++getUsedStyles() : Style[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Delay.java.html#55]]]
++Delay(Display;StyleBuilder) : Delay [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Delay.java.html#59]]]
++getText() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Delay.java.html#64]]]
++dealWith(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Delay.java.html#68]]]
 } 
 @enduml

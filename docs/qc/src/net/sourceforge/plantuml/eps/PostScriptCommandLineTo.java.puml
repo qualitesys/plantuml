@@ -2,7 +2,7 @@
 !pragma layout smetana
 "PostScriptCommand" <|-- "net.sourceforge.plantuml.eps.PostScriptCommandLineTo"
 class net.sourceforge.plantuml.eps.PostScriptCommandLineTo {
-+PostScriptCommandLineTo(double;double) : PostScriptCommandLineTo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandLineTo.java.html#10]]]
-+toPostString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandLineTo.java.html#15]]]
++PostScriptCommandLineTo(double;double) : PostScriptCommandLineTo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandLineTo.java.html#44]]]
++toPostString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandLineTo.java.html#49]]]
 } 
 @enduml

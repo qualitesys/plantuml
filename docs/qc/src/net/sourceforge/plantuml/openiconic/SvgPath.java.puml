@@ -2,13 +2,13 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.openiconic.SvgPath"
 class net.sourceforge.plantuml.openiconic.SvgPath {
-+SvgPath(String) : SvgPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#23]]]
--insertMissingLetter(List<SvgCommand>) : List<SvgCommand> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#65]]]
--checkArguments(List<SvgCommand>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#91]]]
-+toSvg() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#102]]]
--toUPath(double;double) : UPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#112]]]
--toUPath(AffineTransform) : UPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#145]]]
-+drawMe(UGraphic;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#177]]]
-+drawMe(UGraphic;AffineTransform) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#182]]]
++SvgPath(String) : SvgPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#57]]]
+-insertMissingLetter(List<SvgCommand>) : List<SvgCommand> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#99]]]
+-checkArguments(List<SvgCommand>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#125]]]
++toSvg() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#136]]]
+-toUPath(double;double) : UPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#146]]]
+-toUPath(AffineTransform) : UPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#179]]]
++drawMe(UGraphic;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#211]]]
++drawMe(UGraphic;AffineTransform) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#216]]]
 } 
 @enduml

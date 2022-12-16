@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "org.stathissideris.ascii2image.graphics.Diagram" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#31"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#109"
  , "c1" : "Diagram"
  , "c2" : "Diagram(TextGrid;ConversionOptions;ProcessingOptions)"
  , "c3" : "135"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00549"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#549"
+ , "c5" : "00632"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#632"
  , "c1" : "ArrayList"
  , "c2" : "getAllDiagramShapes()"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00562"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#562"
+ , "c5" : "00651"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#651"
  , "c1" : "boolean"
  , "c2" : "removeObsoleteShapes(TextGrid;ArrayList<CellSet>)"
  , "c3" : "26"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00692"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#692"
+ , "c5" : "00781"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#781"
  , "c1" : "float"
  , "c2" : "getMinimumOfCellDimension()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00696"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#696"
+ , "c5" : "00785"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#785"
  , "c1" : "void"
  , "c2" : "separateCommonEdges(ArrayList)"
  , "c3" : "8"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00749"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#749"
+ , "c5" : "00838"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#838"
  , "c1" : "void"
  , "c2" : "removeDuplicateShapes()"
  , "c3" : "5"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00770"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#770"
+ , "c5" : "00859"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#859"
  , "c1" : "void"
  , "c2" : "addToTextObjects(DiagramText)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00774"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#774"
+ , "c5" : "00863"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#863"
  , "c1" : "void"
  , "c2" : "addToCompositeShapes(CompositeDiagramShape)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00779"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#779"
+ , "c5" : "00868"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#868"
  , "c1" : "void"
  , "c2" : "addToShapes(DiagramShape)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00783"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#783"
+ , "c5" : "00872"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#872"
  , "c1" : "Iterator"
  , "c2" : "getShapesIterator()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00788"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#788"
+ , "c5" : "00879"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#879"
  , "c1" : "int"
  , "c2" : "getHeight()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00793"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#793"
+ , "c5" : "00886"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#886"
  , "c1" : "int"
  , "c2" : "getWidth()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00798"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#798"
+ , "c5" : "00893"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#893"
  , "c1" : "int"
  , "c2" : "getCellWidth()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00803"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#803"
+ , "c5" : "00900"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#900"
  , "c1" : "int"
  , "c2" : "getCellHeight()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00808"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#808"
+ , "c5" : "00907"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#907"
  , "c1" : "ArrayList"
  , "c2" : "getCompositeShapes()"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00813"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#813"
+ , "c5" : "00914"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#914"
  , "c1" : "ArrayList"
  , "c2" : "getShapes()"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00817"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#817"
+ , "c5" : "00918"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#918"
  , "c1" : "int"
  , "c2" : "getCellMinX(TextGrid.Cell)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00820"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#820"
+ , "c5" : "00921"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#921"
  , "c1" : "int"
  , "c2" : "getCellMinX(TextGrid.Cell;int)"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00824"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#824"
+ , "c5" : "00925"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#925"
  , "c1" : "int"
  , "c2" : "getCellMidX(TextGrid.Cell)"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00827"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#827"
+ , "c5" : "00928"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#928"
  , "c1" : "int"
  , "c2" : "getCellMidX(TextGrid.Cell;int)"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00831"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#831"
+ , "c5" : "00932"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#932"
  , "c1" : "int"
  , "c2" : "getCellMaxX(TextGrid.Cell)"
  , "c3" : "1"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00834"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#834"
+ , "c5" : "00935"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#935"
  , "c1" : "int"
  , "c2" : "getCellMaxX(TextGrid.Cell;int)"
  , "c3" : "1"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00838"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#838"
+ , "c5" : "00939"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#939"
  , "c1" : "int"
  , "c2" : "getCellMinY(TextGrid.Cell)"
  , "c3" : "1"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00841"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#841"
+ , "c5" : "00942"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#942"
  , "c1" : "int"
  , "c2" : "getCellMinY(TextGrid.Cell;int)"
  , "c3" : "1"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00845"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#845"
+ , "c5" : "00946"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#946"
  , "c1" : "int"
  , "c2" : "getCellMidY(TextGrid.Cell)"
  , "c3" : "1"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00848"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#848"
+ , "c5" : "00949"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#949"
  , "c1" : "int"
  , "c2" : "getCellMidY(TextGrid.Cell;int)"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00852"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#852"
+ , "c5" : "00953"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#953"
  , "c1" : "int"
  , "c2" : "getCellMaxY(TextGrid.Cell)"
  , "c3" : "1"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00855"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#855"
+ , "c5" : "00956"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#956"
  , "c1" : "int"
  , "c2" : "getCellMaxY(TextGrid.Cell;int)"
  , "c3" : "1"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00859"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#859"
+ , "c5" : "00960"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#960"
  , "c1" : "TextGrid.Cell"
  , "c2" : "getCellFor(ShapePoint)"
  , "c3" : "2"
@@ -279,8 +279,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00869"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#869"
+ , "c5" : "00972"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#972"
  , "c1" : "ArrayList"
  , "c2" : "getTextObjects()"
  , "c3" : "1"
@@ -380,227 +380,150 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#31"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#109"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00031] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00109] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#31"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#109"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00031] The argument options is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00109] The argument options is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#31"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#109"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00031] The argument processingOptions is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00109] The argument processingOptions is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#59"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00059] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00137] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#59"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00059] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00137] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#71"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00071] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00149] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#71"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00071] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00149] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#75"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00075] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00153] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#81"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00081] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00159] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#83"
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00083] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00161] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#90"
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00090] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00168] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#81"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00081] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00159] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#83"
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00083] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00161] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#90"
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00090] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00168] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#81"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00081] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00159] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#83"
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00083] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00161] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#90"
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00090] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00168] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#116"
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00116] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00194] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#116"
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00116] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00194] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#143"
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00143] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00221] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#143"
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00143] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#169"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00169] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#169"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00169] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#170"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00170] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#172"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00172] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#172"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00172] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#172"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00172] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#172"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00172] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#201"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00201] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#201"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00201] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#223"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00223] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#223"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00223] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00221] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -632,122 +555,38 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00251"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#251"
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00251] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00250] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00253"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#253"
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00253] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00250] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00254"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#254"
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00254] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00250] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00264"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#264"
+ , "c1" : "00279"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#279"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00264] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00279] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00264"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#264"
+ , "c1" : "00279"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#279"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00264] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00266"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#266"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00266] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00266"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#266"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00266] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00268"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#268"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00268] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00275"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#275"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00275] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00281"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#281"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00281] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00282"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#282"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00282] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#283"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00283] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00284"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#284"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00284] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00285"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#285"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00285] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00286"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#286"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00286] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00287"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#287"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00287] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00300"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#300"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00300] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00279] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -758,136 +597,220 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00302"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#302"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00302] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00301] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00304"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#304"
+ , "c1" : "00325"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#325"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00304] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00325] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00306"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#306"
+ , "c1" : "00325"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#325"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00306] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00325] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00306"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#306"
+ , "c1" : "00326"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#326"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00306] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00326] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00306"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#306"
+ , "c1" : "00328"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#328"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00306] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00328] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00306"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#306"
+ , "c1" : "00329"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#329"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00306] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00329] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00314"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#314"
+ , "c1" : "00331"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#331"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00314] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00331] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00315"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#315"
+ , "c1" : "00332"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#332"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00315] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00332] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00316"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#316"
+ , "c1" : "00342"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#342"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00316] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00342] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00320"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#320"
+ , "c1" : "00342"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#342"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00320] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00342] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00321"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#321"
+ , "c1" : "00344"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#344"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00321] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00344] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00323"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#323"
+ , "c1" : "00344"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#344"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00323] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00344] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00323"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#323"
+ , "c1" : "00346"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#346"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00323] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00346] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00340"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#340"
+ , "c1" : "00353"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#353"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00340] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00353] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00349"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#349"
+ , "c1" : "00359"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#359"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00349] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00359] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00358"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#358"
+ , "c1" : "00360"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#360"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00358] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00360] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00367"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#367"
+ , "c1" : "00361"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#361"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00367] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00361] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00376"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#376"
+ , "c1" : "00362"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#362"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00376] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00362] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00385"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#385"
+ , "c1" : "00363"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#363"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00385] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00363] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00364"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#364"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00364] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00365"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#365"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00365] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00378"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#378"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00378] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00379"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#379"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00379] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00380"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#380"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00380] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00382"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#382"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00382] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00384"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#384"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00384] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00384"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#384"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00384] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00384"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#384"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00384] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00384"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#384"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00384] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00392"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#392"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00392] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00393"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#393"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00393] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -898,87 +821,66 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00403"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#403"
+ , "c1" : "00398"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#398"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00403] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00398] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00323"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#323"
+ , "c1" : "00399"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#399"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00323] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00399] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00323"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#323"
+ , "c1" : "00401"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#401"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00323] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00401] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00413"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#413"
+ , "c1" : "00401"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#401"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00413] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00401] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00413"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#413"
+ , "c1" : "00418"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#418"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00413] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00418] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00414"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#414"
+ , "c1" : "00427"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#427"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00414] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00427] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00422"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#422"
+ , "c1" : "00436"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#436"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00422] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00436] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00422"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#422"
+ , "c1" : "00445"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#445"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00422] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00445] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00424"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#424"
+ , "c1" : "00454"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#454"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00424] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00458"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#458"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00458] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00458"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#458"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00458] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00460"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#460"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00460] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00454] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -989,2313 +891,2411 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00472"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#472"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00472] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00481"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#481"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00481] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00401"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#401"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00401] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00401"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#401"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00401] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00491"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#491"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00491] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00491"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#491"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00491] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00492"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#492"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00492] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00500"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#500"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00500] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00500"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#500"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00500] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00502"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#502"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00502] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00536"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#536"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00536] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00536"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#536"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00536] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00538"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#538"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00538] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00541"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#541"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00541] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00542"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#542"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00542] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00544"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#544"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00544] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00544"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#544"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00544] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00545"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#545"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00545] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00546"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#546"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00546] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00549"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#549"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00549] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00555"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#555"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00555] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00557"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#557"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00557] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00544"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#544"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00544] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00544"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#544"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00544] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00545"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#545"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00545] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00546"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#546"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00546] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00549"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#549"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00549] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00555"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#555"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00555] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00557"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#557"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00557] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00591"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#591"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00591] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00591"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#591"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00591] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00592"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#592"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00592] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00597"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#597"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00597] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00599"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#599"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00599] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00599"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#599"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00599] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00599"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#599"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00599] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00599"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#599"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00599] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00610"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#610"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00610] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00610"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#610"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00610] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00612"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#612"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00612] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00614"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#614"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00614] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00614"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#614"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00614] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00614"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#614"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00614] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00614"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#614"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00614] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#134"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00134] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  '******* Distinct shapes found using AbstractionGrid *******' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#140"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00140] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  '******* Same set of shapes after processing them by filling *******' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#155"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00155] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#155"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00155] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00156] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00156] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#170"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00170] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  '*' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00171] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  '*' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  '-' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#178"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00178] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  '-----------------------------------' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00187] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  '******* Removed duplicates *******' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  '******* Removed duplicates: there were ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#205"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00205] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  ' shapes and now there are ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00213"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#213"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00213] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  '******* First evaluation of openess *******' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#227"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00227] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'Closed boundaries:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#228"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00228] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'Open boundaries:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#229"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00229] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'Mixed boundaries:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#234"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00234] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#236"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00236] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#236"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00236] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00240"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#240"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00240] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  '******* Eliminating mixed shapes (basic algorithm) *******' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#242"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00242] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00262"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#262"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00262] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00262"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#262"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00262] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00272"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#272"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00272] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00275"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#275"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00275] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  '******* Eliminating mixed shapes (advanced algorithm for truly mixed shapes) *******' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00286"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#286"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00286] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'No mixed shapes found. Skipped mixed shape elimination step' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00292"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#292"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00292] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  '******* Second evaluation of openess *******' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#307"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00307] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'Closed boundaries:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00308"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#308"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00308] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'Open boundaries:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00309"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#309"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00309] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'Mixed boundaries:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00317"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#317"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00317] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00318"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#318"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00318] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00327"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#327"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00327] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00343"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#343"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00343] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00347"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#347"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00347] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00358"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#358"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00358] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00398"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#398"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00398] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00403"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#403"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00403] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00414"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#414"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00414] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00417"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#417"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00417] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'd' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00419"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#419"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00419] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'd' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00420"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#420"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00420] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00426"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#426"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00426] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  's' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00428"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#428"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00428] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  's' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00429"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#429"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00429] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00435"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#435"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00435] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'io' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00437"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#437"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00437] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'io' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00438"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#438"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00438] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00444"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#444"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00444] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'c' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00446"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#446"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00446] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'c' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00447"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#447"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00447] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00453"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#453"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00453] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'mo' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00455"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#455"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00455] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'mo' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00456"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#456"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00456] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00462"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#462"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00462] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'tr' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00464"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#464"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00464] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00464] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'tr' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00466"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#466"
+ , "c1" : "00465"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#465"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00466] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00466"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#466"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00466] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00467"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#467"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00467] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00468"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#468"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00468] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00465] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00471"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#471"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00471] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00471] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'o' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00477"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#477"
+ , "c1" : "00473"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#473"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00477] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00473] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'o' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00479"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#479"
+ , "c1" : "00474"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#474"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00479] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00474] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00466"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#466"
+ , "c1" : "00493"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#493"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00466] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00493] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00466"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#466"
+ , "c1" : "00494"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#494"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00466] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00467"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#467"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00467] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00468"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#468"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00468] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00471"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#471"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00471] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00477"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#477"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00477] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00479"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#479"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00479] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00513"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#513"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00513] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00513"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#513"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00513] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00494] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'Could not create arrowhead shape. Unexpected error.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00514"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#514"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00514] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00514] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'Shape count: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00519"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#519"
+ , "c1" : "00515"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#515"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00519] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00515] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'Composite shape count: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00521"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#521"
+ , "c1" : "00527"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#527"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00521] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00527] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00521"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#521"
+ , "c1" : "00530"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#530"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00521] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00530] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  ' text groups found' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00521"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#521"
+ , "c1" : "00548"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#548"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00521] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00548] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'Found string ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00521"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#521"
+ , "c1" : "00549"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#549"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00521] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00549] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00532"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#532"
+ , "c1" : "00568"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#568"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00532] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00568] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00532"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#532"
+ , "c1" : "00568"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#568"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00532] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00568] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00534"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#534"
+ , "c1" : "00570"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#570"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00534] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00570] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00536"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#536"
+ , "c1" : "00570"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#570"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00536] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00570] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00536"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#536"
+ , "c1" : "00572"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#572"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00536] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00572] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00536"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#536"
+ , "c1" : "00572"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#572"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00536] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00572] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00536"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#536"
+ , "c1" : "00585"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#585"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00536] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00585] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'Positioned text' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#56"
+ , "c1" : "00595"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#595"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  '******* Distinct shapes found using AbstractionGrid *******' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  '******* Same set of shapes after processing them by filling *******' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#86"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  '-' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  '-----------------------------------' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#109"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  '******* Removed duplicates *******' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#125"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  '******* Removed duplicates: there were ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#127"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  ' shapes and now there are ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  '******* First evaluation of openess *******' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#149"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'Closed boundaries:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#150"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'Open boundaries:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#151"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'Mixed boundaries:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#156"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#158"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#158"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#162"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  '******* Eliminating mixed shapes (basic algorithm) *******' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#164"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#184"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#184"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#194"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00197"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#197"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  '******* Eliminating mixed shapes (advanced algorithm for truly mixed shapes) *******' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#208"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'No mixed shapes found. Skipped mixed shape elimination step' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#214"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  '******* Second evaluation of openess *******' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00229"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#229"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'Closed boundaries:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00230"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#230"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'Open boundaries:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#231"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'Mixed boundaries:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00239"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#239"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00240"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#240"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00249"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#249"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00249] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00265"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#265"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00265] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00269"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#269"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00269] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00280"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#280"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00280] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00320"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#320"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00320] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00325"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#325"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00325] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00336"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#336"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00336] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00339"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#339"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00339] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'd' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00341"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#341"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00341] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'd' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00342"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#342"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00342] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00348"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#348"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00348] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  's' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00350"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#350"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00350] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  's' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00351"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#351"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00351] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00357"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#357"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00357] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'io' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00359"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#359"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00359] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'io' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00360"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#360"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00360] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00366"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#366"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00366] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'c' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00368"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#368"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00368] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'c' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00369"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#369"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00369] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00375"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#375"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00375] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'mo' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00377"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#377"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00377] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'mo' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00378"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#378"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00378] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00384"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#384"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00384] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'tr' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00386"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#386"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00386] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'tr' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00387"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#387"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00387] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00393"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#393"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00393] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'o' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00395"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#395"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00395] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'o' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00396"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#396"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00396] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00415"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#415"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00415] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00416"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#416"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00416] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'Could not create arrowhead shape. Unexpected error.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00436"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#436"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00436] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'Shape count: ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00437"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#437"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00437] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'Composite shape count: ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00449"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#449"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00449] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  '|' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00452"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#452"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00452] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  ' text groups found' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00470"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#470"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00470] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'Found string ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00471"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#471"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00471] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00490"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#490"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00490] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00490"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#490"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00490] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00492"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#492"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00492] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00492"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#492"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00492] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00494"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#494"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00494] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00494"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#494"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00494] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00507"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#507"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00507] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'Positioned text' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00517"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#517"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00517] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00537"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#537"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00537] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00544"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#544"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00544] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String  'Corrected color of text according to underlying color' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00555"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#555"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00555] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00555"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#555"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00555] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00562"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#562"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00562] For method removeObsoleteShapes arguments TextGrid  grid|ArrayList&lt;CellSet &gt;  sets"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00562"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#562"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00562] For method removeObsoleteShapes list of called methods Object monObjet|boolean common_iteratorN318568|boolean common_iteratorN319509"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00562"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#562"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00562] The argument sets is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00576"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#576"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00576] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00576"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#576"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00576] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00584"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#584"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00584] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00584"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#584"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00584] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00594"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#594"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00594] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00594"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#594"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00594] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00602"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#602"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00602] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00602"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#602"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00602] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00604"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#604"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00604] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00606"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#606"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00606] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00606"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#606"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00606] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00595] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00615"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#615"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00615] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00615] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00618"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#618"
+ , "c1" : "00622"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#622"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00618] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00622] In method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String  'Corrected color of text according to underlying color' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00618"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#618"
+ , "c1" : "00638"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#638"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00618] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00638] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00633"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#633"
+ , "c1" : "00638"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#638"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00633] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00638] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00634"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#634"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00634] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00651"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#651"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00651] For method removeObsoleteShapes arguments TextGrid  grid|ArrayList&lt;CellSet &gt;  sets"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00637"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#637"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00637] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00651"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#651"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00651] For method removeObsoleteShapes list of called methods Object monObjet|boolean common_iteratorN319186|boolean common_iteratorN320127"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00637"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#637"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00637] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00651"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#651"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00651] The argument sets is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00648"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#648"
+ , "c1" : "00665"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#665"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00648] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00665] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00606"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#606"
+ , "c1" : "00665"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#665"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00606] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00665] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00606"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#606"
+ , "c1" : "00673"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#673"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00606] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00673] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00618"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#618"
+ , "c1" : "00673"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#673"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00618] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00673] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00618"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#618"
+ , "c1" : "00683"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#683"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00618] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00683] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00637"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#637"
+ , "c1" : "00683"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#683"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00637] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00683] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00637"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#637"
+ , "c1" : "00691"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#691"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00637] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00691] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00669"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#669"
+ , "c1" : "00691"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#691"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00669] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00691] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00693"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#693"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00693] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00695"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#695"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00695] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00695"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#695"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00695] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00704"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#704"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00704] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00707"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#707"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00707] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00707"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#707"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00707] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00722"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#722"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00722] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00723"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#723"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00723] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00726"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#726"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00726] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00726"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#726"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00726] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00737"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#737"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00737] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00695"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#695"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00695] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00695"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#695"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00695] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00707"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#707"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00707] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00707"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#707"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00707] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00726"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#726"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00726] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00726"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#726"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00726] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00758"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#758"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00758] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00764"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#764"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00764] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00764"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#764"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00764] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00773"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#773"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00773] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00773"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#773"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00773] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00653"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#653"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00653] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  '******* Removing obsolete shapes *******' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00655"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#655"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00655] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00662"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#662"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00662] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  '******* Sets before *******' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00675"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#675"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00675] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00675"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#675"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00675] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00684"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#684"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00684] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00684"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#684"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00684] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00564"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#564"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00564] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  '******* Removing obsolete shapes *******' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00566"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#566"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00566] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00573"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#573"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00573] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  '******* Sets before *******' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00586"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#586"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00586] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00587"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#587"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00587] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00597"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#597"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00597] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  '*** Deciding if the following should be removed:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00612"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#612"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00612] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00625"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#625"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00625] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  'Largest:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00633"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#633"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00633] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00633"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#633"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00633] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00639"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#639"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00639] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  'One of smalls:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00642"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#642"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00642] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00645"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#645"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00645] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  'Sum of smalls:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00648"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#648"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00648] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00648"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#648"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00648] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00649"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#649"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00649] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00656"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#656"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00656] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  'Decided to remove set:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00660"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#660"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00660] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  'This set WILL NOT be removed:' should be converted to const"
+ , "c3" : "QC-JAV000010[00675] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00676"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#676"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00676] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00676] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00681"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#681"
+ , "c1" : "00686"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#686"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00681] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String  '******* Sets after *******' should be converted to const"
+ , "c3" : "QC-JAV000010[00686] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  '*** Deciding if the following should be removed:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00696"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#696"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00696] For method separateCommonEdges arguments ArrayList  shapes"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00696"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#696"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00696] For method separateCommonEdges list of called methods Object monObjet|float getMinimumOfCellDimensionN322774"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00696"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#696"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00696] The argument shapes is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00705"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#705"
+ , "c1" : "00701"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#701"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00705] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00705"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#705"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00705] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00717"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#717"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00717] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00717"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#717"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00717] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00720"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#720"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00720] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00723"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#723"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00723] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00723"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#723"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00723] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00720"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#720"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00720] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00723"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#723"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00723] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00723"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#723"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00723] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00734"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#734"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00734] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00734"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#734"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00734] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00698"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#698"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00698] In method org.stathissideris.ascii2image.graphics.Diagram.separateCommonEdges@POLYN322681 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00701] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00714"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#714"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00714] In method org.stathissideris.ascii2image.graphics.Diagram.separateCommonEdges@POLYN322681 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00714] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  'Largest:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00722"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#722"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00722] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00722"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#722"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00722] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00728"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#728"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00728] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  'One of smalls:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00731"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#731"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00731] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  '*' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00734"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#734"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00734] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  'Sum of smalls:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00737"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#737"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00737] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00737"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#737"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00737] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00738"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#738"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00738] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  '*' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00745"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#745"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00745] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  'Decided to remove set:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00749"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#749"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00749] For method removeDuplicateShapes list of called methods Object monObjet|java.util.Iterator getShapesIteratorN325437"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00749] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  'This set WILL NOT be removed:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00754"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#754"
+ , "c1" : "00765"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#765"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00754] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00754"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#754"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00754] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00756"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#756"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00756] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00758"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#758"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00758] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00758"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#758"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00758] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00758"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#758"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00758] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00758"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#758"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00758] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00755"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#755"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00755] In method org.stathissideris.ascii2image.graphics.Diagram.removeDuplicateShapes@POLYN325292 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00760"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#760"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00760] In method org.stathissideris.ascii2image.graphics.Diagram.removeDuplicateShapes@POLYN325292 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00765] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00770"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#770"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00770] For method addToTextObjects arguments DiagramText  shape"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00774"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#774"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00774] For method addToCompositeShapes arguments CompositeDiagramShape  shape"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00779"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#779"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00779] For method addToShapes arguments DiagramShape  shape"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00817"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#817"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00817] For method getCellMinX arguments TextGrid.Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00820"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#820"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00820] For method getCellMinX arguments TextGrid.Cell  cell|int  cellXSize"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00820"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#820"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00820] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00824"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#824"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00824] For method getCellMidX arguments TextGrid.Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00827"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#827"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00827] For method getCellMidX arguments TextGrid.Cell  cell|int  cellXSize"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00827"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#827"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00827] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00828"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#828"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00828] In method org.stathissideris.ascii2image.graphics.Diagram.getCellMidX@POLYN328020 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00770] In method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String  '******* Sets after *******' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00831"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#831"
+ , "c1" : "00785"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#785"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00831] For method getCellMaxX arguments TextGrid.Cell  cell"
+ , "c3" : "QC-JAV000006[00785] For method separateCommonEdges arguments ArrayList  shapes"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00834"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#834"
+ , "c1" : "00785"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#785"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00834] For method getCellMaxX arguments TextGrid.Cell  cell|int  cellXSize"
+ , "c3" : "QC-JAV000007[00785] For method separateCommonEdges list of called methods Object monObjet|float getMinimumOfCellDimensionN323392"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00834"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#834"
+ , "c1" : "00785"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#785"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00834] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00785] The argument shapes is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00794"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#794"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00794] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00794"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#794"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00794] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00806"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#806"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00806] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00806"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#806"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00806] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00809"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#809"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00809] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00812"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#812"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00812] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00812"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#812"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00812] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00809"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#809"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00809] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00812"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#812"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00812] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00812"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#812"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00812] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00823"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#823"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00823] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00823"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#823"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00823] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00787"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#787"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00787] In method org.stathissideris.ascii2image.graphics.Diagram.separateCommonEdges@POLYN323299 the MagicNumber/String  5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00803"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#803"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00803] In method org.stathissideris.ascii2image.graphics.Diagram.separateCommonEdges@POLYN323299 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00838"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#838"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00838] For method getCellMinY arguments TextGrid.Cell  cell"
+ , "c3" : "QC-JAV000007[00838] For method removeDuplicateShapes list of called methods Object monObjet|java.util.Iterator getShapesIteratorN326055"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00841"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#841"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00841] For method getCellMinY arguments TextGrid.Cell  cell|int  cellYSize"
+ , "c1" : "00843"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#843"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00843] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00841"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#841"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00841] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00843"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#843"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00843] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00845"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#845"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00845] For method getCellMidY arguments TextGrid.Cell  cell"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00845] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00848"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#848"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00848] For method getCellMidY arguments TextGrid.Cell  cell|int  cellYSize"
+ , "c1" : "00847"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#847"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00847] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00848"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#848"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00848] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00847"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#847"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00847] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00847"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#847"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00847] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00847"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#847"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00847] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00844"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#844"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00844] In method org.stathissideris.ascii2image.graphics.Diagram.removeDuplicateShapes@POLYN325910 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00849"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#849"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00849] In method org.stathissideris.ascii2image.graphics.Diagram.getCellMidY@POLYN329123 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00852"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#852"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00852] For method getCellMaxY arguments TextGrid.Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00855"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#855"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00855] For method getCellMaxY arguments TextGrid.Cell  cell|int  cellYSize"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00855"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#855"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00855] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00849] In method org.stathissideris.ascii2image.graphics.Diagram.removeDuplicateShapes@POLYN325910 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00859"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#859"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00859] For method getCellFor arguments ShapePoint  point"
+ , "c3" : "QC-JAV000006[00859] For method addToTextObjects arguments DiagramText  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00860"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#860"
+ , "c1" : "00863"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#863"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00863] For method addToCompositeShapes arguments CompositeDiagramShape  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00868"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#868"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00868] For method addToShapes arguments DiagramShape  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00918"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#918"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00918] For method getCellMinX arguments TextGrid.Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00921"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#921"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00921] For method getCellMinX arguments TextGrid.Cell  cell|int  cellXSize"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00921"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#921"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00921] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00925"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#925"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00925] For method getCellMidX arguments TextGrid.Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00928"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#928"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00928] For method getCellMidX arguments TextGrid.Cell  cell|int  cellXSize"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00928"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#928"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00928] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00929"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#929"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00860] In method org.stathissideris.ascii2image.graphics.Diagram.getCellFor@POLYN329715 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00929] In method org.stathissideris.ascii2image.graphics.Diagram.getCellMidX@POLYN328638 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00860"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#860"
+ , "c1" : "00932"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#932"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00932] For method getCellMaxX arguments TextGrid.Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00935"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#935"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00935] For method getCellMaxX arguments TextGrid.Cell  cell|int  cellXSize"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00935"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#935"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00935] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00939"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#939"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00939] For method getCellMinY arguments TextGrid.Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00942"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#942"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00942] For method getCellMinY arguments TextGrid.Cell  cell|int  cellYSize"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00942"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#942"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00942] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00946"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#946"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00946] For method getCellMidY arguments TextGrid.Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00949"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#949"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00949] For method getCellMidY arguments TextGrid.Cell  cell|int  cellYSize"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00949"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#949"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00949] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00950"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#950"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00860] In method org.stathissideris.ascii2image.graphics.Diagram.getCellFor@POLYN329715 the MagicNumber/String  'ShapePoint cannot be null' should be converted to const"
+ , "c3" : "QC-JAV000010[00950] In method org.stathissideris.ascii2image.graphics.Diagram.getCellMidY@POLYN329741 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00953"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#953"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00953] For method getCellMaxY arguments TextGrid.Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00956"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#956"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00956] For method getCellMaxY arguments TextGrid.Cell  cell|int  cellYSize"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00956"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#956"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00956] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00960"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#960"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00960] For method getCellFor arguments ShapePoint  point"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00961"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#961"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00961] In method org.stathissideris.ascii2image.graphics.Diagram.getCellFor@POLYN330333 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00961"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#961"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00961] In method org.stathissideris.ascii2image.graphics.Diagram.getCellFor@POLYN330333 the MagicNumber/String  'ShapePoint cannot be null' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.separateCommonEdges@POLYN322681"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.separateCommonEdges@POLYN323299"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.removeDuplicateShapes@POLYN325292"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.removeDuplicateShapes@POLYN325910"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#56"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#134"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00056] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String '******* Distinct shapes found using AbstractionGrid *******' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00134] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String '******* Distinct shapes found using AbstractionGrid *******' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#62"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#140"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00062] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String '******* Same set of shapes after processing them by filling *******' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00140] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String '******* Same set of shapes after processing them by filling *******' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#75"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#153"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00075] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 3 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00153] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 3 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#75"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#153"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00075] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 3 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00153] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 3 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#77"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#155"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00077] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00155] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#77"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#155"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00077] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 3 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#78"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00078] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#78"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00078] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 3 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#86"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00086] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#92"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00092] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String '*' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#93"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00093] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String '*' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#94"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00094] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String '-' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#100"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00100] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String '-----------------------------------' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#109"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00109] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String '******* Removed duplicates *******' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#125"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00125] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String '******* Removed duplicates: there were ' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#127"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00127] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String ' shapes and now there are ' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#135"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00135] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String '******* First evaluation of openess *******' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#149"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00149] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'Closed boundaries:' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#150"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00150] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'Open boundaries:' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#151"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00151] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'Mixed boundaries:' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00155] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 3 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#156"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00156] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String false MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00156] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#158"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#156"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00158] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#158"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00158] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#162"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00162] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String '******* Eliminating mixed shapes -basic algorithm- *******' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00156] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 3 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#164"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00164] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String true MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00164] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#184"
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#170"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00184] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00170] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String '*' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#184"
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#171"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00184] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00171] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String '*' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#194"
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#172"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00194] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String true MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00172] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String '-' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00197"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#197"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#178"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00197] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String '******* Eliminating mixed shapes -advanced algorithm for truly mixed shapes- *******' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00178] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String '-----------------------------------' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#208"
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#187"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00208] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'No mixed shapes found. Skipped mixed shape elimination step' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00187] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String '******* Removed duplicates *******' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#214"
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#203"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00214] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String '******* Second evaluation of openess *******' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00203] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String '******* Removed duplicates: there were ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#205"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00205] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String ' shapes and now there are ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00213"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#213"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00213] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String '******* First evaluation of openess *******' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#227"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00227] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'Closed boundaries:' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#228"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00228] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'Open boundaries:' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#229"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00229] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'Closed boundaries:' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00229] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'Mixed boundaries:' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00230"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#230"
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#234"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00230] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'Open boundaries:' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00234] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String false MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#231"
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#236"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00231] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'Mixed boundaries:' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00236] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00239"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#239"
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#236"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00239] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String false MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00236] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00240"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#240"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00240] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String true MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00240] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String '******* Eliminating mixed shapes -basic algorithm- *******' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00249"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#249"
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#242"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00249] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00242] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String true MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00265"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#265"
+ , "c1" : "00262"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#262"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00265] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00262] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00269"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#269"
+ , "c1" : "00262"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#262"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00269] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00262] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00280"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#280"
+ , "c1" : "00272"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#272"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00280] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00272] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String true MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00320"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#320"
+ , "c1" : "00275"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#275"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00320] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00275] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String '******* Eliminating mixed shapes -advanced algorithm for truly mixed shapes- *******' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00325"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#325"
+ , "c1" : "00286"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#286"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00325] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00286] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'No mixed shapes found. Skipped mixed shape elimination step' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00336"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#336"
+ , "c1" : "00292"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#292"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00336] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00292] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String '******* Second evaluation of openess *******' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00339"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#339"
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#307"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00339] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'd' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00307] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'Closed boundaries:' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00341"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#341"
+ , "c1" : "00308"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#308"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00341] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'd' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00308] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'Open boundaries:' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00342"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#342"
+ , "c1" : "00309"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#309"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00342] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00309] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'Mixed boundaries:' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00348"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#348"
+ , "c1" : "00317"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#317"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00348] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 's' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00317] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String false MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00350"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#350"
+ , "c1" : "00318"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#318"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00350] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 's' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00318] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String true MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00351"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#351"
+ , "c1" : "00327"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#327"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00351] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00327] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00357"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#357"
+ , "c1" : "00343"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#343"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00357] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'io' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00343] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00359"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#359"
+ , "c1" : "00347"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#347"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00359] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'io' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00347] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00360"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#360"
+ , "c1" : "00358"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#358"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00360] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00358] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00366"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#366"
+ , "c1" : "00398"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#398"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00366] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'c' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00398] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00368"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#368"
+ , "c1" : "00403"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#403"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00368] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'c' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00403] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00369"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#369"
+ , "c1" : "00414"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#414"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00369] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00414] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00375"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#375"
+ , "c1" : "00417"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#417"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00375] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'mo' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00417] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'd' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00377"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#377"
+ , "c1" : "00419"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#419"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00377] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'mo' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00419] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'd' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00378"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#378"
+ , "c1" : "00420"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#420"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00378] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00420] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00384"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#384"
+ , "c1" : "00426"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#426"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00384] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'tr' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00426] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 's' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00386"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#386"
+ , "c1" : "00428"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#428"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00386] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'tr' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00428] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 's' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00387"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#387"
+ , "c1" : "00429"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#429"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00387] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00429] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00393"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#393"
+ , "c1" : "00435"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#435"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00393] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'o' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00395"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#395"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00395] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'o' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00396"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#396"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00396] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00415"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#415"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00415] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00416"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#416"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00416] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'Could not create arrowhead shape. Unexpected error.' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00436"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#436"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00436] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'Shape count: ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00435] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'io' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00437"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#437"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00437] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'Composite shape count: ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00437] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'io' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00449"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#449"
+ , "c1" : "00438"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#438"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00449] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00438] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00452"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#452"
+ , "c1" : "00444"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#444"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00452] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String ' text groups found' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00444] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'c' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00470"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#470"
+ , "c1" : "00446"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#446"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00470] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'Found string ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00446] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'c' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00447"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#447"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00447] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00453"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#453"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00453] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'mo' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00455"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#455"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00455] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'mo' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00456"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#456"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00456] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00462"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#462"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00462] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'tr' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00464"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#464"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00464] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'tr' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00465"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#465"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00465] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00471"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#471"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00471] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00471] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'o' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00490"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#490"
+ , "c1" : "00473"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#473"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00490] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00473] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'o' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00490"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#490"
+ , "c1" : "00474"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#474"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00490] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00474] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00492"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#492"
+ , "c1" : "00493"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#493"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00492] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00492"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#492"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00492] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00493] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00494"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#494"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00494] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00494] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'Could not create arrowhead shape. Unexpected error.' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00494"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#494"
+ , "c1" : "00514"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#514"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00494] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00514] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'Shape count: ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00507"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#507"
+ , "c1" : "00515"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#515"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00507] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'Positioned text' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00515] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'Composite shape count: ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00517"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#517"
+ , "c1" : "00527"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#527"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00517] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00527] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00537"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#537"
+ , "c1" : "00530"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#530"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00537] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String true MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00530] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String ' text groups found' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00544"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#544"
+ , "c1" : "00548"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#548"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00544] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN287559 the MagicNumber/String 'Corrected color of text according to underlying color' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00548] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'Found string ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00564"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#564"
+ , "c1" : "00549"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#549"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00564] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String '******* Removing obsolete shapes *******' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00549] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00566"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#566"
+ , "c1" : "00568"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#568"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00566] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String false MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00568] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00573"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#573"
+ , "c1" : "00568"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#568"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00573] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String '******* Sets before *******' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00568] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00586"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#586"
+ , "c1" : "00570"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#570"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00586] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00570] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00587"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#587"
+ , "c1" : "00570"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#570"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00587] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String false MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00570] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00597"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#597"
+ , "c1" : "00572"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#572"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00597] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String '*** Deciding if the following should be removed:' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00572] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00612"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#612"
+ , "c1" : "00572"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#572"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00612] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String 2 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00572] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00625"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#625"
+ , "c1" : "00585"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#585"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00625] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String 'Largest:' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00585] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'Positioned text' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00633"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#633"
+ , "c1" : "00595"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#595"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00633] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String 2 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00595] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00633"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#633"
+ , "c1" : "00615"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#615"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00633] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String 2 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00615] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String true MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00639"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#639"
+ , "c1" : "00622"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#622"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00639] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String 'One of smalls:' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00622] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN288177 the MagicNumber/String 'Corrected color of text according to underlying color' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00642"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#642"
+ , "c1" : "00653"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#653"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00642] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String '*' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00653] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String '******* Removing obsolete shapes *******' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00645"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#645"
+ , "c1" : "00655"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#655"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00645] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String 'Sum of smalls:' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00655] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String false MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00648"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#648"
+ , "c1" : "00662"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#662"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00648] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String 2 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00662] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String '******* Sets before *******' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00648"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#648"
+ , "c1" : "00675"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#675"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00648] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00649"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#649"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00649] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String '*' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00656"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#656"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00656] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String 'Decided to remove set:' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00660"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#660"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00660] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String 'This set WILL NOT be removed:' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00675] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00676"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#676"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00676] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String true MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00676] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String false MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00681"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#681"
+ , "c1" : "00686"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#686"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00681] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN315855 the MagicNumber/String '******* Sets after *******' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00686] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String '*** Deciding if the following should be removed:' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00698"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#698"
+ , "c1" : "00701"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#701"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00698] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.separateCommonEdges@POLYN322681 the MagicNumber/String 5 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00701] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String 2 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00714"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#714"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00714] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.separateCommonEdges@POLYN322681 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00714] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String 'Largest:' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00755"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#755"
+ , "c1" : "00722"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#722"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00755] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeDuplicateShapes@POLYN325292 the MagicNumber/String true MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00722] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String 2 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00760"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#760"
+ , "c1" : "00722"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#722"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00760] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeDuplicateShapes@POLYN325292 the MagicNumber/String false MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00722] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String 2 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00728"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#728"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00728] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String 'One of smalls:' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00731"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#731"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00731] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String '*' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00734"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#734"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00734] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String 'Sum of smalls:' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00737"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#737"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00737] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String 2 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00737"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#737"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00737] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String 2 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00738"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#738"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00738] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String '*' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00745"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#745"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00745] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String 'Decided to remove set:' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00749"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#749"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00749] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String 'This set WILL NOT be removed:' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00765"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#765"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00765] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String true MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00770"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#770"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00770] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN316473 the MagicNumber/String '******* Sets after *******' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00787"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#787"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00787] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.separateCommonEdges@POLYN323299 the MagicNumber/String 5 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00803"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#803"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00803] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.separateCommonEdges@POLYN323299 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00844"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#844"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00844] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeDuplicateShapes@POLYN325910 the MagicNumber/String true MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00849"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#849"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00849] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeDuplicateShapes@POLYN325910 the MagicNumber/String false MUST BE CONVERTED to const"
 }} 
 ]
 , 

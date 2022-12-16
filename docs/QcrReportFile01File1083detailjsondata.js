@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.CodeImpl" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#13"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#47"
  , "c1" : "CodeImpl"
  , "c2" : "CodeImpl(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#51"
  , "c1" : "Code"
  , "c2" : "of(String)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#58"
  , "c1" : "String"
  , "c2" : "getName()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#63"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#68"
  , "c1" : "int"
  , "c2" : "hashCode()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#39"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#73"
  , "c1" : "boolean"
  , "c2" : "equals(Object)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#78"
  , "c1" : "Code"
  , "c2" : "eventuallyRemoveStartingAndEndingDoubleQuote(String)"
  , "c3" : "1"
@@ -129,31 +129,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#51"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method of arguments String  code"
+ , "c3" : "QC-JAV000006[00051] For method of arguments String  code"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.cucadiagram.CodeImpl.of@POLYN149143 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.cucadiagram.CodeImpl.of@POLYN149347 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#73"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method equals arguments Object  obj"
+ , "c3" : "QC-JAV000006[00073] For method equals arguments Object  obj"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/CodeImpl.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method eventuallyRemoveStartingAndEndingDoubleQuote arguments String  format"
+ , "c3" : "QC-JAV000006[00078] For method eventuallyRemoveStartingAndEndingDoubleQuote arguments String  format"
 }} 
 ]
 , 

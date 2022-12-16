@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<NwDiagram>" <|-- "net.sourceforge.plantuml.nwdiag.CommandLink"
 class net.sourceforge.plantuml.nwdiag.CommandLink {
-+CommandLink() : CommandLink [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandLink.java.html#14]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandLink.java.html#18]]]
-executeArg(NwDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandLink.java.html#31]]]
++CommandLink() : CommandLink [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandLink.java.html#48]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandLink.java.html#52]]]
+executeArg(NwDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandLink.java.html#65]]]
 } 
 @enduml

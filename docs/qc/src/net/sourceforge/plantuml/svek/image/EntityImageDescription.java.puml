@@ -2,17 +2,17 @@
 !pragma layout smetana
 "AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageDescription"
 class net.sourceforge.plantuml.svek.image.EntityImageDescription {
-+EntityImageDescription(ILeaf;ISkinParam;PortionShower;Collection<Link>;SName;Bibliotekon) : EntityImageDescription [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#72]]]
--getUSymbol(ILeaf) : USymbol [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#157]]]
-+getNameDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#163]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#170]]]
-+getShield(StringBounder) : Margins [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#175]]]
--hasSomeHorizontalLinkVisible(ILeaf;Collection<Link>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#200]]]
--isThereADoubleLink(ILeaf;Collection<Link>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#208]]]
--hasSomeHorizontalLinkDoubleDecorated(ILeaf;Collection<Link>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#222]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#230]]]
--drawHexagon(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#266]]]
-+getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#278]]]
-+getOverscanX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#283]]]
++EntityImageDescription(ILeaf;ISkinParam;PortionShower;Collection<Link>;SName;Bibliotekon) : EntityImageDescription [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#107]]]
+-getUSymbol(ILeaf) : USymbol [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#192]]]
++getNameDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#198]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#205]]]
++getShield(StringBounder) : Margins [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#210]]]
+-hasSomeHorizontalLinkVisible(ILeaf;Collection<Link>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#235]]]
+-isThereADoubleLink(ILeaf;Collection<Link>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#243]]]
+-hasSomeHorizontalLinkDoubleDecorated(ILeaf;Collection<Link>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#257]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#265]]]
+-drawHexagon(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#301]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#313]]]
++getOverscanX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#318]]]
 } 
 @enduml

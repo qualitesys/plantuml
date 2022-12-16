@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.golem.TileArea"
 class net.sourceforge.plantuml.golem.TileArea {
-TileArea(Tile;TileGeometry) : TileArea [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TileArea.java.html#9]]]
-+getTile() : Tile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TileArea.java.html#14]]]
-+getGeometry() : TileGeometry [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TileArea.java.html#18]]]
+TileArea(Tile;TileGeometry) : TileArea [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TileArea.java.html#43]]]
++getTile() : Tile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TileArea.java.html#48]]]
++getGeometry() : TileGeometry [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/TileArea.java.html#52]]]
 } 
 @enduml

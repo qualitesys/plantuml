@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.core3.TaskLoadImpl" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#44"
  , "c1" : "TaskLoadImpl"
  , "c2" : "TaskLoadImpl(Histogram)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#48"
  , "c1" : "long"
  , "c2" : "getStart()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#52"
  , "c1" : "void"
  , "c2" : "setStart(long)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#56"
  , "c1" : "long"
  , "c2" : "getEnd()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#60"
  , "c1" : "void"
  , "c2" : "setEnd(long)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#64"
  , "c1" : "Histogram"
  , "c2" : "getLoad()"
  , "c3" : "1"
@@ -113,17 +113,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#52"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method setStart arguments long  start"
+ , "c3" : "QC-JAV000006[00052] For method setStart arguments long  start"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method setEnd arguments long  end"
+ , "c3" : "QC-JAV000006[00060] For method setEnd arguments long  end"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphic.BigFrame" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#52"
  , "c1" : "BigFrame"
  , "c2" : "BigFrame(TextBlock;double;double;SymbolContext)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#59"
  , "c1" : "double"
  , "c2" : "getYpos(XDimension2D)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#66"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "5"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#75"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#109"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -109,143 +109,143 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method getYpos arguments XDimension2D  dimTitle"
+ , "c3" : "QC-JAV000006[00059] For method getYpos arguments XDimension2D  dimTitle"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#59"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00025] The argument dimTitle is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00059] The argument dimTitle is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.graphic.BigFrame.getYpos@POLYN157565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.graphic.BigFrame.getYpos@POLYN157769 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.graphic.BigFrame.getYpos@POLYN157565 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.graphic.BigFrame.getYpos@POLYN157769 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.graphic.BigFrame.getYpos@POLYN157565 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.graphic.BigFrame.getYpos@POLYN157769 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00066] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#66"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00032] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00066] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN157822 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN158026 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#47"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN157822 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN158026 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#48"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN157822 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN158026 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#50"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN157822 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN158026 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN157822 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN158026 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#57"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN157822 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN158026 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#62"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN157822 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN158026 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#67"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN157822 the MagicNumber/String  25 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN158026 the MagicNumber/String  25 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#68"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN157822 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN158026 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#68"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN157822 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN158026 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#70"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN157822 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN158026 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#70"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN157822 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.graphic.BigFrame.drawU@POLYN158026 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#75"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/BigFrame.java.html#109"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00075] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00109] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ]
 , 

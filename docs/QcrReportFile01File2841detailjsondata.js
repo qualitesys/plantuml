@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "smetana.core.CArray" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/smetana/core/CArray.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/smetana/core/CArray.java.html#51"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/smetana/core/CArray.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/smetana/core/CArray.java.html#69"
  , "c1" : "CArray"
  , "c2" : "CArray(List<O>;int;Class<O>)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/smetana/core/CArray.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/smetana/core/CArray.java.html#78"
  , "c1" : "CArray<O>"
  , "c2" : "plus_(int)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/smetana/core/CArray.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/smetana/core/CArray.java.html#82"
  , "c1" : "int"
  , "c2" : "minus_(CArray<O>)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/smetana/core/CArray.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/smetana/core/CArray.java.html#89"
  , "c1" : "O"
  , "c2" : "get__(int)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/smetana/core/CArray.java.html#59"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/smetana/core/CArray.java.html#93"
  , "c1" : "void"
  , "c2" : "reallocWithStructure(int)"
  , "c3" : "3"
@@ -127,101 +127,101 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/smetana/core/CArray.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/smetana/core/CArray.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method smetana.core.CArray.toString@POLYN154637 the MagicNumber/String  'Array ' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method smetana.core.CArray.toString@POLYN154841 the MagicNumber/String  'Array ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/smetana/core/CArray.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/smetana/core/CArray.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method smetana.core.CArray.toString@POLYN154637 the MagicNumber/String  ' offset=' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method smetana.core.CArray.toString@POLYN154841 the MagicNumber/String  ' offset=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/smetana/core/CArray.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/smetana/core/CArray.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method smetana.core.CArray.toString@POLYN154637 the MagicNumber/String  ' [' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method smetana.core.CArray.toString@POLYN154841 the MagicNumber/String  ' [' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/smetana/core/CArray.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/smetana/core/CArray.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method smetana.core.CArray.toString@POLYN154637 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method smetana.core.CArray.toString@POLYN154841 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/smetana/core/CArray.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/smetana/core/CArray.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method smetana.core.CArray the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method smetana.core.CArray the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/smetana/core/CArray.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/smetana/core/CArray.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method smetana.core.CArray the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method smetana.core.CArray the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/smetana/core/CArray.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/smetana/core/CArray.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method smetana.core.CArray.CArray@POLYN155856 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method smetana.core.CArray.CArray@POLYN156060 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/smetana/core/CArray.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/smetana/core/CArray.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method plus_ arguments int  delta"
+ , "c3" : "QC-JAV000006[00078] For method plus_ arguments int  delta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/smetana/core/CArray.java.html#48"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/smetana/core/CArray.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method minus_ arguments CArray&lt;O &gt;  other"
+ , "c3" : "QC-JAV000006[00082] For method minus_ arguments CArray&lt;O &gt;  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/smetana/core/CArray.java.html#48"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/smetana/core/CArray.java.html#82"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00048] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00082] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/smetana/core/CArray.java.html#55"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/smetana/core/CArray.java.html#89"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method get__ arguments int  i"
+ , "c3" : "QC-JAV000006[00089] For method get__ arguments int  i"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/smetana/core/CArray.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/smetana/core/CArray.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method reallocWithStructure arguments int  size"
+ , "c3" : "QC-JAV000006[00093] For method reallocWithStructure arguments int  size"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/smetana/core/CArray.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/smetana/core/CArray.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method smetana.core.CArray.reallocWithStructure@POLYN157013 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method smetana.core.CArray.reallocWithStructure@POLYN157217 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/smetana/core/CArray.java.html#64"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/smetana/core/CArray.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method smetana.core.CArray.reallocWithStructure@POLYN157013 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method smetana.core.CArray.reallocWithStructure@POLYN157217 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

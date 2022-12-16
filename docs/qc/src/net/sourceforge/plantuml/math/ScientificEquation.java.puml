@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.math.ScientificEquation"
 class net.sourceforge.plantuml.math.ScientificEquation {
-+getDimension() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html#14]]]
-+getSvg(double;Color;Color) : UImageSvg [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html#16]]]
-+getImage(Color;Color) : MutableImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html#20]]]
-+getSource() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html#24]]]
++getDimension() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html#48]]]
++getSvg(double;Color;Color) : UImageSvg [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html#50]]]
++getImage(Color;Color) : MutableImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html#54]]]
++getSource() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ScientificEquation.java.html#58]]]
 } 
 @enduml

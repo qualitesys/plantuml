@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.mindmap.Branch" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#52"
  , "c1" : "void"
  , "c2" : "initRoot(StyleBuilder;HColor;Display;IdeaShape;String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#57"
  , "c1" : "void"
  , "c2" : "initFinger(ISkinParam;boolean)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#61"
  , "c1" : "Idea"
  , "c2" : "getParentOfLast(int)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#69"
  , "c1" : "CommandExecutionResult"
  , "c2" : "add(StyleBuilder;HColor;int;Display;IdeaShape;String)"
  , "c3" : "4"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#89"
  , "c1" : "boolean"
  , "c2" : "hasFinger()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#59"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#93"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "2"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#64"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#98"
  , "c1" : "double"
  , "c2" : "getHalfThickness(StringBounder)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#70"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#104"
  , "c1" : "double"
  , "c2" : "getFullElongation(StringBounder)"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#76"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#110"
  , "c1" : "boolean"
  , "c2" : "hasChildren()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00080"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#80"
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#114"
  , "c1" : "boolean"
  , "c2" : "hasRoot()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#84"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#118"
  , "c1" : "void"
  , "c2" : "doNotDrawFirstPhalanx()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#88"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#122"
  , "c1" : "double"
  , "c2" : "getX12(StringBounder)"
  , "c3" : "2"
@@ -174,171 +174,171 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#18"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method initRoot arguments StyleBuilder  styleBuilder|HColor  backColor|Display  label|IdeaShape  shape|String  stereotype"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#23"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method initFinger arguments ISkinParam  skinParam|boolean  direction"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#27"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method getParentOfLast arguments int  nb"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.mindmap.Branch.getParentOfLast@POLYN158228 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#35"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method add arguments StyleBuilder  styleBuilder|HColor  backColor|int  level|Display  label|IdeaShape  shape|String  stereotype"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN158606 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN158606 the MagicNumber/String  'Check your indentation ?' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN158606 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN158606 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN158606 the MagicNumber/String  'error42L' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.mindmap.Branch.hasFinger@POLYN160013 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00052] For method initRoot arguments StyleBuilder  styleBuilder|HColor  backColor|Display  label|IdeaShape  shape|String  stereotype"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.mindmap.Branch.drawU@POLYN160115 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#64"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method getHalfThickness arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00057] For method initFinger arguments ISkinParam  skinParam|boolean  direction"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.mindmap.Branch.getHalfThickness@POLYN160315 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.mindmap.Branch.getHalfThickness@POLYN160315 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.mindmap.Branch.getHalfThickness@POLYN160315 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#70"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00070] For method getFullElongation arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00061] For method getParentOfLast arguments int  nb"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.mindmap.Branch.getParentOfLast@POLYN158432 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#69"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00069] For method add arguments StyleBuilder  styleBuilder|HColor  backColor|int  level|Display  label|IdeaShape  shape|String  stereotype"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.mindmap.Branch.getFullElongation@POLYN160579 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN158810 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.mindmap.Branch.getFullElongation@POLYN160579 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN158810 the MagicNumber/String  'Check your indentation ?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#81"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.mindmap.Branch.hasRoot@POLYN160925 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN158810 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#88"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method getX12 arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#89"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.mindmap.Branch.getX12@POLYN161128 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN158810 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN158810 the MagicNumber/String  'error42L' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.mindmap.Branch.getX12@POLYN161128 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.mindmap.Branch.hasFinger@POLYN160217 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#93"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00093] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#94"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.mindmap.Branch.drawU@POLYN160319 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#98"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00098] For method getHalfThickness arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#99"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.mindmap.Branch.getHalfThickness@POLYN160519 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.mindmap.Branch.getHalfThickness@POLYN160519 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#101"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.mindmap.Branch.getHalfThickness@POLYN160519 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#104"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00104] For method getFullElongation arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.mindmap.Branch.getFullElongation@POLYN160783 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.mindmap.Branch.getFullElongation@POLYN160783 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#115"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.mindmap.Branch.hasRoot@POLYN161129 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#122"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00122] For method getX12 arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.mindmap.Branch.getX12@POLYN161332 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#124"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.mindmap.Branch.getX12@POLYN161332 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

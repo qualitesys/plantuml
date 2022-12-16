@@ -2,7 +2,7 @@
 !pragma layout smetana
 "UDriver<ULine,Html5Drawer>" <|-- "net.sourceforge.plantuml.ugraphic.html5.DriverLineHtml5"
 class net.sourceforge.plantuml.ugraphic.html5.DriverLineHtml5 {
-+DriverLineHtml5(ClipContainer) : DriverLineHtml5 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/html5/DriverLineHtml5.java.html#17]]]
-+draw(ULine;double;double;ColorMapper;UParam;Html5Drawer) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/html5/DriverLineHtml5.java.html#21]]]
++DriverLineHtml5(ClipContainer) : DriverLineHtml5 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/html5/DriverLineHtml5.java.html#50]]]
++draw(ULine;double;double;ColorMapper;UParam;Html5Drawer) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/html5/DriverLineHtml5.java.html#54]]]
 } 
 @enduml

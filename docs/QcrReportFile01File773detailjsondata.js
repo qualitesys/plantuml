@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.asciiart.UmlCharArea" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#42"
  , "c1" : "void"
  , "c2" : "drawBoxSimple(int;int;int;int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#44"
  , "c1" : "void"
  , "c2" : "drawBoxSimpleUnicode(int;int;int;int)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#46"
  , "c1" : "void"
  , "c2" : "drawNoteSimple(int;int;int;int)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#48"
  , "c1" : "void"
  , "c2" : "drawNoteSimpleUnicode(int;int;int;int)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#50"
  , "c1" : "void"
  , "c2" : "drawShape(AsciiShape;int;int)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#52"
  , "c1" : "void"
  , "c2" : "drawStringsLRSimple(Collection<?extendsCharSequence>;int;int)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#54"
  , "c1" : "void"
  , "c2" : "drawStringsLRUnicode(Collection<?extendsCharSequence>;int;int)"
  , "c3" : "1"

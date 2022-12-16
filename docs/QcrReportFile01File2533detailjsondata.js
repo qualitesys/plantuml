@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#49"
  , "c1" : "CommandUseDateFormat"
  , "c2" : "CommandUseDateFormat()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#53"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#66"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(TimingDiagram;LineLocation;RegexResult)"
  , "c3" : "1"
@@ -100,73 +100,73 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat.getRegexConcat@POLYN150460 the MagicNumber/String  'use' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat.getRegexConcat@POLYN150664 the MagicNumber/String  'use' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat.getRegexConcat@POLYN150460 the MagicNumber/String  'date' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat.getRegexConcat@POLYN150664 the MagicNumber/String  'date' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat.getRegexConcat@POLYN150460 the MagicNumber/String  'format' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat.getRegexConcat@POLYN150664 the MagicNumber/String  'format' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat.getRegexConcat@POLYN150460 the MagicNumber/String  'FORMAT' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat.getRegexConcat@POLYN150664 the MagicNumber/String  'FORMAT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat.getRegexConcat@POLYN150460 the MagicNumber/String  '[%g]([^%g]+)[%g]' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat.getRegexConcat@POLYN150664 the MagicNumber/String  '[%g]([^%g]+)[%g]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method executeArg arguments TimingDiagram  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00066] For method executeArg arguments TimingDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#66"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00032] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00066] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#66"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00032] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00066] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat.executeArg@POLYN151116 the MagicNumber/String  'FORMAT' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat.executeArg@POLYN151320 the MagicNumber/String  'FORMAT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat.executeArg@POLYN151116 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat.executeArg@POLYN151320 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

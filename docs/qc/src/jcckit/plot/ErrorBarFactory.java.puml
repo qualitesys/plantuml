@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SymbolFactory" <|-- "jcckit.plot.ErrorBarFactory"
 class jcckit.plot.ErrorBarFactory {
-+ErrorBarFactory(ConfigParameters) : ErrorBarFactory [[[./../../../.././qc/src/jcckit/plot/ErrorBarFactory.java.html#22]]]
-+createLegendSymbol(GraphPoint;double) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/ErrorBarFactory.java.html#31]]]
-+createSymbol(GraphPoint;Hint;Hint) : Symbol [[[./../../../.././qc/src/jcckit/plot/ErrorBarFactory.java.html#38]]]
++ErrorBarFactory(ConfigParameters) : ErrorBarFactory [[[./../../../.././qc/src/jcckit/plot/ErrorBarFactory.java.html#76]]]
++createLegendSymbol(GraphPoint;double) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/ErrorBarFactory.java.html#88]]]
++createSymbol(GraphPoint;Hint;Hint) : Symbol [[[./../../../.././qc/src/jcckit/plot/ErrorBarFactory.java.html#104]]]
 } 
 @enduml

@@ -2,8 +2,8 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.svek.CircleInterface2"
 class net.sourceforge.plantuml.svek.CircleInterface2 {
-+CircleInterface2(HColor;HColor;double) : CircleInterface2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/CircleInterface2.java.html#24]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/CircleInterface2.java.html#30]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/CircleInterface2.java.html#41]]]
++CircleInterface2(HColor;HColor;double) : CircleInterface2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/CircleInterface2.java.html#58]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/CircleInterface2.java.html#64]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/CircleInterface2.java.html#75]]]
 } 
 @enduml

@@ -2,15 +2,15 @@
 !pragma layout smetana
 "AbstractTextBlockIEntityImage" <|-- "net.sourceforge.plantuml.svek.SvekResult"
 class net.sourceforge.plantuml.svek.SvekResult {
-+SvekResult(DotData;DotStringFactory) : SvekResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#32]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#37]]]
--computeKal() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#79]]]
--getDefaultStyleDefinition(Stereotype) : StyleSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#86]]]
-+getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#94]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#102]]]
-+getShapeType() : ShapeType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#110]]]
-+getShield(StringBounder) : Margins [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#114]]]
-+isHidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#118]]]
-+getOverscanX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#122]]]
++SvekResult(DotData;DotStringFactory) : SvekResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#66]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#71]]]
+-computeKal() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#113]]]
+-getDefaultStyleDefinition(Stereotype) : StyleSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#120]]]
++getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#128]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#136]]]
++getShapeType() : ShapeType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#144]]]
++getShield(StringBounder) : Margins [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#148]]]
++isHidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#152]]]
++getOverscanX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekResult.java.html#156]]]
 } 
 @enduml

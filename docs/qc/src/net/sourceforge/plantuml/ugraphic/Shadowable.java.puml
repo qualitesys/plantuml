@@ -2,7 +2,7 @@
 !pragma layout smetana
 "UShape" <|-- "net.sourceforge.plantuml.ugraphic.Shadowable"
 class net.sourceforge.plantuml.ugraphic.Shadowable {
-+setDeltaShadow(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/Shadowable.java.html#6]]]
-+getDeltaShadow() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/Shadowable.java.html#8]]]
++setDeltaShadow(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/Shadowable.java.html#39]]]
++getDeltaShadow() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/Shadowable.java.html#41]]]
 } 
 @enduml

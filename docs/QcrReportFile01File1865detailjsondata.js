@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.security.SecurityUtils" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00099"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#99"
+ , "c5" : "00169"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#169"
  , "c1" : "SecurityProfile"
  , "c2" : "getSecurityProfile()"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00106"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#106"
+ , "c5" : "00176"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#176"
  , "c1" : "boolean"
  , "c2" : "ignoreThisLink(String)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00112"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#112"
+ , "c5" : "00182"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#182"
  , "c1" : "boolean"
  , "c2" : "isJavascriptLink(String)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00116"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#116"
+ , "c5" : "00186"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#186"
  , "c1" : "boolean"
  , "c2" : "allowJavascriptInLink()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00121"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#121"
+ , "c5" : "00191"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#191"
  , "c1" : "String"
  , "c2" : "getenv(String)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00130"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#130"
+ , "c5" : "00206"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#206"
  , "c1" : "boolean"
  , "c2" : "isSecurityEnv(String)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00135"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#135"
+ , "c5" : "00217"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#217"
  , "c1" : "boolean"
  , "c2" : "isNonSSLAuthenticationAllowed()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00139"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#139"
+ , "c5" : "00221"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#221"
  , "c1" : "List<SFile>"
  , "c2" : "getPath(String)"
  , "c3" : "4"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00160"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#160"
+ , "c5" : "00242"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#242"
  , "c1" : "boolean"
  , "c2" : "allowSvgText()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00164"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#164"
+ , "c5" : "00246"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#246"
  , "c1" : "java.io.PrintWriter"
  , "c2" : "createPrintWriter(OutputStream)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00168"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#168"
+ , "c5" : "00250"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#250"
  , "c1" : "java.io.PrintWriter"
  , "c2" : "createPrintWriter(OutputStream;boolean)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00172"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#172"
+ , "c5" : "00254"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#254"
  , "c1" : "PrintStream"
  , "c2" : "createPrintStream(OutputStream)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00176"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#176"
+ , "c5" : "00258"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#258"
  , "c1" : "PrintStream"
  , "c2" : "createPrintStream(OutputStream;boolean;String)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00181"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#181"
+ , "c5" : "00263"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#263"
  , "c1" : "PrintStream"
  , "c2" : "createPrintStream(OutputStream;boolean;Charset)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00186"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#186"
+ , "c5" : "00268"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#268"
  , "c1" : "BufferedImage"
  , "c2" : "readRasterImage(ImageIcon)"
  , "c3" : "2"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00199"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#199"
+ , "c5" : "00281"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#281"
  , "c1" : "FileReader"
  , "c2" : "createFileReader(String)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00203"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#203"
+ , "c5" : "00285"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#285"
  , "c1" : "java.io.PrintWriter"
  , "c2" : "createPrintWriter(String)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00207"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#207"
+ , "c5" : "00289"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#289"
  , "c1" : "FileOutputStream"
  , "c2" : "createFileOutputStream(String)"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00212"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#212"
+ , "c5" : "00299"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#299"
  , "c1" : "SecurityAuthorizeManager"
  , "c2" : "getAuthenticationManager(SecurityCredentials)"
  , "c3" : "11"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00231"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#231"
+ , "c5" : "00323"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#323"
  , "c1" : "SecurityAccessInterceptor"
  , "c2" : "getAccessInterceptor(SecurityAuthentication)"
  , "c3" : "9"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00249"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#249"
+ , "c5" : "00346"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#346"
  , "c1" : "boolean"
  , "c2" : "existsSecurityCredentials(String)"
  , "c3" : "2"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00264"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#264"
+ , "c5" : "00366"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#366"
  , "c1" : "SecurityCredentials"
  , "c2" : "loadSecurityCredentials(String)"
  , "c3" : "3"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00280"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#280"
+ , "c5" : "00391"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#391"
  , "c1" : "boolean"
  , "c2" : "checkFileSystemSaveCharactersStrict(String)"
  , "c3" : "1"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00286"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#286"
+ , "c5" : "00405"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#405"
  , "c1" : "SFile"
  , "c2" : "getSecurityPath()"
  , "c3" : "3"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00299"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#299"
+ , "c5" : "00424"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#424"
  , "c1" : "JsonValue"
  , "c2" : "loadJson(File)"
  , "c3" : "2"
@@ -312,521 +312,521 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#99"
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#169"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00099] Lock statement on synchronized method getSecurityProfile"
+ , "c3" : "QC-JAV000019[00169] Lock statement on synchronized method getSecurityProfile"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#100"
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.security.SecurityUtils.getSecurityProfile@POLYN209930 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#106"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00106] For method ignoreThisLink arguments String  url"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#107"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.security.SecurityUtils.ignoreThisLink@POLYN210153 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.security.SecurityUtils.ignoreThisLink@POLYN210153 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#109"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.security.SecurityUtils.ignoreThisLink@POLYN210153 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#112"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00112] For method isJavascriptLink arguments String  url"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#112"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00112] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.security.SecurityUtils.isJavascriptLink@POLYN210426 the MagicNumber/String  '[^a-z]' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.security.SecurityUtils.isJavascriptLink@POLYN210426 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.security.SecurityUtils.isJavascriptLink@POLYN210426 the MagicNumber/String  'javascript' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.security.SecurityUtils.allowJavascriptInLink@POLYN210665 the MagicNumber/String  'PLANTUML_ALLOW_JAVASCRIPT_IN_LINK' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.security.SecurityUtils.allowJavascriptInLink@POLYN210665 the MagicNumber/String  'true' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#121"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00121] For method getenv arguments String  name"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#130"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00130] For method isSecurityEnv arguments String  name"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.security.SecurityUtils.isSecurityEnv@POLYN211468 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.security.SecurityUtils.isSecurityEnv@POLYN211468 the MagicNumber/String  'plantuml.security.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#139"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00139] For method getPath arguments String  prop"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#148"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00148] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#150"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00150] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#153"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00153] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.security.SecurityUtils.getPath@POLYN211998 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#146"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.security.SecurityUtils.getPath@POLYN211998 the MagicNumber/String  'path.separator' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#154"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.security.SecurityUtils.getPath@POLYN211998 the MagicNumber/String  'Cannot access to ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#154"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.security.SecurityUtils.getPath@POLYN211998 the MagicNumber/String  '. ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#161"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.security.SecurityUtils.allowSvgText@POLYN213352 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#164"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00164] For method createPrintWriter arguments OutputStream  os"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#168"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00168] For method createPrintWriter arguments OutputStream  os|boolean  append"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#172"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00172] For method createPrintStream arguments OutputStream  os"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.security.SecurityUtils.getSecurityProfile@POLYN210680 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#176"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00176] For method createPrintStream arguments OutputStream  os|boolean  autoFlush|String  charset"
+ , "c3" : "QC-JAV000006[00176] For method ignoreThisLink arguments String  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#181"
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.security.SecurityUtils.ignoreThisLink@POLYN210903 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#178"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.security.SecurityUtils.ignoreThisLink@POLYN210903 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#179"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.security.SecurityUtils.ignoreThisLink@POLYN210903 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#182"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00181] For method createPrintStream arguments OutputStream  os|boolean  autoFlush|Charset  charset"
+ , "c3" : "QC-JAV000006[00182] For method isJavascriptLink arguments String  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#181"
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#182"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00181] The argument charset is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00182] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00186"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#186"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00186] Lock statement on synchronized method readRasterImage"
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#183"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.security.SecurityUtils.isJavascriptLink@POLYN211176 the MagicNumber/String  '[^a-z]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00186"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#186"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00186] For method readRasterImage arguments ImageIcon  imageIcon"
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#183"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.security.SecurityUtils.isJavascriptLink@POLYN211176 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00186"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#186"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00186] The argument imageIcon is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#183"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.security.SecurityUtils.isJavascriptLink@POLYN211176 the MagicNumber/String  'javascript' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.security.SecurityUtils.allowJavascriptInLink@POLYN211415 the MagicNumber/String  'PLANTUML_ALLOW_JAVASCRIPT_IN_LINK' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN214516 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.security.SecurityUtils.allowJavascriptInLink@POLYN211415 the MagicNumber/String  'true' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#189"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN214516 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN214516 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN214516 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN214516 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00199"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#199"
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#191"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00199] For method createFileReader arguments String  path"
+ , "c3" : "QC-JAV000006[00191] For method getenv arguments String  name"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00203"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#203"
+ , "c1" : "00206"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#206"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00203] For method createPrintWriter arguments String  path"
+ , "c3" : "QC-JAV000006[00206] For method isSecurityEnv arguments String  name"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#207"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00207] For method createFileOutputStream arguments String  path"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00212"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#212"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00212] For method getAuthenticationManager arguments SecurityCredentials  credentialConfiguration"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00212"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#212"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00212] The argument credentialConfiguration is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00215"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN215845 the MagicNumber/String  'tokenauth' should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.security.SecurityUtils.isSecurityEnv@POLYN212218 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00217"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#217"
+ , "c1" : "00207"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN215845 the MagicNumber/String  'basicauth' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00219"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#219"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN215845 the MagicNumber/String  'oauth2' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00220"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#220"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN215845 the MagicNumber/String  'grantType' should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.security.SecurityUtils.isSecurityEnv@POLYN212218 the MagicNumber/String  'plantuml.security.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00221"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#221"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN215845 the MagicNumber/String  'client_credentials' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#223"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN215845 the MagicNumber/String  'password' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#231"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00231] For method getAccessInterceptor arguments SecurityAuthentication  authentication"
+ , "c3" : "QC-JAV000006[00221] For method getPath arguments String  prop"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#230"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00230] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00232"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN217116 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00232] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00234"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#234"
+ , "c1" : "00235"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#235"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN217116 the MagicNumber/String  'public' should be converted to const"
+ , "c3" : "QC-JAV000001[00235] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#224"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.security.SecurityUtils.getPath@POLYN212748 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#228"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.security.SecurityUtils.getPath@POLYN212748 the MagicNumber/String  'path.separator' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00236"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN217116 the MagicNumber/String  'tokenauth' should be converted to const"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.security.SecurityUtils.getPath@POLYN212748 the MagicNumber/String  'Cannot access to ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00238"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#238"
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN217116 the MagicNumber/String  'basicauth' should be converted to const"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.security.SecurityUtils.getPath@POLYN212748 the MagicNumber/String  '. ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00240"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#240"
+ , "c1" : "00243"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#243"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN217116 the MagicNumber/String  'oauth2' should be converted to const"
+ , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.security.SecurityUtils.allowSvgText@POLYN214102 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00249"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#249"
+ , "c1" : "00246"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#246"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00249] For method existsSecurityCredentials arguments String  userToken"
+ , "c3" : "QC-JAV000006[00246] For method createPrintWriter arguments OutputStream  os"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00251"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#251"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.security.SecurityUtils.existsSecurityCredentials@POLYN218129 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00255"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#255"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.security.SecurityUtils.existsSecurityCredentials@POLYN218129 the MagicNumber/String  '.credential' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00257"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#257"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.security.SecurityUtils.existsSecurityCredentials@POLYN218129 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00260"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#260"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.security.SecurityUtils.existsSecurityCredentials@POLYN218129 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00264"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#264"
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#250"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00264] For method loadSecurityCredentials arguments String  userToken"
+ , "c3" : "QC-JAV000006[00250] For method createPrintWriter arguments OutputStream  os|boolean  append"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00265"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#265"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.security.SecurityUtils.loadSecurityCredentials@POLYN218920 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00254"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#254"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00254] For method createPrintStream arguments OutputStream  os"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00267"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#267"
+ , "c1" : "00258"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#258"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00258] For method createPrintStream arguments OutputStream  os|boolean  autoFlush|String  charset"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00263"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#263"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00263] For method createPrintStream arguments OutputStream  os|boolean  autoFlush|Charset  charset"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00263"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#263"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00263] The argument charset is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00268"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#268"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00268] Lock statement on synchronized method readRasterImage"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00268"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#268"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00268] For method readRasterImage arguments ImageIcon  imageIcon"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00268"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#268"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00268] The argument imageIcon is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#270"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.security.SecurityUtils.loadSecurityCredentials@POLYN218920 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN215266 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00271"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#271"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.security.SecurityUtils.loadSecurityCredentials@POLYN218920 the MagicNumber/String  '.credential' should be converted to const"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN215266 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00280"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#280"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00280] For method checkFileSystemSaveCharactersStrict arguments String  pathNameToken"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00280"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#280"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00280] The argument pathNameToken is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00282"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#282"
+ , "c1" : "00275"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#275"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00282] In method net.sourceforge.plantuml.security.SecurityUtils.checkFileSystemSaveCharactersStrict@POLYN220053 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN215266 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00275"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#275"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN215266 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00275"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#275"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN215266 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00281"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#281"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00281] For method createFileReader arguments String  path"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00285"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#285"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00285] For method createPrintWriter arguments String  path"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00289"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#289"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.security.SecurityUtils.getSecurityPath@POLYN220567 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00295"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#295"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.security.SecurityUtils.getSecurityPath@POLYN220567 the MagicNumber/String  null should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00289] For method createFileOutputStream arguments String  path"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00299"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#299"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00299] For method loadJson arguments File  jsonFile"
+ , "c3" : "QC-JAV000006[00299] For method getAuthenticationManager arguments SecurityCredentials  credentialConfiguration"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00299"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#299"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00299] The argument jsonFile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00299] The argument credentialConfiguration is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00300"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#300"
+ , "c1" : "00302"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#302"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00300] In method net.sourceforge.plantuml.security.SecurityUtils.loadJson@POLYN221339 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN216595 the MagicNumber/String  'tokenauth' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00304"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#304"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN216595 the MagicNumber/String  'basicauth' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00306"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#306"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00306] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN216595 the MagicNumber/String  'oauth2' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#307"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN216595 the MagicNumber/String  'grantType' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00308"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#308"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN216595 the MagicNumber/String  'client_credentials' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00310"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#310"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN216595 the MagicNumber/String  'password' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00323"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#323"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00323] For method getAccessInterceptor arguments SecurityAuthentication  authentication"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00324"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#324"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00324] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN217866 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00326"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#326"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00326] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN217866 the MagicNumber/String  'public' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00328"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#328"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00328] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN217866 the MagicNumber/String  'tokenauth' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00330"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#330"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00330] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN217866 the MagicNumber/String  'basicauth' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00332"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#332"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN217866 the MagicNumber/String  'oauth2' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00346"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#346"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00346] For method existsSecurityCredentials arguments String  userToken"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00348"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#348"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.security.SecurityUtils.existsSecurityCredentials@POLYN218879 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00352"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#352"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00352] In method net.sourceforge.plantuml.security.SecurityUtils.existsSecurityCredentials@POLYN218879 the MagicNumber/String  '.credential' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00354"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#354"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00354] In method net.sourceforge.plantuml.security.SecurityUtils.existsSecurityCredentials@POLYN218879 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00357"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#357"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00357] In method net.sourceforge.plantuml.security.SecurityUtils.existsSecurityCredentials@POLYN218879 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00366"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#366"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00366] For method loadSecurityCredentials arguments String  userToken"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00367"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#367"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00367] In method net.sourceforge.plantuml.security.SecurityUtils.loadSecurityCredentials@POLYN219670 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00369"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#369"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.security.SecurityUtils.loadSecurityCredentials@POLYN219670 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00373"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#373"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00373] In method net.sourceforge.plantuml.security.SecurityUtils.loadSecurityCredentials@POLYN219670 the MagicNumber/String  '.credential' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00391"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#391"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00391] For method checkFileSystemSaveCharactersStrict arguments String  pathNameToken"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00391"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#391"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00391] The argument pathNameToken is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00393"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#393"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00393] In method net.sourceforge.plantuml.security.SecurityUtils.checkFileSystemSaveCharactersStrict@POLYN220803 the MagicNumber/String  64 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00408"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#408"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00408] In method net.sourceforge.plantuml.security.SecurityUtils.getSecurityPath@POLYN221317 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00414"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#414"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00414] In method net.sourceforge.plantuml.security.SecurityUtils.getSecurityPath@POLYN221317 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00424"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#424"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00424] For method loadJson arguments File  jsonFile"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00424"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#424"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00424] The argument jsonFile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00425"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#425"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00425] In method net.sourceforge.plantuml.security.SecurityUtils.loadJson@POLYN222089 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

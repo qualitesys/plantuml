@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SimpleReturnFunction" <|-- "net.sourceforge.plantuml.tim.stdlib.DateFunction"
 class net.sourceforge.plantuml.tim.stdlib.DateFunction {
-+getSignature() : TFunctionSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/DateFunction.java.html#20]]]
-+canCover(int;Set<String>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/DateFunction.java.html#24]]]
-+executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/DateFunction.java.html#28]]]
++getSignature() : TFunctionSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/DateFunction.java.html#53]]]
++canCover(int;Set<String>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/DateFunction.java.html#57]]]
++executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/DateFunction.java.html#61]]]
 } 
 @enduml

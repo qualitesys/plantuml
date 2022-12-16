@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.LinkStyle" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#46"
  , "c1" : "LinkStyle"
  , "c2" : "LinkStyle(Type;Double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#56"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#66"
  , "c1" : "boolean"
  , "c2" : "isNormal()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#70"
  , "c1" : "boolean"
  , "c2" : "isInvisible()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#74"
  , "c1" : "LinkStyle"
  , "c2" : "NORMAL()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#78"
  , "c1" : "LinkStyle"
  , "c2" : "INVISIBLE()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#82"
  , "c1" : "LinkStyle"
  , "c2" : "BOLD()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#86"
  , "c1" : "LinkStyle"
  , "c2" : "DOTTED()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#56"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#90"
  , "c1" : "LinkStyle"
  , "c2" : "DASHED()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#60"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#94"
  , "c1" : "LinkStyle"
  , "c2" : "goThickness(double)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#64"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#98"
  , "c1" : "UStroke"
  , "c2" : "getStroke3()"
  , "c3" : "4"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#77"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#111"
  , "c1" : "UStroke"
  , "c2" : "muteStroke(UStroke)"
  , "c3" : "2"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#84"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#118"
  , "c1" : "double"
  , "c2" : "nonZeroThickness()"
  , "c3" : "2"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#91"
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#125"
  , "c1" : "LinkStyle"
  , "c2" : "fromString1(String)"
  , "c3" : "2"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00099"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#99"
+ , "c5" : "00133"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#133"
  , "c1" : "LinkStyle"
  , "c2" : "fromString2(String)"
  , "c3" : "5"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00115"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#115"
+ , "c5" : "00149"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#149"
  , "c1" : "boolean"
  , "c2" : "isThicknessOverrided()"
  , "c3" : "1"
@@ -217,227 +217,227 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.toString@POLYN157448 the MagicNumber/String  '(' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.toString@POLYN157448 the MagicNumber/String  ')' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.NORMAL@POLYN157861 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.INVISIBLE@POLYN158022 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.BOLD@POLYN158183 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.DOTTED@POLYN158344 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.toString@POLYN157652 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.DASHED@POLYN158505 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.toString@POLYN157652 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#60"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method goThickness arguments double  thickness"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#66"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.getStroke3@POLYN158829 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.NORMAL@POLYN158065 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#66"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.getStroke3@POLYN158829 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.INVISIBLE@POLYN158226 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#69"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.getStroke3@POLYN158829 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.BOLD@POLYN158387 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#69"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.getStroke3@POLYN158829 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.getStroke3@POLYN158829 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#77"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00077] For method muteStroke arguments UStroke  stroke"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.nonZeroThickness@POLYN159885 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#86"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.nonZeroThickness@POLYN159885 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.DOTTED@POLYN158548 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#91"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00091] For method fromString1 arguments String  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.fromString1@POLYN160087 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.DASHED@POLYN158709 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#99"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#94"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00099] For method fromString2 arguments String  s"
+ , "c3" : "QC-JAV000006[00094] For method goThickness arguments double  thickness"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.fromString2@POLYN160420 the MagicNumber/String  'dashed' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.getStroke3@POLYN159033 the MagicNumber/String  7 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.getStroke3@POLYN159033 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.fromString2@POLYN160420 the MagicNumber/String  'dotted' should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.getStroke3@POLYN159033 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.getStroke3@POLYN159033 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.fromString2@POLYN160420 the MagicNumber/String  'bold' should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.getStroke3@POLYN159033 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#109"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#111"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00111] For method muteStroke arguments UStroke  stroke"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.fromString2@POLYN160420 the MagicNumber/String  'hidden' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.nonZeroThickness@POLYN160089 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#112"
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.fromString2@POLYN160420 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.nonZeroThickness@POLYN160089 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#116"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#125"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00125] For method fromString1 arguments String  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.isThicknessOverrided@POLYN161238 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.fromString1@POLYN160291 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#40"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00040] Public method NORMAL is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#133"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00133] For method fromString2 arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#44"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00044] Public method INVISIBLE is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#134"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.fromString2@POLYN160624 the MagicNumber/String  'dashed' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#48"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00048] Public method BOLD is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#137"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.fromString2@POLYN160624 the MagicNumber/String  'dotted' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#52"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00052] Public method DOTTED is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#140"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.fromString2@POLYN160624 the MagicNumber/String  'bold' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#56"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00056] Public method DASHED is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#143"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.fromString2@POLYN160624 the MagicNumber/String  'hidden' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#91"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00091] Public method fromString1 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#146"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.fromString2@POLYN160624 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#99"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#150"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.cucadiagram.LinkStyle.isThicknessOverrided@POLYN161442 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#74"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00099] Public method fromString2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00074] Public method NORMAL is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#78"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00078] Public method INVISIBLE is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#82"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00082] Public method BOLD is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#86"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00086] Public method DOTTED is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#90"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00090] Public method DASHED is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#125"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00125] Public method fromString1 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkStyle.java.html#133"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00133] Public method fromString2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

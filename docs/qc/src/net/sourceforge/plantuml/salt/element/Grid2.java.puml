@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.salt.element.Grid2"
 class net.sourceforge.plantuml.salt.element.Grid2 {
-+Grid2(List<Double>;List<Double>;TableStrategy) : Grid2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Grid2.java.html#16]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Grid2.java.html#22]]]
--drawHorizontal() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Grid2.java.html#45]]]
--drawVertical() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Grid2.java.html#52]]]
++Grid2(List<Double>;List<Double>;TableStrategy) : Grid2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Grid2.java.html#50]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Grid2.java.html#56]]]
+-drawHorizontal() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Grid2.java.html#79]]]
+-drawVertical() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Grid2.java.html#86]]]
 } 
 @enduml

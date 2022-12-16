@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#16"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#61"
  , "c1" : "void"
  , "c2" : "apply(SecurityAuthentication;URLConnection)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#23"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#68"
  , "c1" : "String"
  , "c2" : "getAuth(SecurityAuthentication)"
  , "c3" : "3"
@@ -91,80 +91,80 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#16"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method apply arguments SecurityAuthentication  authentication|URLConnection  connection"
+ , "c3" : "QC-JAV000006[00061] For method apply arguments SecurityAuthentication  authentication|URLConnection  connection"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#16"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#61"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00016] The argument connection is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00061] The argument connection is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#19"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.apply@POLYN152222 the MagicNumber/String  'Basic ' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.apply@POLYN152492 the MagicNumber/String  'Basic ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#20"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.apply@POLYN152222 the MagicNumber/String  'Authorization' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.apply@POLYN152492 the MagicNumber/String  'Authorization' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#23"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method getAuth arguments SecurityAuthentication  authentication"
+ , "c3" : "QC-JAV000006[00068] For method getAuth arguments SecurityAuthentication  authentication"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#23"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#68"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00023] The argument authentication is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00068] The argument authentication is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#24"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN152672 the MagicNumber/String  'identifier' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN152942 the MagicNumber/String  'identifier' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#25"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN152672 the MagicNumber/String  'secret' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN152942 the MagicNumber/String  'secret' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#29"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN152672 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN152942 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#29"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN152672 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN152942 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#30"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN152672 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN152942 the MagicNumber/String  ':' should be converted to const"
 }} 
 ]
 , 

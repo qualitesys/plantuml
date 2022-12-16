@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.oregon.SecureCoder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/SecureCoder.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/SecureCoder.java.html#64"
  , "c1" : "int"
  , "c2" : "encode(int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/SecureCoder.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/SecureCoder.java.html#68"
  , "c1" : "int"
  , "c2" : "decode(int)"
  , "c3" : "1"
@@ -77,17 +77,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SecureCoder.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SecureCoder.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method encode arguments int  i"
+ , "c3" : "QC-JAV000006[00064] For method encode arguments int  i"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SecureCoder.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SecureCoder.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method decode arguments int  v"
+ , "c3" : "QC-JAV000006[00068] For method decode arguments int  v"
 }} 
 ]
 , 

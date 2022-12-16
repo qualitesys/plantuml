@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.lang.PairOfSomething" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#50"
  , "c1" : "PairOfSomething"
  , "c2" : "PairOfSomething(Something;Something)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#55"
  , "c1" : "Failable<?extendsObject>"
  , "c2" : "getMe(GanttDiagram;RegexResult;String)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#68"
  , "c1" : "IRegex"
  , "c2" : "toRegex(String)"
  , "c3" : "1"
@@ -93,52 +93,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method getMe arguments GanttDiagram  system|RegexResult  arg|String  suffix"
+ , "c3" : "QC-JAV000006[00055] For method getMe arguments GanttDiagram  system|RegexResult  arg|String  suffix"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.project.lang.PairOfSomething.getMe@POLYN151833 the MagicNumber/String  'A' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.lang.PairOfSomething.getMe@POLYN152037 the MagicNumber/String  'A' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.project.lang.PairOfSomething.getMe@POLYN151833 the MagicNumber/String  'B' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.lang.PairOfSomething.getMe@POLYN152037 the MagicNumber/String  'B' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method toRegex arguments String  suffix"
+ , "c3" : "QC-JAV000006[00068] For method toRegex arguments String  suffix"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.project.lang.PairOfSomething.toRegex@POLYN152808 the MagicNumber/String  'A' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.project.lang.PairOfSomething.toRegex@POLYN153012 the MagicNumber/String  'A' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.project.lang.PairOfSomething.toRegex@POLYN152808 the MagicNumber/String  'B' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.project.lang.PairOfSomething.toRegex@POLYN153012 the MagicNumber/String  'B' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.project.lang.PairOfSomething.toRegex@POLYN152808 the MagicNumber/String  '[%s]+' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.project.lang.PairOfSomething.toRegex@POLYN153012 the MagicNumber/String  '[%s]+' should be converted to const"
 }} 
 ]
 , 

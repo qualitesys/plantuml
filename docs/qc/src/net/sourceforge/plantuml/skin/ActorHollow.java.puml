@@ -2,11 +2,11 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.skin.ActorHollow"
 class net.sourceforge.plantuml.skin.ActorHollow {
-+ActorHollow(SymbolContext) : ActorHollow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorHollow.java.html#28]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorHollow.java.html#32]]]
--thickness() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorHollow.java.html#65]]]
-+getPreferredWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorHollow.java.html#69]]]
-+getPreferredHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorHollow.java.html#73]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorHollow.java.html#77]]]
++ActorHollow(SymbolContext) : ActorHollow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorHollow.java.html#62]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorHollow.java.html#66]]]
+-thickness() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorHollow.java.html#99]]]
++getPreferredWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorHollow.java.html#103]]]
++getPreferredHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorHollow.java.html#107]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ActorHollow.java.html#111]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.timescale.TimeScaleDaily" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#46"
  , "c1" : "TimeScaleDaily"
  , "c2" : "TimeScaleDaily(Day;double;Day)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#55"
  , "c1" : "double"
  , "c2" : "getStartingPosition(Day)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#59"
  , "c1" : "double"
  , "c2" : "getEndingPosition(Day)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#63"
  , "c1" : "double"
  , "c2" : "getWidth(Day)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#67"
  , "c1" : "boolean"
  , "c2" : "isBreaking(Day)"
  , "c3" : "1"
@@ -111,45 +111,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.project.timescale.TimeScaleDaily.TimeScaleDaily@POLYN148523 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.project.timescale.TimeScaleDaily.TimeScaleDaily@POLYN148727 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method getStartingPosition arguments Day  instant"
+ , "c3" : "QC-JAV000006[00055] For method getStartingPosition arguments Day  instant"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method getEndingPosition arguments Day  instant"
+ , "c3" : "QC-JAV000006[00059] For method getEndingPosition arguments Day  instant"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method getWidth arguments Day  instant"
+ , "c3" : "QC-JAV000006[00063] For method getWidth arguments Day  instant"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method isBreaking arguments Day  instant"
+ , "c3" : "QC-JAV000006[00067] For method isBreaking arguments Day  instant"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.project.timescale.TimeScaleDaily.isBreaking@POLYN149526 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.project.timescale.TimeScaleDaily.isBreaking@POLYN149730 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

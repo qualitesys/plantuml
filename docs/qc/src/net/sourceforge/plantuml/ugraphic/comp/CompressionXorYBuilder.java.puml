@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder"
 class net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder {
-+build(CompressionMode;TextBlock;StringBounder) : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionXorYBuilder.java.html#9]]]
--getPiecewiseAffineTransform(CompressionMode;TextBlock;StringBounder) : PiecewiseAffineTransform [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionXorYBuilder.java.html#14]]]
++build(CompressionMode;TextBlock;StringBounder) : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionXorYBuilder.java.html#43]]]
+-getPiecewiseAffineTransform(CompressionMode;TextBlock;StringBounder) : PiecewiseAffineTransform [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionXorYBuilder.java.html#48]]]
 } 
 @enduml

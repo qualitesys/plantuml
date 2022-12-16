@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.braille.BrailleCharFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleCharFactory.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleCharFactory.java.html#44"
  , "c1" : "List<BrailleChar>"
  , "c2" : "build(String)"
  , "c3" : "2"
@@ -75,17 +75,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleCharFactory.java.html#10"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleCharFactory.java.html#44"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00010] For method build arguments String  s"
+ , "c3" : "QC-JAV000006[00044] For method build arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleCharFactory.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleCharFactory.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.braille.BrailleCharFactory.build@POLYN146618 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.braille.BrailleCharFactory.build@POLYN146822 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

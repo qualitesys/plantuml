@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#44"
  , "c1" : "GraphicalElementLiveEvent"
  , "c2" : "GraphicalElementLiveEvent(double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#48"
  , "c1" : "void"
  , "c2" : "drawInternalU(UGraphic;double;Context2D)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#51"
  , "c1" : "double"
  , "c2" : "getStartingX(StringBounder)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#55"
  , "c1" : "double"
  , "c2" : "getPreferredWidth(StringBounder)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#59"
  , "c1" : "double"
  , "c2" : "getPreferredHeight(StringBounder)"
  , "c3" : "1"
@@ -111,52 +111,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method drawInternalU arguments UGraphic  ug|double  maxX|Context2D  context"
+ , "c3" : "QC-JAV000006[00048] For method drawInternalU arguments UGraphic  ug|double  maxX|Context2D  context"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#51"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method getStartingX arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00051] For method getStartingX arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent.getStartingX@POLYN147128 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent.getStartingX@POLYN147332 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method getPreferredWidth arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00055] For method getPreferredWidth arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent.getPreferredWidth@POLYN147238 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent.getPreferredWidth@POLYN147442 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method getPreferredHeight arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00059] For method getPreferredHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent.getPreferredHeight@POLYN147348 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent.getPreferredHeight@POLYN147552 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

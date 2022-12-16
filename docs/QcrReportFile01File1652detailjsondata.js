@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.LabelStrategy" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.html#45"
  , "c1" : "LabelStrategy"
  , "c2" : "LabelStrategy(LabelPosition;HorizontalAlignment)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.html#50"
  , "c1" : "boolean"
  , "c2" : "titleInFirstColumn()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.html#54"
  , "c1" : "boolean"
  , "c2" : "titleInLastColumn()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.html#58"
  , "c1" : "boolean"
  , "c2" : "titleInside()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.html#62"
  , "c1" : "boolean"
  , "c2" : "rightAligned()"
  , "c3" : "1"

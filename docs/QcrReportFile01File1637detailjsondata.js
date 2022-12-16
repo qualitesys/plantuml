@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.preproc2.ReadFilterAddConfig" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#50"
  , "c1" : "ReadFilterAddConfig"
  , "c2" : "ReadFilterAddConfig(List<String>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#54"
  , "c1" : "ReadLine"
  , "c2" : "applyFilter(ReadLine)"
  , "c3" : "5"
@@ -91,59 +91,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method applyFilter arguments ReadLine  raw"
+ , "c3" : "QC-JAV000006[00054] For method applyFilter arguments ReadLine  raw"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#54"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument raw is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00054] The argument raw is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.preproc2.ReadFilterAddConfig.applyFilter@POLYN150494 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.preproc2.ReadFilterAddConfig.applyFilter@POLYN150698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.preproc2.ReadFilterAddConfig.applyFilter@POLYN150494 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.preproc2.ReadFilterAddConfig.applyFilter@POLYN150698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.preproc2.ReadFilterAddConfig.applyFilter@POLYN150494 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.preproc2.ReadFilterAddConfig.applyFilter@POLYN150698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.preproc2.ReadFilterAddConfig.applyFilter@POLYN150494 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.preproc2.ReadFilterAddConfig.applyFilter@POLYN150698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.preproc2.ReadFilterAddConfig.applyFilter@POLYN150494 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.preproc2.ReadFilterAddConfig.applyFilter@POLYN150698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.preproc2.ReadFilterAddConfig.applyFilter@POLYN150494 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.preproc2.ReadFilterAddConfig.applyFilter@POLYN150698 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

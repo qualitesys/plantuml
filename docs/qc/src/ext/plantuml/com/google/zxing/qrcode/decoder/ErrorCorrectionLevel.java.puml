@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "ext.plantuml.com.google.zxing.qrcode.decoder.ErrorCorrectionLevel"
 class ext.plantuml.com.google.zxing.qrcode.decoder.ErrorCorrectionLevel {
--ErrorCorrectionLevel(int;int;String) : ErrorCorrectionLevel [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#25]]]
-+ordinal() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#31]]]
-+getBits() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#35]]]
-+getName() : String [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#39]]]
-+toString() : String [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#43]]]
-+forBits(int) : ErrorCorrectionLevel [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#48]]]
+-ErrorCorrectionLevel(int;int;String) : ErrorCorrectionLevel [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#52]]]
++ordinal() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#58]]]
++getBits() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#62]]]
++getName() : String [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#66]]]
++toString() : String [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#70]]]
++forBits(int) : ErrorCorrectionLevel [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#78]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.plugins.markers.PluginMarkers" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#15"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#23"
  , "c1" : "PluginMarkers"
  , "c2" : "PluginMarkers(List<Marker>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#39"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#47"
  , "c1" : "boolean"
  , "c2" : "hasGUIP()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#43"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#51"
  , "c1" : "void"
  , "c2" : "render()"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#61"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#69"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -118,38 +118,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#40"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method ext.plantuml.com.ctreber.acearth.plugins.markers.PluginMarkers.hasGUIP@POLYN140307 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method ext.plantuml.com.ctreber.acearth.plugins.markers.PluginMarkers.hasGUIP@POLYN140355 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#51"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00051] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00059] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#51"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00051] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00059] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#62"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method ext.plantuml.com.ctreber.acearth.plugins.markers.PluginMarkers.toString@POLYN140845 the MagicNumber/String  'AC.earth Markers plug-in' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.ctreber.acearth.plugins.markers.PluginMarkers.toString@POLYN140893 the MagicNumber/String  'AC.earth Markers plug-in' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.plugins.markers.PluginMarkers.render@POLYN140387"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.plugins.markers.PluginMarkers.render@POLYN140435"
 }} 
 ]
 , 

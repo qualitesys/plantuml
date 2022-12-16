@@ -2,13 +2,13 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.windowsdot.WindowsDotArchive"
 class net.sourceforge.plantuml.windowsdot.WindowsDotArchive {
--WindowsDotArchive() : WindowsDotArchive [[[./../../../../../.././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#21]]]
-+getInstance() : WindowsDotArchive [[[./../../../../../.././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#25]]]
-+readString(InputStream) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#32]]]
-+readNumber(InputStream) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#42]]]
--readByte(InputStream) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#49]]]
--extract(File) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#53]]]
-+isThereArchive() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#70]]]
-+getWindowsExeLite() : File [[[./../../../../../.././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#80]]]
+-WindowsDotArchive() : WindowsDotArchive [[[./../../../../../.././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#55]]]
++getInstance() : WindowsDotArchive [[[./../../../../../.././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#59]]]
++readString(InputStream) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#66]]]
++readNumber(InputStream) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#76]]]
+-readByte(InputStream) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#83]]]
+-extract(File) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#87]]]
++isThereArchive() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#104]]]
++getWindowsExeLite() : File [[[./../../../../../.././qc/src/net/sourceforge/plantuml/windowsdot/WindowsDotArchive.java.html#114]]]
 } 
 @enduml

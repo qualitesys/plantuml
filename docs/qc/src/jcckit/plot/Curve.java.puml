@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "jcckit.plot.Curve"
 class jcckit.plot.Curve {
-+getView() : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/Curve.java.html#10]]]
-+getLegendSymbol() : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/Curve.java.html#13]]]
-+addPoint(GraphPoint;Hint) : Hint [[[./../../../.././qc/src/jcckit/plot/Curve.java.html#16]]]
-+removeAllPoints() : void [[[./../../../.././qc/src/jcckit/plot/Curve.java.html#19]]]
++getView() : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/Curve.java.html#44]]]
++getLegendSymbol() : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/Curve.java.html#51]]]
++addPoint(GraphPoint;Hint) : Hint [[[./../../../.././qc/src/jcckit/plot/Curve.java.html#60]]]
++removeAllPoints() : void [[[./../../../.././qc/src/jcckit/plot/Curve.java.html#63]]]
 } 
 @enduml

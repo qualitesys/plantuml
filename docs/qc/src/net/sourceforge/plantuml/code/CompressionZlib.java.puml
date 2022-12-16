@@ -2,8 +2,8 @@
 !pragma layout smetana
 "Compression" <|-- "net.sourceforge.plantuml.code.CompressionZlib"
 class net.sourceforge.plantuml.code.CompressionZlib {
-+compress(byte[]) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#15]]]
-+decompress(byte[]) : ByteArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#39]]]
--copyArray(byte[];int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#51]]]
++compress(byte[]) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#49]]]
++decompress(byte[]) : ByteArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#73]]]
+-copyArray(byte[];int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#85]]]
 } 
 @enduml

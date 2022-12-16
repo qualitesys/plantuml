@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.donors.PSystemSkinparameterList" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#57"
  , "c1" : "PSystemSkinparameterList"
  , "c2" : "PSystemSkinparameterList(UmlSource)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#62"
  , "c1" : "UDrawable"
  , "c2" : "getRootDrawable(FileFormatOption)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#45"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#79"
  , "c1" : "List<TextBlock>"
  , "c2" : "getCols(List<String>;int)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#89"
  , "c1" : "List<String>"
  , "c2" : "getDonors()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#60"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#94"
  , "c1" : "DiagramDescription"
  , "c2" : "getDescription()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#64"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#98"
  , "c1" : "PSystemSkinparameterList"
  , "c2" : "create(UmlSource)"
  , "c3" : "1"
@@ -134,87 +134,87 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method getRootDrawable arguments FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00062] For method getRootDrawable arguments FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.donors.PSystemSkinparameterList.getRootDrawable@POLYN156767 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.donors.PSystemSkinparameterList.getRootDrawable@POLYN156971 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.donors.PSystemSkinparameterList.getRootDrawable@POLYN156767 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.donors.PSystemSkinparameterList.getRootDrawable@POLYN156971 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.donors.PSystemSkinparameterList.getRootDrawable@POLYN156767 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.donors.PSystemSkinparameterList.getRootDrawable@POLYN156971 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.donors.PSystemSkinparameterList.getRootDrawable@POLYN156767 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.donors.PSystemSkinparameterList.getRootDrawable@POLYN156971 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#79"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method getCols arguments List&lt;String &gt;  lines|int  nbCol"
+ , "c3" : "QC-JAV000006[00079] For method getCols arguments List&lt;String &gt;  lines|int  nbCol"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#79"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00045] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00079] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00049] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00083] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#47"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.donors.PSystemSkinparameterList.getCols@POLYN157905 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.donors.PSystemSkinparameterList.getCols@POLYN158109 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#48"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.donors.PSystemSkinparameterList.getCols@POLYN157905 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.donors.PSystemSkinparameterList.getCols@POLYN158109 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.donors.PSystemSkinparameterList.getDescription@POLYN159200 the MagicNumber/String  '(Parameters)' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.donors.PSystemSkinparameterList.getDescription@POLYN159404 the MagicNumber/String  '(Parameters)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#64"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method create arguments UmlSource  source"
+ , "c3" : "QC-JAV000006[00098] For method create arguments UmlSource  source"
 }} 
 ]
 , 

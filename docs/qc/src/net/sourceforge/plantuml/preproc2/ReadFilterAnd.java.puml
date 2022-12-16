@@ -2,7 +2,7 @@
 !pragma layout smetana
 "ReadFilter" <|-- "net.sourceforge.plantuml.preproc2.ReadFilterAnd"
 class net.sourceforge.plantuml.preproc2.ReadFilterAnd {
-+add(ReadFilter) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAnd.java.html#13]]]
-+applyFilter(ReadLine) : ReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAnd.java.html#17]]]
++add(ReadFilter) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAnd.java.html#47]]]
++applyFilter(ReadLine) : ReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAnd.java.html#51]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "org.stathissideris.ascii2image.text.GridPatternGroup" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#9"
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#31"
  , "c1" : "boolean"
  , "c2" : "areAllMatchedBy(TextGrid)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#18"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#40"
  , "c1" : "boolean"
  , "c2" : "isAnyMatchedBy(TextGrid)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#28"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#50"
  , "c1" : "void"
  , "c2" : "add(GridPattern...)"
  , "c3" : "2"
@@ -123,115 +123,115 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#9"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#31"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00009] For method areAllMatchedBy arguments TextGrid  grid"
+ , "c3" : "QC-JAV000006[00031] For method areAllMatchedBy arguments TextGrid  grid"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#12"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00012] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00034] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#13"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method org.stathissideris.ascii2image.text.GridPatternGroup.areAllMatchedBy@POLYN178494 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method org.stathissideris.ascii2image.text.GridPatternGroup.areAllMatchedBy@POLYN178626 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#15"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method org.stathissideris.ascii2image.text.GridPatternGroup.areAllMatchedBy@POLYN178494 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method org.stathissideris.ascii2image.text.GridPatternGroup.areAllMatchedBy@POLYN178626 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#18"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#40"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method isAnyMatchedBy arguments TextGrid  grid"
+ , "c3" : "QC-JAV000006[00040] For method isAnyMatchedBy arguments TextGrid  grid"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#21"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00021] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00043] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#22"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method org.stathissideris.ascii2image.text.GridPatternGroup.isAnyMatchedBy@POLYN178956 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method org.stathissideris.ascii2image.text.GridPatternGroup.isAnyMatchedBy@POLYN179088 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#24"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method org.stathissideris.ascii2image.text.GridPatternGroup.isAnyMatchedBy@POLYN178956 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method org.stathissideris.ascii2image.text.GridPatternGroup.isAnyMatchedBy@POLYN179088 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#28"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method add arguments GridPattern  ...patterns"
+ , "c3" : "QC-JAV000006[00050] For method add arguments GridPattern  ...patterns"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.GridPatternGroup.add@POLYN179401"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.GridPatternGroup.add@POLYN179533"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.GridPatternGroup.areAllMatchedBy@POLYN178494"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.GridPatternGroup.areAllMatchedBy@POLYN178626"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.GridPatternGroup.isAnyMatchedBy@POLYN178956"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.GridPatternGroup.isAnyMatchedBy@POLYN179088"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#13"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#35"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00013] In the recursive method org.stathissideris.ascii2image.text.GridPatternGroup.areAllMatchedBy@POLYN178494 the MagicNumber/String false MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00035] In the recursive method org.stathissideris.ascii2image.text.GridPatternGroup.areAllMatchedBy@POLYN178626 the MagicNumber/String false MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#15"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#37"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00015] In the recursive method org.stathissideris.ascii2image.text.GridPatternGroup.areAllMatchedBy@POLYN178494 the MagicNumber/String true MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00037] In the recursive method org.stathissideris.ascii2image.text.GridPatternGroup.areAllMatchedBy@POLYN178626 the MagicNumber/String true MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#22"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#44"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00022] In the recursive method org.stathissideris.ascii2image.text.GridPatternGroup.isAnyMatchedBy@POLYN178956 the MagicNumber/String true MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00044] In the recursive method org.stathissideris.ascii2image.text.GridPatternGroup.isAnyMatchedBy@POLYN179088 the MagicNumber/String true MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#24"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#46"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00024] In the recursive method org.stathissideris.ascii2image.text.GridPatternGroup.isAnyMatchedBy@POLYN178956 the MagicNumber/String false MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00046] In the recursive method org.stathissideris.ascii2image.text.GridPatternGroup.isAnyMatchedBy@POLYN179088 the MagicNumber/String false MUST BE CONVERTED to const"
 }} 
 ]
 , 

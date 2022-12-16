@@ -2,6 +2,6 @@
 !pragma layout smetana
 "Command" <|-- "net.sourceforge.plantuml.creole.command.CommandCreoleCache"
 class net.sourceforge.plantuml.creole.command.CommandCreoleCache {
-CommandCreoleCache(String) : CommandCreoleCache [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleCache.java.html#16]]]
+CommandCreoleCache(String) : CommandCreoleCache [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleCache.java.html#50]]]
 } 
 @enduml

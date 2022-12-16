@@ -2,7 +2,7 @@
 !pragma layout smetana
 "AbstractPlacementStrategy" <|-- "net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2"
 class net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2 {
-+PlacementStrategyY1Y2(StringBounder) : PlacementStrategyY1Y2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2.java.html#14]]]
-+getPositions(double;double) : Map<TextBlock,XPoint2D> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2.java.html#18]]]
++PlacementStrategyY1Y2(StringBounder) : PlacementStrategyY1Y2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2.java.html#48]]]
++getPositions(double;double) : Map<TextBlock,XPoint2D> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2.java.html#52]]]
 } 
 @enduml

@@ -2,14 +2,14 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.EmptyImageBuilder"
 class net.sourceforge.plantuml.EmptyImageBuilder {
--create(String;int;int;Color;StringBounder;double) : EmptyImageBuilder [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#29]]]
-+EmptyImageBuilder(String;int;int;Color;StringBounder) : EmptyImageBuilder [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#38]]]
--getType(Color) : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#67]]]
--printWatermark(String;int;int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#77]]]
--getWidth(String;Font;FontMetrics) : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#105]]]
--withBreaks(String;Font;FontMetrics;int) : List<String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#110]]]
-+getBufferedImage() : BufferedImage [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#129]]]
-+getGraphics2D() : Graphics2D [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#133]]]
-+getUGraphicG2d() : UGraphicG2d [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#137]]]
+-create(String;int;int;Color;StringBounder;double) : EmptyImageBuilder [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#63]]]
++EmptyImageBuilder(String;int;int;Color;StringBounder) : EmptyImageBuilder [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#72]]]
+-getType(Color) : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#101]]]
+-printWatermark(String;int;int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#111]]]
+-getWidth(String;Font;FontMetrics) : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#139]]]
+-withBreaks(String;Font;FontMetrics;int) : List<String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#144]]]
++getBufferedImage() : BufferedImage [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#163]]]
++getGraphics2D() : Graphics2D [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#167]]]
++getUGraphicG2d() : UGraphicG2d [[[./../../../../.././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#171]]]
 } 
 @enduml

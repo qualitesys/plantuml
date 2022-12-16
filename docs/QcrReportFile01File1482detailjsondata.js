@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.math.LatexBuilder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#54"
  , "c1" : "LatexBuilder"
  , "c2" : "LatexBuilder(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#60"
  , "c1" : "XDimension2D"
  , "c2" : "getDimension()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#64"
  , "c1" : "Icon"
  , "c2" : "buildIcon(Color)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#70"
  , "c1" : "UImageSvg"
  , "c2" : "getSvg(double;Color;Color)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#46"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#80"
  , "c1" : "MutableImage"
  , "c2" : "getImage(Color;Color)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00104"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#104"
+ , "c5" : "00138"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#138"
  , "c1" : "String"
  , "c2" : "getSource()"
  , "c3" : "1"
@@ -120,108 +120,108 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method buildIcon arguments Color  foregroundColor"
+ , "c3" : "QC-JAV000006[00064] For method buildIcon arguments Color  foregroundColor"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method getSvg arguments double  scale|Color  foregroundColor|Color  backgroundColor"
+ , "c3" : "QC-JAV000006[00070] For method getSvg arguments double  scale|Color  foregroundColor|Color  backgroundColor"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#41"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.math.LatexBuilder.getSvg@POLYN158879 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.math.LatexBuilder.getSvg@POLYN159083 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method getImage arguments Color  foregroundColor|Color  backgroundColor"
+ , "c3" : "QC-JAV000006[00080] For method getImage arguments Color  foregroundColor|Color  backgroundColor"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#50"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.math.LatexBuilder.getImage@POLYN159587 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.math.LatexBuilder.getImage@POLYN159791 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#69"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.math.LatexBuilder.LatexImage.getImage@POLYN160669 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.math.LatexBuilder.LatexImage.getImage@POLYN160873 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#74"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.math.LatexBuilder.LatexImage.getImage@POLYN160669 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.math.LatexBuilder.LatexImage.getImage@POLYN160873 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#76"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.math.LatexBuilder.LatexImage.getImage@POLYN160669 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.math.LatexBuilder.LatexImage.getImage@POLYN160873 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#76"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.math.LatexBuilder.LatexImage.getImage@POLYN160669 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.math.LatexBuilder.LatexImage.getImage@POLYN160873 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#78"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.math.LatexBuilder.LatexImage.getImage@POLYN160669 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.math.LatexBuilder.LatexImage.getImage@POLYN160873 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#78"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.math.LatexBuilder.LatexImage.getImage@POLYN160669 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.math.LatexBuilder.LatexImage.getImage@POLYN160873 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#78"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.math.LatexBuilder.LatexImage.getImage@POLYN160669 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.math.LatexBuilder.LatexImage.getImage@POLYN160873 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#83"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#117"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method withScale arguments double  scale"
+ , "c3" : "QC-JAV000006[00117] For method withScale arguments double  scale"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#88"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#122"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method muteColor arguments Color  newColor"
+ , "c3" : "QC-JAV000006[00122] For method muteColor arguments Color  newColor"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#93"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/math/LatexBuilder.java.html#127"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00093] For method muteTransparentColor arguments Color  newColor"
+ , "c3" : "QC-JAV000006[00127] For method muteTransparentColor arguments Color  newColor"
 }} 
 ]
 , 

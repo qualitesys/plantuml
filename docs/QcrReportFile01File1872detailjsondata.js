@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.security.authentication.SecurityDefaultNoopAuthorizeManager" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAuthorizeManager.java.html#13"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAuthorizeManager.java.html#51"
  , "c1" : "SecurityAuthentication"
  , "c2" : "create(SecurityCredentials)"
  , "c3" : "1"
@@ -75,17 +75,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAuthorizeManager.java.html#13"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAuthorizeManager.java.html#51"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method create arguments SecurityCredentials  credentials"
+ , "c3" : "QC-JAV000006[00051] For method create arguments SecurityCredentials  credentials"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAuthorizeManager.java.html#14"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAuthorizeManager.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.security.authentication.SecurityDefaultNoopAuthorizeManager.create@POLYN146404 the MagicNumber/String  'public' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.security.authentication.SecurityDefaultNoopAuthorizeManager.create@POLYN146632 the MagicNumber/String  'public' should be converted to const"
 }} 
 ]
 , 

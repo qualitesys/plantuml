@@ -2,14 +2,14 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.TextBlockBordered"
 class net.sourceforge.plantuml.graphic.TextBlockBordered {
-TextBlockBordered(TextBlock;UStroke;HColor;HColor;double;ClockwiseTopRightBottomLeft;String) : TextBlockBordered [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#29]]]
--getTextHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#44]]]
--getPureTextWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#49]]]
--getTextWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#54]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#58]]]
--applyStroke(UGraphic) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#64]]]
--noBorder() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#71]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#78]]]
--getPolygonNormal(StringBounder) : Shadowable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#104]]]
+TextBlockBordered(TextBlock;UStroke;HColor;HColor;double;ClockwiseTopRightBottomLeft;String) : TextBlockBordered [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#63]]]
+-getTextHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#78]]]
+-getPureTextWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#83]]]
+-getTextWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#88]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#92]]]
+-applyStroke(UGraphic) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#98]]]
+-noBorder() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#105]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#112]]]
+-getPolygonNormal(StringBounder) : Shadowable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockBordered.java.html#138]]]
 } 
 @enduml

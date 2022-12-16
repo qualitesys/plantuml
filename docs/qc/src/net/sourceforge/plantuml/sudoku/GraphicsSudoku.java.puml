@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.sudoku.GraphicsSudoku"
 class net.sourceforge.plantuml.sudoku.GraphicsSudoku {
-+GraphicsSudoku(ISudoku) : GraphicsSudoku [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/GraphicsSudoku.java.html#43]]]
-+writeImageEps(OutputStream) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/GraphicsSudoku.java.html#47]]]
-+writeImageSvg(OutputStream) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/GraphicsSudoku.java.html#55]]]
-+writeImageLatex(OutputStream;FileFormat) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/GraphicsSudoku.java.html#64]]]
-+writeImagePng(OutputStream) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/GraphicsSudoku.java.html#72]]]
--drawInternal(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/GraphicsSudoku.java.html#102]]]
++GraphicsSudoku(ISudoku) : GraphicsSudoku [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/GraphicsSudoku.java.html#77]]]
++writeImageEps(OutputStream) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/GraphicsSudoku.java.html#81]]]
++writeImageSvg(OutputStream) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/GraphicsSudoku.java.html#89]]]
++writeImageLatex(OutputStream;FileFormat) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/GraphicsSudoku.java.html#98]]]
++writeImagePng(OutputStream) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/GraphicsSudoku.java.html#106]]]
+-drawInternal(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/GraphicsSudoku.java.html#136]]]
 } 
 @enduml

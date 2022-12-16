@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "h.ST_Agrec_s" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/h/ST_Agrec_s.java.html#15"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/h/ST_Agrec_s.java.html#59"
  , "c1" : "boolean"
  , "c2" : "isSameThan(__ptr__)"
  , "c3" : "1"
@@ -75,24 +75,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/h/ST_Agrec_s.java.html#10"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/h/ST_Agrec_s.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00010] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00054] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/h/ST_Agrec_s.java.html#11"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/h/ST_Agrec_s.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00011] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00055] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/h/ST_Agrec_s.java.html#15"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/h/ST_Agrec_s.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method isSameThan arguments __ptr__  other"
+ , "c3" : "QC-JAV000006[00059] For method isSameThan arguments __ptr__  other"
 }} 
 ]
 , 

@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "jcckit.plot.PlotEvent"
 class jcckit.plot.PlotEvent {
-+PlotEvent(Plot;PlotEventType;Object) : PlotEvent [[[./../../../.././qc/src/jcckit/plot/PlotEvent.java.html#11]]]
-+getSource() : Plot [[[./../../../.././qc/src/jcckit/plot/PlotEvent.java.html#18]]]
-+getType() : PlotEventType [[[./../../../.././qc/src/jcckit/plot/PlotEvent.java.html#23]]]
-+getMessage() : Object [[[./../../../.././qc/src/jcckit/plot/PlotEvent.java.html#28]]]
++PlotEvent(Plot;PlotEventType;Object) : PlotEvent [[[./../../../.././qc/src/jcckit/plot/PlotEvent.java.html#62]]]
++getSource() : Plot [[[./../../../.././qc/src/jcckit/plot/PlotEvent.java.html#69]]]
++getType() : PlotEventType [[[./../../../.././qc/src/jcckit/plot/PlotEvent.java.html#80]]]
++getMessage() : Object [[[./../../../.././qc/src/jcckit/plot/PlotEvent.java.html#85]]]
 } 
 @enduml

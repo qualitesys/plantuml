@@ -2,8 +2,8 @@
 !pragma layout smetana
 "ElementFactory" <|-- "net.sourceforge.plantuml.salt.factory.ElementFactoryTextField"
 class net.sourceforge.plantuml.salt.factory.ElementFactoryTextField {
-+ElementFactoryTextField(DataSource;ISkinSimple) : ElementFactoryTextField [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTextField.java.html#16]]]
-+create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTextField.java.html#21]]]
-+ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTextField.java.html#32]]]
++ElementFactoryTextField(DataSource;ISkinSimple) : ElementFactoryTextField [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTextField.java.html#50]]]
++create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTextField.java.html#55]]]
++ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTextField.java.html#66]]]
 } 
 @enduml

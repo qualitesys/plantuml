@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#67"
  , "c1" : "DriverTextAsPathG2d"
  , "c2" : "DriverTextAsPathG2d(EnsureVisible;StringBounder)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#38"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#72"
  , "c1" : "void"
  , "c2" : "printFont()"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#47"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#81"
  , "c1" : "void"
  , "c2" : "draw(UText;double;double;ColorMapper;UParam;Graphics2D)"
  , "c3" : "10"
@@ -100,206 +100,206 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.printFont@POLYN168007 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.printFont@POLYN168211 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.printFont@POLYN168007 the MagicNumber/String  'Available fonts: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.printFont@POLYN168211 the MagicNumber/String  'Available fonts: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#47"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#81"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00047] For method draw arguments UText  shape|double  x|double  y|ColorMapper  mapper|UParam  param|Graphics2D  g2d"
+ , "c3" : "QC-JAV000006[00081] For method draw arguments UText  shape|double  x|double  y|ColorMapper  mapper|UParam  param|Graphics2D  g2d"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#47"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#81"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00047] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00081] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#47"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#81"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00047] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  1.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  1.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  1.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  2.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  2.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAVCWE476[00081] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#91"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#91"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#101"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168552 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#109"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#112"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  2.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#113"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  2.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#120"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  6 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#124"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#124"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#124"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  6 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  0.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#132"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d.draw@POLYN168756 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ]
 , 

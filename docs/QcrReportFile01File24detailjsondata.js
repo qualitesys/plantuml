@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.scanbit.ScanBit" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#11"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#20"
  , "c1" : "ScanBit"
  , "c2" : "ScanBit(int;int;int;int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#19"
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#28"
  , "c1" : "int"
  , "c2" : "compareTo(Object)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#30"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#39"
  , "c1" : "int"
  , "c2" : "getY()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#35"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#44"
  , "c1" : "int"
  , "c2" : "getlXFrom()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#40"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#49"
  , "c1" : "int"
  , "c2" : "getXTo()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#46"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#58"
  , "c1" : "int"
  , "c2" : "getType()"
  , "c3" : "1"
@@ -120,38 +120,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#19"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#28"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method compareTo arguments Object  o"
+ , "c3" : "QC-JAV000006[00028] For method compareTo arguments Object  o"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#24"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBit.compareTo@POLYN142561 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBit.compareTo@POLYN142633 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#24"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBit.compareTo@POLYN142561 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBit.compareTo@POLYN142633 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#24"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBit.compareTo@POLYN142561 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBit.compareTo@POLYN142633 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#27"
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBit.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBit.compareTo@POLYN142561 the MagicNumber/String  'Can't compare with ' should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBit.compareTo@POLYN142633 the MagicNumber/String  'Can't compare with ' should be converted to const"
 }} 
 ]
 , 

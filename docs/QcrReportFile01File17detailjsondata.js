@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.renderer.Renderer" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#16"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#25"
  , "c1" : "Renderer"
  , "c2" : "Renderer(RenderTarget)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#20"
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#29"
  , "c1" : "void"
  , "c2" : "render()"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#29"
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#38"
  , "c1" : "void"
  , "c2" : "renderRows()"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#37"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#53"
  , "c1" : "int[]"
  , "c2" : "getPixelTypes(int)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#51"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#73"
  , "c1" : "void"
  , "c2" : "renderRow(int;int[])"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#59"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#81"
  , "c1" : "void"
  , "c2" : "setShader(Shader)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#63"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#85"
  , "c1" : "void"
  , "c2" : "setRenderTarget(RenderTarget)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#67"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#89"
  , "c1" : "void"
  , "c2" : "addRowTypeRenderer(RowTypeRenderer)"
  , "c3" : "1"
@@ -175,108 +175,108 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#23"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00023] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00032] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#23"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00023] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00032] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#29"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#38"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00029] For method renderRows list of called methods Object monObjet|int[] getPixelTypesN148375"
+ , "c3" : "QC-JAV000007[00038] For method renderRows list of called methods Object monObjet|int[] getPixelTypesN148507"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#30"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method ext.plantuml.com.ctreber.acearth.renderer.Renderer.renderRows@POLYN148117 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.acearth.renderer.Renderer.renderRows@POLYN148249 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#37"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method getPixelTypes arguments int  pRowNo"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00043] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00043] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#51"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method renderRow arguments int  pRowNo|int[]  pPixelTypes"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method ext.plantuml.com.ctreber.acearth.renderer.Renderer.renderRow@POLYN149335 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000006[00053] For method getPixelTypes arguments int  pRowNo"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#59"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method setShader arguments Shader  pShader"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00059] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#63"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00063] For method setRenderTarget arguments RenderTarget  pRenderTarget"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#59"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00059] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#67"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#73"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00067] For method addRowTypeRenderer arguments RowTypeRenderer  pRowRenderer"
+ , "c3" : "QC-JAV000006[00073] For method renderRow arguments int  pRowNo|int[]  pPixelTypes"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#20"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method ext.plantuml.com.ctreber.acearth.renderer.Renderer.renderRow@POLYN149467 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#81"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00081] For method setShader arguments Shader  pShader"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#85"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00085] For method setRenderTarget arguments RenderTarget  pRenderTarget"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#89"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00089] For method addRowTypeRenderer arguments RowTypeRenderer  pRowRenderer"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#29"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00020] Public method render is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00029] Public method render is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#67"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#89"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00067] Public method addRowTypeRenderer is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00089] Public method addRowTypeRenderer is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.renderer.Renderer.getPixelTypes@POLYN148664"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.renderer.Renderer.getPixelTypes@POLYN148796"
 }} 
 ]
 , 

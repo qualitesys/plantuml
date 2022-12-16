@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractAtomAtom" <|-- "net.sourceforge.plantuml.creole.atom.AtomVerticalTexts"
 class net.sourceforge.plantuml.creole.atom.AtomVerticalTexts {
-+AtomVerticalTexts(List<Atom>) : AtomVerticalTexts [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#14]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#18]]]
-+getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#29]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#33]]]
++AtomVerticalTexts(List<Atom>) : AtomVerticalTexts [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#48]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#52]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#63]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#67]]]
 } 
 @enduml

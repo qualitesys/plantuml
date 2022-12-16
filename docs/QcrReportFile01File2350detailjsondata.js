@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.svek.image.RotatedEllipse" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#46"
  , "c1" : "RotatedEllipse"
  , "c2" : "RotatedEllipse(UEllipse;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#51"
  , "c1" : "double"
  , "c2" : "getA()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#55"
  , "c1" : "double"
  , "c2" : "getB()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#59"
  , "c1" : "double"
  , "c2" : "getBeta()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#63"
  , "c1" : "XPoint2D"
  , "c2" : "getPoint(double)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#39"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#73"
  , "c1" : "double"
  , "c2" : "getOtherTheta(double)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#82"
  , "c1" : "double"
  , "c2" : "other(double[];double)"
  , "c3" : "2"
@@ -129,73 +129,73 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.svek.image.RotatedEllipse.getA@POLYN153334 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.svek.image.RotatedEllipse.getA@POLYN153538 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.svek.image.RotatedEllipse.getB@POLYN153464 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.svek.image.RotatedEllipse.getB@POLYN153668 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method getPoint arguments double  theta"
+ , "c3" : "QC-JAV000006[00063] For method getPoint arguments double  theta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#73"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method getOtherTheta arguments double  theta1"
+ , "c3" : "QC-JAV000006[00073] For method getOtherTheta arguments double  theta1"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.svek.image.RotatedEllipse.getOtherTheta@POLYN154522 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.svek.image.RotatedEllipse.getOtherTheta@POLYN154726 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#48"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method other arguments double[]  all|double  some"
+ , "c3" : "QC-JAV000006[00082] For method other arguments double[]  all|double  some"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.svek.image.RotatedEllipse.other@POLYN155392 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.svek.image.RotatedEllipse.other@POLYN155596 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#50"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.svek.image.RotatedEllipse.other@POLYN155392 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.svek.image.RotatedEllipse.other@POLYN155596 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#53"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.svek.image.RotatedEllipse.other@POLYN155392 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.svek.image.RotatedEllipse.other@POLYN155596 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#55"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/RotatedEllipse.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.svek.image.RotatedEllipse.other@POLYN155392 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.svek.image.RotatedEllipse.other@POLYN155596 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

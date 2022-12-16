@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.jsondiagram.Mirror"
 class net.sourceforge.plantuml.jsondiagram.Mirror {
-+Mirror(double) : Mirror [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#10]]]
-+inv(double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#14]]]
-+invAndXYSwitch(XPoint2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#21]]]
-+invGit(XPoint2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#27]]]
++Mirror(double) : Mirror [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#44]]]
++inv(double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#48]]]
++invAndXYSwitch(XPoint2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#55]]]
++invGit(XPoint2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#61]]]
 } 
 @enduml

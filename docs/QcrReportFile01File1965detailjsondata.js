@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.FrontierSimple" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierSimple.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierSimple.java.html#44"
  , "c1" : "FrontierSimple"
  , "c2" : "FrontierSimple(double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierSimple.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierSimple.java.html#48"
  , "c1" : "double"
  , "c2" : "getFreeY(ParticipantRange)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierSimple.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierSimple.java.html#53"
  , "c1" : "FrontierSimple"
  , "c2" : "add(double;ParticipantRange)"
  , "c3" : "1"
@@ -86,17 +86,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierSimple.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierSimple.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method getFreeY arguments ParticipantRange  range"
+ , "c3" : "QC-JAV000006[00048] For method getFreeY arguments ParticipantRange  range"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierSimple.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierSimple.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method add arguments double  delta|ParticipantRange  range"
+ , "c3" : "QC-JAV000006[00053] For method add arguments double  delta|ParticipantRange  range"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sudoku.ISudoku" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/ISudoku.java.html#6"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/ISudoku.java.html#40"
  , "c1" : "int"
  , "c2" : "getGiven(int;int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/ISudoku.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/ISudoku.java.html#42"
  , "c1" : "long"
  , "c2" : "getRatting()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/ISudoku.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/ISudoku.java.html#44"
  , "c1" : "long"
  , "c2" : "getSeed()"
  , "c3" : "1"

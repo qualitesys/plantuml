@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.jcckit.PSystemJcckitFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#59"
  , "c1" : "PSystemJcckitFactory"
  , "c2" : "PSystemJcckitFactory(DiagramType)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#64"
  , "c1" : "PSystemJcckit"
  , "c2" : "initDiagram(UmlSource;String)"
  , "c3" : "5"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#46"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#80"
  , "c1" : "void"
  , "c2" : "extractDimension(String)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#56"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#90"
  , "c1" : "String"
  , "c2" : "getDimension()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#60"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#94"
  , "c1" : "PSystemJcckit"
  , "c2" : "createSystem(UmlSource)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#77"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#111"
  , "c1" : "PSystemJcckit"
  , "c2" : "executeLine(UmlSource;PSystemJcckit;String)"
  , "c3" : "3"
@@ -127,143 +127,143 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method initDiagram arguments UmlSource  source|String  startLine"
+ , "c3" : "QC-JAV000006[00064] For method initDiagram arguments UmlSource  source|String  startLine"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.initDiagram@POLYN157902 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.initDiagram@POLYN158106 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.initDiagram@POLYN157902 the MagicNumber/String  640 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.initDiagram@POLYN158106 the MagicNumber/String  640 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.initDiagram@POLYN157902 the MagicNumber/String  400 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.initDiagram@POLYN157902 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#46"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method extractDimension arguments String  startLine"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.extractDimension@POLYN158734 the MagicNumber/String  '\\((\\d+),(\\d+)\\)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.extractDimension@POLYN158734 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.extractDimension@POLYN158734 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.getDimension@POLYN159400 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.getDimension@POLYN159400 the MagicNumber/String  '-' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#60"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method createSystem arguments UmlSource  source"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.initDiagram@POLYN158106 the MagicNumber/String  400 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.createSystem@POLYN159556 the MagicNumber/String  'Error ' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.initDiagram@POLYN158106 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.createSystem@POLYN159556 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#77"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00077] For method executeLine arguments UmlSource  source|PSystemJcckit  system|String  line"
+ , "c3" : "QC-JAV000006[00080] For method extractDimension arguments String  startLine"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#77"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.extractDimension@POLYN158938 the MagicNumber/String  '\\((\\d+),(\\d+)\\)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.extractDimension@POLYN158938 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.extractDimension@POLYN158938 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.getDimension@POLYN159604 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.getDimension@POLYN159604 the MagicNumber/String  '-' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#94"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00094] For method createSystem arguments UmlSource  source"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.createSystem@POLYN159760 the MagicNumber/String  'Error ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.createSystem@POLYN159760 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#111"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00111] For method executeLine arguments UmlSource  source|PSystemJcckit  system|String  line"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#111"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00077] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00111] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#78"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.executeLine@POLYN160379 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.executeLine@POLYN160583 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#78"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.executeLine@POLYN160379 the MagicNumber/String  'jcckit' should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.executeLine@POLYN160583 the MagicNumber/String  'jcckit' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#83"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.executeLine@POLYN160379 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.executeLine@POLYN160583 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#84"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckitFactory.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.executeLine@POLYN160379 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.jcckit.PSystemJcckitFactory.executeLine@POLYN160583 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

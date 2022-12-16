@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.pathplan.shortest__c"
 class gen.lib.pathplan.shortest__c {
-+Pshortestpath(ST_Ppoly_t;CArray<ST_pointf>;ST_Ppoly_t) : int [[[./../../../../.././qc/src/gen/lib/pathplan/shortest__c.java.html#44]]]
-+triangulate(ST_pointnlink_t[];int) : void [[[./../../../../.././qc/src/gen/lib/pathplan/shortest__c.java.html#243]]]
-+isdiagonal(int;int;ST_pointnlink_t[];int) : boolean [[[./../../../../.././qc/src/gen/lib/pathplan/shortest__c.java.html#420]]]
-+loadtriangle(__ptr__;__ptr__;__ptr__) : void [[[./../../../../.././qc/src/gen/lib/pathplan/shortest__c.java.html#741]]]
-+connecttris(int;int) : void [[[./../../../../.././qc/src/gen/lib/pathplan/shortest__c.java.html#741]]]
++Pshortestpath(ST_Ppoly_t;CArray<ST_pointf>;ST_Ppoly_t) : int [[[./../../../../.././qc/src/gen/lib/pathplan/shortest__c.java.html#92]]]
++triangulate(ST_pointnlink_t[];int) : void [[[./../../../../.././qc/src/gen/lib/pathplan/shortest__c.java.html#291]]]
++isdiagonal(int;int;ST_pointnlink_t[];int) : boolean [[[./../../../../.././qc/src/gen/lib/pathplan/shortest__c.java.html#468]]]
++loadtriangle(__ptr__;__ptr__;__ptr__) : void [[[./../../../../.././qc/src/gen/lib/pathplan/shortest__c.java.html#789]]]
++connecttris(int;int) : void [[[./../../../../.././qc/src/gen/lib/pathplan/shortest__c.java.html#789]]]
 +marktripath(int;int) : boolean [[[./../../../../.././qc/src/gen/lib/pathplan/shortest__c.java.html#1]]]
 +add2dq(int;ST_pointnlink_t) : void [[[./../../../../.././qc/src/gen/lib/pathplan/shortest__c.java.html#1]]]
 +splitdq(int;int) : void [[[./../../../../.././qc/src/gen/lib/pathplan/shortest__c.java.html#1]]]

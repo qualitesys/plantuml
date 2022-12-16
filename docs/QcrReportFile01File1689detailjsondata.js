@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.core3.Histogram" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core3/Histogram.java.html#6"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core3/Histogram.java.html#40"
  , "c1" : "long"
  , "c2" : "getValueAt(long)"
  , "c3" : "1"

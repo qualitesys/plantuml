@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.bpm.GridCleaner"
 class net.sourceforge.plantuml.bpm.GridCleaner {
-+clean(Grid) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/GridCleaner.java.html#6]]]
++clean(Grid) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/GridCleaner.java.html#40]]]
 } 
 @enduml

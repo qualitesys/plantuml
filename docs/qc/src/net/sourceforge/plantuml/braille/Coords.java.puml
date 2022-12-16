@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.braille.Coords"
 class net.sourceforge.plantuml.braille.Coords {
-+Coords(int;int) : Coords [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/Coords.java.html#9]]]
-+equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/Coords.java.html#15]]]
-+hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/Coords.java.html#21]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/Coords.java.html#26]]]
-+getX() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/Coords.java.html#30]]]
-+getY() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/Coords.java.html#34]]]
++Coords(int;int) : Coords [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/Coords.java.html#43]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/Coords.java.html#49]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/Coords.java.html#55]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/Coords.java.html#60]]]
++getX() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/Coords.java.html#64]]]
++getY() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/Coords.java.html#68]]]
 } 
 @enduml

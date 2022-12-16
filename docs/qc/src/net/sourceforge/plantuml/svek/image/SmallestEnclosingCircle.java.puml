@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle"
 class net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle {
-+append(XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#14]]]
-+getCircle() : Circle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#21]]]
--findSec(int;List<XPoint2D>;int;List<XPoint2D>) : Circle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#28]]]
++append(XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#48]]]
++getCircle() : Circle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#55]]]
+-findSec(int;List<XPoint2D>;int;List<XPoint2D>) : Circle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#62]]]
 } 
 @enduml

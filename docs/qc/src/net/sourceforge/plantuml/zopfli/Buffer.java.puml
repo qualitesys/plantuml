@@ -2,12 +2,12 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.zopfli.Buffer"
 class net.sourceforge.plantuml.zopfli.Buffer {
-Buffer() : Buffer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#11]]]
-+getData() : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#15]]]
-+getResult() : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#19]]]
-+getSize() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#25]]]
-append(byte) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#29]]]
-addBits(int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#38]]]
-addHuffmanBits(int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#49]]]
+Buffer() : Buffer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#27]]]
++getData() : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#31]]]
++getResult() : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#35]]]
++getSize() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#41]]]
+append(byte) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#45]]]
+addBits(int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#54]]]
+addHuffmanBits(int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#65]]]
 } 
 @enduml

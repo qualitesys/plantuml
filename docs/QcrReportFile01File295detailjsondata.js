@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.graphic.LineAttributes" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/jcckit/graphic/LineAttributes.java.html#9"
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/jcckit/graphic/LineAttributes.java.html#33"
  , "c1" : "Color"
  , "c2" : "getLineColor()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/jcckit/graphic/LineAttributes.java.html#12"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/jcckit/graphic/LineAttributes.java.html#41"
  , "c1" : "double"
  , "c2" : "getLineThickness()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/jcckit/graphic/LineAttributes.java.html#15"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/jcckit/graphic/LineAttributes.java.html#50"
  , "c1" : "double[]"
  , "c2" : "getLinePattern()"
  , "c3" : "1"

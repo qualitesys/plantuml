@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.mindmap.Idea" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#63"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "getDefaultStyleDefinitionNode(int)"
  , "c3" : "5"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#54"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#88"
  , "c1" : "Style"
  , "c2" : "getStyle()"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#66"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#100"
  , "c1" : "Style"
  , "c2" : "getStyleArrow()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#73"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#107"
  , "c1" : "Idea"
  , "c2" : "createIdeaSimple(StyleBuilder;HColor;Display;IdeaShape;String)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#78"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#112"
  , "c1" : "Idea"
  , "c2" : "createIdea(StyleBuilder;HColor;int;Display;IdeaShape;String)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#85"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#119"
  , "c1" : "Idea"
  , "c2" : "Idea(StyleBuilder;HColor;int;Idea;Display;IdeaShape;String)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#97"
+ , "c5" : "00131"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#131"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#101"
+ , "c5" : "00135"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#135"
  , "c1" : "int"
  , "c2" : "getLevel()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00105"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#105"
+ , "c5" : "00139"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#139"
  , "c1" : "Display"
  , "c2" : "getLabel()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#109"
+ , "c5" : "00143"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#143"
  , "c1" : "Collection<Idea>"
  , "c2" : "getChildren()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#113"
+ , "c5" : "00147"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#147"
  , "c1" : "boolean"
  , "c2" : "hasChildren()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00117"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#117"
+ , "c5" : "00151"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#151"
  , "c1" : "Idea"
  , "c2" : "getParent()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00121"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#121"
+ , "c5" : "00155"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#155"
  , "c1" : "IdeaShape"
  , "c2" : "getShape()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00125"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#125"
+ , "c5" : "00159"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#159"
  , "c1" : "HColor"
  , "c2" : "getBackColor()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00129"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#129"
+ , "c5" : "00163"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#163"
  , "c1" : "StyleBuilder"
  , "c2" : "getStyleBuilder()"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00133"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#133"
+ , "c5" : "00167"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#167"
  , "c1" : "String"
  , "c2" : "getStereotype()"
  , "c3" : "1"
@@ -224,108 +224,108 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method getDefaultStyleDefinitionNode arguments int  level"
+ , "c3" : "QC-JAV000006[00063] For method getDefaultStyleDefinitionNode arguments int  level"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.mindmap.Idea.getDefaultStyleDefinitionNode@POLYN166794 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.mindmap.Idea.getDefaultStyleDefinitionNode@POLYN166998 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.mindmap.Idea.getDefaultStyleDefinitionNode@POLYN166794 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.mindmap.Idea.getDefaultStyleDefinitionNode@POLYN166794 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00058] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00060] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.mindmap.Idea.getStyle@POLYN168844 the MagicNumber/String  1000 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.mindmap.Idea.getStyle@POLYN168844 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#73"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method createIdeaSimple arguments StyleBuilder  styleBuilder|HColor  backColor|Display  label|IdeaShape  shape|String  stereotype"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.mindmap.Idea.createIdeaSimple@POLYN170266 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.mindmap.Idea.createIdeaSimple@POLYN170266 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.mindmap.Idea.getDefaultStyleDefinitionNode@POLYN166998 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#78"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method createIdea arguments StyleBuilder  styleBuilder|HColor  backColor|int  newLevel|Display  newDisplay|IdeaShape  newShape|String  stereotype"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.mindmap.Idea.getDefaultStyleDefinitionNode@POLYN166998 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#114"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.mindmap.Idea.hasChildren@POLYN172296 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00092] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#94"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00094] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.mindmap.Idea.getStyle@POLYN169048 the MagicNumber/String  1000 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.mindmap.Idea.getStyle@POLYN169048 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#107"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00107] For method createIdeaSimple arguments StyleBuilder  styleBuilder|HColor  backColor|Display  label|IdeaShape  shape|String  stereotype"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#109"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00109] Public method getChildren is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.mindmap.Idea.createIdeaSimple@POLYN170470 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#113"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#109"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.mindmap.Idea.createIdeaSimple@POLYN170470 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#112"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00112] For method createIdea arguments StyleBuilder  styleBuilder|HColor  backColor|int  newLevel|Display  newDisplay|IdeaShape  newShape|String  stereotype"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#148"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.mindmap.Idea.hasChildren@POLYN172500 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#143"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00113] Public method hasChildren is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00143] Public method getChildren is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#147"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00147] Public method hasChildren is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

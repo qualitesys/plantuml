@@ -2,9 +2,9 @@
 !pragma layout smetana
 "ElementFactory" <|-- "net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff"
 class net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff {
-+ElementFactoryCheckboxOff(DataSource;ISkinSimple) : ElementFactoryCheckboxOff [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#20]]]
-+create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#25]]]
--extracted(String) : List<String> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#36]]]
-+ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#41]]]
++ElementFactoryCheckboxOff(DataSource;ISkinSimple) : ElementFactoryCheckboxOff [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#54]]]
++create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#59]]]
+-extracted(String) : List<String> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#70]]]
++ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#75]]]
 } 
 @enduml

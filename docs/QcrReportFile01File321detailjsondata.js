@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.PlotEvent" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/jcckit/plot/PlotEvent.java.html#11"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/jcckit/plot/PlotEvent.java.html#62"
  , "c1" : "PlotEvent"
  , "c2" : "PlotEvent(Plot;PlotEventType;Object)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/jcckit/plot/PlotEvent.java.html#18"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/jcckit/plot/PlotEvent.java.html#69"
  , "c1" : "Plot"
  , "c2" : "getSource()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/jcckit/plot/PlotEvent.java.html#23"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/jcckit/plot/PlotEvent.java.html#80"
  , "c1" : "PlotEventType"
  , "c2" : "getType()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/jcckit/plot/PlotEvent.java.html#28"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/jcckit/plot/PlotEvent.java.html#85"
  , "c1" : "Object"
  , "c2" : "getMessage()"
  , "c3" : "1"

@@ -2,12 +2,12 @@
 !pragma layout smetana
 "GroupingGraphicalElement" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementHeader"
 class net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementHeader {
-+GroupingGraphicalElementHeader(double;Component;InGroupableList;boolean) : GroupingGraphicalElementHeader [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.html#24]]]
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.html#32]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.html#37]]]
-+getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.html#47]]]
-drawInternalU(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.html#52]]]
-+setEndY(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.html#75]]]
-+addNotes(StringBounder;Collection<Component>) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.html#79]]]
++GroupingGraphicalElementHeader(double;Component;InGroupableList;boolean) : GroupingGraphicalElementHeader [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.html#58]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.html#66]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.html#71]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.html#81]]]
+drawInternalU(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.html#86]]]
++setEndY(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.html#109]]]
++addNotes(StringBounder;Collection<Component>) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.html#113]]]
 } 
 @enduml

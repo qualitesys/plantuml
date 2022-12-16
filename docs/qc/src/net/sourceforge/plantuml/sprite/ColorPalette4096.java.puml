@@ -2,12 +2,12 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.sprite.ColorPalette4096"
 class net.sourceforge.plantuml.sprite.ColorPalette4096 {
-+getStringFor(Color) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#15]]]
-+getStringFor(HColor) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#19]]]
-encodeInt(int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#32]]]
--getHtmlColorSimpleFor(int) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#39]]]
-+getColorFor(String) : Color [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#44]]]
-getColorFor(int) : Color [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#60]]]
--dup(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#67]]]
++getStringFor(Color) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#49]]]
++getStringFor(HColor) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#53]]]
+encodeInt(int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#66]]]
+-getHtmlColorSimpleFor(int) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#73]]]
++getColorFor(String) : Color [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#78]]]
+getColorFor(int) : Color [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#94]]]
+-dup(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#101]]]
 } 
 @enduml

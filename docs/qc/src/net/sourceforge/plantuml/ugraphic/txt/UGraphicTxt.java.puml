@@ -2,14 +2,14 @@
 !pragma layout smetana
 "AbstractCommonUGraphicClipContainer" <|-- "net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt"
 class net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt {
-copyUGraphic() : AbstractCommonUGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#30]]]
--UGraphicTxt(UGraphicTxt) : UGraphicTxt [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#34]]]
-+UGraphicTxt() : UGraphicTxt [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#39]]]
-+draw(UShape) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#44]]]
-+getCharArea() : UmlCharArea [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#63]]]
--getDy() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#67]]]
--getDx() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#71]]]
-+getDimension() : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#75]]]
-+writeToStream(OutputStream;String;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#80]]]
+copyUGraphic() : AbstractCommonUGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#63]]]
+-UGraphicTxt(UGraphicTxt) : UGraphicTxt [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#67]]]
++UGraphicTxt() : UGraphicTxt [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#72]]]
++draw(UShape) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#77]]]
++getCharArea() : UmlCharArea [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#96]]]
+-getDy() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#100]]]
+-getDx() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#104]]]
++getDimension() : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#108]]]
++writeToStream(OutputStream;String;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#113]]]
 } 
 @enduml

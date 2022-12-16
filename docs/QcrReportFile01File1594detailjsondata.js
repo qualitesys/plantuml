@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.posimo.LineRectIntersection" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#46"
  , "c1" : "LineRectIntersection"
  , "c2" : "LineRectIntersection(XLine2D;XRectangle2D)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#62"
  , "c1" : "XPoint2D"
  , "c2" : "getCloser(XPoint2D;XPoint2D...)"
  , "c3" : "4"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#78"
  , "c1" : "XPoint2D"
  , "c2" : "getIntersection()"
  , "c3" : "1"
@@ -107,45 +107,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#46"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00046] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#46"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00046] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method getCloser arguments XPoint2D  o|XPoint2D  ...other"
+ , "c3" : "QC-JAV000006[00062] For method getCloser arguments XPoint2D  o|XPoint2D  ...other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.posimo.LineRectIntersection.getCloser@POLYN154360 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.posimo.LineRectIntersection.getCloser@POLYN154564 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.posimo.LineRectIntersection.getCloser@POLYN154360 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.posimo.LineRectIntersection.getCloser@POLYN154564 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#62"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00028] Public method getCloser is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00062] Public method getCloser is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

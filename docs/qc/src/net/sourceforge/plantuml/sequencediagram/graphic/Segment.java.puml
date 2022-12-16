@@ -2,16 +2,16 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.Segment"
 class net.sourceforge.plantuml.sequencediagram.graphic.Segment {
-+Segment(double;double) : Segment [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#15]]]
-+equals(Object) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#24]]]
-+hashCode() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#30]]]
-+contains(double) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#34]]]
-+contains(Segment) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#38]]]
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#43]]]
-+getLength() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#47]]]
-+getPos1() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#51]]]
-+getPos2() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#55]]]
-+merge(Segment) : Segment [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#59]]]
-+cutSegmentIfNeed(Collection<Segment>) : Collection<Segment> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#63]]]
++Segment(double;double) : Segment [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#49]]]
++equals(Object) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#58]]]
++hashCode() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#64]]]
++contains(double) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#68]]]
++contains(Segment) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#72]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#77]]]
++getLength() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#81]]]
++getPos1() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#85]]]
++getPos2() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#89]]]
++merge(Segment) : Segment [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#93]]]
++cutSegmentIfNeed(Collection<Segment>) : Collection<Segment> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#97]]]
 } 
 @enduml

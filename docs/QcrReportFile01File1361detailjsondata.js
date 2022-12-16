@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphic.StringBounder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/StringBounder.java.html#9"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/StringBounder.java.html#43"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(UFont;String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/StringBounder.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/StringBounder.java.html#45"
  , "c1" : "double"
  , "c2" : "getDescent(UFont;String)"
  , "c3" : "1"

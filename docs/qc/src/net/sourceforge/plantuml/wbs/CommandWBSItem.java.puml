@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<WBSDiagram>" <|-- "net.sourceforge.plantuml.wbs.CommandWBSItem"
 class net.sourceforge.plantuml.wbs.CommandWBSItem {
-+CommandWBSItem() : CommandWBSItem [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#19]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#23]]]
-executeArg(WBSDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#34]]]
++CommandWBSItem() : CommandWBSItem [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#53]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#57]]]
+executeArg(WBSDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/CommandWBSItem.java.html#68]]]
 } 
 @enduml

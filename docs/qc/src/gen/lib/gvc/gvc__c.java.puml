@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.gvc.gvc__c"
 class gen.lib.gvc.gvc__c {
-+gvContext(Object...) : ST_GVC_s [[[./../../../../.././qc/src/gen/lib/gvc/gvc__c.java.html#24]]]
++gvContext(Object...) : ST_GVC_s [[[./../../../../.././qc/src/gen/lib/gvc/gvc__c.java.html#68]]]
 } 
 @enduml

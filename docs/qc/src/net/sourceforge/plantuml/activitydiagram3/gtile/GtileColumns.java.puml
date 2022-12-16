@@ -2,14 +2,14 @@
 !pragma layout smetana
 "AbstractGtile" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns"
 class net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns {
-getPosition(int) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#23]]]
-setMargin(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#32]]]
-pushDown(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#38]]]
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#43]]]
-+first() : Gtile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#47]]]
-+GtileColumns(List<Gtile>;Swimlane;double) : GtileColumns [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#51]]]
-drawUInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#58]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#67]]]
-+getSwimlanes() : Set<Swimlane> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#78]]]
+getPosition(int) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#57]]]
+setMargin(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#66]]]
+pushDown(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#72]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#77]]]
++first() : Gtile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#81]]]
++GtileColumns(List<Gtile>;Swimlane;double) : GtileColumns [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#85]]]
+drawUInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#92]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#101]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#112]]]
 } 
 @enduml

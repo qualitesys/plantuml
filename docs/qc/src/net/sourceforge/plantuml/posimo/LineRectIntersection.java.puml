@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.posimo.LineRectIntersection"
 class net.sourceforge.plantuml.posimo.LineRectIntersection {
-+LineRectIntersection(XLine2D;XRectangle2D) : LineRectIntersection [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#12]]]
-+getCloser(XPoint2D;XPoint2D...) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#28]]]
-+getIntersection() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#44]]]
++LineRectIntersection(XLine2D;XRectangle2D) : LineRectIntersection [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#46]]]
++getCloser(XPoint2D;XPoint2D...) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#62]]]
++getIntersection() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/LineRectIntersection.java.html#78]]]
 } 
 @enduml

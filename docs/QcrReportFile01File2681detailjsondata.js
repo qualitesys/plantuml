@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.svg.DriverDotPathSvg" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#46"
  , "c1" : "void"
  , "c2" : "draw(DotPath;double;double;ColorMapper;UParam;SvgGraphics)"
  , "c3" : "2"
@@ -82,52 +82,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method draw arguments DotPath  shape|double  x|double  y|ColorMapper  mapper|UParam  param|SvgGraphics  svg"
+ , "c3" : "QC-JAV000006[00046] For method draw arguments DotPath  shape|double  x|double  y|ColorMapper  mapper|UParam  param|SvgGraphics  svg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#46"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00046] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#46"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00046] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#46"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument svg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00046] The argument svg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.ugraphic.svg.DriverDotPathSvg.draw@POLYN148559 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.ugraphic.svg.DriverDotPathSvg.draw@POLYN148763 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.ugraphic.svg.DriverDotPathSvg.draw@POLYN148559 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.ugraphic.svg.DriverDotPathSvg.draw@POLYN148763 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.ugraphic.svg.DriverDotPathSvg.draw@POLYN148559 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.svg.DriverDotPathSvg.draw@POLYN148763 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

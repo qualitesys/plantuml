@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.StdrptPipe0" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#46"
  , "c1" : "void"
  , "c2" : "printInfo(PrintStream;Diagram)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#58"
  , "c1" : "void"
  , "c2" : "finalMessage(ErrorStatus)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#67"
  , "c1" : "void"
  , "c2" : "errorLine(int;File)"
  , "c3" : "1"
@@ -100,87 +100,87 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method printInfo arguments PrintStream  output|Diagram  sys"
+ , "c3" : "QC-JAV000006[00046] For method printInfo arguments PrintStream  output|Diagram  sys"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#46"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument output is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00046] The argument output is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.StdrptPipe0.printInfo@POLYN149195 the MagicNumber/String  'ERROR' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.StdrptPipe0.printInfo@POLYN149399 the MagicNumber/String  'ERROR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method finalMessage arguments ErrorStatus  error"
+ , "c3" : "QC-JAV000006[00058] For method finalMessage arguments ErrorStatus  error"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#58"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00024] The argument error is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00058] The argument error is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.StdrptPipe0.finalMessage@POLYN149860 the MagicNumber/String  'Some diagram description contains errors' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.StdrptPipe0.finalMessage@POLYN150064 the MagicNumber/String  'Some diagram description contains errors' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.StdrptPipe0.finalMessage@POLYN149860 the MagicNumber/String  'No diagram found' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.StdrptPipe0.finalMessage@POLYN150064 the MagicNumber/String  'No diagram found' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method errorLine arguments int  lineError|File  file"
+ , "c3" : "QC-JAV000006[00067] For method errorLine arguments int  lineError|File  file"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#67"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00067] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.StdrptPipe0.errorLine@POLYN150213 the MagicNumber/String  'Error line ' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.StdrptPipe0.errorLine@POLYN150417 the MagicNumber/String  'Error line ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.StdrptPipe0.errorLine@POLYN150213 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.StdrptPipe0.errorLine@POLYN150417 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.StdrptPipe0.errorLine@POLYN150213 the MagicNumber/String  ' in file: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.StdrptPipe0.errorLine@POLYN150417 the MagicNumber/String  ' in file: ' should be converted to const"
 }} 
 ]
 , 

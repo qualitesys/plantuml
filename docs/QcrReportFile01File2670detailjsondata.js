@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.hand.UEllipseHand" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#16"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#49"
  , "c1" : "double"
  , "c2" : "randomMe()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#20"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#53"
  , "c1" : "UEllipseHand"
  , "c2" : "UEllipseHand(UEllipse;Random)"
  , "c3" : "6"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#51"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#84"
  , "c1" : "XPoint2D"
  , "c2" : "getPoint(double;double;double)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#59"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#92"
  , "c1" : "Shadowable"
  , "c2" : "getHanddrawn()"
  , "c3" : "1"
@@ -116,192 +116,192 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#20"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#53"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument source is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00053] The argument source is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#37"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00037] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00070] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#42"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00042] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00075] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#43"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00043] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00076] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#22"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155412 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#22"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155412 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#29"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155412 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#31"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155412 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#32"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155412 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#32"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155412 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#32"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  180 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155412 the MagicNumber/String  180 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#33"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155412 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#33"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155412 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#33"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155412 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#34"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155412 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#34"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155412 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#35"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155412 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#35"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155412 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#40"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155412 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#41"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155214 the MagicNumber/String  20 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.UEllipseHand@POLYN155412 the MagicNumber/String  20 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#51"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method getPoint arguments double  width|double  height|double  angle"
+ , "c3" : "QC-JAV000006[00084] For method getPoint arguments double  width|double  height|double  angle"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#52"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157621 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157819 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#52"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157621 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157819 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#53"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157621 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157819 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#53"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157621 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157819 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#54"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157621 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157819 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#54"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UEllipseHand.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157621 the MagicNumber/String  50 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.ugraphic.hand.UEllipseHand.getPoint@POLYN157819 the MagicNumber/String  50 should be converted to const"
 }} 
 ]
 , 

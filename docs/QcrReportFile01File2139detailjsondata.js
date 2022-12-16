@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#12"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#47"
  , "c1" : "CommandLinkStateReverse"
  , "c2" : "CommandLinkStateReverse()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#16"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#51"
  , "c1" : "RegexConcat"
  , "c2" : "getRegex()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#42"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#77"
  , "c1" : "Direction"
  , "c2" : "getDefaultDirection()"
  , "c3" : "1"
@@ -86,157 +86,157 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#18"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  'ENT2' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  'ENT2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#22"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  'ARROW_CIRCLE_END' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  'ARROW_CIRCLE_END' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#22"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  '(o[%s]+)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  '(o[%s]+)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#23"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  '\\&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  '\\&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#24"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  'ARROW_BODY2' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  'ARROW_BODY2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#24"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  '(-*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  '(-*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#25"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  'ARROW_STYLE2' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  'ARROW_STYLE2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#25"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  '(?:\\[(' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  '(?:\\[(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#25"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  ')\\])?' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  ')\\])?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#26"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  'ARROW_DIRECTION' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  'ARROW_DIRECTION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#26"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  '(left|right|up|down|le?|ri?|up?|do?)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  '(left|right|up|down|le?|ri?|up?|do?)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#27"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  'ARROW_STYLE1' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  'ARROW_STYLE1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#27"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  '(?:\\[(' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  '(?:\\[(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#27"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  ')\\])?' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  ')\\])?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#28"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  'ARROW_BODY1' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  'ARROW_BODY1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#28"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  '(-+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  '(-+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#29"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  'ARROW_CROSS_START' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  'ARROW_CROSS_START' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#29"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  '(x)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  '(x)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#31"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  'ENT1' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  'ENT1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#35"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#37"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#37"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateReverse.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151181 the MagicNumber/String  '(.+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse.getRegex@POLYN151391 the MagicNumber/String  '(.+)' should be converted to const"
 }} 
 ]
 , 

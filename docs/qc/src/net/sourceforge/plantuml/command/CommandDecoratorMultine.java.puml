@@ -2,10 +2,10 @@
 !pragma layout smetana
 "Command<D>" <|-- "net.sourceforge.plantuml.command.CommandDecoratorMultine"
 class net.sourceforge.plantuml.command.CommandDecoratorMultine {
--CommandDecoratorMultine(SingleLineCommand2<D>;boolean;int) : CommandDecoratorMultine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandDecoratorMultine.java.html#16]]]
-+execute(D;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandDecoratorMultine.java.html#22]]]
-+isValid(BlocLines) : CommandControl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandDecoratorMultine.java.html#30]]]
-+getDescription() : String[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandDecoratorMultine.java.html#48]]]
-+getNbMaxLines() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandDecoratorMultine.java.html#52]]]
+-CommandDecoratorMultine(SingleLineCommand2<D>;boolean;int) : CommandDecoratorMultine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandDecoratorMultine.java.html#50]]]
++execute(D;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandDecoratorMultine.java.html#56]]]
++isValid(BlocLines) : CommandControl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandDecoratorMultine.java.html#64]]]
++getDescription() : String[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandDecoratorMultine.java.html#82]]]
++getNbMaxLines() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandDecoratorMultine.java.html#86]]]
 } 
 @enduml

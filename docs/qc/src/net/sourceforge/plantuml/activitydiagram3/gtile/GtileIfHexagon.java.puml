@@ -2,17 +2,17 @@
 !pragma layout smetana
 "GtileColumns" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GtileIfHexagon"
 class net.sourceforge.plantuml.activitydiagram3.gtile.GtileIfHexagon {
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#29]]]
-+build(Swimlane;List<Gtile>;List<Branch>) : Gtile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#33]]]
--GtileIfHexagon(Swimlane;List<Gtile>;List<Branch>) : GtileIfHexagon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#42]]]
-getCoordImpl(String) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#104]]]
--getShape1(Swimlane) : Gtile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#112]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#126]]]
--calculateDimensionRaw(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#138]]]
-+getDefaultStyleDefinitionActivity() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#145]]]
-+getDefaultStyleDefinitionDiamond() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#149]]]
-+getDefaultStyleDefinitionArrow() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#153]]]
-drawUInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#158]]]
-+getInnerConnections() : Collection<GConnection> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#181]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#63]]]
++build(Swimlane;List<Gtile>;List<Branch>) : Gtile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#67]]]
+-GtileIfHexagon(Swimlane;List<Gtile>;List<Branch>) : GtileIfHexagon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#76]]]
+getCoordImpl(String) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#138]]]
+-getShape1(Swimlane) : Gtile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#146]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#160]]]
+-calculateDimensionRaw(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#172]]]
++getDefaultStyleDefinitionActivity() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#179]]]
++getDefaultStyleDefinitionDiamond() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#183]]]
++getDefaultStyleDefinitionArrow() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#187]]]
+drawUInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#192]]]
++getInnerConnections() : Collection<GConnection> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#215]]]
 } 
 @enduml

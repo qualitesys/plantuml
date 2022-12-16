@@ -2,9 +2,9 @@
 !pragma layout smetana
 "UDrawable" <|-- "net.sourceforge.plantuml.skin.CircleInterface"
 class net.sourceforge.plantuml.skin.CircleInterface {
-+CircleInterface(HColor;HColor;double;float) : CircleInterface [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/CircleInterface.java.html#19]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/CircleInterface.java.html#26]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/CircleInterface.java.html#33]]]
-+getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/CircleInterface.java.html#37]]]
++CircleInterface(HColor;HColor;double;float) : CircleInterface [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/CircleInterface.java.html#53]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/CircleInterface.java.html#60]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/CircleInterface.java.html#67]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/CircleInterface.java.html#71]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.teoz.DividerTile" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#61"
  , "c1" : "Event"
  , "c2" : "getEvent()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#65"
  , "c1" : "DividerTile"
  , "c2" : "DividerTile(Divider;TileArguments;YGauge)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#76"
  , "c1" : "YGauge"
  , "c2" : "getYGauge()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#47"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#81"
  , "c1" : "Component"
  , "c2" : "getComponent(StringBounder)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#53"
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#87"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#64"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#98"
  , "c1" : "double"
  , "c2" : "getPreferredHeight()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#70"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#104"
  , "c1" : "void"
  , "c2" : "addConstraints()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#76"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#110"
  , "c1" : "Real"
  , "c2" : "getMinX()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00080"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#80"
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#114"
  , "c1" : "Real"
  , "c2" : "getMaxX()"
  , "c3" : "1"
@@ -168,59 +168,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#65"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00031] The argument tileArguments is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00065] The argument tileArguments is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#65"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00031] The argument currentY is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00065] The argument currentY is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#47"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#81"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00047] For method getComponent arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00081] For method getComponent arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#48"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.sequencediagram.teoz.DividerTile.getComponent@POLYN159198 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.sequencediagram.teoz.DividerTile.getComponent@POLYN159402 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#53"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#87"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00087] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#53"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#87"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00053] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00087] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#70"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#104"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00070] Void method addConstraints is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00104] Void method addConstraints is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#70"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/DividerTile.java.html#104"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00070] Void method addConstraints is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00104] Void method addConstraints is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

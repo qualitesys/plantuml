@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphic.USymbolSimpleAbstract" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#48"
  , "c1" : "TextBlock"
  , "c2" : "asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#51"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#85"
  , "c1" : "TextBlock"
  , "c2" : "getDrawing(SymbolContext)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#54"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#88"
  , "c1" : "TextBlock"
  , "c2" : "asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment)"
  , "c3" : "1"
@@ -100,66 +100,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method asSmall arguments TextBlock  name|TextBlock  label|TextBlock  stereotype|SymbolContext  symbolContext|HorizontalAlignment  stereoAlignment"
+ , "c3" : "QC-JAV000006[00048] For method asSmall arguments TextBlock  name|TextBlock  label|TextBlock  stereotype|SymbolContext  symbolContext|HorizontalAlignment  stereoAlignment"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#48"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument label is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00048] The argument label is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#48"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument stereotype is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00048] The argument stereotype is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#49"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument symbolContext is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00049] The argument symbolContext is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.graphic.USymbolSimpleAbstract.asSmall@POLYN155082 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.graphic.USymbolSimpleAbstract.asSmall@POLYN155286 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.graphic.USymbolSimpleAbstract.asSmall@POLYN155082 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.graphic.USymbolSimpleAbstract.asSmall@POLYN155286 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.graphic.USymbolSimpleAbstract.asSmall@POLYN155082 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.graphic.USymbolSimpleAbstract.asSmall@POLYN155286 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#85"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method getDrawing arguments SymbolContext  symbolContext"
+ , "c3" : "QC-JAV000006[00085] For method getDrawing arguments SymbolContext  symbolContext"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#54"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolSimpleAbstract.java.html#88"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00054] For method asBig arguments TextBlock  title|HorizontalAlignment  labelAlignment|TextBlock  stereotype|double  width|double  height|SymbolContext  symbolContext|HorizontalAlignment  stereoAlignment"
+ , "c3" : "QC-JAV000006[00088] For method asBig arguments TextBlock  title|HorizontalAlignment  labelAlignment|TextBlock  stereotype|double  width|double  height|SymbolContext  symbolContext|HorizontalAlignment  stereoAlignment"
 }} 
 ]
 , 

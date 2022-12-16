@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.dot.ProcessState" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#45"
  , "c1" : "ProcessState"
  , "c2" : "ProcessState(String;IOException)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#51"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#65"
  , "c1" : "ProcessState"
  , "c2" : "INIT()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#69"
  , "c1" : "ProcessState"
  , "c2" : "RUNNING()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#39"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#73"
  , "c1" : "ProcessState"
  , "c2" : "TERMINATED_OK()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#43"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#77"
  , "c1" : "ProcessState"
  , "c2" : "TIMEOUT()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#47"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#81"
  , "c1" : "ProcessState"
  , "c2" : "IO_EXCEPTION1(IOException)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#51"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#85"
  , "c1" : "ProcessState"
  , "c2" : "IO_EXCEPTION2(IOException)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#89"
  , "c1" : "boolean"
  , "c2" : "differs(ProcessState)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#60"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#94"
  , "c1" : "boolean"
  , "c2" : "equals(Object)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#66"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#100"
  , "c1" : "int"
  , "c2" : "hashCode()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#70"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#104"
  , "c1" : "Throwable"
  , "c2" : "getCause()"
  , "c3" : "1"
@@ -188,115 +188,115 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessState.toString@POLYN151785 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessState.toString@POLYN151785 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#47"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00047] For method IO_EXCEPTION1 arguments IOException  e"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessState.IO_EXCEPTION1@POLYN152975 the MagicNumber/String  'IO_EXCEPTION1' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#51"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method IO_EXCEPTION2 arguments IOException  e"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessState.IO_EXCEPTION2@POLYN153150 the MagicNumber/String  'IO_EXCEPTION2' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessState.toString@POLYN151989 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#55"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method differs arguments ProcessState  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#55"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00055] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessState.differs@POLYN153320 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessState.toString@POLYN151989 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#60"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#81"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method equals arguments Object  o"
+ , "c3" : "QC-JAV000006[00081] For method IO_EXCEPTION1 arguments IOException  e"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#31"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00031] Public method INIT is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessState.IO_EXCEPTION1@POLYN153179 the MagicNumber/String  'IO_EXCEPTION1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#35"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00035] Public method RUNNING is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#85"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00085] For method IO_EXCEPTION2 arguments IOException  e"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#39"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00039] Public method TERMINATED_OK is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessState.IO_EXCEPTION2@POLYN153354 the MagicNumber/String  'IO_EXCEPTION2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#43"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00043] Public method TIMEOUT is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#89"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00089] For method differs arguments ProcessState  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#47"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00047] Public method IO_EXCEPTION1 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#89"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00089] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#51"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessState.differs@POLYN153524 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#94"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00094] For method equals arguments Object  o"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#65"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00051] Public method IO_EXCEPTION2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00065] Public method INIT is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#69"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00069] Public method RUNNING is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#73"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00073] Public method TERMINATED_OK is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#77"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00077] Public method TIMEOUT is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#81"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00081] Public method IO_EXCEPTION1 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessState.java.html#85"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00085] Public method IO_EXCEPTION2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

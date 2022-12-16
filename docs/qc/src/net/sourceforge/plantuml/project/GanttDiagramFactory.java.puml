@@ -2,11 +2,11 @@
 !pragma layout smetana
 "PSystemCommandFactory" <|-- "net.sourceforge.plantuml.project.GanttDiagramFactory"
 class net.sourceforge.plantuml.project.GanttDiagramFactory {
--subjects() : List<Subject> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#49]]]
-+GanttDiagramFactory(DiagramType) : GanttDiagramFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#55]]]
-createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#60]]]
-+clearCache() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#94]]]
--getLanguageCommands() : Collection<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#98]]]
-+createEmptyDiagram(UmlSource;Map<String,String>) : GanttDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#134]]]
+-subjects() : List<Subject> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#83]]]
++GanttDiagramFactory(DiagramType) : GanttDiagramFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#89]]]
+createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#94]]]
++clearCache() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#128]]]
+-getLanguageCommands() : Collection<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#132]]]
++createEmptyDiagram(UmlSource;Map<String,String>) : GanttDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#168]]]
 } 
 @enduml

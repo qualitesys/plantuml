@@ -2,6 +2,6 @@
 !pragma layout smetana
 "UDriver<URectangle,VisioGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.visio.DriverRectangleVdx"
 class net.sourceforge.plantuml.ugraphic.visio.DriverRectangleVdx {
-+draw(URectangle;double;double;ColorMapper;UParam;VisioGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverRectangleVdx.java.html#11]]]
++draw(URectangle;double;double;ColorMapper;UParam;VisioGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverRectangleVdx.java.html#44]]]
 } 
 @enduml

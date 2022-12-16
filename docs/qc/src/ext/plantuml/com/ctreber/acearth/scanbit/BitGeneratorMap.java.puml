@@ -2,15 +2,15 @@
 !pragma layout smetana
 "ScanBitGenerator" <|-- "ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap"
 class ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap {
-scanOutline() : ScanBuf [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#32]]]
-handleCrossings(ScanBuf;EdgeCrossing[]) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#34]]]
-getEdgeXingComparator() : Comparator [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#36]]]
-scanPolygon(ScanBuf;Point3D[];Point2D[];int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#38]]]
-+BitGeneratorMap(Projection) : BitGeneratorMap [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#40]]]
-+generateScanBits() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#45]]]
--scanPolygons() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#63]]]
--transformPolygonPoints(Polygon;Point3D[];Point2D[]) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#94]]]
-+setMapData(Polygon[]) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#104]]]
-addEdgeXing(EdgeCrossing) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#108]]]
+scanOutline() : ScanBuf [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#41]]]
+handleCrossings(ScanBuf;EdgeCrossing[]) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#43]]]
+getEdgeXingComparator() : Comparator [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#45]]]
+scanPolygon(ScanBuf;Point3D[];Point2D[];int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#47]]]
++BitGeneratorMap(Projection) : BitGeneratorMap [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#49]]]
++generateScanBits() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#57]]]
+-scanPolygons() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#75]]]
+-transformPolygonPoints(Polygon;Point3D[];Point2D[]) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#108]]]
++setMapData(Polygon[]) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#118]]]
+addEdgeXing(EdgeCrossing) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#122]]]
 } 
 @enduml

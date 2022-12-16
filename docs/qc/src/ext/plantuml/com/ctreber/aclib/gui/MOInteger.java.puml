@@ -2,13 +2,13 @@
 !pragma layout smetana
 "MonitoredObject" <|-- "ext.plantuml.com.ctreber.aclib.gui.MOInteger"
 class ext.plantuml.com.ctreber.aclib.gui.MOInteger {
-+MOInteger() : MOInteger [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#11]]]
-+MOInteger(int) : MOInteger [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#15]]]
-+MOInteger(int;int;int) : MOInteger [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#20]]]
-+set(int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#28]]]
--niceFormat(int) : String [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#39]]]
-+get() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#54]]]
--checkRange(int) : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#59]]]
-+checkRange() : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#64]]]
++MOInteger() : MOInteger [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#17]]]
++MOInteger(int) : MOInteger [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#21]]]
++MOInteger(int;int;int) : MOInteger [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#26]]]
++set(int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#34]]]
+-niceFormat(int) : String [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#45]]]
++get() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#60]]]
+-checkRange(int) : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#65]]]
++checkRange() : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#70]]]
 } 
 @enduml

@@ -2,16 +2,16 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.hand.HandJiggle"
 class net.sourceforge.plantuml.ugraphic.hand.HandJiggle {
--randomMe() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#21]]]
-+HandJiggle(double;double;double;Random) : HandJiggle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#25]]]
-+create(XPoint2D;double;Random) : HandJiggle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#33]]]
-+lineTo(XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#37]]]
-+arcTo(double;double;double;double;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#41]]]
--pointOnCircle(double;double;double;double;double) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#46]]]
-+lineTo(double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#53]]]
-+curveTo(XCubicCurve2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#87]]]
-+toUPolygon() : UPolygon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#101]]]
-+toUPath() : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#109]]]
-+appendTo(UPath) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#125]]]
+-randomMe() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#54]]]
++HandJiggle(double;double;double;Random) : HandJiggle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#58]]]
++create(XPoint2D;double;Random) : HandJiggle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#66]]]
++lineTo(XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#70]]]
++arcTo(double;double;double;double;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#74]]]
+-pointOnCircle(double;double;double;double;double) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#79]]]
++lineTo(double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#86]]]
++curveTo(XCubicCurve2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#120]]]
++toUPolygon() : UPolygon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#134]]]
++toUPath() : UPath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#142]]]
++appendTo(UPath) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/HandJiggle.java.html#158]]]
 } 
 @enduml

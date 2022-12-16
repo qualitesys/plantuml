@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.data.DataPoint" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/jcckit/data/DataPoint.java.html#8"
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/jcckit/data/DataPoint.java.html#29"
  , "c1" : "DataPoint"
  , "c2" : "DataPoint(double;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/jcckit/data/DataPoint.java.html#13"
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/jcckit/data/DataPoint.java.html#34"
  , "c1" : "DataContainer"
  , "c2" : "getContainer()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/jcckit/data/DataPoint.java.html#18"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/jcckit/data/DataPoint.java.html#39"
  , "c1" : "void"
  , "c2" : "setContainer(DataContainer)"
  , "c3" : "1"
@@ -107,31 +107,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#14"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method jcckit.data.DataPoint.getContainer@POLYN142697 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method jcckit.data.DataPoint.getContainer@POLYN142823 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#18"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#39"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method setContainer arguments DataContainer  container"
+ , "c3" : "QC-JAV000006[00039] For method setContainer arguments DataContainer  container"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#18"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#39"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00018] Void method setContainer is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00039] Void method setContainer is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#18"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#39"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00018] Void method setContainer is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00039] Void method setContainer is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

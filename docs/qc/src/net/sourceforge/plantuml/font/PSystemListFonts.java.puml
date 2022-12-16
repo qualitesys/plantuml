@@ -2,7 +2,7 @@
 !pragma layout smetana
 "PlainStringsDiagram" <|-- "net.sourceforge.plantuml.font.PSystemListFonts"
 class net.sourceforge.plantuml.font.PSystemListFonts {
-+PSystemListFonts(UmlSource;String) : PSystemListFonts [[[./../../../../../.././qc/src/net/sourceforge/plantuml/font/PSystemListFonts.java.html#12]]]
-+getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/font/PSystemListFonts.java.html#23]]]
++PSystemListFonts(UmlSource;String) : PSystemListFonts [[[./../../../../../.././qc/src/net/sourceforge/plantuml/font/PSystemListFonts.java.html#46]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/font/PSystemListFonts.java.html#57]]]
 } 
 @enduml

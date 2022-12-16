@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<GanttDiagram>" <|-- "net.sourceforge.plantuml.project.command.CommandFootbox"
 class net.sourceforge.plantuml.project.command.CommandFootbox {
-+CommandFootbox() : CommandFootbox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#15]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#19]]]
-executeArg(GanttDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#27]]]
++CommandFootbox() : CommandFootbox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#49]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#53]]]
+executeArg(GanttDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandFootbox.java.html#61]]]
 } 
 @enduml

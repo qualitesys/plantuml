@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.code.Upf9Decoder"
 class net.sourceforge.plantuml.code.Upf9Decoder {
--Upf9Decoder() : Upf9Decoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#10]]]
-decodeChar(InputStream) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#13]]]
-+decodeString(byte[];int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#40]]]
+-Upf9Decoder() : Upf9Decoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#44]]]
+decodeChar(InputStream) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#47]]]
++decodeString(byte[];int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Upf9Decoder.java.html#74]]]
 } 
 @enduml

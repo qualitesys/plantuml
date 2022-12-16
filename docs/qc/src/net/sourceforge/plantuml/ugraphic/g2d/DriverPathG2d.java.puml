@@ -2,7 +2,7 @@
 !pragma layout smetana
 "DriverShadowedG2dUDriver<UPath,Graphics2D>" <|-- "net.sourceforge.plantuml.ugraphic.g2d.DriverPathG2d"
 class net.sourceforge.plantuml.ugraphic.g2d.DriverPathG2d {
-+DriverPathG2d(double) : DriverPathG2d [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverPathG2d.java.html#21]]]
-+draw(UPath;double;double;ColorMapper;UParam;Graphics2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverPathG2d.java.html#25]]]
++DriverPathG2d(double) : DriverPathG2d [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverPathG2d.java.html#55]]]
++draw(UPath;double;double;ColorMapper;UParam;Graphics2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverPathG2d.java.html#59]]]
 } 
 @enduml

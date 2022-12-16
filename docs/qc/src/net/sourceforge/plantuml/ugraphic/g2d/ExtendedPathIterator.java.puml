@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.g2d.ExtendedPathIterator"
 class net.sourceforge.plantuml.ugraphic.g2d.ExtendedPathIterator {
-currentSegment() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/ExtendedPathIterator.java.html#38]]]
-currentSegment(double[]) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/ExtendedPathIterator.java.html#40]]]
-getWindingRule() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/ExtendedPathIterator.java.html#42]]]
-isDone() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/ExtendedPathIterator.java.html#44]]]
-next() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/ExtendedPathIterator.java.html#46]]]
+currentSegment() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/ExtendedPathIterator.java.html#128]]]
+currentSegment(double[]) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/ExtendedPathIterator.java.html#130]]]
+getWindingRule() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/ExtendedPathIterator.java.html#132]]]
+isDone() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/ExtendedPathIterator.java.html#134]]]
+next() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/ExtendedPathIterator.java.html#136]]]
 } 
 @enduml

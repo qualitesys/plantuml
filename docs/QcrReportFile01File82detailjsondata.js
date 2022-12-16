@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.google.zxing.qrcode.decoder.DataMask" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#22"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#48"
  , "c1" : "DataMask"
  , "c2" : "DataMask()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#26"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#58"
  , "c1" : "void"
  , "c2" : "unmaskBitMatrix(BitMatrix;int)"
  , "c3" : "4"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#36"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#68"
  , "c1" : "boolean"
  , "c2" : "isMasked(int;int)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#39"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#75"
  , "c1" : "DataMask"
  , "c2" : "forReference(int)"
  , "c3" : "2"
@@ -109,276 +109,276 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#26"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method unmaskBitMatrix arguments BitMatrix  bits|int  dimension"
+ , "c3" : "QC-JAV000006[00058] For method unmaskBitMatrix arguments BitMatrix  bits|int  dimension"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#26"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#58"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00026] The argument bits is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00058] The argument bits is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#27"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.unmaskBitMatrix@POLYN162687 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.unmaskBitMatrix@POLYN162999 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#28"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.unmaskBitMatrix@POLYN162687 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.unmaskBitMatrix@POLYN162999 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#36"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method isMasked arguments int  i|int  j"
+ , "c3" : "QC-JAV000006[00068] For method isMasked arguments int  i|int  j"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#39"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#75"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method forReference arguments int  reference"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.forReference@POLYN163537 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.forReference@POLYN163537 the MagicNumber/String  7 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#48"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method isMasked arguments int  i|int  j"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask000.isMasked@POLYN163957 the MagicNumber/String  0x01 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask000.isMasked@POLYN163957 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#55"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method isMasked arguments int  i|int  j"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask001.isMasked@POLYN164304 the MagicNumber/String  0x01 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask001.isMasked@POLYN164304 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#62"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method isMasked arguments int  i|int  j"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask010.isMasked@POLYN164607 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask010.isMasked@POLYN164607 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#69"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method isMasked arguments int  i|int  j"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask011.isMasked@POLYN164900 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask011.isMasked@POLYN164900 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000006[00075] For method forReference arguments int  reference"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.forReference@POLYN163849 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.forReference@POLYN163849 the MagicNumber/String  7 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#86"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method isMasked arguments int  i|int  j"
+ , "c3" : "QC-JAV000006[00086] For method isMasked arguments int  i|int  j"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#77"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask100.isMasked@POLYN165249 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask000.isMasked@POLYN164269 the MagicNumber/String  0x01 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#77"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask100.isMasked@POLYN165249 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask000.isMasked@POLYN164269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask100.isMasked@POLYN165249 the MagicNumber/String  0x01 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask100.isMasked@POLYN165249 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#83"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#95"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method isMasked arguments int  i|int  j"
+ , "c3" : "QC-JAV000006[00095] For method isMasked arguments int  i|int  j"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#85"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask101.isMasked@POLYN165700 the MagicNumber/String  0x01 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask001.isMasked@POLYN164616 the MagicNumber/String  0x01 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#85"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask101.isMasked@POLYN165700 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask001.isMasked@POLYN164616 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask101.isMasked@POLYN165700 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#91"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#104"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00091] For method isMasked arguments int  i|int  j"
+ , "c3" : "QC-JAV000006[00104] For method isMasked arguments int  i|int  j"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#93"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask110.isMasked@POLYN166172 the MagicNumber/String  0x01 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask010.isMasked@POLYN164919 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#93"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask110.isMasked@POLYN166172 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask010.isMasked@POLYN164919 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask110.isMasked@POLYN166172 the MagicNumber/String  0x01 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask110.isMasked@POLYN166172 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#99"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#113"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00099] For method isMasked arguments int  i|int  j"
+ , "c3" : "QC-JAV000006[00113] For method isMasked arguments int  i|int  j"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#100"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask111.isMasked@POLYN166724 the MagicNumber/String  0x01 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask011.isMasked@POLYN165212 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#100"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask111.isMasked@POLYN166724 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask011.isMasked@POLYN165212 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask111.isMasked@POLYN166724 the MagicNumber/String  0x01 should be converted to const"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#122"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00122] For method isMasked arguments int  i|int  j"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#100"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask111.isMasked@POLYN166724 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask100.isMasked@POLYN165561 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask100.isMasked@POLYN165561 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask100.isMasked@POLYN165561 the MagicNumber/String  0x01 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask100.isMasked@POLYN165561 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#131"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00131] For method isMasked arguments int  i|int  j"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00133] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask101.isMasked@POLYN166012 the MagicNumber/String  0x01 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00133] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask101.isMasked@POLYN166012 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00133] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask101.isMasked@POLYN166012 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#141"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00141] For method isMasked arguments int  i|int  j"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#143"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00143] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask110.isMasked@POLYN166484 the MagicNumber/String  0x01 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#143"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00143] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask110.isMasked@POLYN166484 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#143"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00143] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask110.isMasked@POLYN166484 the MagicNumber/String  0x01 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#143"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00143] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask110.isMasked@POLYN166484 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#151"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00151] For method isMasked arguments int  i|int  j"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#152"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00152] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask111.isMasked@POLYN167036 the MagicNumber/String  0x01 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#152"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00152] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask111.isMasked@POLYN167036 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#152"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00152] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask111.isMasked@POLYN167036 the MagicNumber/String  0x01 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html#152"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00152] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataMask.DataMask111.isMasked@POLYN167036 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.vizjs.GraphvizJs" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#86"
  , "c1" : "GraphvizJs"
  , "c2" : "GraphvizJs(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#56"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#90"
  , "c1" : "ProcessState"
  , "c2" : "createFile3(OutputStream)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#67"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#101"
  , "c1" : "Future<String>"
  , "c2" : "submitJob()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#77"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#111"
  , "c1" : "File"
  , "c2" : "getDotExe()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#81"
+ , "c5" : "00115"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#115"
  , "c1" : "String"
  , "c2" : "dotVersion()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#85"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#119"
  , "c1" : "ExeState"
  , "c2" : "getExeState()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00089"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#89"
+ , "c5" : "00123"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#123"
  , "c1" : "GraphvizVersion"
  , "c2" : "getGraphvizVersion(boolean)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#113"
+ , "c5" : "00147"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#147"
  , "c1" : "boolean"
  , "c2" : "graphviz244onWindows()"
  , "c3" : "1"
@@ -152,87 +152,87 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#79"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE572[00045] The program calls a thread's run() method instead of calling start()"
+ , "c3" : "QC-JAVCWE572[00079] The program calls a thread's run() method instead of calling start()"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.vizjs.GraphvizJs.JsThread.run@POLYN157672 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.vizjs.GraphvizJs.JsThread.run@POLYN157876 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#56"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#90"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method createFile3 arguments OutputStream  os"
+ , "c3" : "QC-JAV000006[00090] For method createFile3 arguments OutputStream  os"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#56"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#90"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00056] The argument os is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00090] The argument os is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#78"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.vizjs.GraphvizJs.getDotExe@POLYN159262 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.vizjs.GraphvizJs.getDotExe@POLYN159466 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#82"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.vizjs.GraphvizJs.dotVersion@POLYN159350 the MagicNumber/String  'VizJs' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.vizjs.GraphvizJs.dotVersion@POLYN159554 the MagicNumber/String  'VizJs' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#89"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#123"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00089] For method getGraphvizVersion arguments boolean  modeSafe"
+ , "c3" : "QC-JAV000006[00123] For method getGraphvizVersion arguments boolean  modeSafe"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#92"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.vizjs.GraphvizJs.getGraphvizVersion@POLYN159537 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.vizjs.GraphvizJs.getGraphvizVersion@POLYN159741 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#96"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.vizjs.GraphvizJs.getGraphvizVersion@POLYN159537 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.vizjs.GraphvizJs.getGraphvizVersion@POLYN159741 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#104"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.vizjs.GraphvizJs.getGraphvizVersion@POLYN159537 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.vizjs.GraphvizJs.getGraphvizVersion@POLYN159741 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#108"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.vizjs.GraphvizJs.getGraphvizVersion@POLYN159537 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.vizjs.GraphvizJs.getGraphvizVersion@POLYN159741 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#114"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.vizjs.GraphvizJs.graphviz244onWindows@POLYN160115 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.vizjs.GraphvizJs.graphviz244onWindows@POLYN160319 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

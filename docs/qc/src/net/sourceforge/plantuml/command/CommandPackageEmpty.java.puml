@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<AbstractEntityDiagram>" <|-- "net.sourceforge.plantuml.command.CommandPackageEmpty"
 class net.sourceforge.plantuml.command.CommandPackageEmpty {
-+CommandPackageEmpty() : CommandPackageEmpty [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPackageEmpty.java.html#24]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPackageEmpty.java.html#28]]]
-executeArg(AbstractEntityDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPackageEmpty.java.html#50]]]
++CommandPackageEmpty() : CommandPackageEmpty [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPackageEmpty.java.html#58]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPackageEmpty.java.html#62]]]
+executeArg(AbstractEntityDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPackageEmpty.java.html#84]]]
 } 
 @enduml

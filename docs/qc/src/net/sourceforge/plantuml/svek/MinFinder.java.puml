@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.svek.MinFinder"
 class net.sourceforge.plantuml.svek.MinFinder {
-+manage(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#13]]]
-+manage(XPoint2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#22]]]
-+manage(MinFinder) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#27]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#32]]]
-+getMinX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#36]]]
-+getMinY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#40]]]
++manage(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#47]]]
++manage(XPoint2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#56]]]
++manage(MinFinder) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#61]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#66]]]
++getMinX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#70]]]
++getMinY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/MinFinder.java.html#74]]]
 } 
 @enduml

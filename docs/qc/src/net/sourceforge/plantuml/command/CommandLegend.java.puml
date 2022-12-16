@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<TitledDiagram>" <|-- "net.sourceforge.plantuml.command.CommandLegend"
 class net.sourceforge.plantuml.command.CommandLegend {
-+CommandLegend() : CommandLegend [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandLegend.java.html#18]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandLegend.java.html#22]]]
-executeArg(TitledDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandLegend.java.html#34]]]
++CommandLegend() : CommandLegend [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandLegend.java.html#52]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandLegend.java.html#56]]]
+executeArg(TitledDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandLegend.java.html#68]]]
 } 
 @enduml

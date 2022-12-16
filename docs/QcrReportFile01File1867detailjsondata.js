@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.security.authentication.SecurityAuthentication" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#22"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#70"
  , "c1" : "SecurityAuthentication"
  , "c2" : "SecurityAuthentication(String;Map<String,Object>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#26"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#74"
  , "c1" : "SecurityAuthentication"
  , "c2" : "SecurityAuthentication(String;String;String;Map<String,Object>)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#33"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#81"
  , "c1" : "String"
  , "c2" : "getType()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#37"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#85"
  , "c1" : "String"
  , "c2" : "getShape()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#41"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#89"
  , "c1" : "String"
  , "c2" : "getGrantType()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#46"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#98"
  , "c1" : "boolean"
  , "c2" : "isPublic()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#50"
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#102"
  , "c1" : "Map<String,Object>"
  , "c2" : "getTokens()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#55"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#107"
  , "c1" : "void"
  , "c2" : "eraseCredentials()"
  , "c3" : "4"
@@ -131,45 +131,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#23"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.security.authentication.SecurityAuthentication.SecurityAuthentication@POLYN155564 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.security.authentication.SecurityAuthentication.SecurityAuthentication@POLYN155876 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#23"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.security.authentication.SecurityAuthentication.SecurityAuthentication@POLYN155564 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.security.authentication.SecurityAuthentication.SecurityAuthentication@POLYN155876 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#47"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.security.authentication.SecurityAuthentication.isPublic@POLYN156593 the MagicNumber/String  'public' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.security.authentication.SecurityAuthentication.isPublic@POLYN156905 the MagicNumber/String  'public' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#47"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.security.authentication.SecurityAuthentication.isPublic@POLYN156593 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.security.authentication.SecurityAuthentication.isPublic@POLYN156905 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#56"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.security.authentication.SecurityAuthentication.eraseCredentials@POLYN156998 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.security.authentication.SecurityAuthentication.eraseCredentials@POLYN157310 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#59"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.security.authentication.SecurityAuthentication.eraseCredentials@POLYN156998 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.security.authentication.SecurityAuthentication.eraseCredentials@POLYN157310 the MagicNumber/String  '*' should be converted to const"
 }} 
 ]
 , 

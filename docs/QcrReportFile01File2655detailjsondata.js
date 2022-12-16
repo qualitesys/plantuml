@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#58"
  , "c1" : "DriverEllipseG2d"
  , "c2" : "DriverEllipseG2d(double;EnsureVisible)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#63"
  , "c1" : "void"
  , "c2" : "draw(UEllipse;double;double;ColorMapper;UParam;Graphics2D)"
  , "c3" : "9"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#105"
  , "c1" : "double"
  , "c2" : "round(double)"
  , "c3" : "1"
@@ -100,87 +100,87 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method draw arguments UEllipse  ellipse|double  x|double  y|ColorMapper  mapper|UParam  param|Graphics2D  g2d"
+ , "c3" : "QC-JAV000006[00063] For method draw arguments UEllipse  ellipse|double  x|double  y|ColorMapper  mapper|UParam  param|Graphics2D  g2d"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#63"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument ellipse is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00063] The argument ellipse is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#63"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00063] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#63"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00063] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN159968 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN160172 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN159968 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN160172 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN159968 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN160172 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#50"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN159968 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN160172 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#55"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN159968 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN160172 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#55"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN159968 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN160172 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#62"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN159968 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN160172 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#71"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#105"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method round arguments double  value"
+ , "c3" : "QC-JAV000006[00105] For method round arguments double  value"
 }} 
 ]
 , 

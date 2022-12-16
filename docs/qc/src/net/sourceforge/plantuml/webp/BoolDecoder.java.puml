@@ -2,14 +2,14 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.webp.BoolDecoder"
 class net.sourceforge.plantuml.webp.BoolDecoder {
-BoolDecoder(ImageInputStream;long) : BoolDecoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#15]]]
--initBoolDecoder() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#21]]]
-+readBit() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#34]]]
-+readBool(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#38]]]
-+readLiteral(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#78]]]
-readTree(int[];int[]) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#85]]]
-readTreeSkip(int[];int[];int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#97]]]
-+seek() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#109]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#113]]]
+BoolDecoder(ImageInputStream;long) : BoolDecoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#29]]]
+-initBoolDecoder() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#35]]]
++readBit() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#48]]]
++readBool(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#52]]]
++readLiteral(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#96]]]
+readTree(int[];int[]) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#103]]]
+readTreeSkip(int[];int[];int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#115]]]
++seek() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#127]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/BoolDecoder.java.html#131]]]
 } 
 @enduml

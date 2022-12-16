@@ -2,13 +2,13 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.dedication.Noise"
 class net.sourceforge.plantuml.dedication.Noise {
--argon2(byte[];byte[]) : Argon2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#11]]]
-+computeArgon2String(byte[];byte[]) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#22]]]
-+computeArgon2bytes(byte[];byte[]) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#26]]]
-+shortHash(byte[];byte[]) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#30]]]
-+shuffle(byte[];MTRandom) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#41]]]
-+xor(byte[];byte[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#53]]]
-+xor(byte[];BlumBlumShub) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#59]]]
-+reverse(byte[];int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#66]]]
+-argon2(byte[];byte[]) : Argon2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#45]]]
++computeArgon2String(byte[];byte[]) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#56]]]
++computeArgon2bytes(byte[];byte[]) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#60]]]
++shortHash(byte[];byte[]) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#64]]]
++shuffle(byte[];MTRandom) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#75]]]
++xor(byte[];byte[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#87]]]
++xor(byte[];BlumBlumShub) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#93]]]
++reverse(byte[];int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#100]]]
 } 
 @enduml

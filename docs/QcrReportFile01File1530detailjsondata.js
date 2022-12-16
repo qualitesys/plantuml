@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.nwdiag.next.LinkedElement" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#32"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#65"
  , "c1" : "LinkedElement"
  , "c2" : "LinkedElement(double;NServer;TextBlock;Map<Network,TextBlock>;List<Network>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#42"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#75"
  , "c1" : "boolean"
  , "c2" : "isLinkedTo(Network)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#48"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#81"
  , "c1" : "int"
  , "c2" : "marginBoxW()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#52"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#85"
  , "c1" : "double"
  , "c2" : "marginBoxH()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#56"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#89"
  , "c1" : "MinMax"
  , "c2" : "getMinMax(StringBounder;double;double)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#68"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#101"
  , "c1" : "void"
  , "c2" : "drawMe(UGraphic;double;double)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#74"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#107"
  , "c1" : "void"
  , "c2" : "drawLinks(UGraphic;double;double;double)"
  , "c3" : "10"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00130"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#130"
+ , "c5" : "00163"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#163"
  , "c1" : "TextBlock"
  , "c2" : "link1()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00134"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#134"
+ , "c5" : "00167"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#167"
  , "c1" : "TextBlock"
  , "c2" : "link2()"
  , "c3" : "2"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00142"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#142"
+ , "c5" : "00175"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#175"
  , "c1" : "void"
  , "c2" : "drawCenter(UGraphic;TextBlock;double;double)"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00151"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#151"
+ , "c5" : "00184"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#184"
  , "c1" : "XDimension2D"
  , "c2" : "naturalDimension(StringBounder)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00164"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#164"
+ , "c5" : "00197"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#197"
  , "c1" : "Network"
  , "c2" : "getNetwork()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00168"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#168"
+ , "c5" : "00201"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#201"
  , "c1" : "NServer"
  , "c2" : "getServer()"
  , "c3" : "1"
@@ -190,395 +190,395 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#32"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#65"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00032] The argument server is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00065] The argument server is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#42"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#75"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method isLinkedTo arguments Network  some"
+ , "c3" : "QC-JAV000006[00075] For method isLinkedTo arguments Network  some"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#49"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.marginBoxW@POLYN177908 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.marginBoxW@POLYN178106 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#56"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#89"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method getMinMax arguments StringBounder  stringBounder|double  width|double  height"
+ , "c3" : "QC-JAV000006[00089] For method getMinMax arguments StringBounder  stringBounder|double  width|double  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#57"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178082 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178280 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#58"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178082 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178280 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#61"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178082 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178280 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#62"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178082 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178280 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#63"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178082 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178280 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#64"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178082 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178280 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#65"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178082 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178280 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#65"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178082 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178280 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#65"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178082 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178280 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#65"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178082 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178280 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#65"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178082 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.getMinMax@POLYN178280 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#68"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#101"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00068] For method drawMe arguments UGraphic  ug|double  width|double  height"
+ , "c3" : "QC-JAV000006[00101] For method drawMe arguments UGraphic  ug|double  width|double  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#69"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawMe@POLYN179262 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawMe@POLYN179460 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#70"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawMe@POLYN179262 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#74"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00074] For method drawLinks arguments UGraphic  ug|double  xstart|double  width|double  height"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#74"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00074] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179672 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179672 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179672 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179672 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#86"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179672 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179672 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#106"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179672 the MagicNumber/String  9.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawMe@POLYN179460 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#107"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179672 the MagicNumber/String  2 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00107] For method drawLinks arguments UGraphic  ug|double  xstart|double  width|double  height"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#107"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179672 the MagicNumber/String  2 should be converted to const"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00107] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#108"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179672 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179870 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#114"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179672 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179870 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179672 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179870 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#118"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179672 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179870 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#122"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179672 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179870 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#124"
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179672 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.link2@POLYN184117 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.link2@POLYN184117 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179870 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.link2@POLYN184117 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179870 the MagicNumber/String  9.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#142"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00142] For method drawCenter arguments UGraphic  ug|TextBlock  block|double  x|double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#142"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00142] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#143"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawCenter@POLYN184531 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179870 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#140"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179870 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#141"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179870 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawCenter@POLYN184531 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179870 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#147"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawCenter@POLYN184531 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179870 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179870 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#155"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179870 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawLinks@POLYN179870 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#169"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.link2@POLYN184315 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#170"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.link2@POLYN184315 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.link2@POLYN184315 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#175"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00151] For method naturalDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00175] For method drawCenter arguments UGraphic  ug|TextBlock  block|double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#152"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185170 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#175"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00175] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#152"
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185170 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawCenter@POLYN184729 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#152"
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185170 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawCenter@POLYN184729 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#155"
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185170 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.drawCenter@POLYN184729 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#155"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185170 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#184"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00184] For method naturalDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#155"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185170 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185368 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#157"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185170 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185368 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#157"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185170 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185368 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#158"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185170 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185368 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#159"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185170 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185368 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#159"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185170 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185368 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#160"
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185170 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185368 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#190"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185368 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#191"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185368 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#192"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185368 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#192"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185368 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#193"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.nwdiag.next.LinkedElement.naturalDimension@POLYN185368 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

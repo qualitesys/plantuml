@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.GanttDiagramFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#49"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#83"
  , "c1" : "List<Subject>"
  , "c2" : "subjects()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#89"
  , "c1" : "GanttDiagramFactory"
  , "c2" : "GanttDiagramFactory(DiagramType)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#60"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#94"
  , "c1" : "List<Command>"
  , "c2" : "createCommands()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00094"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#94"
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#128"
  , "c1" : "void"
  , "c2" : "clearCache()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00098"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#98"
+ , "c5" : "00132"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#132"
  , "c1" : "Collection<Command>"
  , "c2" : "getLanguageCommands()"
  , "c3" : "11"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00134"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#134"
+ , "c5" : "00168"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#168"
  , "c1" : "GanttDiagram"
  , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
  , "c3" : "1"
@@ -134,115 +134,115 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#99"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#133"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00099] Lock statement on synchronized resource"
+ , "c3" : "QC-JAV000019[00133] Lock statement on synchronized resource"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#104"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00104] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00138] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#106"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00106] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00140] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#106"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00106] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00140] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#115"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00115] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00149] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#116"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00116] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00150] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#117"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00117] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00151] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#116"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00116] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00150] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#117"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00117] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00151] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#117"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00117] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00151] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#101"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.project.GanttDiagramFactory.getLanguageCommands@POLYN176142 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.project.GanttDiagramFactory.getLanguageCommands@POLYN176346 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#107"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.project.GanttDiagramFactory.getLanguageCommands@POLYN176142 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.project.GanttDiagramFactory.getLanguageCommands@POLYN176346 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#118"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.project.GanttDiagramFactory.getLanguageCommands@POLYN176142 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.project.GanttDiagramFactory.getLanguageCommands@POLYN176346 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#119"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.project.GanttDiagramFactory.getLanguageCommands@POLYN176142 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.project.GanttDiagramFactory.getLanguageCommands@POLYN176346 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#120"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.project.GanttDiagramFactory.getLanguageCommands@POLYN176142 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.project.GanttDiagramFactory.getLanguageCommands@POLYN176346 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#134"
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagramFactory.java.html#168"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00134] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
+ , "c3" : "QC-JAV000006[00168] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
 }} 
 ]
 , 

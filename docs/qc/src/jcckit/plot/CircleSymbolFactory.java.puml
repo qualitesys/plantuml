@@ -2,7 +2,7 @@
 !pragma layout smetana
 "AbstractSymbolFactory" <|-- "jcckit.plot.CircleSymbolFactory"
 class jcckit.plot.CircleSymbolFactory {
-+CircleSymbolFactory(ConfigParameters) : CircleSymbolFactory [[[./../../../.././qc/src/jcckit/plot/CircleSymbolFactory.java.html#13]]]
-createPlainSymbol(GraphPoint;double;GraphicAttributes) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/CircleSymbolFactory.java.html#18]]]
++CircleSymbolFactory(ConfigParameters) : CircleSymbolFactory [[[./../../../.././qc/src/jcckit/plot/CircleSymbolFactory.java.html#39]]]
+createPlainSymbol(GraphPoint;double;GraphicAttributes) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/CircleSymbolFactory.java.html#49]]]
 } 
 @enduml

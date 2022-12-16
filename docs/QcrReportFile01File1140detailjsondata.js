@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.dot.DebugTrace" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#49"
  , "c1" : "PrintWriter"
  , "c2" : "getPrintWriter()"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#60"
  , "c1" : "void"
  , "c2" : "DEBUG(String)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#66"
  , "c1" : "void"
  , "c2" : "DEBUG(String;Throwable)"
  , "c3" : "1"
@@ -107,52 +107,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#49"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00015] Lock statement on synchronized method getPrintWriter"
+ , "c3" : "QC-JAV000019[00049] Lock statement on synchronized method getPrintWriter"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE390[00019] Detection of error condition without action (see http://cwe.mitre.org/data/definitions/390.html)"
+ , "c3" : "QC-JAVCWE390[00053] Detection of error condition without action (see http://cwe.mitre.org/data/definitions/390.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.cucadiagram.dot.DebugTrace.getPrintWriter@POLYN148401 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.cucadiagram.dot.DebugTrace.getPrintWriter@POLYN148605 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#60"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00026] Lock statement on synchronized method DEBUG"
+ , "c3" : "QC-JAV000019[00060] Lock statement on synchronized method DEBUG"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method DEBUG arguments String  s"
+ , "c3" : "QC-JAV000006[00060] For method DEBUG arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#66"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00032] Lock statement on synchronized method DEBUG"
+ , "c3" : "QC-JAV000019[00066] Lock statement on synchronized method DEBUG"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method DEBUG arguments String  s|Throwable  t"
+ , "c3" : "QC-JAV000006[00066] For method DEBUG arguments String  s|Throwable  t"
 }} 
 ]
 , 

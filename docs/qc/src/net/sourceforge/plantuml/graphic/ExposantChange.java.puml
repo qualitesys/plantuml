@@ -2,7 +2,7 @@
 !pragma layout smetana
 "FontChange" <|-- "net.sourceforge.plantuml.graphic.ExposantChange"
 class net.sourceforge.plantuml.graphic.ExposantChange {
-ExposantChange(FontPosition) : ExposantChange [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/ExposantChange.java.html#8]]]
-+apply(FontConfiguration) : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/ExposantChange.java.html#12]]]
+ExposantChange(FontPosition) : ExposantChange [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/ExposantChange.java.html#42]]]
++apply(FontConfiguration) : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/ExposantChange.java.html#46]]]
 } 
 @enduml

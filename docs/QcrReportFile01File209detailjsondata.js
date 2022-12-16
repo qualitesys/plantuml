@@ -60,17 +60,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/h/ST_LeafList_t.java.html#8"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/h/ST_LeafList_t.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00008] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00052] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/h/ST_LeafList_t.java.html#10"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/h/ST_LeafList_t.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00010] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00054] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ]
 , 

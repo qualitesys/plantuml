@@ -2,10 +2,10 @@
 !pragma layout smetana
 "SymbolFactory" <|-- "jcckit.plot.AbstractSymbolFactory"
 class jcckit.plot.AbstractSymbolFactory {
-+AbstractSymbolFactory(ConfigParameters) : AbstractSymbolFactory [[[./../../../.././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#19]]]
-+createSymbol(GraphPoint;Hint;Hint) : Symbol [[[./../../../.././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#26]]]
-createSymbol(GraphPoint;GraphicAttributes;Hint;Hint) : Symbol [[[./../../../.././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#40]]]
-+createLegendSymbol(GraphPoint;double) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#48]]]
-createPlainSymbol(GraphPoint;double;GraphicAttributes) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#54]]]
++AbstractSymbolFactory(ConfigParameters) : AbstractSymbolFactory [[[./../../../.././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#55]]]
++createSymbol(GraphPoint;Hint;Hint) : Symbol [[[./../../../.././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#69]]]
+createSymbol(GraphPoint;GraphicAttributes;Hint;Hint) : Symbol [[[./../../../.././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#93]]]
++createLegendSymbol(GraphPoint;double) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#107]]]
+createPlainSymbol(GraphPoint;double;GraphicAttributes) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#118]]]
 } 
 @enduml

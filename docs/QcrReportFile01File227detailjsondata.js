@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "h.ST_boxf" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/h/ST_boxf.java.html#13"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/h/ST_boxf.java.html#57"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/h/ST_boxf.java.html#17"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/h/ST_boxf.java.html#61"
  , "c1" : "ST_boxf[]"
  , "c2" : "malloc(int)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/h/ST_boxf.java.html#26"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/h/ST_boxf.java.html#70"
  , "c1" : "ST_boxf"
  , "c2" : "copy()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/h/ST_boxf.java.html#34"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/h/ST_boxf.java.html#78"
  , "c1" : "void"
  , "c2" : "___(__struct__)"
  , "c3" : "1"
@@ -102,38 +102,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/h/ST_boxf.java.html#14"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/h/ST_boxf.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method h.ST_boxf.toString@POLYN155954 the MagicNumber/String  'LL=' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method h.ST_boxf.toString@POLYN156218 the MagicNumber/String  'LL=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/h/ST_boxf.java.html#14"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/h/ST_boxf.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method h.ST_boxf.toString@POLYN155954 the MagicNumber/String  ' UR=' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method h.ST_boxf.toString@POLYN156218 the MagicNumber/String  ' UR=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/h/ST_boxf.java.html#17"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/h/ST_boxf.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method malloc arguments int  nb"
+ , "c3" : "QC-JAV000006[00061] For method malloc arguments int  nb"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/h/ST_boxf.java.html#19"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/h/ST_boxf.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method h.ST_boxf.malloc@POLYN156121 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method h.ST_boxf.malloc@POLYN156385 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/h/ST_boxf.java.html#34"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/h/ST_boxf.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method ___ arguments __struct__  value"
+ , "c3" : "QC-JAV000006[00078] For method ___ arguments __struct__  value"
 }} 
 ]
 , 

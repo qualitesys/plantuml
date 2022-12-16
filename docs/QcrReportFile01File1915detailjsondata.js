@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.SequenceDiagram" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#47"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#80"
  , "c1" : "boolean"
  , "c2" : "isHideUnlinkedData()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#51"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#84"
  , "c1" : "void"
  , "c2" : "setHideUnlinkedData(boolean)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#63"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#96"
  , "c1" : "SequenceDiagram"
  , "c2" : "SequenceDiagram(UmlSource;Map<String,String>)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#68"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#101"
  , "c1" : "Participant"
  , "c2" : "getOrCreateParticipant(String)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00072"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#72"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#105"
  , "c1" : "Participant"
  , "c2" : "getOrCreateParticipant(String;Display)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#83"
+ , "c5" : "00116"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#116"
  , "c1" : "Participant"
  , "c2" : "participantsget(String)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#93"
+ , "c5" : "00126"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#126"
  , "c1" : "EventWithDeactivate"
  , "c2" : "getLastEventWithDeactivate()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#97"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#130"
  , "c1" : "Participant"
  , "c2" : "createNewParticipant(ParticipantType;String;Display;int)"
  , "c3" : "3"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00112"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#112"
+ , "c5" : "00145"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#145"
  , "c1" : "void"
  , "c2" : "addWithOrder(Participant)"
  , "c3" : "3"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00122"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#122"
+ , "c5" : "00155"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#155"
  , "c1" : "Collection<Participant>"
  , "c2" : "participants()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00126"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#126"
+ , "c5" : "00159"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#159"
  , "c1" : "boolean"
  , "c2" : "participantsContainsKey(String)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00130"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#130"
+ , "c5" : "00163"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#163"
  , "c1" : "CommandExecutionResult"
  , "c2" : "addMessage(AbstractMessage)"
  , "c3" : "4"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00148"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#148"
+ , "c5" : "00181"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#181"
  , "c1" : "AbstractMessage"
  , "c2" : "getLastAbstractMessage()"
  , "c3" : "3"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00156"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#156"
+ , "c5" : "00189"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#189"
  , "c1" : "void"
  , "c2" : "addNote(Note;boolean)"
  , "c3" : "4"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00173"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#173"
+ , "c5" : "00206"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#206"
  , "c1" : "void"
  , "c2" : "newpage(Display)"
  , "c3" : "2"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00182"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#182"
+ , "c5" : "00215"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#215"
  , "c1" : "void"
  , "c2" : "ignoreNewpage()"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00188"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#188"
+ , "c5" : "00221"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#221"
  , "c1" : "int"
  , "c2" : "getAutonewpage()"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00192"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#192"
+ , "c5" : "00225"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#225"
  , "c1" : "void"
  , "c2" : "setAutonewpage(int)"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00196"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#196"
+ , "c5" : "00229"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#229"
  , "c1" : "void"
  , "c2" : "divider(Display)"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00200"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#200"
+ , "c5" : "00233"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#233"
  , "c1" : "void"
  , "c2" : "hspace()"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00204"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#204"
+ , "c5" : "00237"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#237"
  , "c1" : "void"
  , "c2" : "hspace(int)"
  , "c3" : "1"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00210"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#210"
+ , "c5" : "00243"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#243"
  , "c1" : "void"
  , "c2" : "delay(Display)"
  , "c3" : "1"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00216"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#216"
+ , "c5" : "00249"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#249"
  , "c1" : "List<Event>"
  , "c2" : "events()"
  , "c3" : "1"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00220"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#220"
+ , "c5" : "00253"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#253"
  , "c1" : "FileMaker"
  , "c2" : "getSequenceDiagramPngMaker(int;FileFormatOption)"
  , "c3" : "4"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00236"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#236"
+ , "c5" : "00269"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#269"
  , "c1" : "boolean"
  , "c2" : "modeTeoz()"
  , "c3" : "1"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00240"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#240"
+ , "c5" : "00273"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#273"
  , "c1" : "ImageBuilder"
  , "c2" : "createImageBuilder(FileFormatOption)"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00246"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#246"
+ , "c5" : "00279"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#279"
  , "c1" : "ImageData"
  , "c2" : "exportDiagramInternal(OutputStream;int;FileFormatOption)"
  , "c3" : "1"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00255"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#255"
+ , "c5" : "00288"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#288"
  , "c1" : "AbstractMessage"
  , "c2" : "getActivatingMessage()"
  , "c3" : "2"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00264"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#264"
+ , "c5" : "00297"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#297"
  , "c1" : "String"
  , "c2" : "activate(Participant;LifeEventType;HColor)"
  , "c3" : "1"
@@ -279,8 +279,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00268"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#268"
+ , "c5" : "00301"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#301"
  , "c1" : "String"
  , "c2" : "activate(Participant;LifeEventType;HColor;HColor)"
  , "c3" : "11"
@@ -288,8 +288,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00306"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#306"
+ , "c5" : "00339"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#339"
  , "c1" : "boolean"
  , "c2" : "grouping(String;String;GroupingType;HColor;HColor;boolean)"
  , "c3" : "7"
@@ -297,8 +297,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00336"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#336"
+ , "c5" : "00369"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#369"
  , "c1" : "DiagramDescription"
  , "c2" : "getDescription()"
  , "c3" : "1"
@@ -306,8 +306,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00342"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#342"
+ , "c5" : "00375"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#375"
  , "c1" : "void"
  , "c2" : "autonumberGo(DottedNumber;int;DecimalFormat)"
  , "c3" : "1"
@@ -315,8 +315,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00346"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#346"
+ , "c5" : "00379"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#379"
  , "c1" : "void"
  , "c2" : "autonumberStop()"
  , "c3" : "1"
@@ -324,8 +324,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00350"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#350"
+ , "c5" : "00383"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#383"
  , "c1" : "AutoNumber"
  , "c2" : "getAutoNumber()"
  , "c3" : "1"
@@ -333,8 +333,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00363"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#363"
+ , "c5" : "00396"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#396"
  , "c1" : "String"
  , "c2" : "getNextMessageNumber()"
  , "c3" : "1"
@@ -342,8 +342,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00367"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#367"
+ , "c5" : "00400"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#400"
  , "c1" : "boolean"
  , "c2" : "isShowFootbox()"
  , "c3" : "4"
@@ -351,8 +351,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00383"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#383"
+ , "c5" : "00416"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#416"
  , "c1" : "void"
  , "c2" : "setShowFootbox(boolean)"
  , "c3" : "1"
@@ -360,8 +360,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00389"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#389"
+ , "c5" : "00422"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#422"
  , "c1" : "void"
  , "c2" : "boxStart(Display;HColor;Stereotype)"
  , "c3" : "3"
@@ -369,8 +369,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00397"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#397"
+ , "c5" : "00430"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#430"
  , "c1" : "void"
  , "c2" : "endBox()"
  , "c3" : "2"
@@ -378,8 +378,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00404"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#404"
+ , "c5" : "00437"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#437"
  , "c1" : "boolean"
  , "c2" : "isBoxPending()"
  , "c3" : "1"
@@ -387,8 +387,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00409"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#409"
+ , "c5" : "00442"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#442"
  , "c1" : "int"
  , "c2" : "getNbImages()"
  , "c3" : "1"
@@ -396,8 +396,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00419"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#419"
+ , "c5" : "00452"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#452"
  , "c1" : "void"
  , "c2" : "removeHiddenParticipants()"
  , "c3" : "3"
@@ -405,8 +405,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00425"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#425"
+ , "c5" : "00458"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#458"
  , "c1" : "void"
  , "c2" : "remove(Participant)"
  , "c3" : "2"
@@ -414,8 +414,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00433"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#433"
+ , "c5" : "00466"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#466"
  , "c1" : "boolean"
  , "c2" : "isAlone(Participant)"
  , "c3" : "3"
@@ -423,8 +423,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00441"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#441"
+ , "c5" : "00474"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#474"
  , "c1" : "void"
  , "c2" : "putParticipantInLast(String)"
  , "c3" : "1"
@@ -432,8 +432,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00449"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#449"
+ , "c5" : "00482"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#482"
  , "c1" : "ParticipantEnglober"
  , "c2" : "getEnglober(Participant)"
  , "c3" : "1"
@@ -441,8 +441,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00455"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#455"
+ , "c5" : "00488"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#488"
  , "c1" : "void"
  , "c2" : "setAutoactivate(boolean)"
  , "c3" : "1"
@@ -450,8 +450,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00459"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#459"
+ , "c5" : "00492"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#492"
  , "c1" : "boolean"
  , "c2" : "isAutoactivate()"
  , "c3" : "1"
@@ -459,8 +459,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00463"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#463"
+ , "c5" : "00496"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#496"
  , "c1" : "boolean"
  , "c2" : "hasUrl()"
  , "c3" : "6"
@@ -468,8 +468,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00478"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#478"
+ , "c5" : "00511"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#511"
  , "c1" : "void"
  , "c2" : "addReference(Reference)"
  , "c3" : "1"
@@ -477,8 +477,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00483"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#483"
+ , "c5" : "00516"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#516"
  , "c1" : "boolean"
  , "c2" : "isOk()"
  , "c3" : "2"
@@ -486,8 +486,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00491"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#491"
+ , "c5" : "00524"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#524"
  , "c1" : "String"
  , "c2" : "checkFinalError()"
  , "c3" : "2"
@@ -495,8 +495,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00500"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#500"
+ , "c5" : "00533"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#533"
  , "c1" : "void"
  , "c2" : "hideOrShow(Set<EntityPortion>;boolean)"
  , "c3" : "3"
@@ -504,8 +504,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00508"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#508"
+ , "c5" : "00541"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#541"
  , "c1" : "Display"
  , "c2" : "manageVariable(Display)"
  , "c3" : "1"
@@ -513,8 +513,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00514"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#514"
+ , "c5" : "00547"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#547"
  , "c1" : "CommandExecutionResult"
  , "c2" : "linkAnchor(String;String;String)"
  , "c3" : "1"
@@ -522,8 +522,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00519"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#519"
+ , "c5" : "00552"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#552"
  , "c1" : "List<LinkAnchor>"
  , "c2" : "getLinkAnchors()"
  , "c3" : "1"
@@ -531,8 +531,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00524"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#524"
+ , "c5" : "00557"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#557"
  , "c1" : "ClockwiseTopRightBottomLeft"
  , "c2" : "getDefaultMargins()"
  , "c3" : "1"
@@ -609,822 +609,822 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#51"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method setHideUnlinkedData arguments boolean  hideUnlinkedData"
+ , "c3" : "QC-JAV000006[00084] For method setHideUnlinkedData arguments boolean  hideUnlinkedData"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#68"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#101"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00068] For method getOrCreateParticipant arguments String  code"
+ , "c3" : "QC-JAV000006[00101] For method getOrCreateParticipant arguments String  code"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#72"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#105"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00072] For method getOrCreateParticipant arguments String  code|Display  display"
+ , "c3" : "QC-JAV000006[00105] For method getOrCreateParticipant arguments String  code|Display  display"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#74"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getOrCreateParticipant@POLYN217408 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getOrCreateParticipant@POLYN217606 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#75"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getOrCreateParticipant@POLYN217408 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getOrCreateParticipant@POLYN217606 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#83"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#116"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method participantsget arguments String  code"
+ , "c3" : "QC-JAV000006[00116] For method participantsget arguments String  code"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#88"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.participantsget@POLYN218103 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#97"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method createNewParticipant arguments ParticipantType  type|String  code|Display  display|int  order"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.createNewParticipant@POLYN218524 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#112"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00112] For method addWithOrder arguments Participant  result"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#112"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00112] The argument result is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addWithOrder@POLYN219438 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#126"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00126] For method participantsContainsKey arguments String  code"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#127"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.participantsContainsKey@POLYN220155 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.participantsget@POLYN218301 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#130"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00130] For method addMessage arguments AbstractMessage  m"
+ , "c3" : "QC-JAV000006[00130] For method createNewParticipant arguments ParticipantType  type|String  code|Display  display|int  order"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#135"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addMessage@POLYN220318 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.createNewParticipant@POLYN218722 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addMessage@POLYN220318 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#138"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addMessage@POLYN220318 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addMessage@POLYN220318 the MagicNumber/String  'After create command, you have to send a message to \'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addMessage@POLYN220318 the MagicNumber/String  '\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#143"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addMessage@POLYN220318 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#150"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00150] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#151"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00151] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#149"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getLastAbstractMessage@POLYN221224 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#149"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getLastAbstractMessage@POLYN221224 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#153"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getLastAbstractMessage@POLYN221224 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#156"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#145"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00156] For method addNote arguments Note  n|boolean  tryMerge"
+ , "c3" : "QC-JAV000006[00145] For method addWithOrder arguments Participant  result"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#158"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#145"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00145] The argument result is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addNote@POLYN221674 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addWithOrder@POLYN219636 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#159"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addNote@POLYN221674 the MagicNumber/String  1 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00159] For method participantsContainsKey arguments String  code"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#162"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addNote@POLYN221674 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.participantsContainsKey@POLYN220353 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#163"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00163] For method addMessage arguments AbstractMessage  m"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addMessage@POLYN220516 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#170"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addMessage@POLYN220516 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addMessage@POLYN220516 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addMessage@POLYN220516 the MagicNumber/String  'After create command, you have to send a message to \'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#173"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00173] For method newpage arguments Display  strings"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addMessage@POLYN220516 the MagicNumber/String  '\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addMessage@POLYN220516 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.ignoreNewpage@POLYN222934 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000001[00183] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#184"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00184] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#182"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getLastAbstractMessage@POLYN221422 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#182"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getLastAbstractMessage@POLYN221422 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#186"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getLastAbstractMessage@POLYN221422 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#189"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00189] For method addNote arguments Note  n|boolean  tryMerge"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#191"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addNote@POLYN221872 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#192"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00192] For method setAutonewpage arguments int  autonewpage"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#196"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00196] For method divider arguments Display  strings"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.hspace@POLYN223562 the MagicNumber/String  25 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addNote@POLYN221872 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00204"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#204"
+ , "c1" : "00195"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#195"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.addNote@POLYN221872 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00206"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#206"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00204] For method hspace arguments int  pixel"
+ , "c3" : "QC-JAV000006[00206] For method newpage arguments Display  strings"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00210"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#210"
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#216"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.ignoreNewpage@POLYN223132 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00225"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#225"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00210] For method delay arguments Display  strings"
+ , "c3" : "QC-JAV000006[00225] For method setAutonewpage arguments int  autonewpage"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00220"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#220"
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#229"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00220] For method getSequenceDiagramPngMaker arguments int  index|FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00229] For method divider arguments Display  strings"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00220"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#220"
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#234"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.hspace@POLYN223760 the MagicNumber/String  25 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00237"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#237"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00237] For method hspace arguments int  pixel"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00243"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#243"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00243] For method delay arguments Display  strings"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#253"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00253] For method getSequenceDiagramPngMaker arguments int  index|FileFormatOption  fileFormatOption"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#253"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00220] The argument fileFormatOption is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00253] The argument fileFormatOption is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00227"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#227"
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#260"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getSequenceDiagramPngMaker@POLYN224420 the MagicNumber/String  'XMI' should be converted to const"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getSequenceDiagramPngMaker@POLYN224618 the MagicNumber/String  'XMI' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00240"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#240"
+ , "c1" : "00273"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#273"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00240] For method createImageBuilder arguments FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00273] For method createImageBuilder arguments FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00241"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#241"
+ , "c1" : "00274"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#274"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.createImageBuilder@POLYN225435 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00274] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.createImageBuilder@POLYN225633 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00246"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#246"
+ , "c1" : "00279"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#279"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00246] For method exportDiagramInternal arguments OutputStream  os|int  index|FileFormatOption  fileFormat"
+ , "c3" : "QC-JAV000006[00279] For method exportDiagramInternal arguments OutputStream  os|int  index|FileFormatOption  fileFormat"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00246"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#246"
+ , "c1" : "00279"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#279"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00246] The argument fileFormat is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00257"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#257"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getActivatingMessage@POLYN226154 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00264"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#264"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00264] For method activate arguments Participant  p|LifeEventType  lifeEventType|HColor  backcolor"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00265"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#265"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226417 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00268"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#268"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00268] For method activate arguments Participant  p|LifeEventType  lifeEventType|HColor  backcolor|HColor  linecolor"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00269"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#269"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226674 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00270"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#270"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226674 the MagicNumber/String  'You cannot Activate/Deactivate just after a ...' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00276"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#276"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226674 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00278"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#278"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226674 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00281"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#281"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00281] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226674 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#283"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226674 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00284"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#284"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00284] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226674 the MagicNumber/String  'You cannot deactivate here' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00286"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#286"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226674 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAVCWE476[00279] The argument fileFormat is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00290"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#290"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226674 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getActivatingMessage@POLYN226352 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00299"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#299"
+ , "c1" : "00297"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#297"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00297] For method activate arguments Participant  p|LifeEventType  lifeEventType|HColor  backcolor"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00298"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00299] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226674 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226615 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00301"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#301"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226674 the MagicNumber/String  'Activate/Deactivate already done on ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00306"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#306"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00306] For method grouping arguments String  title|String  comment|GroupingType  type|HColor  backColorGeneral|HColor  backColorElement|boolean  parallel"
+ , "c3" : "QC-JAV000006[00301] For method activate arguments Participant  p|LifeEventType  lifeEventType|HColor  backcolor|HColor  linecolor"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00308"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#308"
+ , "c1" : "00302"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#302"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228788 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226872 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00303"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#303"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226872 the MagicNumber/String  'You cannot Activate/Deactivate just after a ...' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00309"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#309"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00309] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228788 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00309] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226872 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00311"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#311"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00311] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228788 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00312"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#312"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228788 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00312"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#312"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228788 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00311] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226872 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00314"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#314"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228788 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226872 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00314"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#314"
+ , "c1" : "00316"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#316"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228788 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226872 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00314"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#314"
+ , "c1" : "00317"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#317"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228788 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226872 the MagicNumber/String  'You cannot deactivate here' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00327"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#327"
+ , "c1" : "00319"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#319"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00327] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228788 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226872 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00329"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#329"
+ , "c1" : "00323"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#323"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00329] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228788 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00323] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226872 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00333"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#333"
+ , "c1" : "00332"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#332"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228788 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226872 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00337"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#337"
+ , "c1" : "00334"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#334"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getDescription@POLYN230733 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00334] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.activate@POLYN226872 the MagicNumber/String  'Activate/Deactivate already done on ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00337"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#337"
+ , "c1" : "00339"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#339"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00339] For method grouping arguments String  title|String  comment|GroupingType  type|HColor  backColorGeneral|HColor  backColorElement|boolean  parallel"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00341"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#341"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getDescription@POLYN230733 the MagicNumber/String  ' participants)' should be converted to const"
+ , "c3" : "QC-JAV000010[00341] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228986 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00342"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#342"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00342] For method autonumberGo arguments DottedNumber  startingNumber|int  increment|DecimalFormat  decimalFormat"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00342] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228986 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00369"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#369"
+ , "c1" : "00344"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#344"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isShowFootbox@POLYN231543 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00344] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228986 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00371"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#371"
+ , "c1" : "00345"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#345"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00371] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isShowFootbox@POLYN231543 the MagicNumber/String  'footbox' should be converted to const"
+ , "c3" : "QC-JAV000010[00345] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228986 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00372"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#372"
+ , "c1" : "00345"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#345"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00372] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isShowFootbox@POLYN231543 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00345] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228986 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00347"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#347"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00347] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228986 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00347"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#347"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00347] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228986 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00347"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#347"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00347] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228986 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00360"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#360"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00360] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228986 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00362"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#362"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00362] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228986 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00366"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#366"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00366] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.grouping@POLYN228986 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00370"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#370"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00370] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getDescription@POLYN230931 the MagicNumber/String  '(' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00370"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#370"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00370] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getDescription@POLYN230931 the MagicNumber/String  ' participants)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00375"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#375"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00375] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isShowFootbox@POLYN231543 the MagicNumber/String  'hide' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00376"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#376"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00376] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isShowFootbox@POLYN231543 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00378"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#378"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00378] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isShowFootbox@POLYN231543 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00383"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#383"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00383] For method setShowFootbox arguments boolean  footbox"
+ , "c3" : "QC-JAV000006[00375] For method autonumberGo arguments DottedNumber  startingNumber|int  increment|DecimalFormat  decimalFormat"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00389"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#389"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00389] For method boxStart arguments Display  comment|HColor  color|Stereotype  stereotype"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00390"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#390"
+ , "c1" : "00402"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#402"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00390] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.boxStart@POLYN232273 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00402] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isShowFootbox@POLYN231741 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00398"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#398"
+ , "c1" : "00404"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#404"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00398] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.endBox@POLYN232739 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00404] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isShowFootbox@POLYN231741 the MagicNumber/String  'footbox' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00405"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#405"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00405] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isBoxPending@POLYN232982 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00405] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isShowFootbox@POLYN231741 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00412"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#412"
+ , "c1" : "00408"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#408"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00412] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getNbImages@POLYN233106 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00408] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isShowFootbox@POLYN231741 the MagicNumber/String  'hide' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00415"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#415"
+ , "c1" : "00409"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#409"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00415] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getNbImages@POLYN233106 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00409] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isShowFootbox@POLYN231741 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00425"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#425"
+ , "c1" : "00411"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#411"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00411] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isShowFootbox@POLYN231741 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00416"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#416"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00425] For method remove arguments Participant  p"
+ , "c3" : "QC-JAV000006[00416] For method setShowFootbox arguments boolean  footbox"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00427"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#427"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00427] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.remove@POLYN233755 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00433"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#433"
+ , "c1" : "00422"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#422"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00433] For method isAlone arguments Participant  p"
+ , "c3" : "QC-JAV000006[00422] For method boxStart arguments Display  comment|HColor  color|Stereotype  stereotype"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00436"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#436"
+ , "c1" : "00423"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#423"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00436] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isAlone@POLYN234106 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00423] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.boxStart@POLYN232471 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00431"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#431"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00431] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.endBox@POLYN232937 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00438"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#438"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00438] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isAlone@POLYN234106 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00438] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isBoxPending@POLYN233180 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00441"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#441"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00441] For method putParticipantInLast arguments String  code"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00449"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#449"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00449] For method getEnglober arguments Participant  p"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00455"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#455"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00455] For method setAutoactivate arguments boolean  autoactivate"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00472"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#472"
+ , "c1" : "00445"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#445"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00472] The same method call getLegend() is used several times, should be optimized "
+ , "c3" : "QC-JAV000010[00445] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getNbImages@POLYN233304 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00465"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#465"
+ , "c1" : "00448"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#448"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00465] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.hasUrl@POLYN235296 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00448] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getNbImages@POLYN233304 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00458"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#458"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00458] For method remove arguments Participant  p"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00460"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#460"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00460] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.remove@POLYN233953 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00466"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#466"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00466] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.hasUrl@POLYN235296 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00470"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#470"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00470] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.hasUrl@POLYN235296 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00472"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#472"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00472] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.hasUrl@POLYN235296 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00473"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#473"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00473] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.hasUrl@POLYN235296 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00475"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#475"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00475] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.hasUrl@POLYN235296 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00478"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#478"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00478] For method addReference arguments Reference  ref"
+ , "c3" : "QC-JAV000006[00466] For method isAlone arguments Participant  p"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00484"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#484"
+ , "c1" : "00469"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#469"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00484] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isOk@POLYN236031 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00469] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isAlone@POLYN234304 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00485"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#485"
+ , "c1" : "00471"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#471"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00485] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isOk@POLYN236031 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00471] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isAlone@POLYN234304 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00487"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#487"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00487] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isOk@POLYN236031 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00500"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#500"
+ , "c1" : "00474"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#474"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00500] For method hideOrShow arguments Set&lt;EntityPortion &gt;  portions|boolean  show"
+ , "c3" : "QC-JAV000006[00474] For method putParticipantInLast arguments String  code"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00482"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#482"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00482] For method getEnglober arguments Participant  p"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00488"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#488"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00488] For method setAutoactivate arguments boolean  autoactivate"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00505"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#505"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00505] The same method call getLegend() is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00498"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#498"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00498] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.hasUrl@POLYN235494 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00499"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#499"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00499] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.hasUrl@POLYN235494 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00503"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#503"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00503] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.hasUrl@POLYN235494 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00505"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#505"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00505] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.hasUrl@POLYN235494 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00506"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#506"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00506] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.hasUrl@POLYN235494 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00508"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#508"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00508] For method manageVariable arguments Display  labels"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00508] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.hasUrl@POLYN235494 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00508"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#508"
+ , "c1" : "00511"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#511"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00511] For method addReference arguments Reference  ref"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00517"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#517"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00517] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isOk@POLYN236229 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00518"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#518"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00518] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isOk@POLYN236229 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00520"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#520"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00520] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.isOk@POLYN236229 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00533"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#533"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00533] For method hideOrShow arguments Set&lt;EntityPortion &gt;  portions|boolean  show"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00541"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#541"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00541] For method manageVariable arguments Display  labels"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00541"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#541"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00508] The argument labels is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00541] The argument labels is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00509"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#509"
+ , "c1" : "00542"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#542"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00509] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.manageVariable@POLYN236904 the MagicNumber/String  '%autonumber%' should be converted to const"
+ , "c3" : "QC-JAV000010[00542] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.manageVariable@POLYN237102 the MagicNumber/String  '%autonumber%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00509"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#509"
+ , "c1" : "00542"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#542"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00509] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.manageVariable@POLYN236904 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00542] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.manageVariable@POLYN237102 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00514"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#514"
+ , "c1" : "00547"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#547"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00514] For method linkAnchor arguments String  anchor1|String  anchor2|String  message"
+ , "c3" : "QC-JAV000006[00547] For method linkAnchor arguments String  anchor1|String  anchor2|String  message"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00526"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#526"
+ , "c1" : "00559"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#559"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00526] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getDefaultMargins@POLYN237738 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00559] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getDefaultMargins@POLYN237936 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00527"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#527"
+ , "c1" : "00560"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#560"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00527] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getDefaultMargins@POLYN237738 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00560] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getDefaultMargins@POLYN237936 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00527"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#527"
+ , "c1" : "00560"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#560"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00527] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getDefaultMargins@POLYN237738 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00560] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getDefaultMargins@POLYN237936 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00527"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#527"
+ , "c1" : "00560"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#560"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00527] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getDefaultMargins@POLYN237738 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00560] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getDefaultMargins@POLYN237936 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00527"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#527"
+ , "c1" : "00560"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagram.java.html#560"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00527] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getDefaultMargins@POLYN237738 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00560] In method net.sourceforge.plantuml.sequencediagram.SequenceDiagram.getDefaultMargins@POLYN237936 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

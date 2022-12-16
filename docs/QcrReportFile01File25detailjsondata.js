@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.scanbit.ScanBitGenerator" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#10"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#16"
  , "c1" : "void"
  , "c2" : "generateScanBits()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#12"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#18"
  , "c1" : "void"
  , "c2" : "setImageHeight(int)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#17"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#23"
  , "c1" : "void"
  , "c2" : "setImageWidth(int)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#22"
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#28"
  , "c1" : "ScanBit[]"
  , "c2" : "getScanBits()"
  , "c3" : "1"
@@ -102,24 +102,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#12"
+ , "c1" : "00018"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#18"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method setImageHeight arguments int  pImageHeight"
+ , "c3" : "QC-JAV000006[00018] For method setImageHeight arguments int  pImageHeight"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#17"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#23"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method setImageWidth arguments int  pImageWidth"
+ , "c3" : "QC-JAV000006[00023] For method setImageWidth arguments int  pImageWidth"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#10"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#16"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00010] Public method generateScanBits is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00016] Public method generateScanBits is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

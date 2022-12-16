@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#50"
  , "c1" : "UGraphicNewpages"
  , "c2" : "create(UGraphic;double;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#54"
  , "c1" : "UGraphicNewpages"
  , "c2" : "UGraphicNewpages(UGraphic;double;double;double)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#61"
  , "c1" : "void"
  , "c2" : "draw(UShape)"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#71"
  , "c1" : "UGraphic"
  , "c2" : "apply(UChange)"
  , "c3" : "2"
@@ -109,52 +109,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method create arguments UGraphic  ug|double  ymin|double  ymax"
+ , "c3" : "QC-JAV000006[00050] For method create arguments UGraphic  ug|double  ymin|double  ymax"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages.create@POLYN150929 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages.create@POLYN151133 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method draw arguments UShape  shape"
+ , "c3" : "QC-JAV000006[00061] For method draw arguments UShape  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#61"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00027] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00061] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages.draw@POLYN151573 the MagicNumber/String  'UGraphicNewpages ' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages.draw@POLYN151777 the MagicNumber/String  'UGraphicNewpages ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages.draw@POLYN151573 the MagicNumber/String  'Removing ' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages.draw@POLYN151777 the MagicNumber/String  'Removing ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#71"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method apply arguments UChange  change"
+ , "c3" : "QC-JAV000006[00071] For method apply arguments UChange  change"
 }} 
 ]
 , 

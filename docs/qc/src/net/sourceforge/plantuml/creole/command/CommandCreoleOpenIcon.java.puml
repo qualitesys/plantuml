@@ -2,10 +2,10 @@
 !pragma layout smetana
 "Command" <|-- "net.sourceforge.plantuml.creole.command.CommandCreoleOpenIcon"
 class net.sourceforge.plantuml.creole.command.CommandCreoleOpenIcon {
-+startingChars() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleOpenIcon.java.html#16]]]
--CommandCreoleOpenIcon() : CommandCreoleOpenIcon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleOpenIcon.java.html#22]]]
-+create() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleOpenIcon.java.html#25]]]
-+matchingSize(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleOpenIcon.java.html#29]]]
-+executeAndGetRemaining(String;StripeSimple) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleOpenIcon.java.html#37]]]
++startingChars() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleOpenIcon.java.html#50]]]
+-CommandCreoleOpenIcon() : CommandCreoleOpenIcon [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleOpenIcon.java.html#56]]]
++create() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleOpenIcon.java.html#59]]]
++matchingSize(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleOpenIcon.java.html#63]]]
++executeAndGetRemaining(String;StripeSimple) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleOpenIcon.java.html#71]]]
 } 
 @enduml

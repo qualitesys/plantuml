@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.braille.DriverTextBraille" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#11"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#44"
  , "c1" : "DriverTextBraille"
  , "c2" : "DriverTextBraille()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#14"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#47"
  , "c1" : "void"
  , "c2" : "draw(UText;double;double;ColorMapper;UParam;BrailleGrid)"
  , "c3" : "2"
@@ -91,38 +91,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#14"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#47"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method draw arguments UText  text|double  x|double  y|ColorMapper  mapper|UParam  param|BrailleGrid  grid"
+ , "c3" : "QC-JAV000006[00047] For method draw arguments UText  text|double  x|double  y|ColorMapper  mapper|UParam  param|BrailleGrid  grid"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#14"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#47"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00047] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#14"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#47"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00047] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#15"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.braille.DriverTextBraille.draw@POLYN147872 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.braille.DriverTextBraille.draw@POLYN148070 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#20"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverTextBraille.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.braille.DriverTextBraille.draw@POLYN147872 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.braille.DriverTextBraille.draw@POLYN148070 the MagicNumber/String  3 should be converted to const"
 }} 
 ]
 , 

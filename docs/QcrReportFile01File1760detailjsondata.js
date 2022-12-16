@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.lang.SubjectResource" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#55"
  , "c1" : "Failable<Resource>"
  , "c2" : "getMe(GanttDiagram;RegexResult)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#60"
  , "c1" : "Collection<?extendsSentenceSimple>"
  , "c2" : "getSentences()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#64"
  , "c1" : "IRegex"
  , "c2" : "toRegex()"
  , "c3" : "1"
@@ -100,87 +100,87 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method getMe arguments GanttDiagram  project|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00055] For method getMe arguments GanttDiagram  project|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#55"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00021] The argument project is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00055] The argument project is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#55"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00021] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00055] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.project.lang.SubjectResource.getMe@POLYN161197 the MagicNumber/String  'RESOURCE' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.lang.SubjectResource.getMe@POLYN161401 the MagicNumber/String  'RESOURCE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.project.lang.SubjectResource.getMe@POLYN161197 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.lang.SubjectResource.getMe@POLYN161401 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.project.lang.SubjectResource.toRegex@POLYN161868 the MagicNumber/String  'RESOURCE' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.project.lang.SubjectResource.toRegex@POLYN162072 the MagicNumber/String  'RESOURCE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.project.lang.SubjectResource.toRegex@POLYN161868 the MagicNumber/String  '\\{([^{}]+)\\}' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.project.lang.SubjectResource.toRegex@POLYN162072 the MagicNumber/String  '\\{([^{}]+)\\}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
+ , "c3" : "QC-JAV000006[00077] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
+ , "c3" : "QC-JAV000006[00093] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#76"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#110"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
+ , "c3" : "QC-JAV000006[00110] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#91"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#125"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00091] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
+ , "c3" : "QC-JAV000006[00125] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#107"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#141"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00107] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
+ , "c3" : "QC-JAV000006[00141] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
 }} 
 ]
 , 

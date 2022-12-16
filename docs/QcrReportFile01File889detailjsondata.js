@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.code.CompressionHuffman" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#13"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#47"
  , "c1" : "byte[]"
  , "c2" : "compress(byte[])"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#62"
  , "c1" : "ByteArray"
  , "c2" : "decompress(byte[])"
  , "c3" : "2"
@@ -91,38 +91,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#13"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#47"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method compress arguments byte[]  in"
+ , "c3" : "QC-JAV000006[00047] For method compress arguments byte[]  in"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.code.CompressionHuffman.compress@POLYN151037 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.code.CompressionHuffman.compress@POLYN151241 the MagicNumber/String  9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method decompress arguments byte[]  in"
+ , "c3" : "QC-JAV000006[00062] For method decompress arguments byte[]  in"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00035] Assigning instead of comparing on read=gz.read() (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAVCWE481[00069] Assigning instead of comparing on read=gz.read() (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.code.CompressionHuffman.decompress@POLYN151883 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.code.CompressionHuffman.decompress@POLYN152087 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

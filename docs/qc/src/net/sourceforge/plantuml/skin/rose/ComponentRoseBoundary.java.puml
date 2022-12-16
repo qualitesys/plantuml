@@ -2,10 +2,10 @@
 !pragma layout smetana
 "AbstractTextualComponent" <|-- "net.sourceforge.plantuml.skin.rose.ComponentRoseBoundary"
 class net.sourceforge.plantuml.skin.rose.ComponentRoseBoundary {
-+ComponentRoseBoundary(Style;Style;Display;boolean;ISkinSimple) : ComponentRoseBoundary [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseBoundary.java.html#23]]]
-drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseBoundary.java.html#33]]]
--getTextMiddlePostion(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseBoundary.java.html#49]]]
-+getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseBoundary.java.html#54]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseBoundary.java.html#60]]]
++ComponentRoseBoundary(Style;Style;Display;boolean;ISkinSimple) : ComponentRoseBoundary [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseBoundary.java.html#57]]]
+drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseBoundary.java.html#67]]]
+-getTextMiddlePostion(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseBoundary.java.html#83]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseBoundary.java.html#88]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseBoundary.java.html#94]]]
 } 
 @enduml

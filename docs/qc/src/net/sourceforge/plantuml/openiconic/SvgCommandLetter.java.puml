@@ -2,13 +2,13 @@
 !pragma layout smetana
 "SvgCommand" <|-- "net.sourceforge.plantuml.openiconic.SvgCommandLetter"
 class net.sourceforge.plantuml.openiconic.SvgCommandLetter {
-+SvgCommandLetter(String) : SvgCommandLetter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#10]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#18]]]
-+toSvg() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#22]]]
-+argumentNumber() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#26]]]
-+isUpperCase() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#46]]]
-+is(char) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#50]]]
-+getLetter() : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#54]]]
-+implicit() : SvgCommandLetter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#58]]]
++SvgCommandLetter(String) : SvgCommandLetter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#44]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#52]]]
++toSvg() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#56]]]
++argumentNumber() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#60]]]
++isUpperCase() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#80]]]
++is(char) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#84]]]
++getLetter() : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#88]]]
++implicit() : SvgCommandLetter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#92]]]
 } 
 @enduml

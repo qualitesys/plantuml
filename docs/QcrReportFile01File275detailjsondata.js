@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.data.DataContainer" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#19"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#55"
  , "c1" : "void"
  , "c2" : "addDataListener(DataListener)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#26"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#62"
  , "c1" : "void"
  , "c2" : "removeDataListener(DataListener)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#30"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#66"
  , "c1" : "void"
  , "c2" : "notifyListeners(DataEvent)"
  , "c3" : "4"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#44"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#80"
  , "c1" : "int"
  , "c2" : "getNumberOfElements()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#49"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#85"
  , "c1" : "DataElement"
  , "c2" : "getElement(int)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#54"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#94"
  , "c1" : "int"
  , "c2" : "getIndexOf(DataElement)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#59"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#105"
  , "c1" : "void"
  , "c2" : "addElement(DataElement)"
  , "c3" : "3"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#70"
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#125"
  , "c1" : "void"
  , "c2" : "insertElementAt(int;DataElement)"
  , "c3" : "3"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#81"
+ , "c5" : "00142"
+ , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#142"
  , "c1" : "void"
  , "c2" : "removeElementAt(int)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00089"
- , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#89"
+ , "c5" : "00159"
+ , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#159"
  , "c1" : "void"
  , "c2" : "replaceElementAt(int;DataElement)"
  , "c3" : "3"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#101"
+ , "c5" : "00171"
+ , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#171"
  , "c1" : "void"
  , "c2" : "throwException(String;DataElement)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#107"
+ , "c5" : "00181"
+ , "c5link" : "././qc/src/jcckit/data/DataContainer.java.html#181"
  , "c1" : "boolean"
  , "c2" : "isValid(DataElement)"
  , "c3" : "1"
@@ -211,164 +211,164 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#19"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method addDataListener arguments DataListener  listener"
+ , "c3" : "QC-JAV000006[00055] For method addDataListener arguments DataListener  listener"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#26"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method removeDataListener arguments DataListener  listener"
+ , "c3" : "QC-JAV000006[00062] For method removeDataListener arguments DataListener  listener"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#30"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method notifyListeners arguments DataEvent  event"
+ , "c3" : "QC-JAV000006[00066] For method notifyListeners arguments DataEvent  event"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#32"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00032] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00068] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#31"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method jcckit.data.DataContainer.notifyListeners@POLYN173161 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method jcckit.data.DataContainer.notifyListeners@POLYN173605 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#37"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method jcckit.data.DataContainer.notifyListeners@POLYN173161 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method jcckit.data.DataContainer.notifyListeners@POLYN173605 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#49"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#85"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method getElement arguments int  index"
+ , "c3" : "QC-JAV000006[00085] For method getElement arguments int  index"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#54"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#94"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00054] For method getIndexOf arguments DataElement  element"
+ , "c3" : "QC-JAV000006[00094] For method getIndexOf arguments DataElement  element"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#59"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#105"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method addElement arguments DataElement  element"
+ , "c3" : "QC-JAV000006[00105] For method addElement arguments DataElement  element"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#59"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#105"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00059] The argument element is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00105] The argument element is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#70"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#125"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00070] For method insertElementAt arguments int  index|DataElement  element"
+ , "c3" : "QC-JAV000006[00125] For method insertElementAt arguments int  index|DataElement  element"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#70"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#125"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00070] The argument element is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00125] The argument element is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#81"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#142"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00081] For method removeElementAt arguments int  index"
+ , "c3" : "QC-JAV000006[00142] For method removeElementAt arguments int  index"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#83"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method jcckit.data.DataContainer.removeElementAt@POLYN176348 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method jcckit.data.DataContainer.removeElementAt@POLYN176792 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#89"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#159"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00089] For method replaceElementAt arguments int  index|DataElement  element"
+ , "c3" : "QC-JAV000006[00159] For method replaceElementAt arguments int  index|DataElement  element"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#89"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#159"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00089] The argument element is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00159] The argument element is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#92"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method jcckit.data.DataContainer.replaceElementAt@POLYN177162 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method jcckit.data.DataContainer.replaceElementAt@POLYN177606 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#101"
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#171"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00101] For method throwException arguments String  operation|DataElement  element"
+ , "c3" : "QC-JAV000006[00171] For method throwException arguments String  operation|DataElement  element"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#107"
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#181"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00107] For method isValid arguments DataElement  element"
+ , "c3" : "QC-JAV000006[00181] For method isValid arguments DataElement  element"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.notifyListeners@POLYN173161"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.notifyListeners@POLYN173605"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.getElement@POLYN174038"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.getElement@POLYN174482"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#31"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#67"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00031] In the recursive method jcckit.data.DataContainer.notifyListeners@POLYN173161 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00067] In the recursive method jcckit.data.DataContainer.notifyListeners@POLYN173605 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#37"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#73"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00037] In the recursive method jcckit.data.DataContainer.notifyListeners@POLYN173161 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00073] In the recursive method jcckit.data.DataContainer.notifyListeners@POLYN173605 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ]
 , 

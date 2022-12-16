@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.json.Json"
 class net.sourceforge.plantuml.json.Json {
--Json() : Json [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/Json.java.html#230]]]
+-Json() : Json [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/Json.java.html#234]]]
 +value(int) : JsonValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/Json.java.html#1]]]
 +value(long) : JsonValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/Json.java.html#1]]]
 +value(float) : JsonValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/Json.java.html#1]]]

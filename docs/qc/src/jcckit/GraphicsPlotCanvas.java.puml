@@ -2,15 +2,15 @@
 !pragma layout smetana
 "PlotCanvas" <|-- "jcckit.GraphicsPlotCanvas"
 class jcckit.GraphicsPlotCanvas {
-+GraphicsPlotCanvas(ConfigParameters;BufferedImage) : GraphicsPlotCanvas [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#37]]]
-+paint() : void [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#54]]]
--drawPlot(Plot) : void [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#70]]]
--init(Dimension) : void [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#86]]]
--drawCoordinateSystem(Dimension;Plot) : void [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#90]]]
-prepare() : void [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#96]]]
-calculateTransformation(Dimension) : void [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#100]]]
-createRenderer() : Renderer [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#106]]]
-+setRenderer(String) : void [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#113]]]
-+setMarker(GraphicalElement) : void [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#131]]]
++GraphicsPlotCanvas(ConfigParameters;BufferedImage) : GraphicsPlotCanvas [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#106]]]
++paint() : void [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#126]]]
+-drawPlot(Plot) : void [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#142]]]
+-init(Dimension) : void [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#158]]]
+-drawCoordinateSystem(Dimension;Plot) : void [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#162]]]
+prepare() : void [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#171]]]
+calculateTransformation(Dimension) : void [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#178]]]
+createRenderer() : Renderer [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#187]]]
++setRenderer(String) : void [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#200]]]
++setMarker(GraphicalElement) : void [[[./../../.././qc/src/jcckit/GraphicsPlotCanvas.java.html#224]]]
 } 
 @enduml

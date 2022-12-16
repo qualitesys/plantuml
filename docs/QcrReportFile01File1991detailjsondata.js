@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#57"
  , "c1" : "PageSplitter"
  , "c2" : "PageSplitter(double;double;Map<Newpage,Double>;double;double;double;Display)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#75"
  , "c1" : "List<Page>"
  , "c2" : "getPages()"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#57"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#91"
  , "c1" : "Page"
  , "c2" : "lastPage()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#64"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#98"
  , "c1" : "Page"
  , "c2" : "firstPage()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#70"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#104"
  , "c1" : "Page"
  , "c2" : "onePage()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#76"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#110"
  , "c1" : "Page"
  , "c2" : "createPage(int)"
  , "c3" : "1"
@@ -127,80 +127,80 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#57"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00023] The argument newpages is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00057] The argument newpages is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.getPages@POLYN160107 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.getPages@POLYN160311 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.getPages@POLYN160107 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.getPages@POLYN160311 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.getPages@POLYN160107 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.getPages@POLYN160311 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#58"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.lastPage@POLYN160959 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.lastPage@POLYN161163 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.lastPage@POLYN160959 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.lastPage@POLYN161163 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#66"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.firstPage@POLYN161645 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.firstPage@POLYN161849 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#67"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.firstPage@POLYN161645 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.firstPage@POLYN161849 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#76"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#110"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method createPage arguments int  i"
+ , "c3" : "QC-JAV000006[00110] For method createPage arguments int  i"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#78"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.createPage@POLYN162522 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.createPage@POLYN162726 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#80"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.createPage@POLYN162522 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter.createPage@POLYN162726 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

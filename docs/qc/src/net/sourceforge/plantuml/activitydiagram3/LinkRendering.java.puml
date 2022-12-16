@@ -2,15 +2,15 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.activitydiagram3.LinkRendering"
 class net.sourceforge.plantuml.activitydiagram3.LinkRendering {
-+create(Rainbow) : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#14]]]
-+none() : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#18]]]
--LinkRendering(Rainbow;Display) : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#22]]]
-+withRainbow(Rainbow) : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#27]]]
-+withDisplay(Display) : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#31]]]
-+getDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#35]]]
-+getRainbow() : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#39]]]
-+getRainbow(Rainbow) : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#43]]]
-+isNone() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#50]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#55]]]
++create(Rainbow) : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#48]]]
++none() : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#52]]]
+-LinkRendering(Rainbow;Display) : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#56]]]
++withRainbow(Rainbow) : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#61]]]
++withDisplay(Display) : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#65]]]
++getDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#69]]]
++getRainbow() : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#73]]]
++getRainbow(Rainbow) : Rainbow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#77]]]
++isNone() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#84]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/LinkRendering.java.html#89]]]
 } 
 @enduml

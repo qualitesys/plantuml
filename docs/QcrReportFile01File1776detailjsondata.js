@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.time.WeekNumberStrategy" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#9"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#43"
  , "c1" : "WeekNumberStrategy"
  , "c2" : "WeekNumberStrategy(DayOfWeek;int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#49"
  , "c1" : "int"
  , "c2" : "getFirstDayOfWeekAsLegacyInt()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#53"
  , "c1" : "int"
  , "c2" : "getMinimalDaysInFirstWeek()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#57"
  , "c1" : "DayOfWeek"
  , "c2" : "getFirstDayOfWeek()"
  , "c3" : "1"

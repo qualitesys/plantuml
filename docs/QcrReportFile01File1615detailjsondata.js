@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.preproc.Defines" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#71"
  , "c1" : "Defines"
  , "c2" : "Defines()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#76"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#46"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#80"
  , "c1" : "Defines"
  , "c2" : "createEmpty()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#50"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#84"
  , "c1" : "void"
  , "c2" : "copyTo(TMemory)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#59"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#93"
  , "c1" : "void"
  , "c2" : "overrideFilename(String)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#66"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#100"
  , "c1" : "void"
  , "c2" : "importFrom(Defines)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00072"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#72"
+ , "c5" : "00106"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#106"
  , "c1" : "Defines"
  , "c2" : "cloneMe()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#78"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#112"
  , "c1" : "Defines"
  , "c2" : "createWithFileName(SFile)"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#90"
+ , "c5" : "00124"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#124"
  , "c1" : "Defines"
  , "c2" : "createWithFileName(java.io.File)"
  , "c3" : "2"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00102"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#102"
+ , "c5" : "00136"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#136"
  , "c1" : "Defines"
  , "c2" : "createWithMap(Map<String,String>)"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#110"
+ , "c5" : "00144"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#144"
  , "c1" : "String"
  , "c2" : "getEnvironmentValue(String)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00114"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#114"
+ , "c5" : "00148"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#148"
  , "c1" : "String"
  , "c2" : "nameNoExtension(String)"
  , "c3" : "2"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00122"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#122"
+ , "c5" : "00156"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#156"
  , "c1" : "void"
  , "c2" : "define(String;List<String>;boolean;AParentFolder)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00127"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#127"
+ , "c5" : "00161"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#161"
  , "c1" : "boolean"
  , "c2" : "isDefine(String)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00137"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#137"
+ , "c5" : "00171"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#171"
  , "c1" : "boolean"
  , "c2" : "isTrue(String)"
  , "c3" : "3"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00146"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#146"
+ , "c5" : "00180"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#180"
  , "c1" : "void"
  , "c2" : "undefine(String)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00151"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#151"
+ , "c5" : "00185"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#185"
  , "c1" : "List<String>"
  , "c2" : "applyDefines(String)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00160"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#160"
+ , "c5" : "00194"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#194"
  , "c1" : "String"
  , "c2" : "method1(String)"
  , "c3" : "2"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00167"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#167"
+ , "c5" : "00201"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#201"
  , "c1" : "Map<String,Collection<Define>>"
  , "c2" : "getAll()"
  , "c3" : "3"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00182"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#182"
+ , "c5" : "00216"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#216"
  , "c1" : "String"
  , "c2" : "method2(String)"
  , "c3" : "5"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00200"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#200"
+ , "c5" : "00234"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#234"
  , "c1" : "Set<String>"
  , "c2" : "words(String)"
  , "c3" : "2"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00211"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#211"
+ , "c5" : "00245"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#245"
  , "c1" : "String"
  , "c2" : "manageEnvironment(String)"
  , "c3" : "2"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00222"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#222"
+ , "c5" : "00256"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#256"
  , "c1" : "String"
  , "c2" : "manageDate(String)"
  , "c3" : "4"
@@ -287,493 +287,493 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.preproc.Defines.Defines@POLYN184177 the MagicNumber/String  'PLANTUML_VERSION' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.preproc.Defines.Defines@POLYN184381 the MagicNumber/String  'PLANTUML_VERSION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.preproc.Defines.Defines@POLYN184177 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.preproc.Defines.Defines@POLYN184381 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.preproc.Defines.toString@POLYN184379 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#50"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method copyTo arguments TMemory  memory"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#50"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00050] The argument memory is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00052] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00053] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#59"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method overrideFilename arguments String  filename"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.preproc.Defines.overrideFilename@POLYN185185 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.preproc.Defines.overrideFilename@POLYN185185 the MagicNumber/String  'filename' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.preproc.Defines.overrideFilename@POLYN185185 the MagicNumber/String  'filenameNoExtension' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#66"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method importFrom arguments Defines  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#66"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00066] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.preproc.Defines.importFrom@POLYN185545 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#78"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method createWithFileName arguments SFile  file"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#78"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00078] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.preproc.Defines.createWithFileName@POLYN186089 the MagicNumber/String  'filedate' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.preproc.Defines.toString@POLYN184583 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.preproc.Defines.createWithFileName@POLYN186089 the MagicNumber/String  'dirpath' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.preproc.Defines.createWithFileName@POLYN186089 the MagicNumber/String  '\\' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.preproc.Defines.createWithFileName@POLYN186089 the MagicNumber/String  '/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#90"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00090] For method createWithFileName arguments java.io.File  file"
+ , "c3" : "QC-JAV000006[00084] For method copyTo arguments TMemory  memory"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#90"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#84"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00090] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00084] The argument memory is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00086] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#87"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00087] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#93"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00093] For method overrideFilename arguments String  filename"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.preproc.Defines.createWithFileName@POLYN186947 the MagicNumber/String  'filedate' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.preproc.Defines.overrideFilename@POLYN185389 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.preproc.Defines.overrideFilename@POLYN185389 the MagicNumber/String  'filename' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.preproc.Defines.createWithFileName@POLYN186947 the MagicNumber/String  'dirpath' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.preproc.Defines.overrideFilename@POLYN185389 the MagicNumber/String  'filenameNoExtension' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.preproc.Defines.createWithFileName@POLYN186947 the MagicNumber/String  '\\' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.preproc.Defines.createWithFileName@POLYN186947 the MagicNumber/String  '/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#102"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#100"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00102] For method createWithMap arguments Map&lt;String ,String &gt;  init"
+ , "c3" : "QC-JAV000006[00100] For method importFrom arguments Defines  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#102"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#100"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00102] The argument init is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00100] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#110"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method getEnvironmentValue arguments String  key"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#114"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00114] For method nameNoExtension arguments String  name"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#114"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00114] The argument name is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#115"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.preproc.Defines.nameNoExtension@POLYN188483 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.preproc.Defines.importFrom@POLYN185749 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#112"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00112] For method createWithFileName arguments SFile  file"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#112"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00112] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.preproc.Defines.nameNoExtension@POLYN188483 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.preproc.Defines.createWithFileName@POLYN186293 the MagicNumber/String  'filedate' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.preproc.Defines.createWithFileName@POLYN186293 the MagicNumber/String  'dirpath' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.preproc.Defines.nameNoExtension@POLYN188483 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.preproc.Defines.createWithFileName@POLYN186293 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#122"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00122] For method define arguments String  name|List&lt;String &gt;  value|boolean  emptyParentheses|AParentFolder  currentDir"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.preproc.Defines.createWithFileName@POLYN186293 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.preproc.Defines.define@POLYN188865 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#127"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00127] For method isDefine arguments String  expression"
+ , "c3" : "QC-JAV000006[00124] For method createWithFileName arguments java.io.File  file"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#132"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#124"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00124] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.preproc.Defines.isDefine@POLYN189285 the MagicNumber/String  'Error in ' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.preproc.Defines.createWithFileName@POLYN187151 the MagicNumber/String  'filedate' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#133"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.preproc.Defines.isDefine@POLYN189285 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.preproc.Defines.createWithFileName@POLYN187151 the MagicNumber/String  'dirpath' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#137"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.preproc.Defines.createWithFileName@POLYN187151 the MagicNumber/String  '\\' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.preproc.Defines.createWithFileName@POLYN187151 the MagicNumber/String  '/' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#136"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00137] For method isTrue arguments String  name"
+ , "c3" : "QC-JAV000006[00136] For method createWithMap arguments Map&lt;String ,String &gt;  init"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.preproc.Defines.isTrue@POLYN189729 the MagicNumber/String  '(' should be converted to const"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#136"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00136] The argument init is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.preproc.Defines.isTrue@POLYN189729 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#143"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.preproc.Defines.isTrue@POLYN189729 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#146"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#144"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00146] For method undefine arguments String  name"
+ , "c3" : "QC-JAV000006[00144] For method getEnvironmentValue arguments String  key"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#148"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.preproc.Defines.undefine@POLYN190139 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#151"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00151] For method applyDefines arguments String  line"
+ , "c3" : "QC-JAV000006[00148] For method nameNoExtension arguments String  name"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#151"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#148"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00151] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00148] The argument name is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#157"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.preproc.Defines.applyDefines@POLYN190358 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.preproc.Defines.nameNoExtension@POLYN188687 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#160"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#150"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.preproc.Defines.nameNoExtension@POLYN188687 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.preproc.Defines.nameNoExtension@POLYN188687 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#156"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00160] For method method1 arguments String  line"
+ , "c3" : "QC-JAV000006[00156] For method define arguments String  name|List&lt;String &gt;  value|boolean  emptyParentheses|AParentFolder  currentDir"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#170"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00170] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.preproc.Defines.define@POLYN189069 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#161"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00161] For method isDefine arguments String  expression"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#166"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.preproc.Defines.isDefine@POLYN189489 the MagicNumber/String  'Error in ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.preproc.Defines.isDefine@POLYN189489 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#171"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00171] For method isTrue arguments String  name"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.preproc.Defines.getAll@POLYN191157 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.preproc.Defines.isTrue@POLYN189933 the MagicNumber/String  '(' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.preproc.Defines.isTrue@POLYN189933 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.preproc.Defines.isTrue@POLYN189933 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#180"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00180] For method undefine arguments String  name"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#182"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.preproc.Defines.undefine@POLYN190343 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#185"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00182] For method method2 arguments String  line"
+ , "c3" : "QC-JAV000006[00185] For method applyDefines arguments String  line"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#189"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00189] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00193] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#184"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.preproc.Defines.method2@POLYN192105 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#190"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.preproc.Defines.method2@POLYN192105 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00200"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#200"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00200] For method words arguments String  line"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#201"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.preproc.Defines.words@POLYN192940 the MagicNumber/String  '[A-Za-z_][A-Za-z_0-9]*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#206"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.preproc.Defines.words@POLYN192940 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#211"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00211] For method manageEnvironment arguments String  line"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#211"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#185"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00211] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00185] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#213"
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00213] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.preproc.Defines.applyDefines@POLYN190562 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#213"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.preproc.Defines.manageEnvironment@POLYN193592 the MagicNumber/String  '%' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#213"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.preproc.Defines.manageEnvironment@POLYN193592 the MagicNumber/String  '%' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00222"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#222"
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#194"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00222] For method manageDate arguments String  line"
+ , "c3" : "QC-JAV000006[00194] For method method1 arguments String  line"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00222"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#222"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00222] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#225"
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.preproc.Defines.manageDate@POLYN194337 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000001[00204] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#205"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.preproc.Defines.getAll@POLYN191361 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#216"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00216] For method method2 arguments String  line"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00223"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#223"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00223] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.preproc.Defines.manageDate@POLYN194337 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00227] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#233"
+ , "c1" : "00218"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.preproc.Defines.manageDate@POLYN194337 the MagicNumber/String  '(BAD DATE PATTERN:' should be converted to const"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.preproc.Defines.method2@POLYN192309 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#233"
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.preproc.Defines.manageDate@POLYN194337 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.preproc.Defines.method2@POLYN192309 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#234"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00234] For method words arguments String  line"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00235"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#235"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.preproc.Defines.words@POLYN193144 the MagicNumber/String  '[A-Za-z_][A-Za-z_0-9]*' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00240"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#240"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.preproc.Defines.words@POLYN193144 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#245"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00245] For method manageEnvironment arguments String  line"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#245"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00245] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00247"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#247"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00247] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00247"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#247"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.preproc.Defines.manageEnvironment@POLYN193796 the MagicNumber/String  '%' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00247"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#247"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.preproc.Defines.manageEnvironment@POLYN193796 the MagicNumber/String  '%' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#256"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00256] For method manageDate arguments String  line"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#256"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00256] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#259"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.preproc.Defines.manageDate@POLYN194541 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00261"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#261"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.preproc.Defines.manageDate@POLYN194541 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00267"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#267"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.preproc.Defines.manageDate@POLYN194541 the MagicNumber/String  '(BAD DATE PATTERN:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00267"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#267"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.preproc.Defines.manageDate@POLYN194541 the MagicNumber/String  ')' should be converted to const"
 }} 
 ]
 , 

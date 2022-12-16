@@ -2,16 +2,16 @@
 !pragma layout smetana
 "AbstractShadowableUShapeSized" <|-- "net.sourceforge.plantuml.ugraphic.ULine"
 class net.sourceforge.plantuml.ugraphic.ULine {
-+ULine(XPoint2D;XPoint2D) : ULine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#13]]]
-+ULine(double;double) : ULine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#17]]]
-+rotate(double) : ULine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#22]]]
-+hline(double) : ULine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#30]]]
-+vline(double) : ULine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#34]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#39]]]
-+getDX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#43]]]
-+getDY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#47]]]
-+getLength() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#51]]]
-+getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#55]]]
-+getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#59]]]
++ULine(XPoint2D;XPoint2D) : ULine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#47]]]
++ULine(double;double) : ULine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#51]]]
++rotate(double) : ULine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#56]]]
++hline(double) : ULine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#64]]]
++vline(double) : ULine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#68]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#73]]]
++getDX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#77]]]
++getDY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#81]]]
++getLength() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#85]]]
++getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#89]]]
++getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULine.java.html#93]]]
 } 
 @enduml

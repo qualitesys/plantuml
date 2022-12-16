@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.dotgen.conc__c"
 class gen.lib.dotgen.conc__c {
-+dot_concentrate(Object...) : Object [[[./../../../../.././qc/src/gen/lib/dotgen/conc__c.java.html#23]]]
++dot_concentrate(Object...) : Object [[[./../../../../.././qc/src/gen/lib/dotgen/conc__c.java.html#67]]]
 } 
 @enduml

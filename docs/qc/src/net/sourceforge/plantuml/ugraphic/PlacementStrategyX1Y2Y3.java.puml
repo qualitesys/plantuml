@@ -2,8 +2,8 @@
 !pragma layout smetana
 "AbstractPlacementStrategy" <|-- "net.sourceforge.plantuml.ugraphic.PlacementStrategyX1Y2Y3"
 class net.sourceforge.plantuml.ugraphic.PlacementStrategyX1Y2Y3 {
-+PlacementStrategyX1Y2Y3(StringBounder) : PlacementStrategyX1Y2Y3 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyX1Y2Y3.java.html#15]]]
-+getPositions(double;double) : Map<TextBlock,XPoint2D> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyX1Y2Y3.java.html#19]]]
--butFirst() : Iterator<XDimension2D> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyX1Y2Y3.java.html#49]]]
++PlacementStrategyX1Y2Y3(StringBounder) : PlacementStrategyX1Y2Y3 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyX1Y2Y3.java.html#49]]]
++getPositions(double;double) : Map<TextBlock,XPoint2D> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyX1Y2Y3.java.html#53]]]
+-butFirst() : Iterator<XDimension2D> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyX1Y2Y3.java.html#83]]]
 } 
 @enduml

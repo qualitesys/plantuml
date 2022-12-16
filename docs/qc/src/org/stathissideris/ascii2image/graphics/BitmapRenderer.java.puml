@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "org.stathissideris.ascii2image.graphics.BitmapRenderer"
 class org.stathissideris.ascii2image.graphics.BitmapRenderer {
-+renderToImage(Diagram;RenderingOptions) : RenderedImage [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#36]]]
-+render(Diagram;BufferedImage;RenderingOptions) : RenderedImage [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#52]]]
--renderTextLayer(ArrayList;int;int) : RenderedImage [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#309]]]
--renderCustomShape(DiagramShape;Graphics2D) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#343]]]
--renderCustomPNGShape(DiagramShape;Graphics2D) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#389]]]
-+isColorDark(Color) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#417]]]
++renderToImage(Diagram;RenderingOptions) : RenderedImage [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#58]]]
++render(Diagram;BufferedImage;RenderingOptions) : RenderedImage [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#74]]]
+-renderTextLayer(ArrayList;int;int) : RenderedImage [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#332]]]
+-renderCustomShape(DiagramShape;Graphics2D) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#366]]]
+-renderCustomPNGShape(DiagramShape;Graphics2D) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#412]]]
++isColorDark(Color) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#440]]]
 } 
 @enduml

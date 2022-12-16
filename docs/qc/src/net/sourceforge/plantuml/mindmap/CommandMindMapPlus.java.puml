@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<MindMapDiagram>" <|-- "net.sourceforge.plantuml.mindmap.CommandMindMapPlus"
 class net.sourceforge.plantuml.mindmap.CommandMindMapPlus {
-+CommandMindMapPlus() : CommandMindMapPlus [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapPlus.java.html#18]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapPlus.java.html#22]]]
-executeArg(MindMapDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapPlus.java.html#32]]]
++CommandMindMapPlus() : CommandMindMapPlus [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapPlus.java.html#52]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapPlus.java.html#56]]]
+executeArg(MindMapDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapPlus.java.html#66]]]
 } 
 @enduml

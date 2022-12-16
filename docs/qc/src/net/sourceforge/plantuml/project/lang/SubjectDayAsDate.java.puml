@@ -2,12 +2,12 @@
 !pragma layout smetana
 "Subject" <|-- "net.sourceforge.plantuml.project.lang.SubjectDayAsDate"
 class net.sourceforge.plantuml.project.lang.SubjectDayAsDate {
-+getMe(GanttDiagram;RegexResult) : Failable<Day> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#20]]]
--resultB(RegexResult) : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#31]]]
--resultE(GanttDiagram;RegexResult) : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#38]]]
-+getSentences() : Collection<?extendsSentenceSimple> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#43]]]
-+toRegex() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#87]]]
--toRegexB() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#91]]]
--toRegexE() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#100]]]
++getMe(GanttDiagram;RegexResult) : Failable<Day> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#54]]]
+-resultB(RegexResult) : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#65]]]
+-resultE(GanttDiagram;RegexResult) : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#72]]]
++getSentences() : Collection<?extendsSentenceSimple> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#77]]]
++toRegex() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#121]]]
+-toRegexB() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#125]]]
+-toRegexE() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#134]]]
 } 
 @enduml

@@ -2,7 +2,7 @@
 !pragma layout smetana
 "Eater" <|-- "net.sourceforge.plantuml.tim.StringEater"
 class net.sourceforge.plantuml.tim.StringEater {
-+StringEater(String) : StringEater [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/StringEater.java.html#6]]]
-+analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/StringEater.java.html#11]]]
++StringEater(String) : StringEater [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/StringEater.java.html#39]]]
++analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/StringEater.java.html#44]]]
 } 
 @enduml

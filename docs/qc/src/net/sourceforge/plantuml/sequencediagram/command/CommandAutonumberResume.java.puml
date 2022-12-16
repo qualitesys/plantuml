@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<SequenceDiagram>" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberResume"
 class net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberResume {
-+CommandAutonumberResume() : CommandAutonumberResume [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutonumberResume.java.html#17]]]
--getConcat() : RegexConcat [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutonumberResume.java.html#21]]]
-executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutonumberResume.java.html#40]]]
++CommandAutonumberResume() : CommandAutonumberResume [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutonumberResume.java.html#51]]]
+-getConcat() : RegexConcat [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutonumberResume.java.html#55]]]
+executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutonumberResume.java.html#74]]]
 } 
 @enduml

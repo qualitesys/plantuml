@@ -2,13 +2,13 @@
 !pragma layout smetana
 "TimeHeaderCalendar" <|-- "net.sourceforge.plantuml.project.draw.TimeHeaderYearly"
 class net.sourceforge.plantuml.project.draw.TimeHeaderYearly {
-+getTimeHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderYearly.java.html#14]]]
-+getTimeFooterHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderYearly.java.html#18]]]
-+TimeHeaderYearly(TimeHeaderParameters) : TimeHeaderYearly [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderYearly.java.html#22]]]
-+drawTimeHeader(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderYearly.java.html#27]]]
-+drawTimeFooter(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderYearly.java.html#35]]]
--drawYears(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderYearly.java.html#42]]]
--printYear(UGraphic;MonthYear;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderYearly.java.html#63]]]
-+getFullHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderYearly.java.html#69]]]
++getTimeHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderYearly.java.html#48]]]
++getTimeFooterHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderYearly.java.html#52]]]
++TimeHeaderYearly(TimeHeaderParameters) : TimeHeaderYearly [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderYearly.java.html#56]]]
++drawTimeHeader(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderYearly.java.html#61]]]
++drawTimeFooter(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderYearly.java.html#69]]]
+-drawYears(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderYearly.java.html#76]]]
+-printYear(UGraphic;MonthYear;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderYearly.java.html#97]]]
++getFullHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderYearly.java.html#103]]]
 } 
 @enduml

@@ -2,7 +2,7 @@
 !pragma layout smetana
 "CommandParticipant" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA"
 class net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA {
-+CommandParticipantA() : CommandParticipantA [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandParticipantA.java.html#13]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandParticipantA.java.html#17]]]
++CommandParticipantA() : CommandParticipantA [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandParticipantA.java.html#47]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandParticipantA.java.html#51]]]
 } 
 @enduml

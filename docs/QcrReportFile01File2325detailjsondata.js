@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.svek.image.EntityImageDeepHistory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDeepHistory.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDeepHistory.java.html#44"
  , "c1" : "EntityImageDeepHistory"
  , "c2" : "EntityImageDeepHistory(ILeaf;ISkinParam;SName)"
  , "c3" : "1"
@@ -68,10 +68,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageDeepHistory.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageDeepHistory.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.svek.image.EntityImageDeepHistory.EntityImageDeepHistory@POLYN145933 the MagicNumber/String  'H*' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.svek.image.EntityImageDeepHistory.EntityImageDeepHistory@POLYN146137 the MagicNumber/String  'H*' should be converted to const"
 }} 
 ]
 , 

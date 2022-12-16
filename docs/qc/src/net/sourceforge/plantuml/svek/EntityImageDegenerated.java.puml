@@ -2,15 +2,15 @@
 !pragma layout smetana
 "IEntityImage" <|-- "net.sourceforge.plantuml.svek.EntityImageDegenerated"
 class net.sourceforge.plantuml.svek.EntityImageDegenerated {
-+EntityImageDegenerated(IEntityImage;HColor) : EntityImageDegenerated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#20]]]
-+isHidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#25]]]
-+getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#29]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#34]]]
-+getMinMax(StringBounder) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#38]]]
-+getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#44]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#48]]]
-+getShapeType() : ShapeType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#56]]]
-+getShield(StringBounder) : Margins [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#60]]]
-+getOverscanX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#64]]]
++EntityImageDegenerated(IEntityImage;HColor) : EntityImageDegenerated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#54]]]
++isHidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#59]]]
++getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#63]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#68]]]
++getMinMax(StringBounder) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#72]]]
++getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#78]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#82]]]
++getShapeType() : ShapeType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#90]]]
++getShield(StringBounder) : Margins [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#94]]]
++getOverscanX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageDegenerated.java.html#98]]]
 } 
 @enduml

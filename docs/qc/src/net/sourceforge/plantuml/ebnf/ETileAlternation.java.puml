@@ -2,11 +2,11 @@
 !pragma layout smetana
 "ETile" <|-- "net.sourceforge.plantuml.ebnf.ETileAlternation"
 class net.sourceforge.plantuml.ebnf.ETileAlternation {
-+push(ETile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#19]]]
-+getH1(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#24]]]
-+getH2(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#29]]]
-+getWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#41]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#52]]]
-+setInZeroOrMore(boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#124]]]
++push(ETile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#53]]]
++getH1(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#58]]]
++getH2(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#63]]]
++getWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#75]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#86]]]
++setInZeroOrMore(boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#158]]]
 } 
 @enduml

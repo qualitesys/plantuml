@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.style.AutomaticCounter" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/AutomaticCounter.java.html#6"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/AutomaticCounter.java.html#40"
  , "c1" : "int"
  , "c2" : "getNextInt()"
  , "c3" : "1"

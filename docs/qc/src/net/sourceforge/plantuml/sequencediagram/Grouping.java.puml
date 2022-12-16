@@ -2,17 +2,17 @@
 !pragma layout smetana
 "AbstractEventEvent" <|-- "net.sourceforge.plantuml.sequencediagram.Grouping"
 class net.sourceforge.plantuml.sequencediagram.Grouping {
-+getStyleSignature() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#24]]]
--getHeaderStyleDefinition() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#28]]]
-+getUsedStyles() : Style[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#32]]]
-+Grouping(String;String;GroupingType;HColor;StyleBuilder) : Grouping [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#38]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#50]]]
-+getTitle() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#54]]]
-+getType() : GroupingType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#58]]]
-+getLevel() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#62]]]
-+getBackColorGeneral() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#64]]]
-+getComment() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#66]]]
-+getBackColorElement() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#70]]]
-+isParallel() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#74]]]
++getStyleSignature() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#58]]]
+-getHeaderStyleDefinition() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#62]]]
++getUsedStyles() : Style[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#66]]]
++Grouping(String;String;GroupingType;HColor;StyleBuilder) : Grouping [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#72]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#84]]]
++getTitle() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#88]]]
++getType() : GroupingType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#92]]]
++getLevel() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#96]]]
++getBackColorGeneral() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#98]]]
++getComment() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#100]]]
++getBackColorElement() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#104]]]
++isParallel() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Grouping.java.html#108]]]
 } 
 @enduml

@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.xmi.CucaDiagramXmiMaker"
 class net.sourceforge.plantuml.xmi.CucaDiagramXmiMaker {
-+CucaDiagramXmiMaker(CucaDiagram;FileFormat) : CucaDiagramXmiMaker [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#24]]]
-+getModel(UmlDiagram) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#29]]]
-+createFiles(OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#33]]]
++CucaDiagramXmiMaker(CucaDiagram;FileFormat) : CucaDiagramXmiMaker [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#58]]]
++getModel(UmlDiagram) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#63]]]
++createFiles(OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#67]]]
 } 
 @enduml

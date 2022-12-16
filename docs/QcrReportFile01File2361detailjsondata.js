@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.swing.ScrollablePicture" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#54"
  , "c1" : "ScrollablePicture"
  , "c2" : "ScrollablePicture(ImageIcon;int)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#71"
  , "c1" : "void"
  , "c2" : "mouseMoved(MouseEvent)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#74"
  , "c1" : "void"
  , "c2" : "mouseDragged(MouseEvent)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#47"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#81"
  , "c1" : "Dimension"
  , "c2" : "getPreferredSize()"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#89"
  , "c1" : "Dimension"
  , "c2" : "getPreferredScrollableViewportSize()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#59"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#93"
  , "c1" : "int"
  , "c2" : "getScrollableUnitIncrement(Rectangle;int;int)"
  , "c3" : "5"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#78"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#112"
  , "c1" : "int"
  , "c2" : "getScrollableBlockIncrement(Rectangle;int;int)"
  , "c3" : "3"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#86"
+ , "c5" : "00120"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#120"
  , "c1" : "boolean"
  , "c2" : "getScrollableTracksViewportWidth()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#90"
+ , "c5" : "00124"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#124"
  , "c1" : "boolean"
  , "c2" : "getScrollableTracksViewportHeight()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00094"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#94"
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#128"
  , "c1" : "void"
  , "c2" : "setMaxUnitIncrement(int)"
  , "c3" : "1"
@@ -177,171 +177,171 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.swing.ScrollablePicture.ScrollablePicture@POLYN154914 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.swing.ScrollablePicture.ScrollablePicture@POLYN155118 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.swing.ScrollablePicture.ScrollablePicture@POLYN154914 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.swing.ScrollablePicture.ScrollablePicture@POLYN155118 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.swing.ScrollablePicture.ScrollablePicture@POLYN154914 the MagicNumber/String  'No picture found.' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.swing.ScrollablePicture.ScrollablePicture@POLYN155118 the MagicNumber/String  'No picture found.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.swing.ScrollablePicture.ScrollablePicture@POLYN154914 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.swing.ScrollablePicture.ScrollablePicture@POLYN155118 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.swing.ScrollablePicture.ScrollablePicture@POLYN154914 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.swing.ScrollablePicture.ScrollablePicture@POLYN155118 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#71"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method mouseMoved arguments MouseEvent  e"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#40"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method mouseDragged arguments MouseEvent  e"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.swing.ScrollablePicture.mouseDragged@POLYN155702 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.swing.ScrollablePicture.mouseDragged@POLYN155702 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.swing.ScrollablePicture.getPreferredSize@POLYN156053 the MagicNumber/String  320 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.swing.ScrollablePicture.getPreferredSize@POLYN156053 the MagicNumber/String  480 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#59"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method getScrollableUnitIncrement arguments Rectangle  visibleRect|int  orientation|int  direction"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#59"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00059] The argument visibleRect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableUnitIncrement@POLYN156423 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableUnitIncrement@POLYN156423 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableUnitIncrement@POLYN156423 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000006[00071] For method mouseMoved arguments MouseEvent  e"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableUnitIncrement@POLYN156423 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method getScrollableBlockIncrement arguments Rectangle  visibleRect|int  orientation|int  direction"
+ , "c3" : "QC-JAV000006[00074] For method mouseDragged arguments MouseEvent  e"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#78"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.swing.ScrollablePicture.mouseDragged@POLYN155906 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.swing.ScrollablePicture.mouseDragged@POLYN155906 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#83"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.swing.ScrollablePicture.getPreferredSize@POLYN156257 the MagicNumber/String  320 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#83"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.swing.ScrollablePicture.getPreferredSize@POLYN156257 the MagicNumber/String  480 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#93"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00093] For method getScrollableUnitIncrement arguments Rectangle  visibleRect|int  orientation|int  direction"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#93"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00078] The argument visibleRect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00093] The argument visibleRect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#87"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableTracksViewportWidth@POLYN157710 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableUnitIncrement@POLYN156627 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#91"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableTracksViewportHeight@POLYN157798 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableUnitIncrement@POLYN156627 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#94"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableUnitIncrement@POLYN156627 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#108"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableUnitIncrement@POLYN156627 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#112"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00094] For method setMaxUnitIncrement arguments int  pixels"
+ , "c3" : "QC-JAV000006[00112] For method getScrollableBlockIncrement arguments Rectangle  visibleRect|int  orientation|int  direction"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#37"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00037] Void method mouseMoved is empty or contains only a return."
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#112"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00112] The argument visibleRect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#37"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#121"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableTracksViewportWidth@POLYN157914 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.swing.ScrollablePicture.getScrollableTracksViewportHeight@POLYN158002 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#128"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00128] For method setMaxUnitIncrement arguments int  pixels"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#71"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00037] Void method mouseMoved is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000005[00071] Void method mouseMoved is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ScrollablePicture.java.html#71"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00071] Void method mouseMoved is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

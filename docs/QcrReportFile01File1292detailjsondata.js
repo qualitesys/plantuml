@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.flashcode.FlashCodeFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/flashcode/FlashCodeFactory.java.html#6"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/flashcode/FlashCodeFactory.java.html#40"
  , "c1" : "FlashCodeUtils"
  , "c2" : "getFlashCodeUtils()"
  , "c3" : "1"
@@ -68,10 +68,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flashcode/FlashCodeFactory.java.html#7"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flashcode/FlashCodeFactory.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00007] In method net.sourceforge.plantuml.flashcode.FlashCodeFactory.getFlashCodeUtils@POLYN146144 the MagicNumber/String  'net.sourceforge.plantuml.flashcode.FlashCodeUtilsZxing' should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.flashcode.FlashCodeFactory.getFlashCodeUtils@POLYN146348 the MagicNumber/String  'net.sourceforge.plantuml.flashcode.FlashCodeUtilsZxing' should be converted to const"
 }} 
 ]
 , 

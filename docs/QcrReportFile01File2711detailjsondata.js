@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#19"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#52"
  , "c1" : "DriverTextVdx"
  , "c2" : "DriverTextVdx(StringBounder)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#23"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#56"
  , "c1" : "void"
  , "c2" : "draw(UText;double;double;ColorMapper;UParam;VisioGraphics)"
  , "c3" : "3"
@@ -91,52 +91,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method draw arguments UText  shape|double  x|double  y|ColorMapper  mapper|UParam  param|VisioGraphics  visio"
+ , "c3" : "QC-JAV000006[00056] For method draw arguments UText  shape|double  x|double  y|ColorMapper  mapper|UParam  param|VisioGraphics  visio"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00023] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00056] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00023] The argument visio is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00056] The argument visio is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#30"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx.draw@POLYN152631 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx.draw@POLYN152829 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#31"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx.draw@POLYN152631 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx.draw@POLYN152829 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#32"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx.draw@POLYN152631 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx.draw@POLYN152829 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#34"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx.draw@POLYN152631 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx.draw@POLYN152829 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

@@ -2,14 +2,14 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "jcckit.data.DataEvent"
 class jcckit.data.DataEvent {
--DataEvent(DataContainer;DataEventType;int;DataElement) : DataEvent [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#12]]]
-+createAddEvent(DataContainer) : DataEvent [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#21]]]
-+createInsertEvent(DataContainer;int) : DataEvent [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#27]]]
-+createReplaceEvent(DataContainer;int;DataElement) : DataEvent [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#34]]]
-+createRemoveEvent(DataContainer;int;DataElement) : DataEvent [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#41]]]
-+getContainer() : DataContainer [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#48]]]
-+getType() : DataEventType [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#53]]]
-+getIndex() : int [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#58]]]
-+getDeletedElement() : DataElement [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#63]]]
+-DataEvent(DataContainer;DataEventType;int;DataElement) : DataEvent [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#40]]]
++createAddEvent(DataContainer) : DataEvent [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#54]]]
++createInsertEvent(DataContainer;int) : DataEvent [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#66]]]
++createReplaceEvent(DataContainer;int;DataElement) : DataEvent [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#80]]]
++createRemoveEvent(DataContainer;int;DataElement) : DataEvent [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#94]]]
++getContainer() : DataContainer [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#101]]]
++getType() : DataEventType [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#112]]]
++getIndex() : int [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#117]]]
++getDeletedElement() : DataElement [[[./../../../.././qc/src/jcckit/data/DataEvent.java.html#125]]]
 } 
 @enduml

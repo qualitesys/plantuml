@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.DottedNumber" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#15"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#48"
  , "c1" : "DottedNumber"
  , "c2" : "DottedNumber(List<Integer>;List<String>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#20"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#53"
  , "c1" : "DottedNumber"
  , "c2" : "create(String)"
  , "c3" : "4"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#36"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#69"
  , "c1" : "boolean"
  , "c2" : "isDigit(char)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#41"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#74"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#52"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#85"
  , "c1" : "void"
  , "c2" : "incrementMinor(int)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#58"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#91"
  , "c1" : "void"
  , "c2" : "incrementIntermediate()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#63"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#96"
  , "c1" : "void"
  , "c2" : "incrementIntermediate(int)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00072"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#72"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#105"
  , "c1" : "String"
  , "c2" : "format(DecimalFormat)"
  , "c3" : "2"
@@ -152,171 +152,171 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#20"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method create arguments String  value"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00026] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.create@POLYN157234 the MagicNumber/String  '(\\d+)|(\\D+)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.create@POLYN157234 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#36"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method isDigit arguments char  c"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.isDigit@POLYN158303 the MagicNumber/String  '0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.isDigit@POLYN158303 the MagicNumber/String  '9' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.toString@POLYN158498 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#52"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method incrementMinor arguments int  step"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.incrementMinor@POLYN159173 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.incrementIntermediate@POLYN159554 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.incrementIntermediate@POLYN159554 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.incrementIntermediate@POLYN159554 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00063] For method incrementIntermediate arguments int  position"
+ , "c3" : "QC-JAV000006[00053] For method create arguments String  value"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#65"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.incrementIntermediate@POLYN159852 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00059] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#66"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.incrementIntermediate@POLYN159852 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.create@POLYN157432 the MagicNumber/String  '(\\d+)|(\\D+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#67"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.incrementIntermediate@POLYN159852 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.create@POLYN157432 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#72"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00072] For method format arguments DecimalFormat  format"
+ , "c3" : "QC-JAV000006[00069] For method isDigit arguments char  c"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#72"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.isDigit@POLYN158501 the MagicNumber/String  '0' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.isDigit@POLYN158501 the MagicNumber/String  '9' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.toString@POLYN158696 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#85"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00085] For method incrementMinor arguments int  step"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.incrementMinor@POLYN159371 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#92"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.incrementIntermediate@POLYN159752 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#92"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.incrementIntermediate@POLYN159752 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#92"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.incrementIntermediate@POLYN159752 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#96"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00096] For method incrementIntermediate arguments int  position"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.incrementIntermediate@POLYN160050 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#99"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.incrementIntermediate@POLYN160050 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.incrementIntermediate@POLYN160050 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#105"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00105] For method format arguments DecimalFormat  format"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#105"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00072] The argument format is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00105] The argument format is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#73"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.format@POLYN160500 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.format@POLYN160698 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#73"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.format@POLYN160500 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.format@POLYN160698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#74"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.format@POLYN160500 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.format@POLYN160698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#76"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.format@POLYN160500 the MagicNumber/String  '&amp;lt;b&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.format@POLYN160698 the MagicNumber/String  '&amp;lt;b&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#76"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.format@POLYN160500 the MagicNumber/String  '&amp;lt;/b&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.sequencediagram.DottedNumber.format@POLYN160698 the MagicNumber/String  '&amp;lt;/b&amp;gt;' should be converted to const"
 }} 
 ]
 , 

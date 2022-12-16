@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.SourceFileReaderCopyCat" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#48"
  , "c1" : "SourceFileReaderCopyCat"
  , "c2" : "SourceFileReaderCopyCat(Defines;File;File;List<String>;String;FileFormatOption)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#58"
  , "c1" : "SuggestedFile"
  , "c2" : "getSuggestedFile(BlockUml)"
  , "c3" : "2"
@@ -91,45 +91,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#48"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00048] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#48"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument outputDirectory is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00048] The argument outputDirectory is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.SourceFileReaderCopyCat.SourceFileReaderCopyCat@POLYN148921 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.SourceFileReaderCopyCat.SourceFileReaderCopyCat@POLYN149125 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method getSuggestedFile arguments BlockUml  blockUml"
+ , "c3" : "QC-JAV000006[00058] For method getSuggestedFile arguments BlockUml  blockUml"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#58"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00024] The argument blockUml is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00058] The argument blockUml is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.SourceFileReaderCopyCat.getSuggestedFile@POLYN149690 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.SourceFileReaderCopyCat.getSuggestedFile@POLYN149894 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

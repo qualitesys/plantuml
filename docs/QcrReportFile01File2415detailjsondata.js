@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.TMemoryLocal" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#21"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#54"
  , "c1" : "TMemoryLocal"
  , "c2" : "TMemoryLocal(TMemoryGlobal;Map<String,TValue>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#26"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#59"
  , "c1" : "void"
  , "c2" : "dumpDebug(String)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#46"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#79"
  , "c1" : "void"
  , "c2" : "putVariable(String;TValue;TVariableScope)"
  , "c3" : "7"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#66"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#99"
  , "c1" : "void"
  , "c2" : "removeVariable(String)"
  , "c3" : "6"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00080"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#80"
+ , "c5" : "00113"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#113"
  , "c1" : "TValue"
  , "c2" : "getVariable(String)"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#93"
+ , "c5" : "00126"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#126"
  , "c1" : "Trie"
  , "c2" : "variablesNames3()"
  , "c3" : "5"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#132"
+ , "c5" : "00165"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#165"
  , "c1" : "boolean"
  , "c2" : "isEmpty()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00136"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#136"
+ , "c5" : "00169"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#169"
  , "c1" : "Set<String>"
  , "c2" : "variablesNames()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00140"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#140"
+ , "c5" : "00173"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#173"
  , "c1" : "TMemory"
  , "c2" : "forkFromGlobal(Map<String,TValue>)"
  , "c3" : "1"
@@ -154,185 +154,185 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#26"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method dumpDebug arguments String  message"
+ , "c3" : "QC-JAV000006[00059] For method dumpDebug arguments String  message"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#32"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00032] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00033] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#39"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00039] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00040] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.tim.TMemoryLocal.dumpDebug@POLYN167408 the MagicNumber/String  '[MemLocal] Start of memory_dump ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.tim.TMemoryLocal.dumpDebug@POLYN167408 the MagicNumber/String  '[MemLocal] Number of overriden variable(s) : ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.tim.TMemoryLocal.dumpDebug@POLYN167408 the MagicNumber/String  '[MemLocal] ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.tim.TMemoryLocal.dumpDebug@POLYN167408 the MagicNumber/String  ' = ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.tim.TMemoryLocal.dumpDebug@POLYN167408 the MagicNumber/String  '[MemLocal] Number of local variable(s) : ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.tim.TMemoryLocal.dumpDebug@POLYN167408 the MagicNumber/String  '[MemLocal] ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.tim.TMemoryLocal.dumpDebug@POLYN167408 the MagicNumber/String  ' = ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.tim.TMemoryLocal.dumpDebug@POLYN167408 the MagicNumber/String  '[MemGlobal] End of memory_dump' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#46"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method putVariable arguments String  varname|TValue  value|TVariableScope  scope"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.TMemoryLocal.putVariable@POLYN169123 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.TMemoryLocal.putVariable@POLYN169123 the MagicNumber/String  '[MemLocal/overrriden] Setting ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.tim.TMemoryLocal.putVariable@POLYN169123 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.TMemoryLocal.putVariable@POLYN169123 the MagicNumber/String  '[MemLocal/local] Setting ' should be converted to const"
+ , "c3" : "QC-JAV000001[00065] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#66"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method removeVariable arguments String  varname"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.tim.TMemoryLocal.removeVariable@POLYN170492 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00066] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.tim.TMemoryLocal.removeVariable@POLYN170492 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00072] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#80"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method getVariable arguments String  varname"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#82"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.tim.TMemoryLocal.getVariable@POLYN171266 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00073] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#60"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.tim.TMemoryLocal.dumpDebug@POLYN167606 the MagicNumber/String  '[MemLocal] Start of memory_dump ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.TMemoryLocal.dumpDebug@POLYN167606 the MagicNumber/String  '[MemLocal] Number of overriden variable(s) : ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#67"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.tim.TMemoryLocal.dumpDebug@POLYN167606 the MagicNumber/String  '[MemLocal] ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#67"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.tim.TMemoryLocal.dumpDebug@POLYN167606 the MagicNumber/String  ' = ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.tim.TMemoryLocal.dumpDebug@POLYN167606 the MagicNumber/String  '[MemLocal] Number of local variable(s) : ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.tim.TMemoryLocal.dumpDebug@POLYN167606 the MagicNumber/String  '[MemLocal] ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.tim.TMemoryLocal.dumpDebug@POLYN167606 the MagicNumber/String  ' = ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.tim.TMemoryLocal.dumpDebug@POLYN167606 the MagicNumber/String  '[MemGlobal] End of memory_dump' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#79"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00079] For method putVariable arguments String  varname|TValue  value|TVariableScope  scope"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.tim.TMemoryLocal.getVariable@POLYN171266 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.tim.TMemoryLocal.putVariable@POLYN169321 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#94"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.tim.TMemoryLocal.variablesNames3@POLYN171872 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.tim.TMemoryLocal.putVariable@POLYN169321 the MagicNumber/String  '[MemLocal/overrriden] Setting ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#140"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.tim.TMemoryLocal.putVariable@POLYN169321 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.tim.TMemoryLocal.putVariable@POLYN169321 the MagicNumber/String  '[MemLocal/local] Setting ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#99"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00140] For method forkFromGlobal arguments Map&lt;String ,TValue &gt;  input"
+ , "c3" : "QC-JAV000006[00099] For method removeVariable arguments String  varname"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#102"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.tim.TMemoryLocal.removeVariable@POLYN170690 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.tim.TMemoryLocal.removeVariable@POLYN170690 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#113"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00113] For method getVariable arguments String  varname"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#115"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.tim.TMemoryLocal.getVariable@POLYN171464 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.tim.TMemoryLocal.getVariable@POLYN171464 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#127"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.tim.TMemoryLocal.variablesNames3@POLYN172070 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#173"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00173] For method forkFromGlobal arguments Map&lt;String ,TValue &gt;  input"
 }} 
 ]
 , 

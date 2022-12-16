@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.eggs.PSystemColors" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#45"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#79"
  , "c1" : "PSystemColors"
  , "c2" : "PSystemColors(UmlSource;String)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#89"
  , "c1" : "UDrawable"
  , "c2" : "getRootDrawable(FileFormatOption)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#59"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#93"
  , "c1" : "DiagramDescription"
  , "c2" : "getDescription()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#63"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#97"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#70"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#104"
  , "c1" : "void"
  , "c2" : "drawPalette(UGraphic)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#101"
+ , "c5" : "00135"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#135"
  , "c1" : "XPoint2D"
  , "c2" : "centerHexa(int;int)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#109"
+ , "c5" : "00143"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#143"
  , "c1" : "double"
  , "c2" : "getWidth()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#113"
+ , "c5" : "00147"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#147"
  , "c1" : "void"
  , "c2" : "drawOneHexa(UGraphic;String;int;int;UPolygon)"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00130"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#130"
+ , "c5" : "00164"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#164"
  , "c1" : "String"
  , "c2" : "findShortest(StringBounder;UFont;String)"
  , "c3" : "4"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00148"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#148"
+ , "c5" : "00182"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#182"
  , "c1" : "UGraphic"
  , "c2" : "applyColor(UGraphic;HColor)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00152"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#152"
+ , "c5" : "00186"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#186"
  , "c1" : "XPoint2D"
  , "c2" : "corner(int)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00158"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#158"
+ , "c5" : "00192"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#192"
  , "c1" : "UPolygon"
  , "c2" : "getHexa()"
  , "c3" : "2"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00166"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#166"
+ , "c5" : "00200"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#200"
  , "c1" : "List<String>"
  , "c2" : "getColorsCloseTo(String)"
  , "c3" : "5"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00185"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#185"
+ , "c5" : "00219"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#219"
  , "c1" : "boolean"
  , "c2" : "containsCaseInsensitive(Collection<String>;String)"
  , "c3" : "3"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00193"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#193"
+ , "c5" : "00227"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#227"
  , "c1" : "Comparator<String>"
  , "c2" : "closeComparator(String)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00204"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#204"
+ , "c5" : "00238"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#238"
  , "c1" : "void"
  , "c2" : "drawFull(UGraphic)"
  , "c3" : "3"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00226"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#226"
+ , "c5" : "00260"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#260"
  , "c1" : "TextBlock"
  , "c2" : "getTextName(UFont;String;HColor)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00234"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#234"
+ , "c5" : "00268"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#268"
  , "c1" : "UGraphic"
  , "c2" : "getPositioned(UGraphic;int;int)"
  , "c3" : "1"
@@ -242,815 +242,815 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.eggs.PSystemColors.PSystemColors@POLYN196085 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.eggs.PSystemColors.PSystemColors@POLYN196085 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.eggs.PSystemColors.PSystemColors@POLYN196085 the MagicNumber/String  '\\#' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.eggs.PSystemColors.PSystemColors@POLYN196085 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#55"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method getRootDrawable arguments FileFormatOption  fileFormatOption"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.eggs.PSystemColors.getDescription@POLYN196616 the MagicNumber/String  '(Colors)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#63"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00063] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.eggs.PSystemColors.drawU@POLYN196734 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#70"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00070] For method drawPalette arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#70"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00070] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.eggs.PSystemColors.PSystemColors@POLYN196289 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.eggs.PSystemColors.PSystemColors@POLYN196289 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.eggs.PSystemColors.PSystemColors@POLYN196289 the MagicNumber/String  '\\#' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.eggs.PSystemColors.PSystemColors@POLYN196289 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#95"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#95"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197059 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#101"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00101] For method centerHexa arguments int  i|int  j"
+ , "c3" : "QC-JAV000006[00089] For method getRootDrawable arguments FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#103"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.eggs.PSystemColors.centerHexa@POLYN201924 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.eggs.PSystemColors.getDescription@POLYN196820 the MagicNumber/String  '(Colors)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.eggs.PSystemColors.centerHexa@POLYN201924 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#97"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00097] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#103"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.eggs.PSystemColors.centerHexa@POLYN201924 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.eggs.PSystemColors.centerHexa@POLYN201924 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.eggs.PSystemColors.drawU@POLYN196938 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.eggs.PSystemColors.centerHexa@POLYN201924 the MagicNumber/String  1.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.eggs.PSystemColors.getWidth@POLYN202539 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.eggs.PSystemColors.getWidth@POLYN202539 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.eggs.PSystemColors.getWidth@POLYN202539 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#113"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method drawOneHexa arguments UGraphic  ug|String  colorName|int  i|int  j|UPolygon  hexa"
+ , "c3" : "QC-JAV000006[00104] For method drawPalette arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#113"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#104"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00113] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00104] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#111"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#112"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#112"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#115"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#115"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#116"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#116"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.eggs.PSystemColors.drawOneHexa@POLYN202728 the MagicNumber/String  14 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#121"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#121"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#122"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#122"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#124"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#124"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#126"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#126"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.eggs.PSystemColors.drawOneHexa@POLYN202728 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.eggs.PSystemColors.drawOneHexa@POLYN202728 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#129"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#129"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#130"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00130] For method findShortest arguments StringBounder  stringBounder|UFont  font|String  colorName"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#130"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00130] The argument colorName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00137] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#138"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00138] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#138"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00138] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.eggs.PSystemColors.findShortest@POLYN204444 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#133"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.eggs.PSystemColors.findShortest@POLYN204444 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#133"
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.eggs.PSystemColors.findShortest@POLYN204444 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#132"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.eggs.PSystemColors.drawPalette@POLYN197263 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#135"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00135] For method centerHexa arguments int  i|int  j"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.eggs.PSystemColors.findShortest@POLYN204444 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.eggs.PSystemColors.centerHexa@POLYN202128 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#148"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#137"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.eggs.PSystemColors.centerHexa@POLYN202128 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#137"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.eggs.PSystemColors.centerHexa@POLYN202128 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#137"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.eggs.PSystemColors.centerHexa@POLYN202128 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#138"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.eggs.PSystemColors.centerHexa@POLYN202128 the MagicNumber/String  1.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#144"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.eggs.PSystemColors.getWidth@POLYN202743 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#144"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.eggs.PSystemColors.getWidth@POLYN202743 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#144"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.eggs.PSystemColors.getWidth@POLYN202743 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#147"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00148] For method applyColor arguments UGraphic  ug|HColor  color"
+ , "c3" : "QC-JAV000006[00147] For method drawOneHexa arguments UGraphic  ug|String  colorName|int  i|int  j|UPolygon  hexa"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#148"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#147"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00148] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#148"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00148] The argument color is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#152"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00152] For method corner arguments int  i"
+ , "c3" : "QC-JAVCWE476[00147] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.eggs.PSystemColors.corner@POLYN205964 the MagicNumber/String  60 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.eggs.PSystemColors.drawOneHexa@POLYN202932 the MagicNumber/String  14 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#153"
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.eggs.PSystemColors.corner@POLYN205964 the MagicNumber/String  30 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.eggs.PSystemColors.drawOneHexa@POLYN202932 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#154"
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.eggs.PSystemColors.corner@POLYN205964 the MagicNumber/String  180 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.eggs.PSystemColors.drawOneHexa@POLYN202932 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#160"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.eggs.PSystemColors.getHexa@POLYN206466 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#160"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.eggs.PSystemColors.getHexa@POLYN206466 the MagicNumber/String  6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#166"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#164"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00166] For method getColorsCloseTo arguments String  other"
+ , "c3" : "QC-JAV000006[00164] For method findShortest arguments StringBounder  stringBounder|UFont  font|String  colorName"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#169"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#164"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00164] The argument colorName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00169] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00171] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#170"
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00170] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00172] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#170"
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.eggs.PSystemColors.getColorsCloseTo@POLYN206902 the MagicNumber/String  'Gray' should be converted to const"
+ , "c3" : "QC-JAV000001[00172] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#170"
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.eggs.PSystemColors.getColorsCloseTo@POLYN206902 the MagicNumber/String  'Grey' should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.eggs.PSystemColors.findShortest@POLYN204648 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#178"
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.eggs.PSystemColors.getColorsCloseTo@POLYN206902 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.eggs.PSystemColors.findShortest@POLYN204648 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#185"
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.eggs.PSystemColors.findShortest@POLYN204648 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.eggs.PSystemColors.findShortest@POLYN204648 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#182"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00185] For method containsCaseInsensitive arguments Collection&lt;String &gt;  source|String  target"
+ , "c3" : "QC-JAV000006[00182] For method applyColor arguments UGraphic  ug|HColor  color"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#182"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00182] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#182"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00182] The argument color is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#186"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00186] For method corner arguments int  i"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.eggs.PSystemColors.corner@POLYN206168 the MagicNumber/String  60 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.eggs.PSystemColors.corner@POLYN206168 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.eggs.PSystemColors.containsCaseInsensitive@POLYN208073 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.eggs.PSystemColors.corner@POLYN206168 the MagicNumber/String  180 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#190"
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.eggs.PSystemColors.containsCaseInsensitive@POLYN208073 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.eggs.PSystemColors.getHexa@POLYN206670 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#193"
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.eggs.PSystemColors.getHexa@POLYN206670 the MagicNumber/String  6 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#200"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00193] For method closeComparator arguments String  center"
+ , "c3" : "QC-JAV000006[00200] For method getColorsCloseTo arguments String  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00203] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#204"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00204] For method drawFull arguments UGraphic  ug"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00204] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#204"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00204] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.eggs.PSystemColors.getColorsCloseTo@POLYN207106 the MagicNumber/String  'Gray' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#211"
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00211] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.eggs.PSystemColors.getColorsCloseTo@POLYN207106 the MagicNumber/String  'Grey' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00212"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00212] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#214"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00214] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00215"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#215"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00215] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00205"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#205"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.eggs.PSystemColors.drawFull@POLYN209210 the MagicNumber/String  14 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#208"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.eggs.PSystemColors.drawFull@POLYN209210 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00209"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#209"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.eggs.PSystemColors.drawFull@POLYN209210 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00216"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#216"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.eggs.PSystemColors.drawFull@POLYN209210 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00217"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#217"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.eggs.PSystemColors.drawFull@POLYN209210 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.eggs.PSystemColors.getColorsCloseTo@POLYN207106 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00219"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#219"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.eggs.PSystemColors.drawFull@POLYN209210 the MagicNumber/String  20 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00220"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#220"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.eggs.PSystemColors.drawFull@POLYN209210 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#226"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00226] For method getTextName arguments UFont  font|String  name|HColor  color"
+ , "c3" : "QC-JAV000006[00219] For method containsCaseInsensitive arguments Collection&lt;String &gt;  source|String  target"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#226"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00226] The argument color is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00222"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#222"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.eggs.PSystemColors.containsCaseInsensitive@POLYN208277 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00234"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#234"
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#224"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.eggs.PSystemColors.containsCaseInsensitive@POLYN208277 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#227"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00234] For method getPositioned arguments UGraphic  ug|int  i|int  j"
+ , "c3" : "QC-JAV000006[00227] For method closeComparator arguments String  center"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00234"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#234"
+ , "c1" : "00238"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#238"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00238] For method drawFull arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00238"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#238"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00234] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00238] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#245"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00245] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00246"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#246"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00246] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#248"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00248] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#249"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00249] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00239"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#239"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.eggs.PSystemColors.drawFull@POLYN209414 the MagicNumber/String  14 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#242"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.eggs.PSystemColors.drawFull@POLYN209414 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00243"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#243"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.eggs.PSystemColors.drawFull@POLYN209414 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#250"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.eggs.PSystemColors.drawFull@POLYN209414 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00251"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#251"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.eggs.PSystemColors.drawFull@POLYN209414 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#253"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.eggs.PSystemColors.drawFull@POLYN209414 the MagicNumber/String  20 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00254"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#254"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.eggs.PSystemColors.drawFull@POLYN209414 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#260"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00260] For method getTextName arguments UFont  font|String  name|HColor  color"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#260"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00260] The argument color is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00268"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#268"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00268] For method getPositioned arguments UGraphic  ug|int  i|int  j"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00268"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#268"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00268] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

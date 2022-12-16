@@ -2,6 +2,6 @@
 !pragma layout smetana
 "UDriver<DotPath,VisioGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.visio.DriverDotPathVdx"
 class net.sourceforge.plantuml.ugraphic.visio.DriverDotPathVdx {
-+draw(DotPath;double;double;ColorMapper;UParam;VisioGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverDotPathVdx.java.html#11]]]
++draw(DotPath;double;double;ColorMapper;UParam;VisioGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverDotPathVdx.java.html#44]]]
 } 
 @enduml

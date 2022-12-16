@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.oregon.MagicTable" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#62"
  , "c1" : "int[]"
  , "c2" : "getNeighbours(int)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#69"
  , "c1" : "int[]"
  , "c2" : "getNeighboursSlow(int)"
  , "c3" : "9"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#78"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#112"
  , "c1" : "List<Integer>"
  , "c2" : "getAllFree()"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#88"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#122"
  , "c1" : "List<Integer>"
  , "c2" : "getAllUsed()"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00098"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#98"
+ , "c5" : "00132"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#132"
  , "c1" : "boolean"
  , "c2" : "isUsuable(int)"
  , "c3" : "4"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#110"
+ , "c5" : "00144"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#144"
  , "c1" : "void"
  , "c2" : "burnNumber(int)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00120"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#120"
+ , "c5" : "00154"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#154"
  , "c1" : "int"
  , "c2" : "getRandomFree(Random)"
  , "c3" : "3"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00141"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#141"
+ , "c5" : "00175"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#175"
  , "c1" : "int"
  , "c2" : "size(Random;MagicTable)"
  , "c3" : "3"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00154"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#154"
+ , "c5" : "00188"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#188"
  , "c1" : "void"
  , "c2" : "main(String[])"
  , "c3" : "4"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00179"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#179"
+ , "c5" : "00213"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#213"
  , "c1" : "void"
  , "c2" : "main2(String[])"
  , "c3" : "4"
@@ -177,598 +177,598 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method getNeighbours arguments int  nb"
+ , "c3" : "QC-JAV000006[00062] For method getNeighbours arguments int  nb"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighbours@POLYN172808 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#35"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method getNeighboursSlow arguments int  nb"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  36 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  100 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  100 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  100 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  1000 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  1000 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighbours@POLYN173012 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173208 the MagicNumber/String  1000 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.oregon.MagicTable.getAllFree@POLYN176074 the MagicNumber/String  10000 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.oregon.MagicTable.getAllFree@POLYN176074 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.oregon.MagicTable.getAllFree@POLYN176074 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.oregon.MagicTable.getAllUsed@POLYN176660 the MagicNumber/String  10000 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.oregon.MagicTable.getAllUsed@POLYN176660 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00098] For method isUsuable arguments int  nb"
+ , "c3" : "QC-JAV000006[00069] For method getNeighboursSlow arguments int  nb"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#99"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.oregon.MagicTable.isUsuable@POLYN177231 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  36 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#72"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#83"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#84"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#84"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  100 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#92"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  100 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#94"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.oregon.MagicTable.isUsuable@POLYN177231 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  1000 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#101"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  1000 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#102"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#102"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.oregon.MagicTable.isUsuable@POLYN177231 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.oregon.MagicTable.getNeighboursSlow@POLYN173412 the MagicNumber/String  1000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#104"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.oregon.MagicTable.isUsuable@POLYN177231 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.oregon.MagicTable.getAllFree@POLYN176278 the MagicNumber/String  10000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#107"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.oregon.MagicTable.isUsuable@POLYN177231 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.oregon.MagicTable.getAllFree@POLYN176278 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#110"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#115"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.oregon.MagicTable.getAllFree@POLYN176278 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.oregon.MagicTable.getAllUsed@POLYN176864 the MagicNumber/String  10000 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#124"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.oregon.MagicTable.getAllUsed@POLYN176864 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#132"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method burnNumber arguments int  nb"
+ , "c3" : "QC-JAV000006[00132] For method isUsuable arguments int  nb"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#111"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.oregon.MagicTable.burnNumber@POLYN177721 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.oregon.MagicTable.isUsuable@POLYN177435 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#120"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00120] For method getRandomFree arguments Random  rnd"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#134"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.oregon.MagicTable.isUsuable@POLYN177435 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.oregon.MagicTable.getRandomFree@POLYN178239 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.oregon.MagicTable.isUsuable@POLYN177435 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#138"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.oregon.MagicTable.isUsuable@POLYN177435 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#141"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.oregon.MagicTable.isUsuable@POLYN177435 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#144"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00141] For method size arguments Random  rnd|MagicTable  mt"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#141"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00141] The argument mt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.oregon.MagicTable.size@POLYN178742 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#143"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.oregon.MagicTable.size@POLYN178742 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000006[00144] For method burnNumber arguments int  nb"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.oregon.MagicTable.size@POLYN178742 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.oregon.MagicTable.burnNumber@POLYN177925 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#154"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00154] For method main arguments String[]  args"
+ , "c3" : "QC-JAV000006[00154] For method getRandomFree arguments Random  rnd"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#166"
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00166] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#155"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179289 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#157"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179289 the MagicNumber/String  49 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#158"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179289 the MagicNumber/String  200000 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#159"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179289 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#160"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179289 the MagicNumber/String  100 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#161"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179289 the MagicNumber/String  1000L should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#162"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179289 the MagicNumber/String  100 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#163"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179289 the MagicNumber/String  3600 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#164"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179289 the MagicNumber/String  'Estimated duration = ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#164"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179289 the MagicNumber/String  ' h' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#169"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179289 the MagicNumber/String  'v=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#170"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179289 the MagicNumber/String  'mt=' should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.oregon.MagicTable.getRandomFree@POLYN178443 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#175"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179289 the MagicNumber/String  'Duration = ' should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00175] For method size arguments Random  rnd|MagicTable  mt"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#175"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179289 the MagicNumber/String  1000L should be converted to const"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00175] The argument mt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00175"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#175"
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179289 the MagicNumber/String  60 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.oregon.MagicTable.size@POLYN178946 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.oregon.MagicTable.size@POLYN178946 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#179"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00179] For method main2 arguments String[]  args"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00183] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#185"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00185] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#185"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00185] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00180"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#180"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181125 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00182"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#182"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181125 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00182"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#182"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181125 the MagicNumber/String  100 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#184"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181125 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#184"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181125 the MagicNumber/String  1000 should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.oregon.MagicTable.size@POLYN178946 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#188"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00188] For method main arguments String[]  args"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181125 the MagicNumber/String  'v=' should be converted to const"
+ , "c3" : "QC-JAV000001[00200] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181125 the MagicNumber/String  'mt=' should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179493 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#191"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179493 the MagicNumber/String  49 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#192"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179493 the MagicNumber/String  200000 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#193"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179493 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179493 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181125 the MagicNumber/String  'Duration = ' should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179493 the MagicNumber/String  1000L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#195"
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181125 the MagicNumber/String  1000L should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179493 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#195"
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181125 the MagicNumber/String  60 should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179493 the MagicNumber/String  3600 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#35"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00035] Public method getNeighboursSlow is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#198"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179493 the MagicNumber/String  'Estimated duration = ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#78"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00078] Public method getAllFree is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#198"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179493 the MagicNumber/String  ' h' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#88"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00088] Public method getAllUsed is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179493 the MagicNumber/String  'v=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#98"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00098] Public method isUsuable is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#204"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179493 the MagicNumber/String  'mt=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#120"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00120] Public method getRandomFree is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#209"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179493 the MagicNumber/String  'Duration = ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#141"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00141] Public method size is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#209"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179493 the MagicNumber/String  1000L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#110"
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#209"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.oregon.MagicTable.main@POLYN179493 the MagicNumber/String  60 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00213"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#213"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00213] For method main2 arguments String[]  args"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#217"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00217] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#219"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00219] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#219"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00219] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00214"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#214"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181329 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#216"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181329 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#216"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181329 the MagicNumber/String  100 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00218"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#218"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181329 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00218"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#218"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181329 the MagicNumber/String  1000 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00222"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#222"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181329 the MagicNumber/String  'v=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00223"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#223"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181329 the MagicNumber/String  'mt=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#229"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181329 the MagicNumber/String  'Duration = ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#229"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181329 the MagicNumber/String  1000L should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#229"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.oregon.MagicTable.main2@POLYN181329 the MagicNumber/String  60 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#69"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00110] Public method burnNumber is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00069] Public method getNeighboursSlow is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#112"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00112] Public method getAllFree is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#122"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00122] Public method getAllUsed is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#132"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00132] Public method isUsuable is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#154"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00154] Public method main is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00154] Public method getRandomFree is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#179"
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#175"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00179] Public method main2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00175] Public method size is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#144"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00144] Public method burnNumber is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#188"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00188] Public method main is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00213"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#213"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00213] Public method main2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.nwdiag.core.NStackable"
 class net.sourceforge.plantuml.nwdiag.core.NStackable {
-+setDescription(String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/NStackable.java.html#8]]]
-+setColor(HColor) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/NStackable.java.html#10]]]
++setDescription(String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/NStackable.java.html#41]]]
++setColor(HColor) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/core/NStackable.java.html#43]]]
 } 
 @enduml

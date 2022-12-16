@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.wbs.WBSDiagram" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#67"
  , "c1" : "DiagramDescription"
  , "c2" : "getDescription()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#71"
  , "c1" : "WBSDiagram"
  , "c2" : "WBSDiagram(UmlSource)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#76"
  , "c1" : "ImageData"
  , "c2" : "exportDiagramInternal(OutputStream;int;FileFormatOption)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#82"
  , "c1" : "TextBlockBackcolored"
  , "c2" : "getTextBlock()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#74"
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#108"
  , "c1" : "void"
  , "c2" : "drawMe(UGraphic)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00079"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#79"
+ , "c5" : "00113"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#113"
  , "c1" : "TextBlock"
  , "c2" : "getDrawingElement()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#86"
+ , "c5" : "00120"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#120"
  , "c1" : "CommandExecutionResult"
  , "c2" : "addIdea(HColor;int;String;Direction;IdeaShape)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00098"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#98"
+ , "c5" : "00132"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#132"
  , "c1" : "CommandExecutionResult"
  , "c2" : "addIdea(HColor;int;Display;String;Direction;IdeaShape)"
  , "c3" : "3"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00119"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#119"
+ , "c5" : "00153"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#153"
  , "c1" : "void"
  , "c2" : "initRoot(HColor;Display;String;IdeaShape)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00124"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#124"
+ , "c5" : "00158"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#158"
  , "c1" : "WElement"
  , "c2" : "getParentOfLast(int)"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#132"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#166"
  , "c1" : "int"
  , "c2" : "getSmartLevel(String)"
  , "c3" : "6"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00154"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#154"
+ , "c5" : "00188"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#188"
  , "c1" : "CommandExecutionResult"
  , "c2" : "add(HColor;int;Display;String;Direction;IdeaShape)"
  , "c3" : "3"
@@ -181,269 +181,269 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.wbs.WBSDiagram.getDescription@POLYN172160 the MagicNumber/String  'Work Breakdown Structure' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.wbs.WBSDiagram.getDescription@POLYN172364 the MagicNumber/String  'Work Breakdown Structure' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.wbs.WBSDiagram.WBSDiagram@POLYN172275 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.wbs.WBSDiagram.WBSDiagram@POLYN172479 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method exportDiagramInternal arguments OutputStream  os|int  index|FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00076] For method exportDiagramInternal arguments OutputStream  os|int  index|FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#56"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.wbs.WBSDiagram.getTextBlock@POLYN172766 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.wbs.WBSDiagram.getTextBlock@POLYN172766 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#74"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00074] For method drawMe arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#86"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00086] For method addIdea arguments HColor  backColor|int  level|String  label|Direction  direction|IdeaShape  shape"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.wbs.WBSDiagram.addIdea@POLYN173962 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.wbs.WBSDiagram.addIdea@POLYN173962 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.wbs.WBSDiagram.addIdea@POLYN173962 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#98"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00098] For method addIdea arguments HColor  backColor|int  level|Display  display|String  stereotype|Direction  direction|IdeaShape  shape"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.wbs.WBSDiagram.addIdea@POLYN174828 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.wbs.WBSDiagram.addIdea@POLYN174828 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.wbs.WBSDiagram.getTextBlock@POLYN172970 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.wbs.WBSDiagram.addIdea@POLYN174828 the MagicNumber/String  'Error 44' should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.wbs.WBSDiagram.getTextBlock@POLYN172970 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#111"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#108"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00108] For method drawMe arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#120"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00120] For method addIdea arguments HColor  backColor|int  level|String  label|Direction  direction|IdeaShape  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.wbs.WBSDiagram.addIdea@POLYN174828 the MagicNumber/String  'General failure: no style available.' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.wbs.WBSDiagram.addIdea@POLYN174166 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#119"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00119] For method initRoot arguments HColor  backColor|Display  display|String  stereotype|IdeaShape  shape"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#124"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00124] For method getParentOfLast arguments int  nb"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.wbs.WBSDiagram.addIdea@POLYN174166 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.wbs.WBSDiagram.getParentOfLast@POLYN176258 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.wbs.WBSDiagram.addIdea@POLYN174166 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#132"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00132] For method getSmartLevel arguments String  type"
+ , "c3" : "QC-JAV000006[00132] For method addIdea arguments HColor  backColor|int  level|Display  display|String  stereotype|Direction  direction|IdeaShape  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#132"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00132] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#133"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176641 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#134"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176641 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.wbs.WBSDiagram.addIdea@POLYN175032 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176641 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.wbs.WBSDiagram.addIdea@POLYN175032 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#138"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176641 the MagicNumber/String  '\t' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#138"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176641 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176641 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176641 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176641 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.wbs.WBSDiagram.addIdea@POLYN175032 the MagicNumber/String  'Error 44' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176641 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.wbs.WBSDiagram.addIdea@POLYN175032 the MagicNumber/String  'General failure: no style available.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#146"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176641 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#151"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176641 the MagicNumber/String  'type=&amp;lt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#151"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176641 the MagicNumber/String  '&amp;gt;[' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#151"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176641 the MagicNumber/String  ']' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#154"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#153"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00154] For method add arguments HColor  backColor|int  level|Display  display|String  stereotype|Direction  direction|IdeaShape  shape"
+ , "c3" : "QC-JAV000006[00153] For method initRoot arguments HColor  backColor|Display  display|String  stereotype|IdeaShape  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#157"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.wbs.WBSDiagram.add@POLYN177909 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#158"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00158] For method getParentOfLast arguments int  nb"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#164"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.wbs.WBSDiagram.add@POLYN177909 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.wbs.WBSDiagram.getParentOfLast@POLYN176462 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#166"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00166] For method getSmartLevel arguments String  type"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#166"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00166] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176845 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176845 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.wbs.WBSDiagram.add@POLYN177909 the MagicNumber/String  'Bad tree structure' should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176845 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176845 the MagicNumber/String  '\t' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176845 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.wbs.WBSDiagram.add@POLYN177909 the MagicNumber/String  'General failure: no style available.' should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176845 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#173"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176845 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176845 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#179"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176845 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#180"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176845 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#185"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176845 the MagicNumber/String  'type=&amp;lt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#185"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176845 the MagicNumber/String  '&amp;gt;[' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#185"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.wbs.WBSDiagram.getSmartLevel@POLYN176845 the MagicNumber/String  ']' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#188"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00188] For method add arguments HColor  backColor|int  level|Display  display|String  stereotype|Direction  direction|IdeaShape  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#191"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.wbs.WBSDiagram.add@POLYN178113 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#198"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.wbs.WBSDiagram.add@POLYN178113 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#204"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.wbs.WBSDiagram.add@POLYN178113 the MagicNumber/String  'Bad tree structure' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00207"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#207"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.wbs.WBSDiagram.add@POLYN178113 the MagicNumber/String  'General failure: no style available.' should be converted to const"
 }} 
 ]
 , 

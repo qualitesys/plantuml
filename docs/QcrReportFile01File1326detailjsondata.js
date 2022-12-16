@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.golem.TilesField" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#62"
  , "c1" : "TilesField"
  , "c2" : "TilesField()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#66"
  , "c1" : "Tile"
  , "c2" : "getRoot()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#70"
  , "c1" : "Tile"
  , "c2" : "createTile(Tile;TileGeometry)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#78"
  , "c1" : "void"
  , "c2" : "addPath(Tile;Tile;TileGeometry)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#82"
  , "c1" : "Path"
  , "c2" : "buildPath(TileArea;TileArea)"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#66"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#100"
  , "c1" : "boolean"
  , "c2" : "isAdjoining(TileArea;TileArea)"
  , "c3" : "9"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00105"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#105"
+ , "c5" : "00139"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#139"
  , "c1" : "Tile"
  , "c2" : "getTileAt(Position)"
  , "c3" : "3"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00114"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#114"
+ , "c5" : "00148"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#148"
  , "c1" : "Position"
  , "c2" : "getFreePosition(Tile;TileGeometry)"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00123"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#123"
+ , "c5" : "00157"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#157"
  , "c1" : "void"
  , "c2" : "moveAllToEast(Position)"
  , "c3" : "5"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00140"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#140"
+ , "c5" : "00174"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#174"
  , "c1" : "boolean"
  , "c2" : "isOccuped(Position)"
  , "c3" : "3"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00149"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#149"
+ , "c5" : "00183"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#183"
  , "c1" : "Position"
  , "c2" : "getPosition(Tile)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00154"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#154"
+ , "c5" : "00188"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#188"
  , "c1" : "int"
  , "c2" : "getXmin()"
  , "c3" : "3"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00165"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#165"
+ , "c5" : "00199"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#199"
  , "c1" : "int"
  , "c2" : "getYmin()"
  , "c3" : "3"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00176"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#176"
+ , "c5" : "00210"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#210"
  , "c1" : "int"
  , "c2" : "getXmax()"
  , "c3" : "3"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00187"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#187"
+ , "c5" : "00221"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#221"
  , "c1" : "int"
  , "c2" : "getYmax()"
  , "c3" : "3"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00198"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#198"
+ , "c5" : "00232"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#232"
  , "c1" : "List<Path>"
  , "c2" : "getPaths()"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00203"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#203"
+ , "c5" : "00237"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#237"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "3"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00229"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#229"
+ , "c5" : "00263"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#263"
  , "c1" : "XPoint2D"
  , "c2" : "getPoint2D(XDimension2D;TileArea)"
  , "c3" : "5"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00255"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#255"
+ , "c5" : "00289"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#289"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -251,444 +251,444 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.golem.TilesField.TilesField@POLYN191729 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.golem.TilesField.TilesField@POLYN191933 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.golem.TilesField.TilesField@POLYN191729 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.golem.TilesField.TilesField@POLYN191933 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.golem.TilesField.TilesField@POLYN191729 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.golem.TilesField.TilesField@POLYN191933 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.golem.TilesField.TilesField@POLYN191729 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.golem.TilesField.TilesField@POLYN191933 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method createTile arguments Tile  start|TileGeometry  position"
+ , "c3" : "QC-JAV000006[00070] For method createTile arguments Tile  start|TileGeometry  position"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#70"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument start is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00070] The argument start is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#70"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument position is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#44"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method addPath arguments Tile  start|Tile  dest|TileGeometry  startDirection"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#44"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00044] The argument start is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#44"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00044] The argument dest is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#44"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00044] The argument startDirection is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#48"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method buildPath arguments TileArea  tileArea1|TileArea  tileArea2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#48"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00048] The argument tileArea1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#48"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00048] The argument tileArea2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#66"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method isAdjoining arguments TileArea  tileArea1|TileArea  tileArea2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#66"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00066] The argument tileArea1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#66"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00066] The argument tileArea2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00070] The argument position is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN194317 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN194317 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN194317 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#86"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN194317 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN194317 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN194317 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#95"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN194317 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN194317 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#105"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00105] For method getTileAt arguments Position  p"
+ , "c3" : "QC-JAV000006[00078] For method addPath arguments Tile  start|Tile  dest|TileGeometry  startDirection"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#111"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#78"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00078] The argument start is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#78"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00078] The argument dest is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#78"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00078] The argument startDirection is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#82"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00082] For method buildPath arguments TileArea  tileArea1|TileArea  tileArea2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#82"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00082] The argument tileArea1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#82"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00082] The argument tileArea2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#100"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00100] For method isAdjoining arguments TileArea  tileArea1|TileArea  tileArea2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#100"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00100] The argument tileArea1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#100"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00100] The argument tileArea2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.golem.TilesField.getTileAt@POLYN196866 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN194521 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#114"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00114] For method getFreePosition arguments Tile  start|TileGeometry  position"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN194521 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.golem.TilesField.getFreePosition@POLYN197282 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN194521 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#120"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN194521 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN194521 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#126"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN194521 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#129"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN194521 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN194521 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#139"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00123] For method moveAllToEast arguments Position  startingPosition"
+ , "c3" : "QC-JAV000006[00139] For method getTileAt arguments Position  p"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#123"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00123] The argument startingPosition is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#135"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.golem.TilesField.moveAllToEast@POLYN197707 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.golem.TilesField.getTileAt@POLYN197070 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#140"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#148"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00140] For method isOccuped arguments Position  test"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#143"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.golem.TilesField.isOccuped@POLYN198584 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#146"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.golem.TilesField.isOccuped@POLYN198584 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000006[00148] For method getFreePosition arguments Tile  start|TileGeometry  position"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#149"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.golem.TilesField.getFreePosition@POLYN197486 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#157"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00149] For method getPosition arguments Tile  tile"
+ , "c3" : "QC-JAV000006[00157] For method moveAllToEast arguments Position  startingPosition"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00203"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#203"
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#157"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00157] The argument startingPosition is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#169"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.golem.TilesField.moveAllToEast@POLYN197911 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#174"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00203] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00174] For method isOccuped arguments Position  test"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00203"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#203"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00203] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00212"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#212"
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00212] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.golem.TilesField.isOccuped@POLYN198788 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#213"
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00213] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.golem.TilesField.isOccuped@POLYN198788 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00220"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#220"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00220] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00221"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#221"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00221] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00222"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#222"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00222] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#223"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00223] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00204"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#204"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN201117 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00205"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#205"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN201117 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00209"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#209"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN201117 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00210"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#210"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN201117 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#214"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN201117 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00215"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#215"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN201117 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00229"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#229"
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#183"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00229] For method getPoint2D arguments XDimension2D  dimSingle|TileArea  area"
+ , "c3" : "QC-JAV000006[00183] For method getPosition arguments Tile  tile"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00229"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#229"
+ , "c1" : "00237"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#237"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00237] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00237"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#237"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00229] The argument dimSingle is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00237] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00229"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#229"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00229] The argument area is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#231"
+ , "c1" : "00246"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN203659 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000001[00246] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00232"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#232"
+ , "c1" : "00247"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN203659 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000001[00247] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#233"
+ , "c1" : "00254"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#254"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN203659 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00234"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#234"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN203659 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00235"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#235"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN203659 the MagicNumber/String  0.33 should be converted to const"
+ , "c3" : "QC-JAV000001[00254] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00255"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#255"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00255] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#256"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00256] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#257"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00257] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00238"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#238"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN201321 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00239"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#239"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN201321 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00243"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#243"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN201321 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00244"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#244"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN201321 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#248"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN201321 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#249"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN201321 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00263"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#263"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00255] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00263] For method getPoint2D arguments XDimension2D  dimSingle|TileArea  area"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00260"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#260"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.golem.TilesField.calculateDimension@POLYN205215 the MagicNumber/String  2 should be converted to const"
+ , "c1" : "00263"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#263"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00263] The argument dimSingle is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00260"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#260"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.golem.TilesField.calculateDimension@POLYN205215 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00263"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#263"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00263] The argument area is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00261"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#261"
+ , "c1" : "00265"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#265"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.golem.TilesField.calculateDimension@POLYN205215 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN203863 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00261"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#261"
+ , "c1" : "00266"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#266"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.golem.TilesField.calculateDimension@POLYN205215 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN203863 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00267"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#267"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN203863 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00268"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#268"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN203863 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00269"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#269"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN203863 the MagicNumber/String  0.33 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00289"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#289"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00289] For method calculateDimension arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00294"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#294"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.golem.TilesField.calculateDimension@POLYN205419 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00294"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#294"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.golem.TilesField.calculateDimension@POLYN205419 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#295"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.golem.TilesField.calculateDimension@POLYN205419 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#295"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.golem.TilesField.calculateDimension@POLYN205419 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

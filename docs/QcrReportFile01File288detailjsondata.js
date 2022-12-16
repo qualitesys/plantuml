@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.graphic.FillAttributes" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/jcckit/graphic/FillAttributes.java.html#9"
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/jcckit/graphic/FillAttributes.java.html#33"
  , "c1" : "Color"
  , "c2" : "getFillColor()"
  , "c3" : "1"

@@ -2,11 +2,11 @@
 !pragma layout smetana
 "USymbol" <|-- "net.sourceforge.plantuml.graphic.USymbolCollections"
 class net.sourceforge.plantuml.graphic.USymbolCollections {
-+getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolCollections.java.html#14]]]
--drawCollections(UGraphic;double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolCollections.java.html#18]]]
--getMargin() : Margin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolCollections.java.html#28]]]
--getDeltaCollection() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolCollections.java.html#32]]]
-+asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolCollections.java.html#37]]]
-+asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolCollections.java.html#62]]]
++getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolCollections.java.html#48]]]
+-drawCollections(UGraphic;double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolCollections.java.html#52]]]
+-getMargin() : Margin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolCollections.java.html#62]]]
+-getDeltaCollection() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolCollections.java.html#66]]]
++asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolCollections.java.html#71]]]
++asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolCollections.java.html#96]]]
 } 
 @enduml

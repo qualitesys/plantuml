@@ -2,14 +2,14 @@
 !pragma layout smetana
 "Iterable<Slot>" <|-- "net.sourceforge.plantuml.ugraphic.comp.SlotSet"
 class net.sourceforge.plantuml.ugraphic.comp.SlotSet {
-+filter(double;double) : SlotSet [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#17]]]
-+addAll(SlotSet) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#28]]]
-+addSlot(double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#32]]]
-+smaller(double) : SlotSet [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#48]]]
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#60]]]
-+getSlots() : List<Slot> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#64]]]
-+iterator() : Iterator<Slot> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#68]]]
-+reverse() : SlotSet [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#72]]]
-+drawDebugX(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#85]]]
++filter(double;double) : SlotSet [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#51]]]
++addAll(SlotSet) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#62]]]
++addSlot(double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#66]]]
++smaller(double) : SlotSet [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#82]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#94]]]
++getSlots() : List<Slot> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#98]]]
++iterator() : Iterator<Slot> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#102]]]
++reverse() : SlotSet [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#106]]]
++drawDebugX(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotSet.java.html#119]]]
 } 
 @enduml

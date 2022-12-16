@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphic.GraphicStrings" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#78"
  , "c1" : "IEntityImage"
  , "c2" : "createForError(List<String>;boolean)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#49"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#83"
  , "c1" : "HColor"
  , "c2" : "getForeColor(boolean)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#56"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#90"
  , "c1" : "HColor"
  , "c2" : "getBackColor(boolean)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#63"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#97"
  , "c1" : "TextBlockBackcolored"
  , "c2" : "createGreenOnBlackMonospaced(List<String>)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#68"
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#102"
  , "c1" : "TextBlockBackcolored"
  , "c2" : "createBlackOnWhite(List<String>)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00072"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#72"
+ , "c5" : "00106"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#106"
  , "c1" : "TextBlockBackcolored"
  , "c2" : "createBlackOnWhiteMonospaced(List<String>)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#76"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#110"
  , "c1" : "TextBlockBackcolored"
  , "c2" : "createBlackOnWhite(List<String>;BufferedImage;GraphicPosition)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00082"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#82"
+ , "c5" : "00116"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#116"
  , "c1" : "FontConfiguration"
  , "c2" : "sansSerif12(HColor)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#86"
+ , "c5" : "00120"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#120"
  , "c1" : "FontConfiguration"
  , "c2" : "sansSerif14(HColor)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#90"
+ , "c5" : "00124"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#124"
  , "c1" : "FontConfiguration"
  , "c2" : "monospaced14(HColor)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#96"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#130"
  , "c1" : "GraphicStrings"
  , "c2" : "GraphicStrings(List<String>;FontConfiguration;HColor;BufferedImage;GraphicPosition;CreoleMode)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#107"
+ , "c5" : "00141"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#141"
  , "c1" : "TextBlock"
  , "c2" : "getTextBlock()"
  , "c3" : "3"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00117"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#117"
+ , "c5" : "00151"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#151"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "7"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00136"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#136"
+ , "c5" : "00170"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#170"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00140"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#140"
+ , "c5" : "00174"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#174"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimensionInternal(StringBounder)"
  , "c3" : "7"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00154"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#154"
+ , "c5" : "00188"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#188"
  , "c1" : "ShapeType"
  , "c2" : "getShapeType()"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00158"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#158"
+ , "c5" : "00192"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#192"
  , "c1" : "HColor"
  , "c2" : "getBackcolor()"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00162"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#162"
+ , "c5" : "00196"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#196"
  , "c1" : "Margins"
  , "c2" : "getShield(StringBounder)"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00166"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#166"
+ , "c5" : "00200"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#200"
  , "c1" : "boolean"
  , "c2" : "isHidden()"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00170"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#170"
+ , "c5" : "00204"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#204"
  , "c1" : "double"
  , "c2" : "getOverscanX(StringBounder)"
  , "c3" : "1"
@@ -253,248 +253,248 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method createForError arguments List&lt;String &gt;  strings|boolean  useRed"
+ , "c3" : "QC-JAV000006[00078] For method createForError arguments List&lt;String &gt;  strings|boolean  useRed"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.graphic.GraphicStrings.createForError@POLYN175554 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.graphic.GraphicStrings.createForError@POLYN175758 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.graphic.GraphicStrings.createForError@POLYN175554 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#49"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method getForeColor arguments boolean  useRed"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#56"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method getBackColor arguments boolean  useRed"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#63"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00063] For method createGreenOnBlackMonospaced arguments List&lt;String &gt;  strings"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.graphic.GraphicStrings.createGreenOnBlackMonospaced@POLYN176414 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.graphic.GraphicStrings.createGreenOnBlackMonospaced@POLYN176414 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#68"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00068] For method createBlackOnWhite arguments List&lt;String &gt;  strings"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.graphic.GraphicStrings.createBlackOnWhite@POLYN176755 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.graphic.GraphicStrings.createBlackOnWhite@POLYN176755 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#72"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00072] For method createBlackOnWhiteMonospaced arguments List&lt;String &gt;  strings"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.graphic.GraphicStrings.createBlackOnWhiteMonospaced@POLYN177096 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.graphic.GraphicStrings.createBlackOnWhiteMonospaced@POLYN177096 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#76"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method createBlackOnWhite arguments List&lt;String &gt;  strings|BufferedImage  image|GraphicPosition  position"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#82"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method sansSerif12 arguments HColor  color"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.graphic.GraphicStrings.createForError@POLYN175758 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.graphic.GraphicStrings.sansSerif12@POLYN177824 the MagicNumber/String  12 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#86"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00086] For method sansSerif14 arguments HColor  color"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.graphic.GraphicStrings.sansSerif14@POLYN178083 the MagicNumber/String  14 should be converted to const"
+ , "c3" : "QC-JAV000006[00083] For method getForeColor arguments boolean  useRed"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#90"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00090] For method monospaced14 arguments HColor  color"
+ , "c3" : "QC-JAV000006[00090] For method getBackColor arguments boolean  useRed"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.graphic.GraphicStrings.monospaced14@POLYN178342 the MagicNumber/String  14 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#117"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#97"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00117] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00097] For method createGreenOnBlackMonospaced arguments List&lt;String &gt;  strings"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.graphic.GraphicStrings.createGreenOnBlackMonospaced@POLYN176618 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.graphic.GraphicStrings.createGreenOnBlackMonospaced@POLYN176618 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#102"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00102] For method createBlackOnWhite arguments List&lt;String &gt;  strings"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.graphic.GraphicStrings.createBlackOnWhite@POLYN176959 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.graphic.GraphicStrings.createBlackOnWhite@POLYN176959 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#106"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00106] For method createBlackOnWhiteMonospaced arguments List&lt;String &gt;  strings"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.graphic.GraphicStrings.createBlackOnWhiteMonospaced@POLYN177300 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.graphic.GraphicStrings.createBlackOnWhiteMonospaced@POLYN177300 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#110"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00110] For method createBlackOnWhite arguments List&lt;String &gt;  strings|BufferedImage  image|GraphicPosition  position"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#116"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00116] For method sansSerif12 arguments HColor  color"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#117"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00117] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.graphic.GraphicStrings.sansSerif12@POLYN178028 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#122"
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#120"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00120] For method sansSerif14 arguments HColor  color"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.graphic.GraphicStrings.drawU@POLYN179734 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.graphic.GraphicStrings.sansSerif14@POLYN178287 the MagicNumber/String  14 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.graphic.GraphicStrings.drawU@POLYN179734 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.graphic.GraphicStrings.drawU@POLYN179734 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.graphic.GraphicStrings.drawU@POLYN179734 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#136"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00136] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00124] For method monospaced14 arguments HColor  color"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#137"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.graphic.GraphicStrings.calculateDimension@POLYN181737 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.graphic.GraphicStrings.monospaced14@POLYN178546 the MagicNumber/String  14 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#140"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#151"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00140] For method calculateDimensionInternal arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00151] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#142"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#151"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00151] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.graphic.GraphicStrings.calculateDimensionInternal@POLYN181961 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.graphic.GraphicStrings.drawU@POLYN179938 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#162"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00162] For method getShield arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#167"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.graphic.GraphicStrings.isHidden@POLYN183419 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.graphic.GraphicStrings.drawU@POLYN179938 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.graphic.GraphicStrings.drawU@POLYN179938 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.graphic.GraphicStrings.drawU@POLYN179938 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#170"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00170] For method getOverscanX arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00170] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.graphic.GraphicStrings.getOverscanX@POLYN183507 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.graphic.GraphicStrings.calculateDimension@POLYN181941 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#174"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00174] For method calculateDimensionInternal arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.graphic.GraphicStrings.calculateDimensionInternal@POLYN182165 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#196"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00196] For method getShield arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#201"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.graphic.GraphicStrings.isHidden@POLYN183623 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#204"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00204] For method getOverscanX arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#205"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.graphic.GraphicStrings.getOverscanX@POLYN183711 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

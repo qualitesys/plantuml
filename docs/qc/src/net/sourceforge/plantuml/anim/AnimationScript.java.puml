@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.anim.AnimationScript"
 class net.sourceforge.plantuml.anim.AnimationScript {
-+AnimationScript() : AnimationScript [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AnimationScript.java.html#8]]]
-+eval(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AnimationScript.java.html#28]]]
++AnimationScript() : AnimationScript [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AnimationScript.java.html#42]]]
++eval(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AnimationScript.java.html#62]]]
 } 
 @enduml

@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.zopfli.Hash"
 class net.sourceforge.plantuml.zopfli.Hash {
-+Hash() : Hash [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#29]]]
-+init(byte[];int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#32]]]
-+updateHash(byte[];int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#85]]]
++Hash() : Hash [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#45]]]
++init(byte[];int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#48]]]
++updateHash(byte[];int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#103]]]
 } 
 @enduml

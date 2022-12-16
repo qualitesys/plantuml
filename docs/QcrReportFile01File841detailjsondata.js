@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.braille.DriverPolygonBraille" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#20"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#53"
  , "c1" : "DriverPolygonBraille"
  , "c2" : "DriverPolygonBraille(ClipContainer)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#24"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#57"
  , "c1" : "void"
  , "c2" : "draw(UPolygon;double;double;ColorMapper;UParam;BrailleGrid)"
  , "c3" : "5"
@@ -91,45 +91,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#24"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method draw arguments UPolygon  shape|double  x|double  y|ColorMapper  mapper|UParam  param|BrailleGrid  grid"
+ , "c3" : "QC-JAV000006[00057] For method draw arguments UPolygon  shape|double  x|double  y|ColorMapper  mapper|UParam  param|BrailleGrid  grid"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#24"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#57"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00024] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00057] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#24"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#57"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00024] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00057] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#26"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.braille.DriverPolygonBraille.draw@POLYN151105 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.braille.DriverPolygonBraille.draw@POLYN151303 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#33"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.braille.DriverPolygonBraille.draw@POLYN151105 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.braille.DriverPolygonBraille.draw@POLYN151303 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#35"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverPolygonBraille.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.braille.DriverPolygonBraille.draw@POLYN151105 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.braille.DriverPolygonBraille.draw@POLYN151303 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

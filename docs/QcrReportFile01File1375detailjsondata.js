@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphic.TextBlockMarged" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#55"
  , "c1" : "TextBlockMarged"
  , "c2" : "TextBlockMarged(TextBlock;double;double;double;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#63"
  , "c1" : "TextBlockMarged"
  , "c2" : "TextBlockMarged(TextBlock;ClockwiseTopRightBottomLeft)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#71"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#76"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#54"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#88"
  , "c1" : "XRectangle2D"
  , "c2" : "getInnerPosition(String;StringBounder;InnerStrategy)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#64"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#98"
  , "c1" : "Ports"
  , "c2" : "getPorts(StringBounder)"
  , "c3" : "1"
@@ -127,66 +127,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#63"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument margins is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00063] The argument margins is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#71"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00071] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00076] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#76"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00042] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00076] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.graphic.TextBlockMarged.drawU@POLYN156616 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.graphic.TextBlockMarged.drawU@POLYN156820 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#54"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#88"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00054] For method getInnerPosition arguments String  member|StringBounder  stringBounder|InnerStrategy  strategy"
+ , "c3" : "QC-JAV000006[00088] For method getInnerPosition arguments String  member|StringBounder  stringBounder|InnerStrategy  strategy"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#56"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.graphic.TextBlockMarged.getInnerPosition@POLYN157247 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.graphic.TextBlockMarged.getInnerPosition@POLYN157451 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#57"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.graphic.TextBlockMarged.getInnerPosition@POLYN157247 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.graphic.TextBlockMarged.getInnerPosition@POLYN157451 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#64"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockMarged.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method getPorts arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00098] For method getPorts arguments StringBounder  stringBounder"
 }} 
 ]
 , 

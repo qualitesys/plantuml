@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.timescale.TimeScaleCompressed" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#45"
  , "c1" : "TimeScaleCompressed"
  , "c2" : "TimeScaleCompressed(Day;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#49"
  , "c1" : "double"
  , "c2" : "getStartingPosition(Day)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#53"
  , "c1" : "double"
  , "c2" : "getEndingPosition(Day)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#57"
  , "c1" : "double"
  , "c2" : "getWidth(Day)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#61"
  , "c1" : "boolean"
  , "c2" : "isBreaking(Day)"
  , "c3" : "1"
@@ -118,45 +118,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.project.timescale.TimeScaleCompressed.TimeScaleCompressed@POLYN147627 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.project.timescale.TimeScaleCompressed.TimeScaleCompressed@POLYN147831 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method getStartingPosition arguments Day  instant"
+ , "c3" : "QC-JAV000006[00049] For method getStartingPosition arguments Day  instant"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method getEndingPosition arguments Day  instant"
+ , "c3" : "QC-JAV000006[00053] For method getEndingPosition arguments Day  instant"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method getWidth arguments Day  instant"
+ , "c3" : "QC-JAV000006[00057] For method getWidth arguments Day  instant"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method isBreaking arguments Day  instant"
+ , "c3" : "QC-JAV000006[00061] For method isBreaking arguments Day  instant"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleCompressed.java.html#61"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00027] The argument instant is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00061] The argument instant is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

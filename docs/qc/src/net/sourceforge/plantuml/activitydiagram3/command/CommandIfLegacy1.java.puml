@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<ActivityDiagram3>" <|-- "net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1"
 class net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1 {
-+CommandIfLegacy1() : CommandIfLegacy1 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#16]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#20]]]
-executeArg(ActivityDiagram3;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#38]]]
++CommandIfLegacy1() : CommandIfLegacy1 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#50]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#54]]]
+executeArg(ActivityDiagram3;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#72]]]
 } 
 @enduml

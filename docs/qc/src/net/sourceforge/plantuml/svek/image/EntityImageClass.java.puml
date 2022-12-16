@@ -2,18 +2,18 @@
 !pragma layout smetana
 "AbstractEntityImageStencil" <|-- "net.sourceforge.plantuml.svek.image.EntityImageClass"
 class net.sourceforge.plantuml.svek.image.EntityImageClass {
-+EntityImageClass(ILeaf;ISkinParam;PortionShower) : EntityImageClass [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#55]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#71]]]
--getKalWidth() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#88]]]
-+getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#102]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#112]]]
--getStyle() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#129]]]
--getStyleHeader() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#136]]]
--drawInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#143]]]
-+getPorts(StringBounder) : Ports [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#210]]]
-+getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#217]]]
-+getShield(StringBounder) : Margins [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#225]]]
-+getStartingX(StringBounder;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#229]]]
-+getEndingX(StringBounder;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#233]]]
++EntityImageClass(ILeaf;ISkinParam;PortionShower) : EntityImageClass [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#89]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#105]]]
+-getKalWidth() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#122]]]
++getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#136]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#146]]]
+-getStyle() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#163]]]
+-getStyleHeader() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#170]]]
+-drawInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#177]]]
++getPorts(StringBounder) : Ports [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#244]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#251]]]
++getShield(StringBounder) : Margins [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#259]]]
++getStartingX(StringBounder;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#263]]]
++getEndingX(StringBounder;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClass.java.html#267]]]
 } 
 @enduml

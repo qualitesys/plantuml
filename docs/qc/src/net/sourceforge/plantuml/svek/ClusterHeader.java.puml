@@ -2,13 +2,13 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.svek.ClusterHeader"
 class net.sourceforge.plantuml.svek.ClusterHeader {
-+ClusterHeader(EntityImpl;ISkinParam;PortionShower;StringBounder) : ClusterHeader [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#33]]]
-+getTitleAndAttributeWidth() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#56]]]
-+getTitleAndAttributeHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#60]]]
-+getTitle() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#64]]]
-+getStereo() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#68]]]
--getTitleBlock(EntityImpl;ISkinParam) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#72]]]
--getStereoBlock(EntityImpl;ISkinParam;PortionShower) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#101]]]
--getStereoBlockWithoutLegend(EntityImpl;PortionShower;ISkinParam) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#112]]]
++ClusterHeader(EntityImpl;ISkinParam;PortionShower;StringBounder) : ClusterHeader [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#69]]]
++getTitleAndAttributeWidth() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#92]]]
++getTitleAndAttributeHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#96]]]
++getTitle() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#100]]]
++getStereo() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#104]]]
+-getTitleBlock(EntityImpl;ISkinParam) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#108]]]
+-getStereoBlock(EntityImpl;ISkinParam;PortionShower) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#137]]]
+-getStereoBlockWithoutLegend(EntityImpl;PortionShower;ISkinParam) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#148]]]
 } 
 @enduml

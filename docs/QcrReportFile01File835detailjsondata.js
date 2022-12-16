@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.braille.BrailleGrid" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#56"
  , "c1" : "BrailleGrid"
  , "c2" : "BrailleGrid(double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#60"
  , "c1" : "boolean"
  , "c2" : "getState(int;int)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#65"
  , "c1" : "void"
  , "c2" : "setStateDouble(double;double;boolean)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#69"
  , "c1" : "void"
  , "c2" : "setState(int;int;boolean)"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#82"
  , "c1" : "int"
  , "c2" : "getMinX()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#86"
  , "c1" : "int"
  , "c2" : "getMinY()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#56"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#90"
  , "c1" : "int"
  , "c2" : "getMaxX()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#60"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#94"
  , "c1" : "int"
  , "c2" : "getMaxY()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#64"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#98"
  , "c1" : "void"
  , "c2" : "rectangle(double;double;double;double)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00072"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#72"
+ , "c5" : "00106"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#106"
  , "c1" : "void"
  , "c2" : "vline(double;double;double)"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#81"
+ , "c5" : "00115"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#115"
  , "c1" : "void"
  , "c2" : "hline(double;double;double)"
  , "c3" : "2"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#90"
+ , "c5" : "00124"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#124"
  , "c1" : "int"
  , "c2" : "toInt(double)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00094"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#94"
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#128"
  , "c1" : "void"
  , "c2" : "line(double;double;double;double)"
  , "c3" : "5"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00105"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#105"
+ , "c5" : "00139"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#139"
  , "c1" : "double"
  , "c2" : "getQuanta()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#109"
+ , "c5" : "00143"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#143"
  , "c1" : "void"
  , "c2" : "drawDotPath(double;double;DotPath)"
  , "c3" : "2"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00116"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#116"
+ , "c5" : "00150"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#150"
  , "c1" : "void"
  , "c2" : "drawCubic(double;double;XCubicCurve2D)"
  , "c3" : "2"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00128"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#128"
+ , "c5" : "00162"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#162"
  , "c1" : "void"
  , "c2" : "drawPointInternal(double;double;XPoint2D)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#132"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#166"
  , "c1" : "void"
  , "c2" : "drawPolygon(List<XPoint2D>)"
  , "c3" : "2"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00140"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#140"
+ , "c5" : "00174"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#174"
  , "c1" : "void"
  , "c2" : "drawLineInternal(XPoint2D;XPoint2D)"
  , "c3" : "2"
@@ -251,262 +251,262 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method getState arguments int  x|int  y"
+ , "c3" : "QC-JAV000006[00060] For method getState arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method setStateDouble arguments double  x|double  y|boolean  state"
+ , "c3" : "QC-JAV000006[00065] For method setStateDouble arguments double  x|double  y|boolean  state"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method setState arguments int  x|int  y|boolean  state"
+ , "c3" : "QC-JAV000006[00069] For method setState arguments int  x|int  y|boolean  state"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#64"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method rectangle arguments double  x|double  y|double  width|double  height"
+ , "c3" : "QC-JAV000006[00098] For method rectangle arguments double  x|double  y|double  width|double  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#72"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#106"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00072] For method vline arguments double  x|double  y1|double  y2"
+ , "c3" : "QC-JAV000006[00106] For method vline arguments double  x|double  y1|double  y2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#77"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.braille.BrailleGrid.vline@POLYN171013 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.braille.BrailleGrid.vline@POLYN171217 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#81"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#115"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00081] For method hline arguments double  y|double  x1|double  x2"
+ , "c3" : "QC-JAV000006[00115] For method hline arguments double  y|double  x1|double  x2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#86"
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.braille.BrailleGrid.hline@POLYN171670 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.braille.BrailleGrid.hline@POLYN171874 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#90"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#124"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00090] For method toInt arguments double  value"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#94"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00094] For method line arguments double  x1|double  y1|double  x2|double  y2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.braille.BrailleGrid.line@POLYN172515 the MagicNumber/String  'warning line' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#109"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00109] For method drawDotPath arguments double  x|double  y|DotPath  shape"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#109"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00109] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#116"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00116] For method drawCubic arguments double  x|double  y|XCubicCurve2D  bez"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#116"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00116] The argument bez is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000006[00124] For method toInt arguments double  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#128"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00128] For method drawPointInternal arguments double  x|double  y|XPoint2D  pt"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#128"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00128] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.braille.BrailleGrid.drawPointInternal@POLYN174500 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#132"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00132] For method drawPolygon arguments List&lt;XPoint2D &gt;  points"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#132"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00132] The argument points is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.braille.BrailleGrid.drawPolygon@POLYN174806 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.braille.BrailleGrid.drawPolygon@POLYN174806 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000006[00128] For method line arguments double  x1|double  y1|double  x2|double  y2"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.braille.BrailleGrid.drawPolygon@POLYN174806 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.braille.BrailleGrid.line@POLYN172719 the MagicNumber/String  'warning line' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.braille.BrailleGrid.drawPolygon@POLYN174806 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.braille.BrailleGrid.drawPolygon@POLYN174806 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#140"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#143"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00140] For method drawLineInternal arguments XPoint2D  a|XPoint2D  b"
+ , "c3" : "QC-JAV000006[00143] For method drawDotPath arguments double  x|double  y|DotPath  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#141"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#143"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00143] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#150"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00150] For method drawCubic arguments double  x|double  y|XCubicCurve2D  bez"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#150"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00150] The argument bez is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#162"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00162] For method drawPointInternal arguments double  x|double  y|XPoint2D  pt"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#162"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00162] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.braille.BrailleGrid.drawLineInternal@POLYN175494 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.braille.BrailleGrid.drawPointInternal@POLYN174704 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#141"
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#166"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00166] For method drawPolygon arguments List&lt;XPoint2D &gt;  points"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#166"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00166] The argument points is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.braille.BrailleGrid.drawLineInternal@POLYN175494 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.braille.BrailleGrid.drawPolygon@POLYN175010 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#142"
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.braille.BrailleGrid.drawLineInternal@POLYN175494 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.braille.BrailleGrid.drawPolygon@POLYN175010 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#142"
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.braille.BrailleGrid.drawLineInternal@POLYN175494 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.braille.BrailleGrid.drawPolygon@POLYN175010 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#144"
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.braille.BrailleGrid.drawLineInternal@POLYN175494 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.braille.BrailleGrid.drawPolygon@POLYN175010 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#144"
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.braille.BrailleGrid.drawLineInternal@POLYN175494 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.braille.BrailleGrid.drawPolygon@POLYN175010 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#26"
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#174"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00174] For method drawLineInternal arguments XPoint2D  a|XPoint2D  b"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.braille.BrailleGrid.drawLineInternal@POLYN175698 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.braille.BrailleGrid.drawLineInternal@POLYN175698 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.braille.BrailleGrid.drawLineInternal@POLYN175698 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.braille.BrailleGrid.drawLineInternal@POLYN175698 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#178"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.braille.BrailleGrid.drawLineInternal@POLYN175698 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#178"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.braille.BrailleGrid.drawLineInternal@POLYN175698 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#60"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00026] Public method getState is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00060] Public method getState is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#64"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#98"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00064] Public method rectangle is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00098] Public method rectangle is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#94"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#128"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00094] Public method line is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00128] Public method line is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#109"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#143"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00109] Public method drawDotPath is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00143] Public method drawDotPath is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#132"
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#166"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00132] Public method drawPolygon is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00166] Public method drawPolygon is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

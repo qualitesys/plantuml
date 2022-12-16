@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<TimingDiagram>" <|-- "net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat"
 class net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat {
-+CommandUseDateFormat() : CommandUseDateFormat [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#15]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#19]]]
-executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#32]]]
++CommandUseDateFormat() : CommandUseDateFormat [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#49]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#53]]]
+executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandUseDateFormat.java.html#66]]]
 } 
 @enduml

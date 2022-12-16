@@ -2,11 +2,11 @@
 !pragma layout smetana
 "Command" <|-- "net.sourceforge.plantuml.creole.command.CommandCreoleSizeChange"
 class net.sourceforge.plantuml.creole.command.CommandCreoleSizeChange {
-+startingChars() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSizeChange.java.html#14]]]
-+create() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSizeChange.java.html#24]]]
-+createEol() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSizeChange.java.html#28]]]
--CommandCreoleSizeChange(Pattern2) : CommandCreoleSizeChange [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSizeChange.java.html#32]]]
-+matchingSize(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSizeChange.java.html#36]]]
-+executeAndGetRemaining(String;StripeSimple) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSizeChange.java.html#44]]]
++startingChars() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSizeChange.java.html#48]]]
++create() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSizeChange.java.html#58]]]
++createEol() : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSizeChange.java.html#62]]]
+-CommandCreoleSizeChange(Pattern2) : CommandCreoleSizeChange [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSizeChange.java.html#66]]]
++matchingSize(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSizeChange.java.html#70]]]
++executeAndGetRemaining(String;StripeSimple) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSizeChange.java.html#78]]]
 } 
 @enduml

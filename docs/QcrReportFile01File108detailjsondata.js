@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "gen.lib.cdt.dtsize__c" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/gen/lib/cdt/dtsize__c.java.html#22"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/gen/lib/cdt/dtsize__c.java.html#69"
  , "c1" : "int"
  , "c2" : "treecount(ST_dtlink_s)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/gen/lib/cdt/dtsize__c.java.html#36"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/gen/lib/cdt/dtsize__c.java.html#83"
  , "c1" : "int"
  , "c2" : "dtsize_(ST_dt_s)"
  , "c3" : "6"
@@ -91,143 +91,143 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#22"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method treecount arguments ST_dtlink_s  e"
+ , "c3" : "QC-JAV000006[00069] For method treecount arguments ST_dtlink_s  e"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#23"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method gen.lib.cdt.dtsize__c.treecount@POLYN161569 the MagicNumber/String  '6j49zum5hqto1t7fyrz8qjv1u' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method gen.lib.cdt.dtsize__c.treecount@POLYN161851 the MagicNumber/String  '6j49zum5hqto1t7fyrz8qjv1u' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#23"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method gen.lib.cdt.dtsize__c.treecount@POLYN161569 the MagicNumber/String  'treecount' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method gen.lib.cdt.dtsize__c.treecount@POLYN161851 the MagicNumber/String  'treecount' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#25"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method gen.lib.cdt.dtsize__c.treecount@POLYN161569 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method gen.lib.cdt.dtsize__c.treecount@POLYN161851 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#25"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method gen.lib.cdt.dtsize__c.treecount@POLYN161569 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method gen.lib.cdt.dtsize__c.treecount@POLYN161851 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#25"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method gen.lib.cdt.dtsize__c.treecount@POLYN161569 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method gen.lib.cdt.dtsize__c.treecount@POLYN161851 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#27"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method gen.lib.cdt.dtsize__c.treecount@POLYN161569 the MagicNumber/String  '6j49zum5hqto1t7fyrz8qjv1u' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method gen.lib.cdt.dtsize__c.treecount@POLYN161851 the MagicNumber/String  '6j49zum5hqto1t7fyrz8qjv1u' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#27"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method gen.lib.cdt.dtsize__c.treecount@POLYN161569 the MagicNumber/String  'treecount' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method gen.lib.cdt.dtsize__c.treecount@POLYN161851 the MagicNumber/String  'treecount' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#36"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#83"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method dtsize_ arguments ST_dt_s  dt"
+ , "c3" : "QC-JAV000006[00083] For method dtsize_ arguments ST_dt_s  dt"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#36"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#83"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument dt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00083] The argument dt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#37"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162352 the MagicNumber/String  'bci0ea1fa7egf4aads6gdgvsq' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162634 the MagicNumber/String  'bci0ea1fa7egf4aads6gdgvsq' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#37"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162352 the MagicNumber/String  'dtsize_' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162634 the MagicNumber/String  'dtsize_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#44"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162352 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162634 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#45"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162352 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162634 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#47"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162352 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162634 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#48"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162352 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162634 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#49"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162352 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162634 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#50"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162352 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162634 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#57"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162352 the MagicNumber/String  'bci0ea1fa7egf4aads6gdgvsq' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162634 the MagicNumber/String  'bci0ea1fa7egf4aads6gdgvsq' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#57"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtsize__c.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162352 the MagicNumber/String  'dtsize_' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method gen.lib.cdt.dtsize__c.dtsize_@POLYN162634 the MagicNumber/String  'dtsize_' should be converted to const"
 }} 
 ]
 , 

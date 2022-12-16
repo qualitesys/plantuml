@@ -2,9 +2,9 @@
 !pragma layout smetana
 "WriterConfig" <|-- "net.sourceforge.plantuml.json.PrettyPrint"
 class net.sourceforge.plantuml.json.PrettyPrint {
-PrettyPrint(char[]) : PrettyPrint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#117]]]
-+singleLine() : PrettyPrint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#117]]]
-+indentWithSpaces(int) : PrettyPrint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#117]]]
+PrettyPrint(char[]) : PrettyPrint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#121]]]
++singleLine() : PrettyPrint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#121]]]
++indentWithSpaces(int) : PrettyPrint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#121]]]
 +indentWithTabs() : PrettyPrint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1]]]
 createWriter(Writer) : JsonWriter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/PrettyPrint.java.html#1]]]
 } 

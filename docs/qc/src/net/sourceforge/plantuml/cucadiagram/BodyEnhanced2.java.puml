@@ -2,9 +2,9 @@
 !pragma layout smetana
 "BodyEnhancedAbstract" <|-- "net.sourceforge.plantuml.cucadiagram.BodyEnhanced2"
 class net.sourceforge.plantuml.cucadiagram.BodyEnhanced2 {
-BodyEnhanced2(Display;ISkinSimple;HorizontalAlignment;FontConfiguration;LineBreakStrategy;Style) : BodyEnhanced2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced2.java.html#26]]]
-getMarginX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced2.java.html#36]]]
-getArea(StringBounder) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced2.java.html#41]]]
--getTextBlock(Display) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced2.java.html#78]]]
+BodyEnhanced2(Display;ISkinSimple;HorizontalAlignment;FontConfiguration;LineBreakStrategy;Style) : BodyEnhanced2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced2.java.html#60]]]
+getMarginX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced2.java.html#70]]]
+getArea(StringBounder) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced2.java.html#75]]]
+-getTextBlock(Display) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced2.java.html#112]]]
 } 
 @enduml

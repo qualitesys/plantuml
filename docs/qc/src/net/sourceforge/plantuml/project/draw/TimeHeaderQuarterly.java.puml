@@ -2,17 +2,17 @@
 !pragma layout smetana
 "TimeHeaderCalendar" <|-- "net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly"
 class net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly {
-+getTimeHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#14]]]
-+getTimeFooterHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#18]]]
-+TimeHeaderQuarterly(TimeHeaderParameters) : TimeHeaderQuarterly [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#22]]]
-+drawTimeHeader(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#27]]]
-+drawTimeFooter(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#37]]]
--drawYears(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#46]]]
--drawQuarters(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#67]]]
--quarter(Day) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#88]]]
--printYear(UGraphic;MonthYear;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#92]]]
--printQuarter(UGraphic;String;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#97]]]
--printLeft(UGraphic;TextBlock;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#102]]]
-+getFullHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#107]]]
++getTimeHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#48]]]
++getTimeFooterHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#52]]]
++TimeHeaderQuarterly(TimeHeaderParameters) : TimeHeaderQuarterly [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#56]]]
++drawTimeHeader(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#61]]]
++drawTimeFooter(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#71]]]
+-drawYears(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#80]]]
+-drawQuarters(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#101]]]
+-quarter(Day) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#122]]]
+-printYear(UGraphic;MonthYear;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#126]]]
+-printQuarter(UGraphic;String;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#131]]]
+-printLeft(UGraphic;TextBlock;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#136]]]
++getFullHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderQuarterly.java.html#141]]]
 } 
 @enduml

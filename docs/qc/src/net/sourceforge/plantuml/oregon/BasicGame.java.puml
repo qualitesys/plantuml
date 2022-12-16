@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.oregon.BasicGame"
 class net.sourceforge.plantuml.oregon.BasicGame {
-run(Keyboard) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/BasicGame.java.html#6]]]
-getScreen() : Screen [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/BasicGame.java.html#8]]]
+run(Keyboard) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/BasicGame.java.html#40]]]
+getScreen() : Screen [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/BasicGame.java.html#42]]]
 } 
 @enduml

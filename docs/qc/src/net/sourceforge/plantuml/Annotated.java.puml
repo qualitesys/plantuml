@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.Annotated"
 class net.sourceforge.plantuml.Annotated {
-+getTitle() : DisplayPositionned [[[./../../../../.././qc/src/net/sourceforge/plantuml/Annotated.java.html#11]]]
-+getCaption() : DisplayPositioned [[[./../../../../.././qc/src/net/sourceforge/plantuml/Annotated.java.html#13]]]
-+getLegend() : DisplayPositioned [[[./../../../../.././qc/src/net/sourceforge/plantuml/Annotated.java.html#15]]]
-+getHeader() : DisplaySection [[[./../../../../.././qc/src/net/sourceforge/plantuml/Annotated.java.html#17]]]
-+getFooter() : DisplaySection [[[./../../../../.././qc/src/net/sourceforge/plantuml/Annotated.java.html#19]]]
-+getMainFrame() : Display [[[./../../../../.././qc/src/net/sourceforge/plantuml/Annotated.java.html#21]]]
++getTitle() : DisplayPositionned [[[./../../../../.././qc/src/net/sourceforge/plantuml/Annotated.java.html#45]]]
++getCaption() : DisplayPositioned [[[./../../../../.././qc/src/net/sourceforge/plantuml/Annotated.java.html#47]]]
++getLegend() : DisplayPositioned [[[./../../../../.././qc/src/net/sourceforge/plantuml/Annotated.java.html#49]]]
++getHeader() : DisplaySection [[[./../../../../.././qc/src/net/sourceforge/plantuml/Annotated.java.html#51]]]
++getFooter() : DisplaySection [[[./../../../../.././qc/src/net/sourceforge/plantuml/Annotated.java.html#53]]]
++getMainFrame() : Display [[[./../../../../.././qc/src/net/sourceforge/plantuml/Annotated.java.html#55]]]
 } 
 @enduml

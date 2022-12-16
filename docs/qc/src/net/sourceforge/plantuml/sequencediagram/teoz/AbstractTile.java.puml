@@ -2,11 +2,11 @@
 !pragma layout smetana
 "CommonTileTile" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.AbstractTile"
 class net.sourceforge.plantuml.sequencediagram.teoz.AbstractTile {
-+AbstractTile(StringBounder;YGauge) : AbstractTile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/AbstractTile.java.html#10]]]
-+AbstractTile(StringBounder) : AbstractTile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/AbstractTile.java.html#16]]]
-+getYGauge() : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/AbstractTile.java.html#21]]]
-+getContactPointRelative() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/AbstractTile.java.html#25]]]
-+getZZZ() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/AbstractTile.java.html#29]]]
-+matchAnchor(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/AbstractTile.java.html#35]]]
++AbstractTile(StringBounder;YGauge) : AbstractTile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/AbstractTile.java.html#44]]]
++AbstractTile(StringBounder) : AbstractTile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/AbstractTile.java.html#50]]]
++getYGauge() : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/AbstractTile.java.html#55]]]
++getContactPointRelative() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/AbstractTile.java.html#59]]]
++getZZZ() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/AbstractTile.java.html#63]]]
++matchAnchor(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/AbstractTile.java.html#69]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.zopfli.Squeeze" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00007"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#7"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#23"
  , "c1" : "LzStore"
  , "c2" : "optimal(Cookie;int;LongestMatchCache;byte[];int;int)"
  , "c3" : "5"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#52"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#68"
  , "c1" : "void"
  , "c2" : "optimalRun(Cookie;LongestMatchCache;byte[];int;int;char[];LzStore)"
  , "c3" : "8"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#87"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#103"
  , "c1" : "long"
  , "c2" : "fixedCost(int;int)"
  , "c3" : "5"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00103"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#103"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#119"
  , "c1" : "void"
  , "c2" : "bestLengths(Cookie;LongestMatchCache;int;byte[];int;int;long;SymbolStats;char[];long[])"
  , "c3" : "10"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00173"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#173"
+ , "c5" : "00189"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#189"
  , "c1" : "void"
  , "c2" : "bestFixedLengths(Cookie;LongestMatchCache;byte[];int;int;char[];long[])"
  , "c3" : "9"
@@ -118,773 +118,773 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#7"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#23"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00007] For method optimal arguments Cookie  cookie|int  numIterations|LongestMatchCache  lmc|byte[]  input|int  from|int  to"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#7"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00007] The argument cookie is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.zopfli.Squeeze.optimal@POLYN179572 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000006[00023] For method optimal arguments Cookie  cookie|int  numIterations|LongestMatchCache  lmc|byte[]  input|int  from|int  to"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00023"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.zopfli.Squeeze.optimal@POLYN179572 the MagicNumber/String  1 should be converted to const"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00023] The argument cookie is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#25"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.zopfli.Squeeze.optimal@POLYN179572 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.zopfli.Squeeze.optimal@POLYN179668 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#29"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.zopfli.Squeeze.optimal@POLYN179572 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.zopfli.Squeeze.optimal@POLYN179572 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.zopfli.Squeeze.optimal@POLYN179668 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00041"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.zopfli.Squeeze.optimal@POLYN179572 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.zopfli.Squeeze.optimal@POLYN179668 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#52"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method optimalRun arguments Cookie  cookie|LongestMatchCache  lmc|byte[]  input|int  from|int  to|char[]  lengthArray|LzStore  store"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#52"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument cookie is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#45"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.zopfli.Squeeze.optimal@POLYN179668 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#53"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.zopfli.Squeeze.optimal@POLYN179668 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#57"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.zopfli.Squeeze.optimal@POLYN179668 the MagicNumber/String  5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#68"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00068] For method optimalRun arguments Cookie  cookie|LongestMatchCache  lmc|byte[]  input|int  from|int  to|char[]  lengthArray|LzStore  store"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#68"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00053] The argument store is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00068] The argument cookie is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182754 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182754 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182754 the MagicNumber/String  0x8000 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182754 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#69"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00069] The argument store is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182754 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182850 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#73"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182754 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182754 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182754 the MagicNumber/String  0xFF should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182754 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182850 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182754 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182850 the MagicNumber/String  0x8000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#84"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182754 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#87"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00087] For method fixedCost arguments int  litLen|int  dist"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182850 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185296 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182850 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185296 the MagicNumber/String  143 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185296 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182850 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185296 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182850 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#94"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185296 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182850 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#94"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185296 the MagicNumber/String  4097 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185296 the MagicNumber/String  16385 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185296 the MagicNumber/String  8193 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185296 the MagicNumber/String  11 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185296 the MagicNumber/String  12 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185296 the MagicNumber/String  13 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182850 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185296 the MagicNumber/String  279 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182850 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#97"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185296 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.zopfli.Squeeze.optimalRun@POLYN182850 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#103"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00103] For method bestLengths arguments Cookie  cookie|LongestMatchCache  lmc|int  blockStart|byte[]  input|int  from|int  to|long  minCost|SymbolStats  stats|char[]  lengthArray|long[]  costs"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#103"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00103] The argument cookie is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000006[00103] For method fixedCost arguments int  litLen|int  dist"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#104"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00104] The argument stats is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185392 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#109"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  0x8000 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185392 the MagicNumber/String  143 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#109"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185392 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#108"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185392 the MagicNumber/String  9 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#110"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185392 the MagicNumber/String  12 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#110"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185392 the MagicNumber/String  4097 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#110"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185392 the MagicNumber/String  16385 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#110"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185392 the MagicNumber/String  8193 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#110"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185392 the MagicNumber/String  11 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#110"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185392 the MagicNumber/String  12 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#110"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185392 the MagicNumber/String  13 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185392 the MagicNumber/String  279 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.zopfli.Squeeze.fixedCost@POLYN185392 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  0L should be converted to const"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#119"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00119] For method bestLengths arguments Cookie  cookie|LongestMatchCache  lmc|int  blockStart|byte[]  input|int  from|int  to|long  minCost|SymbolStats  stats|char[]  lengthArray|long[]  costs"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#119"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00119] The argument cookie is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#120"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00120] The argument stats is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#118"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  0x8000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#118"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  259 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  258 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#132"
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  0x7FFF should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#132"
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  516 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  0L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#132"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  259 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#132"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  517 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  258 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  0x7FFF should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  258 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#135"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#135"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  259 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#142"
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  258 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#145"
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#146"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  0xFF should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#147"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  0x7FFF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#148"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  516 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#148"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  259 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#148"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  517 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#148"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  258 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#148"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  0x7FFF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#148"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  258 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  258 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#157"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  258 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  258 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  258 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186244 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  258 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#161"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#162"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  0xFF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#173"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.zopfli.Squeeze.bestLengths@POLYN186340 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#189"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00173] For method bestFixedLengths arguments Cookie  cookie|LongestMatchCache  lmc|byte[]  input|int  from|int  to|char[]  lengthArray|long[]  costs"
+ , "c3" : "QC-JAV000006[00189] For method bestFixedLengths arguments Cookie  cookie|LongestMatchCache  lmc|byte[]  input|int  from|int  to|char[]  lengthArray|long[]  costs"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00173"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#173"
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#189"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00173] The argument cookie is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00175"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#175"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  0x8000 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00175"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#175"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#178"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#179"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#179"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  0L should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00180"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#180"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00180"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#180"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#187"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  0x7FFF should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#187"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  258 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#187"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00188"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#188"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  258 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00188"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#188"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#189"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  258 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#189"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#189"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#190"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  258 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#190"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  0x7FFF should be converted to const"
+ , "c3" : "QC-JAVCWE476[00189] The argument cookie is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  0x8000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#192"
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  258 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#192"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  0L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#202"
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#196"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  0x7FFF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  258 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  258 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#204"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  258 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#205"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  258 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00206"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#206"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  0x7FFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  258 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  258 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00212"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#212"
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#213"
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191466 the MagicNumber/String  12.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  258 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#210"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  258 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#211"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  258 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#211"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  258 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00218"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#218"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  258 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00220"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#220"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#221"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  0xFF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#221"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00222"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#222"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00223"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#223"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#224"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#224"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#228"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#229"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.zopfli.Squeeze.bestFixedLengths@POLYN191562 the MagicNumber/String  12.0 should be converted to const"
 }} 
 ]
 , 

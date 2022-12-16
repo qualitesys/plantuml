@@ -2,12 +2,12 @@
 !pragma layout smetana
 "AbstractElement" <|-- "net.sourceforge.plantuml.salt.element.ElementTree"
 class net.sourceforge.plantuml.salt.element.ElementTree {
-+ElementTree(UFont;ISkinSimple;TableStrategy) : ElementTree [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTree.java.html#24]]]
-+addEntry(String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTree.java.html#30]]]
-+addCellToEntry(String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTree.java.html#40]]]
-+getPreferredDimension(StringBounder;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTree.java.html#48]]]
--getWidthOther(StringBounder) : ListWidth [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTree.java.html#63]]]
--getWidth1(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTree.java.html#72]]]
-+drawU(UGraphic;int;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTree.java.html#81]]]
++ElementTree(UFont;ISkinSimple;TableStrategy) : ElementTree [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTree.java.html#58]]]
++addEntry(String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTree.java.html#64]]]
++addCellToEntry(String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTree.java.html#74]]]
++getPreferredDimension(StringBounder;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTree.java.html#82]]]
+-getWidthOther(StringBounder) : ListWidth [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTree.java.html#97]]]
+-getWidth1(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTree.java.html#106]]]
++drawU(UGraphic;int;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTree.java.html#115]]]
 } 
 @enduml

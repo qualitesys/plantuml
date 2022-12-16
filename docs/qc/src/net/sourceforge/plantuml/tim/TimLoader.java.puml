@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.tim.TimLoader"
 class net.sourceforge.plantuml.tim.TimLoader {
-+TimLoader(ImportedFiles;Defines;Charset;DefinitionsContainer) : TimLoader [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TimLoader.java.html#22]]]
-+load(List<StringLocated>) : Set<FileWithSuffix> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TimLoader.java.html#32]]]
--changeLastLine(List<StringLocated>;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TimLoader.java.html#45]]]
-+getResultList() : List<StringLocated> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TimLoader.java.html#51]]]
-+getDebug() : List<StringLocated> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TimLoader.java.html#55]]]
-+isPreprocessorError() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TimLoader.java.html#59]]]
++TimLoader(ImportedFiles;Defines;Charset;DefinitionsContainer) : TimLoader [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TimLoader.java.html#55]]]
++load(List<StringLocated>) : Set<FileWithSuffix> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TimLoader.java.html#65]]]
+-changeLastLine(List<StringLocated>;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TimLoader.java.html#78]]]
++getResultList() : List<StringLocated> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TimLoader.java.html#84]]]
++getDebug() : List<StringLocated> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TimLoader.java.html#88]]]
++isPreprocessorError() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TimLoader.java.html#92]]]
 } 
 @enduml

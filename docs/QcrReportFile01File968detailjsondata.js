@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.command.PSystemCommandFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#59"
  , "c1" : "List<Command>"
  , "c2" : "createCommands()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#61"
  , "c1" : "AbstractPSystem"
  , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#64"
  , "c1" : "PSystemCommandFactory"
  , "c2" : "PSystemCommandFactory()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#68"
  , "c1" : "PSystemCommandFactory"
  , "c2" : "PSystemCommandFactory(DiagramType)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#39"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#73"
  , "c1" : "Diagram"
  , "c2" : "createSystem(UmlSource;Map<String,String>)"
  , "c3" : "11"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00082"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#82"
+ , "c5" : "00116"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#116"
  , "c1" : "AbstractPSystem"
  , "c2" : "executeFewLines(AbstractPSystem;UmlSource;IteratorCounter2)"
  , "c3" : "4"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00115"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#115"
+ , "c5" : "00149"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#149"
  , "c1" : "Step"
  , "c2" : "getCandidate(IteratorCounter2)"
  , "c3" : "6"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00139"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#139"
+ , "c5" : "00173"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#173"
  , "c1" : "BlocLines"
  , "c2" : "isMultilineCommandOk(IteratorCounter2;Command)"
  , "c3" : "5"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00159"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#159"
+ , "c5" : "00193"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#193"
  , "c1" : "BlocLines"
  , "c2" : "addOneSingleLineManageEmbedded2(IteratorCounter2;BlocLines)"
  , "c3" : "4"
@@ -161,332 +161,332 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
+ , "c3" : "QC-JAV000006[00061] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#73"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method createSystem arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
+ , "c3" : "QC-JAV000006[00073] For method createSystem arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#73"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00039] The argument source is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00073] The argument source is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#58"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00058] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00092] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00060] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00094] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#64"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00064] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00098] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#74"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00074] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00108] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.command.PSystemCommandFactory.createSystem@POLYN172144 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.command.PSystemCommandFactory.createSystem@POLYN172348 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#55"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.PSystemCommandFactory.createSystem@POLYN172144 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.command.PSystemCommandFactory.createSystem@POLYN172348 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#56"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.command.PSystemCommandFactory.createSystem@POLYN172144 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.command.PSystemCommandFactory.createSystem@POLYN172348 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.command.PSystemCommandFactory.createSystem@POLYN172144 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.command.PSystemCommandFactory.createSystem@POLYN172144 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.command.PSystemCommandFactory.createSystem@POLYN172144 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.PSystemCommandFactory.createSystem@POLYN172144 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#82"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method executeFewLines arguments AbstractPSystem  sys|UmlSource  source|IteratorCounter2  it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#82"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00082] The argument sys is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#82"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00082] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.command.PSystemCommandFactory.executeFewLines@POLYN174513 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.command.PSystemCommandFactory.executeFewLines@POLYN174513 the MagicNumber/String  'Syntax Error?' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.command.PSystemCommandFactory.executeFewLines@POLYN174513 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.command.PSystemCommandFactory.executeFewLines@POLYN174513 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.command.PSystemCommandFactory.executeFewLines@POLYN174513 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.command.PSystemCommandFactory.createSystem@POLYN172348 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.command.PSystemCommandFactory.executeFewLines@POLYN174513 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.command.PSystemCommandFactory.createSystem@POLYN172348 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#115"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#102"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.command.PSystemCommandFactory.createSystem@POLYN172348 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.command.PSystemCommandFactory.createSystem@POLYN172348 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#116"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00115] For method getCandidate arguments IteratorCounter2  it"
+ , "c3" : "QC-JAV000006[00116] For method executeFewLines arguments AbstractPSystem  sys|UmlSource  source|IteratorCounter2  it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#115"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#116"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00115] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00116] The argument sys is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#116"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00116] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.command.PSystemCommandFactory.executeFewLines@POLYN174717 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.command.PSystemCommandFactory.executeFewLines@POLYN174717 the MagicNumber/String  'Syntax Error?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.command.PSystemCommandFactory.executeFewLines@POLYN174717 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00121] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.command.PSystemCommandFactory.executeFewLines@POLYN174717 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#127"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00127] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.command.PSystemCommandFactory.executeFewLines@POLYN174717 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#128"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00128] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.command.PSystemCommandFactory.executeFewLines@POLYN174717 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.command.PSystemCommandFactory.getCandidate@POLYN176537 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.command.PSystemCommandFactory.getCandidate@POLYN176537 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.command.PSystemCommandFactory.getCandidate@POLYN176537 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#139"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#149"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00139] For method isMultilineCommandOk arguments IteratorCounter2  it|Command  cmd"
+ , "c3" : "QC-JAV000006[00149] For method getCandidate arguments IteratorCounter2  it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#139"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#149"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00139] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00149] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#139"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00139] The argument cmd is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#144"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00144] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00155] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#152"
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00152] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#152"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00152] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.command.PSystemCommandFactory.isMultilineCommandOk@POLYN177807 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#146"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.command.PSystemCommandFactory.isMultilineCommandOk@POLYN177807 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#153"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.command.PSystemCommandFactory.isMultilineCommandOk@POLYN177807 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#156"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.command.PSystemCommandFactory.isMultilineCommandOk@POLYN177807 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#159"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00159] For method addOneSingleLineManageEmbedded2 arguments IteratorCounter2  it|BlocLines  lines"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#159"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00159] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#159"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00159] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#164"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00164] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00161] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.command.PSystemCommandFactory.addOneSingleLineManageEmbedded2@POLYN178775 the MagicNumber/String  '{{' should be converted to const"
+ , "c3" : "QC-JAV000001[00162] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#166"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.command.PSystemCommandFactory.addOneSingleLineManageEmbedded2@POLYN178775 the MagicNumber/String  '}}' should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.command.PSystemCommandFactory.getCandidate@POLYN176741 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.command.PSystemCommandFactory.getCandidate@POLYN176741 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#170"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.command.PSystemCommandFactory.getCandidate@POLYN176741 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#173"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00173] For method isMultilineCommandOk arguments IteratorCounter2  it|Command  cmd"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#173"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00173] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#173"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00173] The argument cmd is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#178"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00178] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#186"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00186] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#186"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00186] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.command.PSystemCommandFactory.isMultilineCommandOk@POLYN178011 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#180"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.command.PSystemCommandFactory.isMultilineCommandOk@POLYN178011 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.command.PSystemCommandFactory.isMultilineCommandOk@POLYN178011 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#190"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.command.PSystemCommandFactory.isMultilineCommandOk@POLYN178011 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#193"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00193] For method addOneSingleLineManageEmbedded2 arguments IteratorCounter2  it|BlocLines  lines"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#193"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00193] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#193"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00193] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#198"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00198] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#196"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.command.PSystemCommandFactory.addOneSingleLineManageEmbedded2@POLYN178979 the MagicNumber/String  '{{' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#200"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.command.PSystemCommandFactory.addOneSingleLineManageEmbedded2@POLYN178979 the MagicNumber/String  '}}' should be converted to const"
 }} 
 ]
 , 

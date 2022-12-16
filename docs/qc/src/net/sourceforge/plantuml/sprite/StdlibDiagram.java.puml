@@ -2,13 +2,13 @@
 !pragma layout smetana
 "UmlDiagram" <|-- "net.sourceforge.plantuml.sprite.StdlibDiagram"
 class net.sourceforge.plantuml.sprite.StdlibDiagram {
-+StdlibDiagram(UmlSource;Map<String,String>) : StdlibDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#42]]]
-+getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#46]]]
-+createImageBuilder(FileFormatOption) : ImageBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#51]]]
-exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#56]]]
--getTable() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#62]]]
-+setStdlibName(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#79]]]
--drawInternal(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#83]]]
--getBlack() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#129]]]
++StdlibDiagram(UmlSource;Map<String,String>) : StdlibDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#76]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#80]]]
++createImageBuilder(FileFormatOption) : ImageBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#85]]]
+exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#90]]]
+-getTable() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#96]]]
++setStdlibName(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#113]]]
+-drawInternal(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#117]]]
+-getBlack() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#163]]]
 } 
 @enduml

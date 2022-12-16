@@ -2,12 +2,12 @@
 !pragma layout smetana
 "FtileSwitchWithDiamonds" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks"
 class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks {
-+FtileSwitchWithManyLinks(List<Ftile>;List<Branch>;Swimlane;Ftile;Ftile;StringBounder;Rainbow) : FtileSwitchWithManyLinks [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#32]]]
-getYdelta1a(StringBounder) : double [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#264]]]
-+addLinks(StringBounder) : Ftile [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#276]]]
--addIngoingArrows(List<Connection>) : void [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#283]]]
--addOutgoingArrows(StringBounder;List<Connection>) : void [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#292]]]
--getFirstOutgoingArrow(StringBounder) : int [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#309]]]
--getLastOutgoingArrow(StringBounder) : int [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#319]]]
++FtileSwitchWithManyLinks(List<Ftile>;List<Branch>;Swimlane;Ftile;Ftile;StringBounder;Rainbow) : FtileSwitchWithManyLinks [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#66]]]
+getYdelta1a(StringBounder) : double [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#298]]]
++addLinks(StringBounder) : Ftile [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#310]]]
+-addIngoingArrows(List<Connection>) : void [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#317]]]
+-addOutgoingArrows(StringBounder;List<Connection>) : void [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#326]]]
+-getFirstOutgoingArrow(StringBounder) : int [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#343]]]
+-getLastOutgoingArrow(StringBounder) : int [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#353]]]
 } 
 @enduml

@@ -2,8 +2,8 @@
 !pragma layout smetana
 "CommandMultilines<TitledDiagram>" <|-- "net.sourceforge.plantuml.command.CommandMultilinesFooter"
 class net.sourceforge.plantuml.command.CommandMultilinesFooter {
-+CommandMultilinesFooter() : CommandMultilinesFooter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesFooter.java.html#14]]]
-+getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesFooter.java.html#19]]]
-+execute(TitledDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesFooter.java.html#23]]]
++CommandMultilinesFooter() : CommandMultilinesFooter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesFooter.java.html#48]]]
++getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesFooter.java.html#53]]]
++execute(TitledDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesFooter.java.html#57]]]
 } 
 @enduml

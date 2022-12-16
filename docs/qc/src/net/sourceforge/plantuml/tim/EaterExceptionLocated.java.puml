@@ -2,9 +2,9 @@
 !pragma layout smetana
 "Exception" <|-- "net.sourceforge.plantuml.tim.EaterExceptionLocated"
 class net.sourceforge.plantuml.tim.EaterExceptionLocated {
--EaterExceptionLocated(String;StringLocated) : EaterExceptionLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.html#13]]]
-+located(String;StringLocated) : EaterExceptionLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.html#18]]]
-+getMessage() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.html#22]]]
-+getLocation() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.html#26]]]
+-EaterExceptionLocated(String;StringLocated) : EaterExceptionLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.html#46]]]
++located(String;StringLocated) : EaterExceptionLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.html#51]]]
++getMessage() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.html#55]]]
++getLocation() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterExceptionLocated.java.html#59]]]
 } 
 @enduml

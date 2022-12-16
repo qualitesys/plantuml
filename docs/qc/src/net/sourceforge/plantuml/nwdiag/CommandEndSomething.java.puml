@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<NwDiagram>" <|-- "net.sourceforge.plantuml.nwdiag.CommandEndSomething"
 class net.sourceforge.plantuml.nwdiag.CommandEndSomething {
-+CommandEndSomething() : CommandEndSomething [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.html#14]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.html#18]]]
-executeArg(NwDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.html#26]]]
++CommandEndSomething() : CommandEndSomething [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.html#48]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.html#52]]]
+executeArg(NwDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.html#60]]]
 } 
 @enduml

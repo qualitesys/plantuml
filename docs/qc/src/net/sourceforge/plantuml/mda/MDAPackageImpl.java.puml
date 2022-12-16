@@ -2,8 +2,8 @@
 !pragma layout smetana
 "MDAPackage" <|-- "net.sourceforge.plantuml.mda.MDAPackageImpl"
 class net.sourceforge.plantuml.mda.MDAPackageImpl {
-+MDAPackageImpl(IGroup) : MDAPackageImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.html#19]]]
-+getEntities() : Collection<MDAEntity> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.html#26]]]
-+getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.html#30]]]
++MDAPackageImpl(IGroup) : MDAPackageImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.html#53]]]
++getEntities() : Collection<MDAEntity> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.html#60]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.html#64]]]
 } 
 @enduml

@@ -2,17 +2,17 @@
 !pragma layout smetana
 "AbstractEventEvent" <|-- "net.sourceforge.plantuml.sequencediagram.LifeEvent"
 class net.sourceforge.plantuml.sequencediagram.LifeEvent {
-+LifeEvent(Participant;LifeEventType;SymbolContext) : LifeEvent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#12]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#19]]]
-+getParticipant() : Participant [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#23]]]
-+getType() : LifeEventType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#27]]]
-+getSpecificColors() : SymbolContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#31]]]
-+dealWith(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#35]]]
-+isActivate() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#39]]]
-+isDeactivateOrDestroy() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#43]]]
-+isDeactivate() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#47]]]
-+isDestroy(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#51]]]
-+setMessage(AbstractMessage) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#57]]]
-+getMessage() : AbstractMessage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#61]]]
++LifeEvent(Participant;LifeEventType;SymbolContext) : LifeEvent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#46]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#53]]]
++getParticipant() : Participant [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#57]]]
++getType() : LifeEventType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#61]]]
++getSpecificColors() : SymbolContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#65]]]
++dealWith(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#69]]]
++isActivate() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#73]]]
++isDeactivateOrDestroy() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#77]]]
++isDeactivate() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#81]]]
++isDestroy(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#85]]]
++setMessage(AbstractMessage) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#91]]]
++getMessage() : AbstractMessage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/LifeEvent.java.html#95]]]
 } 
 @enduml

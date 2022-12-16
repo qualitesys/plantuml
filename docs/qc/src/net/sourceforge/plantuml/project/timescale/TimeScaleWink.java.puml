@@ -2,10 +2,10 @@
 !pragma layout smetana
 "TimeScale" <|-- "net.sourceforge.plantuml.project.timescale.TimeScaleWink"
 class net.sourceforge.plantuml.project.timescale.TimeScaleWink {
-+TimeScaleWink(double;PrintScale) : TimeScaleWink [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#12]]]
-+getStartingPosition(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#17]]]
-+getEndingPosition(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#22]]]
-+getWidth(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#26]]]
-+isBreaking(Day) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#30]]]
++TimeScaleWink(double;PrintScale) : TimeScaleWink [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#46]]]
++getStartingPosition(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#51]]]
++getEndingPosition(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#56]]]
++getWidth(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#60]]]
++isBreaking(Day) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#64]]]
 } 
 @enduml

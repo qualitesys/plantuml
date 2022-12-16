@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#58"
  , "c1" : "MessageArrow"
  , "c2" : "MessageArrow(double;Rose;ArrowComponent;LivingParticipantBox;LivingParticipantBox;Url;Component)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#71"
  , "c1" : "double"
  , "c2" : "getActualWidth(StringBounder)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#43"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#77"
  , "c1" : "double"
  , "c2" : "getLeftStartInternal(StringBounder)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#82"
  , "c1" : "double"
  , "c2" : "getRightEndInternal(StringBounder)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#59"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#93"
  , "c1" : "double"
  , "c2" : "getPreferredHeight(StringBounder)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#64"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#98"
  , "c1" : "double"
  , "c2" : "getStartingX(StringBounder)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#69"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#103"
  , "c1" : "int"
  , "c2" : "getDirection(StringBounder)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#78"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#112"
  , "c1" : "LivingParticipantBox"
  , "c2" : "getParticipantAt(StringBounder;NotePosition)"
  , "c3" : "5"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#96"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#130"
  , "c1" : "double"
  , "c2" : "getPreferredWidth(StringBounder)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#101"
+ , "c5" : "00135"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#135"
  , "c1" : "void"
  , "c2" : "drawInternalU(UGraphic;double;Context2D)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#109"
+ , "c5" : "00143"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#143"
  , "c1" : "XDimension2D"
  , "c2" : "getActualDimension(StringBounder)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00115"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#115"
+ , "c5" : "00149"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#149"
  , "c1" : "double"
  , "c2" : "getArrowYStartLevel(StringBounder)"
  , "c3" : "2"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00126"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#126"
+ , "c5" : "00160"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#160"
  , "c1" : "double"
  , "c2" : "getArrowYEndLevel(StringBounder)"
  , "c3" : "2"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00136"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#136"
+ , "c5" : "00170"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#170"
  , "c1" : "double"
  , "c2" : "getMaxX(StringBounder)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00140"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#140"
+ , "c5" : "00174"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#174"
  , "c1" : "double"
  , "c2" : "getMinX(StringBounder)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00144"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#144"
+ , "c5" : "00178"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#178"
  , "c1" : "String"
  , "c2" : "toString(StringBounder)"
  , "c3" : "1"
@@ -217,178 +217,178 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#71"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method getActualWidth arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#39"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.getActualWidth@POLYN168166 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#43"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method getLeftStartInternal arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#48"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method getRightEndInternal arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.getRightEndInternal@POLYN168776 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#59"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method getPreferredHeight arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#64"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method getStartingX arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#69"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method getDirection arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00071] For method getActualWidth arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.getDirection@POLYN169747 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.getActualWidth@POLYN168370 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.getDirection@POLYN169747 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#78"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method getParticipantAt arguments StringBounder  stringBounder|NotePosition  position"
+ , "c3" : "QC-JAV000006[00077] For method getLeftStartInternal arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.getParticipantAt@POLYN170213 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.getParticipantAt@POLYN170213 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#86"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.getParticipantAt@POLYN170213 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.getParticipantAt@POLYN170213 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#96"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00096] For method getPreferredWidth arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00082] For method getRightEndInternal arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#101"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.getRightEndInternal@POLYN168980 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00101] For method drawInternalU arguments UGraphic  ug|double  maxX|Context2D  context"
+ , "c3" : "QC-JAV000006[00093] For method getPreferredHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#101"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00101] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#98"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00098] For method getStartingX arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#103"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00103] For method getDirection arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.getDirection@POLYN169951 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#109"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00109] For method getActualDimension arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#115"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00115] For method getArrowYStartLevel arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#126"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00126] For method getArrowYEndLevel arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#136"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00136] For method getMaxX arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#140"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00140] For method getMinX arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#144"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00144] For method toString arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.toString@POLYN173953 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.getDirection@POLYN169951 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#112"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00112] For method getParticipantAt arguments StringBounder  stringBounder|NotePosition  position"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.getParticipantAt@POLYN170417 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.getParticipantAt@POLYN170417 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#120"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.getParticipantAt@POLYN170417 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.getParticipantAt@POLYN170417 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#130"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00130] For method getPreferredWidth arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#135"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00135] For method drawInternalU arguments UGraphic  ug|double  maxX|Context2D  context"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#135"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00135] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#143"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00143] For method getActualDimension arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#149"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00149] For method getArrowYStartLevel arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#160"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00160] For method getArrowYEndLevel arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#170"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00170] For method getMaxX arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#174"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00174] For method getMinX arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#178"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00178] For method toString arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageArrow.java.html#179"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow.toString@POLYN174157 the MagicNumber/String  '-' should be converted to const"
 }} 
 ]
 , 

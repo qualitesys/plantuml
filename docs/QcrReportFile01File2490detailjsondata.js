@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.stdlib.Upper" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#16"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#49"
  , "c1" : "TFunctionSignature"
  , "c2" : "getSignature()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#20"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#53"
  , "c1" : "boolean"
  , "c2" : "canCover(int;Set<String>)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#24"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#57"
  , "c1" : "TValue"
  , "c2" : "executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>)"
  , "c3" : "1"
@@ -100,52 +100,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#17"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.tim.stdlib.Upper.getSignature@POLYN148583 the MagicNumber/String  '%upper' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.stdlib.Upper.getSignature@POLYN148781 the MagicNumber/String  '%upper' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#17"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.tim.stdlib.Upper.getSignature@POLYN148583 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.stdlib.Upper.getSignature@POLYN148781 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#20"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArgument"
+ , "c3" : "QC-JAV000006[00053] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArgument"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#21"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.tim.stdlib.Upper.canCover@POLYN148733 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.stdlib.Upper.canCover@POLYN148931 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#24"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  named"
+ , "c3" : "QC-JAV000006[00057] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  named"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#24"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#57"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00024] The argument values is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00057] The argument values is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#26"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Upper.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.tim.stdlib.Upper.executeReturnFunction@POLYN148911 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.tim.stdlib.Upper.executeReturnFunction@POLYN149109 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

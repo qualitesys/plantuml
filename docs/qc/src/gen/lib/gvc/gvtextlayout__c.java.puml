@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.gvc.gvtextlayout__c"
 class gen.lib.gvc.gvtextlayout__c {
-+gvtextlayout_select(ST_GVC_s) : int [[[./../../../../.././qc/src/gen/lib/gvc/gvtextlayout__c.java.html#123]]]
++gvtextlayout_select(ST_GVC_s) : int [[[./../../../../.././qc/src/gen/lib/gvc/gvtextlayout__c.java.html#167]]]
 } 
 @enduml

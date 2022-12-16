@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.Pushable"
 class net.sourceforge.plantuml.sequencediagram.graphic.Pushable {
-getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Pushable.java.html#10]]]
-getCenterX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Pushable.java.html#12]]]
-pushToLeft(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Pushable.java.html#14]]]
-+getDelays(StringBounder) : Collection<Segment> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Pushable.java.html#16]]]
+getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Pushable.java.html#44]]]
+getCenterX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Pushable.java.html#46]]]
+pushToLeft(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Pushable.java.html#48]]]
++getDelays(StringBounder) : Collection<Segment> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Pushable.java.html#50]]]
 } 
 @enduml

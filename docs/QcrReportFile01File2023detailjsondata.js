@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelfNoteRight" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#62"
  , "c1" : "Event"
  , "c2" : "getEvent()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#67"
  , "c1" : "double"
  , "c2" : "getContactPointRelative()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#71"
  , "c1" : "CommunicationTileSelfNoteRight"
  , "c2" : "CommunicationTileSelfNoteRight(CommunicationTileSelf;Message;Rose;ISkinParam;Note;YGauge)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#49"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#83"
  , "c1" : "YGauge"
  , "c2" : "getYGauge()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#89"
  , "c1" : "void"
  , "c2" : "callbackY_internal(TimeHook)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#60"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#94"
  , "c1" : "Component"
  , "c2" : "getComponent(StringBounder)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#67"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#101"
  , "c1" : "Real"
  , "c2" : "getNotePosition(StringBounder)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#105"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#85"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#119"
  , "c1" : "double"
  , "c2" : "getPreferredHeight()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#91"
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#125"
  , "c1" : "void"
  , "c2" : "addConstraints()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#95"
+ , "c5" : "00129"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#129"
  , "c1" : "Real"
  , "c2" : "getMinX()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00099"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#99"
+ , "c5" : "00133"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#133"
  , "c1" : "Real"
  , "c2" : "getMaxX()"
  , "c3" : "1"
@@ -174,45 +174,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#72"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00038] The argument currentY is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00072] The argument currentY is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#55"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#89"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method callbackY_internal arguments TimeHook  y"
+ , "c3" : "QC-JAV000006[00089] For method callbackY_internal arguments TimeHook  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#94"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method getComponent arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00094] For method getComponent arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#67"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#101"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00067] For method getNotePosition arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00101] For method getNotePosition arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#71"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#105"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00105] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#71"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelfNoteRight.java.html#105"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00071] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00105] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

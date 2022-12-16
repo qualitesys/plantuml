@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#38"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#72"
  , "c1" : "DescriptionDiagram"
  , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#43"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#77"
  , "c1" : "List<Command>"
  , "c2" : "createCommands()"
  , "c3" : "1"
@@ -84,122 +84,122 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#38"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN164939 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN164939 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN164939 the MagicNumber/String  'desc' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN164939 the MagicNumber/String  'ENTITY' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN164939 the MagicNumber/String  '[%pLN_.]+' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN164939 the MagicNumber/String  '\\(\\)[%s]*[%pLN_.]+' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN164939 the MagicNumber/String  '\\(\\)[%s]*[%g][^%g]+[%g]' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN164939 the MagicNumber/String  '\\[[^\\]*]+[^\\]]*\\]' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN164939 the MagicNumber/String  '\\((?!\\*\\))[^\\)]+\\)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN164939 the MagicNumber/String  ':[^:]+:' should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00072] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#73"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN164939 the MagicNumber/String  '[%g][^%g]+[%g]' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN165143 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#80"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN164939 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN165143 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#81"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN164939 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN165143 the MagicNumber/String  'desc' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#83"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN164939 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN165143 the MagicNumber/String  'ENTITY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#84"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN164939 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN165143 the MagicNumber/String  '[%pLN_.]+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#85"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN164939 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN165143 the MagicNumber/String  '\\(\\)[%s]*[%pLN_.]+' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN165143 the MagicNumber/String  '\\(\\)[%s]*[%g][^%g]+[%g]' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#104"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN165143 the MagicNumber/String  '\\[[^\\]*]+[^\\]]*\\]' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN165143 the MagicNumber/String  '\\((?!\\*\\))[^\\)]+\\)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN165143 the MagicNumber/String  ':[^:]+:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN165143 the MagicNumber/String  '[%g][^%g]+[%g]' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN165143 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#115"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN165143 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN165143 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN165143 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagramFactory.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory.createCommands@POLYN165143 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

@@ -2,10 +2,10 @@
 !pragma layout smetana
 "Eater" <|-- "net.sourceforge.plantuml.tim.EaterFunctionCall"
 class net.sourceforge.plantuml.tim.EaterFunctionCall {
-+EaterFunctionCall(StringLocated;boolean;boolean) : EaterFunctionCall [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterFunctionCall.java.html#21]]]
-+analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterFunctionCall.java.html#28]]]
-+getValues() : List<TValue> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterFunctionCall.java.html#92]]]
-+getNamedArguments() : Map<String,TValue> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterFunctionCall.java.html#96]]]
-+getEndOfLine() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterFunctionCall.java.html#100]]]
++EaterFunctionCall(StringLocated;boolean;boolean) : EaterFunctionCall [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterFunctionCall.java.html#54]]]
++analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterFunctionCall.java.html#61]]]
++getValues() : List<TValue> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterFunctionCall.java.html#125]]]
++getNamedArguments() : Map<String,TValue> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterFunctionCall.java.html#129]]]
++getEndOfLine() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterFunctionCall.java.html#133]]]
 } 
 @enduml

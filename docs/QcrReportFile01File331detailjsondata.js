@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.TicLabelMap" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/jcckit/plot/TicLabelMap.java.html#48"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/jcckit/plot/TicLabelMap.java.html#107"
  , "c1" : "TicLabelMap"
  , "c2" : "TicLabelMap(ConfigParameters)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/jcckit/plot/TicLabelMap.java.html#64"
+ , "c5" : "00126"
+ , "c5link" : "././qc/src/jcckit/plot/TicLabelMap.java.html#126"
  , "c1" : "String"
  , "c2" : "form(double)"
  , "c3" : "3"
@@ -105,178 +105,178 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#17"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#67"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00017] The argument item is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00067] The argument item is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#18"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169428 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169800 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#19"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169428 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169800 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#22"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169428 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169800 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#23"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169428 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169800 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#24"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169428 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169800 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#25"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169428 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169800 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#27"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169428 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169800 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#27"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169428 the MagicNumber/String  1.000001d should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169800 the MagicNumber/String  1.000001d should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#28"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169428 the MagicNumber/String  0.999999d should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169800 the MagicNumber/String  0.999999d should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#35"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169428 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169800 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#36"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169428 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN169800 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#40"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#90"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method isInside arguments double  value"
+ , "c3" : "QC-JAV000006[00090] For method isInside arguments double  value"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#40"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#90"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00040] Public method isInside is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00090] Public method isInside is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#48"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#107"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00048] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00107] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#53"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00053] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00112] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#56"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00056] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00115] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#49"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN171730 the MagicNumber/String  ';' should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN172102 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#51"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN171730 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN172102 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#57"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN171730 the MagicNumber/String  'Item '' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN172102 the MagicNumber/String  'Item '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#57"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN171730 the MagicNumber/String  '' of ' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN172102 the MagicNumber/String  '' of ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#58"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN171730 the MagicNumber/String  ' has an invalid number.' should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN172102 the MagicNumber/String  ' has an invalid number.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#64"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#126"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method form arguments double  ticValue"
+ , "c3" : "QC-JAV000006[00126] For method form arguments double  ticValue"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#65"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method jcckit.plot.TicLabelMap.form@POLYN172801 the MagicNumber/String  '?' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method jcckit.plot.TicLabelMap.form@POLYN173173 the MagicNumber/String  '?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#66"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method jcckit.plot.TicLabelMap.form@POLYN172801 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method jcckit.plot.TicLabelMap.form@POLYN173173 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

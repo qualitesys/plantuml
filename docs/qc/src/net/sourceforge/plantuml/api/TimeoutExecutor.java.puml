@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.api.TimeoutExecutor"
 class net.sourceforge.plantuml.api.TimeoutExecutor {
-+TimeoutExecutor(long) : TimeoutExecutor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/TimeoutExecutor.java.html#12]]]
-+executeNow(MyRunnable) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/TimeoutExecutor.java.html#16]]]
++TimeoutExecutor(long) : TimeoutExecutor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/TimeoutExecutor.java.html#46]]]
++executeNow(MyRunnable) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/TimeoutExecutor.java.html#50]]]
 } 
 @enduml

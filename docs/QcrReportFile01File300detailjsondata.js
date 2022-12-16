@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.graphic.Rectangle" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/jcckit/graphic/Rectangle.java.html#11"
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/jcckit/graphic/Rectangle.java.html#38"
  , "c1" : "Rectangle"
  , "c2" : "Rectangle(GraphPoint;double;double;GraphicAttributes)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/jcckit/graphic/Rectangle.java.html#20"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/jcckit/graphic/Rectangle.java.html#47"
  , "c1" : "GraphPoint"
  , "c2" : "getCenter()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/jcckit/graphic/Rectangle.java.html#25"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/jcckit/graphic/Rectangle.java.html#52"
  , "c1" : "double"
  , "c2" : "getWidth()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/jcckit/graphic/Rectangle.java.html#30"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/jcckit/graphic/Rectangle.java.html#57"
  , "c1" : "double"
  , "c2" : "getHeight()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/jcckit/graphic/Rectangle.java.html#35"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/jcckit/graphic/Rectangle.java.html#67"
  , "c1" : "void"
  , "c2" : "renderWith(Renderer)"
  , "c3" : "3"
@@ -111,17 +111,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/jcckit/graphic/Rectangle.java.html#35"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/jcckit/graphic/Rectangle.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method renderWith arguments Renderer  renderer"
+ , "c3" : "QC-JAV000006[00067] For method renderWith arguments Renderer  renderer"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/jcckit/graphic/Rectangle.java.html#40"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/jcckit/graphic/Rectangle.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method jcckit.graphic.Rectangle.renderWith@POLYN148267 the MagicNumber/String  ' does not implements RectangleRenderer.' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method jcckit.graphic.Rectangle.renderWith@POLYN148459 the MagicNumber/String  ' does not implements RectangleRenderer.' should be converted to const"
 }} 
 ]
 , 

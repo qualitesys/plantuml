@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.nwdiag.next.NStage" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#8"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#41"
  , "c1" : "NStage"
  , "c2" : "NStage(int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#13"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#46"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#18"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#51"
  , "c1" : "int"
  , "c2" : "compareTo(NStage)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#22"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#55"
  , "c1" : "int"
  , "c2" : "getNumber()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#26"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#59"
  , "c1" : "NStage"
  , "c2" : "getMin(NStage;NStage)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#33"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#66"
  , "c1" : "NStage"
  , "c2" : "getMax(NStage;NStage)"
  , "c3" : "2"
@@ -127,66 +127,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#14"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.nwdiag.next.NStage.toString@POLYN147727 the MagicNumber/String  'S' should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.nwdiag.next.NStage.toString@POLYN147925 the MagicNumber/String  'S' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#18"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#51"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method compareTo arguments NStage  other"
+ , "c3" : "QC-JAV000006[00051] For method compareTo arguments NStage  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#18"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#51"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00018] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00051] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#26"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method getMin arguments NStage  stage1|NStage  stage2"
+ , "c3" : "QC-JAV000006[00059] For method getMin arguments NStage  stage1|NStage  stage2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#26"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#59"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00026] The argument stage1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00059] The argument stage1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#26"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#59"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00026] The argument stage2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00059] The argument stage2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#33"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method getMax arguments NStage  stage1|NStage  stage2"
+ , "c3" : "QC-JAV000006[00066] For method getMax arguments NStage  stage1|NStage  stage2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#33"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#66"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument stage1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00066] The argument stage1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#33"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#66"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument stage2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00066] The argument stage2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

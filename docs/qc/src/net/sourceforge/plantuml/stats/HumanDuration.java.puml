@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.stats.HumanDuration"
 class net.sourceforge.plantuml.stats.HumanDuration {
-+HumanDuration(long) : HumanDuration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HumanDuration.java.html#8]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HumanDuration.java.html#13]]]
++HumanDuration(long) : HumanDuration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HumanDuration.java.html#42]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HumanDuration.java.html#47]]]
 } 
 @enduml

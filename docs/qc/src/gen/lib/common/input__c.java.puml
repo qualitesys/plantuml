@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.common.input__c"
 class gen.lib.common.input__c {
-+getdoubles2ptf(ST_Agraph_s;CString;ST_pointf) : boolean [[[./../../../../.././qc/src/gen/lib/common/input__c.java.html#79]]]
-+findCharset(ST_Agraph_s) : int [[[./../../../../.././qc/src/gen/lib/common/input__c.java.html#115]]]
-+setRatio(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/common/input__c.java.html#129]]]
-+graph_init(ST_Agraph_s;boolean) : void [[[./../../../../.././qc/src/gen/lib/common/input__c.java.html#178]]]
-+do_graph_label(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/common/input__c.java.html#373]]]
++getdoubles2ptf(ST_Agraph_s;CString;ST_pointf) : boolean [[[./../../../../.././qc/src/gen/lib/common/input__c.java.html#127]]]
++findCharset(ST_Agraph_s) : int [[[./../../../../.././qc/src/gen/lib/common/input__c.java.html#163]]]
++setRatio(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/common/input__c.java.html#179]]]
++graph_init(ST_Agraph_s;boolean) : void [[[./../../../../.././qc/src/gen/lib/common/input__c.java.html#228]]]
++do_graph_label(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/common/input__c.java.html#432]]]
 } 
 @enduml

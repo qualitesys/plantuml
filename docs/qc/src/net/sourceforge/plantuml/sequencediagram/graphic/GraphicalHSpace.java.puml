@@ -2,10 +2,10 @@
 !pragma layout smetana
 "GraphicalElement" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.GraphicalHSpace"
 class net.sourceforge.plantuml.sequencediagram.graphic.GraphicalHSpace {
-+GraphicalHSpace(double;int) : GraphicalHSpace [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalHSpace.java.html#12]]]
-drawInternalU(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalHSpace.java.html#18]]]
-+getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalHSpace.java.html#22]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalHSpace.java.html#27]]]
-+getStartingX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalHSpace.java.html#32]]]
++GraphicalHSpace(double;int) : GraphicalHSpace [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalHSpace.java.html#46]]]
+drawInternalU(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalHSpace.java.html#52]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalHSpace.java.html#56]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalHSpace.java.html#61]]]
++getStartingX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalHSpace.java.html#66]]]
 } 
 @enduml

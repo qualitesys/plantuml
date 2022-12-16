@@ -2,6 +2,6 @@
 !pragma layout smetana
 "TextBlock" <|-- "net.sourceforge.plantuml.graphic.Line"
 class net.sourceforge.plantuml.graphic.Line {
-getHorizontalAlignment() : HorizontalAlignment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Line.java.html#6]]]
+getHorizontalAlignment() : HorizontalAlignment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Line.java.html#40]]]
 } 
 @enduml

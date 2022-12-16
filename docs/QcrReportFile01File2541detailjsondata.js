@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#23"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#56"
  , "c1" : "PlayerFrame"
  , "c2" : "PlayerFrame(TextBlock;ISkinParam)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#28"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#61"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "getStyleSignature()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#32"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#65"
  , "c1" : "HColor"
  , "c2" : "getLineColor()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#37"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#70"
  , "c1" : "UStroke"
  , "c2" : "getUStroke()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#42"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#75"
  , "c1" : "void"
  , "c2" : "drawFrameTitle(UGraphic)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#51"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#84"
  , "c1" : "void"
  , "c2" : "drawLine(UGraphic;double...)"
  , "c3" : "2"
@@ -127,101 +127,101 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#42"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#75"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method drawFrameTitle arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00075] For method drawFrameTitle arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#42"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#75"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00042] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00075] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#46"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawFrameTitle@POLYN157778 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawFrameTitle@POLYN157976 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#47"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawFrameTitle@POLYN157778 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawFrameTitle@POLYN157976 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#48"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawFrameTitle@POLYN157778 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawFrameTitle@POLYN157976 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#48"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawFrameTitle@POLYN157778 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawFrameTitle@POLYN157976 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#51"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method drawLine arguments UGraphic  ug|double  ...coord"
+ , "c3" : "QC-JAV000006[00084] For method drawLine arguments UGraphic  ug|double  ...coord"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#51"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#84"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00051] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00084] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#52"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawLine@POLYN158692 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawLine@POLYN158890 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#52"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawLine@POLYN158692 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawLine@POLYN158890 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#52"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawLine@POLYN158692 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawLine@POLYN158890 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#54"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawLine@POLYN158692 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawLine@POLYN158890 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#55"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawLine@POLYN158692 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawLine@POLYN158890 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#56"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PlayerFrame.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawLine@POLYN158692 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame.drawLine@POLYN158890 the MagicNumber/String  3 should be converted to const"
 }} 
 ]
 , 

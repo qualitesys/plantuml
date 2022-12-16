@@ -2,8 +2,8 @@
 !pragma layout smetana
 "Subject" <|-- "net.sourceforge.plantuml.project.lang.SubjectDayOfWeek"
 class net.sourceforge.plantuml.project.lang.SubjectDayOfWeek {
-+toRegex() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayOfWeek.java.html#18]]]
-+getMe(GanttDiagram;RegexResult) : Failable<?extendsObject> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayOfWeek.java.html#22]]]
-+getSentences() : Collection<?extendsSentenceSimple> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayOfWeek.java.html#27]]]
++toRegex() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayOfWeek.java.html#52]]]
++getMe(GanttDiagram;RegexResult) : Failable<?extendsObject> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayOfWeek.java.html#56]]]
++getSentences() : Collection<?extendsSentenceSimple> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectDayOfWeek.java.html#61]]]
 } 
 @enduml

@@ -2,16 +2,16 @@
 !pragma layout smetana
 "MutableImage" <|-- "net.sourceforge.plantuml.ugraphic.PixelImage"
 class net.sourceforge.plantuml.ugraphic.PixelImage {
-+PixelImage(BufferedImage;AffineTransformType) : PixelImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#19]]]
--PixelImage(BufferedImage;AffineTransformType;double) : PixelImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#23]]]
-+withScale(double) : MutableImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#30]]]
-+getImage() : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#35]]]
-+monochrome() : MutableImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#52]]]
-+muteColor(Color) : MutableImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#68]]]
-+muteTransparentColor(Color) : MutableImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#87]]]
--getDarkerRgb() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#104]]]
--getRgb(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#128]]]
--getA(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#132]]]
--deepCopy() : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#138]]]
++PixelImage(BufferedImage;AffineTransformType) : PixelImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#53]]]
+-PixelImage(BufferedImage;AffineTransformType;double) : PixelImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#57]]]
++withScale(double) : MutableImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#64]]]
++getImage() : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#69]]]
++monochrome() : MutableImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#86]]]
++muteColor(Color) : MutableImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#102]]]
++muteTransparentColor(Color) : MutableImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#121]]]
+-getDarkerRgb() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#138]]]
+-getRgb(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#162]]]
+-getA(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#166]]]
+-deepCopy() : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/PixelImage.java.html#172]]]
 } 
 @enduml

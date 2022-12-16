@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.UGraphicFilter" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#45"
  , "c1" : "UGraphic"
  , "c2" : "apply(UChange)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#51"
  , "c1" : "UGraphicFilter"
  , "c2" : "UGraphicFilter(UGraphic;Class<?extendsUShape>...)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#56"
  , "c1" : "void"
  , "c2" : "draw(UShape)"
  , "c3" : "2"
@@ -93,24 +93,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#45"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00011] For method apply arguments UChange  translate"
+ , "c3" : "QC-JAV000006[00045] For method apply arguments UChange  translate"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method draw arguments UShape  shape"
+ , "c3" : "QC-JAV000006[00056] For method draw arguments UShape  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00022] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00056] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

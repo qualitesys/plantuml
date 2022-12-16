@@ -2,13 +2,13 @@
 !pragma layout smetana
 "UDrawable" <|-- "net.sourceforge.plantuml.ebnf.CornerCurved"
 class net.sourceforge.plantuml.ebnf.CornerCurved {
--CornerCurved(CornerType;double;boolean) : CornerCurved [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#20]]]
-+createSW(double) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#28]]]
-+createSE(double) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#32]]]
-+createNE(double) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#36]]]
-+createNE_arrow(double) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#40]]]
-+createNW(double) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#44]]]
-+createNW_arrow(double) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#48]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#53]]]
+-CornerCurved(CornerType;double;boolean) : CornerCurved [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#54]]]
++createSW(double) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#62]]]
++createSE(double) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#66]]]
++createNE(double) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#70]]]
++createNE_arrow(double) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#74]]]
++createNW(double) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#78]]]
++createNW_arrow(double) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#82]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#87]]]
 } 
 @enduml

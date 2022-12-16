@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "h.ST_cinfo_t" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/h/ST_cinfo_t.java.html#17"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/h/ST_cinfo_t.java.html#61"
  , "c1" : "void"
  , "c2" : "___(__struct__)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/h/ST_cinfo_t.java.html#25"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/h/ST_cinfo_t.java.html#69"
  , "c1" : "ST_cinfo_t"
  , "c2" : "copy()"
  , "c3" : "1"
@@ -84,17 +84,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/h/ST_cinfo_t.java.html#11"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/h/ST_cinfo_t.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00011] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00055] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/h/ST_cinfo_t.java.html#17"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/h/ST_cinfo_t.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method ___ arguments __struct__  value"
+ , "c3" : "QC-JAV000006[00061] For method ___ arguments __struct__  value"
 }} 
 ]
 , 

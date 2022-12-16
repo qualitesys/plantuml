@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.stats.StatsUtilsIncrement" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#64"
  , "c1" : "void"
  , "c2" : "onceMoreParse(long;Class<?extendsDiagram>)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#46"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#80"
  , "c1" : "void"
  , "c2" : "onceMoreGenerate(long;Class<?extendsDiagram>;FileFormat)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#68"
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#102"
  , "c1" : "ParsedGenerated"
  , "c2" : "getByTypeCurrent(Class<?extendsDiagram>)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#78"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#112"
  , "c1" : "ParsedGenerated"
  , "c2" : "getByTypeEver(Class<?extendsDiagram>)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#88"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#122"
  , "c1" : "String"
  , "c2" : "name(Class<?extendsDiagram>)"
  , "c3" : "11"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00127"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#127"
+ , "c5" : "00161"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#161"
  , "c1" : "void"
  , "c2" : "realTimeExport()"
  , "c3" : "4"
@@ -127,213 +127,213 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method onceMoreParse arguments long  duration|Class&lt;?  extends Diagram &gt;  type"
+ , "c3" : "QC-JAV000006[00064] For method onceMoreParse arguments long  duration|Class&lt;?  extends Diagram &gt;  type"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreParse@POLYN169726 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreParse@POLYN169930 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreParse@POLYN169726 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreParse@POLYN169930 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method onceMoreGenerate arguments long  duration|Class&lt;?  extends Diagram &gt;  type|FileFormat  fileFormat"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreGenerate@POLYN170873 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreGenerate@POLYN170873 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreGenerate@POLYN170873 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreGenerate@POLYN170873 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#68"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00068] For method getByTypeCurrent arguments Class&lt;?  extends Diagram &gt;  type"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.getByTypeCurrent@POLYN172468 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#78"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method getByTypeEver arguments Class&lt;?  extends Diagram &gt;  type"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#78"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00078] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000006[00080] For method onceMoreGenerate arguments long  duration|Class&lt;?  extends Diagram &gt;  type|FileFormat  fileFormat"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.getByTypeEver@POLYN173075 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreGenerate@POLYN171077 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#82"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.getByTypeEver@POLYN173075 the MagicNumber/String  'type.' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreGenerate@POLYN171077 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#88"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method name arguments Class&lt;?  extends Diagram &gt;  type"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#88"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00088] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#90"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Error' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreGenerate@POLYN171077 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#93"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'ActivityDiagramBeta' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Salt' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'PSystemSudoku' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Sudoku' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.onceMoreGenerate@POLYN171077 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Dot' should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00102] For method getByTypeCurrent arguments Class&lt;?  extends Diagram &gt;  type"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Welcome' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.getByTypeCurrent@POLYN172672 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#107"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'PSystemDitaa' should be converted to const"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#112"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00112] For method getByTypeEver arguments Class&lt;?  extends Diagram &gt;  type"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Ditaa' should be converted to const"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#112"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00112] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#110"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'PSystemJcckit' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.getByTypeEver@POLYN173279 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#111"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Jcckit' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.getByTypeEver@POLYN173279 the MagicNumber/String  'type.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Math' should be converted to const"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#122"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00122] For method name arguments Class&lt;?  extends Diagram &gt;  type"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Diagram' should be converted to const"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#122"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00122] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#120"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173747 the MagicNumber/String  'Other' should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173951 the MagicNumber/String  'Error' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#127"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173951 the MagicNumber/String  'ActivityDiagramBeta' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173951 the MagicNumber/String  'Salt' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#132"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173951 the MagicNumber/String  'PSystemSudoku' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173951 the MagicNumber/String  'Sudoku' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#136"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173951 the MagicNumber/String  'Dot' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#139"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173951 the MagicNumber/String  'Welcome' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#141"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173951 the MagicNumber/String  'PSystemDitaa' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#142"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173951 the MagicNumber/String  'Ditaa' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#144"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173951 the MagicNumber/String  'PSystemJcckit' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#145"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173951 the MagicNumber/String  'Jcckit' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#148"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173951 the MagicNumber/String  'Math' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173951 the MagicNumber/String  'Diagram' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#154"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.stats.StatsUtilsIncrement.name@POLYN173951 the MagicNumber/String  'Other' should be converted to const"
 }} 
 ]
 , 

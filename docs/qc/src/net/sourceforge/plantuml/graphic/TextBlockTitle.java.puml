@@ -2,10 +2,10 @@
 !pragma layout smetana
 "TextBlock" <|-- "net.sourceforge.plantuml.graphic.TextBlockTitle"
 class net.sourceforge.plantuml.graphic.TextBlockTitle {
-TextBlockTitle(FontConfiguration;Display;ISkinSimple) : TextBlockTitle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockTitle.java.html#20]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockTitle.java.html#29]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockTitle.java.html#33]]]
-+getMinMax(StringBounder) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockTitle.java.html#40]]]
-+getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockTitle.java.html#44]]]
+TextBlockTitle(FontConfiguration;Display;ISkinSimple) : TextBlockTitle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockTitle.java.html#54]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockTitle.java.html#63]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockTitle.java.html#67]]]
++getMinMax(StringBounder) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockTitle.java.html#74]]]
++getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockTitle.java.html#78]]]
 } 
 @enduml

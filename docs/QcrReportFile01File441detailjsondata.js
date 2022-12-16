@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.SourceFileReaderAbstract" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#45"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#79"
  , "c1" : "SuggestedFile"
  , "c2" : "getSuggestedFile(File;String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#50"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#84"
  , "c1" : "SourceFileReaderAbstract"
  , "c2" : "SourceFileReaderAbstract(File;FileFormatOption;Defines;List<String>;String)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#63"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#97"
  , "c1" : "FileFormatOption"
  , "c2" : "getFileFormatOption()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#67"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#101"
  , "c1" : "void"
  , "c2" : "setCheckMetadata(boolean)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#105"
  , "c1" : "boolean"
  , "c2" : "hasError()"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#78"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#112"
  , "c1" : "List<BlockUml>"
  , "c2" : "getBlocks()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00082"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#82"
+ , "c5" : "00116"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#116"
  , "c1" : "Reader"
  , "c2" : "getReader(Charset)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#86"
+ , "c5" : "00120"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#120"
  , "c1" : "Set<FileWithSuffix>"
  , "c2" : "getIncludedFiles()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#91"
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#125"
  , "c1" : "ISourceFileReader"
  , "c2" : "setFileFormatOption(FileFormatOption)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#96"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#130"
  , "c1" : "boolean"
  , "c2" : "endsWithSlashOrAntislash(String)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00100"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#100"
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#134"
  , "c1" : "List<GeneratedImage>"
  , "c2" : "getCrashedImage(BlockUml;Throwable;SFile)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#109"
+ , "c5" : "00143"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#143"
  , "c1" : "void"
  , "c2" : "exportWarnOrErrIfWord(SFile;Diagram)"
  , "c3" : "3"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00122"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#122"
+ , "c5" : "00156"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#156"
  , "c1" : "List<GeneratedImage>"
  , "c2" : "getGeneratedImages()"
  , "c3" : "8"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00172"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#172"
+ , "c5" : "00206"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#206"
  , "c1" : "SuggestedFile"
  , "c2" : "getSuggestedFile(BlockUml)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00174"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#174"
+ , "c5" : "00208"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#208"
  , "c1" : "void"
  , "c2" : "setNoerror(boolean)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00179"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#179"
+ , "c5" : "00213"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#213"
  , "c1" : "String"
  , "c2" : "getFileName()"
  , "c3" : "1"
@@ -224,374 +224,374 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#79"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method getSuggestedFile arguments File  outputDirectory|String  newName"
+ , "c3" : "QC-JAV000006[00079] For method getSuggestedFile arguments File  outputDirectory|String  newName"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#50"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#84"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00050] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00084] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#53"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.SourceFileReaderAbstract.SourceFileReaderAbstract@POLYN174718 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#67"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00067] For method setCheckMetadata arguments boolean  checkMetadata"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00073] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.SourceFileReaderAbstract.hasError@POLYN175854 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.SourceFileReaderAbstract.hasError@POLYN175854 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#82"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method getReader arguments Charset  charset"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#91"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00091] For method setFileFormatOption arguments FileFormatOption  fileFormatOption"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#96"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00096] For method endsWithSlashOrAntislash arguments String  newName"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#96"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00096] The argument newName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.SourceFileReaderAbstract.endsWithSlashOrAntislash@POLYN176855 the MagicNumber/String  '/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.SourceFileReaderAbstract.endsWithSlashOrAntislash@POLYN176855 the MagicNumber/String  '\\' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#100"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00100] For method getCrashedImage arguments BlockUml  blockUml|Throwable  t|SFile  outputFile"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#100"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00100] The argument blockUml is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#100"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00100] The argument outputFile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.SourceFileReaderAbstract.SourceFileReaderAbstract@POLYN174922 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getCrashedImage@POLYN177088 the MagicNumber/String  'Crash Error' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getCrashedImage@POLYN177088 the MagicNumber/String  42 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getCrashedImage@POLYN177088 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#109"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00109] For method exportWarnOrErrIfWord arguments SFile  f|Diagram  system"
+ , "c3" : "QC-JAV000006[00101] For method setCheckMetadata arguments boolean  checkMetadata"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00107] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#108"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.SourceFileReaderAbstract.hasError@POLYN176058 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#109"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.SourceFileReaderAbstract.hasError@POLYN176058 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#116"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00116] For method getReader arguments Charset  charset"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#125"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00125] For method setFileFormatOption arguments FileFormatOption  fileFormatOption"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#130"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00130] For method endsWithSlashOrAntislash arguments String  newName"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#130"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00109] The argument system is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN177868 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#112"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN177868 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN177868 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN177868 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN177868 the MagicNumber/String  '.err' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00129] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAVCWE476[00130] The argument newName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00131] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.SourceFileReaderAbstract.endsWithSlashOrAntislash@POLYN177059 the MagicNumber/String  '/' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.SourceFileReaderAbstract.endsWithSlashOrAntislash@POLYN177059 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#134"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00134] Avoid declaring class instance within loop, performance impact"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00134] For method getCrashedImage arguments BlockUml  blockUml|Throwable  t|SFile  outputFile"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#142"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#134"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00134] The argument blockUml is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#134"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00134] The argument outputFile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00142] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getCrashedImage@POLYN177292 the MagicNumber/String  'Crash Error' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#137"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getCrashedImage@POLYN177292 the MagicNumber/String  42 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#137"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getCrashedImage@POLYN177292 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#143"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00143] For method exportWarnOrErrIfWord arguments SFile  f|Diagram  system"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#143"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00143] The argument system is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#144"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN178072 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00146] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN178072 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00147] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN178072 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#148"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00148] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN178072 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#147"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN178072 the MagicNumber/String  '.err' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00163] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00165] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00168] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00176] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#180"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00180] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#181"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00181] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#182"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00182] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#191"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00191] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#192"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00192] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#193"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00193] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00195"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#195"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00195] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#192"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00192] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#193"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00193] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00195"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#195"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00195] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00157] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#158"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00158] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN179057 the MagicNumber/String  'Reading file: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00159] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN179057 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#161"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00161] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN179057 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#158"
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00158] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN179057 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#159"
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00159] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN179057 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#161"
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00161] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN179057 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#123"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN178853 the MagicNumber/String  'Reading file: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN179057 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#125"
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN178853 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN179057 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#139"
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN178853 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN179057 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#150"
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN178853 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN179057 the MagicNumber/String  '] ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#150"
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN178853 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN179057 the MagicNumber/String  'Number of image(s): ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#150"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN178853 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#154"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN178853 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#155"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN178853 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#158"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN178853 the MagicNumber/String  '[' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#158"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN178853 the MagicNumber/String  '] ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#167"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN178853 the MagicNumber/String  'Number of image(s): ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#172"
+ , "c1" : "00206"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#206"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00172] For method getSuggestedFile arguments BlockUml  blockUml"
+ , "c3" : "QC-JAV000006[00206] For method getSuggestedFile arguments BlockUml  blockUml"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#174"
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#208"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00174] For method setNoerror arguments boolean  noerror"
+ , "c3" : "QC-JAV000006[00208] For method setNoerror arguments boolean  noerror"
 }} 
 ]
 , 

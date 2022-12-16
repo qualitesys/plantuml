@@ -2,10 +2,10 @@
 !pragma layout smetana
 "Solver" <|-- "net.sourceforge.plantuml.project.solver.AbstractSolver"
 class net.sourceforge.plantuml.project.solver.AbstractSolver {
-+setData(TaskAttribute;Value) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/AbstractSolver.java.html#18]]]
--removeFirstElement() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/AbstractSolver.java.html#34]]]
-+getData(TaskAttribute) : Value [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/AbstractSolver.java.html#40]]]
-computeEnd() : Value [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/AbstractSolver.java.html#55]]]
-computeStart() : Value [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/AbstractSolver.java.html#57]]]
++setData(TaskAttribute;Value) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/AbstractSolver.java.html#52]]]
+-removeFirstElement() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/AbstractSolver.java.html#68]]]
++getData(TaskAttribute) : Value [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/AbstractSolver.java.html#74]]]
+computeEnd() : Value [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/AbstractSolver.java.html#89]]]
+computeStart() : Value [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/AbstractSolver.java.html#91]]]
 } 
 @enduml

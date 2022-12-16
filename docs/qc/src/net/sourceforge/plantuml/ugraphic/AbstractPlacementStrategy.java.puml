@@ -2,17 +2,17 @@
 !pragma layout smetana
 "PlacementStrategy" <|-- "net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy"
 class net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy {
-+AbstractPlacementStrategy(StringBounder) : AbstractPlacementStrategy [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#17]]]
-+add(TextBlock) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#21]]]
-getDimensions() : Map<TextBlock,XDimension2D> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#25]]]
-getSumWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#29]]]
-getSumHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#33]]]
-getMaxHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#37]]]
-getMaxWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#41]]]
-getSumWidth(Iterator<XDimension2D>) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#45]]]
-getSumHeight(Iterator<XDimension2D>) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#53]]]
-getMaxWidth(Iterator<XDimension2D>) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#61]]]
-getMaxHeight(Iterator<XDimension2D>) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#69]]]
-getStringBounder() : StringBounder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#77]]]
++AbstractPlacementStrategy(StringBounder) : AbstractPlacementStrategy [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#51]]]
++add(TextBlock) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#55]]]
+getDimensions() : Map<TextBlock,XDimension2D> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#59]]]
+getSumWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#63]]]
+getSumHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#67]]]
+getMaxHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#71]]]
+getMaxWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#75]]]
+getSumWidth(Iterator<XDimension2D>) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#79]]]
+getSumHeight(Iterator<XDimension2D>) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#87]]]
+getMaxWidth(Iterator<XDimension2D>) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#95]]]
+getMaxHeight(Iterator<XDimension2D>) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#103]]]
+getStringBounder() : StringBounder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#111]]]
 } 
 @enduml

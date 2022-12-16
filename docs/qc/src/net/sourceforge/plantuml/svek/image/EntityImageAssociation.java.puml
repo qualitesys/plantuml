@@ -2,11 +2,11 @@
 !pragma layout smetana
 "AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageAssociation"
 class net.sourceforge.plantuml.svek.image.EntityImageAssociation {
-+EntityImageAssociation(ILeaf;ISkinParam;SName) : EntityImageAssociation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#24]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#29]]]
--getStyle() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#33]]]
--getStyleSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#37]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#41]]]
-+getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#60]]]
++EntityImageAssociation(ILeaf;ISkinParam;SName) : EntityImageAssociation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#58]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#63]]]
+-getStyle() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#67]]]
+-getStyleSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#71]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#75]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageAssociation.java.html#94]]]
 } 
 @enduml

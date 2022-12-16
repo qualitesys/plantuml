@@ -2,12 +2,12 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.project.lang.CenterBorderColor"
 class net.sourceforge.plantuml.project.lang.CenterBorderColor {
-+CenterBorderColor(HColor;HColor) : CenterBorderColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#14]]]
-+CenterBorderColor(HColor;HColor;String) : CenterBorderColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#18]]]
-+apply(UGraphic) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#24]]]
-+isOk() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#37]]]
-+getCenter() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#41]]]
-+getStyle() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#45]]]
-+unlinearTo(CenterBorderColor;int) : CenterBorderColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#49]]]
++CenterBorderColor(HColor;HColor) : CenterBorderColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#48]]]
++CenterBorderColor(HColor;HColor;String) : CenterBorderColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#52]]]
++apply(UGraphic) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#58]]]
++isOk() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#71]]]
++getCenter() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#75]]]
++getStyle() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#79]]]
++unlinearTo(CenterBorderColor;int) : CenterBorderColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#83]]]
 } 
 @enduml

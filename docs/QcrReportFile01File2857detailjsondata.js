@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "smetana.core.debug.SmetanaDebug" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/smetana/core/debug/SmetanaDebug.java.html#13"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/smetana/core/debug/SmetanaDebug.java.html#47"
  , "c1" : "Purify"
  , "c2" : "purify()"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/smetana/core/debug/SmetanaDebug.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/smetana/core/debug/SmetanaDebug.java.html#53"
  , "c1" : "void"
  , "c2" : "LOG(String)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/smetana/core/debug/SmetanaDebug.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/smetana/core/debug/SmetanaDebug.java.html#59"
  , "c1" : "void"
  , "c2" : "ENTERING(String;String)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/smetana/core/debug/SmetanaDebug.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/smetana/core/debug/SmetanaDebug.java.html#64"
  , "c1" : "void"
  , "c2" : "LEAVING(String;String)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/smetana/core/debug/SmetanaDebug.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/smetana/core/debug/SmetanaDebug.java.html#69"
  , "c1" : "void"
  , "c2" : "reset()"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/smetana/core/debug/SmetanaDebug.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/smetana/core/debug/SmetanaDebug.java.html#74"
  , "c1" : "void"
  , "c2" : "printMe()"
  , "c3" : "2"
@@ -134,73 +134,73 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#7"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00007] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00041] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#7"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#41"
  , "c2" : "MINOR"
- , "c3" : "QC-JAVCWE500[00007] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
+ , "c3" : "QC-JAVCWE500[00041] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#8"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00008] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00042] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#8"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#42"
  , "c2" : "MINOR"
- , "c3" : "QC-JAVCWE500[00008] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
+ , "c3" : "QC-JAVCWE500[00042] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#9"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00009] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00043] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#9"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#43"
  , "c2" : "MINOR"
- , "c3" : "QC-JAVCWE500[00009] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
+ , "c3" : "QC-JAVCWE500[00043] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method smetana.core.debug.SmetanaDebug.purify@POLYN148947 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method smetana.core.debug.SmetanaDebug.purify@POLYN149151 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method LOG arguments String  s"
+ , "c3" : "QC-JAV000006[00053] For method LOG arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method ENTERING arguments String  signature|String  methodName"
+ , "c3" : "QC-JAV000006[00059] For method ENTERING arguments String  signature|String  methodName"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method LEAVING arguments String  signature|String  methodName"
+ , "c3" : "QC-JAV000006[00064] For method LEAVING arguments String  signature|String  methodName"
 }} 
 ]
 , 

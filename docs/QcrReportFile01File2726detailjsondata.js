@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.version.IteratorCounter2Impl" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#16"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#49"
  , "c1" : "void"
  , "c2" : "copyStateFrom(IteratorCounter2)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#23"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#56"
  , "c1" : "IteratorCounter2Impl"
  , "c2" : "IteratorCounter2Impl(List<StringLocated>)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#27"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#60"
  , "c1" : "IteratorCounter2Impl"
  , "c2" : "IteratorCounter2Impl(List<StringLocated>;int;List<StringLocated>)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#33"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#66"
  , "c1" : "IteratorCounter2"
  , "c2" : "cloneMe()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#37"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#70"
  , "c1" : "int"
  , "c2" : "currentNum()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#41"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#74"
  , "c1" : "boolean"
  , "c2" : "hasNext()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#45"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#78"
  , "c1" : "StringLocated"
  , "c2" : "next()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#52"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#85"
  , "c1" : "StringLocated"
  , "c2" : "peek()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#56"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#89"
  , "c1" : "StringLocated"
  , "c2" : "peekPrevious()"
  , "c3" : "2"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#63"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#96"
  , "c1" : "void"
  , "c2" : "remove()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#67"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#100"
  , "c1" : "List<StringLocated>"
  , "c2" : "getTrace()"
  , "c3" : "1"
@@ -165,38 +165,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#16"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method copyStateFrom arguments IteratorCounter2  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.version.IteratorCounter2Impl.IteratorCounter2Impl@POLYN152600 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000006[00049] For method copyStateFrom arguments IteratorCounter2  other"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.version.IteratorCounter2Impl.peekPrevious@POLYN154025 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.version.IteratorCounter2Impl.IteratorCounter2Impl@POLYN152798 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#58"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.version.IteratorCounter2Impl.peekPrevious@POLYN154025 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.version.IteratorCounter2Impl.peekPrevious@POLYN154223 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#60"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.version.IteratorCounter2Impl.peekPrevious@POLYN154025 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.version.IteratorCounter2Impl.peekPrevious@POLYN154223 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.version.IteratorCounter2Impl.peekPrevious@POLYN154223 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

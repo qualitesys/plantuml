@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.salt.element.Grid"
 class net.sourceforge.plantuml.salt.element.Grid {
-+Grid(double[];double[];TableStrategy;TextBlock) : Grid [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Grid.java.html#26]]]
--addOutside() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Grid.java.html#37]]]
-+drawU(UGraphic;double;double;HColor) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Grid.java.html#51]]]
-+addCell(Cell) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Grid.java.html#77]]]
++Grid(double[];double[];TableStrategy;TextBlock) : Grid [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Grid.java.html#60]]]
+-addOutside() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Grid.java.html#71]]]
++drawU(UGraphic;double;double;HColor) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Grid.java.html#85]]]
++addCell(Cell) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Grid.java.html#111]]]
 } 
 @enduml

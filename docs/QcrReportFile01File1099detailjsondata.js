@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.GroupRoot" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#64"
  , "c1" : "GroupRoot"
  , "c2" : "GroupRoot(EntityFactory)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#69"
  , "c1" : "Collection<ILeaf>"
  , "c2" : "getLeafsDirect()"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#46"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#80"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#51"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#85"
  , "c1" : "boolean"
  , "c2" : "isGroup()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#56"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#90"
  , "c1" : "Display"
  , "c2" : "getDisplay()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#62"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#96"
  , "c1" : "void"
  , "c2" : "setDisplay(Display)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#68"
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#102"
  , "c1" : "LeafType"
  , "c2" : "getLeafType()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#73"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#107"
  , "c1" : "String"
  , "c2" : "getUid()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00079"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#79"
+ , "c5" : "00113"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#113"
  , "c1" : "Url"
  , "c2" : "getUrl99()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#85"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#119"
  , "c1" : "Stereotype"
  , "c2" : "getStereotype()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#91"
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#125"
  , "c1" : "void"
  , "c2" : "setStereotype(Stereotype)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#96"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#130"
  , "c1" : "Code"
  , "c2" : "getCode()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#101"
+ , "c5" : "00135"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#135"
  , "c1" : "String"
  , "c2" : "getCodeGetName()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00106"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#106"
+ , "c5" : "00140"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#140"
  , "c1" : "void"
  , "c2" : "addUrl(Url)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00112"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#112"
+ , "c5" : "00146"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#146"
  , "c1" : "IGroup"
  , "c2" : "getParentContainer()"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00117"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#117"
+ , "c5" : "00151"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#151"
  , "c1" : "boolean"
  , "c2" : "containsLeafRecurse(ILeaf)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00123"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#123"
+ , "c5" : "00157"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#157"
  , "c1" : "Collection<IGroup>"
  , "c2" : "getChildren()"
  , "c3" : "7"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00138"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#138"
+ , "c5" : "00172"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#172"
  , "c1" : "void"
  , "c2" : "moveEntitiesTo(IGroup)"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00143"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#143"
+ , "c5" : "00177"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#177"
  , "c1" : "int"
  , "c2" : "size()"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00148"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#148"
+ , "c5" : "00182"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#182"
  , "c1" : "GroupType"
  , "c2" : "getGroupType()"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00153"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#153"
+ , "c5" : "00187"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#187"
  , "c1" : "Code"
  , "c2" : "getNamespace()"
  , "c3" : "1"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00159"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#159"
+ , "c5" : "00193"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#193"
  , "c1" : "PackageStyle"
  , "c2" : "getPackageStyle()"
  , "c3" : "1"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00165"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#165"
+ , "c5" : "00199"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#199"
  , "c1" : "void"
  , "c2" : "overrideImage(IEntityImage;LeafType)"
  , "c3" : "1"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00170"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#170"
+ , "c5" : "00204"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#204"
  , "c1" : "boolean"
  , "c2" : "isHidden()"
  , "c3" : "1"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00175"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#175"
+ , "c5" : "00209"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#209"
  , "c1" : "USymbol"
  , "c2" : "getUSymbol()"
  , "c3" : "1"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00181"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#181"
+ , "c5" : "00215"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#215"
  , "c1" : "void"
  , "c2" : "setUSymbol(USymbol)"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00186"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#186"
+ , "c5" : "00220"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#220"
  , "c1" : "SingleStrategy"
  , "c2" : "getSingleStrategy()"
  , "c3" : "1"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00191"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#191"
+ , "c5" : "00225"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#225"
  , "c1" : "boolean"
  , "c2" : "isRemoved()"
  , "c3" : "1"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00196"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#196"
+ , "c5" : "00230"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#230"
  , "c1" : "boolean"
  , "c2" : "hasUrl()"
  , "c3" : "1"
@@ -279,8 +279,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00201"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#201"
+ , "c5" : "00235"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#235"
  , "c1" : "int"
  , "c2" : "getRawLayout()"
  , "c3" : "1"
@@ -288,8 +288,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00206"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#206"
+ , "c5" : "00240"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#240"
  , "c1" : "char"
  , "c2" : "getConcurrentSeparator()"
  , "c3" : "1"
@@ -297,8 +297,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00211"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#211"
+ , "c5" : "00245"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#245"
  , "c1" : "void"
  , "c2" : "setConcurrentSeparator(char)"
  , "c3" : "1"
@@ -306,8 +306,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00216"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#216"
+ , "c5" : "00250"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#250"
  , "c1" : "void"
  , "c2" : "putTip(String;Display)"
  , "c3" : "1"
@@ -315,8 +315,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00221"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#221"
+ , "c5" : "00255"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#255"
  , "c1" : "Map<String,Display>"
  , "c2" : "getTips()"
  , "c3" : "1"
@@ -324,8 +324,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00226"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#226"
+ , "c5" : "00260"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#260"
  , "c1" : "Bodier"
  , "c2" : "getBodier()"
  , "c3" : "1"
@@ -333,8 +333,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00231"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#231"
+ , "c5" : "00265"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#265"
  , "c1" : "Colors"
  , "c2" : "getColors()"
  , "c3" : "1"
@@ -342,8 +342,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00236"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#236"
+ , "c5" : "00270"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#270"
  , "c1" : "void"
  , "c2" : "setColors(Colors)"
  , "c3" : "1"
@@ -351,8 +351,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00240"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#240"
+ , "c5" : "00274"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#274"
  , "c1" : "void"
  , "c2" : "setSpecificColorTOBEREMOVED(ColorType;HColor)"
  , "c3" : "1"
@@ -360,8 +360,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00244"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#244"
+ , "c5" : "00278"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#278"
  , "c1" : "void"
  , "c2" : "setSpecificLineStroke(UStroke)"
  , "c3" : "1"
@@ -369,8 +369,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00248"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#248"
+ , "c5" : "00282"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#282"
  , "c1" : "FontConfiguration"
  , "c2" : "getFontConfigurationForTitle(ISkinParam)"
  , "c3" : "1"
@@ -378,8 +378,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00252"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#252"
+ , "c5" : "00286"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#286"
  , "c1" : "void"
  , "c2" : "addStereotag(Stereotag)"
  , "c3" : "1"
@@ -387,8 +387,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00256"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#256"
+ , "c5" : "00290"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#290"
  , "c1" : "Set<Stereotag>"
  , "c2" : "stereotags()"
  , "c3" : "1"
@@ -396,8 +396,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00261"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#261"
+ , "c5" : "00295"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#295"
  , "c1" : "void"
  , "c2" : "setLegend(DisplayPositioned)"
  , "c3" : "1"
@@ -405,8 +405,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00266"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#266"
+ , "c5" : "00300"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#300"
  , "c1" : "DisplayPositioned"
  , "c2" : "getLegend()"
  , "c3" : "1"
@@ -414,8 +414,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00271"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#271"
+ , "c5" : "00305"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#305"
  , "c1" : "Ident"
  , "c2" : "getIdent()"
  , "c3" : "1"
@@ -423,8 +423,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00276"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#276"
+ , "c5" : "00310"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#310"
  , "c1" : "boolean"
  , "c2" : "isAloneAndUnlinked()"
  , "c3" : "1"
@@ -432,8 +432,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00281"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#281"
+ , "c5" : "00315"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#315"
  , "c1" : "void"
  , "c2" : "setThisIsTogether()"
  , "c3" : "1"
@@ -441,8 +441,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00286"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#286"
+ , "c5" : "00320"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#320"
  , "c1" : "String"
  , "c2" : "getCodeLine()"
  , "c3" : "1"
@@ -450,8 +450,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00291"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#291"
+ , "c5" : "00325"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#325"
  , "c1" : "void"
  , "c2" : "setCodeLine(LineLocation)"
  , "c3" : "1"
@@ -459,8 +459,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00296"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#296"
+ , "c5" : "00330"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#330"
  , "c1" : "void"
  , "c2" : "setStereostyle(String)"
  , "c3" : "1"
@@ -468,8 +468,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00301"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#301"
+ , "c5" : "00335"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#335"
  , "c1" : "Stereostyles"
  , "c2" : "getStereostyles()"
  , "c3" : "1"
@@ -477,8 +477,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00306"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#306"
+ , "c5" : "00340"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#340"
  , "c1" : "void"
  , "c2" : "addNote(Display;Position;Colors)"
  , "c3" : "1"
@@ -486,8 +486,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00311"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#311"
+ , "c5" : "00345"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#345"
  , "c1" : "EntityPosition"
  , "c2" : "getEntityPosition()"
  , "c3" : "1"
@@ -495,8 +495,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00316"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#316"
+ , "c5" : "00350"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#350"
  , "c1" : "List<CucaNote>"
  , "c2" : "getNotes(Position)"
  , "c3" : "1"
@@ -566,227 +566,227 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#47"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.toString@POLYN175548 the MagicNumber/String  'ROOT' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.toString@POLYN175752 the MagicNumber/String  'ROOT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#52"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.isGroup@POLYN175650 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.isGroup@POLYN175854 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#62"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#96"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method setDisplay arguments Display  display"
+ , "c3" : "QC-JAV000006[00096] For method setDisplay arguments Display  display"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#80"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getUrl99@POLYN176238 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getUrl99@POLYN176442 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#91"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#125"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00091] For method setStereotype arguments Stereotype  stereotype"
+ , "c3" : "QC-JAV000006[00125] For method setStereotype arguments Stereotype  stereotype"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#97"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getCode@POLYN176588 the MagicNumber/String  '__ROOT__' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getCode@POLYN176792 the MagicNumber/String  '__ROOT__' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#106"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#140"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00106] For method addUrl arguments Url  url"
+ , "c3" : "QC-JAV000006[00140] For method addUrl arguments Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#113"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getParentContainer@POLYN176990 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getParentContainer@POLYN177194 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#117"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#151"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00117] For method containsLeafRecurse arguments ILeaf  entity"
+ , "c3" : "QC-JAV000006[00151] For method containsLeafRecurse arguments ILeaf  entity"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#127"
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getChildren@POLYN177254 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getChildren@POLYN177458 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#138"
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#172"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00138] For method moveEntitiesTo arguments IGroup  dest"
+ , "c3" : "QC-JAV000006[00172] For method moveEntitiesTo arguments IGroup  dest"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#149"
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getGroupType@POLYN178322 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getGroupType@POLYN178526 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#165"
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#199"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00165] For method overrideImage arguments IEntityImage  img|LeafType  state"
+ , "c3" : "QC-JAV000006[00199] For method overrideImage arguments IEntityImage  img|LeafType  state"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00171"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#171"
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.isHidden@POLYN178816 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.isHidden@POLYN179020 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#176"
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getUSymbol@POLYN178918 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getUSymbol@POLYN179122 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#181"
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#215"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00181] For method setUSymbol arguments USymbol  symbol"
+ , "c3" : "QC-JAV000006[00215] For method setUSymbol arguments USymbol  symbol"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#192"
+ , "c1" : "00226"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.isRemoved@POLYN179257 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.isRemoved@POLYN179461 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00197"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#197"
+ , "c1" : "00231"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#231"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.hasUrl@POLYN179359 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.hasUrl@POLYN179563 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#211"
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#245"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00211] For method setConcurrentSeparator arguments char  separator"
+ , "c3" : "QC-JAV000006[00245] For method setConcurrentSeparator arguments char  separator"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00216"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#216"
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#250"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00216] For method putTip arguments String  member|Display  display"
+ , "c3" : "QC-JAV000006[00250] For method putTip arguments String  member|Display  display"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00236"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#236"
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#270"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00236] For method setColors arguments Colors  colors"
+ , "c3" : "QC-JAV000006[00270] For method setColors arguments Colors  colors"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00240"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#240"
+ , "c1" : "00274"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#274"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00240] For method setSpecificColorTOBEREMOVED arguments ColorType  type|HColor  color"
+ , "c3" : "QC-JAV000006[00274] For method setSpecificColorTOBEREMOVED arguments ColorType  type|HColor  color"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#244"
+ , "c1" : "00278"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#278"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00244] For method setSpecificLineStroke arguments UStroke  specificLineStroke"
+ , "c3" : "QC-JAV000006[00278] For method setSpecificLineStroke arguments UStroke  specificLineStroke"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00248"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#248"
+ , "c1" : "00282"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#282"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00248] For method getFontConfigurationForTitle arguments ISkinParam  skinParam"
+ , "c3" : "QC-JAV000006[00282] For method getFontConfigurationForTitle arguments ISkinParam  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00252"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#252"
+ , "c1" : "00286"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#286"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00252] For method addStereotag arguments Stereotag  tag"
+ , "c3" : "QC-JAV000006[00286] For method addStereotag arguments Stereotag  tag"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00261"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#261"
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#295"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00261] For method setLegend arguments DisplayPositioned  legend"
+ , "c3" : "QC-JAV000006[00295] For method setLegend arguments DisplayPositioned  legend"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00291"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#291"
+ , "c1" : "00325"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#325"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00291] For method setCodeLine arguments LineLocation  codeLine"
+ , "c3" : "QC-JAV000006[00325] For method setCodeLine arguments LineLocation  codeLine"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00296"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#296"
+ , "c1" : "00330"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#330"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00296] For method setStereostyle arguments String  stereo"
+ , "c3" : "QC-JAV000006[00330] For method setStereostyle arguments String  stereo"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00306"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#306"
+ , "c1" : "00340"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#340"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00306] For method addNote arguments Display  note|Position  position|Colors  colors"
+ , "c3" : "QC-JAV000006[00340] For method addNote arguments Display  note|Position  position|Colors  colors"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00316"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#316"
+ , "c1" : "00350"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#350"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00316] For method getNotes arguments Position  position"
+ , "c3" : "QC-JAV000006[00350] For method getNotes arguments Position  position"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#211"
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#245"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00211] Void method setConcurrentSeparator is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00245] Void method setConcurrentSeparator is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#211"
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#245"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00211] Void method setConcurrentSeparator is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00245] Void method setConcurrentSeparator is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

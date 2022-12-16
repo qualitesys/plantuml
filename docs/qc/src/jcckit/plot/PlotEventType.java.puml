@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "jcckit.plot.PlotEventType"
 class jcckit.plot.PlotEventType {
--PlotEventType() : PlotEventType [[[./../../../.././qc/src/jcckit/plot/PlotEventType.java.html#13]]]
+-PlotEventType() : PlotEventType [[[./../../../.././qc/src/jcckit/plot/PlotEventType.java.html#35]]]
 } 
 @enduml

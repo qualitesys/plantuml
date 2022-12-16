@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#10"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#16"
  , "c1" : "Color[]"
  , "c2" : "getShadedColors(int;int[])"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#35"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#44"
  , "c1" : "double[]"
  , "c2" : "computeXValues(int)"
  , "c3" : "2"
@@ -91,52 +91,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#10"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#16"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00010] For method getShadedColors arguments int  pRowNo|int[]  pRowTypes"
+ , "c3" : "QC-JAV000006[00016] For method getShadedColors arguments int  pRowNo|int[]  pRowTypes"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#10"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#16"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00010] For method getShadedColors list of called methods Object monObjet|double[] computeXValuesN143831|java.awt.Color getShadedColorForTypeN145074"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#12"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.getShadedColors@POLYN143631 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000007[00016] For method getShadedColors list of called methods Object monObjet|double[] computeXValuesN143885|java.awt.Color getShadedColorForTypeN145128"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00018"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.getShadedColors@POLYN143631 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00018] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.getShadedColors@POLYN143685 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#22"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.getShadedColors@POLYN143631 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.getShadedColors@POLYN143685 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#35"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#28"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00028] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.getShadedColors@POLYN143685 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#44"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method computeXValues arguments int  pWidth"
+ , "c3" : "QC-JAV000006[00044] For method computeXValues arguments int  pWidth"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#39"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.computeXValues@POLYN145287 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.computeXValues@POLYN145341 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

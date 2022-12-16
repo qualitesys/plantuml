@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.version.PLSSignature" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#35"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#68"
  , "c1" : "PLSSignature"
  , "c2" : "PLSSignature(int;byte[];long;long;String;String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#44"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#77"
  , "c1" : "LicenseInfo"
  , "c2" : "toLicenseInfo()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#48"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#81"
  , "c1" : "byte[]"
  , "c2" : "retrieveDistributorImageSignature()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#55"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#88"
  , "c1" : "PLSSignature"
  , "c2" : "fromRaw512(byte[])"
  , "c3" : "5"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#101"
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#134"
  , "c1" : "byte[]"
  , "c2" : "readBytes(ByteArrayInputStream;int)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#110"
+ , "c5" : "00143"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#143"
  , "c1" : "String"
  , "c2" : "readString(ByteArrayInputStream)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00123"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#123"
+ , "c5" : "00156"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#156"
  , "c1" : "long"
  , "c2" : "readLong(ByteArrayInputStream)"
  , "c3" : "3"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00137"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#137"
+ , "c5" : "00170"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#170"
  , "c1" : "LicenseInfo"
  , "c2" : "retrieveNamed(String;String;boolean)"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00149"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#149"
+ , "c5" : "00182"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#182"
  , "c1" : "LicenseInfo"
  , "c2" : "retrieveDistributor(String)"
  , "c3" : "2"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00158"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#158"
+ , "c5" : "00191"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#191"
  , "c1" : "byte[]"
  , "c2" : "decode(String)"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00169"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#169"
+ , "c5" : "00202"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#202"
  , "c1" : "void"
  , "c2" : "xor(byte[];TurningBytes)"
  , "c3" : "2"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00175"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#175"
+ , "c5" : "00208"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#208"
  , "c1" : "void"
  , "c2" : "xor(byte[];byte[])"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00179"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#179"
+ , "c5" : "00212"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#212"
  , "c1" : "byte[]"
  , "c2" : "getSalt(String)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00186"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#186"
+ , "c5" : "00219"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#219"
  , "c1" : "long"
  , "c2" : "getSeed(byte[])"
  , "c3" : "2"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00194"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#194"
+ , "c5" : "00227"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#227"
  , "c1" : "byte[]"
  , "c2" : "signature()"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00204"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#204"
+ , "c5" : "00237"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#237"
  , "c1" : "String"
  , "c2" : "getMacAddress()"
  , "c3" : "4"
@@ -231,416 +231,416 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#49"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.version.PLSSignature.retrieveDistributorImageSignature@POLYN181936 the MagicNumber/String  '/distributor.png' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.version.PLSSignature.retrieveDistributorImageSignature@POLYN182134 the MagicNumber/String  '/distributor.png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#55"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#88"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method fromRaw512 arguments byte[]  data"
+ , "c3" : "QC-JAV000006[00088] For method fromRaw512 arguments byte[]  data"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#56"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182391 the MagicNumber/String  512 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182589 the MagicNumber/String  512 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#60"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182391 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182589 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#61"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182391 the MagicNumber/String  512 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182589 the MagicNumber/String  512 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#61"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182391 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182589 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#62"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#62"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#63"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182391 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182589 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#63"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#66"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182391 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182589 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#67"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182391 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182589 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#73"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#75"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182391 the MagicNumber/String  64 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182391 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182391 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182391 the MagicNumber/String  64 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182391 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#101"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00101] For method readBytes arguments ByteArrayInputStream  bais|int  size"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#101"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00101] The argument bais is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#110"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method readString arguments ByteArrayInputStream  bais"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#110"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00110] The argument bais is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182589 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.version.PLSSignature.readString@POLYN185788 the MagicNumber/String  80 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182589 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182589 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#116"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182589 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.version.PLSSignature.fromRaw512@POLYN182589 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#134"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00123] For method readLong arguments ByteArrayInputStream  bais"
+ , "c3" : "QC-JAV000006[00134] For method readBytes arguments ByteArrayInputStream  bais|int  size"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#123"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#134"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00123] The argument bais is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00134] The argument bais is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.version.PLSSignature.readLong@POLYN186503 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#126"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.version.PLSSignature.readLong@POLYN186503 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.version.PLSSignature.readLong@POLYN186503 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.version.PLSSignature.readLong@POLYN186503 the MagicNumber/String  7 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.version.PLSSignature.readLong@POLYN186503 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.version.PLSSignature.readLong@POLYN186503 the MagicNumber/String  0xFF should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.version.PLSSignature.readLong@POLYN186503 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.version.PLSSignature.readLong@POLYN186503 the MagicNumber/String  7 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#137"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#143"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00137] For method retrieveNamed arguments String  sig|String  key|boolean  doCheck"
+ , "c3" : "QC-JAV000006[00143] For method readString arguments ByteArrayInputStream  bais"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#142"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#143"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00143] The argument bais is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.version.PLSSignature.retrieveNamed@POLYN187548 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.version.PLSSignature.readString@POLYN185986 the MagicNumber/String  80 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#149"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#156"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00149] For method retrieveDistributor arguments String  key"
+ , "c3" : "QC-JAV000006[00156] For method readLong arguments ByteArrayInputStream  bais"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#152"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#156"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00156] The argument bais is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.version.PLSSignature.retrieveDistributor@POLYN188287 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#158"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00158] For method decode arguments String  key"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.version.PLSSignature.readLong@POLYN186701 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.version.PLSSignature.decode@POLYN188756 the MagicNumber/String  36 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.version.PLSSignature.readLong@POLYN186701 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#162"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.version.PLSSignature.readLong@POLYN186701 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.version.PLSSignature.decode@POLYN188756 the MagicNumber/String  512 should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.version.PLSSignature.readLong@POLYN186701 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#169"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00169] For method xor arguments byte[]  buffer|TurningBytes  turningBytes"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.version.PLSSignature.readLong@POLYN186701 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#169"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00169] The argument turningBytes is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.version.PLSSignature.readLong@POLYN186701 the MagicNumber/String  0xFF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.version.PLSSignature.readLong@POLYN186701 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.version.PLSSignature.readLong@POLYN186701 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#170"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.version.PLSSignature.xor@POLYN189447 the MagicNumber/String  0 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00170] For method retrieveNamed arguments String  sig|String  key|boolean  doCheck"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#175"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00175] For method xor arguments byte[]  buffer|byte[]  key"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.version.PLSSignature.retrieveNamed@POLYN187746 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#179"
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#182"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00179] For method getSalt arguments String  signature"
+ , "c3" : "QC-JAV000006[00182] For method retrieveDistributor arguments String  key"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#179"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#185"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.version.PLSSignature.retrieveDistributor@POLYN188485 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#191"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00191] For method decode arguments String  key"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#192"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.version.PLSSignature.decode@POLYN188954 the MagicNumber/String  36 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#196"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.version.PLSSignature.decode@POLYN188954 the MagicNumber/String  512 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#202"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00202] For method xor arguments byte[]  buffer|TurningBytes  turningBytes"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#202"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00179] The argument signature is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00202] The argument turningBytes is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#181"
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.version.PLSSignature.getSalt@POLYN190063 the MagicNumber/String  512 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.version.PLSSignature.xor@POLYN189645 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00186"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#186"
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#208"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00186] For method getSeed arguments byte[]  bytes"
+ , "c3" : "QC-JAV000006[00208] For method xor arguments byte[]  buffer|byte[]  key"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#187"
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#212"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00212] For method getSalt arguments String  signature"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#212"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00212] The argument signature is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00214"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#214"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.version.PLSSignature.getSeed@POLYN190534 the MagicNumber/String  19 should be converted to const"
+ , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.version.PLSSignature.getSalt@POLYN190261 the MagicNumber/String  512 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#189"
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#219"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00219] For method getSeed arguments byte[]  bytes"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00220"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#220"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.version.PLSSignature.getSeed@POLYN190534 the MagicNumber/String  41 should be converted to const"
+ , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.version.PLSSignature.getSeed@POLYN190732 the MagicNumber/String  19 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00209"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#209"
+ , "c1" : "00222"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00209] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.version.PLSSignature.getSeed@POLYN190732 the MagicNumber/String  41 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#211"
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.version.PLSSignature.getMacAddress@POLYN191432 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00242] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#213"
+ , "c1" : "00244"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.version.PLSSignature.getMacAddress@POLYN191432 the MagicNumber/String  '%02x' should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.version.PLSSignature.getMacAddress@POLYN191630 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#48"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00048] Public method retrieveDistributorImageSignature is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00246"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#246"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.version.PLSSignature.getMacAddress@POLYN191630 the MagicNumber/String  '%02x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#137"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#81"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00137] Public method retrieveNamed is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00081] Public method retrieveDistributorImageSignature is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#149"
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#170"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00149] Public method retrieveDistributor is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00170] Public method retrieveNamed is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#179"
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#182"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00179] Public method getSalt is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00182] Public method retrieveDistributor is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#194"
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#212"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00194] Public method signature is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00212] Public method getSalt is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00175"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#175"
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#227"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00175] Public method xor is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00227] Public method signature is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PLSSignature.java.html#208"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00208] Public method xor is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

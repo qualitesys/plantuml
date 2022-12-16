@@ -2,8 +2,8 @@
 !pragma layout smetana
 "PSystemBasicFactory<PSystemDot>" <|-- "net.sourceforge.plantuml.directdot.PSystemDotFactory"
 class net.sourceforge.plantuml.directdot.PSystemDotFactory {
-+PSystemDotFactory(DiagramType) : PSystemDotFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#12]]]
-+initDiagram(UmlSource;String) : PSystemDot [[[./../../../../../.././qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#17]]]
-+executeLine(UmlSource;PSystemDot;String) : PSystemDot [[[./../../../../../.././qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#23]]]
++PSystemDotFactory(DiagramType) : PSystemDotFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#45]]]
++initDiagram(UmlSource;String) : PSystemDot [[[./../../../../../.././qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#50]]]
++executeLine(UmlSource;PSystemDot;String) : PSystemDot [[[./../../../../../.././qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#56]]]
 } 
 @enduml

@@ -2,7 +2,7 @@
 !pragma layout smetana
 "PlainStringsDiagram" <|-- "net.sourceforge.plantuml.eggs.PSystemRIP"
 class net.sourceforge.plantuml.eggs.PSystemRIP {
-+PSystemRIP(UmlSource) : PSystemRIP [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemRIP.java.html#14]]]
-+getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemRIP.java.html#31]]]
++PSystemRIP(UmlSource) : PSystemRIP [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemRIP.java.html#48]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemRIP.java.html#65]]]
 } 
 @enduml

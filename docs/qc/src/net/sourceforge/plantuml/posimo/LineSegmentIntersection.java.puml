@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.posimo.LineSegmentIntersection"
 class net.sourceforge.plantuml.posimo.LineSegmentIntersection {
-+LineSegmentIntersection(XLine2D;XLine2D) : LineSegmentIntersection [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/LineSegmentIntersection.java.html#13]]]
-+getIntersection() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/LineSegmentIntersection.java.html#43]]]
++LineSegmentIntersection(XLine2D;XLine2D) : LineSegmentIntersection [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/LineSegmentIntersection.java.html#47]]]
++getIntersection() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/LineSegmentIntersection.java.html#77]]]
 } 
 @enduml

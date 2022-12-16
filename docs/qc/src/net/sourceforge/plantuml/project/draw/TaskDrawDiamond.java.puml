@@ -2,19 +2,19 @@
 !pragma layout smetana
 "AbstractTaskDraw" <|-- "net.sourceforge.plantuml.project.draw.TaskDrawDiamond"
 class net.sourceforge.plantuml.project.draw.TaskDrawDiamond {
-+TaskDrawDiamond(TimeScale;Real;String;Day;ISkinParam;Task;ToTaskDraw;StyleBuilder) : TaskDrawDiamond [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#31]]]
-getStyleSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#37]]]
-+getHeightMax(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#42]]]
-getShapeHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#47]]]
-+drawTitle(UGraphic;LabelStrategy;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#58]]]
-getTitle() : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#92]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#98]]]
--applyColors(UGraphic) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#118]]]
--drawShape(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#126]]]
-+getFingerPrintNote(StringBounder) : FingerPrint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#131]]]
-+getFingerPrint(StringBounder) : FingerPrint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#136]]]
--getDiamond(StringBounder) : UShape [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#143]]]
-+getX1(TaskAttribute) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#154]]]
-+getX2(TaskAttribute) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#163]]]
++TaskDrawDiamond(TimeScale;Real;String;Day;ISkinParam;Task;ToTaskDraw;StyleBuilder) : TaskDrawDiamond [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#65]]]
+getStyleSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#71]]]
++getHeightMax(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#76]]]
+getShapeHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#81]]]
++drawTitle(UGraphic;LabelStrategy;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#92]]]
+getTitle() : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#126]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#132]]]
+-applyColors(UGraphic) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#152]]]
+-drawShape(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#160]]]
++getFingerPrintNote(StringBounder) : FingerPrint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#165]]]
++getFingerPrint(StringBounder) : FingerPrint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#170]]]
+-getDiamond(StringBounder) : UShape [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#177]]]
++getX1(TaskAttribute) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#188]]]
++getX2(TaskAttribute) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#197]]]
 } 
 @enduml

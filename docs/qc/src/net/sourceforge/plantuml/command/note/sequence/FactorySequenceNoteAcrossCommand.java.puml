@@ -2,11 +2,11 @@
 !pragma layout smetana
 "SingleMultiFactoryCommand<SequenceDiagram>" <|-- "net.sourceforge.plantuml.command.note.sequence.FactorySequenceNoteAcrossCommand"
 class net.sourceforge.plantuml.command.note.sequence.FactorySequenceNoteAcrossCommand {
--getRegexConcatMultiLine() : IRegex [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteAcrossCommand.java.html#34]]]
--getRegexConcatSingleLine() : IRegex [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteAcrossCommand.java.html#50]]]
--color() : ColorParser [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteAcrossCommand.java.html#69]]]
-+createSingleLine() : Command<SequenceDiagram> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteAcrossCommand.java.html#73]]]
-+createMultiLine(boolean) : Command<SequenceDiagram> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteAcrossCommand.java.html#87]]]
--executeInternal(SequenceDiagram;RegexResult;BlocLines) : CommandExecutionResult [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteAcrossCommand.java.html#107]]]
+-getRegexConcatMultiLine() : IRegex [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteAcrossCommand.java.html#68]]]
+-getRegexConcatSingleLine() : IRegex [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteAcrossCommand.java.html#84]]]
+-color() : ColorParser [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteAcrossCommand.java.html#103]]]
++createSingleLine() : Command<SequenceDiagram> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteAcrossCommand.java.html#107]]]
++createMultiLine(boolean) : Command<SequenceDiagram> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteAcrossCommand.java.html#121]]]
+-executeInternal(SequenceDiagram;RegexResult;BlocLines) : CommandExecutionResult [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteAcrossCommand.java.html#141]]]
 } 
 @enduml

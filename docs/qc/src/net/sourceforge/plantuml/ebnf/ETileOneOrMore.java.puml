@@ -2,13 +2,13 @@
 !pragma layout smetana
 "ETile" <|-- "net.sourceforge.plantuml.ebnf.ETileOneOrMore"
 class net.sourceforge.plantuml.ebnf.ETileOneOrMore {
-+ETileOneOrMore(ETile;String;FontConfiguration;ISkinParam) : ETileOneOrMore [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.html#22]]]
-+ETileOneOrMore(ETile) : ETileOneOrMore [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.html#28]]]
-+getH1(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.html#33]]]
--getBraceHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.html#40]]]
-+getH2(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.html#47]]]
-+getWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.html#52]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.html#57]]]
-+push(ETile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.html#91]]]
++ETileOneOrMore(ETile;String;FontConfiguration;ISkinParam) : ETileOneOrMore [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.html#56]]]
++ETileOneOrMore(ETile) : ETileOneOrMore [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.html#62]]]
++getH1(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.html#67]]]
+-getBraceHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.html#74]]]
++getH2(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.html#81]]]
++getWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.html#86]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.html#91]]]
++push(ETile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileOneOrMore.java.html#125]]]
 } 
 @enduml

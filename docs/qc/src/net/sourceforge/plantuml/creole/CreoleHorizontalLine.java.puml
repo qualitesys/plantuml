@@ -2,12 +2,12 @@
 !pragma layout smetana
 "AbstractAtomAtom" <|-- "net.sourceforge.plantuml.creole.CreoleHorizontalLine"
 class net.sourceforge.plantuml.creole.CreoleHorizontalLine {
-+create(FontConfiguration;String;char;ISkinSimple) : CreoleHorizontalLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#28]]]
--CreoleHorizontalLine(FontConfiguration;String;char;ISkinSimple) : CreoleHorizontalLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#33]]]
--getHorizontalLine() : UHorizontalLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#40]]]
--getTitle() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#48]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#59]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#66]]]
-+getStartingAltitude(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#74]]]
++create(FontConfiguration;String;char;ISkinSimple) : CreoleHorizontalLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#62]]]
+-CreoleHorizontalLine(FontConfiguration;String;char;ISkinSimple) : CreoleHorizontalLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#67]]]
+-getHorizontalLine() : UHorizontalLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#74]]]
+-getTitle() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#82]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#93]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#100]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#108]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.comp.CompressionTransform" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#44"
  , "c1" : "CompressionTransform"
  , "c2" : "CompressionTransform(SlotSet)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#48"
  , "c1" : "double"
  , "c2" : "transform(double)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#52"
  , "c1" : "double"
  , "c2" : "getCompressDelta(double)"
  , "c3" : "5"
@@ -100,31 +100,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#10"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#44"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00010] The argument slotSet is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00044] The argument slotSet is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method transform arguments double  v"
+ , "c3" : "QC-JAV000006[00048] For method transform arguments double  v"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#52"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method getCompressDelta arguments double  v"
+ , "c3" : "QC-JAV000006[00052] For method getCompressDelta arguments double  v"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.ugraphic.comp.CompressionTransform.getCompressDelta@POLYN147815 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.ugraphic.comp.CompressionTransform.getCompressDelta@POLYN148019 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

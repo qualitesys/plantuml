@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "ext.plantuml.com.ctreber.aclib.sort.CTSort"
 class ext.plantuml.com.ctreber.aclib.sort.CTSort {
-+sort(Object[]) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/sort/CTSort.java.html#8]]]
-+sort(Object[];Comparator) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/sort/CTSort.java.html#13]]]
++sort(Object[]) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/sort/CTSort.java.html#14]]]
++sort(Object[];Comparator) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/sort/CTSort.java.html#19]]]
 } 
 @enduml

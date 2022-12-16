@@ -2,11 +2,11 @@
 !pragma layout smetana
 "SvgCommand" <|-- "net.sourceforge.plantuml.openiconic.SvgCommandNumber"
 class net.sourceforge.plantuml.openiconic.SvgCommandNumber {
-+SvgCommandNumber(String) : SvgCommandNumber [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandNumber.java.html#10]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandNumber.java.html#18]]]
-+SvgCommandNumber(double) : SvgCommandNumber [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandNumber.java.html#22]]]
-+add(SvgCommandNumber) : SvgCommandNumber [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandNumber.java.html#26]]]
-+toSvg() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandNumber.java.html#30]]]
-+getDouble() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandNumber.java.html#34]]]
++SvgCommandNumber(String) : SvgCommandNumber [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandNumber.java.html#44]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandNumber.java.html#52]]]
++SvgCommandNumber(double) : SvgCommandNumber [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandNumber.java.html#56]]]
++add(SvgCommandNumber) : SvgCommandNumber [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandNumber.java.html#60]]]
++toSvg() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandNumber.java.html#64]]]
++getDouble() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommandNumber.java.html#68]]]
 } 
 @enduml

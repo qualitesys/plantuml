@@ -2,15 +2,15 @@
 !pragma layout smetana
 "FtileDiamondWIP" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondSquare"
 class net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondSquare {
-+FtileDiamondSquare(TextBlock;ISkinParam;HColor;HColor;Swimlane) : FtileDiamondSquare [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#19]]]
-+withNorth(TextBlock) : FtileDiamondSquare [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#25]]]
-+withWest(TextBlock) : FtileDiamondSquare [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#29]]]
-+withEast(TextBlock) : FtileDiamondSquare [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#33]]]
-+withSouth(TextBlock) : FtileDiamondSquare [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#37]]]
-+withWestAndEast(TextBlock;TextBlock) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#41]]]
--FtileDiamondSquare(TextBlock;ISkinParam;HColor;HColor;Swimlane;TextBlock;TextBlock;TextBlock;TextBlock) : FtileDiamondSquare [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#45]]]
-+drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#50]]]
-calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#75]]]
--calculateDimensionInternal(StringBounder) : XDimension2D [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#80]]]
++FtileDiamondSquare(TextBlock;ISkinParam;HColor;HColor;Swimlane) : FtileDiamondSquare [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#53]]]
++withNorth(TextBlock) : FtileDiamondSquare [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#59]]]
++withWest(TextBlock) : FtileDiamondSquare [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#63]]]
++withEast(TextBlock) : FtileDiamondSquare [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#67]]]
++withSouth(TextBlock) : FtileDiamondSquare [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#71]]]
++withWestAndEast(TextBlock;TextBlock) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#75]]]
+-FtileDiamondSquare(TextBlock;ISkinParam;HColor;HColor;Swimlane;TextBlock;TextBlock;TextBlock;TextBlock) : FtileDiamondSquare [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#79]]]
++drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#84]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#109]]]
+-calculateDimensionInternal(StringBounder) : XDimension2D [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondSquare.java.html#114]]]
 } 
 @enduml

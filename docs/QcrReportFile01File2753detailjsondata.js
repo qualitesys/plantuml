@@ -52,10 +52,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00002"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/Globals.java.html#2"
+ , "c1" : "00016"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/Globals.java.html#16"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00002] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/webp/Globals.java near following tokens gnu . org / licenses / _ . ` */ package net . sourceforge . plantuml . webp ; public class "
+ , "c3" : "QC-JAV999999[00016] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/webp/Globals.java near following tokens gnu . org / licenses / _ . ` */ package net . sourceforge . plantuml . webp ; public class "
 }} 
 ]
 , 

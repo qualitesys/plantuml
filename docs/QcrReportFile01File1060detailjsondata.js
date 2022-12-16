@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.creole.legacy.AtomText" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#76"
  , "c1" : "AtomText"
  , "c2" : "AtomText(String;FontConfiguration;Url;DelayedDouble;DelayedDouble;boolean)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#73"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#107"
  , "c1" : "AtomText"
  , "c2" : "withText(String)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#77"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#111"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00094"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#94"
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#128"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "12"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00149"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#149"
+ , "c5" : "00183"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#183"
  , "c1" : "double"
  , "c2" : "getWidth(StringBounder;String)"
  , "c3" : "4"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00166"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#166"
+ , "c5" : "00200"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#200"
  , "c1" : "String"
  , "c2" : "tabString()"
  , "c3" : "2"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00174"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#174"
+ , "c5" : "00208"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#208"
  , "c1" : "double"
  , "c2" : "getDescent(StringBounder)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00178"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#178"
+ , "c5" : "00212"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#212"
  , "c1" : "double"
  , "c2" : "getTabSize(StringBounder)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00182"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#182"
+ , "c5" : "00216"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#216"
  , "c1" : "Collection<String>"
  , "c2" : "splitted()"
  , "c3" : "8"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00205"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#205"
+ , "c5" : "00239"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#239"
  , "c1" : "Collection<String>"
  , "c2" : "splittedOld()"
  , "c3" : "5"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00224"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#224"
+ , "c5" : "00258"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#258"
  , "c1" : "List<Atom>"
  , "c2" : "getSplitted(StringBounder;LineBreakStrategy)"
  , "c3" : "7"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00252"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#252"
+ , "c5" : "00286"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#286"
  , "c1" : "List<Atom>"
  , "c2" : "splitInTwo(StringBounder;double)"
  , "c3" : "4"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00269"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#269"
+ , "c5" : "00303"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#303"
  , "c1" : "boolean"
  , "c2" : "isSeparator(char)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00273"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#273"
+ , "c5" : "00307"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#307"
  , "c1" : "boolean"
  , "c2" : "isChineseSentenceBoundary(char)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00284"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#284"
+ , "c5" : "00318"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#318"
  , "c1" : "String"
  , "c2" : "getText()"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00288"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#288"
+ , "c5" : "00322"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#322"
  , "c1" : "double"
  , "c2" : "getStartingAltitude(StringBounder)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00293"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#293"
+ , "c5" : "00327"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#327"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00297"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#297"
+ , "c5" : "00331"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#331"
  , "c1" : "FontConfiguration"
  , "c2" : "getFontConfiguration()"
  , "c3" : "1"
@@ -242,584 +242,584 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#76"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00042] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00076] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.creole.legacy.AtomText.AtomText@POLYN194642 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.creole.legacy.AtomText.AtomText@POLYN194846 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#73"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#107"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method withText arguments String  text"
+ , "c3" : "QC-JAV000006[00107] For method withText arguments String  text"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#77"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#111"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00077] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00111] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#77"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#111"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00077] The argument stringBounder is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00111] The argument stringBounder is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#79"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.creole.legacy.AtomText.calculateDimension@POLYN196277 the MagicNumber/String  'g2d=' should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.creole.legacy.AtomText.calculateDimension@POLYN196481 the MagicNumber/String  'g2d=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#80"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.creole.legacy.AtomText.calculateDimension@POLYN196277 the MagicNumber/String  'Size for ' should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.creole.legacy.AtomText.calculateDimension@POLYN196481 the MagicNumber/String  'Size for ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#80"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.creole.legacy.AtomText.calculateDimension@POLYN196277 the MagicNumber/String  ' is ' should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.creole.legacy.AtomText.calculateDimension@POLYN196481 the MagicNumber/String  ' is ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#82"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.creole.legacy.AtomText.calculateDimension@POLYN196277 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.creole.legacy.AtomText.calculateDimension@POLYN196481 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#83"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.creole.legacy.AtomText.calculateDimension@POLYN196277 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.creole.legacy.AtomText.calculateDimension@POLYN196277 the MagicNumber/String  '\t' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.creole.legacy.AtomText.calculateDimension@POLYN196277 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.creole.legacy.AtomText.calculateDimension@POLYN196277 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#94"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00094] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#94"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00094] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00130] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00135] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00137] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#95"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197662 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197662 the MagicNumber/String  'SPECIALTXT' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197662 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197662 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.creole.legacy.AtomText.calculateDimension@POLYN196481 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197662 the MagicNumber/String  '\t' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.creole.legacy.AtomText.calculateDimension@POLYN196481 the MagicNumber/String  '\t' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197662 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.creole.legacy.AtomText.calculateDimension@POLYN196481 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#126"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197662 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.creole.legacy.AtomText.calculateDimension@POLYN196481 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197662 the MagicNumber/String  '\t' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#144"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197662 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#149"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#128"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00149] For method getWidth arguments StringBounder  stringBounder|String  text"
+ , "c3" : "QC-JAV000006[00128] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#149"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#128"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00149] The argument stringBounder is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00128] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#154"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00154] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#159"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00159] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#150"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.creole.legacy.AtomText.getWidth@POLYN201152 the MagicNumber/String  '\t' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#150"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.creole.legacy.AtomText.getWidth@POLYN201152 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#152"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.creole.legacy.AtomText.getWidth@POLYN201152 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#155"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.creole.legacy.AtomText.getWidth@POLYN201152 the MagicNumber/String  '\t' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#168"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.creole.legacy.AtomText.tabString@POLYN202216 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#168"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.creole.legacy.AtomText.tabString@POLYN202216 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000001[00164] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.creole.legacy.AtomText.tabString@POLYN202216 the MagicNumber/String  '        ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#169"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.creole.legacy.AtomText.tabString@POLYN202216 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00169] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.creole.legacy.AtomText.tabString@POLYN202216 the MagicNumber/String  '        ' should be converted to const"
+ , "c3" : "QC-JAV000001[00171] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#174"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00174] For method getDescent arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#174"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00174] The argument stringBounder is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#178"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00178] For method getTabSize arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#178"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00178] The argument stringBounder is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#185"
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitted@POLYN203061 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197866 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#132"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197866 the MagicNumber/String  'SPECIALTXT' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197866 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#136"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197866 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197866 the MagicNumber/String  '\t' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197866 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197866 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197866 the MagicNumber/String  '\t' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#178"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.creole.legacy.AtomText.drawU@POLYN197866 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#183"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00183] For method getWidth arguments StringBounder  stringBounder|String  text"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#183"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00183] The argument stringBounder is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitted@POLYN203061 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00188] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#190"
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitted@POLYN203061 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000001[00193] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00191"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#191"
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitted@POLYN203061 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.creole.legacy.AtomText.getWidth@POLYN201356 the MagicNumber/String  '\t' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#195"
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitted@POLYN203061 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.creole.legacy.AtomText.getWidth@POLYN201356 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00200"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#200"
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitted@POLYN203061 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.creole.legacy.AtomText.getWidth@POLYN201356 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#189"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.creole.legacy.AtomText.getWidth@POLYN201356 the MagicNumber/String  '\t' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#202"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.creole.legacy.AtomText.tabString@POLYN202420 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#202"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.creole.legacy.AtomText.tabString@POLYN202420 the MagicNumber/String  7 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.creole.legacy.AtomText.tabString@POLYN202420 the MagicNumber/String  '        ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.creole.legacy.AtomText.tabString@POLYN202420 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#205"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.creole.legacy.AtomText.tabString@POLYN202420 the MagicNumber/String  '        ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#208"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00208] For method getDescent arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#208"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00208] The argument stringBounder is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00212"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#212"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00212] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#207"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.creole.legacy.AtomText.splittedOld@POLYN204639 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00210"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#210"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.creole.legacy.AtomText.splittedOld@POLYN204639 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#214"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.creole.legacy.AtomText.splittedOld@POLYN204639 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#214"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.creole.legacy.AtomText.splittedOld@POLYN204639 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#214"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.creole.legacy.AtomText.splittedOld@POLYN204639 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00224"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#224"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00224] For method getSplitted arguments StringBounder  stringBounder|LineBreakStrategy  maxWidthAsString"
+ , "c3" : "QC-JAV000006[00212] For method getTabSize arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#212"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00212] The argument stringBounder is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#219"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitted@POLYN203265 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00222"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#222"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitted@POLYN203265 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00224"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#224"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00224] The argument maxWidthAsString is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitted@POLYN203265 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#233"
+ , "c1" : "00225"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#225"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00233] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitted@POLYN203265 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#229"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitted@POLYN203265 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00234"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#234"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00234] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitted@POLYN203265 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#226"
+ , "c1" : "00246"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.creole.legacy.AtomText.getSplitted@POLYN206021 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00246] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00230"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#230"
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.creole.legacy.AtomText.getSplitted@POLYN206021 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.creole.legacy.AtomText.splittedOld@POLYN204843 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00230"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#230"
+ , "c1" : "00244"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.creole.legacy.AtomText.getSplitted@POLYN206021 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.creole.legacy.AtomText.splittedOld@POLYN204843 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00238"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#238"
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#248"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.creole.legacy.AtomText.getSplitted@POLYN206021 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.creole.legacy.AtomText.splittedOld@POLYN204843 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00239"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#239"
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#248"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.creole.legacy.AtomText.getSplitted@POLYN206021 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.creole.legacy.AtomText.splittedOld@POLYN204843 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00239"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#239"
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#248"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.creole.legacy.AtomText.getSplitted@POLYN206021 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00252"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#252"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00252] For method splitInTwo arguments StringBounder  stringBounder|double  width"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00256"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#256"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00256] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00257"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#257"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00257] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00261"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#261"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00261] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00255"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#255"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitInTwo@POLYN207807 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.creole.legacy.AtomText.splittedOld@POLYN204843 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00258"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#258"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitInTwo@POLYN207807 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00259"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#259"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitInTwo@POLYN207807 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00269"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#269"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00269] For method isSeparator arguments char  ch"
+ , "c3" : "QC-JAV000006[00258] For method getSplitted arguments StringBounder  stringBounder|LineBreakStrategy  maxWidthAsString"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00258"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#258"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00258] The argument maxWidthAsString is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00267"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#267"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00267] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00268"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#268"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00268] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#260"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.creole.legacy.AtomText.getSplitted@POLYN206225 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00264"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#264"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.creole.legacy.AtomText.getSplitted@POLYN206225 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00264"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#264"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.creole.legacy.AtomText.getSplitted@POLYN206225 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00272"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#272"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.creole.legacy.AtomText.getSplitted@POLYN206225 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00273"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#273"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.creole.legacy.AtomText.getSplitted@POLYN206225 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00273"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#273"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.creole.legacy.AtomText.getSplitted@POLYN206225 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00286"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#286"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00273] For method isChineseSentenceBoundary arguments char  ch"
+ , "c3" : "QC-JAV000006[00286] For method splitInTwo arguments StringBounder  stringBounder|double  width"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00274"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#274"
+ , "c1" : "00290"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#290"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00274] In method net.sourceforge.plantuml.creole.legacy.AtomText.isChineseSentenceBoundary@POLYN209197 the MagicNumber/String  '\uFF01' should be converted to const"
+ , "c3" : "QC-JAV000001[00290] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00277"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#277"
+ , "c1" : "00291"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#291"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.creole.legacy.AtomText.isChineseSentenceBoundary@POLYN209197 the MagicNumber/String  '\uFF0C' should be converted to const"
+ , "c3" : "QC-JAV000001[00291] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00278"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#278"
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#295"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.creole.legacy.AtomText.isChineseSentenceBoundary@POLYN209197 the MagicNumber/String  '\uFF1A' should be converted to const"
+ , "c3" : "QC-JAV000001[00295] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00279"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#279"
+ , "c1" : "00289"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#289"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.creole.legacy.AtomText.isChineseSentenceBoundary@POLYN209197 the MagicNumber/String  '\uFF1B' should be converted to const"
+ , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitInTwo@POLYN208011 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00280"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#280"
+ , "c1" : "00292"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#292"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.creole.legacy.AtomText.isChineseSentenceBoundary@POLYN209197 the MagicNumber/String  '\uFF1F' should be converted to const"
+ , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitInTwo@POLYN208011 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00281"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#281"
+ , "c1" : "00293"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#293"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00281] In method net.sourceforge.plantuml.creole.legacy.AtomText.isChineseSentenceBoundary@POLYN209197 the MagicNumber/String  '\u3002' should be converted to const"
+ , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.creole.legacy.AtomText.splitInTwo@POLYN208011 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00288"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#288"
+ , "c1" : "00303"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#303"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00288] For method getStartingAltitude arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00303] For method isSeparator arguments char  ch"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00294"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#294"
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#307"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00307] For method isChineseSentenceBoundary arguments char  ch"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00308"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#308"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.creole.legacy.AtomText.toString@POLYN209792 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.creole.legacy.AtomText.isChineseSentenceBoundary@POLYN209401 the MagicNumber/String  '\uFF01' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00311"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#311"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00311] In method net.sourceforge.plantuml.creole.legacy.AtomText.isChineseSentenceBoundary@POLYN209401 the MagicNumber/String  '\uFF0C' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00312"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#312"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.creole.legacy.AtomText.isChineseSentenceBoundary@POLYN209401 the MagicNumber/String  '\uFF1A' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00313"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#313"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00313] In method net.sourceforge.plantuml.creole.legacy.AtomText.isChineseSentenceBoundary@POLYN209401 the MagicNumber/String  '\uFF1B' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00314"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#314"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.creole.legacy.AtomText.isChineseSentenceBoundary@POLYN209401 the MagicNumber/String  '\uFF1F' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00315"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#315"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00315] In method net.sourceforge.plantuml.creole.legacy.AtomText.isChineseSentenceBoundary@POLYN209401 the MagicNumber/String  '\u3002' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00322"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#322"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00322] For method getStartingAltitude arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00328"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/AtomText.java.html#328"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00328] In method net.sourceforge.plantuml.creole.legacy.AtomText.toString@POLYN209996 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ]
 , 

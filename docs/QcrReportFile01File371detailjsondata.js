@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.CounterOutputStream" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#46"
  , "c1" : "CounterOutputStream"
  , "c2" : "CounterOutputStream(OutputStream)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#18"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#54"
  , "c1" : "void"
  , "c2" : "write(int)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#25"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#63"
  , "c1" : "void"
  , "c2" : "write(byte[])"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#32"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#72"
  , "c1" : "void"
  , "c2" : "write(byte[];int;int)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#37"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#77"
  , "c1" : "int"
  , "c2" : "getLength()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#42"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#82"
  , "c1" : "void"
  , "c2" : "flush()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#48"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#88"
  , "c1" : "void"
  , "c2" : "close()"
  , "c3" : "1"
@@ -122,24 +122,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#18"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method write arguments int  b"
+ , "c3" : "QC-JAV000006[00054] For method write arguments int  b"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#25"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method write arguments byte[]  b"
+ , "c3" : "QC-JAV000006[00063] For method write arguments byte[]  b"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#32"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#72"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method write arguments byte[]  b|int  off|int  len"
+ , "c3" : "QC-JAV000006[00072] For method write arguments byte[]  b|int  off|int  len"
 }} 
 ]
 , 

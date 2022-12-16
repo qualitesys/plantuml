@@ -2,10 +2,10 @@
 !pragma layout smetana
 "AbstractAtomAtom" <|-- "net.sourceforge.plantuml.creole.atom.AtomWithMargin"
 class net.sourceforge.plantuml.creole.atom.AtomWithMargin {
-+AtomWithMargin(Atom;double;double) : AtomWithMargin [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#19]]]
-+splitInTwo(StringBounder;double) : List<Atom> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#26]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#43]]]
-+getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#47]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#51]]]
++AtomWithMargin(Atom;double;double) : AtomWithMargin [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#53]]]
++splitInTwo(StringBounder;double) : List<Atom> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#60]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#77]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#81]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#85]]]
 } 
 @enduml

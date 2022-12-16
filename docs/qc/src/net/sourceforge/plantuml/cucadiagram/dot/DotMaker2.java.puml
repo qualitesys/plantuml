@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.dot.DotMaker2"
 class net.sourceforge.plantuml.cucadiagram.dot.DotMaker2 {
-+goJunit() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotMaker2.java.html#8]]]
-+isJunit() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotMaker2.java.html#12]]]
++goJunit() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotMaker2.java.html#42]]]
++isJunit() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotMaker2.java.html#46]]]
 } 
 @enduml

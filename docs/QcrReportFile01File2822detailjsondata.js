@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "org.stathissideris.ascii2image.graphics.BitmapRenderer" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#36"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#58"
  , "c1" : "RenderedImage"
  , "c2" : "renderToImage(Diagram;RenderingOptions)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#52"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#74"
  , "c1" : "RenderedImage"
  , "c2" : "render(Diagram;BufferedImage;RenderingOptions)"
  , "c3" : "34"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00309"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#309"
+ , "c5" : "00332"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#332"
  , "c1" : "RenderedImage"
  , "c2" : "renderTextLayer(ArrayList;int;int)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00343"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#343"
+ , "c5" : "00366"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#366"
  , "c1" : "void"
  , "c2" : "renderCustomShape(DiagramShape;Graphics2D)"
  , "c3" : "7"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00389"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#389"
+ , "c5" : "00412"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#412"
  , "c1" : "void"
  , "c2" : "renderCustomPNGShape(DiagramShape;Graphics2D)"
  , "c3" : "5"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00417"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#417"
+ , "c5" : "00440"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#440"
  , "c1" : "boolean"
  , "c2" : "isColorDark(Color)"
  , "c3" : "4"
@@ -171,997 +171,997 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#36"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method renderToImage arguments Diagram  diagram|RenderingOptions  options"
+ , "c3" : "QC-JAV000006[00058] For method renderToImage arguments Diagram  diagram|RenderingOptions  options"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#36"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#58"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00058] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#36"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#58"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument options is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00058] The argument options is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#52"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method render arguments Diagram  diagram|BufferedImage  image|RenderingOptions  options"
+ , "c3" : "QC-JAV000006[00074] For method render arguments Diagram  diagram|BufferedImage  image|RenderingOptions  options"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#52"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00052] For method render list of called methods Object monObjet|java.util.ArrayList diagram_getAllDiagramShapesN207561|float diagram_getMinimumOfCellDimensionN208362|float diagram_getMinimumOfCellDimensionN210906|java.util.ArrayList diagram_getTextObjectsN216051|int diagram_getCellWidthN218313|int diagram_getCellHeightN218675"
+ , "c3" : "QC-JAV000007[00074] For method render list of called methods Object monObjet|java.util.ArrayList diagram_getAllDiagramShapesN207699|float diagram_getMinimumOfCellDimensionN208500|float diagram_getMinimumOfCellDimensionN211044|java.util.ArrayList diagram_getTextObjectsN216189|int diagram_getCellWidthN218451|int diagram_getCellHeightN218813"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#52"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#74"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00074] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#52"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#74"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument image is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00074] The argument image is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#52"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#74"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument options is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00074] The argument options is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#78"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00078] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00101] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#78"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00078] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00082] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00091] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00092] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#166"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00166] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#166"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00166] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#185"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00185] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#185"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00185] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#187"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00187] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#211"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00211] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#211"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00211] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#228"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00228] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00256"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#256"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00256] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00256"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#256"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00256] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00259"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#259"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00259] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00274"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#274"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00274] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00274"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#274"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00274] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  'Rendering ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  ' shapes (groups flattened)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#86"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  3.333f should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#95"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  150 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#95"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  150 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#95"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  150 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000001[00101] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000001[00105] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#108"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  1.0f should be converted to const"
+ , "c3" : "QC-JAV000001[00114] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#110"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00115] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#116"
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00189] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#136"
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000001[00189] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#139"
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000001[00208] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#154"
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00208] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#156"
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00210] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00191"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#191"
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#234"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00234] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00232"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#232"
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#234"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00234] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#233"
+ , "c1" : "00251"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#251"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00278"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#278"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00251] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00279"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#279"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00279] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00279] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00280"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#280"
+ , "c1" : "00279"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#279"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00280] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00279] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00281"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#281"
+ , "c1" : "00282"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#282"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00281] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00290"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#290"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00290] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00295"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#295"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  170 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00295"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#295"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  170 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00295"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#295"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  170 should be converted to const"
+ , "c3" : "QC-JAV000001[00282] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00297"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#297"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00297] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00297] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00298"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#298"
+ , "c1" : "00297"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#297"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00297] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00299"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#299"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00299] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00300"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#300"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00300] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00309"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#309"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00309] For method renderTextLayer arguments ArrayList  textObjects|int  width|int  height"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00324"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#324"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00324] For method paint arguments Graphics  g"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00328"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#328"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00328] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00086] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00328"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#328"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00328] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00086] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#94"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00094] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  'Rendering ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#94"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00094] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  ' shapes (groups flattened)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#109"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  3.333f should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#111"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00111] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  150 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  150 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  150 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#127"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00127] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00128] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  6 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  1.0f should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00133] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#139"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00139] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00159] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#162"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00162] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#179"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00179] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00214"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#214"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00214] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#255"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00255] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#256"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00256] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#301"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00301] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00302"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#302"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00302] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00303"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#303"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00303] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00304"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#304"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00304] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00313"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#313"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00313] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00318"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#318"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00318] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  170 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00318"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#318"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00318] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  170 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00318"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#318"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00318] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  170 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00320"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#320"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00320] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00321"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#321"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00321] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00322"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#322"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00322] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00323"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#323"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00323] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00332"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#332"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00332] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.TextCanvas.paint@POLYN219700 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00333"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#333"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00333] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.TextCanvas.paint@POLYN219700 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00334"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#334"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00334] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.TextCanvas.paint@POLYN219700 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00335"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#335"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00335] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.TextCanvas.paint@POLYN219700 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00343"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#343"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00343] For method renderCustomShape arguments DiagramShape  shape|Graphics2D  g2"
+ , "c3" : "QC-JAV000006[00332] For method renderTextLayer arguments ArrayList  textObjects|int  width|int  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00343"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#343"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00343] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00343"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#343"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00343] The argument g2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00363"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#363"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00363] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomShape@POLYN221397 the MagicNumber/String  '.png' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00365"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#365"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00365] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomShape@POLYN221397 the MagicNumber/String  '.svg' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00371"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#371"
+ , "c1" : "00347"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#347"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00371] For method renderCustomPNGShape arguments DiagramShape  shape|Graphics2D  g2"
+ , "c3" : "QC-JAV000006[00347] For method paint arguments Graphics  g"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00371"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#371"
+ , "c1" : "00351"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#351"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00351] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00351"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#351"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00351] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00355"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#355"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00355] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.TextCanvas.paint@POLYN219838 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00356"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#356"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00356] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.TextCanvas.paint@POLYN219838 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00357"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#357"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00357] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.TextCanvas.paint@POLYN219838 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00358"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#358"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00358] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.TextCanvas.paint@POLYN219838 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00366"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#366"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00371] For method renderCustomPNGShape list of called methods Object monObjet|org.stathissideris.ascii2image.graphics.ImageHandler ImageHandler_instanceN223539"
+ , "c3" : "QC-JAV000006[00366] For method renderCustomShape arguments DiagramShape  shape|Graphics2D  g2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00389"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#389"
+ , "c1" : "00366"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#366"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00389] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00366] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00389"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#389"
+ , "c1" : "00366"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#366"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00389] The argument g2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00366] The argument g2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00400"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#400"
+ , "c1" : "00386"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#386"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00400] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223271 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00386] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomShape@POLYN221535 the MagicNumber/String  '.png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00400"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#400"
+ , "c1" : "00388"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#388"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00400] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223271 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00388] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomShape@POLYN221535 the MagicNumber/String  '.svg' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00405"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#405"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00405] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223271 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00405"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#405"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00405] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223271 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00405"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#405"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00405] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223271 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00407"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#407"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00407] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223271 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00407"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#407"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00407] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223271 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00409"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#409"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00409] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223271 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00409"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#409"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00409] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223271 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00409"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#409"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00409] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223271 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00414"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#414"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00414] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223271 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00417"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#417"
+ , "c1" : "00394"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#394"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00417] For method isColorDark arguments Color  color"
+ , "c3" : "QC-JAV000006[00394] For method renderCustomPNGShape arguments DiagramShape  shape|Graphics2D  g2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00417"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#417"
+ , "c1" : "00394"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#394"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00394] For method renderCustomPNGShape list of called methods Object monObjet|org.stathissideris.ascii2image.graphics.ImageHandler ImageHandler_instanceN223677"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00412"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#412"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00417] The argument color is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00412] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00420"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#420"
+ , "c1" : "00412"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#412"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00412] The argument g2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00423"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#423"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00420] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.isColorDark@POLYN225429 the MagicNumber/String  200 should be converted to const"
+ , "c3" : "QC-JAV000010[00423] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223409 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00421"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#421"
+ , "c1" : "00423"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#423"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00421] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.isColorDark@POLYN225429 the MagicNumber/String  'Color ' should be converted to const"
+ , "c3" : "QC-JAV000010[00423] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223409 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00421"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#421"
+ , "c1" : "00428"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#428"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00421] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.isColorDark@POLYN225429 the MagicNumber/String  ' is dark' should be converted to const"
+ , "c3" : "QC-JAV000010[00428] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223409 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00422"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#422"
+ , "c1" : "00428"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#428"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00422] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.isColorDark@POLYN225429 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00428] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223409 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00424"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#424"
+ , "c1" : "00428"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#428"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00424] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.isColorDark@POLYN225429 the MagicNumber/String  'Color ' should be converted to const"
+ , "c3" : "QC-JAV000010[00428] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223409 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00424"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#424"
+ , "c1" : "00430"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#430"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00424] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.isColorDark@POLYN225429 the MagicNumber/String  ' is not dark' should be converted to const"
+ , "c3" : "QC-JAV000010[00430] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223409 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00425"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#425"
+ , "c1" : "00430"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#430"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00425] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.isColorDark@POLYN225429 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00430] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223409 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#36"
+ , "c1" : "00432"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#432"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00432] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223409 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00432"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#432"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00432] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223409 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00432"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#432"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00432] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223409 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00437"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#437"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00437] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomPNGShape@POLYN223409 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00440"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#440"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00440] For method isColorDark arguments Color  color"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00440"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#440"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00440] The argument color is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00443"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#443"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00443] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.isColorDark@POLYN225567 the MagicNumber/String  200 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00444"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#444"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00444] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.isColorDark@POLYN225567 the MagicNumber/String  'Color ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00444"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#444"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00444] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.isColorDark@POLYN225567 the MagicNumber/String  ' is dark' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00445"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#445"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00445] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.isColorDark@POLYN225567 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00447"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#447"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00447] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.isColorDark@POLYN225567 the MagicNumber/String  'Color ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00447"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#447"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00447] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.isColorDark@POLYN225567 the MagicNumber/String  ' is not dark' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00448"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#448"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00448] In method org.stathissideris.ascii2image.graphics.BitmapRenderer.isColorDark@POLYN225567 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#58"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00036] Public method renderToImage is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00058] Public method renderToImage is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00417"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#417"
+ , "c1" : "00440"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#440"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00417] Public method isColorDark is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00440] Public method isColorDark is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomShape@POLYN221397"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomShape@POLYN221535"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.BitmapRenderer.renderTextLayer@POLYN218973"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#64"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00064] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#64"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00064] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#64"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00064] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 10 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#64"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00064] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 10 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#67"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00067] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#71"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00071] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String ' shapes -groups flattened-' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#71"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00071] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 'Rendering ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.BitmapRenderer.renderTextLayer@POLYN219111"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#86"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00086] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 3.333f MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00086] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#88"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#86"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00088] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00086] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#95"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#86"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00095] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 150 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00086] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 10 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#95"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#86"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00095] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 150 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00086] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 10 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#95"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#90"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00095] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 150 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00090] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#104"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#94"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00104] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String true MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00094] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String ' shapes -groups flattened-' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#105"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#94"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00105] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 6 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00094] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 'Rendering ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#108"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#109"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00108] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 1.0f MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00109] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 3.333f MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#110"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#111"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00110] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00111] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#116"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#118"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00116] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00118] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 150 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#136"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#118"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00136] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 2 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00118] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 150 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#118"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00118] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 150 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#127"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00127] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String true MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#128"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00128] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 6 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#131"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00131] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 1.0f MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#133"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00133] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#139"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00139] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 10 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00139] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#154"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#159"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00154] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00159] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 2 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#156"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#162"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00156] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00162] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 10 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00191"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#191"
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#177"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00191] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00177] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00232"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#232"
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#179"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00232] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00179] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#233"
+ , "c1" : "00214"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#214"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00233] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00214] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00278"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#278"
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#255"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00278] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00255] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00279"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#279"
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#256"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00279] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00256] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00280"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#280"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#301"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00280] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00301] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00281"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#281"
+ , "c1" : "00302"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#302"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00281] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00302] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00290"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#290"
+ , "c1" : "00303"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#303"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00290] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00303] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00295"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#295"
+ , "c1" : "00304"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#304"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00295] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 170 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00304] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00295"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#295"
+ , "c1" : "00313"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#313"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00295] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 170 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00313] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00295"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#295"
+ , "c1" : "00318"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#318"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00295] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 170 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00318] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 170 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00297"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#297"
+ , "c1" : "00318"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#318"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00297] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00318] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 170 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00298"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#298"
+ , "c1" : "00318"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#318"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00298] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00318] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 170 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00299"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#299"
+ , "c1" : "00320"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#320"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00299] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00320] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00300"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#300"
+ , "c1" : "00321"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#321"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00300] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206391 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00321] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00363"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#363"
+ , "c1" : "00322"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#322"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00363] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomShape@POLYN221397 the MagicNumber/String '.png' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00322] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00365"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#365"
+ , "c1" : "00323"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#323"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00365] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomShape@POLYN221397 the MagicNumber/String '.svg' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00323] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN206529 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00386"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#386"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00386] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomShape@POLYN221535 the MagicNumber/String '.png' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00388"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#388"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00388] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.renderCustomShape@POLYN221535 the MagicNumber/String '.svg' MUST BE CONVERTED to const"
 }} 
 ]
 , 

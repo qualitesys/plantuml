@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.directdot.PSystemDotFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#12"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#45"
  , "c1" : "PSystemDotFactory"
  , "c2" : "PSystemDotFactory(DiagramType)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#17"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#50"
  , "c1" : "PSystemDot"
  , "c2" : "initDiagram(UmlSource;String)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#23"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#56"
  , "c1" : "PSystemDot"
  , "c2" : "executeLine(UmlSource;PSystemDot;String)"
  , "c3" : "3"
@@ -100,87 +100,87 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#17"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method initDiagram arguments UmlSource  source|String  startLine"
+ , "c3" : "QC-JAV000006[00050] For method initDiagram arguments UmlSource  source|String  startLine"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#18"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.initDiagram@POLYN148876 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.initDiagram@POLYN149074 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#19"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.initDiagram@POLYN148876 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.initDiagram@POLYN149074 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method executeLine arguments UmlSource  source|PSystemDot  system|String  line"
+ , "c3" : "QC-JAV000006[00056] For method executeLine arguments UmlSource  source|PSystemDot  system|String  line"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00023] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00056] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#24"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.executeLine@POLYN149081 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.executeLine@POLYN149279 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#24"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.executeLine@POLYN149081 the MagicNumber/String  '(strict\\s+)?(di)?graph\\s+\'?[-\\w]+\'?\\s*\\{' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.executeLine@POLYN149279 the MagicNumber/String  '(strict\\s+)?(di)?graph\\s+\'?[-\\w]+\'?\\s*\\{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#26"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.executeLine@POLYN149081 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.executeLine@POLYN149279 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#29"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.executeLine@POLYN149081 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.executeLine@POLYN149279 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#29"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.executeLine@POLYN149081 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.executeLine@POLYN149279 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#30"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.executeLine@POLYN149081 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.executeLine@POLYN149279 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#33"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/directdot/PSystemDotFactory.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.executeLine@POLYN149081 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.directdot.PSystemDotFactory.executeLine@POLYN149279 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ]
 , 

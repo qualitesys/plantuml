@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.bpm.BpmBranch" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#9"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#42"
  , "c1" : "BpmBranch"
  , "c2" : "BpmBranch(int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#13"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#46"
  , "c1" : "int"
  , "c2" : "incAndGetCounter()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#18"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#51"
  , "c1" : "String"
  , "c2" : "getEntryId()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#22"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#55"
  , "c1" : "String"
  , "c2" : "getExitId()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#26"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#59"
  , "c1" : "BpmElement"
  , "c2" : "getEntryElement()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#30"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#63"
  , "c1" : "BpmElement"
  , "c2" : "getElseElement()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#34"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#67"
  , "c1" : "BpmEvent"
  , "c2" : "getResumeEntryEvent()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#38"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#71"
  , "c1" : "BpmEvent"
  , "c2" : "getGoToEndEvent()"
  , "c3" : "1"
@@ -138,66 +138,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#19"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.bpm.BpmBranch.getEntryId@POLYN147993 the MagicNumber/String  '$branchA' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.bpm.BpmBranch.getEntryId@POLYN148191 the MagicNumber/String  '$branchA' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.bpm.BpmBranch.getExitId@POLYN148103 the MagicNumber/String  '$branchB' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.bpm.BpmBranch.getExitId@POLYN148301 the MagicNumber/String  '$branchB' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#27"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.bpm.BpmBranch.getEntryElement@POLYN148213 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.bpm.BpmBranch.getEntryElement@POLYN148411 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#31"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.bpm.BpmBranch.getElseElement@POLYN148403 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.bpm.BpmBranch.getElseElement@POLYN148601 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#13"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#46"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00013] Public method incAndGetCounter is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00046] Public method incAndGetCounter is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#26"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#59"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00026] Public method getEntryElement is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00059] Public method getEntryElement is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#30"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#63"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00030] Public method getElseElement is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00063] Public method getElseElement is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#34"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#67"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00034] Public method getResumeEntryEvent is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00067] Public method getResumeEntryEvent is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#38"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#71"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00038] Public method getGoToEndEvent is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00071] Public method getGoToEndEvent is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

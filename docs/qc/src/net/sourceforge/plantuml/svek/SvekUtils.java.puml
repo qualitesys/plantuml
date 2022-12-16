@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.svek.SvekUtils"
 class net.sourceforge.plantuml.svek.SvekUtils {
-+traceString(SFile;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#15]]]
-+getValue(String;int;String) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#22]]]
-+getMinXY(List<XPoint2D>) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#34]]]
-+getMaxXY(List<XPoint2D>) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#46]]]
-+println(StringBuilder) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#59]]]
-+pixelToInches(double) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#63]]]
++traceString(SFile;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#49]]]
++getValue(String;int;String) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#56]]]
++getMinXY(List<XPoint2D>) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#68]]]
++getMaxXY(List<XPoint2D>) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#80]]]
++println(StringBuilder) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#93]]]
++pixelToInches(double) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#97]]]
 } 
 @enduml

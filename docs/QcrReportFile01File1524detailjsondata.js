@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.nwdiag.core.NStackable" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/NStackable.java.html#8"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/NStackable.java.html#41"
  , "c1" : "void"
  , "c2" : "setDescription(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/NStackable.java.html#10"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/NStackable.java.html#43"
  , "c1" : "void"
  , "c2" : "setColor(HColor)"
  , "c3" : "1"

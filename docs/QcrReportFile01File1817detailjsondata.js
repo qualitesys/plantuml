@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.salt.element.ElementMenuEntry" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#57"
  , "c1" : "ElementMenuEntry"
  , "c2" : "ElementMenuEntry(String;UFont;ISkinSimple)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#63"
  , "c1" : "XDimension2D"
  , "c2" : "getPreferredDimension(StringBounder;double;double)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#70"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic;int;XDimension2D)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#45"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#79"
  , "c1" : "double"
  , "c2" : "getX()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#49"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#83"
  , "c1" : "void"
  , "c2" : "setX(double)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#53"
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#87"
  , "c1" : "String"
  , "c2" : "getText()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#57"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#91"
  , "c1" : "HColor"
  , "c2" : "getBackground()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#61"
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#95"
  , "c1" : "void"
  , "c2" : "setBackground(HColor)"
  , "c3" : "1"
@@ -145,80 +145,80 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method getPreferredDimension arguments StringBounder  stringBounder|double  x|double  y"
+ , "c3" : "QC-JAV000006[00063] For method getPreferredDimension arguments StringBounder  stringBounder|double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.salt.element.ElementMenuEntry.getPreferredDimension@POLYN155003 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.salt.element.ElementMenuEntry.getPreferredDimension@POLYN155207 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.salt.element.ElementMenuEntry.getPreferredDimension@POLYN155003 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.salt.element.ElementMenuEntry.getPreferredDimension@POLYN155207 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.salt.element.ElementMenuEntry.getPreferredDimension@POLYN155003 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.salt.element.ElementMenuEntry.getPreferredDimension@POLYN155207 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method drawU arguments UGraphic  ug|int  zIndex|XDimension2D  dimToUse"
+ , "c3" : "QC-JAV000006[00070] For method drawU arguments UGraphic  ug|int  zIndex|XDimension2D  dimToUse"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#70"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00070] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.salt.element.ElementMenuEntry.drawU@POLYN155382 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.salt.element.ElementMenuEntry.drawU@POLYN155586 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.salt.element.ElementMenuEntry.drawU@POLYN155382 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.salt.element.ElementMenuEntry.drawU@POLYN155586 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.salt.element.ElementMenuEntry.drawU@POLYN155382 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.salt.element.ElementMenuEntry.drawU@POLYN155586 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#83"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method setX arguments double  x"
+ , "c3" : "QC-JAV000006[00083] For method setX arguments double  x"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementMenuEntry.java.html#95"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method setBackground arguments HColor  background"
+ , "c3" : "QC-JAV000006[00095] For method setBackground arguments HColor  background"
 }} 
 ]
 , 

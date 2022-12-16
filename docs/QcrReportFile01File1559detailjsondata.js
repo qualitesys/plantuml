@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.oregon.Keyboard" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00005"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/Keyboard.java.html#5"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/Keyboard.java.html#39"
  , "c1" : "String"
  , "c2" : "input()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/Keyboard.java.html#6"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/Keyboard.java.html#40"
  , "c1" : "boolean"
  , "c2" : "hasMore()"
  , "c3" : "1"

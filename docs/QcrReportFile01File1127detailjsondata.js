@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.Stereostyles" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#53"
  , "c1" : "Stereostyles"
  , "c2" : "Stereostyles()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#56"
  , "c1" : "boolean"
  , "c2" : "isEmpty()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#60"
  , "c1" : "Stereostyles"
  , "c2" : "build(String)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#70"
  , "c1" : "Collection<String>"
  , "c2" : "getStyleNames()"
  , "c3" : "1"
@@ -102,24 +102,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method build arguments String  label"
+ , "c3" : "QC-JAV000006[00060] For method build arguments String  label"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.cucadiagram.Stereostyles.build@POLYN149785 the MagicNumber/String  '\\&amp;lt;{3}(.*?)\\&amp;gt;{3}' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.cucadiagram.Stereostyles.build@POLYN149989 the MagicNumber/String  '\\&amp;lt;{3}(.*?)\\&amp;gt;{3}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.cucadiagram.Stereostyles.build@POLYN149785 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.cucadiagram.Stereostyles.build@POLYN149989 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

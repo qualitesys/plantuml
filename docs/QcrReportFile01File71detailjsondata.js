@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.google.zxing.common.StringUtils" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#22"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#40"
  , "c1" : "StringUtils"
  , "c2" : "StringUtils()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#25"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#49"
  , "c1" : "String"
  , "c2" : "guessEncoding(byte[];Hashtable)"
  , "c3" : "30"
@@ -84,500 +84,500 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#25"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method guessEncoding arguments byte[]  bytes|Hashtable  hints"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xEF should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xBB should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xBF should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  true should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00049] For method guessEncoding arguments byte[]  bytes|Hashtable  hints"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#61"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#64"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0x80 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xEF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#64"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xBF should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#65"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xBB should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#69"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#70"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xBF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#71"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00071] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xC0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xFD should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00074] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0x40 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#75"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#84"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xC2 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#84"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xC3 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#84"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0x80 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xBF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xBF should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#90"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xC2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xA0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xC3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0x80 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0x7F should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#94"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0x9F should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xC0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#95"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xFD should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#100"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xA1 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#100"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xDF should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0x40 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#107"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xF0 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#107"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xFF should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#107"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0x80 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#107"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xA0 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xC2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#110"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0x81 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xC3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#110"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0x9F should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#110"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xE0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#110"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xEF should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xFF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#113"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00113] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xBF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xC2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xA0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xC3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0x80 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#115"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00115] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0x7F should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#122"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0x9F should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#123"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xA1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#126"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xDF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#126"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xF0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#127"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0x40 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#127"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0xFC should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0x80 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#128"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xA0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#137"
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#140"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0x81 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#141"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0x9F should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#156"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xE0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#156"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN158993 the MagicNumber/String  20 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xEF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#142"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00142] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#146"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00146] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#147"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00147] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#148"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#150"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00150] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#150"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00150] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xFF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0x40 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0xFC should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#152"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00152] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#161"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00161] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#180"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00180] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/StringUtils.java.html#180"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00180] In method ext.plantuml.com.google.zxing.common.StringUtils.guessEncoding@POLYN159137 the MagicNumber/String  20 should be converted to const"
 }} 
 ]
 , 

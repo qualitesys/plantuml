@@ -2,10 +2,10 @@
 !pragma layout smetana
 "SingleMultiFactoryCommand<AbstractEntityDiagram>" <|-- "net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity"
 class net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity {
-+CommandFactoryTipOnEntity(String;IRegex) : CommandFactoryTipOnEntity [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#36]]]
--getRegexConcatMultiLine(IRegex;boolean) : RegexConcat [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#41]]]
-+createSingleLine() : Command<AbstractEntityDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#76]]]
-+createMultiLine(boolean) : Command<AbstractEntityDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#80]]]
--executeInternal(RegexResult;AbstractEntityDiagram;Url;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#111]]]
++CommandFactoryTipOnEntity(String;IRegex) : CommandFactoryTipOnEntity [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#70]]]
+-getRegexConcatMultiLine(IRegex;boolean) : RegexConcat [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#75]]]
++createSingleLine() : Command<AbstractEntityDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#110]]]
++createMultiLine(boolean) : Command<AbstractEntityDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#114]]]
+-executeInternal(RegexResult;AbstractEntityDiagram;Url;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#145]]]
 } 
 @enduml

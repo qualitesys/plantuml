@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<TimingDiagram>" <|-- "net.sourceforge.plantuml.timingdiagram.command.CommandDefineStateLong"
 class net.sourceforge.plantuml.timingdiagram.command.CommandDefineStateLong {
-+CommandDefineStateLong() : CommandDefineStateLong [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandDefineStateLong.java.html#16]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandDefineStateLong.java.html#20]]]
-executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandDefineStateLong.java.html#34]]]
++CommandDefineStateLong() : CommandDefineStateLong [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandDefineStateLong.java.html#50]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandDefineStateLong.java.html#54]]]
+executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandDefineStateLong.java.html#68]]]
 } 
 @enduml

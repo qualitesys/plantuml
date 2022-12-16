@@ -2,18 +2,18 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlockBackcolored" <|-- "net.sourceforge.plantuml.svek.DecorateEntityImage"
 class net.sourceforge.plantuml.svek.DecorateEntityImage {
-+addTop(TextBlock;TextBlock;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#28]]]
-+addBottom(TextBlock;TextBlock;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#32]]]
-+add(TextBlock;TextBlock;HorizontalAlignment;VerticalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#36]]]
-+addTopAndBottom(TextBlock;TextBlock;HorizontalAlignment;TextBlock;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#44]]]
--DecorateEntityImage(TextBlock;TextBlock;HorizontalAlignment;TextBlock;HorizontalAlignment) : DecorateEntityImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#49]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#58]]]
--getTextDim(TextBlock;StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#83]]]
--getTextX(XDimension2D;XDimension2D;HorizontalAlignment) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#90]]]
-+getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#102]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#109]]]
-+getMinMax(StringBounder) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#118]]]
-+getDeltaX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#122]]]
-+getDeltaY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#129]]]
++addTop(TextBlock;TextBlock;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#62]]]
++addBottom(TextBlock;TextBlock;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#66]]]
++add(TextBlock;TextBlock;HorizontalAlignment;VerticalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#70]]]
++addTopAndBottom(TextBlock;TextBlock;HorizontalAlignment;TextBlock;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#78]]]
+-DecorateEntityImage(TextBlock;TextBlock;HorizontalAlignment;TextBlock;HorizontalAlignment) : DecorateEntityImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#83]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#92]]]
+-getTextDim(TextBlock;StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#117]]]
+-getTextX(XDimension2D;XDimension2D;HorizontalAlignment) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#124]]]
++getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#136]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#143]]]
++getMinMax(StringBounder) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#152]]]
++getDeltaX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#156]]]
++getDeltaY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DecorateEntityImage.java.html#163]]]
 } 
 @enduml

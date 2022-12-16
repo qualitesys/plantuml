@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#50"
  , "c1" : "CommandWeekNumberStrategy"
  , "c2" : "CommandWeekNumberStrategy()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#54"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#70"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(GanttDiagram;LineLocation;RegexResult)"
  , "c3" : "1"
@@ -100,122 +100,122 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152224 the MagicNumber/String  'weeks?' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152428 the MagicNumber/String  'weeks?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152224 the MagicNumber/String  'starts?' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152428 the MagicNumber/String  'starts?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152224 the MagicNumber/String  '[^0-9]*?' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152428 the MagicNumber/String  '[^0-9]*?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152224 the MagicNumber/String  'WEEKDAY' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152428 the MagicNumber/String  'WEEKDAY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152224 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152428 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152224 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152428 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152224 the MagicNumber/String  '[^0-9]*?' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152428 the MagicNumber/String  '[^0-9]*?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152224 the MagicNumber/String  'NUM' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152428 the MagicNumber/String  'NUM' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152224 the MagicNumber/String  '([0-9]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152428 the MagicNumber/String  '([0-9]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152224 the MagicNumber/String  '[^0-9]*?' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.getRegexConcat@POLYN152428 the MagicNumber/String  '[^0-9]*?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method executeArg arguments GanttDiagram  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00070] For method executeArg arguments GanttDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#70"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00070] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#70"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00070] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.executeArg@POLYN153151 the MagicNumber/String  'WEEKDAY' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.executeArg@POLYN153355 the MagicNumber/String  'WEEKDAY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.executeArg@POLYN153151 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.executeArg@POLYN153355 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.executeArg@POLYN153151 the MagicNumber/String  'NUM' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.executeArg@POLYN153355 the MagicNumber/String  'NUM' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.executeArg@POLYN153151 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy.executeArg@POLYN153355 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.Curve" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/jcckit/plot/Curve.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/jcckit/plot/Curve.java.html#44"
  , "c1" : "GraphicalElement"
  , "c2" : "getView()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/jcckit/plot/Curve.java.html#13"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/jcckit/plot/Curve.java.html#51"
  , "c1" : "GraphicalElement"
  , "c2" : "getLegendSymbol()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/jcckit/plot/Curve.java.html#16"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/jcckit/plot/Curve.java.html#60"
  , "c1" : "Hint"
  , "c2" : "addPoint(GraphPoint;Hint)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/jcckit/plot/Curve.java.html#19"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/jcckit/plot/Curve.java.html#63"
  , "c1" : "void"
  , "c2" : "removeAllPoints()"
  , "c3" : "1"

@@ -2,13 +2,13 @@
 !pragma layout smetana
 "ValueAbstractValue" <|-- "net.sourceforge.plantuml.style.ValueNull"
 class net.sourceforge.plantuml.style.ValueNull {
--ValueNull() : ValueNull [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueNull.java.html#15]]]
-+asInt() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueNull.java.html#19]]]
-+asDouble() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueNull.java.html#24]]]
-+asBoolean() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueNull.java.html#29]]]
-+asString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueNull.java.html#34]]]
-+asFontStyle() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueNull.java.html#39]]]
-+asColor(HColorSet) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueNull.java.html#44]]]
-+asHorizontalAlignment() : HorizontalAlignment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueNull.java.html#49]]]
+-ValueNull() : ValueNull [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueNull.java.html#49]]]
++asInt() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueNull.java.html#53]]]
++asDouble() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueNull.java.html#58]]]
++asBoolean() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueNull.java.html#63]]]
++asString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueNull.java.html#68]]]
++asFontStyle() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueNull.java.html#73]]]
++asColor(HColorSet) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueNull.java.html#78]]]
++asHorizontalAlignment() : HorizontalAlignment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/ValueNull.java.html#83]]]
 } 
 @enduml

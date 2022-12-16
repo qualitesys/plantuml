@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.math.ConverterSvg"
 class net.sourceforge.plantuml.math.ConverterSvg {
-+ConverterSvg(Icon) : ConverterSvg [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#25]]]
-+getSvg(double;boolean;Color) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#49]]]
-+getDimension() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#90]]]
++ConverterSvg(Icon) : ConverterSvg [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#59]]]
++getSvg(double;boolean;Color) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#83]]]
++getDimension() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#124]]]
 } 
 @enduml

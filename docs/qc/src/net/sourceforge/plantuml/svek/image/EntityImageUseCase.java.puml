@@ -2,17 +2,17 @@
 !pragma layout smetana
 "AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageUseCase"
 class net.sourceforge.plantuml.svek.image.EntityImageUseCase {
-+EntityImageUseCase(ILeaf;ISkinParam;PortionShower) : EntityImageUseCase [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#52]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#80]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#84]]]
--specialBusiness(UGraphic;UEllipse) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#118]]]
--specialBusiness0(UGraphic;UEllipse) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#130]]]
--drawLine(UGraphic;XPoint2D;XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#138]]]
--getTrueAngle(double;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#143]]]
--getBackColor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#147]]]
--getStyle() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#158]]]
--getDefaultStyleDefinition() : StyleSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#162]]]
--getLineColor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#167]]]
-+getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#176]]]
++EntityImageUseCase(ILeaf;ISkinParam;PortionShower) : EntityImageUseCase [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#86]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#114]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#118]]]
+-specialBusiness(UGraphic;UEllipse) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#152]]]
+-specialBusiness0(UGraphic;UEllipse) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#164]]]
+-drawLine(UGraphic;XPoint2D;XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#172]]]
+-getTrueAngle(double;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#177]]]
+-getBackColor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#181]]]
+-getStyle() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#192]]]
+-getDefaultStyleDefinition() : StyleSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#196]]]
+-getLineColor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#201]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#210]]]
 } 
 @enduml

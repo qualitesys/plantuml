@@ -2,7 +2,7 @@
 !pragma layout smetana
 "UDrawable" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GConnection"
 class net.sourceforge.plantuml.activitydiagram3.gtile.GConnection {
-+getHooks() : List<GPoint> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnection.java.html#12]]]
-+drawTranslatable(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnection.java.html#14]]]
++getHooks() : List<GPoint> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnection.java.html#46]]]
++drawTranslatable(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnection.java.html#48]]]
 } 
 @enduml

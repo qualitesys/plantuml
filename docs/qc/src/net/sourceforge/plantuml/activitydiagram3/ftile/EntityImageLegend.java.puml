@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.EntityImageLegend"
 class net.sourceforge.plantuml.activitydiagram3.ftile.EntityImageLegend {
-+create(Display;ISkinParam) : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/EntityImageLegend.java.html#13]]]
++create(Display;ISkinParam) : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/EntityImageLegend.java.html#47]]]
 } 
 @enduml

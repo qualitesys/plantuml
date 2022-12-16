@@ -2,11 +2,11 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.TileText"
 class net.sourceforge.plantuml.graphic.TileText {
-+TileText(String;FontConfiguration;Url) : TileText [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileText.java.html#19]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileText.java.html#25]]]
-+getFontSize2D() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileText.java.html#38]]]
-getTabSize(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileText.java.html#42]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileText.java.html#46]]]
-getWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileText.java.html#82]]]
++TileText(String;FontConfiguration;Url) : TileText [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileText.java.html#53]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileText.java.html#59]]]
++getFontSize2D() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileText.java.html#72]]]
+getTabSize(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileText.java.html#76]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileText.java.html#80]]]
+getWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileText.java.html#116]]]
 } 
 @enduml

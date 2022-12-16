@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.utils.MathUtils" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#42"
  , "c1" : "double"
  , "c2" : "max(double;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#46"
  , "c1" : "double"
  , "c2" : "max(double;double;double)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#50"
  , "c1" : "double"
  , "c2" : "max(double;double;double;double)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#54"
  , "c1" : "double"
  , "c2" : "max(double;double;double;double;double)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#58"
  , "c1" : "double"
  , "c2" : "min(double;double)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#62"
  , "c1" : "double"
  , "c2" : "min(double;double;double)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#66"
  , "c1" : "double"
  , "c2" : "min(double;double;double;double)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#70"
  , "c1" : "double"
  , "c2" : "min(double;double;double;double;double)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#74"
  , "c1" : "double"
  , "c2" : "limitation(double;double;double)"
  , "c3" : "4"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#89"
  , "c1" : "XDimension2D"
  , "c2" : "max(XDimension2D;XDimension2D)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#60"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#94"
  , "c1" : "XDimension2D"
  , "c2" : "max(XDimension2D;XDimension2D;XDimension2D)"
  , "c3" : "1"
@@ -165,115 +165,115 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#8"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#42"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00008] For method max arguments double  a|double  b"
+ , "c3" : "QC-JAV000006[00042] For method max arguments double  a|double  b"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method max arguments double  a|double  b|double  c"
+ , "c3" : "QC-JAV000006[00046] For method max arguments double  a|double  b|double  c"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method max arguments double  a|double  b|double  c|double  d"
+ , "c3" : "QC-JAV000006[00050] For method max arguments double  a|double  b|double  c|double  d"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method max arguments double  a|double  b|double  c|double  d|double  e"
+ , "c3" : "QC-JAV000006[00054] For method max arguments double  a|double  b|double  c|double  d|double  e"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method min arguments double  a|double  b"
+ , "c3" : "QC-JAV000006[00058] For method min arguments double  a|double  b"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method min arguments double  a|double  b|double  c"
+ , "c3" : "QC-JAV000006[00062] For method min arguments double  a|double  b|double  c"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method min arguments double  a|double  b|double  c|double  d"
+ , "c3" : "QC-JAV000006[00066] For method min arguments double  a|double  b|double  c|double  d"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method min arguments double  a|double  b|double  c|double  d|double  e"
+ , "c3" : "QC-JAV000006[00070] For method min arguments double  a|double  b|double  c|double  d|double  e"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method limitation arguments double  v|double  min|double  max"
+ , "c3" : "QC-JAV000006[00074] For method limitation arguments double  v|double  min|double  max"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#55"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#89"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method max arguments XDimension2D  dim1|XDimension2D  dim2"
+ , "c3" : "QC-JAV000006[00089] For method max arguments XDimension2D  dim1|XDimension2D  dim2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#55"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#89"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00055] The argument dim1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00089] The argument dim1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#55"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#89"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00055] The argument dim2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00089] The argument dim2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#94"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method max arguments XDimension2D  dim1|XDimension2D  dim2|XDimension2D  dim3"
+ , "c3" : "QC-JAV000006[00094] For method max arguments XDimension2D  dim1|XDimension2D  dim2|XDimension2D  dim3"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#94"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00060] The argument dim1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00094] The argument dim1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#94"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00060] The argument dim2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00094] The argument dim2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/MathUtils.java.html#94"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00060] The argument dim3 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00094] The argument dim3 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

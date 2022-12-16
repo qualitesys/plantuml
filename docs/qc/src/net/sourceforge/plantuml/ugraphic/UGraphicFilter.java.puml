@@ -2,8 +2,8 @@
 !pragma layout smetana
 "UGraphicDelegator" <|-- "net.sourceforge.plantuml.ugraphic.UGraphicFilter"
 class net.sourceforge.plantuml.ugraphic.UGraphicFilter {
-+apply(UChange) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#11]]]
-+UGraphicFilter(UGraphic;Class<?extendsUShape>...) : UGraphicFilter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#17]]]
-+draw(UShape) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#22]]]
++apply(UChange) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#45]]]
++UGraphicFilter(UGraphic;Class<?extendsUShape>...) : UGraphicFilter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#51]]]
++draw(UShape) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#56]]]
 } 
 @enduml

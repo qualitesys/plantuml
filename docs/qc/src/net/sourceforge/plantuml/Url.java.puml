@@ -2,18 +2,18 @@
 !pragma layout smetana
 "EnsureVisible" <|-- "net.sourceforge.plantuml.Url"
 class net.sourceforge.plantuml.Url {
-+Url(String;String) : Url [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#17]]]
-+Url(String;String;String) : Url [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#21]]]
-+isLatex(String) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#36]]]
-+isLatex() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#40]]]
-+getUrl() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#44]]]
-+getTooltip() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#48]]]
-+getLabel() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#52]]]
-+toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#57]]]
-+getCoords(double) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#61]]]
-+setMember(boolean) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#68]]]
-+isMember() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#72]]]
-+ensureVisible(double;double) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#78]]]
-+hasData() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#82]]]
++Url(String;String) : Url [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#51]]]
++Url(String;String;String) : Url [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#55]]]
++isLatex(String) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#70]]]
++isLatex() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#74]]]
++getUrl() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#78]]]
++getTooltip() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#82]]]
++getLabel() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#86]]]
++toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#91]]]
++getCoords(double) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#95]]]
++setMember(boolean) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#102]]]
++isMember() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#106]]]
++ensureVisible(double;double) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#112]]]
++hasData() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Url.java.html#116]]]
 } 
 @enduml

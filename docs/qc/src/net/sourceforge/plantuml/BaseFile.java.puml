@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.BaseFile"
 class net.sourceforge.plantuml.BaseFile {
-+BaseFile(SFile) : BaseFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/BaseFile.java.html#11]]]
--extractBasename(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BaseFile.java.html#21]]]
-+toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BaseFile.java.html#30]]]
-+getBasename() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BaseFile.java.html#37]]]
-+getBasedir() : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/BaseFile.java.html#41]]]
-+getTraceFile(String) : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/BaseFile.java.html#45]]]
++BaseFile(SFile) : BaseFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/BaseFile.java.html#45]]]
+-extractBasename(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BaseFile.java.html#55]]]
++toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BaseFile.java.html#64]]]
++getBasename() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BaseFile.java.html#71]]]
++getBasedir() : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/BaseFile.java.html#75]]]
++getTraceFile(String) : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/BaseFile.java.html#79]]]
 } 
 @enduml

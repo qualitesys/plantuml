@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.UClip" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#16"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#49"
  , "c1" : "UClip"
  , "c2" : "UClip(double;double;double;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#23"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#56"
  , "c1" : "UClip"
  , "c2" : "enlarge(double)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#28"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#61"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#32"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#65"
  , "c1" : "UClip"
  , "c2" : "translate(double;double)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#36"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#69"
  , "c1" : "UClip"
  , "c2" : "translate(UTranslate)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#40"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#73"
  , "c1" : "double"
  , "c2" : "getX()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#44"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#77"
  , "c1" : "double"
  , "c2" : "getY()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#48"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#81"
  , "c1" : "double"
  , "c2" : "getWidth()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#52"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#85"
  , "c1" : "double"
  , "c2" : "getHeight()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#56"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#89"
  , "c1" : "boolean"
  , "c2" : "isInside(XPoint2D)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#60"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#93"
  , "c1" : "boolean"
  , "c2" : "isInside(double;double)"
  , "c3" : "5"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00082"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#82"
+ , "c5" : "00115"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#115"
  , "c1" : "Rectangle2D.Double"
  , "c2" : "getClippedRectangle(Rectangle2D.Double)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#86"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#119"
  , "c1" : "Line2D.Double"
  , "c2" : "getClippedLine(Line2D.Double)"
  , "c3" : "8"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00117"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#117"
+ , "c5" : "00150"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#150"
  , "c1" : "double"
  , "c2" : "getClippedX(double)"
  , "c3" : "3"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00127"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#127"
+ , "c5" : "00160"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#160"
  , "c1" : "double"
  , "c2" : "getClippedY(double)"
  , "c3" : "3"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00137"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#137"
+ , "c5" : "00170"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#170"
  , "c1" : "boolean"
  , "c2" : "isInside(double;double;UPath)"
  , "c3" : "1"
@@ -217,206 +217,206 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#23"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method enlarge arguments double  delta"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.ugraphic.UClip.enlarge@POLYN165823 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.ugraphic.UClip.enlarge@POLYN165823 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.ugraphic.UClip.toString@POLYN166185 the MagicNumber/String  'CLIP x=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.ugraphic.UClip.toString@POLYN166185 the MagicNumber/String  ' y=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.ugraphic.UClip.toString@POLYN166185 the MagicNumber/String  ' w=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.ugraphic.UClip.toString@POLYN166185 the MagicNumber/String  ' h=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#32"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method translate arguments double  dx|double  dy"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#36"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method translate arguments UTranslate  translate"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#36"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument translate is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method isInside arguments XPoint2D  pt"
+ , "c3" : "QC-JAV000006[00056] For method enlarge arguments double  delta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#56"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#57"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.UClip.enlarge@POLYN166021 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#57"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.UClip.enlarge@POLYN166021 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.UClip.toString@POLYN166383 the MagicNumber/String  'CLIP x=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.UClip.toString@POLYN166383 the MagicNumber/String  ' y=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.UClip.toString@POLYN166383 the MagicNumber/String  ' w=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.UClip.toString@POLYN166383 the MagicNumber/String  ' h=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#65"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00065] For method translate arguments double  dx|double  dy"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#69"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00069] For method translate arguments UTranslate  translate"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#69"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00056] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00069] The argument translate is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#60"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#89"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method isInside arguments double  xp|double  yp"
+ , "c3" : "QC-JAV000006[00089] For method isInside arguments XPoint2D  pt"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN167480 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN167480 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN167480 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN167480 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN167480 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#82"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method getClippedRectangle arguments Rectangle2D.Double  r"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#86"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00086] For method getClippedLine arguments Line2D.Double  line"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#86"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#89"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00086] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00089] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.UClip.getClippedLine@POLYN168921 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.UClip.getClippedLine@POLYN168921 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.ugraphic.UClip.getClippedLine@POLYN168921 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.ugraphic.UClip.getClippedLine@POLYN168921 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#117"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00117] For method getClippedX arguments double  xp"
+ , "c3" : "QC-JAV000006[00093] For method isInside arguments double  xp|double  yp"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#127"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#96"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN167678 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN167678 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#104"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN167678 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#108"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN167678 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#112"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN167678 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#115"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00127] For method getClippedY arguments double  yp"
+ , "c3" : "QC-JAV000006[00115] For method getClippedRectangle arguments Rectangle2D.Double  r"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#137"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#119"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00137] For method isInside arguments double  x|double  y|UPath  shape"
+ , "c3" : "QC-JAV000006[00119] For method getClippedLine arguments Line2D.Double  line"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#137"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#119"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00137] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00119] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ugraphic.UClip.getClippedLine@POLYN169119 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ugraphic.UClip.getClippedLine@POLYN169119 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ugraphic.UClip.getClippedLine@POLYN169119 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#134"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.ugraphic.UClip.getClippedLine@POLYN169119 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#150"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00150] For method getClippedX arguments double  xp"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#160"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00160] For method getClippedY arguments double  yp"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#170"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00170] For method isInside arguments double  x|double  y|UPath  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#170"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00170] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.tim.Trie"
 class net.sourceforge.plantuml.tim.Trie {
-+add(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Trie.java.html#6]]]
-+getLonguestMatchStartingIn(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Trie.java.html#8]]]
++add(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Trie.java.html#39]]]
++getLonguestMatchStartingIn(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/Trie.java.html#41]]]
 } 
 @enduml

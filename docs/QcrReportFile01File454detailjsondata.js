@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.StdrptV2" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#48"
  , "c1" : "void"
  , "c2" : "finalMessage()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#51"
  , "c1" : "void"
  , "c2" : "finalMessage(ErrorStatus)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#54"
  , "c1" : "void"
  , "c2" : "errorLine(int;File)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#57"
  , "c1" : "void"
  , "c2" : "printInfo(PrintStream;Diagram)"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#66"
  , "c1" : "void"
  , "c2" : "out(PrintStream;PSystemError)"
  , "c3" : "4"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#50"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/StdrptV2.java.html#84"
  , "c1" : "boolean"
  , "c2" : "empty(PSystemError)"
  , "c3" : "4"
@@ -141,171 +141,171 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#51"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method finalMessage arguments ErrorStatus  error"
+ , "c3" : "QC-JAV000006[00051] For method finalMessage arguments ErrorStatus  error"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method errorLine arguments int  lineError|File  file"
+ , "c3" : "QC-JAV000006[00054] For method errorLine arguments int  lineError|File  file"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method printInfo arguments PrintStream  output|Diagram  sys"
+ , "c3" : "QC-JAV000006[00057] For method printInfo arguments PrintStream  output|Diagram  sys"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.StdrptV2.printInfo@POLYN152603 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.StdrptV2.printInfo@POLYN152807 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.StdrptV2.printInfo@POLYN152603 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.StdrptV2.printInfo@POLYN152807 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method out arguments PrintStream  output|PSystemError  err"
+ , "c3" : "QC-JAV000006[00066] For method out arguments PrintStream  output|PSystemError  err"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#66"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00032] The argument output is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00066] The argument output is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#66"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00032] The argument err is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00066] The argument err is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.StdrptV2.out@POLYN153036 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.StdrptV2.out@POLYN153240 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.StdrptV2.out@POLYN153036 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.StdrptV2.out@POLYN153240 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.StdrptV2.out@POLYN153036 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.StdrptV2.out@POLYN153240 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.StdrptV2.out@POLYN153036 the MagicNumber/String  'error' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.StdrptV2.out@POLYN153240 the MagicNumber/String  'error' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#41"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.StdrptV2.out@POLYN153036 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.StdrptV2.out@POLYN153240 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#50"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method empty arguments PSystemError  err"
+ , "c3" : "QC-JAV000006[00084] For method empty arguments PSystemError  err"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.StdrptV2.empty@POLYN154372 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.StdrptV2.empty@POLYN154372 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.StdrptV2.empty@POLYN154372 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#92"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.StdrptV2.empty@POLYN154372 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#48"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00048] Void method finalMessage is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#48"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00048] Void method finalMessage is empty or contains only a return. Interface segregation"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.StdrptV2.empty@POLYN154168 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.StdrptV2.empty@POLYN154168 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.StdrptV2.empty@POLYN154168 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.StdrptV2.empty@POLYN154168 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#14"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00014] Void method finalMessage is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00051] Void method finalMessage is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#14"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#51"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00014] Void method finalMessage is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00051] Void method finalMessage is empty or contains only a return. Interface segregation"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#17"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#54"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00017] Void method finalMessage is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00054] Void method errorLine is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#17"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#54"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00017] Void method finalMessage is empty or contains only a return. Interface segregation"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#20"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00020] Void method errorLine is empty or contains only a return."
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#20"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00020] Void method errorLine is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00054] Void method errorLine is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<NwDiagram>" <|-- "net.sourceforge.plantuml.nwdiag.CommandNwDiagInit"
 class net.sourceforge.plantuml.nwdiag.CommandNwDiagInit {
-+CommandNwDiagInit() : CommandNwDiagInit [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandNwDiagInit.java.html#14]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandNwDiagInit.java.html#18]]]
-executeArg(NwDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandNwDiagInit.java.html#26]]]
++CommandNwDiagInit() : CommandNwDiagInit [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandNwDiagInit.java.html#48]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandNwDiagInit.java.html#52]]]
+executeArg(NwDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandNwDiagInit.java.html#60]]]
 } 
 @enduml

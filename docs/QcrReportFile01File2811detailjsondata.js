@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.zopfli.SymbolStats" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#13"
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#29"
  , "c1" : "void"
  , "c2" : "getFreqs(LzStore)"
  , "c3" : "4"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#38"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#54"
  , "c1" : "void"
  , "c2" : "copy(SymbolStats)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#46"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#62"
  , "c1" : "void"
  , "c2" : "calculate()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#51"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#67"
  , "c1" : "void"
  , "c2" : "calculateLens()"
  , "c3" : "7"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#77"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#93"
  , "c1" : "void"
  , "c2" : "calculateDists()"
  , "c3" : "7"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00100"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#100"
+ , "c5" : "00116"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#116"
  , "c1" : "void"
  , "c2" : "alloy(SymbolStats)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#113"
+ , "c5" : "00129"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#129"
  , "c1" : "int"
  , "c2" : "randomizeFreqs(int)"
  , "c3" : "7"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00144"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#144"
+ , "c5" : "00160"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#160"
  , "c1" : "long"
  , "c2" : "minCost()"
  , "c3" : "5"
@@ -145,675 +145,675 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#13"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#29"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method getFreqs arguments LzStore  store"
+ , "c3" : "QC-JAV000006[00029] For method getFreqs arguments LzStore  store"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#13"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#29"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00013] The argument store is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00029] The argument store is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#16"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169420 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169516 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#16"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169420 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169516 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#16"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169420 the MagicNumber/String  288 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169516 the MagicNumber/String  288 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#17"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169420 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169516 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#17"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169420 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169516 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#17"
+ , "c1" : "00033"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169420 the MagicNumber/String  32 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169420 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169420 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169420 the MagicNumber/String  256 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169420 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#38"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method copy arguments SymbolStats  source"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#38"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00038] The argument source is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#39"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171124 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#39"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171124 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#39"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171124 the MagicNumber/String  288 should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169516 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00040"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171124 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171124 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171124 the MagicNumber/String  32 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171124 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171124 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171124 the MagicNumber/String  288 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171124 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171124 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171124 the MagicNumber/String  259 should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169516 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00043"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171124 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169516 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#43"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171124 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169516 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#43"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171124 the MagicNumber/String  32 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172184 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.zopfli.SymbolStats.getFreqs@POLYN169516 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172184 the MagicNumber/String  0 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00054] For method copy arguments SymbolStats  source"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#54"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00054] The argument source is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172184 the MagicNumber/String  288 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171220 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#55"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171220 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#55"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171220 the MagicNumber/String  288 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#56"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171220 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#56"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171220 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#56"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171220 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172184 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171220 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172184 the MagicNumber/String  288 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171220 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#57"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171220 the MagicNumber/String  288 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171220 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171220 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171220 the MagicNumber/String  259 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172184 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171220 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172184 the MagicNumber/String  288 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171220 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#60"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172184 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.zopfli.SymbolStats.copy@POLYN171220 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#65"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172184 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172280 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#66"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172184 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172280 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#72"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172184 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172184 the MagicNumber/String  259 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172280 the MagicNumber/String  288 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172184 the MagicNumber/String  0x10000L should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172280 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#78"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174363 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172280 the MagicNumber/String  288 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#80"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174363 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172280 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#80"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174363 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172280 the MagicNumber/String  288 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#83"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174363 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172280 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#83"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174363 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172280 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#85"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174363 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172280 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#85"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174363 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172280 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#86"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174363 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172280 the MagicNumber/String  259 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#91"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174363 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateLens@POLYN172280 the MagicNumber/String  0x10000L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#92"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174363 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#95"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174363 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#95"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174363 the MagicNumber/String  30 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174459 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174363 the MagicNumber/String  0x10000L should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174459 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174363 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174459 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#96"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174363 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174459 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#100"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00100] For method alloy arguments SymbolStats  ligand"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#99"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174459 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#100"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00100] The argument ligand is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#101"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174459 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#101"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174459 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.zopfli.SymbolStats.alloy@POLYN176294 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174459 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#102"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.zopfli.SymbolStats.alloy@POLYN176294 the MagicNumber/String  288 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.zopfli.SymbolStats.alloy@POLYN176294 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.zopfli.SymbolStats.alloy@POLYN176294 the MagicNumber/String  256 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.zopfli.SymbolStats.alloy@POLYN176294 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174459 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.zopfli.SymbolStats.alloy@POLYN176294 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174459 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#108"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.zopfli.SymbolStats.alloy@POLYN176294 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174459 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#109"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.zopfli.SymbolStats.alloy@POLYN176294 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174459 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#113"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method randomizeFreqs arguments int  z"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#112"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174459 the MagicNumber/String  0x10000L should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#112"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174459 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#112"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.SymbolStats.calculateDists@POLYN174459 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#116"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  0 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00116] For method alloy arguments SymbolStats  ligand"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  0x7FFFFFFF should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  1103515245 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  12345 should be converted to const"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#116"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00116] The argument ligand is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.zopfli.SymbolStats.alloy@POLYN176390 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.zopfli.SymbolStats.alloy@POLYN176390 the MagicNumber/String  288 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  0x7FFFFFFF should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.zopfli.SymbolStats.alloy@POLYN176390 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#119"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  1103515245 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.zopfli.SymbolStats.alloy@POLYN176390 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#119"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  12345 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.zopfli.SymbolStats.alloy@POLYN176390 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#126"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.zopfli.SymbolStats.alloy@POLYN176390 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#126"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.zopfli.SymbolStats.alloy@POLYN176390 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#130"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.zopfli.SymbolStats.alloy@POLYN176390 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  0x7FFFFFFF should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  1103515245 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  12345 should be converted to const"
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#129"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00129] For method randomizeFreqs arguments int  z"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  0x7FFFFFFF should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  0x7FFFFFFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  1103515245 should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  1103515245 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177197 the MagicNumber/String  12345 should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  12345 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#134"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#134"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#134"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  0x7FFFFFFF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  1103515245 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  12345 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#142"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  256 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#142"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.zopfli.SymbolStats.minCost@POLYN179486 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.zopfli.SymbolStats.minCost@POLYN179486 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  0x7FFFFFFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.zopfli.SymbolStats.minCost@POLYN179486 the MagicNumber/String  259 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  1103515245 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#155"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.zopfli.SymbolStats.minCost@POLYN179486 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  12345 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#156"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.zopfli.SymbolStats.minCost@POLYN179486 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#156"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.zopfli.SymbolStats.minCost@POLYN179486 the MagicNumber/String  30 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#148"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#149"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  0x7FFFFFFF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#149"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  1103515245 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#149"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.zopfli.SymbolStats.randomizeFreqs@POLYN177293 the MagicNumber/String  12345 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#162"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.zopfli.SymbolStats.minCost@POLYN179582 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.zopfli.SymbolStats.minCost@POLYN179582 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.zopfli.SymbolStats.minCost@POLYN179582 the MagicNumber/String  259 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.zopfli.SymbolStats.minCost@POLYN179582 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.zopfli.SymbolStats.minCost@POLYN179582 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/SymbolStats.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.zopfli.SymbolStats.minCost@POLYN179582 the MagicNumber/String  30 should be converted to const"
 }} 
 ]
 , 

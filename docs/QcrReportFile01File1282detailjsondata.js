@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.eps.PostScriptCommandMacro" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#9"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#43"
  , "c1" : "PostScriptCommandMacro"
  , "c2" : "PostScriptCommandMacro(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#13"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#47"
  , "c1" : "String"
  , "c2" : "getName()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#51"
  , "c1" : "void"
  , "c2" : "add(PostScriptCommand)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#55"
  , "c1" : "String"
  , "c2" : "toPostString()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#59"
  , "c1" : "String"
  , "c2" : "getPostStringDefinition()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#68"
  , "c1" : "int"
  , "c2" : "hashCode()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#39"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#73"
  , "c1" : "boolean"
  , "c2" : "equals(Object)"
  , "c3" : "1"
@@ -129,38 +129,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#51"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method add arguments PostScriptCommand  cmd"
+ , "c3" : "QC-JAV000006[00051] For method add arguments PostScriptCommand  cmd"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.eps.PostScriptCommandMacro.getPostStringDefinition@POLYN149268 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.eps.PostScriptCommandMacro.getPostStringDefinition@POLYN149472 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.eps.PostScriptCommandMacro.getPostStringDefinition@POLYN149268 the MagicNumber/String  ' {\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.eps.PostScriptCommandMacro.getPostStringDefinition@POLYN149472 the MagicNumber/String  ' {\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.eps.PostScriptCommandMacro.getPostStringDefinition@POLYN149268 the MagicNumber/String  '} def\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.eps.PostScriptCommandMacro.getPostStringDefinition@POLYN149472 the MagicNumber/String  '} def\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMacro.java.html#73"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method equals arguments Object  obj"
+ , "c3" : "QC-JAV000006[00073] For method equals arguments Object  obj"
 }} 
 ]
 , 

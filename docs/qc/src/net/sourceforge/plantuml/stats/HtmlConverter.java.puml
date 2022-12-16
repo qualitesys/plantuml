@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.stats.HtmlConverter"
 class net.sourceforge.plantuml.stats.HtmlConverter {
-+HtmlConverter(Stats) : HtmlConverter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#21]]]
-+toHtml() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#25]]]
--printTableHtml(StringBuilder;StatsTable) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#50]]]
--getCreoleLine(Collection<StatsColumn>;StatsLine;boolean) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#64]]]
--getHtmlHeader(Collection<StatsColumn>) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#99]]]
++HtmlConverter(Stats) : HtmlConverter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#55]]]
++toHtml() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#59]]]
+-printTableHtml(StringBuilder;StatsTable) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#84]]]
+-getCreoleLine(Collection<StatsColumn>;StatsLine;boolean) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#98]]]
+-getHtmlHeader(Collection<StatsColumn>) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#133]]]
 } 
 @enduml

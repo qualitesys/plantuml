@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.code.TranscoderImpl" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#53"
  , "c1" : "TranscoderImpl"
  , "c2" : "TranscoderImpl(URLEncoder;StringCompressor;Compression;Format)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#61"
  , "c1" : "Transcoder"
  , "c2" : "utf8(URLEncoder;StringCompressor;Compression)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#65"
  , "c1" : "Transcoder"
  , "c2" : "upf9(URLEncoder;StringCompressor;Compression)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#69"
  , "c1" : "String"
  , "c2" : "encode(String)"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#82"
  , "c1" : "String"
  , "c2" : "decode(String)"
  , "c3" : "1"
@@ -104,31 +104,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method utf8 arguments URLEncoder  urlEncoder|StringCompressor  stringCompressor|Compression  compression"
+ , "c3" : "QC-JAV000006[00061] For method utf8 arguments URLEncoder  urlEncoder|StringCompressor  stringCompressor|Compression  compression"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method upf9 arguments URLEncoder  urlEncoder|StringCompressor  stringCompressor|Compression  compression"
+ , "c3" : "QC-JAV000006[00065] For method upf9 arguments URLEncoder  urlEncoder|StringCompressor  stringCompressor|Compression  compression"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method encode arguments String  text"
+ , "c3" : "QC-JAV000006[00069] For method encode arguments String  text"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#48"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/TranscoderImpl.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method decode arguments String  code"
+ , "c3" : "QC-JAV000006[00082] For method decode arguments String  code"
 }} 
 ]
 , 

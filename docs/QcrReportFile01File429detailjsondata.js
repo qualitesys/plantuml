@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ScaleWidthAndHeight" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleWidthAndHeight.java.html#9"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleWidthAndHeight.java.html#43"
  , "c1" : "ScaleWidthAndHeight"
  , "c2" : "ScaleWidthAndHeight(double;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleWidthAndHeight.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleWidthAndHeight.java.html#48"
  , "c1" : "double"
  , "c2" : "getScaleInternal(double;double)"
  , "c3" : "1"
@@ -77,10 +77,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleWidthAndHeight.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleWidthAndHeight.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method getScaleInternal arguments double  width|double  height"
+ , "c3" : "QC-JAV000006[00048] For method getScaleInternal arguments double  width|double  height"
 }} 
 ]
 , 

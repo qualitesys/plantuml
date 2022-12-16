@@ -2,13 +2,13 @@
 !pragma layout smetana
 "USymbol" <|-- "net.sourceforge.plantuml.graphic.USymbolFolder"
 class net.sourceforge.plantuml.graphic.USymbolFolder {
-+USymbolFolder(SName;boolean) : USymbolFolder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFolder.java.html#29]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFolder.java.html#35]]]
-+getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFolder.java.html#40]]]
--drawFolder(UGraphic;double;double;XDimension2D;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFolder.java.html#44]]]
--getHTitle(XDimension2D) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFolder.java.html#91]]]
--getMargin() : Margin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFolder.java.html#101]]]
-+asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFolder.java.html#106]]]
-+asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFolder.java.html#140]]]
++USymbolFolder(SName;boolean) : USymbolFolder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFolder.java.html#63]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFolder.java.html#69]]]
++getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFolder.java.html#74]]]
+-drawFolder(UGraphic;double;double;XDimension2D;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFolder.java.html#78]]]
+-getHTitle(XDimension2D) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFolder.java.html#125]]]
+-getMargin() : Margin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFolder.java.html#135]]]
++asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFolder.java.html#140]]]
++asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolFolder.java.html#174]]]
 } 
 @enduml

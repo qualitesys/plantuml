@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#21"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#54"
  , "c1" : "CodeIteratorAffectation"
  , "c2" : "CodeIteratorAffectation(CodeIterator;TContext;TMemory;List<StringLocated>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#28"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#61"
  , "c1" : "StringLocated"
  , "c2" : "peek()"
  , "c3" : "4"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#44"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#77"
  , "c1" : "void"
  , "c2" : "doAffectation(StringLocated)"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#61"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#94"
  , "c1" : "void"
  , "c2" : "executeAffectation(TContext;TMemory;StringLocated)"
  , "c3" : "1"
@@ -116,94 +116,94 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#30"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00030] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00063] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#29"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation.peek@POLYN154413 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation.peek@POLYN154611 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#31"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation.peek@POLYN154413 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation.peek@POLYN154611 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#32"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation.peek@POLYN154413 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation.peek@POLYN154611 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#44"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method doAffectation arguments StringLocated  result"
+ , "c3" : "QC-JAV000006[00077] For method doAffectation arguments StringLocated  result"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#44"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#77"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00044] The argument result is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00077] The argument result is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#50"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00050] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00083] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#56"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00056] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00089] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#45"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation.doAffectation@POLYN155052 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation.doAffectation@POLYN155250 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#46"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation.doAffectation@POLYN155052 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation.doAffectation@POLYN155250 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#46"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation.doAffectation@POLYN155052 the MagicNumber/String  9999 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation.doAffectation@POLYN155250 the MagicNumber/String  9999 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#52"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation.doAffectation@POLYN155052 the MagicNumber/String  'Error in JSON format' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation.doAffectation@POLYN155250 the MagicNumber/String  'Error in JSON format' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#61"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#94"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method executeAffectation arguments TContext  context|TMemory  memory|StringLocated  s"
+ , "c3" : "QC-JAV000006[00094] For method executeAffectation arguments TContext  context|TMemory  memory|StringLocated  s"
 }} 
 ]
 , 

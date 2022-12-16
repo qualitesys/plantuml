@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.webp.SegmentQuants" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#8"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#22"
  , "c1" : "DeltaQ"
  , "c2" : "get_delta_q(BoolDecoder;int)"
  , "c3" : "4"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#32"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#46"
  , "c1" : "SegmentQuants"
  , "c2" : "SegmentQuants()"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#37"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#51"
  , "c1" : "int"
  , "c2" : "getqIndex()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#41"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#55"
  , "c1" : "SegmentQuant[]"
  , "c2" : "getSegQuants()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#45"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#59"
  , "c1" : "void"
  , "c2" : "parse(BoolDecoder;boolean;boolean)"
  , "c3" : "5"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#81"
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#95"
  , "c1" : "void"
  , "c2" : "setSegQuants(SegmentQuant[])"
  , "c3" : "1"
@@ -134,150 +134,150 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#8"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#22"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00008] For method get_delta_q arguments BoolDecoder  bc|int  prev"
+ , "c3" : "QC-JAV000006[00022] For method get_delta_q arguments BoolDecoder  bc|int  prev"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#8"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#22"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00008] The argument bc is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00022] The argument bc is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#11"
+ , "c1" : "00025"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.webp.SegmentQuants.get_delta_q@POLYN149701 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.webp.SegmentQuants.get_delta_q@POLYN149785 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#12"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.webp.SegmentQuants.get_delta_q@POLYN149701 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.webp.SegmentQuants.get_delta_q@POLYN149785 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#14"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.webp.SegmentQuants.get_delta_q@POLYN149701 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.webp.SegmentQuants.get_delta_q@POLYN149785 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#15"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.webp.SegmentQuants.get_delta_q@POLYN149701 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.webp.SegmentQuants.get_delta_q@POLYN149785 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#17"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.webp.SegmentQuants.get_delta_q@POLYN149701 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.webp.SegmentQuants.get_delta_q@POLYN149785 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#23"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.webp.SegmentQuants.get_delta_q@POLYN149701 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.webp.SegmentQuants.SegmentQuants@POLYN150677 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#45"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method parse arguments BoolDecoder  bc|boolean  segmentation_enabled|boolean  mb_segement_abs_delta"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#45"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00045] The argument bc is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.webp.SegmentQuants.get_delta_q@POLYN149785 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.webp.SegmentQuants.parse@POLYN151152 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.webp.SegmentQuants.SegmentQuants@POLYN150761 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.webp.SegmentQuants.parse@POLYN151152 the MagicNumber/String  false should be converted to const"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#59"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00059] For method parse arguments BoolDecoder  bc|boolean  segmentation_enabled|boolean  mb_segement_abs_delta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.webp.SegmentQuants.parse@POLYN151152 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.webp.SegmentQuants.parse@POLYN151152 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.webp.SegmentQuants.parse@POLYN151152 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.webp.SegmentQuants.parse@POLYN151152 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#59"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00059] The argument bc is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.webp.SegmentQuants.parse@POLYN151152 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.webp.SegmentQuants.parse@POLYN151236 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#81"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.webp.SegmentQuants.parse@POLYN151236 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.webp.SegmentQuants.parse@POLYN151236 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#66"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.webp.SegmentQuants.parse@POLYN151236 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#69"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.webp.SegmentQuants.parse@POLYN151236 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#72"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.webp.SegmentQuants.parse@POLYN151236 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.webp.SegmentQuants.parse@POLYN151236 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#95"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00081] For method setSegQuants arguments SegmentQuant[]  segQuants"
+ , "c3" : "QC-JAV000006[00095] For method setSegQuants arguments SegmentQuant[]  segQuants"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#41"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#55"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00041] Public method getSegQuants is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00055] Public method getSegQuants is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#81"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#95"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00081] Public method setSegQuants is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00095] Public method setSegQuants is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

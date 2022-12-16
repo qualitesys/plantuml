@@ -2,13 +2,13 @@
 !pragma layout smetana
 "AbstractTextualComponentArrowComponent" <|-- "net.sourceforge.plantuml.skin.rose.AbstractComponentRoseArrow"
 class net.sourceforge.plantuml.skin.rose.AbstractComponentRoseArrow {
-+AbstractComponentRoseArrow(Style;Display;ArrowConfiguration;ISkinSimple;LineBreakStrategy) : AbstractComponentRoseArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/AbstractComponentRoseArrow.java.html#26]]]
-getTextBlock() : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/AbstractComponentRoseArrow.java.html#37]]]
-+getYPoint(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/AbstractComponentRoseArrow.java.html#45]]]
-getForegroundColor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/AbstractComponentRoseArrow.java.html#47]]]
-getArrowDeltaX() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/AbstractComponentRoseArrow.java.html#51]]]
-getArrowDeltaY() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/AbstractComponentRoseArrow.java.html#55]]]
-+getPaddingY() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/AbstractComponentRoseArrow.java.html#60]]]
-+getArrowConfiguration() : ArrowConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/AbstractComponentRoseArrow.java.html#64]]]
++AbstractComponentRoseArrow(Style;Display;ArrowConfiguration;ISkinSimple;LineBreakStrategy) : AbstractComponentRoseArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/AbstractComponentRoseArrow.java.html#60]]]
+getTextBlock() : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/AbstractComponentRoseArrow.java.html#71]]]
++getYPoint(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/AbstractComponentRoseArrow.java.html#79]]]
+getForegroundColor() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/AbstractComponentRoseArrow.java.html#81]]]
+getArrowDeltaX() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/AbstractComponentRoseArrow.java.html#85]]]
+getArrowDeltaY() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/AbstractComponentRoseArrow.java.html#89]]]
++getPaddingY() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/AbstractComponentRoseArrow.java.html#94]]]
++getArrowConfiguration() : ArrowConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/AbstractComponentRoseArrow.java.html#98]]]
 } 
 @enduml

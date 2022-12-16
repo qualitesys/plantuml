@@ -2,14 +2,14 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.TextBlockSimple"
 class net.sourceforge.plantuml.graphic.TextBlockSimple {
-+TextBlockSimple(Display;FontConfiguration;HorizontalAlignment;SpriteContainer;double) : TextBlockSimple [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#26]]]
--getLines(StringBounder) : List<Line> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#35]]]
--addInLines(StringBounder;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#52]]]
--addSingleLineNoSpace(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#91]]]
--addSingleLine(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#98]]]
--getTextWidth(StringBounder;String) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#102]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#107]]]
-getTextDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#111]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#122]]]
++TextBlockSimple(Display;FontConfiguration;HorizontalAlignment;SpriteContainer;double) : TextBlockSimple [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#60]]]
+-getLines(StringBounder) : List<Line> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#69]]]
+-addInLines(StringBounder;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#86]]]
+-addSingleLineNoSpace(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#125]]]
+-addSingleLine(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#132]]]
+-getTextWidth(StringBounder;String) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#136]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#141]]]
+getTextDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#145]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#156]]]
 } 
 @enduml

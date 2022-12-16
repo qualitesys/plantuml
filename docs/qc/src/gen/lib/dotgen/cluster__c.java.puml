@@ -2,19 +2,19 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.dotgen.cluster__c"
 class gen.lib.dotgen.cluster__c {
-+map_interclust_node(ST_Agnode_s) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#91]]]
-+make_slots(ST_Agraph_s;int;int;int) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#111]]]
-+clone_vn(ST_Agraph_s;ST_Agnode_s) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#150]]]
-+map_path(ST_Agnode_s;ST_Agnode_s;ST_Agedge_s;ST_Agedge_s;int) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#178]]]
-+make_interclust_chain(ST_Agraph_s;ST_Agnode_s;ST_Agnode_s;ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#257]]]
-+interclexp(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#281]]]
-+merge_ranks(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#352]]]
-+remove_rankleaders(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#393]]]
-+expand_cluster(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#422]]]
-+mark_clusters(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#446]]]
-+build_skeleton(ST_Agraph_s;ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#503]]]
-+install_cluster(ST_Agraph_s;ST_Agnode_s;int;ST_nodequeue) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#551]]]
-+mark_lowclusters(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#575]]]
-+mark_lowcluster_basic(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#607]]]
++map_interclust_node(ST_Agnode_s) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#135]]]
++make_slots(ST_Agraph_s;int;int;int) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#155]]]
++clone_vn(ST_Agraph_s;ST_Agnode_s) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#194]]]
++map_path(ST_Agnode_s;ST_Agnode_s;ST_Agedge_s;ST_Agedge_s;int) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#222]]]
++make_interclust_chain(ST_Agraph_s;ST_Agnode_s;ST_Agnode_s;ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#301]]]
++interclexp(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#328]]]
++merge_ranks(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#403]]]
++remove_rankleaders(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#444]]]
++expand_cluster(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#473]]]
++mark_clusters(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#497]]]
++build_skeleton(ST_Agraph_s;ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#554]]]
++install_cluster(ST_Agraph_s;ST_Agnode_s;int;ST_nodequeue) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#602]]]
++mark_lowclusters(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#626]]]
++mark_lowcluster_basic(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/cluster__c.java.html#658]]]
 } 
 @enduml

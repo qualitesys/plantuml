@@ -2,13 +2,13 @@
 !pragma layout smetana
 "AbstractRealReal" <|-- "net.sourceforge.plantuml.real.RealMin"
 class net.sourceforge.plantuml.real.RealMin {
-RealMin(Collection<Real>) : RealMin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#12]]]
-+getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#17]]]
-getCurrentValueInternal() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#22]]]
-+addFixed(double) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#33]]]
-+addAtLeast(double) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#37]]]
-+ensureBiggerThan(Real) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#41]]]
-+size() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#47]]]
-+printCreationStackTrace() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#51]]]
+RealMin(Collection<Real>) : RealMin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#46]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#51]]]
+getCurrentValueInternal() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#56]]]
++addFixed(double) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#67]]]
++addAtLeast(double) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#71]]]
++ensureBiggerThan(Real) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#75]]]
++size() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#81]]]
++printCreationStackTrace() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#85]]]
 } 
 @enduml

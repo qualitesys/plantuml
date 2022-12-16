@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.command.CommandFootboxIgnored" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandFootboxIgnored.java.html#13"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandFootboxIgnored.java.html#47"
  , "c1" : "CommandFootboxIgnored"
  , "c2" : "CommandFootboxIgnored()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandFootboxIgnored.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandFootboxIgnored.java.html#51"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandFootboxIgnored.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandFootboxIgnored.java.html#59"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeArg(UmlDiagram;LineLocation;RegexResult)"
  , "c3" : "1"
@@ -93,24 +93,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandFootboxIgnored.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandFootboxIgnored.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.command.CommandFootboxIgnored.getRegexConcat@POLYN148669 the MagicNumber/String  '(hide|show)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.command.CommandFootboxIgnored.getRegexConcat@POLYN148873 the MagicNumber/String  '(hide|show)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandFootboxIgnored.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandFootboxIgnored.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.command.CommandFootboxIgnored.getRegexConcat@POLYN148669 the MagicNumber/String  'footbox' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.CommandFootboxIgnored.getRegexConcat@POLYN148873 the MagicNumber/String  'footbox' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandFootboxIgnored.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandFootboxIgnored.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method executeArg arguments UmlDiagram  diagram|LineLocation  location|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00059] For method executeArg arguments UmlDiagram  diagram|LineLocation  location|RegexResult  arg"
 }} 
 ]
 , 

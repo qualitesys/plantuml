@@ -2,6 +2,6 @@
 !pragma layout smetana
 "TimeLine" <|-- "net.sourceforge.plantuml.project.core3.Histogram"
 class net.sourceforge.plantuml.project.core3.Histogram {
-+getValueAt(long) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/Histogram.java.html#6]]]
++getValueAt(long) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/Histogram.java.html#40]]]
 } 
 @enduml

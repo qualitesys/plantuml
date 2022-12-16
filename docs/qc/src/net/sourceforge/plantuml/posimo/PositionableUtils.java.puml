@@ -2,12 +2,12 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.posimo.PositionableUtils"
 class net.sourceforge.plantuml.posimo.PositionableUtils {
--convert(Positionable) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#10]]]
-+intersect(Positionable;Positionable) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#16]]]
-+addMargin(Positionable;double;double) : Positionable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#22]]]
--getCenter(Positionable) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#40]]]
--move(Positionable;double;double) : Positionable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#46]]]
-+moveAwayFrom(Positionable;Positionable) : Positionable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#53]]]
--doesIntersectWithThisCoef(Positionable;Positionable;double;double;double) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#87]]]
+-convert(Positionable) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#44]]]
++intersect(Positionable;Positionable) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#50]]]
++addMargin(Positionable;double;double) : Positionable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#56]]]
+-getCenter(Positionable) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#74]]]
+-move(Positionable;double;double) : Positionable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#80]]]
++moveAwayFrom(Positionable;Positionable) : Positionable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#87]]]
+-doesIntersectWithThisCoef(Positionable;Positionable;double;double;double) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#121]]]
 } 
 @enduml

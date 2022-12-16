@@ -2,12 +2,12 @@
 !pragma layout smetana
 "AbstractGraphviz" <|-- "net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsOld"
 class net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsOld {
-specificDotExe() : File [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsOld.java.html#20]]]
-+graphviz244onWindows() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsOld.java.html#32]]]
--specificDotExeSlow() : File [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsOld.java.html#41]]]
--searchInDir(File) : File [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsOld.java.html#55]]]
-higherVersion(List<File>) : File [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsOld.java.html#81]]]
-GraphvizWindowsOld(ISkinParam;String;String...) : GraphvizWindowsOld [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsOld.java.html#89]]]
-getExeName() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsOld.java.html#94]]]
+specificDotExe() : File [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsOld.java.html#54]]]
++graphviz244onWindows() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsOld.java.html#66]]]
+-specificDotExeSlow() : File [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsOld.java.html#75]]]
+-searchInDir(File) : File [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsOld.java.html#89]]]
+higherVersion(List<File>) : File [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsOld.java.html#115]]]
+GraphvizWindowsOld(ISkinParam;String;String...) : GraphvizWindowsOld [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsOld.java.html#123]]]
+getExeName() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsOld.java.html#128]]]
 } 
 @enduml

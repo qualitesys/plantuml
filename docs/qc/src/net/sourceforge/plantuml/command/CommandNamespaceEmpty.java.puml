@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<ClassDiagram>" <|-- "net.sourceforge.plantuml.command.CommandNamespaceEmpty"
 class net.sourceforge.plantuml.command.CommandNamespaceEmpty {
-+CommandNamespaceEmpty() : CommandNamespaceEmpty [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#27]]]
--getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#31]]]
-executeArg(ClassDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#50]]]
++CommandNamespaceEmpty() : CommandNamespaceEmpty [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#61]]]
+-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#65]]]
+executeArg(ClassDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#84]]]
 } 
 @enduml

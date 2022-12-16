@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.lang.SubjectLinks" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectLinks.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectLinks.java.html#51"
  , "c1" : "IRegex"
  , "c2" : "toRegex()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectLinks.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectLinks.java.html#55"
  , "c1" : "Failable<GanttDiagram>"
  , "c2" : "getMe(GanttDiagram;RegexResult)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectLinks.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectLinks.java.html#59"
  , "c1" : "Collection<?extendsSentenceSimple>"
  , "c2" : "getSentences()"
  , "c3" : "1"
@@ -93,31 +93,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectLinks.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectLinks.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.project.lang.SubjectLinks.toRegex@POLYN149933 the MagicNumber/String  'SUBJECT' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.lang.SubjectLinks.toRegex@POLYN150137 the MagicNumber/String  'SUBJECT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectLinks.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectLinks.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.project.lang.SubjectLinks.toRegex@POLYN149933 the MagicNumber/String  'links?' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.lang.SubjectLinks.toRegex@POLYN150137 the MagicNumber/String  'links?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectLinks.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectLinks.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method getMe arguments GanttDiagram  project|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00055] For method getMe arguments GanttDiagram  project|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectLinks.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectLinks.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
+ , "c3" : "QC-JAV000006[00070] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
 }} 
 ]
 , 

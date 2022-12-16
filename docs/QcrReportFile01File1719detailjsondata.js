@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.lang.ComplementDayOfWeek" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#48"
  , "c1" : "IRegex"
  , "c2" : "toRegex(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#53"
  , "c1" : "Failable<DayOfWeek>"
  , "c2" : "getMe(GanttDiagram;RegexResult;String)"
  , "c3" : "1"
@@ -91,59 +91,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method toRegex arguments String  suffix"
+ , "c3" : "QC-JAV000006[00048] For method toRegex arguments String  suffix"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.project.lang.ComplementDayOfWeek.toRegex@POLYN148736 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.project.lang.ComplementDayOfWeek.toRegex@POLYN148940 the MagicNumber/String  'COMPLEMENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.project.lang.ComplementDayOfWeek.toRegex@POLYN148736 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.project.lang.ComplementDayOfWeek.toRegex@POLYN148940 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.project.lang.ComplementDayOfWeek.toRegex@POLYN148736 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.project.lang.ComplementDayOfWeek.toRegex@POLYN148940 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method getMe arguments GanttDiagram  project|RegexResult  arg|String  suffix"
+ , "c3" : "QC-JAV000006[00053] For method getMe arguments GanttDiagram  project|RegexResult  arg|String  suffix"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#53"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00019] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00053] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.project.lang.ComplementDayOfWeek.getMe@POLYN149055 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.project.lang.ComplementDayOfWeek.getMe@POLYN149259 the MagicNumber/String  'COMPLEMENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.project.lang.ComplementDayOfWeek.getMe@POLYN149055 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.project.lang.ComplementDayOfWeek.getMe@POLYN149259 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

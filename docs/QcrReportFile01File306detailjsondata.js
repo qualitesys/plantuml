@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.graphic.TextRenderer" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00007"
- , "c5link" : "././qc/src/jcckit/graphic/TextRenderer.java.html#7"
+ , "c5" : "00029"
+ , "c5link" : "././qc/src/jcckit/graphic/TextRenderer.java.html#29"
  , "c1" : "void"
  , "c2" : "render(Text)"
  , "c3" : "1"

@@ -2,19 +2,19 @@
 !pragma layout smetana
 "UmlDiagram" <|-- "net.sourceforge.plantuml.wire.WireDiagram"
 class net.sourceforge.plantuml.wire.WireDiagram {
-+getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#35]]]
-+WireDiagram(UmlSource) : WireDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#39]]]
-exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#44]]]
--getTextBlock() : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#50]]]
--drawMe(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#77]]]
-+addComponent(String;String;int;int;HColor) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#90]]]
-+newColumn(String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#95]]]
-+spot(String;HColor;String;String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#100]]]
-+wgoto(String;double;double) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#110]]]
-+wmove(String;double;double) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#115]]]
-+print(String;String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#120]]]
--computeIndentationLevel(String) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#127]]]
-+vlink(String;String;String;String;WLinkType;WArrowDirection;HColor;Display) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#132]]]
-+hlink(String;String;String;String;WLinkType;WArrowDirection;HColor;Display) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#150]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#69]]]
++WireDiagram(UmlSource) : WireDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#73]]]
+exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#78]]]
+-getTextBlock() : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#84]]]
+-drawMe(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#111]]]
++addComponent(String;String;int;int;HColor) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#124]]]
++newColumn(String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#129]]]
++spot(String;HColor;String;String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#134]]]
++wgoto(String;double;double) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#144]]]
++wmove(String;double;double) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#149]]]
++print(String;String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#154]]]
+-computeIndentationLevel(String) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#161]]]
++vlink(String;String;String;String;WLinkType;WArrowDirection;HColor;Display) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#166]]]
++hlink(String;String;String;String;WLinkType;WArrowDirection;HColor;Display) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#184]]]
 } 
 @enduml

@@ -2,7 +2,7 @@
 !pragma layout smetana
 "UDriver<URectangle,BrailleGrid>" <|-- "net.sourceforge.plantuml.braille.DriverRectangleBraille"
 class net.sourceforge.plantuml.braille.DriverRectangleBraille {
-+DriverRectangleBraille(ClipContainer) : DriverRectangleBraille [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.html#17]]]
-+draw(URectangle;double;double;ColorMapper;UParam;BrailleGrid) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.html#21]]]
++DriverRectangleBraille(ClipContainer) : DriverRectangleBraille [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.html#50]]]
++draw(URectangle;double;double;ColorMapper;UParam;BrailleGrid) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/DriverRectangleBraille.java.html#54]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#59"
  , "c1" : "StringBounder"
  , "c2" : "getStringBounder()"
  , "c3" : "1"
@@ -27,136 +27,10 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#61"
  , "c1" : "ISkinParam"
  , "c2" : "skinParam()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#29"
- , "c1" : "Ftile"
- , "c2" : "start(Swimlane)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#31"
- , "c1" : "Ftile"
- , "c2" : "stop(Swimlane)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#33"
- , "c1" : "Ftile"
- , "c2" : "end(Swimlane)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#35"
- , "c1" : "Ftile"
- , "c2" : "spot(Swimlane;String;HColor)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#37"
- , "c1" : "Ftile"
- , "c2" : "activity(Display;Swimlane;BoxStyle;Colors;Stereotype)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#39"
- , "c1" : "Ftile"
- , "c2" : "addNote(Ftile;Swimlane;Collection<PositionedNote>;VerticalAlignment)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#42"
- , "c1" : "Ftile"
- , "c2" : "addUrl(Ftile;Url)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#44"
- , "c1" : "Ftile"
- , "c2" : "decorateIn(Ftile;LinkRendering)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#46"
- , "c1" : "Ftile"
- , "c2" : "decorateOut(Ftile;LinkRendering)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#48"
- , "c1" : "Ftile"
- , "c2" : "assembly(Ftile;Ftile)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#50"
- , "c1" : "Ftile"
- , "c2" : "repeat(BoxStyle;Swimlane;Swimlane;Display;Ftile;Display;Display;Display;Colors;Ftile;boolean;LinkRendering;LinkRendering)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#54"
- , "c1" : "Ftile"
- , "c2" : "createWhile(LinkRendering;Swimlane;Ftile;Display;Display;HColor;Instruction;Ftile;LinkRendering;LinkRendering)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#57"
- , "c1" : "Ftile"
- , "c2" : "createIf(Swimlane;List<Branch>;Branch;LinkRendering;LinkRendering;Url)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#60"
- , "c1" : "Ftile"
- , "c2" : "createSwitch(Swimlane;List<Branch>;LinkRendering;LinkRendering;Display)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -165,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00063"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#63"
  , "c1" : "Ftile"
- , "c2" : "createParallel(List<Ftile>;ForkStyle;String;Swimlane;Swimlane)"
+ , "c2" : "start(Swimlane)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -173,6 +47,132 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00065"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#65"
+ , "c1" : "Ftile"
+ , "c2" : "stop(Swimlane)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#67"
+ , "c1" : "Ftile"
+ , "c2" : "end(Swimlane)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#69"
+ , "c1" : "Ftile"
+ , "c2" : "spot(Swimlane;String;HColor)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#71"
+ , "c1" : "Ftile"
+ , "c2" : "activity(Display;Swimlane;BoxStyle;Colors;Stereotype)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#73"
+ , "c1" : "Ftile"
+ , "c2" : "addNote(Ftile;Swimlane;Collection<PositionedNote>;VerticalAlignment)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#76"
+ , "c1" : "Ftile"
+ , "c2" : "addUrl(Ftile;Url)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#78"
+ , "c1" : "Ftile"
+ , "c2" : "decorateIn(Ftile;LinkRendering)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#80"
+ , "c1" : "Ftile"
+ , "c2" : "decorateOut(Ftile;LinkRendering)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#82"
+ , "c1" : "Ftile"
+ , "c2" : "assembly(Ftile;Ftile)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#84"
+ , "c1" : "Ftile"
+ , "c2" : "repeat(BoxStyle;Swimlane;Swimlane;Display;Ftile;Display;Display;Display;Colors;Ftile;boolean;LinkRendering;LinkRendering)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#88"
+ , "c1" : "Ftile"
+ , "c2" : "createWhile(LinkRendering;Swimlane;Ftile;Display;Display;HColor;Instruction;Ftile;LinkRendering;LinkRendering)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#91"
+ , "c1" : "Ftile"
+ , "c2" : "createIf(Swimlane;List<Branch>;Branch;LinkRendering;LinkRendering;Url)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#94"
+ , "c1" : "Ftile"
+ , "c2" : "createSwitch(Swimlane;List<Branch>;LinkRendering;LinkRendering;Display)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#97"
+ , "c1" : "Ftile"
+ , "c2" : "createParallel(List<Ftile>;ForkStyle;String;Swimlane;Swimlane)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#99"
  , "c1" : "Ftile"
  , "c2" : "createGroup(Ftile;Display;HColor;PositionedNote;USymbol;Style)"
  , "c3" : "1"

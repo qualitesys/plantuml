@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.timingdiagram.TimeTick" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#11"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#44"
  , "c1" : "TimeTick"
  , "c2" : "TimeTick(BigDecimal;TimingFormat)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#16"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#49"
  , "c1" : "BigDecimal"
  , "c2" : "getTime()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#20"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#53"
  , "c1" : "int"
  , "c2" : "compareTo(TimeTick)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#24"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#57"
  , "c1" : "TimingFormat"
  , "c2" : "getFormat()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#29"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#62"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -111,17 +111,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#20"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method compareTo arguments TimeTick  other"
+ , "c3" : "QC-JAV000006[00053] For method compareTo arguments TimeTick  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#20"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimeTick.java.html#53"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00053] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

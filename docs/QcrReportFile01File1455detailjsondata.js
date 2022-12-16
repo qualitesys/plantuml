@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.json.JsonString" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c1" : "JsonString"
  , "c2" : "JsonString(String)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c1" : "void"
  , "c2" : "write(JsonWriter)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c1" : "boolean"
  , "c2" : "isString()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c1" : "String"
  , "c2" : "asString()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c1" : "int"
  , "c2" : "hashCode()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c1" : "boolean"
  , "c2" : "equals(Object)"
  , "c3" : "4"
@@ -134,80 +134,80 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.json.JsonString.JsonString@POLYN150841 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.json.JsonString.JsonString@POLYN150865 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.json.JsonString.JsonString@POLYN150841 the MagicNumber/String  'string is null' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.json.JsonString.JsonString@POLYN150865 the MagicNumber/String  'string is null' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method write arguments JsonWriter  writer"
+ , "c3" : "QC-JAV000006[00059] For method write arguments JsonWriter  writer"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00055] The argument writer is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00059] The argument writer is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.json.JsonString.isString@POLYN151294 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.json.JsonString.isString@POLYN151318 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method equals arguments Object  object"
+ , "c3" : "QC-JAV000006[00059] For method equals arguments Object  object"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00055] The same method call object.getClass() is used several times, should be optimized "
+ , "c3" : "QC-JAV000021[00059] The same method call object.getClass() is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.json.JsonString.equals@POLYN151616 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.json.JsonString.equals@POLYN151640 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.json.JsonString.equals@POLYN151616 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.json.JsonString.equals@POLYN151640 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.json.JsonString.equals@POLYN151616 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.json.JsonString.equals@POLYN151640 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.json.JsonString.equals@POLYN151616 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.json.JsonString.equals@POLYN151640 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

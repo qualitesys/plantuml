@@ -2,19 +2,19 @@
 !pragma layout smetana
 "SpecificBackcolorable" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane"
 class net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane {
-+Swimlane(String) : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#20]]]
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#27]]]
-+getName() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#31]]]
-+getDisplay() : Display [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#35]]]
-+setDisplay(Display) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#39]]]
-+getTranslate() : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#43]]]
-+setTranslate(UTranslate) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#47]]]
-+setWidth(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#51]]]
-+getColors() : Colors [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#55]]]
-+setSpecificColorTOBEREMOVED(ColorType;HColor) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#59]]]
-+getActualWidth() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#67]]]
-+setColors(Colors) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#71]]]
-+setMinMax(MinMax) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#77]]]
-+getMinMax() : MinMax [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#82]]]
++Swimlane(String) : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#54]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#61]]]
++getName() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#65]]]
++getDisplay() : Display [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#69]]]
++setDisplay(Display) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#73]]]
++getTranslate() : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#77]]]
++setTranslate(UTranslate) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#81]]]
++setWidth(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#85]]]
++getColors() : Colors [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#89]]]
++setSpecificColorTOBEREMOVED(ColorType;HColor) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#93]]]
++getActualWidth() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#101]]]
++setColors(Colors) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#105]]]
++setMinMax(MinMax) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#111]]]
++getMinMax() : MinMax [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlane.java.html#116]]]
 } 
 @enduml

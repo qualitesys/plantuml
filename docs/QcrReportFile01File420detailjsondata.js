@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.Run" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#46"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#80"
  , "c1" : "void"
  , "c2" : "main(String[])"
  , "c3" : "33"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00194"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#194"
+ , "c5" : "00228"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#228"
  , "c1" : "String"
  , "c2" : "getCommandLine()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00198"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#198"
+ , "c5" : "00232"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#232"
  , "c1" : "void"
  , "c2" : "saveCommandLine(String[])"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00207"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#207"
+ , "c5" : "00241"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#241"
  , "c1" : "void"
  , "c2" : "forceOpenJdkResourceLoad()"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00220"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#220"
+ , "c5" : "00254"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#254"
  , "c1" : "boolean"
  , "c2" : "isOpenJdkRunning()"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00231"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#231"
+ , "c5" : "00265"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#265"
  , "c1" : "void"
  , "c2" : "encodeSprite(List<String>)"
  , "c3" : "8"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00275"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#275"
+ , "c5" : "00309"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#309"
  , "c1" : "String"
  , "c2" : "getSpriteName(String)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00283"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#283"
+ , "c5" : "00317"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#317"
  , "c1" : "String"
  , "c2" : "getSpriteNameInternal(String)"
  , "c3" : "4"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00295"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#295"
+ , "c5" : "00329"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#329"
  , "c1" : "void"
  , "c2" : "goFtp(Option)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00302"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#302"
+ , "c5" : "00336"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#336"
  , "c1" : "void"
  , "c2" : "goPicoweb(Option)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00306"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#306"
+ , "c5" : "00340"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#340"
  , "c1" : "void"
  , "c2" : "printFonts()"
  , "c3" : "3"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00318"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#318"
+ , "c5" : "00352"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#352"
  , "c1" : "void"
  , "c2" : "managePipe(Option;ErrorStatus)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00323"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#323"
+ , "c5" : "00357"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#357"
  , "c1" : "void"
  , "c2" : "manageAllFiles(Option;ErrorStatus)"
  , "c3" : "3"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00343"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#343"
+ , "c5" : "00377"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#377"
  , "c1" : "void"
  , "c2" : "processArgs(Option;ErrorStatus)"
  , "c3" : "7"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00378"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#378"
+ , "c5" : "00412"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#412"
  , "c1" : "void"
  , "c2" : "multithread(Option;ErrorStatus)"
  , "c3" : "4"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00410"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#410"
+ , "c5" : "00444"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#444"
  , "c1" : "void"
  , "c2" : "foundNbFiles(int)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00414"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#414"
+ , "c5" : "00448"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#448"
  , "c1" : "void"
  , "c2" : "incDone(boolean)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00419"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#419"
+ , "c5" : "00453"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#453"
  , "c1" : "void"
  , "c2" : "incTotal(int)"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00424"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#424"
+ , "c5" : "00458"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#458"
  , "c1" : "void"
  , "c2" : "manageFileInternal(File;Option;ErrorStatus)"
  , "c3" : "13"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00499"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#499"
+ , "c5" : "00533"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#533"
  , "c1" : "void"
  , "c2" : "extractPreproc(Option;ISourceFileReader)"
  , "c3" : "7"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00527"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#527"
+ , "c5" : "00561"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#561"
  , "c1" : "void"
  , "c2" : "hasErrors(File;List<GeneratedImage>;ErrorStatus;Stdrpt)"
  , "c3" : "4"
@@ -283,1235 +283,1235 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method main arguments String[]  argsArray"
+ , "c3" : "QC-JAV000006[00080] For method main arguments String[]  argsArray"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#80"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00046] The argument argsArray is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#127"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE390[00127] Detection of error condition without action (see http://cwe.mitre.org/data/definitions/390.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'log4j.debug' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'false' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  '-headless' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'java.awt.headless' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'true' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'SecurityProfile ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'PlantUML Version ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#95"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'GraphicsEnvironment.isHeadless() ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'Forcing -Djava.awt.headless=true' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'java.awt.headless' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'true' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'java.awt.headless set as true' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#126"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'com.sun.java.swing.plaf.windows.WindowsLookAndFeel' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'There is an issue with your server. You will find some tips here:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'https://forum.plantuml.net/3399/problem-with-x11-and-headless-exception' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'https://plantuml.com/en/faq#239d64f675c3e515' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#148"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#154"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#156"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#158"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  1000.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#159"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'Check Duration = ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#159"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  ' seconds' should be converted to const"
+ , "c3" : "QC-JAVCWE476[00080] The argument argsArray is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAVCWE390[00161] Detection of error condition without action (see http://cwe.mitre.org/data/definitions/390.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'log4j.debug' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'false' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#84"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#84"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#84"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  '-headless' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'java.awt.headless' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'true' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#126"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'SecurityProfile ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'PlantUML Version ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#129"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'GraphicsEnvironment.isHeadless() ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#132"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'Forcing -Djava.awt.headless=true' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'java.awt.headless' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'true' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#134"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'java.awt.headless set as true' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#142"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#147"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'com.sun.java.swing.plaf.windows.WindowsLookAndFeel' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#170"
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#166"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  1000.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'There is an issue with your server. You will find some tips here:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  'Duration = ' should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'https://forum.plantuml.net/3399/problem-with-x11-and-headless-exception' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00175"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#175"
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  ' seconds' should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'https://plantuml.com/en/faq#239d64f675c3e515' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#178"
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#187"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.Run.main@POLYN236706 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#190"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#192"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  1000.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#193"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'Check Duration = ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#193"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  ' seconds' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00195"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#195"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#198"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00198] For method saveCommandLine arguments String[]  argsArray"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#202"
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.Run.saveCommandLine@POLYN244536 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00210"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#210"
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.Run.forceOpenJdkResourceLoad@POLYN244984 the MagicNumber/String  'Forcing resource load on OpenJdk' should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  1000.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#211"
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.Run.forceOpenJdkResourceLoad@POLYN244984 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  'Duration = ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#211"
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.Run.forceOpenJdkResourceLoad@POLYN244984 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  ' seconds' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#213"
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.Run.forceOpenJdkResourceLoad@POLYN244984 the MagicNumber/String  'Alice' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#214"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.Run.forceOpenJdkResourceLoad@POLYN244984 the MagicNumber/String  'SansSerif' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#214"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.Run.forceOpenJdkResourceLoad@POLYN244984 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00221"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.Run.isOpenJdkRunning@POLYN245845 the MagicNumber/String  'java.vm.name' should be converted to const"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.Run.main@POLYN236910 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00222"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#222"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.Run.isOpenJdkRunning@POLYN245845 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00222"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#222"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.Run.isOpenJdkRunning@POLYN245845 the MagicNumber/String  'openjdk' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#223"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.Run.isOpenJdkRunning@POLYN245845 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#225"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.Run.isOpenJdkRunning@POLYN245845 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#231"
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#232"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00231] For method encodeSprite arguments List&lt;String &gt;  result"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#231"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00231] The argument result is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#233"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246381 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00235"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#235"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246381 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00235"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#235"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246381 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00235"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#235"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246381 the MagicNumber/String  '(4|8|16)z?' should be converted to const"
+ , "c3" : "QC-JAV000006[00232] For method saveCommandLine arguments String[]  argsArray"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00236"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246381 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.Run.saveCommandLine@POLYN244740 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00236"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#236"
+ , "c1" : "00244"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246381 the MagicNumber/String  '8' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00239"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#239"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246381 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00239"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#239"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246381 the MagicNumber/String  '4' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00242"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#242"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246381 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00242"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#242"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246381 the MagicNumber/String  'z' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00243"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#243"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246381 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.Run.forceOpenJdkResourceLoad@POLYN245188 the MagicNumber/String  'Forcing resource load on OpenJdk' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246381 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.Run.forceOpenJdkResourceLoad@POLYN245188 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00254"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#254"
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246381 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.Run.forceOpenJdkResourceLoad@POLYN245188 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00254"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#254"
+ , "c1" : "00247"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246381 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.Run.forceOpenJdkResourceLoad@POLYN245188 the MagicNumber/String  'Alice' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00261"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#261"
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#248"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246381 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.Run.forceOpenJdkResourceLoad@POLYN245188 the MagicNumber/String  'SansSerif' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00275"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#275"
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#248"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.Run.forceOpenJdkResourceLoad@POLYN245188 the MagicNumber/String  12 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#255"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.Run.isOpenJdkRunning@POLYN246049 the MagicNumber/String  'java.vm.name' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#256"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.Run.isOpenJdkRunning@POLYN246049 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#256"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.Run.isOpenJdkRunning@POLYN246049 the MagicNumber/String  'openjdk' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#257"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.Run.isOpenJdkRunning@POLYN246049 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#259"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.Run.isOpenJdkRunning@POLYN246049 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00265"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#265"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00275] For method getSpriteName arguments String  fileName"
+ , "c3" : "QC-JAV000006[00265] For method encodeSprite arguments List&lt;String &gt;  result"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00265"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#265"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00265] The argument result is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00267"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#267"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246585 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00269"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#269"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246585 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00269"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#269"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246585 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00269"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#269"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246585 the MagicNumber/String  '(4|8|16)z?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#270"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246585 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#270"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246585 the MagicNumber/String  '8' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00273"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#273"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246585 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00273"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#273"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246585 the MagicNumber/String  '4' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00276"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#276"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246585 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00276"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#276"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246585 the MagicNumber/String  'z' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.Run.getSpriteName@POLYN249366 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246585 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00278"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#278"
+ , "c1" : "00279"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#279"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.Run.getSpriteName@POLYN249366 the MagicNumber/String  'test' should be converted to const"
+ , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246585 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#283"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00283] For method getSpriteNameInternal arguments String  fileName"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#283"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00283] The argument fileName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00286"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#286"
+ , "c1" : "00288"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#288"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.Run.getSpriteNameInternal@POLYN249701 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00288] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246585 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00286"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#286"
+ , "c1" : "00288"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#288"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.Run.getSpriteNameInternal@POLYN249701 the MagicNumber/String  '[\\p{L}0-9_]' should be converted to const"
+ , "c3" : "QC-JAV000010[00288] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246585 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00295"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#295"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.Run.encodeSprite@POLYN246585 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00309"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#309"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00295] For method goFtp arguments Option  option"
+ , "c3" : "QC-JAV000006[00309] For method getSpriteName arguments String  fileName"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00295"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#295"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00295] The argument option is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00297"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#297"
+ , "c1" : "00311"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#311"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00297] In method net.sourceforge.plantuml.Run.goFtp@POLYN250284 the MagicNumber/String  'ftpPort=' should be converted to const"
+ , "c3" : "QC-JAV000010[00311] In method net.sourceforge.plantuml.Run.getSpriteName@POLYN249570 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00302"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#302"
+ , "c1" : "00312"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#312"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.Run.getSpriteName@POLYN249570 the MagicNumber/String  'test' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00317"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#317"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00302] For method goPicoweb arguments Option  option"
+ , "c3" : "QC-JAV000006[00317] For method getSpriteNameInternal arguments String  fileName"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00302"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#302"
+ , "c1" : "00317"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#317"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00302] The argument option is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00317] The argument fileName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00310"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#310"
+ , "c1" : "00320"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#320"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.Run.printFonts@POLYN251014 the MagicNumber/String  'f=' should be converted to const"
+ , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.Run.getSpriteNameInternal@POLYN249905 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00310"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#310"
+ , "c1" : "00320"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#320"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.Run.printFonts@POLYN251014 the MagicNumber/String  '/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00310"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#310"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.Run.printFonts@POLYN251014 the MagicNumber/String  '/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00310"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#310"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.Run.printFonts@POLYN251014 the MagicNumber/String  '/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00310"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#310"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.Run.printFonts@POLYN251014 the MagicNumber/String  '/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00314"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#314"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.Run.printFonts@POLYN251014 the MagicNumber/String  'n=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00318"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#318"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00318] For method managePipe arguments Option  option|ErrorStatus  error"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00318"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#318"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00318] The argument option is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00323"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#323"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00323] For method manageAllFiles arguments Option  option|ErrorStatus  error"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00323"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#323"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00323] The argument option is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00326"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#326"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00326] In method net.sourceforge.plantuml.Run.manageAllFiles@POLYN252272 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.Run.getSpriteNameInternal@POLYN249905 the MagicNumber/String  '[\\p{L}0-9_]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00329"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#329"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00329] In method net.sourceforge.plantuml.Run.manageAllFiles@POLYN252272 the MagicNumber/String  0 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00329] For method goFtp arguments Option  option"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00330"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#330"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00330] In method net.sourceforge.plantuml.Run.manageAllFiles@POLYN252272 the MagicNumber/String  'javaisrunning.tmp' should be converted to const"
+ , "c1" : "00329"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#329"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00329] The argument option is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00332"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#332"
+ , "c1" : "00331"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#331"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.Run.manageAllFiles@POLYN252272 the MagicNumber/String  'javaumllock.tmp' should be converted to const"
+ , "c3" : "QC-JAV000010[00331] In method net.sourceforge.plantuml.Run.goFtp@POLYN250488 the MagicNumber/String  'ftpPort=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00336"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#336"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.Run.manageAllFiles@POLYN252272 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00343"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#343"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00343] For method processArgs arguments Option  option|ErrorStatus  error"
+ , "c3" : "QC-JAV000006[00336] For method goPicoweb arguments Option  option"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00343"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#343"
+ , "c1" : "00336"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#336"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00343] The argument option is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00336] The argument option is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00343"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#343"
+ , "c1" : "00344"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#344"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00344] In method net.sourceforge.plantuml.Run.printFonts@POLYN251218 the MagicNumber/String  'f=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00344"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#344"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00344] In method net.sourceforge.plantuml.Run.printFonts@POLYN251218 the MagicNumber/String  '/' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00344"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#344"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00344] In method net.sourceforge.plantuml.Run.printFonts@POLYN251218 the MagicNumber/String  '/' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00344"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#344"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00344] In method net.sourceforge.plantuml.Run.printFonts@POLYN251218 the MagicNumber/String  '/' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00344"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#344"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00344] In method net.sourceforge.plantuml.Run.printFonts@POLYN251218 the MagicNumber/String  '/' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00348"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#348"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.Run.printFonts@POLYN251218 the MagicNumber/String  'n=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00352"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#352"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00352] For method managePipe arguments Option  option|ErrorStatus  error"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00352"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#352"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00343] The argument error is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00354"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#354"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00354] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00359"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#359"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00359] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00372"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#372"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00372] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00345"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#345"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00345] In method net.sourceforge.plantuml.Run.processArgs@POLYN253192 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00345"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#345"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00345] In method net.sourceforge.plantuml.Run.processArgs@POLYN253192 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00345"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#345"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00345] In method net.sourceforge.plantuml.Run.processArgs@POLYN253192 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00346"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#346"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00346] In method net.sourceforge.plantuml.Run.processArgs@POLYN253192 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00355"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#355"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00355] In method net.sourceforge.plantuml.Run.processArgs@POLYN253192 the MagicNumber/String  '@startuml' should be converted to const"
+ , "c3" : "QC-JAVCWE476[00352] The argument option is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00357"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#357"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00357] In method net.sourceforge.plantuml.Run.processArgs@POLYN253192 the MagicNumber/String  '@enduml' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00378"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#378"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00378] For method multithread arguments Option  option|ErrorStatus  error"
+ , "c3" : "QC-JAV000006[00357] For method manageAllFiles arguments Option  option|ErrorStatus  error"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00378"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#378"
+ , "c1" : "00357"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#357"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00378] The argument option is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00357] The argument option is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00378"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#378"
+ , "c1" : "00360"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#360"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00360] In method net.sourceforge.plantuml.Run.manageAllFiles@POLYN252476 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00363"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#363"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00363] In method net.sourceforge.plantuml.Run.manageAllFiles@POLYN252476 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00364"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#364"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00364] In method net.sourceforge.plantuml.Run.manageAllFiles@POLYN252476 the MagicNumber/String  'javaisrunning.tmp' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00366"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#366"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00366] In method net.sourceforge.plantuml.Run.manageAllFiles@POLYN252476 the MagicNumber/String  'javaumllock.tmp' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00370"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#370"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00370] In method net.sourceforge.plantuml.Run.manageAllFiles@POLYN252476 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00377"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#377"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00377] For method processArgs arguments Option  option|ErrorStatus  error"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00377"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#377"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00378] The argument error is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00377] The argument option is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00384"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#384"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00384] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00377"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#377"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00377] The argument error is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00385"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#385"
+ , "c1" : "00388"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#388"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00385] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00388] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00395"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#395"
+ , "c1" : "00393"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#393"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00395] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00393] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00397"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#397"
+ , "c1" : "00406"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#406"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00397] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00395"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#395"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00395] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00397"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#397"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00397] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00406] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00379"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#379"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00379] In method net.sourceforge.plantuml.Run.multithread@POLYN255403 the MagicNumber/String  'Using several threads: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00379] In method net.sourceforge.plantuml.Run.processArgs@POLYN253396 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00382"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#382"
+ , "c1" : "00379"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#379"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00382] In method net.sourceforge.plantuml.Run.multithread@POLYN255403 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00379] In method net.sourceforge.plantuml.Run.processArgs@POLYN253396 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00386"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#386"
+ , "c1" : "00379"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#379"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00386] In method net.sourceforge.plantuml.Run.multithread@POLYN255403 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00379] In method net.sourceforge.plantuml.Run.processArgs@POLYN253396 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00410"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#410"
+ , "c1" : "00380"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#380"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00380] In method net.sourceforge.plantuml.Run.processArgs@POLYN253396 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00389"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#389"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00389] In method net.sourceforge.plantuml.Run.processArgs@POLYN253396 the MagicNumber/String  '@startuml' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00391"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#391"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00391] In method net.sourceforge.plantuml.Run.processArgs@POLYN253396 the MagicNumber/String  '@enduml' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00412"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#412"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00410] For method foundNbFiles arguments int  nb"
+ , "c3" : "QC-JAV000006[00412] For method multithread arguments Option  option|ErrorStatus  error"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00411"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#411"
+ , "c1" : "00412"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#412"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00412] The argument option is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00412"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#412"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00412] The argument error is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00418"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#418"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00411] In method net.sourceforge.plantuml.Run.foundNbFiles@POLYN257202 the MagicNumber/String  'Found ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00411"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#411"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00411] In method net.sourceforge.plantuml.Run.foundNbFiles@POLYN257202 the MagicNumber/String  ' files' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00414"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#414"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00414] For method incDone arguments boolean  error"
+ , "c3" : "QC-JAV000001[00418] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00419"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#419"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00419] For method incTotal arguments int  nb"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00424"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#424"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00424] For method manageFileInternal arguments File  f|Option  option|ErrorStatus  error"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00424"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#424"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00424] The argument option is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00424"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#424"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00424] The argument error is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00426"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#426"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00426] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN257809 the MagicNumber/String  'Working on ' should be converted to const"
+ , "c3" : "QC-JAV000001[00419] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00428"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#428"
+ , "c1" : "00429"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#429"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00428] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN257809 the MagicNumber/String  '------------------------' should be converted to const"
+ , "c3" : "QC-JAV000001[00429] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00433"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#433"
+ , "c1" : "00431"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#431"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN257809 the MagicNumber/String  'plantuml' should be converted to const"
+ , "c3" : "QC-JAV000001[00431] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00440"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#440"
+ , "c1" : "00429"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#429"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00440] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN257809 the MagicNumber/String  '------------------------' should be converted to const"
+ , "c3" : "QC-JAV000001[00429] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00431"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#431"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00431] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00413"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#413"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00413] In method net.sourceforge.plantuml.Run.multithread@POLYN255607 the MagicNumber/String  'Using several threads: ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00416"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#416"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00416] In method net.sourceforge.plantuml.Run.multithread@POLYN255607 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00420"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#420"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00420] In method net.sourceforge.plantuml.Run.multithread@POLYN255607 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00444"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#444"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00444] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN257809 the MagicNumber/String  null should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00444] For method foundNbFiles arguments int  nb"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00446"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#446"
+ , "c1" : "00445"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#445"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00446] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN257809 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00445] In method net.sourceforge.plantuml.Run.foundNbFiles@POLYN257406 the MagicNumber/String  'Found ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00446"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#446"
+ , "c1" : "00445"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#445"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00446] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN257809 the MagicNumber/String  '$' should be converted to const"
+ , "c3" : "QC-JAV000010[00445] In method net.sourceforge.plantuml.Run.foundNbFiles@POLYN257406 the MagicNumber/String  ' files' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00448"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#448"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00448] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN257809 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00448"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#448"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00448] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN257809 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00479"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#479"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00479] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN257809 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00486"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#486"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00486] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN257809 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00487"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#487"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00487] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN257809 the MagicNumber/String  'Warning: no image in ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00488"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#488"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00488] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN257809 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00499"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#499"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00499] For method extractPreproc arguments Option  option|ISourceFileReader  sourceFileReader"
+ , "c3" : "QC-JAV000006[00448] For method incDone arguments boolean  error"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00499"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#499"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00499] The argument option is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00499"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#499"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00499] The argument sourceFileReader is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00502"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#502"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00502] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00502"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#502"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00502] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00504"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#504"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00504] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00506"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#506"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00506] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00508"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#508"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00508] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00509"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#509"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00509] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00509"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#509"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00509] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00504"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#504"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00504] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262350 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00505"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#505"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00505] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262350 the MagicNumber/String  'Export preprocessing source to ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00506"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#506"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00506] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262350 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00507"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#507"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00507] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262350 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00508"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#508"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00508] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262350 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00510"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#510"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00510] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262350 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00511"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#511"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00511] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262350 the MagicNumber/String  'skinparam' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00511"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#511"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00511] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262350 the MagicNumber/String  '{' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00514"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#514"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00514] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262350 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00514"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#514"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00514] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262350 the MagicNumber/String  'skinparam' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00514"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#514"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00514] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262350 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00517"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#517"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00517] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262350 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00517"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#517"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00517] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262350 the MagicNumber/String  '}' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00527"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#527"
+ , "c1" : "00453"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#453"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00527] For method hasErrors arguments File  file|List&lt;GeneratedImage &gt;  list|ErrorStatus  error|Stdrpt  stdrpt"
+ , "c3" : "QC-JAV000006[00453] For method incTotal arguments int  nb"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00527"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#527"
+ , "c1" : "00458"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#458"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00458] For method manageFileInternal arguments File  f|Option  option|ErrorStatus  error"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00458"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#458"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00527] The argument list is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00458] The argument option is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00527"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#527"
+ , "c1" : "00458"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#458"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00527] The argument error is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00458] The argument error is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00527"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#527"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00527] The argument stdrpt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00529"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#529"
+ , "c1" : "00460"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#460"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00529] In method net.sourceforge.plantuml.Run.hasErrors@POLYN264242 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00460] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN258013 the MagicNumber/String  'Working on ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00535"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#535"
+ , "c1" : "00462"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#462"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00535] In method net.sourceforge.plantuml.Run.hasErrors@POLYN264242 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00462] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN258013 the MagicNumber/String  '------------------------' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#194"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00194] Public method getCommandLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00467"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#467"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00467] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN258013 the MagicNumber/String  'plantuml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00220"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#220"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00220] Public method isOpenJdkRunning is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00474"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#474"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00474] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN258013 the MagicNumber/String  '------------------------' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#207"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00207] Public method forceOpenJdkResourceLoad is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00478"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#478"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00478] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN258013 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00306"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#306"
+ , "c1" : "00480"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#480"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00480] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN258013 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00480"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#480"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00480] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN258013 the MagicNumber/String  '$' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00482"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#482"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00482] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN258013 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00482"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#482"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00482] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN258013 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00513"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#513"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00513] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN258013 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00520"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#520"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00520] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN258013 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00521"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#521"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00521] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN258013 the MagicNumber/String  'Warning: no image in ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00522"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#522"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00522] In method net.sourceforge.plantuml.Run.manageFileInternal@POLYN258013 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00533"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#533"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00533] For method extractPreproc arguments Option  option|ISourceFileReader  sourceFileReader"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00533"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#533"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00533] The argument option is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00533"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#533"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00533] The argument sourceFileReader is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00536"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#536"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00536] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00536"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#536"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00536] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00538"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#538"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00538] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00540"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#540"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00540] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00542"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#542"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00542] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00543"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#543"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00543] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00543"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#543"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00543] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00538"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#538"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00538] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262554 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00539"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#539"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00539] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262554 the MagicNumber/String  'Export preprocessing source to ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00540"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#540"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00540] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262554 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00541"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#541"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00541] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262554 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00542"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#542"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00542] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262554 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00544"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#544"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00544] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262554 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00545"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#545"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00545] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262554 the MagicNumber/String  'skinparam' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00545"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#545"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00545] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262554 the MagicNumber/String  '{' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00548"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#548"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00548] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262554 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00548"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#548"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00548] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262554 the MagicNumber/String  'skinparam' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00548"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#548"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00548] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262554 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00551"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#551"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00551] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262554 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00551"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#551"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00551] In method net.sourceforge.plantuml.Run.extractPreproc@POLYN262554 the MagicNumber/String  '}' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00561"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#561"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00561] For method hasErrors arguments File  file|List&lt;GeneratedImage &gt;  list|ErrorStatus  error|Stdrpt  stdrpt"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00561"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#561"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00561] The argument list is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00561"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#561"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00561] The argument error is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00561"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#561"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00561] The argument stdrpt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#563"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00563] In method net.sourceforge.plantuml.Run.hasErrors@POLYN264446 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00569"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#569"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00569] In method net.sourceforge.plantuml.Run.hasErrors@POLYN264446 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#228"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00306] Public method printFonts is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00228] Public method getCommandLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00254"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#254"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00254] Public method isOpenJdkRunning is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#241"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00241] Public method forceOpenJdkResourceLoad is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00340"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#340"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00340] Public method printFonts is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

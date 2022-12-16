@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.core.UmlSource" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#27"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#69"
  , "c1" : "UmlSource"
  , "c2" : "removeInitialSkinparam()"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#38"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#80"
  , "c1" : "boolean"
  , "c2" : "containsIgnoreCase(String)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#46"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#88"
  , "c1" : "boolean"
  , "c2" : "hasInitialSkinparam(List<StringLocated>)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#51"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#93"
  , "c1" : "UmlSource"
  , "c2" : "UmlSource(List<StringLocated>;List<StringLocated>)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#56"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#98"
  , "c1" : "UmlSource"
  , "c2" : "create(List<StringLocated>;boolean)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#61"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#110"
  , "c1" : "UmlSource"
  , "c2" : "createWithRaw(List<StringLocated>;boolean;List<StringLocated>)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#68"
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#117"
  , "c1" : "ArrayList<StringLocated>"
  , "c2" : "emptyArrayList()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00072"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#72"
+ , "c5" : "00121"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#121"
  , "c1" : "void"
  , "c2" : "loadInternal(List<StringLocated>;boolean)"
  , "c3" : "6"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#91"
+ , "c5" : "00145"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#145"
  , "c1" : "DiagramType"
  , "c2" : "getDiagramType()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#96"
+ , "c5" : "00154"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#154"
  , "c1" : "IteratorCounter2"
  , "c2" : "iterator2()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00105"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#105"
+ , "c5" : "00167"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#167"
  , "c1" : "String"
  , "c2" : "getPlainString()"
  , "c3" : "2"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00115"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#115"
+ , "c5" : "00177"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#177"
  , "c1" : "String"
  , "c2" : "getRawString()"
  , "c3" : "2"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00125"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#125"
+ , "c5" : "00187"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#187"
  , "c1" : "long"
  , "c2" : "seed()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00129"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#129"
+ , "c5" : "00191"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#191"
  , "c1" : "String"
  , "c2" : "getLine(LineLocation)"
  , "c3" : "3"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00138"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#138"
+ , "c5" : "00202"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#202"
  , "c1" : "int"
  , "c2" : "getTotalLineCount()"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00142"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#142"
+ , "c5" : "00206"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#206"
  , "c1" : "boolean"
  , "c2" : "getTotalLineCountLessThan5()"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00147"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#147"
+ , "c5" : "00216"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#216"
  , "c1" : "boolean"
  , "c2" : "isEmpty()"
  , "c3" : "6"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00166"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#166"
+ , "c5" : "00238"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#238"
  , "c1" : "Display"
  , "c2" : "getTitle()"
  , "c3" : "3"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00177"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#177"
+ , "c5" : "00249"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#249"
  , "c1" : "boolean"
  , "c2" : "isStartDef()"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00181"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#181"
+ , "c5" : "00253"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#253"
  , "c1" : "String"
  , "c2" : "getId()"
  , "c3" : "2"
@@ -274,304 +274,304 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#28"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.core.UmlSource.removeInitialSkinparam@POLYN179462 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.core.UmlSource.removeInitialSkinparam@POLYN179894 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#33"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.core.UmlSource.removeInitialSkinparam@POLYN179462 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.core.UmlSource.removeInitialSkinparam@POLYN179894 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#38"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method containsIgnoreCase arguments String  searched"
+ , "c3" : "QC-JAV000006[00080] For method containsIgnoreCase arguments String  searched"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#41"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.core.UmlSource.containsIgnoreCase@POLYN179995 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.core.UmlSource.containsIgnoreCase@POLYN180427 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#43"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.core.UmlSource.containsIgnoreCase@POLYN179995 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.core.UmlSource.containsIgnoreCase@POLYN180427 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#46"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#88"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method hasInitialSkinparam arguments List&lt;StringLocated &gt;  copy"
+ , "c3" : "QC-JAV000006[00088] For method hasInitialSkinparam arguments List&lt;StringLocated &gt;  copy"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#46"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#88"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00046] The argument copy is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00088] The argument copy is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#47"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00047] The same method call copy.get(1) is used several times, should be optimized "
+ , "c3" : "QC-JAV000021[00089] The same method call copy.get(1) is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#47"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.core.UmlSource.hasInitialSkinparam@POLYN180336 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.core.UmlSource.hasInitialSkinparam@POLYN180768 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#47"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.core.UmlSource.hasInitialSkinparam@POLYN180336 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.core.UmlSource.hasInitialSkinparam@POLYN180768 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#47"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.core.UmlSource.hasInitialSkinparam@POLYN180336 the MagicNumber/String  'skinparam ' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.core.UmlSource.hasInitialSkinparam@POLYN180768 the MagicNumber/String  'skinparam ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#48"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.core.UmlSource.hasInitialSkinparam@POLYN180336 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.core.UmlSource.hasInitialSkinparam@POLYN180768 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#48"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.core.UmlSource.hasInitialSkinparam@POLYN180336 the MagicNumber/String  'skinparamlocked ' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.core.UmlSource.hasInitialSkinparam@POLYN180768 the MagicNumber/String  'skinparamlocked ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#56"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method create arguments List&lt;StringLocated &gt;  source|boolean  checkEndingBackslash"
+ , "c3" : "QC-JAV000006[00098] For method create arguments List&lt;StringLocated &gt;  source|boolean  checkEndingBackslash"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#61"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#110"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method createWithRaw arguments List&lt;StringLocated &gt;  source|boolean  checkEndingBackslash|List&lt;StringLocated &gt;  rawSource"
+ , "c3" : "QC-JAV000006[00110] For method createWithRaw arguments List&lt;StringLocated &gt;  source|boolean  checkEndingBackslash|List&lt;StringLocated &gt;  rawSource"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#72"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#121"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00072] For method loadInternal arguments List&lt;StringLocated &gt;  source|boolean  checkEndingBackslash"
+ , "c3" : "QC-JAV000006[00121] For method loadInternal arguments List&lt;StringLocated &gt;  source|boolean  checkEndingBackslash"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#72"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#121"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00072] The argument source is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00121] The argument source is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#76"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00076] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00125] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#78"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.core.UmlSource.loadInternal@POLYN182025 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.core.UmlSource.loadInternal@POLYN182457 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#78"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.core.UmlSource.loadInternal@POLYN182025 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.core.UmlSource.loadInternal@POLYN182025 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.core.UmlSource.getDiagramType@POLYN183260 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#109"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.core.UmlSource.getPlainString@POLYN183763 the MagicNumber/String  '\r' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.core.UmlSource.getRawString@POLYN184268 the MagicNumber/String  '\r' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#129"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00129] For method getLine arguments LineLocation  n"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.core.UmlSource.loadInternal@POLYN182457 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.core.UmlSource.getLine@POLYN184910 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.core.UmlSource.loadInternal@POLYN182457 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#134"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.core.UmlSource.getLine@POLYN184910 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.core.UmlSource.getDiagramType@POLYN183692 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#143"
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.core.UmlSource.getTotalLineCountLessThan5@POLYN185402 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.core.UmlSource.getPlainString@POLYN184195 the MagicNumber/String  '\r' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#155"
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.core.UmlSource.isEmpty@POLYN185667 the MagicNumber/String  '\\s*'.*' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.core.UmlSource.getRawString@POLYN184700 the MagicNumber/String  '\r' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#158"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.core.UmlSource.isEmpty@POLYN185667 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#191"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00191] For method getLine arguments LineLocation  n"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#159"
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.core.UmlSource.isEmpty@POLYN185667 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.core.UmlSource.getLine@POLYN185342 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#162"
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.core.UmlSource.isEmpty@POLYN185667 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.core.UmlSource.getLine@POLYN185342 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#169"
+ , "c1" : "00207"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00169] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.core.UmlSource.getTotalLineCountLessThan5@POLYN185834 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#167"
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.core.UmlSource.getTitle@POLYN186419 the MagicNumber/String  '^[%s]*title[%s]+(.+)$' should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.core.UmlSource.isEmpty@POLYN186099 the MagicNumber/String  '\\s*'.*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#172"
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.core.UmlSource.getTitle@POLYN186419 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.core.UmlSource.isEmpty@POLYN186099 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#178"
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.core.UmlSource.isStartDef@POLYN187049 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.core.UmlSource.isEmpty@POLYN186099 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#178"
+ , "c1" : "00231"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#231"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.core.UmlSource.isStartDef@POLYN187049 the MagicNumber/String  '@startdef' should be converted to const"
+ , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.core.UmlSource.isEmpty@POLYN186099 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00182"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#182"
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.core.UmlSource.getId@POLYN187237 the MagicNumber/String  'id=([\\w]+)\\b' should be converted to const"
+ , "c3" : "QC-JAV000001[00241] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#183"
+ , "c1" : "00239"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#239"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.core.UmlSource.getId@POLYN187237 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.core.UmlSource.getTitle@POLYN186851 the MagicNumber/String  '^[%s]*title[%s]+(.+)$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#185"
+ , "c1" : "00244"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.core.UmlSource.getId@POLYN187237 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.core.UmlSource.getTitle@POLYN186851 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#250"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.core.UmlSource.isStartDef@POLYN187481 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#250"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.core.UmlSource.isStartDef@POLYN187481 the MagicNumber/String  '@startdef' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00254"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#254"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.core.UmlSource.getId@POLYN187669 the MagicNumber/String  'id=([\\w]+)\\b' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#255"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.core.UmlSource.getId@POLYN187669 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#257"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.core.UmlSource.getId@POLYN187669 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#259"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.core.UmlSource.getId@POLYN187669 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#187"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.core.UmlSource.getId@POLYN187237 the MagicNumber/String  null should be converted to const"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00187] Public method seed is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#125"
+ , "c1" : "00206"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#206"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00125] Public method seed is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#142"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00142] Public method getTotalLineCountLessThan5 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00206] Public method getTotalLineCountLessThan5 is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

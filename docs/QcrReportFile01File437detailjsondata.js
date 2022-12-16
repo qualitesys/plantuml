@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.SkinParamForceColor" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SkinParamForceColor.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SkinParamForceColor.java.html#46"
  , "c1" : "SkinParamForceColor"
  , "c2" : "SkinParamForceColor(ISkinParam;ColorParam;HColor)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SkinParamForceColor.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SkinParamForceColor.java.html#53"
  , "c1" : "HColor"
  , "c2" : "getHtmlColor(ColorParam;Stereotype;boolean)"
  , "c3" : "2"
@@ -77,10 +77,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SkinParamForceColor.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SkinParamForceColor.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method getHtmlColor arguments ColorParam  param|Stereotype  stereotype|boolean  clickable"
+ , "c3" : "QC-JAV000006[00053] For method getHtmlColor arguments ColorParam  param|Stereotype  stereotype|boolean  clickable"
 }} 
 ]
 , 

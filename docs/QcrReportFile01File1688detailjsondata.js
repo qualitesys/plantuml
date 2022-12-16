@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.core.TaskSeparator" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#50"
  , "c1" : "TaskSeparator"
  , "c2" : "TaskSeparator(StyleBuilder;String;int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#55"
  , "c1" : "Day"
  , "c2" : "getStart()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#59"
  , "c1" : "Day"
  , "c2" : "getEnd()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#63"
  , "c1" : "void"
  , "c2" : "setStart(Day)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#67"
  , "c1" : "void"
  , "c2" : "setEnd(Day)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#71"
  , "c1" : "void"
  , "c2" : "setColors(CenterBorderColor...)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#75"
  , "c1" : "String"
  , "c2" : "getName()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#45"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#79"
  , "c1" : "void"
  , "c2" : "addResource(Resource;int)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#49"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#83"
  , "c1" : "Load"
  , "c2" : "getLoad()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#53"
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#87"
  , "c1" : "void"
  , "c2" : "setLoad(Load)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#57"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#91"
  , "c1" : "void"
  , "c2" : "setDiamond(boolean)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#61"
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#95"
  , "c1" : "boolean"
  , "c2" : "isDiamond()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#65"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#99"
  , "c1" : "void"
  , "c2" : "setCompletion(int)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#69"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#103"
  , "c1" : "void"
  , "c2" : "setUrl(Url)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#73"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#107"
  , "c1" : "void"
  , "c2" : "addPause(Day)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#77"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#111"
  , "c1" : "void"
  , "c2" : "addPause(DayOfWeek)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#81"
+ , "c5" : "00115"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#115"
  , "c1" : "void"
  , "c2" : "setNote(Display)"
  , "c3" : "1"
@@ -233,101 +233,101 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.project.core.TaskSeparator.TaskSeparator@POLYN153366 the MagicNumber/String  '##' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.project.core.TaskSeparator.TaskSeparator@POLYN153570 the MagicNumber/String  '##' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method setStart arguments Day  start"
+ , "c3" : "QC-JAV000006[00063] For method setStart arguments Day  start"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method setEnd arguments Day  end"
+ , "c3" : "QC-JAV000006[00067] For method setEnd arguments Day  end"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#71"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method setColors arguments CenterBorderColor  ...colors"
+ , "c3" : "QC-JAV000006[00071] For method setColors arguments CenterBorderColor  ...colors"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#79"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method addResource arguments Resource  resource|int  percentage"
+ , "c3" : "QC-JAV000006[00079] For method addResource arguments Resource  resource|int  percentage"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#53"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#87"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method setLoad arguments Load  load"
+ , "c3" : "QC-JAV000006[00087] For method setLoad arguments Load  load"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#57"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#91"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00057] For method setDiamond arguments boolean  diamond"
+ , "c3" : "QC-JAV000006[00091] For method setDiamond arguments boolean  diamond"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#65"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#99"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00065] For method setCompletion arguments int  completion"
+ , "c3" : "QC-JAV000006[00099] For method setCompletion arguments int  completion"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#69"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#103"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method setUrl arguments Url  url"
+ , "c3" : "QC-JAV000006[00103] For method setUrl arguments Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#73"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#107"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method addPause arguments Day  pause"
+ , "c3" : "QC-JAV000006[00107] For method addPause arguments Day  pause"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#77"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#111"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00077] For method addPause arguments DayOfWeek  pause"
+ , "c3" : "QC-JAV000006[00111] For method addPause arguments DayOfWeek  pause"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#81"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#115"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00081] For method setNote arguments Display  note"
+ , "c3" : "QC-JAV000006[00115] For method setNote arguments Display  note"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#81"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#115"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00081] Void method setNote is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00115] Void method setNote is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#81"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#115"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00081] Void method setNote is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00115] Void method setNote is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

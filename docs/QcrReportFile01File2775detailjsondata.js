@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.wire.WCursor" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WCursor.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WCursor.java.html#45"
  , "c1" : "XPoint2D"
  , "c2" : "getPosition()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WCursor.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/WCursor.java.html#49"
  , "c1" : "void"
  , "c2" : "move(double;double)"
  , "c3" : "1"
@@ -77,10 +77,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WCursor.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WCursor.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method move arguments double  dx|double  dy"
+ , "c3" : "QC-JAV000006[00049] For method move arguments double  dx|double  dy"
 }} 
 ]
 , 

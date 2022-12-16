@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.util.TicLabelFormat" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/jcckit/util/TicLabelFormat.java.html#8"
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/jcckit/util/TicLabelFormat.java.html#32"
  , "c1" : "String"
  , "c2" : "form(double)"
  , "c3" : "1"

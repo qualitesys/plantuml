@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.BlockUmlBuilder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#37"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#74"
  , "c1" : "BlockUmlBuilder"
  , "c2" : "BlockUmlBuilder(List<String>;String;Defines;Reader;SFile;String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#44"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#84"
  , "c1" : "BlockUmlBuilder"
  , "c2" : "BlockUmlBuilder(List<String>;String;Defines;Reader)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#48"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#88"
  , "c1" : "BlockUmlBuilder"
  , "c2" : "BlockUmlBuilder(List<String>;Charset;Defines;Reader;SFile;String)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#63"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#103"
  , "c1" : "void"
  , "c2" : "init(ReadLineNumbered)"
  , "c3" : "12"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#107"
+ , "c5" : "00147"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#147"
  , "c1" : "List<BlockUml>"
  , "c2" : "getBlockUmls()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00111"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#111"
+ , "c5" : "00151"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#151"
  , "c1" : "Set<FileWithSuffix>"
  , "c2" : "getIncludedFiles()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00115"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#115"
+ , "c5" : "00155"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#155"
  , "c1" : "List<String>"
  , "c2" : "getDefinition(String)"
  , "c3" : "3"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00123"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#123"
+ , "c5" : "00163"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#163"
  , "c1" : "ImportedFiles"
  , "c2" : "getImportedFiles()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00129"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#129"
+ , "c5" : "00172"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#172"
  , "c1" : "String"
  , "c2" : "getCharset()"
  , "c3" : "1"
@@ -168,199 +168,199 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#45"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.BlockUmlBuilder.BlockUmlBuilder@POLYN167743 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.BlockUmlBuilder.BlockUmlBuilder@POLYN167743 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#48"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00048] The argument readerInit is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#63"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00063] For method init arguments ReadLineNumbered  includer"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#63"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00063] The argument includer is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00068] Assigning instead of comparing on s=includer.readLine() (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00084] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00098] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.BlockUmlBuilder.BlockUmlBuilder@POLYN168001 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.BlockUmlBuilder.BlockUmlBuilder@POLYN168001 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  false should be converted to const"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#88"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00088] The argument readerInit is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  false should be converted to const"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#103"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00103] For method init arguments ReadLineNumbered  includer"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#103"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00103] The argument includer is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#98"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAVCWE481[00108] Assigning instead of comparing on s=includer.readLine() (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#101"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00124] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#102"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169033 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000001[00138] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#104"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#108"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#111"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#115"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00115] For method getDefinition arguments String  name"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.BlockUmlBuilder.getDefinition@POLYN171965 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#121"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#121"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#132"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#134"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#138"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#141"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#142"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.BlockUmlBuilder.init@POLYN169291 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#155"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00155] For method getDefinition arguments String  name"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#158"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.BlockUmlBuilder.getDefinition@POLYN172223 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

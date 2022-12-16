@@ -2,14 +2,14 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.anim.AffineTransformation"
 class net.sourceforge.plantuml.anim.AffineTransformation {
--AffineTransformation(AffineTransform) : AffineTransformation [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#26]]]
--compose(AffineTransformation) : AffineTransformation [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#30]]]
-+from(AffineTransform) : AffineTransformation [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#36]]]
-create(String) : AffineTransformation [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#40]]]
--createSimple(String) : AffineTransformation [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#57]]]
-+getAffineTransform() : AffineTransform [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#88]]]
--getAffineTransform(XDimension2D) : AffineTransform [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#92]]]
-+setDimension(XDimension2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#104]]]
-+getMinMax(XDimension2D) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#109]]]
+-AffineTransformation(AffineTransform) : AffineTransformation [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#60]]]
+-compose(AffineTransformation) : AffineTransformation [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#64]]]
++from(AffineTransform) : AffineTransformation [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#70]]]
+create(String) : AffineTransformation [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#74]]]
+-createSimple(String) : AffineTransformation [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#91]]]
++getAffineTransform() : AffineTransform [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#122]]]
+-getAffineTransform(XDimension2D) : AffineTransform [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#126]]]
++setDimension(XDimension2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#138]]]
++getMinMax(XDimension2D) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#143]]]
 } 
 @enduml

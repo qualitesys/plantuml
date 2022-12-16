@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.lang.SubjectSeparator" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#52"
  , "c1" : "IRegex"
  , "c2" : "toRegex()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#56"
  , "c1" : "Failable<GanttDiagram>"
  , "c2" : "getMe(GanttDiagram;RegexResult)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#60"
  , "c1" : "Collection<?extendsSentenceSimple>"
  , "c2" : "getSentences()"
  , "c3" : "1"
@@ -100,66 +100,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.project.lang.SubjectSeparator.toRegex@POLYN155127 the MagicNumber/String  'SUBJECT' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.project.lang.SubjectSeparator.toRegex@POLYN155127 the MagicNumber/String  'separator' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#22"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method getMe arguments GanttDiagram  project|RegexResult  arg"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#37"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#37"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00037] The argument project is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.lang.SubjectSeparator.toRegex@POLYN155331 the MagicNumber/String  'SUBJECT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#53"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.lang.SubjectSeparator.toRegex@POLYN155331 the MagicNumber/String  'separator' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
+ , "c3" : "QC-JAV000006[00056] For method getMe arguments GanttDiagram  project|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#53"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00053] The argument project is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#69"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#71"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
+ , "c3" : "QC-JAV000006[00071] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#69"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#71"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00069] The argument project is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00071] The argument project is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#87"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00087] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#87"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00087] The argument project is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#103"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00103] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#103"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00103] The argument project is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

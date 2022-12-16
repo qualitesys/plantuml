@@ -2,11 +2,11 @@
 !pragma layout smetana
 "DataContainerDataElement" <|-- "jcckit.data.DataCurve"
 class jcckit.data.DataCurve {
-+DataCurve(String) : DataCurve [[[./../../../.././qc/src/jcckit/data/DataCurve.java.html#17]]]
-+DataCurve(ConfigParameters) : DataCurve [[[./../../../.././qc/src/jcckit/data/DataCurve.java.html#22]]]
-+getContainer() : DataContainer [[[./../../../.././qc/src/jcckit/data/DataCurve.java.html#33]]]
-+setContainer(DataContainer) : void [[[./../../../.././qc/src/jcckit/data/DataCurve.java.html#39]]]
-+getTitle() : String [[[./../../../.././qc/src/jcckit/data/DataCurve.java.html#44]]]
-isValid(DataElement) : boolean [[[./../../../.././qc/src/jcckit/data/DataCurve.java.html#49]]]
++DataCurve(String) : DataCurve [[[./../../../.././qc/src/jcckit/data/DataCurve.java.html#38]]]
++DataCurve(ConfigParameters) : DataCurve [[[./../../../.././qc/src/jcckit/data/DataCurve.java.html#56]]]
++getContainer() : DataContainer [[[./../../../.././qc/src/jcckit/data/DataCurve.java.html#69]]]
++setContainer(DataContainer) : void [[[./../../../.././qc/src/jcckit/data/DataCurve.java.html#77]]]
++getTitle() : String [[[./../../../.././qc/src/jcckit/data/DataCurve.java.html#82]]]
+isValid(DataElement) : boolean [[[./../../../.././qc/src/jcckit/data/DataCurve.java.html#90]]]
 } 
 @enduml

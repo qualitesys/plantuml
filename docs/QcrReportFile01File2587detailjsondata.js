@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.UGraphicNull" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#49"
  , "c1" : "AbstractCommonUGraphic"
  , "c2" : "copyUGraphic()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#53"
  , "c1" : "UGraphicNull"
  , "c2" : "UGraphicNull(UGraphicNull)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#57"
  , "c1" : "UGraphicNull"
  , "c2" : "UGraphicNull()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#62"
  , "c1" : "void"
  , "c2" : "writeToStream(OutputStream;String;int)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#65"
  , "c1" : "void"
  , "c2" : "ensureVisible(double;double)"
  , "c3" : "1"
@@ -125,52 +125,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.ugraphic.UGraphicNull.UGraphicNull@POLYN148518 the MagicNumber/String  'foo' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.ugraphic.UGraphicNull.UGraphicNull@POLYN148722 the MagicNumber/String  'foo' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
+ , "c3" : "QC-JAV000006[00062] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method ensureVisible arguments double  x|double  y"
+ , "c3" : "QC-JAV000006[00065] For method ensureVisible arguments double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#62"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00028] Void method writeToStream is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00062] Void method writeToStream is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#62"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00028] Void method writeToStream is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00062] Void method writeToStream is empty or contains only a return. Interface segregation"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#65"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00031] Void method ensureVisible is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00065] Void method ensureVisible is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#65"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00031] Void method ensureVisible is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00065] Void method ensureVisible is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

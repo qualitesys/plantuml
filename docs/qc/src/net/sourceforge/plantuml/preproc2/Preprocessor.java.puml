@@ -2,8 +2,8 @@
 !pragma layout smetana
 "ReadLineNumbered" <|-- "net.sourceforge.plantuml.preproc2.Preprocessor"
 class net.sourceforge.plantuml.preproc2.Preprocessor {
-+Preprocessor(List<String>;ReadLine) : Preprocessor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/Preprocessor.java.html#15]]]
-+readLine() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/Preprocessor.java.html#23]]]
-+close() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/Preprocessor.java.html#27]]]
++Preprocessor(List<String>;ReadLine) : Preprocessor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/Preprocessor.java.html#49]]]
++readLine() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/Preprocessor.java.html#57]]]
++close() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/Preprocessor.java.html#61]]]
 } 
 @enduml

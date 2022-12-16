@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.salt.element.WrappedElement" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#46"
  , "c1" : "WrappedElement"
  , "c2" : "WrappedElement(Element)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#50"
  , "c1" : "XDimension2D"
  , "c2" : "getPreferredDimension(StringBounder;double;double)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#54"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic;int;XDimension2D)"
  , "c3" : "1"
@@ -93,31 +93,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method getPreferredDimension arguments StringBounder  stringBounder|double  x|double  y"
+ , "c3" : "QC-JAV000006[00050] For method getPreferredDimension arguments StringBounder  stringBounder|double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.salt.element.WrappedElement.getPreferredDimension@POLYN147289 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.salt.element.WrappedElement.getPreferredDimension@POLYN147493 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.salt.element.WrappedElement.getPreferredDimension@POLYN147289 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.salt.element.WrappedElement.getPreferredDimension@POLYN147493 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method drawU arguments UGraphic  ug|int  zIndex|XDimension2D  dimToUse"
+ , "c3" : "QC-JAV000006[00054] For method drawU arguments UGraphic  ug|int  zIndex|XDimension2D  dimToUse"
 }} 
 ]
 , 

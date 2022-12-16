@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.posimo.MargedBlock"
 class net.sourceforge.plantuml.posimo.MargedBlock {
-+MargedBlock(StringBounder;IEntityImageBlock;double;Cluster) : MargedBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/MargedBlock.java.html#17]]]
-+getBlock() : Block [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/MargedBlock.java.html#25]]]
-+getMarginDecorator() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/MargedBlock.java.html#29]]]
-+getImageBlock() : IEntityImageBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/MargedBlock.java.html#33]]]
-+getImagePosition() : Positionable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/MargedBlock.java.html#37]]]
++MargedBlock(StringBounder;IEntityImageBlock;double;Cluster) : MargedBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/MargedBlock.java.html#51]]]
++getBlock() : Block [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/MargedBlock.java.html#59]]]
++getMarginDecorator() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/MargedBlock.java.html#63]]]
++getImageBlock() : IEntityImageBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/MargedBlock.java.html#67]]]
++getImagePosition() : Positionable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/MargedBlock.java.html#71]]]
 } 
 @enduml

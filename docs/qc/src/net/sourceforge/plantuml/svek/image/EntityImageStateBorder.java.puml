@@ -2,11 +2,11 @@
 !pragma layout smetana
 "AbstractEntityImageBorder" <|-- "net.sourceforge.plantuml.svek.image.EntityImageStateBorder"
 class net.sourceforge.plantuml.svek.image.EntityImageStateBorder {
-+EntityImageStateBorder(ILeaf;ISkinParam;Cluster;Bibliotekon;SName) : EntityImageStateBorder [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateBorder.java.html#28]]]
--getSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateBorder.java.html#34]]]
--upPosition() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateBorder.java.html#38]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateBorder.java.html#47]]]
--getUStroke() : UStroke [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateBorder.java.html#70]]]
-+getMaxWidthFromLabelForEntryExit(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateBorder.java.html#74]]]
++EntityImageStateBorder(ILeaf;ISkinParam;Cluster;Bibliotekon;SName) : EntityImageStateBorder [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateBorder.java.html#62]]]
+-getSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateBorder.java.html#68]]]
+-upPosition() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateBorder.java.html#72]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateBorder.java.html#81]]]
+-getUStroke() : UStroke [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateBorder.java.html#104]]]
++getMaxWidthFromLabelForEntryExit(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateBorder.java.html#108]]]
 } 
 @enduml

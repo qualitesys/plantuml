@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphic.SvgAttributes" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#51"
  , "c1" : "SvgAttributes"
  , "c2" : "SvgAttributes()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#54"
  , "c1" : "SvgAttributes"
  , "c2" : "SvgAttributes(SvgAttributes)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#58"
  , "c1" : "SvgAttributes"
  , "c2" : "SvgAttributes(String)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#66"
  , "c1" : "Map<String,String>"
  , "c2" : "attributes()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#70"
  , "c1" : "SvgAttributes"
  , "c2" : "add(String;String)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#76"
  , "c1" : "SvgAttributes"
  , "c2" : "add(SvgAttributes)"
  , "c3" : "1"
@@ -127,52 +127,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#54"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00054] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.graphic.SvgAttributes.SvgAttributes@POLYN151436 the MagicNumber/String  '(\\w+)\\s*=\\s*([%g][^%g]*[%g]|(?:\\w+))' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.graphic.SvgAttributes.SvgAttributes@POLYN151640 the MagicNumber/String  '(\\w+)\\s*=\\s*([%g][^%g]*[%g]|(?:\\w+))' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.graphic.SvgAttributes.SvgAttributes@POLYN151436 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.graphic.SvgAttributes.SvgAttributes@POLYN151640 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.graphic.SvgAttributes.SvgAttributes@POLYN151436 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.graphic.SvgAttributes.SvgAttributes@POLYN151640 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method add arguments String  key|String  value"
+ , "c3" : "QC-JAV000006[00070] For method add arguments String  key|String  value"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method add arguments SvgAttributes  toBeAdded"
+ , "c3" : "QC-JAV000006[00076] For method add arguments SvgAttributes  toBeAdded"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#76"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00042] The argument toBeAdded is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00076] The argument toBeAdded is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

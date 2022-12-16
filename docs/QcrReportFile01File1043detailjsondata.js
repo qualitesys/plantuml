@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#51"
  , "c1" : "String"
  , "c2" : "startingChars()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#63"
  , "c1" : "Command"
  , "c2" : "create()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#67"
  , "c1" : "Command"
  , "c2" : "createEol()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#71"
  , "c1" : "CommandCreoleColorAndSizeChange"
  , "c2" : "CommandCreoleColorAndSizeChange(Pattern2)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#75"
  , "c1" : "int"
  , "c2" : "matchingSize(String)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#49"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#83"
  , "c1" : "String"
  , "c2" : "executeAndGetRemaining(String;StripeSimple)"
  , "c3" : "4"
@@ -127,122 +127,122 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.startingChars@POLYN156082 the MagicNumber/String  '&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.startingChars@POLYN156286 the MagicNumber/String  '&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#41"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#75"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method matchingSize arguments String  line"
+ , "c3" : "QC-JAV000006[00075] For method matchingSize arguments String  line"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.matchingSize@POLYN157001 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.matchingSize@POLYN157205 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.matchingSize@POLYN157001 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.matchingSize@POLYN157205 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.matchingSize@POLYN157001 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.matchingSize@POLYN157205 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#83"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method executeAndGetRemaining arguments String  line|StripeSimple  stripe"
+ , "c3" : "QC-JAV000006[00083] For method executeAndGetRemaining arguments String  line|StripeSimple  stripe"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#83"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00049] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00083] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#83"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00049] The argument stripe is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00083] The argument stripe is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157382 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157586 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#56"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157382 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157586 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#56"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157382 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157586 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#57"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157382 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157586 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157382 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157586 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157382 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157586 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157382 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157586 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#67"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157382 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157586 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#69"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleColorAndSizeChange.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157382 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange.executeAndGetRemaining@POLYN157586 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

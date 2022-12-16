@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.util.Coordinate" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#16"
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#30"
  , "c1" : "Coordinate"
  , "c2" : "Coordinate()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#20"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#43"
  , "c1" : "Coordinate"
  , "c2" : "Coordinate(double;double)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#25"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#48"
  , "c1" : "void"
  , "c2" : "renderAsXML(Writer)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#32"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#55"
  , "c1" : "Point3D"
  , "c2" : "getPoint3D()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#44"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#72"
  , "c1" : "Point3D"
  , "c2" : "getPoint3DRads()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#53"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#85"
  , "c1" : "Coordinate"
  , "c2" : "eclipticToEquatorial()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#64"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#99"
  , "c1" : "void"
  , "c2" : "add(Coordinate)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#71"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#110"
  , "c1" : "void"
  , "c2" : "wrap()"
  , "c3" : "11"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#91"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#130"
  , "c1" : "double"
  , "c2" : "getLat()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#95"
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#134"
  , "c1" : "double"
  , "c2" : "getDE()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00099"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#99"
+ , "c5" : "00138"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#138"
  , "c1" : "double"
  , "c2" : "getLong()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00103"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#103"
+ , "c5" : "00142"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#142"
  , "c1" : "double"
  , "c2" : "getRA()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#107"
+ , "c5" : "00146"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#146"
  , "c1" : "boolean"
  , "c2" : "check()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00111"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#111"
+ , "c5" : "00150"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#150"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -206,206 +206,206 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#25"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method renderAsXML arguments Writer  writer"
+ , "c3" : "QC-JAV000006[00048] For method renderAsXML arguments Writer  writer"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#25"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#48"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00025] The argument writer is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00048] The argument writer is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#26"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.renderAsXML@POLYN156981 the MagicNumber/String  '&amp;lt;Coordinate&amp;gt;\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.renderAsXML@POLYN157215 the MagicNumber/String  '&amp;lt;Coordinate&amp;gt;\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#27"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.renderAsXML@POLYN156981 the MagicNumber/String  '  &amp;lt;latitude&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.renderAsXML@POLYN157215 the MagicNumber/String  '  &amp;lt;latitude&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#27"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.renderAsXML@POLYN156981 the MagicNumber/String  '&amp;lt;/latitude&amp;gt;\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.renderAsXML@POLYN157215 the MagicNumber/String  '&amp;lt;/latitude&amp;gt;\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#28"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.renderAsXML@POLYN156981 the MagicNumber/String  '  &amp;lt;longitude&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.renderAsXML@POLYN157215 the MagicNumber/String  '  &amp;lt;longitude&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#28"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.renderAsXML@POLYN156981 the MagicNumber/String  '&amp;lt;/longitude&amp;gt;\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.renderAsXML@POLYN157215 the MagicNumber/String  '&amp;lt;/longitude&amp;gt;\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#29"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.renderAsXML@POLYN156981 the MagicNumber/String  '&amp;lt;/Coordinate&amp;gt;\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.renderAsXML@POLYN157215 the MagicNumber/String  '&amp;lt;/Coordinate&amp;gt;\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#32"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00032] For method getPoint3D list of called methods Object monObjet|double Toolkit_degsToRadsN157528|double Toolkit_degsToRadsN157627"
+ , "c3" : "QC-JAV000007[00055] For method getPoint3D list of called methods Object monObjet|double Toolkit_degsToRadsN157762|double Toolkit_degsToRadsN157861"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#64"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#99"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method add arguments Coordinate  lOther"
+ , "c3" : "QC-JAV000006[00099] For method add arguments Coordinate  lOther"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#64"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#99"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00064] The argument lOther is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00099] The argument lOther is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#72"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160321 the MagicNumber/String  90 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160321 the MagicNumber/String  180 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160321 the MagicNumber/String  180 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160321 the MagicNumber/String  90 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160321 the MagicNumber/String  180 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160321 the MagicNumber/String  180 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160321 the MagicNumber/String  180 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160321 the MagicNumber/String  360 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160321 the MagicNumber/String  180 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160321 the MagicNumber/String  180 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#86"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160321 the MagicNumber/String  360 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160321 the MagicNumber/String  180 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.check@POLYN161592 the MagicNumber/String  90 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.check@POLYN161592 the MagicNumber/String  90 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.check@POLYN161592 the MagicNumber/String  180 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.check@POLYN161592 the MagicNumber/String  180 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160555 the MagicNumber/String  90 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.toString@POLYN161946 the MagicNumber/String  'lat: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160555 the MagicNumber/String  180 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#112"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.toString@POLYN161946 the MagicNumber/String  ', long: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160555 the MagicNumber/String  180 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160555 the MagicNumber/String  90 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#115"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00115] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160555 the MagicNumber/String  180 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#116"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00116] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160555 the MagicNumber/String  180 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160555 the MagicNumber/String  180 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#121"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00121] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160555 the MagicNumber/String  360 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#122"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00122] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160555 the MagicNumber/String  180 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160555 the MagicNumber/String  180 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160555 the MagicNumber/String  360 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#126"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00126] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.wrap@POLYN160555 the MagicNumber/String  180 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#147"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00147] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.check@POLYN161826 the MagicNumber/String  90 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#147"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00147] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.check@POLYN161826 the MagicNumber/String  90 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#147"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00147] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.check@POLYN161826 the MagicNumber/String  180 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#147"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00147] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.check@POLYN161826 the MagicNumber/String  180 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.toString@POLYN162180 the MagicNumber/String  'lat: ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.toString@POLYN162180 the MagicNumber/String  ', long: ' should be converted to const"
 }} 
 ]
 , 

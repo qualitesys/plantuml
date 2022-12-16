@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.creole.atom.AtomSpace" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#46"
  , "c1" : "Atom"
  , "c2" : "create(double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#50"
  , "c1" : "AtomSpace"
  , "c2" : "AtomSpace(double)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#54"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#58"
  , "c1" : "double"
  , "c2" : "getStartingAltitude(StringBounder)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#62"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "1"
@@ -125,59 +125,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method create arguments double  width"
+ , "c3" : "QC-JAV000006[00046] For method create arguments double  width"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00054] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.creole.atom.AtomSpace.calculateDimension@POLYN147602 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.creole.atom.AtomSpace.calculateDimension@POLYN147806 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method getStartingAltitude arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00058] For method getStartingAltitude arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.creole.atom.AtomSpace.getStartingAltitude@POLYN147772 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.creole.atom.AtomSpace.getStartingAltitude@POLYN147976 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00062] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#62"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00028] Void method drawU is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00062] Void method drawU is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#62"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00028] Void method drawU is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00062] Void method drawU is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

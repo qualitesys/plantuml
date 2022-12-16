@@ -2,8 +2,8 @@
 !pragma layout smetana
 "AbstractExtremityFactoryExtremityFactory" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleConnect"
 class net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleConnect {
-+ExtremityFactoryCircleConnect(HColor) : ExtremityFactoryCircleConnect [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.html#14]]]
-+createUDrawable(XPoint2D;double;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.html#19]]]
-+createUDrawable(XPoint2D;XPoint2D;XPoint2D;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.html#25]]]
++ExtremityFactoryCircleConnect(HColor) : ExtremityFactoryCircleConnect [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.html#48]]]
++createUDrawable(XPoint2D;double;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.html#53]]]
++createUDrawable(XPoint2D;XPoint2D;XPoint2D;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircleConnect.java.html#59]]]
 } 
 @enduml

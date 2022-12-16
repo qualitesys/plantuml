@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.graphic.BasicGraphicAttributes" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#29"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#94"
  , "c1" : "BasicGraphicAttributes"
  , "c2" : "BasicGraphicAttributes(ConfigParameters)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#45"
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#125"
  , "c1" : "BasicGraphicAttributes"
  , "c2" : "BasicGraphicAttributes(Color;Color;double;double[];Color;String;FontStyle;double;double;Anchor;Anchor)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#63"
+ , "c5" : "00146"
+ , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#146"
  , "c1" : "Color"
  , "c2" : "getTextColor()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#68"
+ , "c5" : "00154"
+ , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#154"
  , "c1" : "String"
  , "c2" : "getFontName()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#73"
+ , "c5" : "00162"
+ , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#162"
  , "c1" : "FontStyle"
  , "c2" : "getFontStyle()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#78"
+ , "c5" : "00169"
+ , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#169"
  , "c1" : "double"
  , "c2" : "getFontSize()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#83"
+ , "c5" : "00178"
+ , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#178"
  , "c1" : "double"
  , "c2" : "getOrientationAngle()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#88"
+ , "c5" : "00188"
+ , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#188"
  , "c1" : "Anchor"
  , "c2" : "getHorizontalAnchor()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#93"
+ , "c5" : "00198"
+ , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#198"
  , "c1" : "Anchor"
  , "c2" : "getVerticalAnchor()"
  , "c3" : "1"
@@ -147,38 +147,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#29"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#94"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00094] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#31"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN184684 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN185314 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#32"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN184684 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN185314 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#35"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN184684 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN185314 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#36"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN184684 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN185314 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

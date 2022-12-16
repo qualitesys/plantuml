@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#23"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#56"
  , "c1" : "CodeIteratorReturnFunction"
  , "c2" : "CodeIteratorReturnFunction(CodeIterator;TContext;TMemory;FunctionsSet;List<StringLocated>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#32"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#65"
  , "c1" : "StringLocated"
  , "c2" : "peek()"
  , "c3" : "8"
@@ -91,59 +91,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#34"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00034] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00067] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#39"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00039] The same method call functionsSet.pendingFunction() is used several times, should be optimized "
+ , "c3" : "QC-JAV000021[00072] The same method call functionsSet.pendingFunction() is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#33"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction.peek@POLYN153971 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction.peek@POLYN154169 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#35"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction.peek@POLYN153971 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction.peek@POLYN154169 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#36"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction.peek@POLYN153971 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction.peek@POLYN154169 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#39"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction.peek@POLYN153971 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction.peek@POLYN154169 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#43"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction.peek@POLYN153971 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction.peek@POLYN154169 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#45"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction.peek@POLYN153971 the MagicNumber/String  'This function does not have any !return directive. Declare it as a procedure instead ?' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction.peek@POLYN154169 the MagicNumber/String  'This function does not have any !return directive. Declare it as a procedure instead ?' should be converted to const"
 }} 
 ]
 , 

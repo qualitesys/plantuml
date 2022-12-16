@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.scanbit.ScanBitGenerator"
 class ext.plantuml.com.ctreber.acearth.scanbit.ScanBitGenerator {
-+generateScanBits() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#10]]]
-+setImageHeight(int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#12]]]
-+setImageWidth(int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#17]]]
-+getScanBits() : ScanBit[] [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#22]]]
++generateScanBits() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#16]]]
++setImageHeight(int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#18]]]
++setImageWidth(int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#23]]]
++getScanBits() : ScanBit[] [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBitGenerator.java.html#28]]]
 } 
 @enduml

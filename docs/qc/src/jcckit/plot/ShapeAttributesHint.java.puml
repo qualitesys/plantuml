@@ -2,11 +2,11 @@
 !pragma layout smetana
 "AttributesHint" <|-- "jcckit.plot.ShapeAttributesHint"
 class jcckit.plot.ShapeAttributesHint {
--extractHSB(Color) : float[] [[[./../../../.././qc/src/jcckit/plot/ShapeAttributesHint.java.html#20]]]
--createColor(float[]) : Color [[[./../../../.././qc/src/jcckit/plot/ShapeAttributesHint.java.html#26]]]
--incrementColor(float[];double[]) : float[] [[[./../../../.././qc/src/jcckit/plot/ShapeAttributesHint.java.html#31]]]
-+ShapeAttributesHint(ConfigParameters) : ShapeAttributesHint [[[./../../../.././qc/src/jcckit/plot/ShapeAttributesHint.java.html#52]]]
-+getNextHint() : AttributesHint [[[./../../../.././qc/src/jcckit/plot/ShapeAttributesHint.java.html#69]]]
-+getAttributes() : GraphicAttributes [[[./../../../.././qc/src/jcckit/plot/ShapeAttributesHint.java.html#84]]]
+-extractHSB(Color) : float[] [[[./../../../.././qc/src/jcckit/plot/ShapeAttributesHint.java.html#44]]]
+-createColor(float[]) : Color [[[./../../../.././qc/src/jcckit/plot/ShapeAttributesHint.java.html#50]]]
+-incrementColor(float[];double[]) : float[] [[[./../../../.././qc/src/jcckit/plot/ShapeAttributesHint.java.html#55]]]
++ShapeAttributesHint(ConfigParameters) : ShapeAttributesHint [[[./../../../.././qc/src/jcckit/plot/ShapeAttributesHint.java.html#100]]]
++getNextHint() : AttributesHint [[[./../../../.././qc/src/jcckit/plot/ShapeAttributesHint.java.html#120]]]
++getAttributes() : GraphicAttributes [[[./../../../.././qc/src/jcckit/plot/ShapeAttributesHint.java.html#135]]]
 } 
 @enduml

@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractComponentText" <|-- "net.sourceforge.plantuml.asciiart.ComponentTextDelay"
 class net.sourceforge.plantuml.asciiart.ComponentTextDelay {
-+ComponentTextDelay(ComponentType;Display;FileFormat) : ComponentTextDelay [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#19]]]
-+drawU(UGraphic;Area;Context2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#23]]]
-+getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#38]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#42]]]
++ComponentTextDelay(ComponentType;Display;FileFormat) : ComponentTextDelay [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#53]]]
++drawU(UGraphic;Area;Context2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#57]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#72]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#76]]]
 } 
 @enduml

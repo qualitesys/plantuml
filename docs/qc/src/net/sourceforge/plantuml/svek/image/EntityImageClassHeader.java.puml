@@ -2,13 +2,13 @@
 !pragma layout smetana
 "AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageClassHeader"
 class net.sourceforge.plantuml.svek.image.EntityImageClassHeader {
-+EntityImageClassHeader(ILeaf;ISkinParam;PortionShower) : EntityImageClassHeader [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#40]]]
--getCircledCharacter(ILeaf;ISkinParam) : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#118]]]
--spotStyleSignature(LeafType) : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#148]]]
--getCircledChar(LeafType) : char [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#176]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#205]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#209]]]
-+drawU(UGraphic;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#213]]]
-+getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#217]]]
++EntityImageClassHeader(ILeaf;ISkinParam;PortionShower) : EntityImageClassHeader [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#74]]]
+-getCircledCharacter(ILeaf;ISkinParam) : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#152]]]
+-spotStyleSignature(LeafType) : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#182]]]
+-getCircledChar(LeafType) : char [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#210]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#239]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#243]]]
++drawU(UGraphic;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#247]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#251]]]
 } 
 @enduml

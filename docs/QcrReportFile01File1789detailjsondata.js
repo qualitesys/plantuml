@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.real.RealMiddle2" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#9"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#43"
  , "c1" : "RealMiddle2"
  , "c2" : "RealMiddle2(RealMoveable;RealMoveable)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#51"
  , "c1" : "double"
  , "c2" : "getCurrentValueInternal()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#59"
  , "c1" : "Real"
  , "c2" : "addAtLeast(double)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#63"
  , "c1" : "void"
  , "c2" : "ensureBiggerThan(Real)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#68"
  , "c1" : "void"
  , "c2" : "move(double)"
  , "c3" : "1"
@@ -118,73 +118,73 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#9"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#43"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00009] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00043] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#9"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#43"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00009] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00043] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#10"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.real.RealMiddle2.RealMiddle2@POLYN148062 the MagicNumber/String  'middle' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealMiddle2.RealMiddle2@POLYN148266 the MagicNumber/String  'middle' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.real.RealMiddle2.getCurrentValueInternal@POLYN148495 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.real.RealMiddle2.getCurrentValueInternal@POLYN148699 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method addAtLeast arguments double  delta"
+ , "c3" : "QC-JAV000006[00055] For method addAtLeast arguments double  delta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method ensureBiggerThan arguments Real  other"
+ , "c3" : "QC-JAV000006[00063] For method ensureBiggerThan arguments Real  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.real.RealMiddle2.ensureBiggerThan@POLYN148808 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.real.RealMiddle2.ensureBiggerThan@POLYN149012 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method move arguments double  delta"
+ , "c3" : "QC-JAV000006[00068] For method move arguments double  delta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.real.RealMiddle2.move@POLYN149045 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.real.RealMiddle2.move@POLYN149249 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.real.RealMiddle2.move@POLYN149045 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.real.RealMiddle2.move@POLYN149249 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

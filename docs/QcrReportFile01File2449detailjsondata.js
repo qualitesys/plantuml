@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.stdlib.CallUserFunction" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#19"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#52"
  , "c1" : "TFunctionSignature"
  , "c2" : "getSignature()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#23"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#56"
  , "c1" : "boolean"
  , "c2" : "canCover(int;Set<String>)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#27"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#60"
  , "c1" : "TValue"
  , "c2" : "executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>)"
  , "c3" : "2"
@@ -100,80 +100,80 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#20"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.getSignature@POLYN151466 the MagicNumber/String  '%call_user_func' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.getSignature@POLYN151664 the MagicNumber/String  '%call_user_func' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#20"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.getSignature@POLYN151466 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.getSignature@POLYN151664 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArgument"
+ , "c3" : "QC-JAV000006[00056] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArgument"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#24"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.canCover@POLYN151616 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.canCover@POLYN151814 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#27"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  named"
+ , "c3" : "QC-JAV000006[00060] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  named"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#27"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#60"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00027] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00060] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#27"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#60"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00027] The argument values is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00060] The argument values is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#29"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.executeReturnFunction@POLYN151794 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.executeReturnFunction@POLYN151992 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#30"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.executeReturnFunction@POLYN151794 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.executeReturnFunction@POLYN151992 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#33"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.executeReturnFunction@POLYN151794 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.executeReturnFunction@POLYN151992 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#34"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.executeReturnFunction@POLYN151794 the MagicNumber/String  'Cannot find void function ' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.executeReturnFunction@POLYN151992 the MagicNumber/String  'Cannot find void function ' should be converted to const"
 }} 
 ]
 , 

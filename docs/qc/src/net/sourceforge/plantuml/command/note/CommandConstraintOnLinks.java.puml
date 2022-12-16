@@ -2,9 +2,9 @@
 !pragma layout smetana
 "SingleLineCommand2<CucaDiagram>" <|-- "net.sourceforge.plantuml.command.note.CommandConstraintOnLinks"
 class net.sourceforge.plantuml.command.note.CommandConstraintOnLinks {
-+CommandConstraintOnLinks() : CommandConstraintOnLinks [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandConstraintOnLinks.java.html#22]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandConstraintOnLinks.java.html#26]]]
--color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandConstraintOnLinks.java.html#41]]]
-executeArg(CucaDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandConstraintOnLinks.java.html#46]]]
++CommandConstraintOnLinks() : CommandConstraintOnLinks [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandConstraintOnLinks.java.html#56]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandConstraintOnLinks.java.html#60]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandConstraintOnLinks.java.html#75]]]
+executeArg(CucaDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandConstraintOnLinks.java.html#80]]]
 } 
 @enduml

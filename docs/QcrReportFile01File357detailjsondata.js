@@ -28,8 +28,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.AnimatedGifEncoder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#57"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#118"
  , "c1" : "void"
  , "c2" : "setDelay(int)"
  , "c3" : "1"
@@ -37,8 +37,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#62"
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#128"
  , "c1" : "void"
  , "c2" : "setDispose(int)"
  , "c3" : "2"
@@ -46,8 +46,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#69"
+ , "c5" : "00141"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#141"
  , "c1" : "void"
  , "c2" : "setRepeat(int)"
  , "c3" : "2"
@@ -55,8 +55,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#76"
+ , "c5" : "00156"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#156"
  , "c1" : "void"
  , "c2" : "setTransparent(Color)"
  , "c3" : "1"
@@ -64,8 +64,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#81"
+ , "c5" : "00170"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#170"
  , "c1" : "boolean"
  , "c2" : "addFrame(BufferedImage)"
  , "c3" : "6"
@@ -73,8 +73,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00117"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#117"
+ , "c5" : "00209"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#209"
  , "c1" : "boolean"
  , "c2" : "finish()"
  , "c3" : "3"
@@ -82,8 +82,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00146"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#146"
+ , "c5" : "00243"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#243"
  , "c1" : "void"
  , "c2" : "setFrameRate(float)"
  , "c3" : "2"
@@ -91,8 +91,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00153"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#153"
+ , "c5" : "00258"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#258"
  , "c1" : "void"
  , "c2" : "setQuality(int)"
  , "c3" : "2"
@@ -100,8 +100,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00160"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#160"
+ , "c5" : "00271"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#271"
  , "c1" : "void"
  , "c2" : "setSize(int;int)"
  , "c3" : "4"
@@ -109,8 +109,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00173"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#173"
+ , "c5" : "00290"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#290"
  , "c1" : "boolean"
  , "c2" : "start(OutputStream)"
  , "c3" : "2"
@@ -118,8 +118,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00206"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#206"
+ , "c5" : "00325"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#325"
  , "c1" : "void"
  , "c2" : "analyzePixels()"
  , "c3" : "4"
@@ -127,8 +127,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00237"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#237"
+ , "c5" : "00359"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#359"
  , "c1" : "int"
  , "c2" : "findClosest(Color)"
  , "c3" : "4"
@@ -136,8 +136,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00262"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#262"
+ , "c5" : "00386"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#386"
  , "c1" : "void"
  , "c2" : "getImagePixels()"
  , "c3" : "2"
@@ -145,8 +145,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00277"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#277"
+ , "c5" : "00403"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#403"
  , "c1" : "void"
  , "c2" : "writeGraphicCtrlExt()"
  , "c3" : "4"
@@ -154,8 +154,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00306"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#306"
+ , "c5" : "00434"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#434"
  , "c1" : "void"
  , "c2" : "writeImageDesc()"
  , "c3" : "3"
@@ -163,8 +163,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00327"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#327"
+ , "c5" : "00457"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#457"
  , "c1" : "void"
  , "c2" : "writeLSD()"
  , "c3" : "1"
@@ -172,8 +172,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00342"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#342"
+ , "c5" : "00474"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#474"
  , "c1" : "void"
  , "c2" : "writeNetscapeExt()"
  , "c3" : "1"
@@ -181,8 +181,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00354"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#354"
+ , "c5" : "00488"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#488"
  , "c1" : "void"
  , "c2" : "writePalette()"
  , "c3" : "2"
@@ -190,8 +190,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00363"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#363"
+ , "c5" : "00499"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#499"
  , "c1" : "void"
  , "c2" : "writePixels()"
  , "c3" : "1"
@@ -199,8 +199,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00369"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#369"
+ , "c5" : "00507"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#507"
  , "c1" : "void"
  , "c2" : "writeShort(int)"
  , "c3" : "1"
@@ -208,8 +208,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00375"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#375"
+ , "c5" : "00515"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#515"
  , "c1" : "void"
  , "c2" : "writeString(String)"
  , "c3" : "2"
@@ -217,8 +217,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00480"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#480"
+ , "c5" : "00655"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#655"
  , "c1" : "NeuQuant"
  , "c2" : "NeuQuant(byte[];int;int)"
  , "c3" : "2"
@@ -226,8 +226,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00499"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#499"
+ , "c5" : "00674"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#674"
  , "c1" : "byte[]"
  , "c2" : "colorMap()"
  , "c3" : "3"
@@ -235,8 +235,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00515"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#515"
+ , "c5" : "00695"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#695"
  , "c1" : "void"
  , "c2" : "inxbuild()"
  , "c3" : "8"
@@ -244,8 +244,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00567"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#567"
+ , "c5" : "00749"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#749"
  , "c1" : "void"
  , "c2" : "learn()"
  , "c3" : "19"
@@ -253,8 +253,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00641"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#641"
+ , "c5" : "00826"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#826"
  , "c1" : "int"
  , "c2" : "map(int;int;int)"
  , "c3" : "18"
@@ -262,8 +262,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00707"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#707"
+ , "c5" : "00892"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#892"
  , "c1" : "byte[]"
  , "c2" : "process()"
  , "c3" : "1"
@@ -271,8 +271,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00715"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#715"
+ , "c5" : "00905"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#905"
  , "c1" : "void"
  , "c2" : "unbiasnet()"
  , "c3" : "2"
@@ -280,8 +280,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00728"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#728"
+ , "c5" : "00923"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#923"
  , "c1" : "void"
  , "c2" : "alterneigh(int;int;int;int;int)"
  , "c3" : "6"
@@ -289,8 +289,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00767"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#767"
+ , "c5" : "00965"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#965"
  , "c1" : "void"
  , "c2" : "altersingle(int;int;int;int;int)"
  , "c3" : "1"
@@ -298,8 +298,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00777"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#777"
+ , "c5" : "00977"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#977"
  , "c1" : "int"
  , "c2" : "contest(int;int;int)"
  , "c3" : "7"
@@ -307,8 +307,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00932"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#932"
+ , "c5" : "01134"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1134"
  , "c1" : "LZWEncoder"
  , "c2" : "LZWEncoder(int;int;byte[];int)"
  , "c3" : "1"
@@ -316,8 +316,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00941"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#941"
+ , "c5" : "01143"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1143"
  , "c1" : "void"
  , "c2" : "char_out(byte;OutputStream)"
  , "c3" : "2"
@@ -325,8 +325,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00950"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#950"
+ , "c5" : "01152"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1152"
  , "c1" : "void"
  , "c2" : "cl_block(OutputStream)"
  , "c3" : "1"
@@ -334,8 +334,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00959"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#959"
+ , "c5" : "01161"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1161"
  , "c1" : "void"
  , "c2" : "cl_hash(int)"
  , "c3" : "2"
@@ -343,8 +343,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00964"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#964"
+ , "c5" : "01166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1166"
  , "c1" : "void"
  , "c2" : "compress(int;OutputStream)"
  , "c3" : "13"
@@ -352,8 +352,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1035"
+ , "c5" : "01237"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1237"
  , "c1" : "void"
  , "c2" : "encode(OutputStream)"
  , "c3" : "1"
@@ -361,8 +361,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1047"
+ , "c5" : "01249"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1249"
  , "c1" : "void"
  , "c2" : "flush_char(OutputStream)"
  , "c3" : "2"
@@ -370,8 +370,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1055"
+ , "c5" : "01257"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1257"
  , "c1" : "int"
  , "c2" : "MAXCODE(int)"
  , "c3" : "1"
@@ -379,8 +379,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1062"
+ , "c5" : "01264"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1264"
  , "c1" : "int"
  , "c2" : "nextPixel()"
  , "c3" : "2"
@@ -388,8 +388,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1073"
+ , "c5" : "01275"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1275"
  , "c1" : "void"
  , "c2" : "output(int;OutputStream)"
  , "c3" : "11"
@@ -480,2278 +480,2278 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#57"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#118"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00057] For method setDelay arguments int  ms"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.AnimatedGifEncoder.setDelay@POLYN312551 the MagicNumber/String  10.0f should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#62"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method setDispose arguments int  code"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.AnimatedGifEncoder.setDispose@POLYN312877 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#69"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method setRepeat arguments int  iter"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.AnimatedGifEncoder.setRepeat@POLYN313237 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#76"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method setTransparent arguments Color  c"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#81"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00081] For method addFrame arguments BufferedImage  im"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.AnimatedGifEncoder.addFrame@POLYN314144 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.AnimatedGifEncoder.addFrame@POLYN314144 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.AnimatedGifEncoder.addFrame@POLYN314144 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.AnimatedGifEncoder.addFrame@POLYN314144 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.AnimatedGifEncoder.addFrame@POLYN314144 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.AnimatedGifEncoder.addFrame@POLYN314144 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000006[00118] For method setDelay arguments int  ms"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN315567 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.AnimatedGifEncoder.setDelay@POLYN313751 the MagicNumber/String  10.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN315567 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN315567 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN315567 the MagicNumber/String  0x3b should be converted to const"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#128"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00128] For method setDispose arguments int  code"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN315567 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.AnimatedGifEncoder.setDispose@POLYN314077 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN315567 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#134"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN315567 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN315567 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN315567 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN315567 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#138"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN315567 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN315567 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN315567 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#146"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#141"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00146] For method setFrameRate arguments float  fps"
+ , "c3" : "QC-JAV000006[00141] For method setRepeat arguments int  iter"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#147"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.AnimatedGifEncoder.setFrameRate@POLYN316780 the MagicNumber/String  0f should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.AnimatedGifEncoder.setRepeat@POLYN314437 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#148"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.AnimatedGifEncoder.setFrameRate@POLYN316780 the MagicNumber/String  100f should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#153"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#156"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00153] For method setQuality arguments int  quality"
+ , "c3" : "QC-JAV000006[00156] For method setTransparent arguments Color  c"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#154"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.AnimatedGifEncoder.setQuality@POLYN317302 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#155"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.AnimatedGifEncoder.setQuality@POLYN317302 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#160"
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#170"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00160] For method setSize arguments int  w|int  h"
+ , "c3" : "QC-JAV000006[00170] For method addFrame arguments BufferedImage  im"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#165"
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.AnimatedGifEncoder.setSize@POLYN317691 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.AnimatedGifEncoder.addFrame@POLYN315344 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#166"
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.AnimatedGifEncoder.setSize@POLYN317691 the MagicNumber/String  320 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#167"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.AnimatedGifEncoder.setSize@POLYN317691 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#168"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.AnimatedGifEncoder.setSize@POLYN317691 the MagicNumber/String  240 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#169"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.AnimatedGifEncoder.setSize@POLYN317691 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00173"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#173"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00173] For method start arguments OutputStream  os"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#184"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00184] Assigning instead of comparing on started=ok (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.AnimatedGifEncoder.addFrame@POLYN315344 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.AnimatedGifEncoder.start@POLYN318407 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.AnimatedGifEncoder.addFrame@POLYN315344 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00175"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#175"
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.AnimatedGifEncoder.start@POLYN318407 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.AnimatedGifEncoder.addFrame@POLYN315344 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#176"
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.AnimatedGifEncoder.start@POLYN318407 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.AnimatedGifEncoder.addFrame@POLYN315344 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00177"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#177"
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.AnimatedGifEncoder.start@POLYN318407 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.AnimatedGifEncoder.addFrame@POLYN315344 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00180"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#180"
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#211"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.AnimatedGifEncoder.start@POLYN318407 the MagicNumber/String  'GIF89a' should be converted to const"
+ , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN316767 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00182"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#182"
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.AnimatedGifEncoder.start@POLYN318407 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN316767 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#208"
+ , "c1" : "00213"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#213"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN316767 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#214"
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#214"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00216"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#216"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00217"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#217"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00218"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#218"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00218"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#218"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN316767 the MagicNumber/String  0x3b should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00221"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN316767 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00222"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#222"
+ , "c1" : "00225"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#225"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN316767 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#223"
+ , "c1" : "00226"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  0xff should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#223"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  0xff should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#223"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  0xff should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00224"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#224"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN316767 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN316767 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00228"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN316767 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN316767 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#230"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN316767 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00231"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#231"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN319022 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN316767 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00237"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#237"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00237] For method findClosest arguments Color  c"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00238"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#238"
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN321240 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00239"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#239"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN321240 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.AnimatedGifEncoder.finish@POLYN316767 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00243"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#243"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN321240 the MagicNumber/String  0 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00243] For method setFrameRate arguments float  fps"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN321240 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.AnimatedGifEncoder.setFrameRate@POLYN317980 the MagicNumber/String  0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#244"
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN321240 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.AnimatedGifEncoder.setFrameRate@POLYN317980 the MagicNumber/String  100f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#244"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN321240 the MagicNumber/String  256 should be converted to const"
+ , "c1" : "00258"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#258"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00258] For method setQuality arguments int  quality"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00246"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#246"
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#259"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN321240 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.AnimatedGifEncoder.setQuality@POLYN318502 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00247"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#247"
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#260"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN321240 the MagicNumber/String  0xff should be converted to const"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.AnimatedGifEncoder.setQuality@POLYN318502 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00248"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#248"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN321240 the MagicNumber/String  0xff should be converted to const"
+ , "c1" : "00271"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#271"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00271] For method setSize arguments int  w|int  h"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00249"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#249"
+ , "c1" : "00276"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#276"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN321240 the MagicNumber/String  0xff should be converted to const"
+ , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.AnimatedGifEncoder.setSize@POLYN318891 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00251"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#251"
+ , "c1" : "00277"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN321240 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00270"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#270"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.AnimatedGifEncoder.getImagePixels@POLYN323069 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00270"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#270"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.AnimatedGifEncoder.getImagePixels@POLYN323069 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00270"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#270"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.AnimatedGifEncoder.getImagePixels@POLYN323069 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.AnimatedGifEncoder.setSize@POLYN318891 the MagicNumber/String  320 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00278"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#278"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN324175 the MagicNumber/String  0x21 should be converted to const"
+ , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.AnimatedGifEncoder.setSize@POLYN318891 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00279"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#279"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN324175 the MagicNumber/String  0xf9 should be converted to const"
+ , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.AnimatedGifEncoder.setSize@POLYN318891 the MagicNumber/String  240 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00280"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#280"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN324175 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00282"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#282"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00282] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN324175 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#283"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN324175 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00284"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#284"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00284] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN324175 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00286"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#286"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN324175 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00287"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#287"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00287] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN324175 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00289"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#289"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN324175 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.AnimatedGifEncoder.setSize@POLYN318891 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00290"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#290"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00290] For method start arguments OutputStream  os"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN324175 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAVCWE481[00301] Assigning instead of comparing on started=ok (see http://cwe.mitre.org/data/definitions/481.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00291"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#291"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.AnimatedGifEncoder.start@POLYN319607 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00292"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#292"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN324175 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.AnimatedGifEncoder.start@POLYN319607 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00295"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#295"
+ , "c1" : "00293"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#293"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN324175 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.AnimatedGifEncoder.start@POLYN319607 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00294"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#294"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.AnimatedGifEncoder.start@POLYN319607 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00297"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#297"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00297] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN324175 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00297] In method net.sourceforge.plantuml.AnimatedGifEncoder.start@POLYN319607 the MagicNumber/String  'GIF89a' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00302"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#302"
+ , "c1" : "00299"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#299"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN324175 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00299] In method net.sourceforge.plantuml.AnimatedGifEncoder.start@POLYN319607 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00307"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#307"
+ , "c1" : "00327"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#327"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeImageDesc@POLYN325394 the MagicNumber/String  0x2c should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00308"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#308"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeImageDesc@POLYN325394 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00309"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#309"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00309] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeImageDesc@POLYN325394 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00315"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#315"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00315] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeImageDesc@POLYN325394 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00318"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#318"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00318] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeImageDesc@POLYN325394 the MagicNumber/String  0x80 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00319"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#319"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeImageDesc@POLYN325394 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00319"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#319"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeImageDesc@POLYN325394 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00320"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#320"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeImageDesc@POLYN325394 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00332"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#332"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeLSD@POLYN326119 the MagicNumber/String  0x80 should be converted to const"
+ , "c3" : "QC-JAV000010[00327] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00333"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#333"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeLSD@POLYN326119 the MagicNumber/String  0x70 should be converted to const"
+ , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00334"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#334"
+ , "c1" : "00333"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#333"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00334] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeLSD@POLYN326119 the MagicNumber/String  0x00 should be converted to const"
+ , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00335"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#335"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00335] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00336"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#336"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00337"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#337"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeLSD@POLYN326119 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00338"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#338"
+ , "c1" : "00337"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#337"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00338] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeLSD@POLYN326119 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00340"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#340"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00340] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00341"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#341"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00341] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00342"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#342"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00342] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  0xff should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00342"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#342"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00342] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  0xff should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00342"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#342"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00342] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  0xff should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00343"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#343"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00343] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeNetscapeExt@POLYN326656 the MagicNumber/String  0x21 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00344"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#344"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00344] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeNetscapeExt@POLYN326656 the MagicNumber/String  0xff should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00345"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#345"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00345] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeNetscapeExt@POLYN326656 the MagicNumber/String  11 should be converted to const"
+ , "c3" : "QC-JAV000010[00343] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00346"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#346"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00346] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeNetscapeExt@POLYN326656 the MagicNumber/String  'NETSCAPE' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00346"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#346"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00346] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeNetscapeExt@POLYN326656 the MagicNumber/String  '2.0' should be converted to const"
+ , "c3" : "QC-JAV000010[00346] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00347"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#347"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00347] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeNetscapeExt@POLYN326656 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00347] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00348"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#348"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeNetscapeExt@POLYN326656 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00350"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#350"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00350] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeNetscapeExt@POLYN326656 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00350] In method net.sourceforge.plantuml.AnimatedGifEncoder.analyzePixels@POLYN320222 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00355"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#355"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00355] In method net.sourceforge.plantuml.AnimatedGifEncoder.writePalette@POLYN327328 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00359"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#359"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00359] For method findClosest arguments Color  c"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00356"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#356"
+ , "c1" : "00360"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#360"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00356] In method net.sourceforge.plantuml.AnimatedGifEncoder.writePalette@POLYN327328 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00360] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN322440 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00356"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#356"
+ , "c1" : "00361"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#361"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00356] In method net.sourceforge.plantuml.AnimatedGifEncoder.writePalette@POLYN327328 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00361] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN322440 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00357"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#357"
+ , "c1" : "00365"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#365"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00357] In method net.sourceforge.plantuml.AnimatedGifEncoder.writePalette@POLYN327328 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00365] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN322440 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00358"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#358"
+ , "c1" : "00366"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#366"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00358] In method net.sourceforge.plantuml.AnimatedGifEncoder.writePalette@POLYN327328 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00366] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN322440 the MagicNumber/String  256 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00366"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#366"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00366] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN322440 the MagicNumber/String  256 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00366"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#366"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00366] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN322440 the MagicNumber/String  256 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00368"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#368"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00368] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN322440 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00369"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#369"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00369] For method writeShort arguments int  value"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN322440 the MagicNumber/String  0xff should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00370"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#370"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00370] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeShort@POLYN328247 the MagicNumber/String  0xff should be converted to const"
+ , "c3" : "QC-JAV000010[00370] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN322440 the MagicNumber/String  0xff should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00371"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#371"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00371] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeShort@POLYN328247 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00371] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN322440 the MagicNumber/String  0xff should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00371"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#371"
+ , "c1" : "00373"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#373"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00371] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeShort@POLYN328247 the MagicNumber/String  0xff should be converted to const"
+ , "c3" : "QC-JAV000010[00373] In method net.sourceforge.plantuml.AnimatedGifEncoder.findClosest@POLYN322440 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00375"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#375"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00375] For method writeString arguments String  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00376"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#376"
+ , "c1" : "00394"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#394"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00376] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeString@POLYN328593 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00394] In method net.sourceforge.plantuml.AnimatedGifEncoder.getImagePixels@POLYN324269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#57"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00057] Public method setDelay is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00394"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#394"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00394] In method net.sourceforge.plantuml.AnimatedGifEncoder.getImagePixels@POLYN324269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#62"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00062] Public method setDispose is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00394"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#394"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00394] In method net.sourceforge.plantuml.AnimatedGifEncoder.getImagePixels@POLYN324269 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#69"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00069] Public method setRepeat is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00404"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#404"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00404] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN325375 the MagicNumber/String  0x21 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#76"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00076] Public method setTransparent is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00405"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#405"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00405] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN325375 the MagicNumber/String  0xf9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#146"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00146] Public method setFrameRate is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00406"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#406"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00406] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN325375 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#153"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00153] Public method setQuality is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00408"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#408"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00408] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN325375 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00409"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#409"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00409] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN325375 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00410"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#410"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00410] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN325375 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00412"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#412"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00412] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN325375 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00413"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#413"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00413] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN325375 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00415"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#415"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00415] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN325375 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00416"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#416"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00416] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN325375 the MagicNumber/String  7 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00418"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#418"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00418] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN325375 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00421"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#421"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00421] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN325375 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00423"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#423"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00423] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN325375 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00428"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#428"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00428] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeGraphicCtrlExt@POLYN325375 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00435"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#435"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00435] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeImageDesc@POLYN326594 the MagicNumber/String  0x2c should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00436"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#436"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00436] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeImageDesc@POLYN326594 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00437"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#437"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00437] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeImageDesc@POLYN326594 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00443"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#443"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00443] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeImageDesc@POLYN326594 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00446"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#446"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00446] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeImageDesc@POLYN326594 the MagicNumber/String  0x80 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00447"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#447"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00447] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeImageDesc@POLYN326594 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00447"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#447"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00447] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeImageDesc@POLYN326594 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00448"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#448"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00448] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeImageDesc@POLYN326594 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00462"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#462"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00462] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeLSD@POLYN327319 the MagicNumber/String  0x80 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00463"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#463"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00463] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeLSD@POLYN327319 the MagicNumber/String  0x70 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00464"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#464"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00464] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeLSD@POLYN327319 the MagicNumber/String  0x00 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00467"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#467"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00467] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeLSD@POLYN327319 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00468"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#468"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00468] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeLSD@POLYN327319 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00475"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#475"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00475] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeNetscapeExt@POLYN327856 the MagicNumber/String  0x21 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00476"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#476"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00476] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeNetscapeExt@POLYN327856 the MagicNumber/String  0xff should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00477"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#477"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00477] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeNetscapeExt@POLYN327856 the MagicNumber/String  11 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00478"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#478"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00478] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeNetscapeExt@POLYN327856 the MagicNumber/String  'NETSCAPE' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00478"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#478"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00478] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeNetscapeExt@POLYN327856 the MagicNumber/String  '2.0' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00479"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#479"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00479] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeNetscapeExt@POLYN327856 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00480"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#480"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00480] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeNetscapeExt@POLYN327856 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00482"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#482"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00482] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeNetscapeExt@POLYN327856 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00489"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#489"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00489] In method net.sourceforge.plantuml.AnimatedGifEncoder.writePalette@POLYN328528 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00490"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#490"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00490] In method net.sourceforge.plantuml.NeuQuant.NeuQuant@POLYN333960 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00490] In method net.sourceforge.plantuml.AnimatedGifEncoder.writePalette@POLYN328528 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00490"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#490"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00490] In method net.sourceforge.plantuml.AnimatedGifEncoder.writePalette@POLYN328528 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00491"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#491"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00491] In method net.sourceforge.plantuml.NeuQuant.NeuQuant@POLYN333960 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00491] In method net.sourceforge.plantuml.AnimatedGifEncoder.writePalette@POLYN328528 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00493"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#493"
+ , "c1" : "00492"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#492"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00493] In method net.sourceforge.plantuml.NeuQuant.NeuQuant@POLYN333960 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00493"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#493"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00493] In method net.sourceforge.plantuml.NeuQuant.NeuQuant@POLYN333960 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00493"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#493"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00493] In method net.sourceforge.plantuml.NeuQuant.NeuQuant@POLYN333960 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00493"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#493"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00493] In method net.sourceforge.plantuml.NeuQuant.NeuQuant@POLYN333960 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00495"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#495"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00495] In method net.sourceforge.plantuml.NeuQuant.NeuQuant@POLYN333960 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00500"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#500"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00500] In method net.sourceforge.plantuml.NeuQuant.colorMap@POLYN335273 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00502"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#502"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00502] In method net.sourceforge.plantuml.NeuQuant.colorMap@POLYN335273 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00503"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#503"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00503] In method net.sourceforge.plantuml.NeuQuant.colorMap@POLYN335273 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00504"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#504"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00504] In method net.sourceforge.plantuml.NeuQuant.colorMap@POLYN335273 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00505"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#505"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00505] In method net.sourceforge.plantuml.NeuQuant.colorMap@POLYN335273 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00492] In method net.sourceforge.plantuml.AnimatedGifEncoder.writePalette@POLYN328528 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00507"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#507"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00507] In method net.sourceforge.plantuml.NeuQuant.colorMap@POLYN335273 the MagicNumber/String  0 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00507] For method writeShort arguments int  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00508"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#508"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00508] In method net.sourceforge.plantuml.NeuQuant.colorMap@POLYN335273 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00508] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeShort@POLYN329447 the MagicNumber/String  0xff should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00509"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#509"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00509] In method net.sourceforge.plantuml.NeuQuant.colorMap@POLYN335273 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00509] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeShort@POLYN329447 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00522"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#522"
+ , "c1" : "00509"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#509"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00522] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00509] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeShort@POLYN329447 the MagicNumber/String  0xff should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00523"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#523"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00523] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00524"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#524"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00524] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00527"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#527"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00527] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00529"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#529"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00529] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00531"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#531"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00531] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00533"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#533"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00533] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00539"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#539"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00539] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00540"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#540"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00540] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00540"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#540"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00540] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00541"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#541"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00541] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00542"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#542"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00542] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00543"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#543"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00543] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00543"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#543"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00543] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00544"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#544"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00544] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00545"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#545"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00545] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00546"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#546"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00546] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00546"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#546"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00546] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00547"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#547"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00547] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00548"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#548"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00548] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00549"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#549"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00549] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00549"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#549"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00549] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00550"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#550"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00550] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00554"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#554"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00554] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00555"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#555"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00555] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00561"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#561"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00561] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00562"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#562"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00562] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00562"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#562"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00562] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN336920 the MagicNumber/String  256 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00575"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#575"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00575] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00576"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#576"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00576] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  30 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00576"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#576"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00576] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00576"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#576"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00576] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00578"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#578"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00578] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00580"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#580"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00580] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00586"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#586"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00586] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00587"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#587"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00587] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00588"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#588"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00588] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00594"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#594"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00594] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00595"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#595"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00595] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00596"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#596"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00596] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00598"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#598"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00598] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00599"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#599"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00599] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00601"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#601"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00601] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00602"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#602"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00602] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00604"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#604"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00604] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00608"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#608"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00608] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00610"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#610"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00610] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00610"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#610"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00610] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  0xff should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00611"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#611"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00611] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00611"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#611"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00611] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  0xff should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00612"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#612"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00612] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00612"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#612"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00612] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  0xff should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00616"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#616"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00616] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00624"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#624"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00624] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00625"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#625"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00625] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00626"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#626"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00626] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00630"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#630"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00630] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00631"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#631"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00631] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00632"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#632"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00632] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN340478 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00641"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#641"
+ , "c1" : "00515"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#515"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00641] For method map arguments int  b|int  g|int  r"
+ , "c3" : "QC-JAV000006[00515] For method writeString arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00647"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#647"
+ , "c1" : "00516"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#516"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00647] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  1000 should be converted to const"
+ , "c3" : "QC-JAV000010[00516] In method net.sourceforge.plantuml.AnimatedGifEncoder.writeString@POLYN329793 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00648"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#648"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00648] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#118"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00118] Public method setDelay is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00650"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#650"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00650] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#128"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00128] Public method setDispose is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00652"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#652"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00652] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#141"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00141] Public method setRepeat is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00655"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#655"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00655] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#156"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00156] Public method setTransparent is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00660"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#660"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00660] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00243"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#243"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00243] Public method setFrameRate is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00662"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#662"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00662] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00258"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#258"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00258] Public method setQuality is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00663"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#663"
+ , "c1" : "00665"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#665"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00663] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00665] In method net.sourceforge.plantuml.NeuQuant.NeuQuant@POLYN335160 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00667"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#667"
+ , "c1" : "00666"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#666"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00667] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00666] In method net.sourceforge.plantuml.NeuQuant.NeuQuant@POLYN335160 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00668"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#668"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00668] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00668] In method net.sourceforge.plantuml.NeuQuant.NeuQuant@POLYN335160 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00673"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#673"
+ , "c1" : "00668"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#668"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00673] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00668] In method net.sourceforge.plantuml.NeuQuant.NeuQuant@POLYN335160 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00668"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#668"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00668] In method net.sourceforge.plantuml.NeuQuant.NeuQuant@POLYN335160 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00668"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#668"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00668] In method net.sourceforge.plantuml.NeuQuant.NeuQuant@POLYN335160 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00670"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#670"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00670] In method net.sourceforge.plantuml.NeuQuant.NeuQuant@POLYN335160 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00675"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#675"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00675] In method net.sourceforge.plantuml.NeuQuant.colorMap@POLYN336473 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00677"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#677"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00677] In method net.sourceforge.plantuml.NeuQuant.colorMap@POLYN336473 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00678"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#678"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00678] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00678] In method net.sourceforge.plantuml.NeuQuant.colorMap@POLYN336473 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00679"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#679"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00679] In method net.sourceforge.plantuml.NeuQuant.colorMap@POLYN336473 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00680"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#680"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00680] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00680] In method net.sourceforge.plantuml.NeuQuant.colorMap@POLYN336473 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00682"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#682"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00682] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00682] In method net.sourceforge.plantuml.NeuQuant.colorMap@POLYN336473 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00685"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#685"
+ , "c1" : "00683"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#683"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00685] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00683] In method net.sourceforge.plantuml.NeuQuant.colorMap@POLYN336473 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00687"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#687"
+ , "c1" : "00684"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#684"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00687] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00684] In method net.sourceforge.plantuml.NeuQuant.colorMap@POLYN336473 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00688"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#688"
+ , "c1" : "00702"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#702"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00688] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00702] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00692"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#692"
+ , "c1" : "00703"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#703"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00703] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00693"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#693"
+ , "c1" : "00704"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#704"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00693] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00704] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00698"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#698"
+ , "c1" : "00707"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#707"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00698] In method net.sourceforge.plantuml.NeuQuant.map@POLYN345494 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00707] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00709"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#709"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00709] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00711"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#711"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00711] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00713"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#713"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00713] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00719"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#719"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00719] In method net.sourceforge.plantuml.NeuQuant.unbiasnet@POLYN349512 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00719] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00720"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#720"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00720] In method net.sourceforge.plantuml.NeuQuant.unbiasnet@POLYN349512 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00720] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00720"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#720"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00720] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00721"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#721"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00721] In method net.sourceforge.plantuml.NeuQuant.unbiasnet@POLYN349512 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00721] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00722"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#722"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00722] In method net.sourceforge.plantuml.NeuQuant.unbiasnet@POLYN349512 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00722] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00723"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#723"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00723] In method net.sourceforge.plantuml.NeuQuant.unbiasnet@POLYN349512 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00723] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00723"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#723"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00723] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00724"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#724"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00724] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00725"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#725"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00725] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00726"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#726"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00726] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00726"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#726"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00726] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00727"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#727"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00727] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00728"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#728"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00728] For method alterneigh arguments int  rad|int  i|int  b|int  g|int  r"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00728] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00751"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#751"
+ , "c1" : "00729"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#729"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00751] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00729] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00760"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#760"
+ , "c1" : "00729"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#729"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00760] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00729] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00751"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#751"
+ , "c1" : "00730"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#730"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE390[00751] Detection of error condition without action (see http://cwe.mitre.org/data/definitions/390.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00760"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#760"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE390[00760] Detection of error condition without action (see http://cwe.mitre.org/data/definitions/390.html)"
+ , "c3" : "QC-JAV000010[00730] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00734"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#734"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00734] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00734] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00735"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#735"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00735] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00740"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#740"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00740] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00735] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00741"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#741"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00741] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00741] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00742"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#742"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00742] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00742] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#748"
+ , "c1" : "00742"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#742"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00748"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#748"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00749"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#749"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00749] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00749"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#749"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00749] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00750"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#750"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00750] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00750"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#750"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00750] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00742] In method net.sourceforge.plantuml.NeuQuant.inxbuild@POLYN338120 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00757"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#757"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00757] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00757"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#757"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00757] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00757] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00758"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#758"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00758] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00758] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00758"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#758"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00758] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00758] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00759"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#759"
+ , "c1" : "00758"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#758"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00759] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00758] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00759"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#759"
+ , "c1" : "00760"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#760"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00759] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN350458 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00760] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00767"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#767"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00767] For method altersingle arguments int  alpha|int  i|int  b|int  g|int  r"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00771"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#771"
+ , "c1" : "00762"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#762"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00771] In method net.sourceforge.plantuml.NeuQuant.altersingle@POLYN353563 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00762] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00771"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#771"
+ , "c1" : "00768"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#768"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00771] In method net.sourceforge.plantuml.NeuQuant.altersingle@POLYN353563 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00768] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00772"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#772"
+ , "c1" : "00769"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#769"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00772] In method net.sourceforge.plantuml.NeuQuant.altersingle@POLYN353563 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00769] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00772"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#772"
+ , "c1" : "00770"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#770"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00772] In method net.sourceforge.plantuml.NeuQuant.altersingle@POLYN353563 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00770] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00773"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#773"
+ , "c1" : "00776"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#776"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00773] In method net.sourceforge.plantuml.NeuQuant.altersingle@POLYN353563 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00773"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#773"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00773] In method net.sourceforge.plantuml.NeuQuant.altersingle@POLYN353563 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00776] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00777"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#777"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00777] For method contest arguments int  b|int  g|int  r"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00777] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00788"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#788"
+ , "c1" : "00778"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#778"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00788] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN354576 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00778] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00788"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#788"
+ , "c1" : "00780"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#780"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00788] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN354576 the MagicNumber/String  31 should be converted to const"
+ , "c3" : "QC-JAV000010[00780] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00781"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#781"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00781] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00783"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#783"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00783] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00784"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#784"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00786"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#786"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00786] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00790"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#790"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00790] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN354576 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00790] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00792"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#792"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00792] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00792"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#792"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00792] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  0xff should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00793"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#793"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00793] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN354576 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00793] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00795"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#795"
+ , "c1" : "00793"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#793"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00795] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN354576 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00793] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  0xff should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00796"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#796"
+ , "c1" : "00794"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#794"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00796] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN354576 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00794] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00794"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#794"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00794] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  0xff should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00798"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#798"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00798] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN354576 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00798] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00799"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#799"
+ , "c1" : "00806"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#806"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00799] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN354576 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00806] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00802"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#802"
+ , "c1" : "00807"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#807"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00802] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN354576 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00807] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00803"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#803"
+ , "c1" : "00808"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#808"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00803] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN354576 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00808] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00707"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#707"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00707] Public method process is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00812"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#812"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00812] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00813"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#813"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00813] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00814"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#814"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00814] In method net.sourceforge.plantuml.NeuQuant.learn@POLYN341678 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00826"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#826"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00826] For method map arguments int  b|int  g|int  r"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00832"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#832"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00832] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  1000 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00833"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#833"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00833] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00835"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#835"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00835] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00837"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#837"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00837] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00840"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#840"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00840] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00845"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#845"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00845] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00847"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#847"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00847] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00848"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#848"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00848] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00852"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#852"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00852] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00853"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#853"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00853] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00858"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#858"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00858] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00863"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#863"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00863] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00865"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#865"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00865] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00867"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#867"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00867] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00870"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#870"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00870] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00872"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#872"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00872] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00873"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#873"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00873] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00877"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#877"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00877] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00878"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#878"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00878] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00883"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#883"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00883] In method net.sourceforge.plantuml.NeuQuant.map@POLYN346694 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00909"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#909"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00909] In method net.sourceforge.plantuml.NeuQuant.unbiasnet@POLYN350712 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00910"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#910"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00910] In method net.sourceforge.plantuml.NeuQuant.unbiasnet@POLYN350712 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00911"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#911"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00911] In method net.sourceforge.plantuml.NeuQuant.unbiasnet@POLYN350712 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00912"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#912"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00912] In method net.sourceforge.plantuml.NeuQuant.unbiasnet@POLYN350712 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00913"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#913"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00913] In method net.sourceforge.plantuml.NeuQuant.unbiasnet@POLYN350712 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00923"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#923"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00923] For method alterneigh arguments int  rad|int  i|int  b|int  g|int  r"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00946"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#946"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00946] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00955"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#955"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00955] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00946"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#946"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE390[00946] Detection of error condition without action (see http://cwe.mitre.org/data/definitions/390.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00955"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#955"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE390[00955] Detection of error condition without action (see http://cwe.mitre.org/data/definitions/390.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00929"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#929"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00929] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00930"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#930"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00930] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00935"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#935"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00935] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00936"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#936"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00936] In method net.sourceforge.plantuml.LZWEncoder.LZWEncoder@POLYN359427 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00936] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00941"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#941"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00941] For method char_out arguments byte  c|OutputStream  outs"
+ , "c1" : "00937"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#937"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00937] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00943"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#943"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00943] In method net.sourceforge.plantuml.LZWEncoder.char_out@POLYN359845 the MagicNumber/String  254 should be converted to const"
+ , "c3" : "QC-JAV000010[00943] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00950"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#950"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00950] For method cl_block arguments OutputStream  outs"
+ , "c1" : "00943"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#943"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00943] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00944"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#944"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00944"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#944"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00945"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#945"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00945] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00945"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#945"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00945] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00952"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#952"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00952] In method net.sourceforge.plantuml.LZWEncoder.cl_block@POLYN360149 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00952] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00952"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#952"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00952] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00953"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#953"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00953] In method net.sourceforge.plantuml.LZWEncoder.cl_block@POLYN360149 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00953] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00959"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#959"
+ , "c1" : "00953"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#953"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00953] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00954"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#954"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00954] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00954"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#954"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00954] In method net.sourceforge.plantuml.NeuQuant.alterneigh@POLYN351658 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00965"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#965"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00959] For method cl_hash arguments int  hsize"
+ , "c3" : "QC-JAV000006[00965] For method altersingle arguments int  alpha|int  i|int  b|int  g|int  r"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00960"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#960"
+ , "c1" : "00969"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#969"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00960] In method net.sourceforge.plantuml.LZWEncoder.cl_hash@POLYN360501 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00969] In method net.sourceforge.plantuml.NeuQuant.altersingle@POLYN354763 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00961"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#961"
+ , "c1" : "00969"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#969"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00961] In method net.sourceforge.plantuml.LZWEncoder.cl_hash@POLYN360501 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00969] In method net.sourceforge.plantuml.NeuQuant.altersingle@POLYN354763 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00964"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#964"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00964] For method compress arguments int  init_bits|OutputStream  outs"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00999"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#999"
+ , "c1" : "00970"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#970"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00999] Assigning instead of comparing on c=nextPixel() (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAV000010[00970] In method net.sourceforge.plantuml.NeuQuant.altersingle@POLYN354763 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1012"
+ , "c1" : "00970"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#970"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[01012] Assigning instead of comparing on i-=disp (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAV000010[00970] In method net.sourceforge.plantuml.NeuQuant.altersingle@POLYN354763 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00971"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#971"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00971] In method net.sourceforge.plantuml.NeuQuant.altersingle@POLYN354763 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00971"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#971"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00971] In method net.sourceforge.plantuml.NeuQuant.altersingle@POLYN354763 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00977"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#977"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00977] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN360803 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00981"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#981"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00981] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN360803 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00981"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#981"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00981] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN360803 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00982"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#982"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00982] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN360803 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00983"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#983"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00983] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN360803 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00985"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#985"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00985] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN360803 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00989"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#989"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00989] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN360803 the MagicNumber/String  0 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00977] For method contest arguments int  b|int  g|int  r"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00990"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#990"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00990] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN360803 the MagicNumber/String  65536 should be converted to const"
+ , "c3" : "QC-JAV000010[00990] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN355776 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00990"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#990"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00990] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN360803 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00990] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN355776 the MagicNumber/String  31 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00992"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#992"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00992] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN360803 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00992] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN355776 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01006"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1006"
+ , "c1" : "00995"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#995"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01006] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN360803 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00995] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN355776 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1009"
+ , "c1" : "00997"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#997"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01009] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN360803 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00997] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN355776 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1010"
+ , "c1" : "00998"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#998"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01010] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN360803 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00998] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN355776 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1012"
+ , "c1" : "01000"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1000"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01012] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN360803 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01000] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN355776 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1019"
+ , "c1" : "01001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1001"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01019] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN360803 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01001] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN355776 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1035"
+ , "c1" : "01004"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1004"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01004] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN355776 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01005"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1005"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01005] In method net.sourceforge.plantuml.NeuQuant.contest@POLYN355776 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00892"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#892"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00892] Public method process is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1138"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01138] In method net.sourceforge.plantuml.LZWEncoder.LZWEncoder@POLYN360627 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1143"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01035] For method encode arguments OutputStream  os"
+ , "c3" : "QC-JAV000006[01143] For method char_out arguments byte  c|OutputStream  outs"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1035"
+ , "c1" : "01145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1145"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01145] In method net.sourceforge.plantuml.LZWEncoder.char_out@POLYN361045 the MagicNumber/String  254 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1152"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01152] For method cl_block arguments OutputStream  outs"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1154"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01154] In method net.sourceforge.plantuml.LZWEncoder.cl_block@POLYN361349 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1155"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01155] In method net.sourceforge.plantuml.LZWEncoder.cl_block@POLYN361349 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1161"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01161] For method cl_hash arguments int  hsize"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1162"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01162] In method net.sourceforge.plantuml.LZWEncoder.cl_hash@POLYN361701 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01163] In method net.sourceforge.plantuml.LZWEncoder.cl_hash@POLYN361701 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1166"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01166] For method compress arguments int  init_bits|OutputStream  outs"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1201"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE481[01201] Assigning instead of comparing on c=nextPixel() (see http://cwe.mitre.org/data/definitions/481.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01214"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1214"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE481[01214] Assigning instead of comparing on i-=disp (see http://cwe.mitre.org/data/definitions/481.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01179"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1179"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01179] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN362003 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01183"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1183"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01183] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN362003 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01183"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1183"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01183] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN362003 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1184"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01184] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN362003 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1185"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01185] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN362003 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01187] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN362003 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1191"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01191] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN362003 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1192"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01192] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN362003 the MagicNumber/String  65536 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1192"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01192] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN362003 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01194] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN362003 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1208"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01208] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN362003 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01211"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1211"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01211] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN362003 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1212"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01212] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN362003 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01214"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1214"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01214] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN362003 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01221"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1221"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01221] In method net.sourceforge.plantuml.LZWEncoder.compress@POLYN362003 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01237"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1237"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01237] For method encode arguments OutputStream  os"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01237"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1237"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[01035] The argument os is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[01237] The argument os is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1039"
+ , "c1" : "01241"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01039] In method net.sourceforge.plantuml.LZWEncoder.encode@POLYN364251 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01241] In method net.sourceforge.plantuml.LZWEncoder.encode@POLYN365451 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1041"
+ , "c1" : "01243"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1243"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01041] In method net.sourceforge.plantuml.LZWEncoder.encode@POLYN364251 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[01243] In method net.sourceforge.plantuml.LZWEncoder.encode@POLYN365451 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1043"
+ , "c1" : "01245"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01043] In method net.sourceforge.plantuml.LZWEncoder.encode@POLYN364251 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01245] In method net.sourceforge.plantuml.LZWEncoder.encode@POLYN365451 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1047"
+ , "c1" : "01249"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1249"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01047] For method flush_char arguments OutputStream  outs"
+ , "c3" : "QC-JAV000006[01249] For method flush_char arguments OutputStream  outs"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1047"
+ , "c1" : "01249"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1249"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[01047] The argument outs is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[01249] The argument outs is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1048"
+ , "c1" : "01250"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01048] In method net.sourceforge.plantuml.LZWEncoder.flush_char@POLYN364706 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01250] In method net.sourceforge.plantuml.LZWEncoder.flush_char@POLYN365906 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1050"
+ , "c1" : "01252"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1252"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01050] In method net.sourceforge.plantuml.LZWEncoder.flush_char@POLYN364706 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01252] In method net.sourceforge.plantuml.LZWEncoder.flush_char@POLYN365906 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1051"
+ , "c1" : "01253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01051] In method net.sourceforge.plantuml.LZWEncoder.flush_char@POLYN364706 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01253] In method net.sourceforge.plantuml.LZWEncoder.flush_char@POLYN365906 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1055"
+ , "c1" : "01257"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1257"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01055] For method MAXCODE arguments int  n_bits"
+ , "c3" : "QC-JAV000006[01257] For method MAXCODE arguments int  n_bits"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1056"
+ , "c1" : "01258"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1258"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01056] In method net.sourceforge.plantuml.LZWEncoder.MAXCODE@POLYN365109 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[01258] In method net.sourceforge.plantuml.LZWEncoder.MAXCODE@POLYN366309 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1056"
+ , "c1" : "01258"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1258"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01056] In method net.sourceforge.plantuml.LZWEncoder.MAXCODE@POLYN365109 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[01258] In method net.sourceforge.plantuml.LZWEncoder.MAXCODE@POLYN366309 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1063"
+ , "c1" : "01265"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1265"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01063] In method net.sourceforge.plantuml.LZWEncoder.nextPixel@POLYN365287 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01265] In method net.sourceforge.plantuml.LZWEncoder.nextPixel@POLYN366487 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1070"
+ , "c1" : "01272"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1272"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01070] In method net.sourceforge.plantuml.LZWEncoder.nextPixel@POLYN365287 the MagicNumber/String  0xff should be converted to const"
+ , "c3" : "QC-JAV000010[01272] In method net.sourceforge.plantuml.LZWEncoder.nextPixel@POLYN366487 the MagicNumber/String  0xff should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1073"
+ , "c1" : "01275"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1275"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01073] For method output arguments int  code|OutputStream  outs"
+ , "c3" : "QC-JAV000006[01275] For method output arguments int  code|OutputStream  outs"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1076"
+ , "c1" : "01278"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1278"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01076] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN365605 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01278] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN366805 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1083"
+ , "c1" : "01285"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1285"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01083] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN365605 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[01285] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN366805 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1084"
+ , "c1" : "01286"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1286"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01084] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN365605 the MagicNumber/String  0xff should be converted to const"
+ , "c3" : "QC-JAV000010[01286] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN366805 the MagicNumber/String  0xff should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1085"
+ , "c1" : "01287"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1287"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01085] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN365605 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[01287] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN366805 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1086"
+ , "c1" : "01288"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1288"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01086] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN365605 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[01288] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN366805 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1094"
+ , "c1" : "01296"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1296"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01094] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN365605 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[01296] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN366805 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1106"
+ , "c1" : "01308"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1308"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01106] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN365605 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01308] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN366805 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1107"
+ , "c1" : "01309"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1309"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01107] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN365605 the MagicNumber/String  0xff should be converted to const"
+ , "c3" : "QC-JAV000010[01309] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN366805 the MagicNumber/String  0xff should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1108"
+ , "c1" : "01310"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1310"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01108] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN365605 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[01310] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN366805 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1109"
+ , "c1" : "01311"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1311"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01109] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN365605 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[01311] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN366805 the MagicNumber/String  8 should be converted to const"
 }} 
 ]
 , 

@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<ClassDiagram>" <|-- "net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation"
 class net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation {
-+CommandDiamondAssociation() : CommandDiamondAssociation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandDiamondAssociation.java.html#19]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandDiamondAssociation.java.html#23]]]
-executeArg(ClassDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandDiamondAssociation.java.html#32]]]
++CommandDiamondAssociation() : CommandDiamondAssociation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandDiamondAssociation.java.html#53]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandDiamondAssociation.java.html#57]]]
+executeArg(ClassDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandDiamondAssociation.java.html#66]]]
 } 
 @enduml

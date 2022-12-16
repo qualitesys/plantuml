@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.salt.factory.ElementFactoryRetrieveFromDictonnary" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#50"
  , "c1" : "ElementFactoryRetrieveFromDictonnary"
  , "c2" : "ElementFactoryRetrieveFromDictonnary(DataSource;Dictionary)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#55"
  , "c1" : "Terminated<Element>"
  , "c2" : "create()"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#68"
  , "c1" : "boolean"
  , "c2" : "ready()"
  , "c3" : "1"
@@ -86,38 +86,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRetrieveFromDictonnary.create@POLYN150158 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRetrieveFromDictonnary.create@POLYN150362 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRetrieveFromDictonnary.create@POLYN150158 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRetrieveFromDictonnary.create@POLYN150362 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRetrieveFromDictonnary.create@POLYN150158 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRetrieveFromDictonnary.create@POLYN150362 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRetrieveFromDictonnary.ready@POLYN150971 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRetrieveFromDictonnary.ready@POLYN151175 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRetrieveFromDictonnary.ready@POLYN150971 the MagicNumber/String  '\\&amp;lt;\\&amp;lt;\\w+\\&amp;gt;\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.salt.factory.ElementFactoryRetrieveFromDictonnary.ready@POLYN151175 the MagicNumber/String  '\\&amp;lt;\\&amp;lt;\\w+\\&amp;gt;\\&amp;gt;' should be converted to const"
 }} 
 ]
 , 

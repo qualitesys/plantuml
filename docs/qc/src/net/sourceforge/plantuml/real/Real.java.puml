@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.real.Real"
 class net.sourceforge.plantuml.real.Real {
-+printCreationStackTrace() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/Real.java.html#6]]]
-+getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/Real.java.html#8]]]
-+getCurrentValue() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/Real.java.html#10]]]
-+addFixed(double) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/Real.java.html#12]]]
-+addAtLeast(double) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/Real.java.html#14]]]
-+ensureBiggerThan(Real) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/Real.java.html#16]]]
++printCreationStackTrace() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/Real.java.html#40]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/Real.java.html#42]]]
++getCurrentValue() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/Real.java.html#44]]]
++addFixed(double) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/Real.java.html#46]]]
++addAtLeast(double) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/Real.java.html#48]]]
++ensureBiggerThan(Real) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/Real.java.html#50]]]
 } 
 @enduml

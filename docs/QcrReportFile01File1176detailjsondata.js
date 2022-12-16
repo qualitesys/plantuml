@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.descdiagram.DescriptionDiagram" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#54"
  , "c1" : "DescriptionDiagram"
  , "c2" : "DescriptionDiagram(UmlSource;Map<String,String>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#59"
  , "c1" : "Ident"
  , "c2" : "cleanIdent(Ident)"
  , "c3" : "4"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#76"
  , "c1" : "ILeaf"
  , "c2" : "getOrCreateLeaf(Ident;Code;LeafType;USymbol)"
  , "c3" : "5"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#105"
  , "c1" : "boolean"
  , "c2" : "isUsecase()"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#83"
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#117"
  , "c1" : "void"
  , "c2" : "makeDiagramReady()"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#95"
+ , "c5" : "00129"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#129"
  , "c1" : "String"
  , "c2" : "checkFinalError()"
  , "c3" : "1"
@@ -134,206 +134,206 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method cleanIdent arguments Ident  ident"
+ , "c3" : "QC-JAV000006[00059] For method cleanIdent arguments Ident  ident"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#59"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00025] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00059] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163794 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163998 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163794 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163998 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163794 the MagicNumber/String  '\'([:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163794 the MagicNumber/String  ':' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163794 the MagicNumber/String  ':' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163794 the MagicNumber/String  '\'([:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163794 the MagicNumber/String  '()' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163794 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163794 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#42"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method getOrCreateLeaf arguments Ident  ident|Code  code|LeafType  type|USymbol  symbol"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#42"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00042] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#42"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00042] The argument code is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN164946 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN164946 the MagicNumber/String  '[' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN164946 the MagicNumber/String  ']' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN164946 the MagicNumber/String  '\'([:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN164946 the MagicNumber/String  ':' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN164946 the MagicNumber/String  ':' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN164946 the MagicNumber/String  '\'([:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN164946 the MagicNumber/String  '()' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN164946 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN164946 the MagicNumber/String  '\'([:' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163998 the MagicNumber/String  '\'([:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN164946 the MagicNumber/String  '\'([:' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163998 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#73"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00073] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163998 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#74"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00074] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163998 the MagicNumber/String  '\'([:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#67"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163998 the MagicNumber/String  '()' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#68"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163998 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.cleanIdent@POLYN163998 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.isUsecase@POLYN167715 the MagicNumber/String  true should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00076] For method getOrCreateLeaf arguments Ident  ident|Code  code|LeafType  type|USymbol  symbol"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#79"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#76"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00076] The argument ident is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#76"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00076] The argument code is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.isUsecase@POLYN167715 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN165150 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#80"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN165150 the MagicNumber/String  '[' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#80"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN165150 the MagicNumber/String  ']' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN165150 the MagicNumber/String  '\'([:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN165150 the MagicNumber/String  ':' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN165150 the MagicNumber/String  ':' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN165150 the MagicNumber/String  '\'([:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN165150 the MagicNumber/String  '()' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN165150 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN165150 the MagicNumber/String  '\'([:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.getOrCreateLeaf@POLYN165150 the MagicNumber/String  '\'([:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00107] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#108"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00108] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#110"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.isUsecase@POLYN167919 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/DescriptionDiagram.java.html#113"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.descdiagram.DescriptionDiagram.isUsecase@POLYN167919 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

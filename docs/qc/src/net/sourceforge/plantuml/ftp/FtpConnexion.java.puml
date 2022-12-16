@@ -2,18 +2,18 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.ftp.FtpConnexion"
 class net.sourceforge.plantuml.ftp.FtpConnexion {
-+FtpConnexion(String;FileFormat) : FtpConnexion [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#30]]]
-+addIncoming(String;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#35]]]
-+futureOutgoing(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#42]]]
-+getFiles() : Collection<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#47]]]
-+willExist(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#54]]]
-+doesExist(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#67]]]
-+getData(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#77]]]
-+getSize(String) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#92]]]
-+processImage(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#107]]]
-+getFutureFileName(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#146]]]
--getFileFormat() : FileFormat [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#150]]]
-+delete(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#154]]]
-+setFileFormat(FileFormat) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#166]]]
++FtpConnexion(String;FileFormat) : FtpConnexion [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#64]]]
++addIncoming(String;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#69]]]
++futureOutgoing(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#76]]]
++getFiles() : Collection<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#81]]]
++willExist(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#88]]]
++doesExist(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#101]]]
++getData(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#111]]]
++getSize(String) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#126]]]
++processImage(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#141]]]
++getFutureFileName(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#180]]]
+-getFileFormat() : FileFormat [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#184]]]
++delete(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#188]]]
++setFileFormat(FileFormat) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#200]]]
 } 
 @enduml

@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.TeozLayer"
 class net.sourceforge.plantuml.sequencediagram.teoz.TeozLayer {
-+TeozLayer(PngTitler;StringBounder;FontParam) : TeozLayer [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#18]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#28]]]
-+getParam() : FontParam [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#32]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#36]]]
++TeozLayer(PngTitler;StringBounder;FontParam) : TeozLayer [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#52]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#62]]]
++getParam() : FontParam [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#66]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TeozLayer.java.html#70]]]
 } 
 @enduml

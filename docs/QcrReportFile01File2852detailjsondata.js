@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "smetana.core.UnsupportedStarStruct" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/smetana/core/UnsupportedStarStruct.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/smetana/core/UnsupportedStarStruct.java.html#48"
  , "c1" : "UnsupportedStarStruct"
  , "c2" : "UnsupportedStarStruct()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/smetana/core/UnsupportedStarStruct.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/smetana/core/UnsupportedStarStruct.java.html#52"
  , "c1" : "__ptr__"
  , "c2" : "unsupported()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/smetana/core/UnsupportedStarStruct.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/smetana/core/UnsupportedStarStruct.java.html#56"
  , "c1" : "boolean"
  , "c2" : "isSameThan(__ptr__)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/smetana/core/UnsupportedStarStruct.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/smetana/core/UnsupportedStarStruct.java.html#60"
  , "c1" : "__ptr__"
  , "c2" : "castTo(Class)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/smetana/core/UnsupportedStarStruct.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/smetana/core/UnsupportedStarStruct.java.html#65"
  , "c1" : "Object"
  , "c2" : "getTheField(OFFSET)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/smetana/core/UnsupportedStarStruct.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/smetana/core/UnsupportedStarStruct.java.html#69"
  , "c1" : "__struct__"
  , "c2" : "copy()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/smetana/core/UnsupportedStarStruct.java.html#39"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/smetana/core/UnsupportedStarStruct.java.html#73"
  , "c1" : "void"
  , "c2" : "___(__struct__)"
  , "c3" : "1"
@@ -143,66 +143,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00012] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00046] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAVCWE500[00012] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
+ , "c3" : "QC-JAVCWE500[00046] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method isSameThan arguments __ptr__  other"
+ , "c3" : "QC-JAV000006[00056] For method isSameThan arguments __ptr__  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method castTo arguments Class  dest"
+ , "c3" : "QC-JAV000006[00060] For method castTo arguments Class  dest"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method smetana.core.UnsupportedStarStruct.castTo@POLYN150065 the MagicNumber/String  'I am ' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method smetana.core.UnsupportedStarStruct.castTo@POLYN150269 the MagicNumber/String  'I am ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method smetana.core.UnsupportedStarStruct.castTo@POLYN150065 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method smetana.core.UnsupportedStarStruct.castTo@POLYN150269 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method smetana.core.UnsupportedStarStruct.castTo@POLYN150065 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method smetana.core.UnsupportedStarStruct.castTo@POLYN150269 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method getTheField arguments OFFSET  virtualBytes"
+ , "c3" : "QC-JAV000006[00065] For method getTheField arguments OFFSET  virtualBytes"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#73"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method ___ arguments __struct__  other"
+ , "c3" : "QC-JAV000006[00073] For method ___ arguments __struct__  other"
 }} 
 ]
 , 

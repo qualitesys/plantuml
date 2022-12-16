@@ -2,18 +2,18 @@
 !pragma layout smetana
 "AbstractEventEvent" <|-- "net.sourceforge.plantuml.sequencediagram.Reference"
 class net.sourceforge.plantuml.sequencediagram.Reference {
-+getDefaultStyleDefinition() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#30]]]
--getHeaderStyleDefinition() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#34]]]
-+getUsedStyles() : Style[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#38]]]
-+Reference(List<Participant>;Url;Display;HColor;HColor;StyleBuilder) : Reference [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#43]]]
--uniq(List<Participant>) : List<Participant> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#54]]]
-+getParticipant() : List<Participant> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#62]]]
-+getStrings() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#66]]]
-+dealWith(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#70]]]
-+getUrl() : Url [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#74]]]
-+hasUrl() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#78]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#83]]]
-+getBackColorGeneral() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#94]]]
-+getBackColorElement() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#98]]]
++getDefaultStyleDefinition() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#64]]]
+-getHeaderStyleDefinition() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#68]]]
++getUsedStyles() : Style[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#72]]]
++Reference(List<Participant>;Url;Display;HColor;HColor;StyleBuilder) : Reference [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#77]]]
+-uniq(List<Participant>) : List<Participant> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#88]]]
++getParticipant() : List<Participant> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#96]]]
++getStrings() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#100]]]
++dealWith(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#104]]]
++getUrl() : Url [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#108]]]
++hasUrl() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#112]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#117]]]
++getBackColorGeneral() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#128]]]
++getBackColorElement() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#132]]]
 } 
 @enduml

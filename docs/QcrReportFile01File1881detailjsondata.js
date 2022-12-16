@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.security.authentication.token.TokenAuthAuthorizeManager" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAuthorizeManager.java.html#13"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAuthorizeManager.java.html#52"
  , "c1" : "SecurityAuthentication"
  , "c2" : "create(SecurityCredentials)"
  , "c3" : "1"
@@ -75,17 +75,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAuthorizeManager.java.html#13"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAuthorizeManager.java.html#52"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method create arguments SecurityCredentials  credentials"
+ , "c3" : "QC-JAV000006[00052] For method create arguments SecurityCredentials  credentials"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAuthorizeManager.java.html#13"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAuthorizeManager.java.html#52"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00013] The argument credentials is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00052] The argument credentials is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

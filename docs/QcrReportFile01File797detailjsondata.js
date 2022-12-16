@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.bpm.AbstractConnectorPuzzle" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#45"
  , "c1" : "boolean"
  , "c2" : "have(Where)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#49"
  , "c1" : "void"
  , "c2" : "append(Where)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#53"
  , "c1" : "void"
  , "c2" : "remove(Where)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#60"
  , "c1" : "void"
  , "c2" : "append(ConnectorPuzzle)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#64"
  , "c1" : "Set<Where>"
  , "c2" : "connections()"
  , "c3" : "1"
@@ -111,38 +111,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#45"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00011] For method have arguments Where  where"
+ , "c3" : "QC-JAV000006[00045] For method have arguments Where  where"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method append arguments Where  where"
+ , "c3" : "QC-JAV000006[00049] For method append arguments Where  where"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method remove arguments Where  where"
+ , "c3" : "QC-JAV000006[00053] For method remove arguments Where  where"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.bpm.AbstractConnectorPuzzle.remove@POLYN148330 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.bpm.AbstractConnectorPuzzle.remove@POLYN148534 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method append arguments ConnectorPuzzle  other"
+ , "c3" : "QC-JAV000006[00060] For method append arguments ConnectorPuzzle  other"
 }} 
 ]
 , 

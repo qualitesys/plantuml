@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.PortionShower" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/PortionShower.java.html#6"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/PortionShower.java.html#40"
  , "c1" : "boolean"
  , "c2" : "showPortion(EntityPortion;IEntity)"
  , "c3" : "1"

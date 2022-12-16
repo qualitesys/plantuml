@@ -2,12 +2,12 @@
 !pragma layout smetana
 "OutputStream" <|-- "net.sourceforge.plantuml.CounterOutputStream"
 class net.sourceforge.plantuml.CounterOutputStream {
-+CounterOutputStream(OutputStream) : CounterOutputStream [[[./../../../../.././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#12]]]
-+write(int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#18]]]
-+write(byte[]) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#25]]]
-+write(byte[];int;int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#32]]]
-+getLength() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#37]]]
-+flush() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#42]]]
-+close() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#48]]]
++CounterOutputStream(OutputStream) : CounterOutputStream [[[./../../../../.././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#46]]]
++write(int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#54]]]
++write(byte[]) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#63]]]
++write(byte[];int;int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#72]]]
++getLength() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#77]]]
++flush() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#82]]]
++close() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/CounterOutputStream.java.html#88]]]
 } 
 @enduml

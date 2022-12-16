@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.Step1Abstract" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#65"
  , "c1" : "Step1Abstract"
  , "c2" : "Step1Abstract(ParticipantRange;StringBounder;AbstractMessage;DrawableSet;Frontier)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#74"
  , "c1" : "ParticipantRange"
  , "c2" : "getParticipantRange()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#78"
  , "c1" : "Frontier"
  , "c2" : "prepareMessage(ConstraintSet;InGroupablesStack)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#46"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#80"
  , "c1" : "ArrowConfiguration"
  , "c2" : "getConfig()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#50"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#84"
  , "c1" : "void"
  , "c2" : "setConfig(ArrowConfiguration)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#54"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#88"
  , "c1" : "List<Component>"
  , "c2" : "getNotes()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#58"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#92"
  , "c1" : "void"
  , "c2" : "addNote(Component)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#62"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#96"
  , "c1" : "StringBounder"
  , "c2" : "getStringBounder()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#66"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#100"
  , "c1" : "AbstractMessage"
  , "c2" : "getMessage()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#70"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#104"
  , "c1" : "DrawableSet"
  , "c2" : "getDrawingSet()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#74"
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#108"
  , "c1" : "Frontier"
  , "c2" : "getFreeY()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#78"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#112"
  , "c1" : "void"
  , "c2" : "incFreeY(double)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00082"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#82"
+ , "c5" : "00116"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#116"
  , "c1" : "NoteBox"
  , "c2" : "createNoteBox(StringBounder;Arrow;Component;Note)"
  , "c3" : "2"
@@ -190,66 +190,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#44"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method prepareMessage arguments ConstraintSet  constraintSet|InGroupablesStack  groupingStructures"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#50"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method setConfig arguments ArrowConfiguration  config"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#50"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00050] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#58"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method addNote arguments Component  note"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method incFreeY arguments double  v"
+ , "c3" : "QC-JAV000006[00078] For method prepareMessage arguments ConstraintSet  constraintSet|InGroupablesStack  groupingStructures"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#82"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method createNoteBox arguments StringBounder  stringBounder|Arrow  arrow|Component  noteComp|Note  noteOnMessage"
+ , "c3" : "QC-JAV000006[00084] For method setConfig arguments ArrowConfiguration  config"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#82"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#84"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00082] The argument arrow is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00084] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#83"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#92"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00092] For method addNote arguments Component  note"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#112"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00112] For method incFreeY arguments double  v"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#116"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00116] For method createNoteBox arguments StringBounder  stringBounder|Arrow  arrow|Component  noteComp|Note  noteOnMessage"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#116"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00083] The argument noteOnMessage is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00116] The argument arrow is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#85"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#117"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00117] The argument noteOnMessage is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1Abstract.createNoteBox@POLYN157749 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1Abstract.createNoteBox@POLYN157953 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

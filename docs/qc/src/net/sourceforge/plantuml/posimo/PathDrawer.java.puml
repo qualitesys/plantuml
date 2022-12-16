@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.posimo.PathDrawer"
 class net.sourceforge.plantuml.posimo.PathDrawer {
-+drawPathBefore(UGraphic;Positionable;Positionable;Path) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PathDrawer.java.html#8]]]
-+drawPathAfter(UGraphic;Positionable;Positionable;Path) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PathDrawer.java.html#10]]]
++drawPathBefore(UGraphic;Positionable;Positionable;Path) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PathDrawer.java.html#42]]]
++drawPathAfter(UGraphic;Positionable;Positionable;Path) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/PathDrawer.java.html#44]]]
 } 
 @enduml

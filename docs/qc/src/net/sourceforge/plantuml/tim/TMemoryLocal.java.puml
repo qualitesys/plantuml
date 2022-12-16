@@ -2,14 +2,14 @@
 !pragma layout smetana
 "ExecutionContextsTMemory" <|-- "net.sourceforge.plantuml.tim.TMemoryLocal"
 class net.sourceforge.plantuml.tim.TMemoryLocal {
-+TMemoryLocal(TMemoryGlobal;Map<String,TValue>) : TMemoryLocal [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#21]]]
-+dumpDebug(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#26]]]
-+putVariable(String;TValue;TVariableScope) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#46]]]
-+removeVariable(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#66]]]
-+getVariable(String) : TValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#80]]]
-+variablesNames3() : Trie [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#93]]]
-+isEmpty() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#132]]]
-+variablesNames() : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#136]]]
-+forkFromGlobal(Map<String,TValue>) : TMemory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#140]]]
++TMemoryLocal(TMemoryGlobal;Map<String,TValue>) : TMemoryLocal [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#54]]]
++dumpDebug(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#59]]]
++putVariable(String;TValue;TVariableScope) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#79]]]
++removeVariable(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#99]]]
++getVariable(String) : TValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#113]]]
++variablesNames3() : Trie [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#126]]]
++isEmpty() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#165]]]
++variablesNames() : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#169]]]
++forkFromGlobal(Map<String,TValue>) : TMemory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#173]]]
 } 
 @enduml

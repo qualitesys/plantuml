@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphic.StringBounderRaw" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#49"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(UFont;String)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#64"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimensionInternal(UFont;String)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#66"
  , "c1" : "double"
  , "c2" : "getDescent(UFont;String)"
  , "c3" : "1"
@@ -107,59 +107,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method calculateDimension arguments UFont  font|String  text"
+ , "c3" : "QC-JAV000006[00049] For method calculateDimension arguments UFont  font|String  text"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00020] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00054] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00021] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00055] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.graphic.StringBounderRaw.calculateDimension@POLYN150944 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.graphic.StringBounderRaw.calculateDimension@POLYN151148 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.graphic.StringBounderRaw.calculateDimension@POLYN150944 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.graphic.StringBounderRaw.calculateDimension@POLYN151148 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method calculateDimensionInternal arguments UFont  font|String  text"
+ , "c3" : "QC-JAV000006[00064] For method calculateDimensionInternal arguments UFont  font|String  text"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method getDescent arguments UFont  font|String  text"
+ , "c3" : "QC-JAV000006[00066] For method getDescent arguments UFont  font|String  text"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/StringBounderRaw.java.html#66"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00032] The argument font is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00066] The argument font is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

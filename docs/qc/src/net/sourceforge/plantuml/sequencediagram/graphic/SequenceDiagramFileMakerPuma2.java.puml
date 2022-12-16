@@ -2,13 +2,13 @@
 !pragma layout smetana
 "FileMaker" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2"
 class net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2 {
-+SequenceDiagramFileMakerPuma2(SequenceDiagram;Rose;FileFormatOption) : SequenceDiagramFileMakerPuma2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#46]]]
-+getNbPages() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#85]]]
--create(DrawableSet;Map<Newpage,Double>;boolean;Display) : PageSplitter [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#89]]]
-+createOne(OutputStream;int;boolean) : ImageData [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#102]]]
--drawFooter(SequenceDiagramArea;UGraphic;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#178]]]
--drawHeader(SequenceDiagramArea;UGraphic;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#188]]]
--getPngTitler(FontParam;int) : PngTitler [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#198]]]
--isLegendTop() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#207]]]
++SequenceDiagramFileMakerPuma2(SequenceDiagram;Rose;FileFormatOption) : SequenceDiagramFileMakerPuma2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#80]]]
++getNbPages() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#119]]]
+-create(DrawableSet;Map<Newpage,Double>;boolean;Display) : PageSplitter [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#123]]]
++createOne(OutputStream;int;boolean) : ImageData [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#136]]]
+-drawFooter(SequenceDiagramArea;UGraphic;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#212]]]
+-drawHeader(SequenceDiagramArea;UGraphic;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#222]]]
+-getPngTitler(FontParam;int) : PngTitler [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#232]]]
+-isLegendTop() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#241]]]
 } 
 @enduml

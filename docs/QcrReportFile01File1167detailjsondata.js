@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.dedication.QBlocks" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#49"
  , "c1" : "QBlocks"
  , "c2" : "QBlocks()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#53"
  , "c1" : "QBlocks"
  , "c2" : "readFrom(InputStream;int)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#64"
  , "c1" : "QBlocks"
  , "c2" : "change(BigInteger;BigInteger)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#38"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#72"
  , "c1" : "void"
  , "c2" : "writeTo(OutputStream;int)"
  , "c3" : "2"
@@ -109,45 +109,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method readFrom arguments InputStream  source|int  size"
+ , "c3" : "QC-JAV000006[00053] For method readFrom arguments InputStream  source|int  size"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00022] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00056] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.dedication.QBlocks.readFrom@POLYN149705 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.dedication.QBlocks.readFrom@POLYN149909 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.dedication.QBlocks.readFrom@POLYN149705 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.dedication.QBlocks.readFrom@POLYN149909 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method change arguments BigInteger  E|BigInteger  N"
+ , "c3" : "QC-JAV000006[00064] For method change arguments BigInteger  E|BigInteger  N"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/QBlocks.java.html#72"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method writeTo arguments OutputStream  os|int  size"
+ , "c3" : "QC-JAV000006[00072] For method writeTo arguments OutputStream  os|int  size"
 }} 
 ]
 , 

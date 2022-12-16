@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.LineLocation" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/LineLocation.java.html#8"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/LineLocation.java.html#48"
  , "c1" : "int"
  , "c2" : "getPosition()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/LineLocation.java.html#11"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/LineLocation.java.html#54"
  , "c1" : "String"
  , "c2" : "getDescription()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/LineLocation.java.html#14"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/LineLocation.java.html#61"
  , "c1" : "LineLocation"
  , "c2" : "getParent()"
  , "c3" : "1"

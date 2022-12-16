@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.TextBlockArrow"
 class net.sourceforge.plantuml.graphic.TextBlockArrow {
-+TextBlockArrow(Direction;FontConfiguration) : TextBlockArrow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockArrow.java.html#19]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockArrow.java.html#27]]]
--getTriangle(int) : UPolygon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockArrow.java.html#38]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockArrow.java.html#66]]]
++TextBlockArrow(Direction;FontConfiguration) : TextBlockArrow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockArrow.java.html#53]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockArrow.java.html#61]]]
+-getTriangle(int) : UPolygon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockArrow.java.html#72]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockArrow.java.html#100]]]
 } 
 @enduml

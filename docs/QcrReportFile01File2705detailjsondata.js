@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#30"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#63"
  , "c1" : "AbstractCommonUGraphic"
  , "c2" : "copyUGraphic()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#34"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#67"
  , "c1" : "UGraphicTxt"
  , "c2" : "UGraphicTxt(UGraphicTxt)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#39"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#72"
  , "c1" : "UGraphicTxt"
  , "c2" : "UGraphicTxt()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#44"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#77"
  , "c1" : "void"
  , "c2" : "draw(UShape)"
  , "c3" : "6"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#63"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#96"
  , "c1" : "UmlCharArea"
  , "c2" : "getCharArea()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#67"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#100"
  , "c1" : "int"
  , "c2" : "getDy()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#71"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#104"
  , "c1" : "int"
  , "c2" : "getDx()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#75"
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#108"
  , "c1" : "XDimension2D"
  , "c2" : "getDimension()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00080"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#80"
+ , "c5" : "00113"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#113"
  , "c1" : "void"
  , "c2" : "writeToStream(OutputStream;String;int)"
  , "c3" : "1"
@@ -168,80 +168,80 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#34"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#67"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00034] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00067] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#44"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method draw arguments UShape  shape"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.draw@POLYN158713 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.draw@POLYN158713 the MagicNumber/String  '^' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.draw@POLYN158713 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.getDimension@POLYN160348 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.getDimension@POLYN160348 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#80"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
+ , "c3" : "QC-JAV000006[00077] For method draw arguments UShape  shape"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.writeToStream@POLYN160504 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.draw@POLYN158911 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#44"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00044] Void method draw is empty or contains only a return."
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#83"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.draw@POLYN158911 the MagicNumber/String  '^' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#44"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#84"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.draw@POLYN158911 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#109"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.getDimension@POLYN160546 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#109"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.getDimension@POLYN160546 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#113"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00113] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.writeToStream@POLYN160702 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#77"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00044] Void method draw is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000005[00077] Void method draw is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#77"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00077] Void method draw is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

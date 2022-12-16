@@ -2,6 +2,6 @@
 !pragma layout smetana
 "Renderer" <|-- "jcckit.graphic.OvalRenderer"
 class jcckit.graphic.OvalRenderer {
-+render(Oval) : void [[[./../../../.././qc/src/jcckit/graphic/OvalRenderer.java.html#7]]]
++render(Oval) : void [[[./../../../.././qc/src/jcckit/graphic/OvalRenderer.java.html#29]]]
 } 
 @enduml

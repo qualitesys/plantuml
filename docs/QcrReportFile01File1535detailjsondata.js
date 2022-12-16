@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.nwdiag.next.NTetris" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#15"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#48"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#19"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#52"
  , "c1" : "void"
  , "c2" : "add(S)"
  , "c3" : "4"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#34"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#67"
  , "c1" : "Map<S,Integer>"
  , "c2" : "getPositions()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#38"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#71"
  , "c1" : "int"
  , "c2" : "getNWidth()"
  , "c3" : "2"
@@ -102,38 +102,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#19"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#52"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method add arguments S  element"
+ , "c3" : "QC-JAV000006[00052] For method add arguments S  element"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#20"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.nwdiag.next.NTetris.add@POLYN150251 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.nwdiag.next.NTetris.add@POLYN150449 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#21"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.nwdiag.next.NTetris.add@POLYN150251 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.nwdiag.next.NTetris.add@POLYN150449 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#28"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.nwdiag.next.NTetris.add@POLYN150251 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.nwdiag.next.NTetris.add@POLYN150449 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#39"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.nwdiag.next.NTetris.getNWidth@POLYN151060 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.nwdiag.next.NTetris.getNWidth@POLYN151258 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

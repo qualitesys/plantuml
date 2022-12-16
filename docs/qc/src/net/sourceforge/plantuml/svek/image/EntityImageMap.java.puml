@@ -2,17 +2,17 @@
 !pragma layout smetana
 "AbstractEntityImageStencil" <|-- "net.sourceforge.plantuml.svek.image.EntityImageMap"
 class net.sourceforge.plantuml.svek.image.EntityImageMap {
-+EntityImageMap(ILeaf;ISkinParam;PortionShower) : EntityImageMap [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#57]]]
-+getPorts(StringBounder) : Ports [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#86]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#93]]]
--getStyle() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#105]]]
--getStyleHeader() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#110]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#115]]]
--getMethodOrFieldHeight(XDimension2D) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#178]]]
--getTitleDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#188]]]
--getNameAndSteretypeDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#192]]]
-+getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#201]]]
-+getStartingX(StringBounder;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#205]]]
-+getEndingX(StringBounder;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#209]]]
++EntityImageMap(ILeaf;ISkinParam;PortionShower) : EntityImageMap [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#91]]]
++getPorts(StringBounder) : Ports [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#120]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#127]]]
+-getStyle() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#139]]]
+-getStyleHeader() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#144]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#149]]]
+-getMethodOrFieldHeight(XDimension2D) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#212]]]
+-getTitleDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#222]]]
+-getNameAndSteretypeDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#226]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#235]]]
++getStartingX(StringBounder;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#239]]]
++getEndingX(StringBounder;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageMap.java.html#243]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.Newpage" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/Newpage.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/Newpage.java.html#44"
  , "c1" : "Newpage"
  , "c2" : "Newpage(Display)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/Newpage.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/Newpage.java.html#48"
  , "c1" : "Display"
  , "c2" : "getTitle()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/Newpage.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/Newpage.java.html#52"
  , "c1" : "boolean"
  , "c2" : "dealWith(Participant)"
  , "c3" : "1"
@@ -93,17 +93,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/Newpage.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/Newpage.java.html#52"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method dealWith arguments Participant  someone"
+ , "c3" : "QC-JAV000006[00052] For method dealWith arguments Participant  someone"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/Newpage.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/Newpage.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.sequencediagram.Newpage.dealWith@POLYN145978 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.sequencediagram.Newpage.dealWith@POLYN146182 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

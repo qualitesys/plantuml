@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.Plot" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#44"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#101"
  , "c1" : "Plot"
  , "c2" : "Plot(ConfigParameters)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#59"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#122"
  , "c1" : "void"
  , "c2" : "setCoordinateSystem(CoordinateSystem)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#73"
+ , "c5" : "00139"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#139"
  , "c1" : "void"
  , "c2" : "addPlotListener(PlotListener)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00080"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#80"
+ , "c5" : "00149"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#149"
  , "c1" : "void"
  , "c2" : "removePlotListener(PlotListener)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#85"
+ , "c5" : "00157"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#157"
  , "c1" : "void"
  , "c2" : "notifyListeners(PlotEvent)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00092"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#92"
+ , "c5" : "00180"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#180"
  , "c1" : "void"
  , "c2" : "connect(DataPlot)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#109"
+ , "c5" : "00202"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#202"
  , "c1" : "DataPoint"
  , "c2" : "transform(GraphPoint)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00114"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#114"
+ , "c5" : "00211"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#211"
  , "c1" : "GraphicalComposite"
  , "c2" : "getCompletePlot()"
  , "c3" : "4"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00131"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#131"
+ , "c5" : "00228"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#228"
  , "c1" : "GraphicalElement"
  , "c2" : "getCoordinateSystem()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00136"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#136"
+ , "c5" : "00233"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#233"
  , "c1" : "GraphicalElement[]"
  , "c2" : "getCurves()"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00147"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#147"
+ , "c5" : "00247"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#247"
  , "c1" : "GraphicalElement"
  , "c2" : "getAnnotation()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00153"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#153"
+ , "c5" : "00258"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#258"
  , "c1" : "void"
  , "c2" : "setAnnotation(GraphicalElement)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00159"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#159"
+ , "c5" : "00264"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#264"
  , "c1" : "boolean"
  , "c2" : "isLegendVisible()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00164"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#164"
+ , "c5" : "00269"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#269"
  , "c1" : "GraphicalElement"
  , "c2" : "getLegend()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00169"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#169"
+ , "c5" : "00293"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#293"
  , "c1" : "void"
  , "c2" : "dataChanged(DataEvent)"
  , "c3" : "7"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00201"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#201"
+ , "c5" : "00328"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#328"
  , "c1" : "void"
  , "c2" : "generateCurves(DataPlot)"
  , "c3" : "2"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00220"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#220"
+ , "c5" : "00347"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#347"
  , "c1" : "void"
  , "c2" : "fillCurve(int;DataCurve)"
  , "c3" : "2"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00232"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#232"
+ , "c5" : "00359"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#359"
  , "c1" : "Hint"
  , "c2" : "getHintForNextCurve(int;int)"
  , "c3" : "2"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00243"
- , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#243"
+ , "c5" : "00370"
+ , "c5link" : "././qc/src/jcckit/plot/Plot.java.html#370"
  , "c1" : "void"
  , "c2" : "setHintForNextCurve(Vector;int;Hint)"
  , "c3" : "2"
@@ -265,402 +265,402 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#44"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#101"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00044] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00101] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#53"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method jcckit.plot.Plot.Plot@POLYN215070 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method jcckit.plot.Plot.Plot@POLYN215832 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#55"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method jcckit.plot.Plot.Plot@POLYN215070 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method jcckit.plot.Plot.Plot@POLYN215832 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#59"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#122"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method setCoordinateSystem arguments CoordinateSystem  coordinateSystem"
+ , "c3" : "QC-JAV000006[00122] For method setCoordinateSystem arguments CoordinateSystem  coordinateSystem"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#59"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#122"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00059] For method setCoordinateSystem list of called methods Object monObjet|jcckit.graphic.GraphicalElement coordinateSystem_getViewN216270|jcckit.graphic.ClippingShape coordinateSystem_getClippingShapeN216344|jcckit.transformation.Transformation coordinateSystem_getTransformationN216418"
+ , "c3" : "QC-JAV000007[00122] For method setCoordinateSystem list of called methods Object monObjet|jcckit.graphic.GraphicalElement coordinateSystem_getViewN217032|jcckit.graphic.ClippingShape coordinateSystem_getClippingShapeN217106|jcckit.transformation.Transformation coordinateSystem_getTransformationN217180"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#59"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#122"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00059] The argument coordinateSystem is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00122] The argument coordinateSystem is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#64"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method jcckit.plot.Plot.setCoordinateSystem@POLYN216178 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method jcckit.plot.Plot.setCoordinateSystem@POLYN216940 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#69"
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method jcckit.plot.Plot.setCoordinateSystem@POLYN216178 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#73"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method addPlotListener arguments PlotListener  listener"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#80"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method removePlotListener arguments PlotListener  listener"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#85"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00085] For method notifyListeners arguments PlotEvent  event"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00087] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#86"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method jcckit.plot.Plot.notifyListeners@POLYN217330 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#92"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00092] For method connect arguments DataPlot  dataPlot"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method jcckit.plot.Plot.connect@POLYN218377 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method jcckit.plot.Plot.connect@POLYN218377 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#109"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00109] For method transform arguments GraphPoint  point"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#114"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00114] For method getCompletePlot list of called methods Object monObjet|jcckit.graphic.GraphicalElement[] getCurvesN219843"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method jcckit.plot.Plot.getCompletePlot@POLYN219596 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method jcckit.plot.Plot.getCompletePlot@POLYN219596 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method jcckit.plot.Plot.getCompletePlot@POLYN219596 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#137"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00137] Lock statement on synchronized resource"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00140] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00132] In method jcckit.plot.Plot.setCoordinateSystem@POLYN216940 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method jcckit.plot.Plot.getCurves@POLYN220567 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#153"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00153] For method setAnnotation arguments GraphicalElement  annotation"
+ , "c3" : "QC-JAV000006[00139] For method addPlotListener arguments PlotListener  listener"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#169"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#149"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00169] For method dataChanged arguments DataEvent  event"
+ , "c3" : "QC-JAV000006[00149] For method removePlotListener arguments PlotListener  listener"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#169"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00169] The argument event is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#157"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00157] For method notifyListeners arguments PlotEvent  event"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#172"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00172] Lock statement on synchronized resource"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#187"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00187] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00159] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#187"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00187] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#170"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method jcckit.plot.Plot.dataChanged@POLYN222803 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method jcckit.plot.Plot.notifyListeners@POLYN218092 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#180"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method jcckit.plot.Plot.dataChanged@POLYN222803 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#183"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method jcckit.plot.Plot.dataChanged@POLYN222803 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#184"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method jcckit.plot.Plot.dataChanged@POLYN222803 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00186"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#186"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method jcckit.plot.Plot.dataChanged@POLYN222803 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#201"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00201] For method generateCurves arguments DataPlot  dataPlot"
+ , "c3" : "QC-JAV000006[00180] For method connect arguments DataPlot  dataPlot"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#201"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00201] For method generateCurves list of called methods Object monObjet|int dataPlot_getNumberOfElementsN225407"
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#181"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00181] In method jcckit.plot.Plot.connect@POLYN219139 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#201"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00201] The argument dataPlot is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00187] In method jcckit.plot.Plot.connect@POLYN219139 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#202"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00202] Lock statement on synchronized resource"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#208"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00208] Avoid declaring class instance within loop, performance impact"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00202] For method transform arguments GraphPoint  point"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00211"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#211"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00211] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#211"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00211] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00203"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#203"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method jcckit.plot.Plot.generateCurves@POLYN224882 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00205"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#205"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method jcckit.plot.Plot.generateCurves@POLYN224882 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#206"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method jcckit.plot.Plot.generateCurves@POLYN224882 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#207"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method jcckit.plot.Plot.generateCurves@POLYN224882 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00220"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#220"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00220] For method fillCurve arguments int  curveIndex|DataCurve  dataCurve"
+ , "c3" : "QC-JAV000007[00211] For method getCompletePlot list of called methods Object monObjet|jcckit.graphic.GraphicalElement[] getCurvesN220605"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00220"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#220"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00220] For method fillCurve list of called methods Object monObjet|int dataCurve_getNumberOfElementsN226782"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00220"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#220"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00220] The argument dataCurve is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00227"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#227"
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00227] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00212] In method jcckit.plot.Plot.getCompletePlot@POLYN220358 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00224"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#224"
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method jcckit.plot.Plot.fillCurve@POLYN226330 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method jcckit.plot.Plot.getCompletePlot@POLYN220358 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#228"
+ , "c1" : "00218"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method jcckit.plot.Plot.fillCurve@POLYN226330 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00232"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#232"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00232] For method getHintForNextCurve arguments int  curveIndex|int  pointIndex"
+ , "c3" : "QC-JAV000010[00218] In method jcckit.plot.Plot.getCompletePlot@POLYN220358 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00234"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#234"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00234] In method jcckit.plot.Plot.getHintForNextCurve@POLYN227268 the MagicNumber/String  0 should be converted to const"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00234] Lock statement on synchronized resource"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00238"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#238"
+ , "c1" : "00237"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#237"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method jcckit.plot.Plot.getHintForNextCurve@POLYN227268 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00237] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00243"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#243"
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#236"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00236] In method jcckit.plot.Plot.getCurves@POLYN221329 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00258"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#258"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00243] For method setHintForNextCurve arguments Vector  curveHints|int  pointIndex|Hint  hint"
+ , "c3" : "QC-JAV000006[00258] For method setAnnotation arguments GraphicalElement  annotation"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00243"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#243"
+ , "c1" : "00293"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#293"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00293] For method dataChanged arguments DataEvent  event"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00293"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#293"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00243] The argument curveHints is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00293] The argument event is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00296"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#296"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00296] Lock statement on synchronized resource"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00311"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#311"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00311] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00311"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#311"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00311] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00294"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#294"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00294] In method jcckit.plot.Plot.dataChanged@POLYN223565 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00304"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#304"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00304] In method jcckit.plot.Plot.dataChanged@POLYN223565 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#307"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00307] In method jcckit.plot.Plot.dataChanged@POLYN223565 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00308"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#308"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00308] In method jcckit.plot.Plot.dataChanged@POLYN223565 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00310"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#310"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00310] In method jcckit.plot.Plot.dataChanged@POLYN223565 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00328"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#328"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00328] For method generateCurves arguments DataPlot  dataPlot"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00328"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#328"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00328] For method generateCurves list of called methods Object monObjet|int dataPlot_getNumberOfElementsN226169"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00328"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#328"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00328] The argument dataPlot is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00329"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#329"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00329] Lock statement on synchronized resource"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00335"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#335"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00335] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00338"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#338"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00338] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00338"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#338"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00338] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00330"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#330"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00330] In method jcckit.plot.Plot.generateCurves@POLYN225644 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00332"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#332"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00332] In method jcckit.plot.Plot.generateCurves@POLYN225644 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00333"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#333"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00333] In method jcckit.plot.Plot.generateCurves@POLYN225644 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00334"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#334"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00334] In method jcckit.plot.Plot.generateCurves@POLYN225644 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00347"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#347"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00347] For method fillCurve arguments int  curveIndex|DataCurve  dataCurve"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00347"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#347"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00347] For method fillCurve list of called methods Object monObjet|int dataCurve_getNumberOfElementsN227544"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00347"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#347"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00347] The argument dataCurve is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00354"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#354"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00354] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00351"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#351"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00351] In method jcckit.plot.Plot.fillCurve@POLYN227092 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00355"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#355"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00355] In method jcckit.plot.Plot.fillCurve@POLYN227092 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00359"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#359"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00359] For method getHintForNextCurve arguments int  curveIndex|int  pointIndex"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00361"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#361"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00361] In method jcckit.plot.Plot.getHintForNextCurve@POLYN228030 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00365"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#365"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00365] In method jcckit.plot.Plot.getHintForNextCurve@POLYN228030 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00370"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#370"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00370] For method setHintForNextCurve arguments Vector  curveHints|int  pointIndex|Hint  hint"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00370"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#370"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00370] The argument curveHints is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

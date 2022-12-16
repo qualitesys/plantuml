@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.project.time.WeekNumberStrategy"
 class net.sourceforge.plantuml.project.time.WeekNumberStrategy {
-+WeekNumberStrategy(DayOfWeek;int) : WeekNumberStrategy [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#9]]]
-+getFirstDayOfWeekAsLegacyInt() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#15]]]
-+getMinimalDaysInFirstWeek() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#19]]]
-+getFirstDayOfWeek() : DayOfWeek [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#23]]]
++WeekNumberStrategy(DayOfWeek;int) : WeekNumberStrategy [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#43]]]
++getFirstDayOfWeekAsLegacyInt() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#49]]]
++getMinimalDaysInFirstWeek() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#53]]]
++getFirstDayOfWeek() : DayOfWeek [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/WeekNumberStrategy.java.html#57]]]
 } 
 @enduml

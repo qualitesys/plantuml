@@ -2,8 +2,8 @@
 !pragma layout smetana
 "UDrawable" <|-- "net.sourceforge.plantuml.classdiagram.RowLayout"
 class net.sourceforge.plantuml.classdiagram.RowLayout {
-+addLeaf(TextBlock) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/RowLayout.java.html#17]]]
-+getHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/RowLayout.java.html#21]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/RowLayout.java.html#29]]]
++addLeaf(TextBlock) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/RowLayout.java.html#51]]]
++getHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/RowLayout.java.html#55]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/RowLayout.java.html#63]]]
 } 
 @enduml

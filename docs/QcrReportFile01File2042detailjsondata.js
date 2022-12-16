@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.teoz.NotesTile" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#67"
  , "c1" : "Event"
  , "c2" : "getEvent()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#71"
  , "c1" : "NotesTile"
  , "c2" : "NotesTile(StringBounder;LivingSpaces;Notes;Rose;ISkinParam;YGauge)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#82"
  , "c1" : "YGauge"
  , "c2" : "getYGauge()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#86"
  , "c1" : "Component"
  , "c2" : "getComponent(StringBounder;Note)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#58"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#92"
  , "c1" : "ComponentType"
  , "c2" : "getNoteComponentType(NoteStyle)"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#68"
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#102"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#84"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#118"
  , "c1" : "double"
  , "c2" : "getUsedWidth(StringBounder;Note)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#91"
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#125"
  , "c1" : "Real"
  , "c2" : "getXcenter(StringBounder;Note)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#96"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#130"
  , "c1" : "Real"
  , "c2" : "getX(StringBounder;Note)"
  , "c3" : "9"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00118"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#118"
+ , "c5" : "00152"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#152"
  , "c1" : "double"
  , "c2" : "getPreferredHeight()"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00128"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#128"
+ , "c5" : "00162"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#162"
  , "c1" : "void"
  , "c2" : "addConstraints()"
  , "c3" : "5"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00147"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#147"
+ , "c5" : "00181"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#181"
  , "c1" : "Real"
  , "c2" : "getMinX()"
  , "c3" : "2"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00155"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#155"
+ , "c5" : "00189"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#189"
  , "c1" : "Real"
  , "c2" : "getX2(StringBounder;Note)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00159"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#159"
+ , "c5" : "00193"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#193"
  , "c1" : "Real"
  , "c2" : "getMaxX()"
  , "c3" : "2"
@@ -206,234 +206,234 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#72"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00038] The argument currentY is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00072] The argument currentY is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#52"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#86"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method getComponent arguments StringBounder  stringBounder|Note  note"
+ , "c3" : "QC-JAV000006[00086] For method getComponent arguments StringBounder  stringBounder|Note  note"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#52"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#86"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument note is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00086] The argument note is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#58"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#92"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method getNoteComponentType arguments NoteStyle  noteStyle"
+ , "c3" : "QC-JAV000006[00092] For method getNoteComponentType arguments NoteStyle  noteStyle"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#68"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#102"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00068] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00102] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#68"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#102"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00068] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00102] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#74"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00074] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00108] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#75"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00075] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00109] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#77"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00077] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00111] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#79"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00079] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00113] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#80"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00080] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00114] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#84"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#118"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00084] For method getUsedWidth arguments StringBounder  stringBounder|Note  note"
+ , "c3" : "QC-JAV000006[00118] For method getUsedWidth arguments StringBounder  stringBounder|Note  note"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#91"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#125"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00091] For method getXcenter arguments StringBounder  stringBounder|Note  note"
+ , "c3" : "QC-JAV000006[00125] For method getXcenter arguments StringBounder  stringBounder|Note  note"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#91"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#125"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00091] The argument note is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#96"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00096] For method getX arguments StringBounder  stringBounder|Note  note"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#96"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00096] The argument note is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.sequencediagram.teoz.NotesTile.getX@POLYN180769 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#112"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.sequencediagram.teoz.NotesTile.getX@POLYN180769 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00121] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#122"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00122] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.sequencediagram.teoz.NotesTile.getPreferredHeight@POLYN182685 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00135] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00136] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00139] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00140] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00135] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00136] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00139] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00140] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAVCWE476[00125] The argument note is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.sequencediagram.teoz.NotesTile.addConstraints@POLYN183268 the MagicNumber/String  0 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00130] For method getX arguments StringBounder  stringBounder|Note  note"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.sequencediagram.teoz.NotesTile.addConstraints@POLYN183268 the MagicNumber/String  1 should be converted to const"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00130] The argument note is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#131"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.sequencediagram.teoz.NotesTile.addConstraints@POLYN183268 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.sequencediagram.teoz.NotesTile.getX@POLYN180973 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#146"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.sequencediagram.teoz.NotesTile.getX@POLYN180973 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#155"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00155] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00156] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.sequencediagram.teoz.NotesTile.getPreferredHeight@POLYN182889 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#169"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00169] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#170"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00170] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#173"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00173] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00174] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#169"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00169] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#170"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00170] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#173"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00173] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00174] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.sequencediagram.teoz.NotesTile.addConstraints@POLYN183472 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.sequencediagram.teoz.NotesTile.addConstraints@POLYN183472 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.sequencediagram.teoz.NotesTile.addConstraints@POLYN183472 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NotesTile.java.html#189"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00155] For method getX2 arguments StringBounder  stringBounder|Note  note"
+ , "c3" : "QC-JAV000006[00189] For method getX2 arguments StringBounder  stringBounder|Note  note"
 }} 
 ]
 , 

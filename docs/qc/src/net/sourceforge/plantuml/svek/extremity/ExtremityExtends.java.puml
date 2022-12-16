@@ -2,8 +2,8 @@
 !pragma layout smetana
 "Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityExtends"
 class net.sourceforge.plantuml.svek.extremity.ExtremityExtends {
-+somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityExtends.java.html#16]]]
-+ExtremityExtends(XPoint2D;double;HColor) : ExtremityExtends [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityExtends.java.html#20]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityExtends.java.html#34]]]
++somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityExtends.java.html#50]]]
++ExtremityExtends(XPoint2D;double;HColor) : ExtremityExtends [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityExtends.java.html#54]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityExtends.java.html#68]]]
 } 
 @enduml

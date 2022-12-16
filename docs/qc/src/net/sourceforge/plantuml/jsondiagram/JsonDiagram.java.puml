@@ -2,10 +2,10 @@
 !pragma layout smetana
 "TitledDiagram" <|-- "net.sourceforge.plantuml.jsondiagram.JsonDiagram"
 class net.sourceforge.plantuml.jsondiagram.JsonDiagram {
-+JsonDiagram(UmlSource;UmlDiagramType;JsonValue;List<String>) : JsonDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#36]]]
-+getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#47]]]
-exportDiagramNow(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#58]]]
--drawInternal(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#64]]]
--getTextBlock() : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#77]]]
++JsonDiagram(UmlSource;UmlDiagramType;JsonValue;List<String>) : JsonDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#69]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#80]]]
+exportDiagramNow(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#91]]]
+-drawInternal(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#97]]]
+-getTextBlock() : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#110]]]
 } 
 @enduml

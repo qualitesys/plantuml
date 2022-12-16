@@ -2,7 +2,7 @@
 !pragma layout smetana
 "ReaderException" <|-- "ext.plantuml.com.google.zxing.ChecksumException"
 class ext.plantuml.com.google.zxing.ChecksumException {
--ChecksumException() : ChecksumException [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/ChecksumException.java.html#10]]]
-+getChecksumInstance() : ChecksumException [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/ChecksumException.java.html#14]]]
+-ChecksumException() : ChecksumException [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/ChecksumException.java.html#29]]]
++getChecksumInstance() : ChecksumException [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/ChecksumException.java.html#33]]]
 } 
 @enduml

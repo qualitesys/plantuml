@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.InGroupable"
 class net.sourceforge.plantuml.sequencediagram.InGroupable {
-+getMinX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupable.java.html#8]]]
-+getMaxX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupable.java.html#10]]]
-+toString(StringBounder) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupable.java.html#12]]]
++getMinX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupable.java.html#42]]]
++getMaxX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupable.java.html#44]]]
++toString(StringBounder) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupable.java.html#46]]]
 } 
 @enduml

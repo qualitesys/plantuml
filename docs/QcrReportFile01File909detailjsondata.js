@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.code.deflate.BitInputStream" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/deflate/BitInputStream.java.html#33"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/deflate/BitInputStream.java.html#37"
  , "c1" : "int"
  , "c2" : "getBitPosition()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/deflate/BitInputStream.java.html#33"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/deflate/BitInputStream.java.html#37"
  , "c1" : "int"
  , "c2" : "readByte()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/deflate/BitInputStream.java.html#33"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/deflate/BitInputStream.java.html#37"
  , "c1" : "int"
  , "c2" : "read()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/deflate/BitInputStream.java.html#33"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/deflate/BitInputStream.java.html#37"
  , "c1" : "int"
  , "c2" : "readNoEof()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/deflate/BitInputStream.java.html#33"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/deflate/BitInputStream.java.html#37"
  , "c1" : "void"
  , "c2" : "close()"
  , "c3" : "1"

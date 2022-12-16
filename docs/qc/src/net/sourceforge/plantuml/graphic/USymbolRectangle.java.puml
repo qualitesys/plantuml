@@ -2,11 +2,11 @@
 !pragma layout smetana
 "USymbol" <|-- "net.sourceforge.plantuml.graphic.USymbolRectangle"
 class net.sourceforge.plantuml.graphic.USymbolRectangle {
-+USymbolRectangle(SName) : USymbolRectangle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolRectangle.java.html#16]]]
-+getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolRectangle.java.html#21]]]
--drawRect(UGraphic;double;double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolRectangle.java.html#25]]]
--getMargin() : Margin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolRectangle.java.html#33]]]
-+asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolRectangle.java.html#38]]]
-+asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolRectangle.java.html#62]]]
++USymbolRectangle(SName) : USymbolRectangle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolRectangle.java.html#50]]]
++getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolRectangle.java.html#55]]]
+-drawRect(UGraphic;double;double;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolRectangle.java.html#59]]]
+-getMargin() : Margin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolRectangle.java.html#67]]]
++asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolRectangle.java.html#72]]]
++asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolRectangle.java.html#96]]]
 } 
 @enduml

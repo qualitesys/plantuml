@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.InflaterSet" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/InflaterSet.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/InflaterSet.java.html#55"
  , "c1" : "void"
  , "c2" : "addInflater(double;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/InflaterSet.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/InflaterSet.java.html#59"
  , "c1" : "double"
  , "c2" : "inflate(double)"
  , "c3" : "3"
@@ -77,17 +77,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/InflaterSet.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/InflaterSet.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method addInflater arguments double  start|double  size"
+ , "c3" : "QC-JAV000006[00055] For method addInflater arguments double  start|double  size"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/InflaterSet.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/InflaterSet.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method inflate arguments double  v"
+ , "c3" : "QC-JAV000006[00059] For method inflate arguments double  v"
 }} 
 ]
 , 

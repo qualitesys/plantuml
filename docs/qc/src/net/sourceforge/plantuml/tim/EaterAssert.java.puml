@@ -2,7 +2,7 @@
 !pragma layout smetana
 "Eater" <|-- "net.sourceforge.plantuml.tim.EaterAssert"
 class net.sourceforge.plantuml.tim.EaterAssert {
-+EaterAssert(StringLocated) : EaterAssert [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.html#9]]]
-+analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.html#14]]]
++EaterAssert(StringLocated) : EaterAssert [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.html#42]]]
++analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterAssert.java.html#47]]]
 } 
 @enduml

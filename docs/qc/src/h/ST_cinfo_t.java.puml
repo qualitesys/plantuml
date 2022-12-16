@@ -2,7 +2,7 @@
 !pragma layout smetana
 "UnsupportedStarStruct" <|-- "h.ST_cinfo_t"
 class h.ST_cinfo_t {
-+___(__struct__) : void [[[./../../.././qc/src/h/ST_cinfo_t.java.html#17]]]
-+copy() : ST_cinfo_t [[[./../../.././qc/src/h/ST_cinfo_t.java.html#25]]]
++___(__struct__) : void [[[./../../.././qc/src/h/ST_cinfo_t.java.html#61]]]
++copy() : ST_cinfo_t [[[./../../.././qc/src/h/ST_cinfo_t.java.html#69]]]
 } 
 @enduml

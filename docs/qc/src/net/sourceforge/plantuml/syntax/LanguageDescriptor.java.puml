@@ -2,12 +2,12 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.syntax.LanguageDescriptor"
 class net.sourceforge.plantuml.syntax.LanguageDescriptor {
-+LanguageDescriptor() : LanguageDescriptor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/LanguageDescriptor.java.html#20]]]
-+getCypher() : Cypher [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/LanguageDescriptor.java.html#223]]]
-+print(PrintStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/LanguageDescriptor.java.html#244]]]
--print(PrintStream;String;Collection<String>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/LanguageDescriptor.java.html#253]]]
-+getType() : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/LanguageDescriptor.java.html#262]]]
-+getKeyword() : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/LanguageDescriptor.java.html#266]]]
-+getPreproc() : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/LanguageDescriptor.java.html#270]]]
++LanguageDescriptor() : LanguageDescriptor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/LanguageDescriptor.java.html#54]]]
++getCypher() : Cypher [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/LanguageDescriptor.java.html#257]]]
++print(PrintStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/LanguageDescriptor.java.html#278]]]
+-print(PrintStream;String;Collection<String>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/LanguageDescriptor.java.html#287]]]
++getType() : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/LanguageDescriptor.java.html#296]]]
++getKeyword() : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/LanguageDescriptor.java.html#300]]]
++getPreproc() : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/syntax/LanguageDescriptor.java.html#304]]]
 } 
 @enduml

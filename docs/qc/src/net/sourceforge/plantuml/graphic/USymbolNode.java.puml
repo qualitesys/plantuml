@@ -2,12 +2,12 @@
 !pragma layout smetana
 "USymbol" <|-- "net.sourceforge.plantuml.graphic.USymbolNode"
 class net.sourceforge.plantuml.graphic.USymbolNode {
-+getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolNode.java.html#18]]]
--drawNode(UGraphic;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolNode.java.html#31]]]
--getMargin() : Margin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolNode.java.html#86]]]
-+asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolNode.java.html#91]]]
-+asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolNode.java.html#114]]]
-+suppHeightBecauseOfShape() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolNode.java.html#148]]]
-+suppWidthBecauseOfShape() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolNode.java.html#153]]]
++getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolNode.java.html#52]]]
+-drawNode(UGraphic;double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolNode.java.html#65]]]
+-getMargin() : Margin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolNode.java.html#120]]]
++asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolNode.java.html#125]]]
++asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolNode.java.html#148]]]
++suppHeightBecauseOfShape() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolNode.java.html#182]]]
++suppWidthBecauseOfShape() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolNode.java.html#187]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sprite.SpriteSvg" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteSvg.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteSvg.java.html#50"
  , "c1" : "SpriteSvg"
  , "c2" : "SpriteSvg(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteSvg.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteSvg.java.html#54"
  , "c1" : "TextBlock"
  , "c2" : "asTextBlock(HColor;double)"
  , "c3" : "1"
@@ -77,10 +77,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteSvg.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteSvg.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method asTextBlock arguments HColor  color|double  scale"
+ , "c3" : "QC-JAV000006[00054] For method asTextBlock arguments HColor  color|double  scale"
 }} 
 ]
 , 

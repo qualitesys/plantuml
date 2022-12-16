@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#48"
  , "c1" : "ClockwiseTopRightBottomLeft"
  , "c2" : "same(double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#52"
  , "c1" : "ClockwiseTopRightBottomLeft"
  , "c2" : "none()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#56"
  , "c1" : "ClockwiseTopRightBottomLeft"
  , "c2" : "read(String)"
  , "c3" : "6"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#51"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#85"
  , "c1" : "ClockwiseTopRightBottomLeft"
  , "c2" : "margin1margin2(double;double)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#89"
  , "c1" : "ClockwiseTopRightBottomLeft"
  , "c2" : "topRightBottomLeft(double;double;double;double)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#59"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#93"
  , "c1" : "ClockwiseTopRightBottomLeft"
  , "c2" : "ClockwiseTopRightBottomLeft(double;double;double;double)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#66"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#100"
  , "c1" : "ClockwiseTopRightBottomLeft"
  , "c2" : "incTop(double)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#105"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#75"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#109"
  , "c1" : "double"
  , "c2" : "getTop()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00079"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#79"
+ , "c5" : "00113"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#113"
  , "c1" : "double"
  , "c2" : "getRight()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#83"
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#117"
  , "c1" : "double"
  , "c2" : "getBottom()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#87"
+ , "c5" : "00121"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#121"
  , "c1" : "double"
  , "c2" : "getLeft()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#91"
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#125"
  , "c1" : "ClockwiseTopRightBottomLeft"
  , "c2" : "marginForDocument(StyleBuilder)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#96"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#130"
  , "c1" : "UTranslate"
  , "c2" : "getTranslate()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00100"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#100"
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#134"
  , "c1" : "XDimension2D"
  , "c2" : "apply(XDimension2D)"
  , "c3" : "1"
@@ -215,269 +215,269 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method same arguments double  value"
+ , "c3" : "QC-JAV000006[00048] For method same arguments double  value"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.none@POLYN160559 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.none@POLYN160763 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.none@POLYN160559 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.none@POLYN160763 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.none@POLYN160559 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.none@POLYN160763 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.none@POLYN160559 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.none@POLYN160763 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method read arguments String  value"
+ , "c3" : "QC-JAV000006[00056] For method read arguments String  value"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00022] The argument value is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00056] The argument value is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160762 the MagicNumber/String  '[0-9 ]+' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160966 the MagicNumber/String  '[0-9 ]+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160762 the MagicNumber/String  ' +' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160966 the MagicNumber/String  ' +' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160762 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160966 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160762 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160966 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160762 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160966 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160762 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160966 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160762 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160966 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160762 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160966 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160762 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160966 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160762 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160966 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160762 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160966 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160762 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160966 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#41"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160762 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160966 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160762 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160966 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160762 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160966 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160762 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.read@POLYN160966 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#85"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method margin1margin2 arguments double  margin1|double  margin2"
+ , "c3" : "QC-JAV000006[00085] For method margin1margin2 arguments double  margin1|double  margin2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#55"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#89"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method topRightBottomLeft arguments double  top|double  right|double  bottom|double  left"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#66"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method incTop arguments double  delta"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.toString@POLYN164432 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.toString@POLYN164432 the MagicNumber/String  ':' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.toString@POLYN164432 the MagicNumber/String  ':' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.toString@POLYN164432 the MagicNumber/String  ':' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#91"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00091] For method marginForDocument arguments StyleBuilder  styleBuilder"
+ , "c3" : "QC-JAV000006[00089] For method topRightBottomLeft arguments double  top|double  right|double  bottom|double  left"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#100"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00100] For method apply arguments XDimension2D  dim"
+ , "c3" : "QC-JAV000006[00100] For method incTop arguments double  delta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#100"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.toString@POLYN164636 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.toString@POLYN164636 the MagicNumber/String  ':' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.toString@POLYN164636 the MagicNumber/String  ':' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft.toString@POLYN164636 the MagicNumber/String  ':' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#125"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00125] For method marginForDocument arguments StyleBuilder  styleBuilder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#134"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00134] For method apply arguments XDimension2D  dim"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#134"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00100] The argument dim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00134] The argument dim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#48"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00014] Public method same is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00048] Public method same is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#52"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00018] Public method none is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00052] Public method none is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#56"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00022] Public method read is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00056] Public method read is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#85"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00051] Public method margin1margin2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00085] Public method margin1margin2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#91"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ClockwiseTopRightBottomLeft.java.html#125"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00091] Public method marginForDocument is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00125] Public method marginForDocument is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

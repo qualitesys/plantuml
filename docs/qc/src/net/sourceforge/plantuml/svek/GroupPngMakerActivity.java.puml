@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.svek.GroupPngMakerActivity"
 class net.sourceforge.plantuml.svek.GroupPngMakerActivity {
-+GroupPngMakerActivity(CucaDiagram;IGroup;StringBounder) : GroupPngMakerActivity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#65]]]
--getPureInnerLinks() : List<Link> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#71]]]
-+getDefaultStyleDefinitionGroup() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#84]]]
-+getImage() : IEntityImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#88]]]
-getColor(ColorParam;Stereotype) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#121]]]
++GroupPngMakerActivity(CucaDiagram;IGroup;StringBounder) : GroupPngMakerActivity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#99]]]
+-getPureInnerLinks() : List<Link> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#105]]]
++getDefaultStyleDefinitionGroup() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#118]]]
++getImage() : IEntityImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#122]]]
+getColor(ColorParam;Stereotype) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#155]]]
 } 
 @enduml

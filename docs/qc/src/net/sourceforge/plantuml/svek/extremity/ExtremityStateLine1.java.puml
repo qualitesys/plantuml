@@ -2,10 +2,10 @@
 !pragma layout smetana
 "Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityStateLine1"
 class net.sourceforge.plantuml.svek.extremity.ExtremityStateLine1 {
-+somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine1.java.html#21]]]
-+ExtremityStateLine1(double;XPoint2D) : ExtremityStateLine1 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine1.java.html#26]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine1.java.html#41]]]
--getPointOnCircle(double;double;double) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine1.java.html#51]]]
--drawLine(UGraphic;XPoint2D;XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine1.java.html#57]]]
++somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine1.java.html#55]]]
++ExtremityStateLine1(double;XPoint2D) : ExtremityStateLine1 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine1.java.html#60]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine1.java.html#75]]]
+-getPointOnCircle(double;double;double) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine1.java.html#85]]]
+-drawLine(UGraphic;XPoint2D;XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine1.java.html#91]]]
 } 
 @enduml

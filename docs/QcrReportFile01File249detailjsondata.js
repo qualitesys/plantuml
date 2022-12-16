@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "h.ST_object_t" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/h/ST_object_t.java.html#16"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/h/ST_object_t.java.html#60"
  , "c1" : "boolean"
  , "c2" : "isSameThan(__ptr__)"
  , "c3" : "1"
@@ -75,17 +75,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/h/ST_object_t.java.html#12"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/h/ST_object_t.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00012] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00056] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/h/ST_object_t.java.html#16"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/h/ST_object_t.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method isSameThan arguments __ptr__  other"
+ , "c3" : "QC-JAV000006[00060] For method isSameThan arguments __ptr__  other"
 }} 
 ]
 , 

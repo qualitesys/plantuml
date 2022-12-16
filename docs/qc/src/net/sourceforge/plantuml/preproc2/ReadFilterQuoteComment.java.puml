@@ -2,6 +2,6 @@
 !pragma layout smetana
 "ReadFilter" <|-- "net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment"
 class net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment {
-+applyFilter(ReadLine) : ReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#11]]]
++applyFilter(ReadLine) : ReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#45]]]
 } 
 @enduml

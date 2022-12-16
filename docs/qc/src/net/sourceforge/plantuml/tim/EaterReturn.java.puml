@@ -2,8 +2,8 @@
 !pragma layout smetana
 "Eater" <|-- "net.sourceforge.plantuml.tim.EaterReturn"
 class net.sourceforge.plantuml.tim.EaterReturn {
-+EaterReturn(StringLocated) : EaterReturn [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterReturn.java.html#11]]]
-+analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterReturn.java.html#16]]]
-+getValue2() : TValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterReturn.java.html#23]]]
++EaterReturn(StringLocated) : EaterReturn [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterReturn.java.html#44]]]
++analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterReturn.java.html#49]]]
++getValue2() : TValue [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterReturn.java.html#56]]]
 } 
 @enduml

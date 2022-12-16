@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ftp.FtpConnexion" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#64"
  , "c1" : "FtpConnexion"
  , "c2" : "FtpConnexion(String;FileFormat)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#69"
  , "c1" : "void"
  , "c2" : "addIncoming(String;String)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#76"
  , "c1" : "void"
  , "c2" : "futureOutgoing(String)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#47"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#81"
  , "c1" : "Collection<String>"
  , "c2" : "getFiles()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#54"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#88"
  , "c1" : "boolean"
  , "c2" : "willExist(String)"
  , "c3" : "4"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#67"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#101"
  , "c1" : "boolean"
  , "c2" : "doesExist(String)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#77"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#111"
  , "c1" : "byte[]"
  , "c2" : "getData(String)"
  , "c3" : "4"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00092"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#92"
+ , "c5" : "00126"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#126"
  , "c1" : "int"
  , "c2" : "getSize(String)"
  , "c3" : "4"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#107"
+ , "c5" : "00141"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#141"
  , "c1" : "void"
  , "c2" : "processImage(String)"
  , "c3" : "6"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00146"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#146"
+ , "c5" : "00180"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#180"
  , "c1" : "String"
  , "c2" : "getFutureFileName(String)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00150"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#150"
+ , "c5" : "00184"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#184"
  , "c1" : "FileFormat"
  , "c2" : "getFileFormat()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00154"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#154"
+ , "c5" : "00188"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#188"
  , "c1" : "void"
  , "c2" : "delete(String)"
  , "c3" : "3"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00166"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#166"
+ , "c5" : "00200"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#200"
  , "c1" : "void"
  , "c2" : "setFileFormat(FileFormat)"
  , "c3" : "1"
@@ -204,465 +204,465 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#69"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00035] Lock statement on synchronized method addIncoming"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#35"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method addIncoming arguments String  fileName|String  data"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#35"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00035] The argument fileName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.ftp.FtpConnexion.addIncoming@POLYN169704 the MagicNumber/String  '/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#42"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00042] Lock statement on synchronized method futureOutgoing"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#42"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method futureOutgoing arguments String  fileName"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#47"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00047] Lock statement on synchronized method getFiles"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#54"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00054] Lock statement on synchronized method willExist"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#54"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00054] For method willExist arguments String  fileName"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ftp.FtpConnexion.willExist@POLYN170697 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ftp.FtpConnexion.willExist@POLYN170697 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ftp.FtpConnexion.willExist@POLYN170697 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ftp.FtpConnexion.willExist@POLYN170697 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#67"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00067] Lock statement on synchronized method doesExist"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#67"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00067] For method doesExist arguments String  fileName"
+ , "c3" : "QC-JAV000019[00069] Lock statement on synchronized method addIncoming"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ftp.FtpConnexion.doesExist@POLYN171136 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.ftp.FtpConnexion.doesExist@POLYN171136 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.ftp.FtpConnexion.doesExist@POLYN171136 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#77"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00077] Lock statement on synchronized method getData"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00077] For method getData arguments String  fileName"
+ , "c3" : "QC-JAV000006[00069] For method addIncoming arguments String  fileName|String  data"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#77"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#69"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00077] The argument fileName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00069] The argument fileName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#78"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ftp.FtpConnexion.getData@POLYN171473 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.ftp.FtpConnexion.addIncoming@POLYN169908 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ftp.FtpConnexion.getData@POLYN171473 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#86"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.ftp.FtpConnexion.getData@POLYN171473 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.ftp.FtpConnexion.getData@POLYN171473 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#92"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#76"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00092] Lock statement on synchronized method getSize"
+ , "c3" : "QC-JAV000019[00076] Lock statement on synchronized method futureOutgoing"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#92"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00092] For method getSize arguments String  fileName"
+ , "c3" : "QC-JAV000006[00076] For method futureOutgoing arguments String  fileName"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#92"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00092] The argument fileName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#81"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00081] Lock statement on synchronized method getFiles"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#88"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00088] Lock statement on synchronized method willExist"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#88"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00088] For method willExist arguments String  fileName"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ftp.FtpConnexion.willExist@POLYN170901 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.ftp.FtpConnexion.getSize@POLYN172169 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.ftp.FtpConnexion.willExist@POLYN170901 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#97"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.ftp.FtpConnexion.getSize@POLYN172169 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ftp.FtpConnexion.willExist@POLYN170901 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.ftp.FtpConnexion.willExist@POLYN170901 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.ftp.FtpConnexion.getSize@POLYN172169 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.ftp.FtpConnexion.getSize@POLYN172169 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#107"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00107] For method processImage arguments String  fileName"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#107"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00107] The argument fileName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#124"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00124] Lock statement on synchronized resource"
+ , "c3" : "QC-JAV000019[00101] Lock statement on synchronized method doesExist"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#101"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00101] For method doesExist arguments String  fileName"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.ftp.FtpConnexion.doesExist@POLYN171340 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.ftp.FtpConnexion.doesExist@POLYN171340 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN172812 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.ftp.FtpConnexion.doesExist@POLYN171340 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#111"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00111] Lock statement on synchronized method getData"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#111"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00111] For method getData arguments String  fileName"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#111"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00111] The argument fileName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN172812 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ftp.FtpConnexion.getData@POLYN171677 the MagicNumber/String  '/' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#116"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.ftp.FtpConnexion.getData@POLYN171677 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN172812 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.ftp.FtpConnexion.getData@POLYN171677 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN172812 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.ftp.FtpConnexion.getData@POLYN171677 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN172812 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#126"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00126] Lock statement on synchronized method getSize"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN172812 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#126"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00126] For method getSize arguments String  fileName"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN172812 the MagicNumber/String  4 should be converted to const"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#126"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00126] The argument fileName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#123"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN172812 the MagicNumber/String  '.err' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN172812 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN172812 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN172812 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.ftp.FtpConnexion.getSize@POLYN172373 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN172812 the MagicNumber/String  '(Error)' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ftp.FtpConnexion.getSize@POLYN172373 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#140"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN172812 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.ftp.FtpConnexion.getSize@POLYN172373 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#138"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.ftp.FtpConnexion.getSize@POLYN172373 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#141"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00141] For method processImage arguments String  fileName"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#141"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00141] The argument fileName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#158"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00158] Lock statement on synchronized resource"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN172812 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN173016 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#146"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00146] For method getFutureFileName arguments String  fileName"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.ftp.FtpConnexion.getFutureFileName@POLYN175494 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN173016 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#154"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00154] Lock statement on synchronized method delete"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#154"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00154] For method delete arguments String  fileName"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#154"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00154] The argument fileName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN173016 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.ftp.FtpConnexion.delete@POLYN175760 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN173016 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#166"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#155"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN173016 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN173016 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN173016 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN173016 the MagicNumber/String  '.err' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#162"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN173016 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#162"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN173016 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN173016 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN173016 the MagicNumber/String  '(Error)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN173016 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.ftp.FtpConnexion.processImage@POLYN173016 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#180"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00166] For method setFileFormat arguments FileFormat  fileFormat"
+ , "c3" : "QC-JAV000006[00180] For method getFutureFileName arguments String  fileName"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#47"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00047] Public method getFiles is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#181"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.ftp.FtpConnexion.getFutureFileName@POLYN175698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#54"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00054] Public method willExist is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#188"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00188] Lock statement on synchronized method delete"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#67"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00067] Public method doesExist is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#188"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00188] For method delete arguments String  fileName"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#77"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00077] Public method getData is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#188"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00188] The argument fileName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#92"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00092] Public method getSize is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#189"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.ftp.FtpConnexion.delete@POLYN175964 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#146"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00146] Public method getFutureFileName is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#200"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00200] For method setFileFormat arguments FileFormat  fileFormat"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#35"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#81"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00035] Public method addIncoming is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00081] Public method getFiles is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#42"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#88"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00042] Public method futureOutgoing is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00088] Public method willExist is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#107"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#101"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00107] Public method processImage is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00101] Public method doesExist is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#154"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#111"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00154] Public method delete is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00111] Public method getData is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#126"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00126] Public method getSize is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#180"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00180] Public method getFutureFileName is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#69"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00069] Public method addIncoming is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#76"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00076] Public method futureOutgoing is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#141"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00141] Public method processImage is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#188"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00188] Public method delete is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

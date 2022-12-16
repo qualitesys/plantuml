@@ -2,19 +2,19 @@
 !pragma layout smetana
 "ETile" <|-- "net.sourceforge.plantuml.ebnf.ETileBox"
 class net.sourceforge.plantuml.ebnf.ETileBox {
-+ETileBox(String;Symbol;FontConfiguration;Style;HColorSet;ISkinParam) : ETileBox [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#37]]]
--getPureH1(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#48]]]
-+getH1(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#54]]]
-+getH2(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#63]]]
-+getWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#72]]]
--getTextDim(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#85]]]
--getBoxDim(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#89]]]
-addCommentAbove(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#94]]]
-addCommentBelow(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#99]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#104]]]
--getNoteAbove(StringBounder) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#149]]]
--getNoteBelow(StringBounder) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#163]]]
-+push(ETile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#178]]]
-getRepetitionLabel() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#183]]]
++ETileBox(String;Symbol;FontConfiguration;Style;HColorSet;ISkinParam) : ETileBox [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#71]]]
+-getPureH1(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#82]]]
++getH1(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#88]]]
++getH2(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#97]]]
++getWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#106]]]
+-getTextDim(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#119]]]
+-getBoxDim(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#123]]]
+addCommentAbove(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#128]]]
+addCommentBelow(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#133]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#138]]]
+-getNoteAbove(StringBounder) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#183]]]
+-getNoteBelow(StringBounder) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#197]]]
++push(ETile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#212]]]
+getRepetitionLabel() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/ETileBox.java.html#217]]]
 } 
 @enduml

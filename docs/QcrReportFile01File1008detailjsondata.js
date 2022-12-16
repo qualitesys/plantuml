@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.core.ImageData" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#10"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#55"
  , "c1" : "int"
  , "c2" : "getWidth()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#13"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#60"
  , "c1" : "int"
  , "c2" : "getHeight()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#16"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#66"
  , "c1" : "boolean"
  , "c2" : "containsCMapData()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#19"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#81"
  , "c1" : "String"
  , "c2" : "getCMapData(String)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#21"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#83"
  , "c1" : "String"
  , "c2" : "getWarningOrError()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#23"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/ImageData.java.html#85"
  , "c1" : "int"
  , "c2" : "getStatus()"
  , "c3" : "1"

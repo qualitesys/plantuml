@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.Gtiles"
 class net.sourceforge.plantuml.activitydiagram3.gtile.Gtiles {
-+hexagonInside(Swimlane;StringBounder;ISkinParam;StyleSignatureBasic;HColor;Display) : GtileHexagonInside [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#27]]]
-+diamondEmpty(Swimlane;StringBounder;ISkinParam;StyleSignatureBasic;HColor) : AbstractGtileRoot [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#46]]]
-+withSouthMargin(Gtile;double) : Gtile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#59]]]
-+withNorthMargin(Gtile;double) : Gtile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#64]]]
-+withIncomingArrow(Gtile;double) : Gtile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#72]]]
-+withOutgoingArrow(Gtile;double) : Gtile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#78]]]
++hexagonInside(Swimlane;StringBounder;ISkinParam;StyleSignatureBasic;HColor;Display) : GtileHexagonInside [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#61]]]
++diamondEmpty(Swimlane;StringBounder;ISkinParam;StyleSignatureBasic;HColor) : AbstractGtileRoot [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#80]]]
++withSouthMargin(Gtile;double) : Gtile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#93]]]
++withNorthMargin(Gtile;double) : Gtile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#98]]]
++withIncomingArrow(Gtile;double) : Gtile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#106]]]
++withOutgoingArrow(Gtile;double) : Gtile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Gtiles.java.html#112]]]
 } 
 @enduml

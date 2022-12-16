@@ -2,9 +2,9 @@
 !pragma layout smetana
 "XmlDiagramTransformer" <|-- "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram"
 class net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram {
-+GraphmlDescriptionDiagram(DescriptionDiagram) : GraphmlDescriptionDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#32]]]
--addElement(IEntity;Element) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#56]]]
--createEntityNode(IEntity) : Element [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#62]]]
-+transformerXml(OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#68]]]
++GraphmlDescriptionDiagram(DescriptionDiagram) : GraphmlDescriptionDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#66]]]
+-addElement(IEntity;Element) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#90]]]
+-createEntityNode(IEntity) : Element [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#96]]]
++transformerXml(OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphml/GraphmlDescriptionDiagram.java.html#102]]]
 } 
 @enduml

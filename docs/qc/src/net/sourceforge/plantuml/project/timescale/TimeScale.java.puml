@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.project.timescale.TimeScale"
 class net.sourceforge.plantuml.project.timescale.TimeScale {
-+getStartingPosition(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScale.java.html#8]]]
-+getEndingPosition(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScale.java.html#10]]]
-+getWidth(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScale.java.html#12]]]
-+isBreaking(Day) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScale.java.html#14]]]
++getStartingPosition(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScale.java.html#42]]]
++getEndingPosition(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScale.java.html#44]]]
++getWidth(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScale.java.html#46]]]
++isBreaking(Day) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScale.java.html#48]]]
 } 
 @enduml

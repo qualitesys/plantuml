@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.gtile.GConnection" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnection.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnection.java.html#46"
  , "c1" : "List<GPoint>"
  , "c2" : "getHooks()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnection.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnection.java.html#48"
  , "c1" : "void"
  , "c2" : "drawTranslatable(UGraphic)"
  , "c3" : "1"

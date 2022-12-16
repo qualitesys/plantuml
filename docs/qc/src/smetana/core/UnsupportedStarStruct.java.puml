@@ -2,12 +2,12 @@
 !pragma layout smetana
 "__struct__" <|-- "smetana.core.UnsupportedStarStruct"
 class smetana.core.UnsupportedStarStruct {
-+UnsupportedStarStruct() : UnsupportedStarStruct [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#14]]]
-+unsupported() : __ptr__ [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#18]]]
-+isSameThan(__ptr__) : boolean [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#22]]]
-+castTo(Class) : __ptr__ [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#26]]]
-+getTheField(OFFSET) : Object [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#31]]]
-+copy() : __struct__ [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#35]]]
-+___(__struct__) : void [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#39]]]
++UnsupportedStarStruct() : UnsupportedStarStruct [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#48]]]
++unsupported() : __ptr__ [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#52]]]
++isSameThan(__ptr__) : boolean [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#56]]]
++castTo(Class) : __ptr__ [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#60]]]
++getTheField(OFFSET) : Object [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#65]]]
++copy() : __struct__ [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#69]]]
++___(__struct__) : void [[[./../../../.././qc/src/smetana/core/UnsupportedStarStruct.java.html#73]]]
 } 
 @enduml

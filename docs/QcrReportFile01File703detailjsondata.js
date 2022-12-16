@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.anim.AffineTransformation" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#60"
  , "c1" : "AffineTransformation"
  , "c2" : "AffineTransformation(AffineTransform)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#64"
  , "c1" : "AffineTransformation"
  , "c2" : "compose(AffineTransformation)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#70"
  , "c1" : "AffineTransformation"
  , "c2" : "from(AffineTransform)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#74"
  , "c1" : "AffineTransformation"
  , "c2" : "create(String)"
  , "c3" : "5"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#57"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#91"
  , "c1" : "AffineTransformation"
  , "c2" : "createSimple(String)"
  , "c3" : "6"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#88"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#122"
  , "c1" : "AffineTransform"
  , "c2" : "getAffineTransform()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00092"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#92"
+ , "c5" : "00126"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#126"
  , "c1" : "AffineTransform"
  , "c2" : "getAffineTransform(XDimension2D)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00104"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#104"
+ , "c5" : "00138"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#138"
  , "c1" : "void"
  , "c2" : "setDimension(XDimension2D)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#109"
+ , "c5" : "00143"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#143"
  , "c1" : "MinMax"
  , "c2" : "getMinMax(XDimension2D)"
  , "c3" : "1"
@@ -168,248 +168,248 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method compose arguments AffineTransformation  other"
+ , "c3" : "QC-JAV000006[00064] For method compose arguments AffineTransformation  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#64"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00030] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00064] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method from arguments AffineTransform  affineTransform"
+ , "c3" : "QC-JAV000006[00070] For method from arguments AffineTransform  affineTransform"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method create arguments String  value"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00044] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00045] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.anim.AffineTransformation.create@POLYN167043 the MagicNumber/String  '|' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.anim.AffineTransformation.create@POLYN167043 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.anim.AffineTransformation.create@POLYN167043 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.anim.AffineTransformation.create@POLYN167043 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#57"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00057] For method createSimple arguments String  value"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN167896 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN167896 the MagicNumber/String  180.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN167896 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN167896 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN167896 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN167896 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN167896 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000006[00074] For method create arguments String  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN167896 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000001[00078] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#85"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN167896 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00079] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#92"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.anim.AffineTransformation.create@POLYN167247 the MagicNumber/String  '|' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.anim.AffineTransformation.create@POLYN167247 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#80"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.anim.AffineTransformation.create@POLYN167247 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.anim.AffineTransformation.create@POLYN167247 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#91"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00092] For method getAffineTransform arguments XDimension2D  dimension"
+ , "c3" : "QC-JAV000006[00091] For method createSimple arguments String  value"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#93"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.anim.AffineTransformation.getAffineTransform@POLYN170623 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN168100 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#96"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.anim.AffineTransformation.getAffineTransform@POLYN170623 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.anim.AffineTransformation.getAffineTransform@POLYN170623 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN168100 the MagicNumber/String  180.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.anim.AffineTransformation.getAffineTransform@POLYN170623 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN168100 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#99"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.anim.AffineTransformation.getAffineTransform@POLYN170623 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN168100 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#104"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN168100 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN168100 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#111"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN168100 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#112"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN168100 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.anim.AffineTransformation.createSimple@POLYN168100 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#126"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00104] For method setDimension arguments XDimension2D  dim"
+ , "c3" : "QC-JAV000006[00126] For method getAffineTransform arguments XDimension2D  dimension"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#109"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#127"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.anim.AffineTransformation.getAffineTransform@POLYN170827 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.anim.AffineTransformation.getAffineTransform@POLYN170827 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.anim.AffineTransformation.getAffineTransform@POLYN170827 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.anim.AffineTransformation.getAffineTransform@POLYN170827 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.anim.AffineTransformation.getAffineTransform@POLYN170827 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#138"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00109] For method getMinMax arguments XDimension2D  rect"
+ , "c3" : "QC-JAV000006[00138] For method setDimension arguments XDimension2D  dim"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#109"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#143"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00143] For method getMinMax arguments XDimension2D  rect"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#143"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00109] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00143] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#110"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.anim.AffineTransformation.getMinMax@POLYN171465 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.anim.AffineTransformation.getMinMax@POLYN171669 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#113"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.anim.AffineTransformation.getMinMax@POLYN171465 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.anim.AffineTransformation.getMinMax@POLYN171669 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#113"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.anim.AffineTransformation.getMinMax@POLYN171465 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.anim.AffineTransformation.getMinMax@POLYN171669 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#114"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.anim.AffineTransformation.getMinMax@POLYN171465 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.anim.AffineTransformation.getMinMax@POLYN171669 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#115"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.anim.AffineTransformation.getMinMax@POLYN171465 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.anim.AffineTransformation.getMinMax@POLYN171669 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#109"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/AffineTransformation.java.html#143"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00109] Public method getMinMax is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00143] Public method getMinMax is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

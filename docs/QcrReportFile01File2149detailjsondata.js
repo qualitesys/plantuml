@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.stats.StatsLineImpl" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.html#48"
  , "c1" : "StatsLineImpl"
  , "c2" : "StatsLineImpl(Map<StatsColumn,Object>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.html#52"
  , "c1" : "Object"
  , "c2" : "getValue(StatsColumn)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.html#56"
  , "c1" : "Collection<StatsColumn>"
  , "c2" : "getColumnHeaders()"
  , "c3" : "1"
@@ -86,10 +86,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.html#52"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method getValue arguments StatsColumn  column"
+ , "c3" : "QC-JAV000006[00052] For method getValue arguments StatsColumn  column"
 }} 
 ]
 , 

@@ -2,7 +2,7 @@
 !pragma layout smetana
 "SecurityAccessInterceptor" <|-- "net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor"
 class net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor {
-+apply(SecurityAuthentication;URLConnection) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#16]]]
--getAuth(SecurityAuthentication) : String [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#23]]]
++apply(SecurityAuthentication;URLConnection) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#61]]]
+-getAuth(SecurityAuthentication) : String [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#68]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.bpm.CleanerInterleavingLines" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#42"
  , "c1" : "boolean"
  , "c2" : "clean(Grid)"
  , "c3" : "4"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#59"
  , "c1" : "void"
  , "c2" : "mergeLines(Grid;Line;Line)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#70"
  , "c1" : "boolean"
  , "c2" : "mergeable(Grid;Line;Line)"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#51"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#85"
  , "c1" : "Placeable"
  , "c2" : "merge(Placeable;Placeable)"
  , "c3" : "6"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#76"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#110"
  , "c1" : "boolean"
  , "c2" : "mergeable(Placeable;Placeable)"
  , "c3" : "5"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#97"
+ , "c5" : "00131"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#131"
  , "c1" : "boolean"
  , "c2" : "mergeablePuzzleSingle(ConnectorPuzzleEmpty;BpmElement)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#107"
+ , "c5" : "00141"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#141"
  , "c1" : "boolean"
  , "c2" : "mergeablePuzzleSingle(BpmElement;ConnectorPuzzleEmpty)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00114"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#114"
+ , "c5" : "00148"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#148"
  , "c1" : "boolean"
  , "c2" : "mergeableCC(ConnectorPuzzleEmpty;ConnectorPuzzleEmpty)"
  , "c3" : "4"
@@ -152,395 +152,395 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#8"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#42"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00008] For method clean arguments Grid  grid"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#8"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00008] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#10"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.clean@POLYN161458 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#11"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.clean@POLYN161458 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#13"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.clean@POLYN161458 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#17"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.clean@POLYN161458 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#25"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method mergeLines arguments Grid  grid|Line  line1|Line  line2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#25"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00025] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00027] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00028] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeLines@POLYN162188 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#36"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method mergeable arguments Grid  grid|Line  line1|Line  line2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#36"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00036] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00041] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000006[00042] For method clean arguments Grid  grid"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00042] Avoid declaring class instance within loop, performance impact"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00042] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN162976 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.clean@POLYN161662 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN162976 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.clean@POLYN161662 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#48"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN162976 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.clean@POLYN161662 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.clean@POLYN161662 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method merge arguments Placeable  data1|Placeable  data2"
+ , "c3" : "QC-JAV000006[00059] For method mergeLines arguments Grid  grid|Line  line1|Line  line2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.merge@POLYN163699 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#59"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00059] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#55"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.merge@POLYN163699 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00061] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#58"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.merge@POLYN163699 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.merge@POLYN163699 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00062] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.merge@POLYN163699 the MagicNumber/String  'SW' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeLines@POLYN162392 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#70"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00070] For method mergeable arguments Grid  grid|Line  line1|Line  line2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#70"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00070] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00075] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#76"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method mergeable arguments Placeable  data1|Placeable  data2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN165012 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN165012 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00076] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN165012 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN163180 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#80"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN165012 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN163180 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#80"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN165012 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN163180 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN165012 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#97"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#85"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method mergeablePuzzleSingle arguments ConnectorPuzzleEmpty  data1|BpmElement  data2"
+ , "c3" : "QC-JAV000006[00085] For method merge arguments Placeable  data1|Placeable  data2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#97"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00097] The argument data1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.merge@POLYN163903 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.merge@POLYN163903 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#92"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.merge@POLYN163903 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#92"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.merge@POLYN163903 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeablePuzzleSingle@POLYN166217 the MagicNumber/String  'NS' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.merge@POLYN163903 the MagicNumber/String  'SW' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeablePuzzleSingle@POLYN166217 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeablePuzzleSingle@POLYN166217 the MagicNumber/String  'SW' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeablePuzzleSingle@POLYN166217 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeablePuzzleSingle@POLYN166217 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#107"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#110"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00107] For method mergeablePuzzleSingle arguments BpmElement  data1|ConnectorPuzzleEmpty  data2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#107"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00107] The argument data2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeablePuzzleSingle@POLYN166608 the MagicNumber/String  'NS' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#109"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeablePuzzleSingle@POLYN166608 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000006[00110] For method mergeable arguments Placeable  data1|Placeable  data2"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeablePuzzleSingle@POLYN166608 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN165216 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#111"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN165216 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#112"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN165216 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN165216 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN165216 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeable@POLYN165216 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#131"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00114] For method mergeableCC arguments ConnectorPuzzleEmpty  puz1|ConnectorPuzzleEmpty  puz2"
+ , "c3" : "QC-JAV000006[00131] For method mergeablePuzzleSingle arguments ConnectorPuzzleEmpty  data1|BpmElement  data2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#114"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#131"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00114] The argument puz1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00131] The argument data1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#114"
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#132"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeablePuzzleSingle@POLYN166421 the MagicNumber/String  'NS' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeablePuzzleSingle@POLYN166421 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeablePuzzleSingle@POLYN166421 the MagicNumber/String  'SW' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#136"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeablePuzzleSingle@POLYN166421 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#138"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeablePuzzleSingle@POLYN166421 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#141"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00141] For method mergeablePuzzleSingle arguments BpmElement  data1|ConnectorPuzzleEmpty  data2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#141"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00114] The argument puz2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00141] The argument data2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#115"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN166871 the MagicNumber/String  'NS' should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeablePuzzleSingle@POLYN166812 the MagicNumber/String  'NS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#115"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN166871 the MagicNumber/String  'NS' should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeablePuzzleSingle@POLYN166812 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#116"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN166871 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeablePuzzleSingle@POLYN166812 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN166871 the MagicNumber/String  'NS' should be converted to const"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#148"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00148] For method mergeableCC arguments ConnectorPuzzleEmpty  puz1|ConnectorPuzzleEmpty  puz2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN166871 the MagicNumber/String  'NE' should be converted to const"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#148"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00148] The argument puz1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN166871 the MagicNumber/String  true should be converted to const"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#148"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00148] The argument puz2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#121"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN166871 the MagicNumber/String  'NS' should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN167075 the MagicNumber/String  'NS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#121"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN166871 the MagicNumber/String  'NW' should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN167075 the MagicNumber/String  'NS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#122"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN166871 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN167075 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#124"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN166871 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN167075 the MagicNumber/String  'NS' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#152"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN167075 the MagicNumber/String  'NE' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN167075 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#155"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN167075 the MagicNumber/String  'NS' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#155"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN167075 the MagicNumber/String  'NW' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN167075 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerInterleavingLines.java.html#158"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.bpm.CleanerInterleavingLines.mergeableCC@POLYN167075 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

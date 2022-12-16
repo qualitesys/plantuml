@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.BodyFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#54"
  , "c1" : "Bodier"
  , "c2" : "createLeaf(LeafType;Set<VisibilityModifier>)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#61"
  , "c1" : "Bodier"
  , "c2" : "createGroup(Set<VisibilityModifier>)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#65"
  , "c1" : "TextBlock"
  , "c2" : "create1(HorizontalAlignment;List<CharSequence>;ISkinParam;Stereotype;ILeaf;Style)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#70"
  , "c1" : "TextBlock"
  , "c2" : "create2(HorizontalAlignment;Display;ISkinParam;Stereotype;ILeaf;Style)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#75"
  , "c1" : "TextBlock"
  , "c2" : "create3(Display;ISkinSimple;HorizontalAlignment;FontConfiguration;LineBreakStrategy;Style)"
  , "c3" : "1"
@@ -111,45 +111,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method createLeaf arguments LeafType  type|Set&lt;VisibilityModifier &gt;  hides"
+ , "c3" : "QC-JAV000006[00054] For method createLeaf arguments LeafType  type|Set&lt;VisibilityModifier &gt;  hides"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#54"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00054] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method createGroup arguments Set&lt;VisibilityModifier &gt;  hides"
+ , "c3" : "QC-JAV000006[00061] For method createGroup arguments Set&lt;VisibilityModifier &gt;  hides"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method create1 arguments HorizontalAlignment  align|List&lt;CharSequence &gt;  rawBody|ISkinParam  skinParam|Stereotype  stereotype|ILeaf  entity|Style  style"
+ , "c3" : "QC-JAV000006[00065] For method create1 arguments HorizontalAlignment  align|List&lt;CharSequence &gt;  rawBody|ISkinParam  skinParam|Stereotype  stereotype|ILeaf  entity|Style  style"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method create2 arguments HorizontalAlignment  align|Display  display|ISkinParam  skinParam|Stereotype  stereotype|ILeaf  entity|Style  style"
+ , "c3" : "QC-JAV000006[00070] For method create2 arguments HorizontalAlignment  align|Display  display|ISkinParam  skinParam|Stereotype  stereotype|ILeaf  entity|Style  style"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#41"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#75"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method create3 arguments Display  rawBody|ISkinSimple  skinParam|HorizontalAlignment  align|FontConfiguration  titleConfig|LineBreakStrategy  lineBreakStrategy|Style  style"
+ , "c3" : "QC-JAV000006[00075] For method create3 arguments Display  rawBody|ISkinSimple  skinParam|HorizontalAlignment  align|FontConfiguration  titleConfig|LineBreakStrategy  lineBreakStrategy|Style  style"
 }} 
 ]
 , 

@@ -2,13 +2,13 @@
 !pragma layout smetana
 "Graphviz" <|-- "net.sourceforge.plantuml.vizjs.GraphvizJs"
 class net.sourceforge.plantuml.vizjs.GraphvizJs {
-+GraphvizJs(String) : GraphvizJs [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#52]]]
-+createFile3(OutputStream) : ProcessState [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#56]]]
--submitJob() : Future<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#67]]]
-+getDotExe() : File [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#77]]]
-+dotVersion() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#81]]]
-+getExeState() : ExeState [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#85]]]
-+getGraphvizVersion(boolean) : GraphvizVersion [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#89]]]
-+graphviz244onWindows() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#113]]]
++GraphvizJs(String) : GraphvizJs [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#86]]]
++createFile3(OutputStream) : ProcessState [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#90]]]
+-submitJob() : Future<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#101]]]
++getDotExe() : File [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#111]]]
++dotVersion() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#115]]]
++getExeState() : ExeState [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#119]]]
++getGraphvizVersion(boolean) : GraphvizVersion [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#123]]]
++graphviz244onWindows() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#147]]]
 } 
 @enduml

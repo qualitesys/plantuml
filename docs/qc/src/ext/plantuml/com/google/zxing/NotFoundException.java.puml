@@ -2,7 +2,7 @@
 !pragma layout smetana
 "ReaderException" <|-- "ext.plantuml.com.google.zxing.NotFoundException"
 class ext.plantuml.com.google.zxing.NotFoundException {
--NotFoundException() : NotFoundException [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/NotFoundException.java.html#10]]]
-+getNotFoundInstance() : NotFoundException [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/NotFoundException.java.html#14]]]
+-NotFoundException() : NotFoundException [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/NotFoundException.java.html#29]]]
++getNotFoundInstance() : NotFoundException [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/NotFoundException.java.html#33]]]
 } 
 @enduml

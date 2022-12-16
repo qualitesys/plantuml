@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#60"
  , "c1" : "ProcessRunner"
  , "c2" : "ProcessRunner(String[])"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#64"
  , "c1" : "ProcessState"
  , "c2" : "run(byte[];OutputStream)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#68"
  , "c1" : "ProcessState"
  , "c2" : "run(byte[];OutputStream;SFile)"
  , "c3" : "4"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00225"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#225"
+ , "c5" : "00259"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#259"
  , "c1" : "String"
  , "c2" : "getError()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00229"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#229"
+ , "c5" : "00263"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#263"
  , "c1" : "String"
  , "c2" : "getOut()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00233"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#233"
+ , "c5" : "00267"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#267"
  , "c1" : "void"
  , "c2" : "close(InputStream)"
  , "c3" : "2"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00243"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#243"
+ , "c5" : "00277"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#277"
  , "c1" : "void"
  , "c2" : "close(OutputStream)"
  , "c3" : "2"
@@ -150,199 +150,199 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method run arguments byte[]  in|OutputStream  redirection"
+ , "c3" : "QC-JAV000006[00064] For method run arguments byte[]  in|OutputStream  redirection"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.run@POLYN176347 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.run@POLYN176551 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method run arguments byte[]  in|OutputStream  redirection|SFile  dir"
+ , "c3" : "QC-JAV000006[00068] For method run arguments byte[]  in|OutputStream  redirection|SFile  dir"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#56"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.run@POLYN176563 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.run@POLYN176767 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#103"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.MainThread.runJob@POLYN179057 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.MainThread.runJob@POLYN179261 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#117"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.MainThread.cancelJob@POLYN180075 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.MainThread.cancelJob@POLYN180279 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#140"
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE392[00140] Failure to report error in status code (see http://cwe.mitre.org/data/definitions/392.html)"
+ , "c3" : "QC-JAVCWE392[00174] Failure to report error in status code (see http://cwe.mitre.org/data/definitions/392.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#130"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.MainThread.startThreads@POLYN180597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.MainThread.startThreads@POLYN180801 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#130"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.MainThread.startThreads@POLYN180597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.MainThread.startThreads@POLYN180801 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#130"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.MainThread.startThreads@POLYN180597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.MainThread.startThreads@POLYN180801 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#142"
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.MainThread.startThreads@POLYN180597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.MainThread.startThreads@POLYN180801 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#146"
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.MainThread.startThreads@POLYN180597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.MainThread.startThreads@POLYN180801 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#187"
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.getString@POLYN183125 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.getString@POLYN183329 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00188"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#188"
+ , "c1" : "00222"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.getString@POLYN183125 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.getString@POLYN183329 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#196"
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#230"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.cancel@POLYN183334 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.cancel@POLYN183538 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00197"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#197"
+ , "c1" : "00231"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#231"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.cancel@POLYN183334 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.cancel@POLYN183538 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#198"
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.cancel@POLYN183334 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.cancel@POLYN183538 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#206"
+ , "c1" : "00240"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00206] Assigning instead of comparing on read=streamToRead.read() (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAVCWE481[00240] Assigning instead of comparing on read=streamToRead.read() (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00204"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#204"
+ , "c1" : "00238"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.run@POLYN183802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.run@POLYN184006 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#206"
+ , "c1" : "00240"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.run@POLYN183802 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.run@POLYN184006 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00210"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#210"
+ , "c1" : "00244"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.run@POLYN183802 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.run@POLYN184006 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00217"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#217"
+ , "c1" : "00251"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#251"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.run@POLYN183802 the MagicNumber/String  'ProcessRunnerA ' should be converted to const"
+ , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.run@POLYN184006 the MagicNumber/String  'ProcessRunnerA ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00219"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#219"
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.run@POLYN183802 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.ThreadStream.run@POLYN184006 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#233"
+ , "c1" : "00267"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#267"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00233] For method close arguments InputStream  is"
+ , "c3" : "QC-JAV000006[00267] For method close arguments InputStream  is"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00235"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#235"
+ , "c1" : "00269"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#269"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.close@POLYN185021 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.close@POLYN185225 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00243"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#243"
+ , "c1" : "00277"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#277"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00243] For method close arguments OutputStream  os"
+ , "c3" : "QC-JAV000006[00277] For method close arguments OutputStream  os"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00245"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#245"
+ , "c1" : "00279"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#279"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.close@POLYN185351 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner.close@POLYN185555 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html#64"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00030] Public method run is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00064] Public method run is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

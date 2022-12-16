@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.version.PSystemVersionFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#16"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#49"
  , "c1" : "AbstractPSystem"
  , "c2" : "executeLine(UmlSource;String)"
  , "c3" : "10"
@@ -82,122 +82,122 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#16"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method executeLine arguments UmlSource  source|String  line"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#16"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00016] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN152978 the MagicNumber/String  '(?i)^(authors?|about)\\s*$' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN152978 the MagicNumber/String  '(?i)^version\\s*$' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN152978 the MagicNumber/String  '(?i)^stdlib\\s*$' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN152978 the MagicNumber/String  '(?i)^testdot\\s*$' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN152978 the MagicNumber/String  '(?i)^keydistributor\\s*$' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN152978 the MagicNumber/String  '(?i)^keygen\\s*$' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN152978 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN152978 the MagicNumber/String  '(?i)^keyimport(\\s+[0-9a-z]+)?\\s*$' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN152978 the MagicNumber/String  'keyimport' should be converted to const"
+ , "c3" : "QC-JAV000006[00049] For method executeLine arguments UmlSource  source|String  line"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN152978 the MagicNumber/String  '(?i)^keycheck\\s+([0-9a-z]+)\\s+([0-9a-z]+)\\s*$' should be converted to const"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00049] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#50"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN152978 the MagicNumber/String  '(?i)^keycheck\\s+([0-9a-z]+)\\s+([0-9a-z]+)\\s*$' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN153176 the MagicNumber/String  '(?i)^(authors?|about)\\s*$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#53"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN152978 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN152978 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN153176 the MagicNumber/String  '(?i)^version\\s*$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN152978 the MagicNumber/String  'Error ' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN153176 the MagicNumber/String  '(?i)^stdlib\\s*$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#60"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN152978 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN153176 the MagicNumber/String  '(?i)^testdot\\s*$' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN153176 the MagicNumber/String  '(?i)^keydistributor\\s*$' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#73"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN153176 the MagicNumber/String  '(?i)^keygen\\s*$' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN153176 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#77"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN153176 the MagicNumber/String  '(?i)^keyimport(\\s+[0-9a-z]+)?\\s*$' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#79"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN153176 the MagicNumber/String  'keyimport' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN153176 the MagicNumber/String  '(?i)^keycheck\\s+([0-9a-z]+)\\s+([0-9a-z]+)\\s*$' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#83"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN153176 the MagicNumber/String  '(?i)^keycheck\\s+([0-9a-z]+)\\s+([0-9a-z]+)\\s*$' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN153176 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN153176 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN153176 the MagicNumber/String  'Error ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersionFactory.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.version.PSystemVersionFactory.executeLine@POLYN153176 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

@@ -2,11 +2,11 @@
 !pragma layout smetana
 "SingleMultiFactoryCommand<WithSprite>" <|-- "net.sourceforge.plantuml.command.CommandFactorySprite"
 class net.sourceforge.plantuml.command.CommandFactorySprite {
--getRegexConcatMultiLine() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandFactorySprite.java.html#22]]]
--getRegexConcatSingleLine() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandFactorySprite.java.html#34]]]
-+createSingleLine() : Command<WithSprite> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandFactorySprite.java.html#46]]]
-+createMultiLine(boolean) : Command<WithSprite> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandFactorySprite.java.html#58]]]
--executeInternal(WithSprite;RegexResult;List<String>) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandFactorySprite.java.html#81]]]
--concat(List<String>) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandFactorySprite.java.html#110]]]
+-getRegexConcatMultiLine() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandFactorySprite.java.html#56]]]
+-getRegexConcatSingleLine() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandFactorySprite.java.html#68]]]
++createSingleLine() : Command<WithSprite> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandFactorySprite.java.html#80]]]
++createMultiLine(boolean) : Command<WithSprite> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandFactorySprite.java.html#92]]]
+-executeInternal(WithSprite;RegexResult;List<String>) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandFactorySprite.java.html#115]]]
+-concat(List<String>) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandFactorySprite.java.html#144]]]
 } 
 @enduml

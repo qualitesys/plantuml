@@ -2,15 +2,15 @@
 !pragma layout smetana
 "Comparable<Slot>" <|-- "net.sourceforge.plantuml.ugraphic.comp.Slot"
 class net.sourceforge.plantuml.ugraphic.comp.Slot {
-+Slot(double;double) : Slot [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#9]]]
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#18]]]
-+getStart() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#22]]]
-+getEnd() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#26]]]
-+size() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#30]]]
-+contains(double) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#34]]]
-+intersect(Slot) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#38]]]
-+merge(Slot) : Slot [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#42]]]
-+intersect(double;double) : Slot [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#46]]]
-+compareTo(Slot) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#56]]]
++Slot(double;double) : Slot [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#43]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#52]]]
++getStart() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#56]]]
++getEnd() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#60]]]
++size() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#64]]]
++contains(double) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#68]]]
++intersect(Slot) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#72]]]
++merge(Slot) : Slot [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#76]]]
++intersect(double;double) : Slot [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#80]]]
++compareTo(Slot) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/Slot.java.html#90]]]
 } 
 @enduml

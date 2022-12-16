@@ -2,17 +2,17 @@
 !pragma layout smetana
 "AbstractTile" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.LifeEventTile"
 class net.sourceforge.plantuml.sequencediagram.teoz.LifeEventTile {
-callbackY_internal(TimeHook) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#30]]]
-+getEvent() : Event [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#37]]]
-+getContactPointRelative() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#42]]]
-+LifeEventTile(LifeEvent;TileArguments;LivingSpace;Rose;ISkinParam;YGauge) : LifeEventTile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#46]]]
-+getYGauge() : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#58]]]
--getStyleSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#62]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#66]]]
-+isDestroyWithoutMessage() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#79]]]
-+getPreferredHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#83]]]
-+addConstraints() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#95]]]
-+getMinX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#98]]]
-+getMaxX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#103]]]
+callbackY_internal(TimeHook) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#64]]]
++getEvent() : Event [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#71]]]
++getContactPointRelative() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#76]]]
++LifeEventTile(LifeEvent;TileArguments;LivingSpace;Rose;ISkinParam;YGauge) : LifeEventTile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#80]]]
++getYGauge() : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#92]]]
+-getStyleSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#96]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#100]]]
++isDestroyWithoutMessage() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#113]]]
++getPreferredHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#117]]]
++addConstraints() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#129]]]
++getMinX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#132]]]
++getMaxX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LifeEventTile.java.html#137]]]
 } 
 @enduml

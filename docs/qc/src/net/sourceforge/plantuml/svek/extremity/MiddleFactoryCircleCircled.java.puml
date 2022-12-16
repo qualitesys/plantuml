@@ -2,7 +2,7 @@
 !pragma layout smetana
 "MiddleFactory" <|-- "net.sourceforge.plantuml.svek.extremity.MiddleFactoryCircleCircled"
 class net.sourceforge.plantuml.svek.extremity.MiddleFactoryCircleCircled {
-+MiddleFactoryCircleCircled(MiddleCircleCircledMode;HColor;HColor) : MiddleFactoryCircleCircled [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.html#13]]]
-+createUDrawable(double) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.html#19]]]
++MiddleFactoryCircleCircled(MiddleCircleCircledMode;HColor;HColor) : MiddleFactoryCircleCircled [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.html#47]]]
++createUDrawable(double) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircleCircled.java.html#53]]]
 } 
 @enduml

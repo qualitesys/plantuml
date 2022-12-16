@@ -2,13 +2,13 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.dedication.QBlock"
 class net.sourceforge.plantuml.dedication.QBlock {
-+read(InputStream;int) : QBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html#13]]]
-+fromBuffer(byte[]) : QBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html#28]]]
-+QBlock(BigInteger) : QBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html#35]]]
-+change(BigInteger;BigInteger) : QBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html#39]]]
-+getData512() : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html#44]]]
-+getDataRaw() : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html#58]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html#63]]]
-+write(OutputStream;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html#67]]]
++read(InputStream;int) : QBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html#47]]]
++fromBuffer(byte[]) : QBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html#62]]]
++QBlock(BigInteger) : QBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html#69]]]
++change(BigInteger;BigInteger) : QBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html#73]]]
++getData512() : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html#78]]]
++getDataRaw() : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html#92]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html#97]]]
++write(OutputStream;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html#101]]]
 } 
 @enduml

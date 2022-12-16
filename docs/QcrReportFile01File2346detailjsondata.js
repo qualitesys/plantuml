@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.svek.image.EntityImageUseCase" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#86"
  , "c1" : "EntityImageUseCase"
  , "c2" : "EntityImageUseCase(ILeaf;ISkinParam;PortionShower)"
  , "c3" : "5"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00080"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#80"
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#114"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#84"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#118"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "4"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00118"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#118"
+ , "c5" : "00152"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#152"
  , "c1" : "void"
  , "c2" : "specialBusiness(UGraphic;UEllipse)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00130"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#130"
+ , "c5" : "00164"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#164"
  , "c1" : "void"
  , "c2" : "specialBusiness0(UGraphic;UEllipse)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00138"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#138"
+ , "c5" : "00172"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#172"
  , "c1" : "void"
  , "c2" : "drawLine(UGraphic;XPoint2D;XPoint2D)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00143"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#143"
+ , "c5" : "00177"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#177"
  , "c1" : "double"
  , "c2" : "getTrueAngle(double;double)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00147"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#147"
+ , "c5" : "00181"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#181"
  , "c1" : "HColor"
  , "c2" : "getBackColor()"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00158"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#158"
+ , "c5" : "00192"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#192"
  , "c1" : "Style"
  , "c2" : "getStyle()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00162"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#162"
+ , "c5" : "00196"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#196"
  , "c1" : "StyleSignature"
  , "c2" : "getDefaultStyleDefinition()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00167"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#167"
+ , "c5" : "00201"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#201"
  , "c1" : "HColor"
  , "c2" : "getLineColor()"
  , "c3" : "2"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00176"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#176"
+ , "c5" : "00210"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#210"
  , "c1" : "ShapeType"
  , "c2" : "getShapeType()"
  , "c3" : "1"
@@ -181,318 +181,318 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#52"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#86"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00086] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#52"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#86"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument portionShower is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00086] The argument portionShower is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#62"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.EntityImageUseCase@POLYN190014 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.EntityImageUseCase@POLYN190218 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#62"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.EntityImageUseCase@POLYN190014 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.EntityImageUseCase@POLYN190218 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#63"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.EntityImageUseCase@POLYN190014 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.EntityImageUseCase@POLYN190014 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#80"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method calculateDimension arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#84"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00084] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#84"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00084] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN192278 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.EntityImageUseCase@POLYN190218 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN192278 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.EntityImageUseCase@POLYN190218 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN192278 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN192278 the MagicNumber/String  'elem ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN192278 the MagicNumber/String  ' selected' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN192278 the MagicNumber/String  'elem_' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN192278 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#114"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00114] For method calculateDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#118"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00118] For method specialBusiness arguments UGraphic  ug|UEllipse  frontier"
+ , "c3" : "QC-JAV000006[00118] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#118"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00118] The argument frontier is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00118] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#119"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness@POLYN194652 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN192482 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#121"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness@POLYN194652 the MagicNumber/String  20.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN192482 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#121"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness@POLYN194652 the MagicNumber/String  180 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness@POLYN194652 the MagicNumber/String  0.99 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#130"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00130] For method specialBusiness0 arguments UGraphic  ug|UEllipse  frontier"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#130"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00130] The argument frontier is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness0@POLYN195531 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness0@POLYN195531 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#134"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness0@POLYN195531 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN192482 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#138"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00138] For method drawLine arguments UGraphic  ug|XPoint2D  p1|XPoint2D  p2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#138"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00138] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#138"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00138] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#138"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00138] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#143"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00143] For method getTrueAngle arguments double  c|double  gamma"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.getBackColor@POLYN197165 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN192482 the MagicNumber/String  'elem ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#169"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.getLineColor@POLYN198328 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN192482 the MagicNumber/String  ' selected' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#187"
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#139"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN192482 the MagicNumber/String  'elem_' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#147"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN192482 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#152"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00187] For method copy arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00152] For method specialBusiness arguments UGraphic  ug|UEllipse  frontier"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#198"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00198] For method getNormalized arguments double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00209"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#209"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00209] For method getStartingXInternal arguments double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#213"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00213] For method getEndingXInternal arguments double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00217"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#217"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00217] For method getStencil2 arguments UTranslate  translate"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00217"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#217"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#152"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00217] The argument translate is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00152] The argument frontier is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness@POLYN194856 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#155"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness@POLYN194856 the MagicNumber/String  20.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#155"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness@POLYN194856 the MagicNumber/String  180 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#158"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness@POLYN194856 the MagicNumber/String  0.99 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#164"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00164] For method specialBusiness0 arguments UGraphic  ug|UEllipse  frontier"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#164"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00164] The argument frontier is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#166"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness0@POLYN195735 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness0@POLYN195735 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness0@POLYN195735 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#172"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00172] For method drawLine arguments UGraphic  ug|XPoint2D  p1|XPoint2D  p2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#172"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00172] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#172"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00172] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#172"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00172] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#177"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00177] For method getTrueAngle arguments double  c|double  gamma"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#183"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.getBackColor@POLYN197369 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.getLineColor@POLYN198532 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#221"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00221] For method copy arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00232"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#232"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00232] For method drawHline arguments UGraphic  ug|UHorizontalLine  line|UTranslate  translate"
+ , "c3" : "QC-JAV000006[00232] For method getNormalized arguments double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00232"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#232"
+ , "c1" : "00243"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#243"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00243] For method getStartingXInternal arguments double  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00247"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#247"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00247] For method getEndingXInternal arguments double  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00251"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#251"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00251] For method getStencil2 arguments UTranslate  translate"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00251"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#251"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00232] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00251] The argument translate is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00232"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#232"
+ , "c1" : "00266"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#266"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00266] For method drawHline arguments UGraphic  ug|UHorizontalLine  line|UTranslate  translate"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00266"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#266"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00232] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00266] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#233"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.MyUGraphicEllipse.drawHline@POLYN201165 the MagicNumber/String  1.5 should be converted to const"
+ , "c1" : "00266"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#266"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00266] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00234"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#234"
+ , "c1" : "00267"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#267"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.MyUGraphicEllipse.drawHline@POLYN201165 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.MyUGraphicEllipse.drawHline@POLYN201369 the MagicNumber/String  1.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00268"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#268"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.MyUGraphicEllipse.drawHline@POLYN201369 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

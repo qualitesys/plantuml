@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.graphic.StringBounder"
 class net.sourceforge.plantuml.graphic.StringBounder {
-+calculateDimension(UFont;String) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/StringBounder.java.html#9]]]
-+getDescent(UFont;String) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/StringBounder.java.html#11]]]
++calculateDimension(UFont;String) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/StringBounder.java.html#43]]]
++getDescent(UFont;String) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/StringBounder.java.html#45]]]
 } 
 @enduml

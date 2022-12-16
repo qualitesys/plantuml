@@ -2,7 +2,7 @@
 !pragma layout smetana
 "AbstractConnection" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.ConnectionCross"
 class net.sourceforge.plantuml.activitydiagram3.ftile.ConnectionCross {
-+ConnectionCross(Connection) : ConnectionCross [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionCross.java.html#10]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionCross.java.html#15]]]
++ConnectionCross(Connection) : ConnectionCross [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionCross.java.html#44]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionCross.java.html#49]]]
 } 
 @enduml

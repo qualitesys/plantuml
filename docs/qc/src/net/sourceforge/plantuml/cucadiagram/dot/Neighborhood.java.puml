@@ -2,13 +2,13 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.dot.Neighborhood"
 class net.sourceforge.plantuml.cucadiagram.dot.Neighborhood {
-+Neighborhood(ILeaf;List<Link>;List<Link>) : Neighborhood [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#27]]]
-+drawU(UGraphic;double;double;Bibliotekon;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#34]]]
--drawExtends(UGraphic;XPoint2D;double) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#75]]]
-intersection(XRectangle2D;XPoint2D;XPoint2D) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#88]]]
--intersection(XPoint2D;XPoint2D;XPoint2D;XPoint2D) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#113]]]
--intersection(double;double;double;double;double;double;double;double) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#122]]]
--drawLine(UGraphic;XPoint2D;XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#147]]]
--drawLine(UGraphic;double;double;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#151]]]
++Neighborhood(ILeaf;List<Link>;List<Link>) : Neighborhood [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#61]]]
++drawU(UGraphic;double;double;Bibliotekon;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#68]]]
+-drawExtends(UGraphic;XPoint2D;double) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#109]]]
+intersection(XRectangle2D;XPoint2D;XPoint2D) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#122]]]
+-intersection(XPoint2D;XPoint2D;XPoint2D;XPoint2D) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#147]]]
+-intersection(double;double;double;double;double;double;double;double) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#156]]]
+-drawLine(UGraphic;XPoint2D;XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#181]]]
+-drawLine(UGraphic;double;double;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#185]]]
 } 
 @enduml

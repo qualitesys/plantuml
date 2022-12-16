@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.bpm.Grid" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#56"
  , "c1" : "Grid"
  , "c2" : "Grid()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#63"
  , "c1" : "Grid"
  , "c2" : "Grid(Grid)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#70"
  , "c1" : "Grid"
  , "c2" : "cloneMe()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#74"
  , "c1" : "Cell"
  , "c2" : "getCell(Coord)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#78"
  , "c1" : "Cell"
  , "c2" : "getCell(Line;Col)"
  , "c3" : "4"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00116"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#116"
+ , "c5" : "00150"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#150"
  , "c1" : "Coord"
  , "c2" : "getById(String)"
  , "c3" : "4"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00129"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#129"
+ , "c5" : "00163"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#163"
  , "c1" : "Coord"
  , "c2" : "getRoot()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00133"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#133"
+ , "c5" : "00167"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#167"
  , "c1" : "Chain<Line>"
  , "c2" : "lines()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00137"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#137"
+ , "c5" : "00171"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#171"
  , "c1" : "Chain<Col>"
  , "c2" : "cols()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00141"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#141"
+ , "c5" : "00175"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#175"
  , "c1" : "Coord"
  , "c2" : "getCoord(Cell)"
  , "c3" : "3"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00150"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#150"
+ , "c5" : "00184"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#184"
  , "c1" : "Coord"
  , "c2" : "getCoord(Placeable)"
  , "c3" : "3"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00159"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#159"
+ , "c5" : "00193"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#193"
  , "c1" : "Navigator<Line>"
  , "c2" : "linesOf(Coord)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00163"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#163"
+ , "c5" : "00197"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#197"
  , "c1" : "Navigator<Col>"
  , "c2" : "colsOf(Coord)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00167"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#167"
+ , "c5" : "00201"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#201"
  , "c1" : "Navigator<Line>"
  , "c2" : "linesOf(Cell)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00171"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#171"
+ , "c5" : "00205"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#205"
  , "c1" : "Navigator<Col>"
  , "c2" : "colsOf(Cell)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00175"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#175"
+ , "c5" : "00209"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#209"
  , "c1" : "GridArray"
  , "c2" : "toArray(ISkinParam)"
  , "c3" : "4"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00222"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#222"
+ , "c5" : "00256"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#256"
  , "c1" : "Set<Col>"
  , "c2" : "usedColsOf(Line)"
  , "c3" : "4"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00236"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#236"
+ , "c5" : "00270"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#270"
  , "c1" : "void"
  , "c2" : "removeLine(Line)"
  , "c3" : "6"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00271"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#271"
+ , "c5" : "00305"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#305"
  , "c1" : "void"
  , "c2" : "addConnections()"
  , "c3" : "5"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00296"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#296"
+ , "c5" : "00330"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#330"
  , "c1" : "void"
  , "c2" : "drawStartVertical(Coord;Coord)"
  , "c3" : "13"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00340"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#340"
+ , "c5" : "00374"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#374"
  , "c1" : "void"
  , "c2" : "drawStartHorizontal(Coord;Coord)"
  , "c3" : "13"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00383"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#383"
+ , "c5" : "00417"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#417"
  , "c1" : "void"
  , "c2" : "addPuzzle(Line;Col;String)"
  , "c3" : "2"
@@ -285,325 +285,255 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#63"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#40"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method getCell arguments Coord  coord"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#40"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00040] The argument coord is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#44"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method getCell arguments Line  line|Col  col"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.bpm.Grid.getCell@POLYN204851 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.bpm.Grid.getCell@POLYN204851 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.bpm.Grid.getCell@POLYN204851 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAVCWE476[00063] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00074] For method getById arguments String  id"
+ , "c3" : "QC-JAV000006[00074] For method getCell arguments Coord  coord"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#116"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#74"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00116] The argument id is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00074] The argument coord is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00118] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.bpm.Grid.getById@POLYN205774 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.bpm.Grid.getById@POLYN205774 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#126"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.bpm.Grid.getById@POLYN205774 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#141"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00141] For method getCoord arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00078] For method getCell arguments Line  line|Col  col"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#79"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.bpm.Grid.getCell@POLYN205055 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.bpm.Grid.getCell@POLYN205055 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#87"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.bpm.Grid.getCell@POLYN205055 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#108"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00108] For method getById arguments String  id"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#150"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00150] For method getCoord arguments Placeable  placeable"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#159"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00159] For method linesOf arguments Coord  coord"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#159"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00159] The argument coord is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00150] The argument id is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#163"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00163] For method colsOf arguments Coord  coord"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#152"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00152] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#163"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00163] The argument coord is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.bpm.Grid.getById@POLYN205978 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#167"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00167] For method linesOf arguments Cell  cell"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.bpm.Grid.getById@POLYN205978 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00171"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#171"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00171] For method colsOf arguments Cell  cell"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.bpm.Grid.getById@POLYN205978 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#175"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00175] For method toArray arguments ISkinParam  skinParam"
+ , "c3" : "QC-JAV000006[00175] For method getCoord arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00182"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#182"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.bpm.Grid.toArray@POLYN208401 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#183"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.bpm.Grid.toArray@POLYN208401 the MagicNumber/String  'col=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#185"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.bpm.Grid.toArray@POLYN208401 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00186"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#186"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.bpm.Grid.toArray@POLYN208401 the MagicNumber/String  'line=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#194"
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#184"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00194] For method usedColsOf arguments Line  line"
+ , "c3" : "QC-JAV000006[00184] For method getCoord arguments Placeable  placeable"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#225"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00225] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#226"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.bpm.Grid.usedColsOf@POLYN209949 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#226"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.bpm.Grid.usedColsOf@POLYN209949 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00236"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#236"
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#193"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00236] For method removeLine arguments Line  line"
+ , "c3" : "QC-JAV000006[00193] For method linesOf arguments Coord  coord"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00239"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#239"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00239] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00243"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#243"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00243] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#244"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.bpm.Grid.removeLine@POLYN210801 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#244"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.bpm.Grid.removeLine@POLYN210801 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00252"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#252"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.bpm.Grid.removeLine@POLYN210801 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00281"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#281"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00281] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00282"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#282"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00282] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00284"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#284"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00284] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00284"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#284"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00284] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#283"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.bpm.Grid.addConnections@POLYN212012 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00285"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#285"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00285] In method net.sourceforge.plantuml.bpm.Grid.addConnections@POLYN212012 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00296"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#296"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00296] For method drawStartVertical arguments Coord  src|Coord  dest"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00296"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#296"
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#193"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00296] The argument src is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00193] The argument coord is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00296"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#296"
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#197"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00197] For method colsOf arguments Coord  coord"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#197"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00296] The argument dest is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00197] The argument coord is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00309"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#309"
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#201"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00201] For method linesOf arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#205"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00205] For method colsOf arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#209"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00209] For method toArray arguments ISkinParam  skinParam"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00309] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.bpm.Grid.toArray@POLYN208605 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#217"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.bpm.Grid.toArray@POLYN208605 the MagicNumber/String  'col=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#219"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.bpm.Grid.toArray@POLYN208605 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00220"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#220"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.bpm.Grid.toArray@POLYN208605 the MagicNumber/String  'line=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#228"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00228] For method usedColsOf arguments Line  line"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#259"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00259] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#260"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.bpm.Grid.usedColsOf@POLYN210153 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#260"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.bpm.Grid.usedColsOf@POLYN210153 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#270"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00270] For method removeLine arguments Line  line"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00273"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#273"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00273] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00277"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#277"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00277] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00278"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#278"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.bpm.Grid.removeLine@POLYN211005 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00278"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#278"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.bpm.Grid.removeLine@POLYN211005 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00286"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#286"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.bpm.Grid.removeLine@POLYN211005 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -614,276 +544,346 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00302"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#302"
+ , "c1" : "00316"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#316"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213083 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00316] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00305"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#305"
+ , "c1" : "00318"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#318"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00305] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213083 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00318] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00311"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#311"
+ , "c1" : "00318"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#318"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00311] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213083 the MagicNumber/String  'NS' should be converted to const"
+ , "c3" : "QC-JAV000001[00318] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00317"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#317"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213083 the MagicNumber/String  'EW' should be converted to const"
+ , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.bpm.Grid.addConnections@POLYN212216 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00322"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#322"
+ , "c1" : "00319"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#319"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00322] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213083 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00325"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#325"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00325] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213083 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00326"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#326"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00326] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213083 the MagicNumber/String  'N' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00328"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#328"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00328] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213083 the MagicNumber/String  'S' should be converted to const"
+ , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.bpm.Grid.addConnections@POLYN212216 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00330"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#330"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00330] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213083 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00331"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#331"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00331] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213083 the MagicNumber/String  'E' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00333"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#333"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213083 the MagicNumber/String  'W' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00335"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#335"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00335] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213083 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00340"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#340"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00340] For method drawStartHorizontal arguments Coord  src|Coord  dest"
+ , "c3" : "QC-JAV000006[00330] For method drawStartVertical arguments Coord  src|Coord  dest"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00340"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#340"
+ , "c1" : "00330"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#330"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00340] The argument src is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00330] The argument src is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00340"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#340"
+ , "c1" : "00330"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#330"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00340] The argument dest is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00330] The argument dest is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00352"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#352"
+ , "c1" : "00343"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#343"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00352] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00359"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#359"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00359] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00346"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#346"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00346] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217120 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00343] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00349"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#349"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00349] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217120 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00349] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00354"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#354"
+ , "c1" : "00336"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#336"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00354] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217120 the MagicNumber/String  'EW' should be converted to const"
+ , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213287 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00361"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#361"
+ , "c1" : "00339"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#339"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00361] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217120 the MagicNumber/String  'NS' should be converted to const"
+ , "c3" : "QC-JAV000010[00339] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213287 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00366"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#366"
+ , "c1" : "00345"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#345"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00366] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217120 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00345] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213287 the MagicNumber/String  'NS' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00351"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#351"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00351] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213287 the MagicNumber/String  'EW' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00356"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#356"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00356] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213287 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00359"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#359"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00359] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213287 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00360"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#360"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00360] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213287 the MagicNumber/String  'N' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00362"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#362"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00362] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213287 the MagicNumber/String  'S' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00364"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#364"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00364] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213287 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00365"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#365"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00365] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213287 the MagicNumber/String  'E' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00367"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#367"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00367] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213287 the MagicNumber/String  'W' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00369"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#369"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217120 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00370"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#370"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00370] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217120 the MagicNumber/String  'W' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00372"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#372"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00372] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217120 the MagicNumber/String  'E' should be converted to const"
+ , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN213287 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00374"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#374"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00374] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217120 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00375"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#375"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00375] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217120 the MagicNumber/String  'S' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00377"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#377"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00377] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217120 the MagicNumber/String  'N' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00379"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#379"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00379] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217120 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00383"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#383"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00383] For method addPuzzle arguments Line  line|Col  col|String  direction"
+ , "c3" : "QC-JAV000006[00374] For method drawStartHorizontal arguments Coord  src|Coord  dest"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00374"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#374"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00374] The argument src is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00374"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#374"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00374] The argument dest is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00386"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#386"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00386] In method net.sourceforge.plantuml.bpm.Grid.addPuzzle@POLYN221157 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00386] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#36"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00036] Public method cloneMe is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00393"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#393"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00393] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#40"
+ , "c1" : "00380"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#380"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00380] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217324 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00383"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#383"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00383] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217324 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00388"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#388"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00388] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217324 the MagicNumber/String  'EW' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00395"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#395"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00395] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217324 the MagicNumber/String  'NS' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00400"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#400"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00400] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217324 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00403"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#403"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00403] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217324 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00404"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#404"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00404] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217324 the MagicNumber/String  'W' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00406"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#406"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00406] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217324 the MagicNumber/String  'E' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00408"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#408"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00408] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217324 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00409"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#409"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00409] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217324 the MagicNumber/String  'S' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00411"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#411"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00411] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217324 the MagicNumber/String  'N' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00413"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#413"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00413] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN217324 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00417"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#417"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00417] For method addPuzzle arguments Line  line|Col  col|String  direction"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00420"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#420"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00420] In method net.sourceforge.plantuml.bpm.Grid.addPuzzle@POLYN221361 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#70"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00040] Public method getCell is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00070] Public method cloneMe is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#74"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00074] Public method getById is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00074] Public method getCell is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#141"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#108"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00141] Public method getCoord is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00108] Public method getById is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#167"
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#175"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00167] Public method linesOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00175] Public method getCoord is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00171"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#171"
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#201"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00171] Public method colsOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00201] Public method linesOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#194"
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#205"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00194] Public method usedColsOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00205] Public method colsOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00257"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#257"
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#228"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00257] Public method addConnections is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00228] Public method usedColsOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00291"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#291"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00291] Public method addConnections is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.stats.TextTable"
 class net.sourceforge.plantuml.stats.TextTable {
-+addLine(Object...) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#109]]]
-+addSeparator() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#114]]]
--getColsWidth() : int[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#118]]]
--getNbCols() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#128]]]
-+printMe(PrintStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#136]]]
-+getLines() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#145]]]
++addLine(Object...) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#143]]]
++addSeparator() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#148]]]
+-getColsWidth() : int[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#152]]]
+-getNbCols() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#162]]]
++printMe(PrintStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#170]]]
++getLines() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#179]]]
 } 
 @enduml

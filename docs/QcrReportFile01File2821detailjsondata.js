@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "org.stathissideris.ascii2image.core.Shape3DOrderingComparator" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#12"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#37"
  , "c1" : "int"
  , "c2" : "compare(Object;Object)"
  , "c3" : "4"
@@ -75,38 +75,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#12"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#37"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method compare arguments Object  object1|Object  object2"
+ , "c3" : "QC-JAV000006[00037] For method compare arguments Object  object1|Object  object2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#15"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN144452 the MagicNumber/String  'This comparator can only compare DiagramShapeS' should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN144602 the MagicNumber/String  'This comparator can only compare DiagramShapeS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#23"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN144452 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN144602 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#24"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN144452 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN144602 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#26"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN144452 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN144602 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

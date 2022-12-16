@@ -2,8 +2,8 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.SimpleTextBlockBordered"
 class net.sourceforge.plantuml.graphic.SimpleTextBlockBordered {
-+SimpleTextBlockBordered(TextBlock;HColor) : SimpleTextBlockBordered [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SimpleTextBlockBordered.java.html#15]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SimpleTextBlockBordered.java.html#20]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SimpleTextBlockBordered.java.html#25]]]
++SimpleTextBlockBordered(TextBlock;HColor) : SimpleTextBlockBordered [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SimpleTextBlockBordered.java.html#49]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SimpleTextBlockBordered.java.html#54]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SimpleTextBlockBordered.java.html#59]]]
 } 
 @enduml

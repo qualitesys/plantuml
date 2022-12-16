@@ -2,11 +2,11 @@
 !pragma layout smetana
 "GraphicalElement" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText"
 class net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText {
-+GraphicalDelayText(double;Component;ParticipantBox;ParticipantBox) : GraphicalDelayText [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#19]]]
-drawInternalU(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#27]]]
-+getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#40]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#45]]]
-+getStartingX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#50]]]
-+getEndingY(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#54]]]
++GraphicalDelayText(double;Component;ParticipantBox;ParticipantBox) : GraphicalDelayText [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#53]]]
+drawInternalU(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#61]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#74]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#79]]]
++getStartingX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#84]]]
++getEndingY(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#88]]]
 } 
 @enduml

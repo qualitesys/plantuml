@@ -2,7 +2,7 @@
 !pragma layout smetana
 "AbstractExtremityFactoryExtremityFactory" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryParenthesis"
 class net.sourceforge.plantuml.svek.extremity.ExtremityFactoryParenthesis {
-+createUDrawable(XPoint2D;double;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryParenthesis.java.html#13]]]
-+createUDrawable(XPoint2D;XPoint2D;XPoint2D;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryParenthesis.java.html#18]]]
++createUDrawable(XPoint2D;double;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryParenthesis.java.html#47]]]
++createUDrawable(XPoint2D;XPoint2D;XPoint2D;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryParenthesis.java.html#52]]]
 } 
 @enduml

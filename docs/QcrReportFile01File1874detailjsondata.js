@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAuthorizeManager" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAuthorizeManager.java.html#14"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAuthorizeManager.java.html#53"
  , "c1" : "SecurityAuthentication"
  , "c2" : "create(SecurityCredentials)"
  , "c3" : "2"
@@ -82,38 +82,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAuthorizeManager.java.html#14"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAuthorizeManager.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method create arguments SecurityCredentials  credentials"
+ , "c3" : "QC-JAV000006[00053] For method create arguments SecurityCredentials  credentials"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAuthorizeManager.java.html#14"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAuthorizeManager.java.html#53"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument credentials is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00053] The argument credentials is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAuthorizeManager.java.html#19"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAuthorizeManager.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAuthorizeManager.create@POLYN149354 the MagicNumber/String  'identifier' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAuthorizeManager.create@POLYN149588 the MagicNumber/String  'identifier' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAuthorizeManager.java.html#20"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAuthorizeManager.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAuthorizeManager.create@POLYN149354 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAuthorizeManager.create@POLYN149588 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAuthorizeManager.java.html#21"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAuthorizeManager.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAuthorizeManager.create@POLYN149354 the MagicNumber/String  'secret' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAuthorizeManager.create@POLYN149588 the MagicNumber/String  'secret' should be converted to const"
 }} 
 ]
 , 

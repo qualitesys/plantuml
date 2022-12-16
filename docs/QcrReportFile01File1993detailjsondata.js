@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#50"
  , "c1" : "ParticipantBoxSimple"
  , "c2" : "ParticipantBoxSimple(double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#54"
  , "c1" : "ParticipantBoxSimple"
  , "c2" : "ParticipantBoxSimple(double;String)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#60"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#64"
  , "c1" : "double"
  , "c2" : "getCenterX(StringBounder)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#68"
  , "c1" : "void"
  , "c2" : "pushToLeft(double)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#38"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#72"
  , "c1" : "double"
  , "c2" : "getPreferredWidth(StringBounder)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#76"
  , "c1" : "Collection<Segment>"
  , "c2" : "getDelays(StringBounder)"
  , "c3" : "1"
@@ -129,52 +129,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple.ParticipantBoxSimple@POLYN148735 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple.ParticipantBoxSimple@POLYN148939 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple.toString@POLYN149114 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple.toString@POLYN149318 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method getCenterX arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00064] For method getCenterX arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method pushToLeft arguments double  deltaX"
+ , "c3" : "QC-JAV000006[00068] For method pushToLeft arguments double  deltaX"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#72"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method getPreferredWidth arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00072] For method getPreferredWidth arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple.getPreferredWidth@POLYN149511 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple.getPreferredWidth@POLYN149715 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method getDelays arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00076] For method getDelays arguments StringBounder  stringBounder"
 }} 
 ]
 , 

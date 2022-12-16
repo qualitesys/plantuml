@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.AttributesHint" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/jcckit/plot/AttributesHint.java.html#9"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/jcckit/plot/AttributesHint.java.html#35"
  , "c1" : "AttributesHint"
  , "c2" : "getNextHint()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/jcckit/plot/AttributesHint.java.html#12"
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/jcckit/plot/AttributesHint.java.html#38"
  , "c1" : "GraphicAttributes"
  , "c2" : "getAttributes()"
  , "c3" : "1"

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.CircleSymbolFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/jcckit/plot/CircleSymbolFactory.java.html#13"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/jcckit/plot/CircleSymbolFactory.java.html#39"
  , "c1" : "CircleSymbolFactory"
  , "c2" : "CircleSymbolFactory(ConfigParameters)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/jcckit/plot/CircleSymbolFactory.java.html#18"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/jcckit/plot/CircleSymbolFactory.java.html#49"
  , "c1" : "GraphicalElement"
  , "c2" : "createPlainSymbol(GraphPoint;double;GraphicAttributes)"
  , "c3" : "1"
@@ -77,10 +77,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/jcckit/plot/CircleSymbolFactory.java.html#18"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/jcckit/plot/CircleSymbolFactory.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method createPlainSymbol arguments GraphPoint  centerPosition|double  size|GraphicAttributes  attributes"
+ , "c3" : "QC-JAV000006[00049] For method createPlainSymbol arguments GraphPoint  centerPosition|double  size|GraphicAttributes  attributes"
 }} 
 ]
 , 

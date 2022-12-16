@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphic.QuoteUtils" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00289"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#289"
+ , "c5" : "00323"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#323"
  , "c1" : "QuoteUtils"
  , "c2" : "QuoteUtils()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00294"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#294"
+ , "c5" : "00328"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#328"
  , "c1" : "String"
  , "c2" : "getSomeQuote()"
  , "c3" : "2"
@@ -84,31 +84,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00295"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#295"
+ , "c1" : "00329"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#329"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00295] Lock statement on synchronized resource"
+ , "c3" : "QC-JAV000019[00329] Lock statement on synchronized resource"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00296"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#296"
+ , "c1" : "00330"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#330"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00296] In method net.sourceforge.plantuml.graphic.QuoteUtils.getSomeQuote@POLYN179532 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00330] In method net.sourceforge.plantuml.graphic.QuoteUtils.getSomeQuote@POLYN179736 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00301"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#301"
+ , "c1" : "00335"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#335"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.graphic.QuoteUtils.getSomeQuote@POLYN179532 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00335] In method net.sourceforge.plantuml.graphic.QuoteUtils.getSomeQuote@POLYN179736 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00302"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#302"
+ , "c1" : "00336"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#336"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.graphic.QuoteUtils.getSomeQuote@POLYN179532 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.graphic.QuoteUtils.getSomeQuote@POLYN179736 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

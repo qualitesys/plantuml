@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.svek.GroupPngMakerState" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#69"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#103"
  , "c1" : "GroupPngMakerState"
  , "c2" : "GroupPngMakerState(CucaDiagram;IGroup;StringBounder)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#78"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#112"
  , "c1" : "List<Link>"
  , "c2" : "getPureInnerLinks()"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#87"
+ , "c5" : "00121"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#121"
  , "c1" : "IEntityImage"
  , "c2" : "getImage()"
  , "c3" : "7"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00150"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#150"
+ , "c5" : "00184"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#184"
  , "c1" : "IEntityImage"
  , "c2" : "buildImageForConcurrentState(DotData)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00160"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#160"
+ , "c5" : "00194"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#194"
  , "c1" : "boolean"
  , "c2" : "containsOnlyConcurrentStates(DotData)"
  , "c3" : "4"
@@ -125,178 +125,178 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#56"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#90"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method getChildrenGroups arguments IGroup  parent"
+ , "c3" : "QC-JAV000006[00090] For method getChildrenGroups arguments IGroup  parent"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#63"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#97"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00063] For method isEmpty arguments IGroup  g"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#69"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00069] The argument group is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.svek.GroupPngMakerState.GroupPngMakerState@POLYN177342 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000006[00097] For method isEmpty arguments IGroup  g"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178247 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178247 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178247 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178247 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178247 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178247 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178247 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178247 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#138"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178247 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178247 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178247 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#150"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00150] For method buildImageForConcurrentState arguments DotData  dotData"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#150"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00150] The argument dotData is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00103] The argument group is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#160"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00160] For method containsOnlyConcurrentStates arguments DotData  dotData"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.svek.GroupPngMakerState.GroupPngMakerState@POLYN177546 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#160"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00160] The argument dotData is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#137"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178451 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#137"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178451 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#147"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178451 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178451 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178451 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178451 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00162] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#165"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00165] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#162"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.svek.GroupPngMakerState.containsOnlyConcurrentStates@POLYN183624 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#163"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.svek.GroupPngMakerState.containsOnlyConcurrentStates@POLYN183624 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178451 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.svek.GroupPngMakerState.containsOnlyConcurrentStates@POLYN183624 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178451 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#169"
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.svek.GroupPngMakerState.containsOnlyConcurrentStates@POLYN183624 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178451 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178451 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.svek.GroupPngMakerState.getImage@POLYN178451 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#184"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00184] For method buildImageForConcurrentState arguments DotData  dotData"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#184"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00184] The argument dotData is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#194"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00194] For method containsOnlyConcurrentStates arguments DotData  dotData"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#194"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00194] The argument dotData is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#196"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00196] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#199"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00199] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#196"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.svek.GroupPngMakerState.containsOnlyConcurrentStates@POLYN183828 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#197"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.svek.GroupPngMakerState.containsOnlyConcurrentStates@POLYN183828 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#200"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.svek.GroupPngMakerState.containsOnlyConcurrentStates@POLYN183828 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerState.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.svek.GroupPngMakerState.containsOnlyConcurrentStates@POLYN183828 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

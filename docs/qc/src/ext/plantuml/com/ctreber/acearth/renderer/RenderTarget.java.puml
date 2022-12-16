@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.renderer.RenderTarget"
 class ext.plantuml.com.ctreber.acearth.renderer.RenderTarget {
-+setPixel(int;int;int;int;int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RenderTarget.java.html#8]]]
-+setPixel(int;int;Color) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RenderTarget.java.html#10]]]
-+getImageWidth() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RenderTarget.java.html#12]]]
-+getImageHeight() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RenderTarget.java.html#14]]]
++setPixel(int;int;int;int;int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RenderTarget.java.html#16]]]
++setPixel(int;int;Color) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RenderTarget.java.html#18]]]
++getImageWidth() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RenderTarget.java.html#20]]]
++getImageHeight() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RenderTarget.java.html#22]]]
 } 
 @enduml

@@ -2,12 +2,12 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.stats.HistoricalData"
 class net.sourceforge.plantuml.stats.HistoricalData {
-HistoricalData(Preferences) : HistoricalData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HistoricalData.java.html#20]]]
-+reset() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HistoricalData.java.html#30]]]
--getMaxId() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HistoricalData.java.html#43]]]
--getIdComparator() : Comparator<?superParsedGenerated> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HistoricalData.java.html#51]]]
--reload() : List<ParsedGenerated> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HistoricalData.java.html#67]]]
-+current() : ParsedGenerated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HistoricalData.java.html#80]]]
-+getHistorical() : List<ParsedGenerated> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HistoricalData.java.html#84]]]
+HistoricalData(Preferences) : HistoricalData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HistoricalData.java.html#54]]]
++reset() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HistoricalData.java.html#64]]]
+-getMaxId() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HistoricalData.java.html#77]]]
+-getIdComparator() : Comparator<?superParsedGenerated> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HistoricalData.java.html#85]]]
+-reload() : List<ParsedGenerated> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HistoricalData.java.html#101]]]
++current() : ParsedGenerated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HistoricalData.java.html#114]]]
++getHistorical() : List<ParsedGenerated> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/HistoricalData.java.html#118]]]
 } 
 @enduml

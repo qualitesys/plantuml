@@ -2,18 +2,18 @@
 !pragma layout smetana
 "AbstractTileTile" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.NoteTile"
 class net.sourceforge.plantuml.sequencediagram.teoz.NoteTile {
-+getEvent() : Event [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#30]]]
-+getContactPointRelative() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#35]]]
-+NoteTile(StringBounder;LivingSpace;LivingSpace;Note;Rose;ISkinParam;YGauge) : NoteTile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#39]]]
-+getYGauge() : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#51]]]
--getComponent(StringBounder) : Component [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#55]]]
--getNoteComponentType(NoteStyle) : ComponentType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#61]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#71]]]
--getUsedWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#84]]]
--getX(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#99]]]
-+getPreferredHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#120]]]
-+addConstraints() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#126]]]
-+getMinX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#133]]]
-+getMaxX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#143]]]
++getEvent() : Event [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#64]]]
++getContactPointRelative() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#69]]]
++NoteTile(StringBounder;LivingSpace;LivingSpace;Note;Rose;ISkinParam;YGauge) : NoteTile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#73]]]
++getYGauge() : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#85]]]
+-getComponent(StringBounder) : Component [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#89]]]
+-getNoteComponentType(NoteStyle) : ComponentType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#95]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#105]]]
+-getUsedWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#118]]]
+-getX(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#133]]]
++getPreferredHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#154]]]
++addConstraints() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#160]]]
++getMinX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#167]]]
++getMaxX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#177]]]
 } 
 @enduml

@@ -2,17 +2,17 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.UGraphic"
 class net.sourceforge.plantuml.ugraphic.UGraphic {
-+getStringBounder() : StringBounder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#15]]]
-+getParam() : UParam [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#17]]]
-+apply(UChange) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#21]]]
-+getColorMapper() : ColorMapper [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#23]]]
-+startUrl(Url) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#25]]]
-+closeUrl() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#27]]]
-+startGroup(Map<UGroupType,String>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#29]]]
-+closeGroup() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#31]]]
-+flushUg() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#33]]]
-+matchesProperty(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#35]]]
-+getDefaultBackground() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#37]]]
-+writeToStream(OutputStream;String;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#39]]]
++getStringBounder() : StringBounder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#49]]]
++getParam() : UParam [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#51]]]
++apply(UChange) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#55]]]
++getColorMapper() : ColorMapper [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#57]]]
++startUrl(Url) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#59]]]
++closeUrl() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#61]]]
++startGroup(Map<UGroupType,String>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#63]]]
++closeGroup() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#65]]]
++flushUg() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#67]]]
++matchesProperty(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#69]]]
++getDefaultBackground() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#71]]]
++writeToStream(OutputStream;String;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#73]]]
 } 
 @enduml

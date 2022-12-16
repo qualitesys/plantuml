@@ -2,7 +2,7 @@
 !pragma layout smetana
 "SentenceSimple" <|-- "net.sourceforge.plantuml.project.lang.SentenceLinksTo"
 class net.sourceforge.plantuml.project.lang.SentenceLinksTo {
-+SentenceLinksTo() : SentenceLinksTo [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceLinksTo.java.html#11]]]
-+execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceLinksTo.java.html#16]]]
++SentenceLinksTo() : SentenceLinksTo [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceLinksTo.java.html#45]]]
++execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceLinksTo.java.html#50]]]
 } 
 @enduml

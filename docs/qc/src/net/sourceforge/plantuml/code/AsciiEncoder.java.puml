@@ -2,13 +2,13 @@
 !pragma layout smetana
 "URLEncoder" <|-- "net.sourceforge.plantuml.code.AsciiEncoder"
 class net.sourceforge.plantuml.code.AsciiEncoder {
-+encode(byte[]) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoder.java.html#17]]]
-+decode(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoder.java.html#29]]]
--computeSize(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoder.java.html#42]]]
--scharAt(String;int) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoder.java.html#58]]]
-+decode6bit(char) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoder.java.html#65]]]
-+encode6bit(byte) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoder.java.html#69]]]
--append3bytes(StringBuilder;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoder.java.html#93]]]
--decode3bytes(byte[];int;char;char;char;char) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoder.java.html#104]]]
++encode(byte[]) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoder.java.html#51]]]
++decode(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoder.java.html#63]]]
+-computeSize(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoder.java.html#76]]]
+-scharAt(String;int) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoder.java.html#92]]]
++decode6bit(char) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoder.java.html#99]]]
++encode6bit(byte) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoder.java.html#103]]]
+-append3bytes(StringBuilder;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoder.java.html#127]]]
+-decode3bytes(byte[];int;char;char;char;char) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoder.java.html#138]]]
 } 
 @enduml

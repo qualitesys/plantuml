@@ -2,11 +2,11 @@
 !pragma layout smetana
 "UmlDiagram" <|-- "net.sourceforge.plantuml.help.Help"
 class net.sourceforge.plantuml.help.Help {
-+getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/Help.java.html#31]]]
-+Help(UmlSource) : Help [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/Help.java.html#35]]]
-+createImageBuilder(FileFormatOption) : ImageBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/Help.java.html#40]]]
-exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/Help.java.html#45]]]
-+add(CharSequence) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/Help.java.html#56]]]
-+getDefaultMargins() : ClockwiseTopRightBottomLeft [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/Help.java.html#61]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/Help.java.html#64]]]
++Help(UmlSource) : Help [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/Help.java.html#68]]]
++createImageBuilder(FileFormatOption) : ImageBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/Help.java.html#73]]]
+exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/Help.java.html#78]]]
++add(CharSequence) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/Help.java.html#89]]]
++getDefaultMargins() : ClockwiseTopRightBottomLeft [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/Help.java.html#94]]]
 } 
 @enduml

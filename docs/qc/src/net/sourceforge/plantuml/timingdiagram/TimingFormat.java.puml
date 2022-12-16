@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.timingdiagram.TimingFormat"
 class net.sourceforge.plantuml.timingdiagram.TimingFormat {
--TimingFormat(SimpleDateFormat) : TimingFormat [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#20]]]
-+create(SimpleDateFormat) : TimingFormat [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#24]]]
-+formatTime(BigDecimal) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#28]]]
-+formatTime(long) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#35]]]
-+createDate(int;int;int;TimingFormat) : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#61]]]
+-TimingFormat(SimpleDateFormat) : TimingFormat [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#53]]]
++create(SimpleDateFormat) : TimingFormat [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#57]]]
++formatTime(BigDecimal) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#61]]]
++formatTime(long) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#68]]]
++createDate(int;int;int;TimingFormat) : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#94]]]
 } 
 @enduml

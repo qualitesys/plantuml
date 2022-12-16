@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.nwdiag.core.Network" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#21"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#54"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#25"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#58"
  , "c1" : "boolean"
  , "c2" : "isEven()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#29"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#62"
  , "c1" : "double"
  , "c2" : "magicDelta()"
  , "c3" : "4"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#38"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#71"
  , "c1" : "NStage"
  , "c2" : "getUp()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#42"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#75"
  , "c1" : "Network"
  , "c2" : "Network(NStage;NStage;String)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#48"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#81"
  , "c1" : "String"
  , "c2" : "getOwnAdress()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#52"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#85"
  , "c1" : "void"
  , "c2" : "setOwnAdress(String)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#56"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#89"
  , "c1" : "String"
  , "c2" : "getDisplayName()"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#64"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#97"
  , "c1" : "void"
  , "c2" : "setDescription(String)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#68"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#101"
  , "c1" : "HColor"
  , "c2" : "getColor()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#73"
+ , "c5" : "00106"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#106"
  , "c1" : "void"
  , "c2" : "setColor(HColor)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#77"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#110"
  , "c1" : "void"
  , "c2" : "goInvisible()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#81"
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#114"
  , "c1" : "boolean"
  , "c2" : "isVisible()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#85"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#118"
  , "c1" : "double"
  , "c2" : "getY()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00089"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#89"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#122"
  , "c1" : "void"
  , "c2" : "setY(double)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#93"
+ , "c5" : "00126"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#126"
  , "c1" : "void"
  , "c2" : "setFullWidth(boolean)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#97"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#130"
  , "c1" : "boolean"
  , "c2" : "isFullWidth()"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#101"
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#134"
  , "c1" : "NStage"
  , "c2" : "getNstage()"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00108"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#108"
+ , "c5" : "00141"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#141"
  , "c1" : "void"
  , "c2" : "setMinMax(double;double)"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#113"
+ , "c5" : "00146"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#146"
  , "c1" : "double"
  , "c2" : "getXmin()"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00117"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#117"
+ , "c5" : "00150"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#150"
  , "c1" : "double"
  , "c2" : "getXmax()"
  , "c3" : "1"
@@ -255,101 +255,101 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#26"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.nwdiag.core.Network.isEven@POLYN155284 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.nwdiag.core.Network.isEven@POLYN155482 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#26"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.nwdiag.core.Network.isEven@POLYN155284 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.nwdiag.core.Network.isEven@POLYN155482 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#30"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.nwdiag.core.Network.magicDelta@POLYN155438 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.nwdiag.core.Network.magicDelta@POLYN155438 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.nwdiag.core.Network.magicDelta@POLYN155438 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.nwdiag.core.Network.magicDelta@POLYN155438 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#52"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method setOwnAdress arguments String  ownAdress"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.nwdiag.core.Network.getDisplayName@POLYN156338 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.nwdiag.core.Network.magicDelta@POLYN155636 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#64"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method setDescription arguments String  description"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#73"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method setColor arguments HColor  color"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.nwdiag.core.Network.goInvisible@POLYN156910 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.nwdiag.core.Network.magicDelta@POLYN155636 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#89"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00089] For method setY arguments double  y"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#66"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.nwdiag.core.Network.magicDelta@POLYN155636 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#93"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00093] For method setFullWidth arguments boolean  fullWidth"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#68"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.nwdiag.core.Network.magicDelta@POLYN155636 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#108"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#85"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00108] For method setMinMax arguments double  xmin|double  xmax"
+ , "c3" : "QC-JAV000006[00085] For method setOwnAdress arguments String  ownAdress"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.nwdiag.core.Network.getDisplayName@POLYN156536 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#97"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00097] For method setDescription arguments String  description"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#106"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00106] For method setColor arguments HColor  color"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#111"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.nwdiag.core.Network.goInvisible@POLYN157108 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#122"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00122] For method setY arguments double  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#126"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00126] For method setFullWidth arguments boolean  fullWidth"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/Network.java.html#141"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00141] For method setMinMax arguments double  xmin|double  xmax"
 }} 
 ]
 , 

@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.code.Tokens"
 class net.sourceforge.plantuml.code.Tokens {
-+main(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Tokens.java.html#13]]]
-+compressUnicodeE000(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Tokens.java.html#21]]]
-+compressAscii128(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Tokens.java.html#29]]]
-+Tokens() : Tokens [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Tokens.java.html#37]]]
--add(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Tokens.java.html#163]]]
++main(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Tokens.java.html#47]]]
++compressUnicodeE000(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Tokens.java.html#55]]]
++compressAscii128(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Tokens.java.html#63]]]
++Tokens() : Tokens [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Tokens.java.html#71]]]
+-add(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Tokens.java.html#197]]]
 } 
 @enduml

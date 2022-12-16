@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.teoz.HSpaceTile" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#49"
  , "c1" : "Event"
  , "c2" : "getEvent()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#53"
  , "c1" : "HSpaceTile"
  , "c2" : "HSpaceTile(HSpace;TileArguments;YGauge)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#61"
  , "c1" : "YGauge"
  , "c2" : "getYGauge()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#66"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#69"
  , "c1" : "double"
  , "c2" : "getPreferredHeight()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#39"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#73"
  , "c1" : "void"
  , "c2" : "addConstraints()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#76"
  , "c1" : "Real"
  , "c2" : "getMinX()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#46"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#80"
  , "c1" : "Real"
  , "c2" : "getMaxX()"
  , "c3" : "1"
@@ -159,59 +159,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#53"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00019] The argument tileArguments is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00053] The argument tileArguments is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#53"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00019] The argument currentY is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00053] The argument currentY is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00066] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#47"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.sequencediagram.teoz.HSpaceTile.getMaxX@POLYN150608 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.sequencediagram.teoz.HSpaceTile.getMaxX@POLYN150812 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#66"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00032] Void method drawU is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00066] Void method drawU is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#66"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00032] Void method drawU is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00066] Void method drawU is empty or contains only a return. Interface segregation"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#73"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00039] Void method addConstraints is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00073] Void method addConstraints is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/HSpaceTile.java.html#73"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00039] Void method addConstraints is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00073] Void method addConstraints is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

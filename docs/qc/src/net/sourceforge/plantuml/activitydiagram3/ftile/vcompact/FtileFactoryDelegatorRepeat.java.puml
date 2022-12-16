@@ -2,8 +2,8 @@
 !pragma layout smetana
 "FtileFactoryDelegator" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorRepeat"
 class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorRepeat {
-+FtileFactoryDelegatorRepeat(FtileFactory) : FtileFactoryDelegatorRepeat [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorRepeat.java.html#34]]]
-+repeat(BoxStyle;Swimlane;Swimlane;Display;Ftile;Display;Display;Display;Colors;Ftile;boolean;LinkRendering;LinkRendering) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorRepeat.java.html#39]]]
--getEntry(Swimlane;Display;Colors;BoxStyle) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorRepeat.java.html#101]]]
++FtileFactoryDelegatorRepeat(FtileFactory) : FtileFactoryDelegatorRepeat [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorRepeat.java.html#68]]]
++repeat(BoxStyle;Swimlane;Swimlane;Display;Ftile;Display;Display;Display;Colors;Ftile;boolean;LinkRendering;LinkRendering) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorRepeat.java.html#73]]]
+-getEntry(Swimlane;Display;Colors;BoxStyle) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorRepeat.java.html#135]]]
 } 
 @enduml

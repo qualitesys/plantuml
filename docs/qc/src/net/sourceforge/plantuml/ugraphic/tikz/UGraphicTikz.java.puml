@@ -2,13 +2,13 @@
 !pragma layout smetana
 "AbstractUGraphic<TikzGraphics>ClipContainer" <|-- "net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz"
 class net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz {
-+UGraphicTikz(HColor;ColorMapper;StringBounder;double;boolean) : UGraphicTikz [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#29]]]
-copyUGraphic() : AbstractCommonUGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#35]]]
--UGraphicTikz(UGraphicTikz) : UGraphicTikz [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#39]]]
--register() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#44]]]
-+startUrl(Url) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#60]]]
-+closeUrl() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#65]]]
-+writeToStream(OutputStream;String;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#70]]]
-+matchesProperty(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#75]]]
++UGraphicTikz(HColor;ColorMapper;StringBounder;double;boolean) : UGraphicTikz [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#62]]]
+copyUGraphic() : AbstractCommonUGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#68]]]
+-UGraphicTikz(UGraphicTikz) : UGraphicTikz [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#72]]]
+-register() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#77]]]
++startUrl(Url) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#93]]]
++closeUrl() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#98]]]
++writeToStream(OutputStream;String;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#103]]]
++matchesProperty(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#108]]]
 } 
 @enduml

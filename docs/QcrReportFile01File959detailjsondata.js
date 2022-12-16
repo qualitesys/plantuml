@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.command.CommandSkinParamMultilines" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#45"
  , "c1" : "CommandSkinParamMultilines"
  , "c2" : "CommandSkinParamMultilines()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#50"
  , "c1" : "boolean"
  , "c2" : "isLineConsistent(String;int)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#58"
  , "c1" : "boolean"
  , "c2" : "hasStartingQuote(CharSequence)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#63"
  , "c1" : "CommandExecutionResult"
  , "c2" : "execute(TitledDiagram;BlocLines)"
  , "c3" : "2"
@@ -109,59 +109,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.command.CommandSkinParamMultilines.CommandSkinParamMultilines@POLYN149767 the MagicNumber/String  '^skinparam[%s]*(?:[%s]+([\\w.]*(?:\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)?[\\w.]*))?[%s]*\\{$' should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.command.CommandSkinParamMultilines.CommandSkinParamMultilines@POLYN149971 the MagicNumber/String  '^skinparam[%s]*(?:[%s]+([\\w.]*(?:\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)?[\\w.]*))?[%s]*\\{$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method isLineConsistent arguments String  line|int  level"
+ , "c3" : "QC-JAV000006[00050] For method isLineConsistent arguments String  line|int  level"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.command.CommandSkinParamMultilines.isLineConsistent@POLYN149893 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.command.CommandSkinParamMultilines.isLineConsistent@POLYN150097 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method hasStartingQuote arguments CharSequence  line"
+ , "c3" : "QC-JAV000006[00058] For method hasStartingQuote arguments CharSequence  line"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method execute arguments TitledDiagram  diagram|BlocLines  lines"
+ , "c3" : "QC-JAV000006[00063] For method execute arguments TitledDiagram  diagram|BlocLines  lines"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#63"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00063] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.command.CommandSkinParamMultilines.execute@POLYN150481 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.command.CommandSkinParamMultilines.execute@POLYN150685 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.command.CommandSkinParamMultilines.execute@POLYN150481 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.command.CommandSkinParamMultilines.execute@POLYN150685 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

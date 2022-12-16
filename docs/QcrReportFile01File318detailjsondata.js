@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.Legend" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/jcckit/plot/Legend.java.html#52"
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/jcckit/plot/Legend.java.html#134"
  , "c1" : "Legend"
  , "c2" : "Legend(ConfigParameters)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/jcckit/plot/Legend.java.html#85"
+ , "c5" : "00167"
+ , "c5link" : "././qc/src/jcckit/plot/Legend.java.html#167"
  , "c1" : "ConfigParameters"
  , "c2" : "mergeWithDefaultConfig(ConfigParameters)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/jcckit/plot/Legend.java.html#107"
+ , "c5" : "00192"
+ , "c5link" : "././qc/src/jcckit/plot/Legend.java.html#192"
  , "c1" : "GraphicalElement"
  , "c2" : "getBox()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00112"
- , "c5link" : "././qc/src/jcckit/plot/Legend.java.html#112"
+ , "c5" : "00208"
+ , "c5link" : "././qc/src/jcckit/plot/Legend.java.html#208"
  , "c1" : "GraphicalElement"
  , "c2" : "createSymbol(int;int;SymbolFactory;boolean;GraphicAttributes)"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00131"
- , "c5link" : "././qc/src/jcckit/plot/Legend.java.html#131"
+ , "c5" : "00227"
+ , "c5link" : "././qc/src/jcckit/plot/Legend.java.html#227"
  , "c1" : "double"
  , "c2" : "calculateBaseLine(int;int)"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00141"
- , "c5link" : "././qc/src/jcckit/plot/Legend.java.html#141"
+ , "c5" : "00244"
+ , "c5link" : "././qc/src/jcckit/plot/Legend.java.html#244"
  , "c1" : "GraphicalElement"
  , "c2" : "createCurveTitle(int;int;String)"
  , "c3" : "1"
@@ -134,276 +134,276 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#52"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#134"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00134] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#56"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method jcckit.plot.Legend.Legend@POLYN202600 the MagicNumber/String  0.94 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method jcckit.plot.Legend.Legend@POLYN203218 the MagicNumber/String  0.94 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#56"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method jcckit.plot.Legend.Legend@POLYN202600 the MagicNumber/String  0.54 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method jcckit.plot.Legend.Legend@POLYN203218 the MagicNumber/String  0.54 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#57"
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method jcckit.plot.Legend.Legend@POLYN202600 the MagicNumber/String  0.2 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method jcckit.plot.Legend.Legend@POLYN203218 the MagicNumber/String  0.2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#58"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method jcckit.plot.Legend.Legend@POLYN202600 the MagicNumber/String  0.1 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method jcckit.plot.Legend.Legend@POLYN203218 the MagicNumber/String  0.1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#62"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method jcckit.plot.Legend.Legend@POLYN202600 the MagicNumber/String  0.01 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method jcckit.plot.Legend.Legend@POLYN203218 the MagicNumber/String  0.01 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#63"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method jcckit.plot.Legend.Legend@POLYN202600 the MagicNumber/String  0.04 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method jcckit.plot.Legend.Legend@POLYN203218 the MagicNumber/String  0.04 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#65"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method jcckit.plot.Legend.Legend@POLYN202600 the MagicNumber/String  0.02 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method jcckit.plot.Legend.Legend@POLYN203218 the MagicNumber/String  0.02 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#66"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method jcckit.plot.Legend.Legend@POLYN202600 the MagicNumber/String  0.035 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method jcckit.plot.Legend.Legend@POLYN203218 the MagicNumber/String  0.035 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#67"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method jcckit.plot.Legend.Legend@POLYN202600 the MagicNumber/String  0.01 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method jcckit.plot.Legend.Legend@POLYN203218 the MagicNumber/String  0.01 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#69"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method jcckit.plot.Legend.Legend@POLYN202600 the MagicNumber/String  0.005 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method jcckit.plot.Legend.Legend@POLYN203218 the MagicNumber/String  0.005 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#71"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method jcckit.plot.Legend.Legend@POLYN202600 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method jcckit.plot.Legend.Legend@POLYN203218 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#72"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method jcckit.plot.Legend.Legend@POLYN202600 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method jcckit.plot.Legend.Legend@POLYN203218 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#74"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method jcckit.plot.Legend.Legend@POLYN202600 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method jcckit.plot.Legend.Legend@POLYN203218 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#79"
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method jcckit.plot.Legend.Legend@POLYN202600 the MagicNumber/String  0.005 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method jcckit.plot.Legend.Legend@POLYN203218 the MagicNumber/String  0.005 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#80"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method jcckit.plot.Legend.Legend@POLYN202600 the MagicNumber/String  'Legend' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method jcckit.plot.Legend.Legend@POLYN203218 the MagicNumber/String  'Legend' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#85"
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#167"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00085] For method mergeWithDefaultConfig arguments ConfigParameters  config"
+ , "c3" : "QC-JAV000006[00167] For method mergeWithDefaultConfig arguments ConfigParameters  config"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#87"
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN205382 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN206000 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#89"
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN205382 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN206000 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#90"
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN205382 the MagicNumber/String  '0xffffff' should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN206000 the MagicNumber/String  '0xffffff' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#91"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN205382 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN206000 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#92"
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN205382 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN206000 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#93"
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN205382 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN206000 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#95"
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN205382 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN206000 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#96"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN205382 the MagicNumber/String  'center' should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN206000 the MagicNumber/String  'center' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#97"
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN205382 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN206000 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#98"
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN205382 the MagicNumber/String  'top' should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN206000 the MagicNumber/String  'top' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#99"
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN205382 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method jcckit.plot.Legend.mergeWithDefaultConfig@POLYN206000 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#112"
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#208"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00112] For method createSymbol arguments int  curveIndex|int  numberOfCurves|SymbolFactory  factory|boolean  withLine|GraphicAttributes  lineAttributes"
+ , "c3" : "QC-JAV000006[00208] For method createSymbol arguments int  curveIndex|int  numberOfCurves|SymbolFactory  factory|boolean  withLine|GraphicAttributes  lineAttributes"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#112"
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#208"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00112] For method createSymbol list of called methods Object monObjet|double calculateBaseLineN207812"
+ , "c3" : "QC-JAV000007[00208] For method createSymbol list of called methods Object monObjet|double calculateBaseLineN208430"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#116"
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method jcckit.plot.Legend.createSymbol@POLYN207520 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method jcckit.plot.Legend.createSymbol@POLYN208138 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#119"
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method jcckit.plot.Legend.createSymbol@POLYN207520 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method jcckit.plot.Legend.createSymbol@POLYN208138 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#124"
+ , "c1" : "00220"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#220"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method jcckit.plot.Legend.createSymbol@POLYN207520 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00220] In method jcckit.plot.Legend.createSymbol@POLYN208138 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#126"
+ , "c1" : "00222"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method jcckit.plot.Legend.createSymbol@POLYN207520 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00222] In method jcckit.plot.Legend.createSymbol@POLYN208138 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#131"
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#227"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00131] For method calculateBaseLine arguments int  curveIndex|int  numberOfCurves"
+ , "c3" : "QC-JAV000006[00227] For method calculateBaseLine arguments int  curveIndex|int  numberOfCurves"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#132"
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method jcckit.plot.Legend.calculateBaseLine@POLYN208769 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method jcckit.plot.Legend.calculateBaseLine@POLYN209387 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#133"
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method jcckit.plot.Legend.calculateBaseLine@POLYN208769 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method jcckit.plot.Legend.calculateBaseLine@POLYN209387 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#136"
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method jcckit.plot.Legend.calculateBaseLine@POLYN208769 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method jcckit.plot.Legend.calculateBaseLine@POLYN209387 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#141"
+ , "c1" : "00244"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#244"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00141] For method createCurveTitle arguments int  curveIndex|int  numberOfCurves|String  title"
+ , "c3" : "QC-JAV000006[00244] For method createCurveTitle arguments int  curveIndex|int  numberOfCurves|String  title"
 }} 
 ]
 , 

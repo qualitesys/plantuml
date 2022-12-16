@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#62"
  , "c1" : "CucaDiagramFileMakerSvek"
  , "c2" : "CucaDiagramFileMakerSvek(CucaDiagram)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#66"
  , "c1" : "ImageData"
  , "c2" : "createFile(OutputStream;List<String>;FileFormatOption)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#76"
  , "c1" : "GeneralImageBuilder"
  , "c2" : "createDotDataImageBuilder(DotMode;StringBounder)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#53"
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#87"
  , "c1" : "ImageData"
  , "c2" : "createFileInternal(OutputStream;List<String>;FileFormatOption)"
  , "c3" : "7"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00094"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#94"
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#128"
  , "c1" : "List<Link>"
  , "c2" : "getOrderedLinks()"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00102"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#102"
+ , "c5" : "00136"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#136"
  , "c1" : "void"
  , "c2" : "addLinkNew(List<Link>;Link)"
  , "c3" : "6"
@@ -134,115 +134,115 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method createFile arguments OutputStream  os|List&lt;String &gt;  dotStrings|FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00066] For method createFile arguments OutputStream  os|List&lt;String &gt;  dotStrings|FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method createDotDataImageBuilder arguments DotMode  dotMode|StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00076] For method createDotDataImageBuilder arguments DotMode  dotMode|StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#53"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#87"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method createFileInternal arguments OutputStream  os|List&lt;String &gt;  dotStrings|FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00087] For method createFileInternal arguments OutputStream  os|List&lt;String &gt;  dotStrings|FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#53"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#87"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00053] The argument fileFormatOption is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00087] The argument fileFormatOption is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#62"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal@POLYN167710 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal@POLYN167914 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#79"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal@POLYN167710 the MagicNumber/String  'widthwarning' should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal@POLYN167914 the MagicNumber/String  'widthwarning' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#80"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal@POLYN167710 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal@POLYN167914 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#81"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal@POLYN167710 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal@POLYN167914 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#81"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal@POLYN167710 the MagicNumber/String  '\\d+' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal@POLYN167914 the MagicNumber/String  '\\d+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#88"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal@POLYN167710 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal@POLYN167914 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#90"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal@POLYN167710 the MagicNumber/String  503 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal@POLYN167914 the MagicNumber/String  503 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#90"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal@POLYN167710 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal@POLYN167914 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#102"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#136"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00102] For method addLinkNew arguments List&lt;Link &gt;  result|Link  link"
+ , "c3" : "QC-JAV000006[00136] For method addLinkNew arguments List&lt;Link &gt;  result|Link  link"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#102"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#136"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00102] The argument result is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00136] The argument result is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#104"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00104] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00138] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#103"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.addLinkNew@POLYN170811 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.addLinkNew@POLYN171015 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.eggs.PSystemColorsFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColorsFactory.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemColorsFactory.java.html#48"
  , "c1" : "AbstractPSystem"
  , "c2" : "executeLine(UmlSource;String)"
  , "c3" : "2"
@@ -75,31 +75,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColorsFactory.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColorsFactory.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method executeLine arguments UmlSource  source|String  line"
+ , "c3" : "QC-JAV000006[00048] For method executeLine arguments UmlSource  source|String  line"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColorsFactory.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColorsFactory.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.eggs.PSystemColorsFactory.executeLine@POLYN147260 the MagicNumber/String  '^colors?\\s*(#?\\w+)?\\s*$' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.eggs.PSystemColorsFactory.executeLine@POLYN147464 the MagicNumber/String  '^colors?\\s*(#?\\w+)?\\s*$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColorsFactory.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColorsFactory.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.eggs.PSystemColorsFactory.executeLine@POLYN147260 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.eggs.PSystemColorsFactory.executeLine@POLYN147464 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColorsFactory.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColorsFactory.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.eggs.PSystemColorsFactory.executeLine@POLYN147260 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.eggs.PSystemColorsFactory.executeLine@POLYN147464 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

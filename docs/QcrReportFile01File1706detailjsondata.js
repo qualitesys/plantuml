@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.draw.TimeHeaderCalendar" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#50"
  , "c1" : "TimeHeaderCalendar"
  , "c2" : "TimeHeaderCalendar(TimeHeaderParameters;TimeScale)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#56"
  , "c1" : "Locale"
  , "c2" : "locale()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#60"
  , "c1" : "int"
  , "c2" : "getLoadAt(Day)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#47"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#81"
  , "c1" : "void"
  , "c2" : "drawTextsBackground(UGraphic;double)"
  , "c3" : "10"
@@ -116,136 +116,136 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#16"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00016] The argument thParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#26"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method getLoadAt arguments Day  instant"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#42"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method draw arguments UGraphic  ug|double  height"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#42"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00042] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#47"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00047] For method drawTextsBackground arguments UGraphic  ug|double  totalHeightWithoutFooter"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00055] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00057] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157517 the MagicNumber/String  null should be converted to const"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00050] The argument thParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157517 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#60"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00060] For method getLoadAt arguments Day  instant"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157517 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#76"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00076] For method draw arguments UGraphic  ug|double  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157517 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#76"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00076] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157517 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#81"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00081] For method drawTextsBackground arguments UGraphic  ug|double  totalHeightWithoutFooter"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#64"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157517 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00089] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#65"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157517 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00091] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#67"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157517 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157721 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#69"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157517 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157721 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#69"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157517 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157721 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#71"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157517 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157721 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#73"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157517 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157721 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157721 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#99"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157721 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#101"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157721 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157721 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157721 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157721 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderCalendar.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.project.draw.TimeHeaderCalendar.drawTextsBackground@POLYN157721 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

@@ -2,7 +2,7 @@
 !pragma layout smetana
 "SkinParamDelegator" <|-- "net.sourceforge.plantuml.SkinParamForceColor"
 class net.sourceforge.plantuml.SkinParamForceColor {
-+SkinParamForceColor(ISkinParam;ColorParam;HColor) : SkinParamForceColor [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamForceColor.java.html#12]]]
-+getHtmlColor(ColorParam;Stereotype;boolean) : HColor [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamForceColor.java.html#19]]]
++SkinParamForceColor(ISkinParam;ColorParam;HColor) : SkinParamForceColor [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamForceColor.java.html#46]]]
++getHtmlColor(ColorParam;Stereotype;boolean) : HColor [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamForceColor.java.html#53]]]
 } 
 @enduml

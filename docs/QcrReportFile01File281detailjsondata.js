@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.data.DataPlot" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/jcckit/data/DataPlot.java.html#15"
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/jcckit/data/DataPlot.java.html#36"
  , "c1" : "DataPlot"
  , "c2" : "DataPlot()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/jcckit/data/DataPlot.java.html#18"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/jcckit/data/DataPlot.java.html#50"
  , "c1" : "DataPlot"
  , "c2" : "DataPlot(ConfigParameters)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/jcckit/data/DataPlot.java.html#26"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/jcckit/data/DataPlot.java.html#62"
  , "c1" : "DataPlot"
  , "c2" : "create(ConfigParameters)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/jcckit/data/DataPlot.java.html#31"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/jcckit/data/DataPlot.java.html#70"
  , "c1" : "boolean"
  , "c2" : "isValid(DataElement)"
  , "c3" : "1"
@@ -102,31 +102,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/jcckit/data/DataPlot.java.html#18"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/jcckit/data/DataPlot.java.html#50"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00018] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00050] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/jcckit/data/DataPlot.java.html#26"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/jcckit/data/DataPlot.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method create arguments ConfigParameters  config"
+ , "c3" : "QC-JAV000006[00062] For method create arguments ConfigParameters  config"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/jcckit/data/DataPlot.java.html#26"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/jcckit/data/DataPlot.java.html#62"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00026] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00062] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/jcckit/data/DataPlot.java.html#31"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/jcckit/data/DataPlot.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method isValid arguments DataElement  element"
+ , "c3" : "QC-JAV000006[00070] For method isValid arguments DataElement  element"
 }} 
 ]
 , 

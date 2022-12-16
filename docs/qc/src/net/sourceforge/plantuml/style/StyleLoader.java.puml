@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.style.StyleLoader"
 class net.sourceforge.plantuml.style.StyleLoader {
-+StyleLoader(SkinParam) : StyleLoader [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#30]]]
-+loadSkin(String) : StyleBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#36]]]
-+getInputStreamForStyle(String) : InputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#53]]]
--loadSkinInternal(BlocLines) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#78]]]
-+getDeclaredStyles(BlocLines;AutomaticCounter) : Collection<Style> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#89]]]
-+addPriorityForStereotype(Map<PName,Value>) : Map<PName,Value> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#178]]]
++StyleLoader(SkinParam) : StyleLoader [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#64]]]
++loadSkin(String) : StyleBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#70]]]
++getInputStreamForStyle(String) : InputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#87]]]
+-loadSkinInternal(BlocLines) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#112]]]
++getDeclaredStyles(BlocLines;AutomaticCounter) : Collection<Style> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#123]]]
++addPriorityForStereotype(Map<PName,Value>) : Map<PName,Value> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#212]]]
 } 
 @enduml

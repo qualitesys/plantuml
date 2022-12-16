@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.wbs.WBSTextBlock" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#61"
  , "c1" : "WBSTextBlock"
  , "c2" : "WBSTextBlock(ISkinParam;StyleBuilder;int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#67"
  , "c1" : "void"
  , "c2" : "drawLine(UGraphic;XPoint2D;XPoint2D)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#38"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#72"
  , "c1" : "Style"
  , "c2" : "getStyleUsed()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#76"
  , "c1" : "void"
  , "c2" : "drawLine(UGraphic;double;double;double;double)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#46"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#80"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "getDefaultStyleDefinitionArrow()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#50"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#84"
  , "c1" : "TextBlock"
  , "c2" : "buildMain(WElement)"
  , "c3" : "2"
@@ -127,80 +127,80 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method drawLine arguments UGraphic  ug|XPoint2D  p1|XPoint2D  p2"
+ , "c3" : "QC-JAV000006[00067] For method drawLine arguments UGraphic  ug|XPoint2D  p1|XPoint2D  p2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#67"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00067] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method drawLine arguments UGraphic  ug|double  x1|double  y1|double  x2|double  y2"
+ , "c3" : "QC-JAV000006[00076] For method drawLine arguments UGraphic  ug|double  x1|double  y1|double  x2|double  y2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#50"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method buildMain arguments WElement  idea"
+ , "c3" : "QC-JAV000006[00084] For method buildMain arguments WElement  idea"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#50"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#84"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00050] The argument idea is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00084] The argument idea is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#58"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.wbs.WBSTextBlock.buildMain@POLYN159532 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.wbs.WBSTextBlock.buildMain@POLYN159736 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#58"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.wbs.WBSTextBlock.buildMain@POLYN159532 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.wbs.WBSTextBlock.buildMain@POLYN159736 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.wbs.WBSTextBlock.buildMain@POLYN159532 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.wbs.WBSTextBlock.buildMain@POLYN159736 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.wbs.WBSTextBlock.buildMain@POLYN159532 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.wbs.WBSTextBlock.buildMain@POLYN159736 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.wbs.WBSTextBlock.buildMain@POLYN159532 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.wbs.WBSTextBlock.buildMain@POLYN159736 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/WBSTextBlock.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.wbs.WBSTextBlock.buildMain@POLYN159532 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.wbs.WBSTextBlock.buildMain@POLYN159736 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

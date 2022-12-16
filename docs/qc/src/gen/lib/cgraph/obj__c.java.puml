@@ -2,14 +2,14 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.cgraph.obj__c"
 class gen.lib.cgraph.obj__c {
-+agdelete(Object...) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#33]]]
-+agmethod_init(ST_Agraph_s;__ptr__) : void [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#44]]]
-+aginitcb(ST_Agraph_s;__ptr__;ST_Agcbstack_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#60]]]
-+agmethod_upd(ST_Agraph_s;__ptr__;ST_Agsym_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#92]]]
-+agupdcb(ST_Agraph_s;__ptr__;ST_Agsym_s;ST_Agcbstack_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#108]]]
-+agroot(ST_Agobj_s) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#143]]]
-+agraphof(ST_Agobj_s) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#167]]]
-+agcontains(ST_Agraph_s;ST_Agobj_s) : boolean [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#192]]]
-+agobjkind(ST_Agobj_s) : int [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#218]]]
++agdelete(Object...) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#77]]]
++agmethod_init(ST_Agraph_s;__ptr__) : void [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#88]]]
++aginitcb(ST_Agraph_s;__ptr__;ST_Agcbstack_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#104]]]
++agmethod_upd(ST_Agraph_s;__ptr__;ST_Agsym_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#136]]]
++agupdcb(ST_Agraph_s;__ptr__;ST_Agsym_s;ST_Agcbstack_s) : void [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#152]]]
++agroot(ST_Agobj_s) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#187]]]
++agraphof(ST_Agobj_s) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#211]]]
++agcontains(ST_Agraph_s;ST_Agobj_s) : boolean [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#236]]]
++agobjkind(ST_Agobj_s) : int [[[./../../../../.././qc/src/gen/lib/cgraph/obj__c.java.html#262]]]
 } 
 @enduml

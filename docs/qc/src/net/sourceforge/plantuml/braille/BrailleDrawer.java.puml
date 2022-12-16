@@ -2,8 +2,8 @@
 !pragma layout smetana
 "UDrawable" <|-- "net.sourceforge.plantuml.braille.BrailleDrawer"
 class net.sourceforge.plantuml.braille.BrailleDrawer {
-+BrailleDrawer(BrailleGrid) : BrailleDrawer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleDrawer.java.html#18]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleDrawer.java.html#22]]]
--drawCircle(UGraphic;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleDrawer.java.html#42]]]
++BrailleDrawer(BrailleGrid) : BrailleDrawer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleDrawer.java.html#52]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleDrawer.java.html#56]]]
+-drawCircle(UGraphic;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleDrawer.java.html#76]]]
 } 
 @enduml

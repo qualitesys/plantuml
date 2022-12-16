@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.yaml.SimpleYamlParser" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#20"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#53"
  , "c1" : "JsonValue"
  , "c2" : "parse(List<String>)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#32"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#65"
  , "c1" : "String[]"
  , "c2" : "nameAndValue(String)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#43"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#76"
  , "c1" : "void"
  , "c2" : "parseSingleLine(String)"
  , "c3" : "6"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00082"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#82"
+ , "c5" : "00115"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#115"
  , "c1" : "String"
  , "c2" : "listedValue(String)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00092"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#92"
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#125"
  , "c1" : "JsonArray"
  , "c2" : "getForceArray(int)"
  , "c3" : "5"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#110"
+ , "c5" : "00143"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#143"
  , "c1" : "void"
  , "c2" : "strictMuteToArray(int)"
  , "c3" : "7"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00134"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#134"
+ , "c5" : "00167"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#167"
  , "c1" : "boolean"
  , "c2" : "isListStrict(String)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00138"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#138"
+ , "c5" : "00171"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#171"
  , "c1" : "int"
  , "c2" : "getLastIndent()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00142"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#142"
+ , "c5" : "00175"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#175"
  , "c1" : "JsonValue"
  , "c2" : "getWorking(int)"
  , "c3" : "5"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00161"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#161"
+ , "c5" : "00194"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#194"
  , "c1" : "JsonValue"
  , "c2" : "search(JsonValue;int)"
  , "c3" : "9"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00198"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#198"
+ , "c5" : "00231"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#231"
  , "c1" : "int"
  , "c2" : "getIndent(String)"
  , "c3" : "4"
@@ -165,423 +165,423 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#20"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method parse arguments List&lt;String &gt;  lines"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parse@POLYN176631 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#32"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method nameAndValue arguments String  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.nameAndValue@POLYN177202 the MagicNumber/String  '^\\s*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.nameAndValue@POLYN177202 the MagicNumber/String  '\\s*: \\s*(\\S.*)$' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.nameAndValue@POLYN177202 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.nameAndValue@POLYN177202 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.nameAndValue@POLYN177202 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#43"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method parseSingleLine arguments String  s"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parseSingleLine@POLYN177959 the MagicNumber/String  null should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00053] For method parse arguments List&lt;String &gt;  lines"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#60"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parseSingleLine@POLYN177959 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parse@POLYN176829 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parseSingleLine@POLYN177959 the MagicNumber/String  'ERROR: ignoring ' should be converted to const"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#65"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00065] For method nameAndValue arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parseSingleLine@POLYN177959 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.nameAndValue@POLYN177400 the MagicNumber/String  '^\\s*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#67"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parseSingleLine@POLYN177959 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.nameAndValue@POLYN177400 the MagicNumber/String  '\\s*: \\s*(\\S.*)$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#68"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parseSingleLine@POLYN177959 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.nameAndValue@POLYN177400 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#68"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parseSingleLine@POLYN177959 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.nameAndValue@POLYN177400 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#74"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parseSingleLine@POLYN177959 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.nameAndValue@POLYN177400 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#82"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method listedValue arguments String  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.listedValue@POLYN179824 the MagicNumber/String  '^\\s*[-]\\s*(\\S.*)$' should be converted to const"
+ , "c3" : "QC-JAV000006[00076] For method parseSingleLine arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.listedValue@POLYN179824 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.listedValue@POLYN179824 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#92"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00092] For method getForceArray arguments int  indent"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parseSingleLine@POLYN178157 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getForceArray@POLYN180360 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getForceArray@POLYN180360 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parseSingleLine@POLYN178157 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getForceArray@POLYN180360 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parseSingleLine@POLYN178157 the MagicNumber/String  'ERROR: ignoring ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getForceArray@POLYN180360 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parseSingleLine@POLYN178157 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getForceArray@POLYN180360 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parseSingleLine@POLYN178157 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#103"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getForceArray@POLYN180360 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parseSingleLine@POLYN178157 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#104"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getForceArray@POLYN180360 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parseSingleLine@POLYN178157 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#110"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.parseSingleLine@POLYN178157 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#115"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method strictMuteToArray arguments int  indent"
+ , "c3" : "QC-JAV000006[00115] For method listedValue arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#111"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.strictMuteToArray@POLYN181634 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.listedValue@POLYN180022 the MagicNumber/String  '^\\s*[-]\\s*(\\S.*)$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#111"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.strictMuteToArray@POLYN181634 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.listedValue@POLYN180022 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#112"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.strictMuteToArray@POLYN181634 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.listedValue@POLYN180022 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.strictMuteToArray@POLYN181634 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#125"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00125] For method getForceArray arguments int  indent"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.strictMuteToArray@POLYN181634 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getForceArray@POLYN180558 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#126"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getForceArray@POLYN180558 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.strictMuteToArray@POLYN181634 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getForceArray@POLYN180558 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#134"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00134] For method isListStrict arguments String  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#135"
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.isListStrict@POLYN183161 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getForceArray@POLYN180558 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#139"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getLastIndent@POLYN183330 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getForceArray@POLYN180558 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#142"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#136"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getForceArray@POLYN180558 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#137"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getForceArray@POLYN180558 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#143"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00142] For method getWorking arguments int  indent"
+ , "c3" : "QC-JAV000006[00143] For method strictMuteToArray arguments int  indent"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#144"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.strictMuteToArray@POLYN181832 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#144"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.strictMuteToArray@POLYN181832 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#145"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.strictMuteToArray@POLYN181832 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getWorking@POLYN183499 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.strictMuteToArray@POLYN181832 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#152"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getWorking@POLYN183499 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.strictMuteToArray@POLYN181832 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#155"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getWorking@POLYN183499 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.strictMuteToArray@POLYN181832 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#156"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getWorking@POLYN183499 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#161"
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#167"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00161] For method search arguments JsonValue  current1|int  size"
+ , "c3" : "QC-JAV000006[00167] For method isListStrict arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#166"
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184574 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.isListStrict@POLYN183359 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#170"
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184574 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getLastIndent@POLYN183528 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#174"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184574 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#179"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184574 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#175"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00175] For method getWorking arguments int  indent"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184574 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getWorking@POLYN183697 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#185"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getWorking@POLYN183697 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184574 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getWorking@POLYN183697 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#192"
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184574 the MagicNumber/String  'JsonString? ' should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getWorking@POLYN183697 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184574 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#195"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184574 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#198"
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#194"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00198] For method getIndent arguments String  s"
+ , "c3" : "QC-JAV000006[00194] For method search arguments JsonValue  current1|int  size"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getIndent@POLYN186578 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184772 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00200"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#200"
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getIndent@POLYN186578 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184772 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#202"
+ , "c1" : "00207"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getIndent@POLYN186578 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184772 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#202"
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getIndent@POLYN186578 the MagicNumber/String  '\t' should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184772 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#208"
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getIndent@POLYN186578 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184772 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#221"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184772 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00225"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#225"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184772 the MagicNumber/String  'JsonString? ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00226"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#226"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184772 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#228"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.search@POLYN184772 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00231"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#231"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00231] For method getIndent arguments String  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#232"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getIndent@POLYN186776 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00233"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#233"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getIndent@POLYN186776 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00235"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#235"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getIndent@POLYN186776 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00235"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#235"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getIndent@POLYN186776 the MagicNumber/String  '\t' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#241"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.yaml.SimpleYamlParser.getIndent@POLYN186776 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

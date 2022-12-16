@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.SkinParamForecolored" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SkinParamForecolored.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SkinParamForecolored.java.html#45"
  , "c1" : "SkinParamForecolored"
  , "c2" : "SkinParamForecolored(ISkinParam;HColor)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SkinParamForecolored.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SkinParamForecolored.java.html#51"
  , "c1" : "HColor"
  , "c2" : "getHtmlColor(ColorParam;Stereotype;boolean)"
  , "c3" : "1"
@@ -77,10 +77,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SkinParamForecolored.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SkinParamForecolored.java.html#51"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method getHtmlColor arguments ColorParam  param|Stereotype  stereotype|boolean  clickable"
+ , "c3" : "QC-JAV000006[00051] For method getHtmlColor arguments ColorParam  param|Stereotype  stereotype|boolean  clickable"
 }} 
 ]
 , 

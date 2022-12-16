@@ -2,7 +2,7 @@
 !pragma layout smetana
 "Stripe" <|-- "net.sourceforge.plantuml.creole.legacy.StripeRaw"
 class net.sourceforge.plantuml.creole.legacy.StripeRaw {
-+addAndCheckTermination(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeRaw.java.html#9]]]
-+isTerminated() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeRaw.java.html#11]]]
++addAndCheckTermination(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeRaw.java.html#43]]]
++isTerminated() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeRaw.java.html#45]]]
 } 
 @enduml

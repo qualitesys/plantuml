@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.api.mda.option2.MDAEntity" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00005"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/mda/option2/MDAEntity.java.html#5"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/mda/option2/MDAEntity.java.html#39"
  , "c1" : "String"
  , "c2" : "getName()"
  , "c3" : "1"

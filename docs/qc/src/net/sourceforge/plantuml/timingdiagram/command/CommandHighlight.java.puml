@@ -2,9 +2,9 @@
 !pragma layout smetana
 "SingleLineCommand2<TimingDiagram>" <|-- "net.sourceforge.plantuml.timingdiagram.command.CommandHighlight"
 class net.sourceforge.plantuml.timingdiagram.command.CommandHighlight {
-+CommandHighlight() : CommandHighlight [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#22]]]
--color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#26]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#30]]]
-executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#53]]]
++CommandHighlight() : CommandHighlight [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#56]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#60]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#64]]]
+executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#87]]]
 } 
 @enduml

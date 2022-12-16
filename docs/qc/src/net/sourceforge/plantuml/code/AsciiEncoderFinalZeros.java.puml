@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.code.AsciiEncoderFinalZeros"
 class net.sourceforge.plantuml.code.AsciiEncoderFinalZeros {
-+encode(byte[]) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#6]]]
--append3bytes(StringBuilder;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#21]]]
++encode(byte[]) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#40]]]
+-append3bytes(StringBuilder;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#55]]]
 } 
 @enduml

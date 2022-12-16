@@ -2,6 +2,6 @@
 !pragma layout smetana
 "RacorderAbstractRacorder" <|-- "net.sourceforge.plantuml.posimo.RacorderFollowTangeante"
 class net.sourceforge.plantuml.posimo.RacorderFollowTangeante {
-+getRacordIn(XRectangle2D;XLine2D) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/RacorderFollowTangeante.java.html#12]]]
++getRacordIn(XRectangle2D;XLine2D) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/RacorderFollowTangeante.java.html#46]]]
 } 
 @enduml

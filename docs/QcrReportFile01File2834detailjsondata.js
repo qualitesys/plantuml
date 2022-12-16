@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "org.stathissideris.ascii2image.text.AbstractionGrid" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#15"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#43"
  , "c1" : "AbstractionGrid"
  , "c2" : "makeUsingBuffer(TextGrid)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#58"
  , "c1" : "AbstractionGrid"
  , "c2" : "AbstractionGrid(TextGrid;CellSet)"
  , "c3" : "30"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#74"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#111"
  , "c1" : "AbstractionGrid"
  , "c2" : "AbstractionGrid(int;int)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#78"
+ , "c5" : "00115"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#115"
  , "c1" : "TextGrid"
  , "c2" : "getCopyOfInternalBuffer()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00082"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#82"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#119"
  , "c1" : "void"
  , "c2" : "setInternalBuffer(TextGrid)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#87"
+ , "c5" : "00124"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#124"
  , "c1" : "int"
  , "c2" : "getWidth()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#91"
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#128"
  , "c1" : "int"
  , "c2" : "getHeight()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#95"
+ , "c5" : "00132"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#132"
  , "c1" : "TextGrid"
  , "c2" : "getAsTextGrid()"
  , "c3" : "5"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#113"
+ , "c5" : "00150"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#150"
  , "c1" : "ArrayList"
  , "c2" : "getDistinctShapes()"
  , "c3" : "2"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00130"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#130"
+ , "c5" : "00167"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#167"
  , "c1" : "void"
  , "c2" : "fillCells(CellSet)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00134"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#134"
+ , "c5" : "00171"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#171"
  , "c1" : "void"
  , "c2" : "set(int;int;AbstractCell)"
  , "c3" : "4"
@@ -202,332 +202,332 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#15"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#43"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method makeUsingBuffer arguments TextGrid  internalGrid"
+ , "c3" : "QC-JAV000006[00043] For method makeUsingBuffer arguments TextGrid  internalGrid"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#15"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#43"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument internalGrid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00043] The argument internalGrid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#16"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method org.stathissideris.ascii2image.text.AbstractionGrid.makeUsingBuffer@POLYN169655 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method org.stathissideris.ascii2image.text.AbstractionGrid.makeUsingBuffer@POLYN169877 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#16"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method org.stathissideris.ascii2image.text.AbstractionGrid.makeUsingBuffer@POLYN169655 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method org.stathissideris.ascii2image.text.AbstractionGrid.makeUsingBuffer@POLYN169877 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#17"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method org.stathissideris.ascii2image.text.AbstractionGrid.makeUsingBuffer@POLYN169655 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.text.AbstractionGrid.makeUsingBuffer@POLYN169877 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#17"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method org.stathissideris.ascii2image.text.AbstractionGrid.makeUsingBuffer@POLYN169655 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.text.AbstractionGrid.makeUsingBuffer@POLYN169877 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#17"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method org.stathissideris.ascii2image.text.AbstractionGrid.makeUsingBuffer@POLYN169655 the MagicNumber/String  'Passed TextGrid must have dimensions that are divisible by 3.' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.text.AbstractionGrid.makeUsingBuffer@POLYN169877 the MagicNumber/String  'Passed TextGrid must have dimensions that are divisible by 3.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#18"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method org.stathissideris.ascii2image.text.AbstractionGrid.makeUsingBuffer@POLYN169655 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method org.stathissideris.ascii2image.text.AbstractionGrid.makeUsingBuffer@POLYN169877 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#18"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method org.stathissideris.ascii2image.text.AbstractionGrid.makeUsingBuffer@POLYN169655 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method org.stathissideris.ascii2image.text.AbstractionGrid.makeUsingBuffer@POLYN169877 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#58"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00024] The argument textGrid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00058] The argument textGrid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#58"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00024] The argument cellSet is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00058] The argument cellSet is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#37"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00037] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00074] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#37"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00037] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00074] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#29"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method org.stathissideris.ascii2image.text.AbstractionGrid.AbstractionGrid@POLYN170422 the MagicNumber/String  'Making AbstractionGrid using buffer:' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method org.stathissideris.ascii2image.text.AbstractionGrid.AbstractionGrid@POLYN170644 the MagicNumber/String  'Making AbstractionGrid using buffer:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#31"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method org.stathissideris.ascii2image.text.AbstractionGrid.AbstractionGrid@POLYN170422 the MagicNumber/String  '...and the following CellSet:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method org.stathissideris.ascii2image.text.AbstractionGrid.AbstractionGrid@POLYN170422 the MagicNumber/String  '...the resulting AbstractionGrid is:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method org.stathissideris.ascii2image.text.AbstractionGrid.AbstractionGrid@POLYN174628 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method org.stathissideris.ascii2image.text.AbstractionGrid.AbstractionGrid@POLYN174628 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#82"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method setInternalBuffer arguments TextGrid  grid"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method org.stathissideris.ascii2image.text.AbstractionGrid.getWidth@POLYN175137 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method org.stathissideris.ascii2image.text.AbstractionGrid.getHeight@POLYN175267 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00099] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00099] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method org.stathissideris.ascii2image.text.AbstractionGrid.getAsTextGrid@POLYN175397 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method org.stathissideris.ascii2image.text.AbstractionGrid.getAsTextGrid@POLYN175397 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method org.stathissideris.ascii2image.text.AbstractionGrid.getAsTextGrid@POLYN175397 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method org.stathissideris.ascii2image.text.AbstractionGrid.getAsTextGrid@POLYN175397 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method org.stathissideris.ascii2image.text.AbstractionGrid.getAsTextGrid@POLYN175397 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method org.stathissideris.ascii2image.text.AbstractionGrid.getAsTextGrid@POLYN175397 the MagicNumber/String  'Getting AbstractionGrid as textGrid.\nAbstractionGrid:' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method org.stathissideris.ascii2image.text.AbstractionGrid.AbstractionGrid@POLYN170644 the MagicNumber/String  '...and the following CellSet:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method org.stathissideris.ascii2image.text.AbstractionGrid.getAsTextGrid@POLYN175397 the MagicNumber/String  '...as text grid:' should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method org.stathissideris.ascii2image.text.AbstractionGrid.AbstractionGrid@POLYN170644 the MagicNumber/String  '...the resulting AbstractionGrid is:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#121"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00121] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00112] In method org.stathissideris.ascii2image.text.AbstractionGrid.AbstractionGrid@POLYN174850 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#121"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00121] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00112] In method org.stathissideris.ascii2image.text.AbstractionGrid.AbstractionGrid@POLYN174850 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#122"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00122] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#130"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#119"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00130] For method fillCells arguments CellSet  cells"
+ , "c3" : "QC-JAV000006[00119] For method setInternalBuffer arguments TextGrid  grid"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#131"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method org.stathissideris.ascii2image.text.AbstractionGrid.fillCells@POLYN177562 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method org.stathissideris.ascii2image.text.AbstractionGrid.getWidth@POLYN175359 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#134"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00134] For method set arguments int  xPos|int  yPos|AbstractCell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#134"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00134] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#135"
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method org.stathissideris.ascii2image.text.AbstractionGrid.set@POLYN177720 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method org.stathissideris.ascii2image.text.AbstractionGrid.getHeight@POLYN175489 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method org.stathissideris.ascii2image.text.AbstractionGrid.set@POLYN177720 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000001[00136] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#136"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00136] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#134"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00134] In method org.stathissideris.ascii2image.text.AbstractionGrid.getAsTextGrid@POLYN175619 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00135] In method org.stathissideris.ascii2image.text.AbstractionGrid.getAsTextGrid@POLYN175619 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method org.stathissideris.ascii2image.text.AbstractionGrid.set@POLYN177720 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method org.stathissideris.ascii2image.text.AbstractionGrid.getAsTextGrid@POLYN175619 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method org.stathissideris.ascii2image.text.AbstractionGrid.set@POLYN177720 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method org.stathissideris.ascii2image.text.AbstractionGrid.getAsTextGrid@POLYN175619 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#138"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method org.stathissideris.ascii2image.text.AbstractionGrid.set@POLYN177720 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method org.stathissideris.ascii2image.text.AbstractionGrid.getAsTextGrid@POLYN175619 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#138"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method org.stathissideris.ascii2image.text.AbstractionGrid.set@POLYN177720 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method org.stathissideris.ascii2image.text.AbstractionGrid.getAsTextGrid@POLYN175619 the MagicNumber/String  'Getting AbstractionGrid as textGrid.\nAbstractionGrid:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#139"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method org.stathissideris.ascii2image.text.AbstractionGrid.set@POLYN177720 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method org.stathissideris.ascii2image.text.AbstractionGrid.getAsTextGrid@POLYN175619 the MagicNumber/String  '...as text grid:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#140"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method org.stathissideris.ascii2image.text.AbstractionGrid.set@POLYN177720 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000001[00158] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#15"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#158"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00158] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00159] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#167"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00167] For method fillCells arguments CellSet  cells"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00168] In method org.stathissideris.ascii2image.text.AbstractionGrid.fillCells@POLYN177784 the MagicNumber/String  '*' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#171"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00171] For method set arguments int  xPos|int  yPos|AbstractCell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#171"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00171] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method org.stathissideris.ascii2image.text.AbstractionGrid.set@POLYN177942 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#173"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00173] In method org.stathissideris.ascii2image.text.AbstractionGrid.set@POLYN177942 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00174] In method org.stathissideris.ascii2image.text.AbstractionGrid.set@POLYN177942 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00174] In method org.stathissideris.ascii2image.text.AbstractionGrid.set@POLYN177942 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method org.stathissideris.ascii2image.text.AbstractionGrid.set@POLYN177942 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method org.stathissideris.ascii2image.text.AbstractionGrid.set@POLYN177942 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00176] In method org.stathissideris.ascii2image.text.AbstractionGrid.set@POLYN177942 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method org.stathissideris.ascii2image.text.AbstractionGrid.set@POLYN177942 the MagicNumber/String  '*' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#43"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00015] Public method makeUsingBuffer is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00043] Public method makeUsingBuffer is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.AbstractionGrid.getDistinctShapes@POLYN176686"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.AbstractionGrid.getDistinctShapes@POLYN176908"
 }} 
 ]
 , 

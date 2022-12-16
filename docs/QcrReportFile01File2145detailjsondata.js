@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.stats.PSystemStats" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/PSystemStats.java.html#12"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/PSystemStats.java.html#45"
  , "c1" : "PSystemStats"
  , "c2" : "PSystemStats(UmlSource)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/PSystemStats.java.html#18"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/PSystemStats.java.html#51"
  , "c1" : "PSystemStats"
  , "c2" : "create(UmlSource)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/PSystemStats.java.html#22"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/PSystemStats.java.html#55"
  , "c1" : "DiagramDescription"
  , "c2" : "getDescription()"
  , "c3" : "1"
@@ -93,17 +93,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStats.java.html#18"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStats.java.html#51"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method create arguments UmlSource  source"
+ , "c3" : "QC-JAV000006[00051] For method create arguments UmlSource  source"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStats.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStats.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.stats.PSystemStats.getDescription@POLYN147636 the MagicNumber/String  '(Stats)' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.stats.PSystemStats.getDescription@POLYN147834 the MagicNumber/String  '(Stats)' should be converted to const"
 }} 
 ]
 , 

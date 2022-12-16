@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.util.AppletBasedConfigData" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/jcckit/util/AppletBasedConfigData.java.html#11"
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/jcckit/util/AppletBasedConfigData.java.html#36"
  , "c1" : "AppletBasedConfigData"
  , "c2" : "AppletBasedConfigData(Applet)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/jcckit/util/AppletBasedConfigData.java.html#16"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/jcckit/util/AppletBasedConfigData.java.html#41"
  , "c1" : "AppletBasedConfigData"
  , "c2" : "AppletBasedConfigData(Applet;String)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/jcckit/util/AppletBasedConfigData.java.html#21"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/jcckit/util/AppletBasedConfigData.java.html#46"
  , "c1" : "String"
  , "c2" : "getValue(String)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/jcckit/util/AppletBasedConfigData.java.html#25"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/jcckit/util/AppletBasedConfigData.java.html#50"
  , "c1" : "ConfigData"
  , "c2" : "createConfigData(String)"
  , "c3" : "1"
@@ -102,24 +102,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/jcckit/util/AppletBasedConfigData.java.html#12"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/jcckit/util/AppletBasedConfigData.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method jcckit.util.AppletBasedConfigData.AppletBasedConfigData@POLYN144462 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method jcckit.util.AppletBasedConfigData.AppletBasedConfigData@POLYN144612 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/jcckit/util/AppletBasedConfigData.java.html#21"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/jcckit/util/AppletBasedConfigData.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method getValue arguments String  fullKey"
+ , "c3" : "QC-JAV000006[00046] For method getValue arguments String  fullKey"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/jcckit/util/AppletBasedConfigData.java.html#25"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/jcckit/util/AppletBasedConfigData.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method createConfigData arguments String  path"
+ , "c3" : "QC-JAV000006[00050] For method createConfigData arguments String  path"
 }} 
 ]
 , 

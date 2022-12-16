@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "org.stathissideris.ascii2image.graphics.DiagramText" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#22"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#44"
  , "c1" : "DiagramText"
  , "c2" : "DiagramText(int;int;String;Font;FontMeasurer)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#33"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#55"
  , "c1" : "void"
  , "c2" : "centerInBounds(Rectangle2D)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#38"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#60"
  , "c1" : "void"
  , "c2" : "centerHorizontallyBetween(int;int)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#45"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#67"
  , "c1" : "void"
  , "c2" : "centerVerticallyBetween(int;int)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#51"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#73"
  , "c1" : "void"
  , "c2" : "alignRightEdgeTo(int)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#58"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#82"
  , "c1" : "Color"
  , "c2" : "getColor()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#63"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#89"
  , "c1" : "Font"
  , "c2" : "getFont()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#68"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#96"
  , "c1" : "String"
  , "c2" : "getText()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#73"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#103"
  , "c1" : "int"
  , "c2" : "getXPos()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#78"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#110"
  , "c1" : "int"
  , "c2" : "getYPos()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#83"
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#117"
  , "c1" : "void"
  , "c2" : "setColor(Color)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#88"
+ , "c5" : "00124"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#124"
  , "c1" : "void"
  , "c2" : "setFont(Font)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#93"
+ , "c5" : "00131"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#131"
  , "c1" : "void"
  , "c2" : "setText(String)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00098"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#98"
+ , "c5" : "00138"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#138"
  , "c1" : "void"
  , "c2" : "setXPos(int)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00103"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#103"
+ , "c5" : "00145"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#145"
  , "c1" : "void"
  , "c2" : "setYPos(int)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#107"
+ , "c5" : "00149"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#149"
  , "c1" : "Rectangle2D"
  , "c2" : "getBounds()"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00117"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#117"
+ , "c5" : "00159"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#159"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00122"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#122"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#166"
  , "c1" : "boolean"
  , "c2" : "isTextOnLine()"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00127"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#127"
+ , "c5" : "00173"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#173"
  , "c1" : "void"
  , "c2" : "setTextOnLine(boolean)"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00131"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#131"
+ , "c5" : "00177"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#177"
  , "c1" : "boolean"
  , "c2" : "hasOutline()"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00135"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#135"
+ , "c5" : "00181"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#181"
  , "c1" : "void"
  , "c2" : "setHasOutline(boolean)"
  , "c3" : "1"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00139"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#139"
+ , "c5" : "00185"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#185"
  , "c1" : "Color"
  , "c2" : "getOutlineColor()"
  , "c3" : "1"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00143"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#143"
+ , "c5" : "00189"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#189"
  , "c1" : "void"
  , "c2" : "setOutlineColor(Color)"
  , "c3" : "1"
@@ -280,192 +280,192 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#23"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method org.stathissideris.ascii2image.graphics.DiagramText.DiagramText@POLYN159220 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method org.stathissideris.ascii2image.graphics.DiagramText.DiagramText@POLYN159220 the MagicNumber/String  'DiagramText cannot be initialised with a null string' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method org.stathissideris.ascii2image.graphics.DiagramText.DiagramText@POLYN159220 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method org.stathissideris.ascii2image.graphics.DiagramText.DiagramText@POLYN159220 the MagicNumber/String  'DiagramText cannot be initialised with a null font' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#33"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method centerInBounds arguments Rectangle2D  bounds"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#33"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument bounds is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#38"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method centerHorizontallyBetween arguments int  minX|int  maxX"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method org.stathissideris.ascii2image.graphics.DiagramText.centerHorizontallyBetween@POLYN160354 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method org.stathissideris.ascii2image.graphics.DiagramText.centerHorizontallyBetween@POLYN160354 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.graphics.DiagramText.DiagramText@POLYN159496 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#45"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method centerVerticallyBetween arguments int  minY|int  maxY"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method org.stathissideris.ascii2image.graphics.DiagramText.centerVerticallyBetween@POLYN160837 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.graphics.DiagramText.DiagramText@POLYN159496 the MagicNumber/String  'DiagramText cannot be initialised with a null string' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#48"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method org.stathissideris.ascii2image.graphics.DiagramText.centerVerticallyBetween@POLYN160837 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method org.stathissideris.ascii2image.graphics.DiagramText.DiagramText@POLYN159496 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#51"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method alignRightEdgeTo arguments int  x"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#83"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method setColor arguments Color  color"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#88"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method setFont arguments Font  font"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#93"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00093] For method setText arguments String  string"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#98"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00098] For method setXPos arguments int  i"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#103"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00103] For method setYPos arguments int  i"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#118"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN163334 the MagicNumber/String  'DiagramText, at (' should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method org.stathissideris.ascii2image.graphics.DiagramText.DiagramText@POLYN159496 the MagicNumber/String  'DiagramText cannot be initialised with a null font' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN163334 the MagicNumber/String  ', ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN163334 the MagicNumber/String  '), within ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN163334 the MagicNumber/String  ' '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN163334 the MagicNumber/String  '', ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN163334 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#127"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00127] For method setTextOnLine arguments boolean  b"
+ , "c3" : "QC-JAV000006[00055] For method centerInBounds arguments Rectangle2D  bounds"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#135"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00135] For method setHasOutline arguments boolean  hasOutline"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#55"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00055] The argument bounds is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#143"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00143] For method setOutlineColor arguments Color  outlineColor"
+ , "c3" : "QC-JAV000006[00060] For method centerHorizontallyBetween arguments int  minX|int  maxX"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method org.stathissideris.ascii2image.graphics.DiagramText.centerHorizontallyBetween@POLYN160630 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method org.stathissideris.ascii2image.graphics.DiagramText.centerHorizontallyBetween@POLYN160630 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#67"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00067] For method centerVerticallyBetween arguments int  minY|int  maxY"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#69"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00069] In method org.stathissideris.ascii2image.graphics.DiagramText.centerVerticallyBetween@POLYN161113 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method org.stathissideris.ascii2image.graphics.DiagramText.centerVerticallyBetween@POLYN161113 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#73"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00073] For method alignRightEdgeTo arguments int  x"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#117"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00117] For method setColor arguments Color  color"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#124"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00124] For method setFont arguments Font  font"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#131"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00131] For method setText arguments String  string"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#138"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00138] For method setXPos arguments int  i"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#145"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00145] For method setYPos arguments int  i"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN163610 the MagicNumber/String  'DiagramText, at (' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN163610 the MagicNumber/String  ', ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN163610 the MagicNumber/String  '), within ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN163610 the MagicNumber/String  ' '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN163610 the MagicNumber/String  '', ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN163610 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#173"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00173] For method setTextOnLine arguments boolean  b"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#181"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00181] For method setHasOutline arguments boolean  hasOutline"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#189"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00189] For method setOutlineColor arguments Color  outlineColor"
 }} 
 ]
 , 

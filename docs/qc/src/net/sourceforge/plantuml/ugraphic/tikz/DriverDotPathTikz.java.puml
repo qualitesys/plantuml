@@ -2,6 +2,6 @@
 !pragma layout smetana
 "UDriver<DotPath,TikzGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.tikz.DriverDotPathTikz"
 class net.sourceforge.plantuml.ugraphic.tikz.DriverDotPathTikz {
-+draw(DotPath;double;double;ColorMapper;UParam;TikzGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html#12]]]
++draw(DotPath;double;double;ColorMapper;UParam;TikzGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverDotPathTikz.java.html#45]]]
 } 
 @enduml

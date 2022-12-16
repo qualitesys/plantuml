@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.graphic.QuoteUtils"
 class net.sourceforge.plantuml.graphic.QuoteUtils {
--QuoteUtils() : QuoteUtils [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#289]]]
-+getSomeQuote() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#294]]]
+-QuoteUtils() : QuoteUtils [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#323]]]
++getSomeQuote() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#328]]]
 } 
 @enduml

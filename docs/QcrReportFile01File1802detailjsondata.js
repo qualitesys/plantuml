@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.salt.PSystemSaltFactory2" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#50"
  , "c1" : "PSystemSaltFactory2"
  , "c2" : "PSystemSaltFactory2(DiagramType)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#55"
  , "c1" : "List<Command>"
  , "c2" : "createCommands()"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#69"
  , "c1" : "PSystemSalt"
  , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
  , "c3" : "2"
@@ -93,17 +93,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
+ , "c3" : "QC-JAV000006[00069] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.salt.PSystemSaltFactory2.createEmptyDiagram@POLYN150707 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.salt.PSystemSaltFactory2.createEmptyDiagram@POLYN150911 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.xmi.XmiClassDiagramArgo" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#48"
  , "c1" : "XmiClassDiagramArgo"
  , "c2" : "XmiClassDiagramArgo(ClassDiagram)"
  , "c3" : "5"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#67"
  , "c1" : "void"
  , "c2" : "addLink(Link)"
  , "c3" : "11"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00098"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#98"
+ , "c5" : "00132"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#132"
  , "c1" : "Element"
  , "c2" : "createEntityNodeRef(IEntity)"
  , "c3" : "1"
@@ -107,248 +107,248 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#14"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument classDiagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00021] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#18"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.XmiClassDiagramArgo@POLYN160499 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.XmiClassDiagramArgo@POLYN160499 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#33"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method addLink arguments Link  link"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#33"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument link is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'ass' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#39"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'UML:Association' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'xmi.id' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'namespace' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'name' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'UML:Association.connection' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'UML:AssociationEnd' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'xmi.id' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'end' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'association' should be converted to const"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00048] The argument classDiagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#49"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'type' should be converted to const"
+ , "c3" : "QC-JAV000001[00055] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#50"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.XmiClassDiagramArgo@POLYN160703 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#51"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'name' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.XmiClassDiagramArgo@POLYN160703 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'UML:AssociationEnd.participant' should be converted to const"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#67"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00067] For method addLink arguments Link  link"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'UML:AssociationEnd' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'xmi.id' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'end' should be converted to const"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#67"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00067] The argument link is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'association' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'type' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'ass' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'UML:Association' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'name' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'xmi.id' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'namespace' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  'UML:AssociationEnd.participant' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#77"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'name' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#79"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'UML:Association.connection' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#80"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'UML:AssociationEnd' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'xmi.id' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'end' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161296 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'association' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#98"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#83"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'type' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#84"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'name' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#87"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'UML:AssociationEnd.participant' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'UML:AssociationEnd' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#104"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'xmi.id' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#104"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'end' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'association' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'type' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#108"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'name' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#110"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  'UML:AssociationEnd.participant' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#116"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.addLink@POLYN161500 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#132"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00098] For method createEntityNodeRef arguments IEntity  entity"
+ , "c3" : "QC-JAV000006[00132] For method createEntityNodeRef arguments IEntity  entity"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#98"
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#132"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00098] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00132] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#99"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.createEntityNodeRef@POLYN165446 the MagicNumber/String  'UML:Class' should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.createEntityNodeRef@POLYN165650 the MagicNumber/String  'UML:Class' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#100"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramArgo.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.createEntityNodeRef@POLYN165446 the MagicNumber/String  'xmi.idref' should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.xmi.XmiClassDiagramArgo.createEntityNodeRef@POLYN165650 the MagicNumber/String  'xmi.idref' should be converted to const"
 }} 
 ]
 , 

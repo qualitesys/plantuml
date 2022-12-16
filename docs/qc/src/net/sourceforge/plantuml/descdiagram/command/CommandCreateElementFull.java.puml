@@ -2,13 +2,13 @@
 !pragma layout smetana
 "SingleLineCommand2<DescriptionDiagram>" <|-- "net.sourceforge.plantuml.descdiagram.command.CommandCreateElementFull"
 class net.sourceforge.plantuml.descdiagram.command.CommandCreateElementFull {
-+CommandCreateElementFull() : CommandCreateElementFull [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#42]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#46]]]
--color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#99]]]
--color2() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#103]]]
-isForbidden(CharSequence) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#116]]]
-executeArg(DescriptionDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#124]]]
-+existsWithBadType3(AbstractEntityDiagram;Code;Ident;LeafType;USymbol) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#249]]]
--getCharEncoding(String) : char [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#278]]]
++CommandCreateElementFull() : CommandCreateElementFull [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#77]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#81]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#134]]]
+-color2() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#138]]]
+isForbidden(CharSequence) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#151]]]
+executeArg(DescriptionDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#159]]]
++existsWithBadType3(AbstractEntityDiagram;Code;Ident;LeafType;USymbol) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#284]]]
+-getCharEncoding(String) : char [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandCreateElementFull.java.html#313]]]
 } 
 @enduml

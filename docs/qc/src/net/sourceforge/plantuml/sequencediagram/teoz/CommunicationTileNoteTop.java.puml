@@ -2,7 +2,7 @@
 !pragma layout smetana
 "CommunicationTileNoteBottomTopAbstract" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteTop"
 class net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteTop {
-+CommunicationTileNoteTop(Tile;AbstractMessage;Rose;ISkinParam;Note;YGauge) : CommunicationTileNoteTop [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteTop.java.html#19]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteTop.java.html#25]]]
++CommunicationTileNoteTop(Tile;AbstractMessage;Rose;ISkinParam;Note;YGauge) : CommunicationTileNoteTop [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteTop.java.html#53]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteTop.java.html#59]]]
 } 
 @enduml

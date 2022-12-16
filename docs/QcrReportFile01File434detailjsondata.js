@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.SkinParamBackcoloredReference" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SkinParamBackcoloredReference.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SkinParamBackcoloredReference.java.html#46"
  , "c1" : "SkinParamBackcoloredReference"
  , "c2" : "SkinParamBackcoloredReference(ISkinParam;HColor;HColor)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SkinParamBackcoloredReference.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SkinParamBackcoloredReference.java.html#54"
  , "c1" : "HColor"
  , "c2" : "getHtmlColor(ColorParam;Stereotype;boolean)"
  , "c3" : "3"
@@ -84,24 +84,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SkinParamBackcoloredReference.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SkinParamBackcoloredReference.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method getHtmlColor arguments ColorParam  param|Stereotype  stereotype|boolean  clickable"
+ , "c3" : "QC-JAV000006[00054] For method getHtmlColor arguments ColorParam  param|Stereotype  stereotype|boolean  clickable"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SkinParamBackcoloredReference.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SkinParamBackcoloredReference.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.SkinParamBackcoloredReference.getHtmlColor@POLYN147910 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.SkinParamBackcoloredReference.getHtmlColor@POLYN148114 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/SkinParamBackcoloredReference.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SkinParamBackcoloredReference.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.SkinParamBackcoloredReference.getHtmlColor@POLYN147910 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.SkinParamBackcoloredReference.getHtmlColor@POLYN148114 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.SquareMaker" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#42"
  , "c1" : "void"
  , "c2" : "putInSquare(List<O>;SquareLinker<O>)"
  , "c3" : "4"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#60"
  , "c1" : "int"
  , "c2" : "computeBranch(int)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#69"
  , "c1" : "int"
  , "c2" : "getBottomLeft(int)"
  , "c3" : "1"
@@ -107,94 +107,94 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#8"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#42"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00008] For method putInSquare arguments List&lt;O &gt;  data|SquareLinker&lt;O &gt;  linker"
+ , "c3" : "QC-JAV000006[00042] For method putInSquare arguments List&lt;O &gt;  data|SquareLinker&lt;O &gt;  linker"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#8"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#42"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00008] The argument data is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00042] The argument data is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#8"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#42"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00008] The argument linker is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00042] The argument linker is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#13"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00013] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00047] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00015] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00049] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00019] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00053] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#10"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.putInSquare@POLYN149886 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.putInSquare@POLYN150090 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.putInSquare@POLYN149886 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.putInSquare@POLYN150090 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.putInSquare@POLYN149886 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.putInSquare@POLYN150090 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method computeBranch arguments int  size"
+ , "c3" : "QC-JAV000006[00060] For method computeBranch arguments int  size"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.computeBranch@POLYN151112 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.computeBranch@POLYN151316 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method getBottomLeft arguments int  size"
+ , "c3" : "QC-JAV000006[00069] For method getBottomLeft arguments int  size"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.getBottomLeft@POLYN151554 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.getBottomLeft@POLYN151758 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

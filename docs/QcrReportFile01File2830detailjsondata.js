@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "org.stathissideris.ascii2image.graphics.ImageHandler" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ImageHandler.java.html#13"
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ImageHandler.java.html#32"
  , "c1" : "ImageHandler"
  , "c2" : "instance()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ImageHandler.java.html#19"
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/ImageHandler.java.html#38"
  , "c1" : "Image"
  , "c2" : "loadImage(String)"
  , "c3" : "1"
@@ -84,17 +84,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ImageHandler.java.html#19"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ImageHandler.java.html#38"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method loadImage arguments String  filename"
+ , "c3" : "QC-JAV000006[00038] For method loadImage arguments String  filename"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ImageHandler.java.html#20"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ImageHandler.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method org.stathissideris.ascii2image.graphics.ImageHandler.loadImage@POLYN141549 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method org.stathissideris.ascii2image.graphics.ImageHandler.loadImage@POLYN141663 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

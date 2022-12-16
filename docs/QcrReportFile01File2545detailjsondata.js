@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#51"
  , "c1" : "AbstractPlacementStrategy"
  , "c2" : "AbstractPlacementStrategy(StringBounder)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#55"
  , "c1" : "void"
  , "c2" : "add(TextBlock)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#59"
  , "c1" : "Map<TextBlock,XDimension2D>"
  , "c2" : "getDimensions()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#63"
  , "c1" : "double"
  , "c2" : "getSumWidth()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#67"
  , "c1" : "double"
  , "c2" : "getSumHeight()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#71"
  , "c1" : "double"
  , "c2" : "getMaxHeight()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#75"
  , "c1" : "double"
  , "c2" : "getMaxWidth()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#45"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#79"
  , "c1" : "double"
  , "c2" : "getSumWidth(Iterator<XDimension2D>)"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#53"
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#87"
  , "c1" : "double"
  , "c2" : "getSumHeight(Iterator<XDimension2D>)"
  , "c3" : "2"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#61"
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#95"
  , "c1" : "double"
  , "c2" : "getMaxWidth(Iterator<XDimension2D>)"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#69"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#103"
  , "c1" : "double"
  , "c2" : "getMaxHeight(Iterator<XDimension2D>)"
  , "c3" : "2"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#77"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#111"
  , "c1" : "StringBounder"
  , "c2" : "getStringBounder()"
  , "c3" : "1"
@@ -181,101 +181,101 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method add arguments TextBlock  block"
+ , "c3" : "QC-JAV000006[00055] For method add arguments TextBlock  block"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#55"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00021] The argument block is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00055] The argument block is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#79"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method getSumWidth arguments Iterator&lt;XDimension2D &gt;  it"
+ , "c3" : "QC-JAV000006[00079] For method getSumWidth arguments Iterator&lt;XDimension2D &gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#79"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00045] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00079] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy.getSumWidth@POLYN156065 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy.getSumWidth@POLYN156269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#53"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#87"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method getSumHeight arguments Iterator&lt;XDimension2D &gt;  it"
+ , "c3" : "QC-JAV000006[00087] For method getSumHeight arguments Iterator&lt;XDimension2D &gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#53"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#87"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00053] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00087] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#54"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy.getSumHeight@POLYN156417 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy.getSumHeight@POLYN156621 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#95"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method getMaxWidth arguments Iterator&lt;XDimension2D &gt;  it"
+ , "c3" : "QC-JAV000006[00095] For method getMaxWidth arguments Iterator&lt;XDimension2D &gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#95"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00061] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00095] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#62"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy.getMaxWidth@POLYN156769 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy.getMaxWidth@POLYN156973 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#69"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#103"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method getMaxHeight arguments Iterator&lt;XDimension2D &gt;  it"
+ , "c3" : "QC-JAV000006[00103] For method getMaxHeight arguments Iterator&lt;XDimension2D &gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#69"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#103"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00069] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00103] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#70"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy.getMaxHeight@POLYN157182 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy.getMaxHeight@POLYN157386 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

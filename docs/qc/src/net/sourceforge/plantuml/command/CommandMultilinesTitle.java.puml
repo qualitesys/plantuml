@@ -2,8 +2,8 @@
 !pragma layout smetana
 "CommandMultilines<TitledDiagram>" <|-- "net.sourceforge.plantuml.command.CommandMultilinesTitle"
 class net.sourceforge.plantuml.command.CommandMultilinesTitle {
-+CommandMultilinesTitle() : CommandMultilinesTitle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesTitle.java.html#13]]]
-+getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesTitle.java.html#18]]]
-+execute(TitledDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesTitle.java.html#22]]]
++CommandMultilinesTitle() : CommandMultilinesTitle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesTitle.java.html#47]]]
++getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesTitle.java.html#52]]]
++execute(TitledDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesTitle.java.html#56]]]
 } 
 @enduml

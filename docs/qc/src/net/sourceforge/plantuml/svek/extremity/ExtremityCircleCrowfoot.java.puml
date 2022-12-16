@@ -2,9 +2,9 @@
 !pragma layout smetana
 "Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityCircleCrowfoot"
 class net.sourceforge.plantuml.svek.extremity.ExtremityCircleCrowfoot {
-+somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircleCrowfoot.java.html#19]]]
-+ExtremityCircleCrowfoot(XPoint2D;double) : ExtremityCircleCrowfoot [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircleCrowfoot.java.html#23]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircleCrowfoot.java.html#28]]]
--drawLine(UGraphic;double;double;XPoint2D;XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircleCrowfoot.java.html#50]]]
++somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircleCrowfoot.java.html#53]]]
++ExtremityCircleCrowfoot(XPoint2D;double) : ExtremityCircleCrowfoot [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircleCrowfoot.java.html#57]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircleCrowfoot.java.html#62]]]
+-drawLine(UGraphic;double;double;XPoint2D;XPoint2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircleCrowfoot.java.html#84]]]
 } 
 @enduml

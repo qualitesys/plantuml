@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.data.DataCurve" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/jcckit/data/DataCurve.java.html#17"
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/jcckit/data/DataCurve.java.html#38"
  , "c1" : "DataCurve"
  , "c2" : "DataCurve(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/jcckit/data/DataCurve.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/jcckit/data/DataCurve.java.html#56"
  , "c1" : "DataCurve"
  , "c2" : "DataCurve(ConfigParameters)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/jcckit/data/DataCurve.java.html#33"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/jcckit/data/DataCurve.java.html#69"
  , "c1" : "DataContainer"
  , "c2" : "getContainer()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/jcckit/data/DataCurve.java.html#39"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/jcckit/data/DataCurve.java.html#77"
  , "c1" : "void"
  , "c2" : "setContainer(DataContainer)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/jcckit/data/DataCurve.java.html#44"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/jcckit/data/DataCurve.java.html#82"
  , "c1" : "String"
  , "c2" : "getTitle()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/jcckit/data/DataCurve.java.html#49"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/jcckit/data/DataCurve.java.html#90"
  , "c1" : "boolean"
  , "c2" : "isValid(DataElement)"
  , "c3" : "1"
@@ -127,38 +127,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/jcckit/data/DataCurve.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/jcckit/data/DataCurve.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00022] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00056] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/jcckit/data/DataCurve.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/jcckit/data/DataCurve.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method jcckit.data.DataCurve.DataCurve@POLYN155975 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method jcckit.data.DataCurve.DataCurve@POLYN156221 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/jcckit/data/DataCurve.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/jcckit/data/DataCurve.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method jcckit.data.DataCurve.DataCurve@POLYN155975 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method jcckit.data.DataCurve.DataCurve@POLYN156221 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/jcckit/data/DataCurve.java.html#39"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/jcckit/data/DataCurve.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method setContainer arguments DataContainer  container"
+ , "c3" : "QC-JAV000006[00077] For method setContainer arguments DataContainer  container"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/jcckit/data/DataCurve.java.html#49"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/jcckit/data/DataCurve.java.html#90"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method isValid arguments DataElement  element"
+ , "c3" : "QC-JAV000006[00090] For method isValid arguments DataElement  element"
 }} 
 ]
 , 

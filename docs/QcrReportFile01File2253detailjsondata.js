@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.svek.SvekNode" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#75"
  , "c1" : "EntityPosition"
  , "c2" : "getEntityPosition()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#47"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#81"
  , "c1" : "Cluster"
  , "c2" : "getCluster()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#51"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#85"
  , "c1" : "void"
  , "c2" : "setCluster(Cluster)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#56"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#90"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#63"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#97"
  , "c1" : "SvekNode"
  , "c2" : "SvekNode(ILeaf;IEntityImage;ColorSequence;StringBounder)"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#81"
+ , "c5" : "00115"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#115"
  , "c1" : "XDimension2D"
  , "c2" : "getDimImage()"
  , "c3" : "2"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#87"
+ , "c5" : "00121"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#121"
  , "c1" : "ShapeType"
  , "c2" : "getType()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#91"
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#125"
  , "c1" : "double"
  , "c2" : "getWidth()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#95"
+ , "c5" : "00129"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#129"
  , "c1" : "double"
  , "c2" : "getHeight()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00099"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#99"
+ , "c5" : "00133"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#133"
  , "c1" : "void"
  , "c2" : "appendShape(StringBuilder;StringBounder)"
  , "c3" : "5"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00135"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#135"
+ , "c5" : "00169"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#169"
  , "c1" : "double"
  , "c2" : "getMaxWidthFromLabelForEntryExit(StringBounder)"
  , "c3" : "3"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00147"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#147"
+ , "c5" : "00181"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#181"
  , "c1" : "void"
  , "c2" : "appendLabelHtmlSpecialForPort(StringBuilder;StringBounder)"
  , "c3" : "3"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00156"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#156"
+ , "c5" : "00190"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#190"
  , "c1" : "void"
  , "c2" : "appendLabelHtmlSpecialForPortHtml(StringBuilder;StringBounder;int)"
  , "c3" : "2"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00174"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#174"
+ , "c5" : "00208"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#208"
  , "c1" : "void"
  , "c2" : "appendLabelHtmlSpecialForPortBasic(StringBuilder;StringBounder)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00189"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#189"
+ , "c5" : "00223"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#223"
  , "c1" : "Margins"
  , "c2" : "shield()"
  , "c3" : "3"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00200"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#200"
+ , "c5" : "00234"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#234"
  , "c1" : "void"
  , "c2" : "appendHtml(StringBuilder)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00212"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#212"
+ , "c5" : "00246"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#246"
  , "c1" : "void"
  , "c2" : "appendLabelHtml(StringBuilder)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00236"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#236"
+ , "c5" : "00270"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#270"
  , "c1" : "void"
  , "c2" : "appendLabelHtmlSpecialForLink(StringBuilder;StringBounder)"
  , "c3" : "2"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00261"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#261"
+ , "c5" : "00295"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#295"
  , "c1" : "void"
  , "c2" : "appendTr(StringBuilder;String;double)"
  , "c3" : "3"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00276"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#276"
+ , "c5" : "00310"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#310"
  , "c1" : "void"
  , "c2" : "appendTd(StringBuilder;double;double)"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00283"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#283"
+ , "c5" : "00317"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#317"
  , "c1" : "void"
  , "c2" : "appendTd(StringBuilder)"
  , "c3" : "1"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00288"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#288"
+ , "c5" : "00322"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#322"
  , "c1" : "void"
  , "c2" : "appendShapeInternal(StringBuilder)"
  , "c3" : "19"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00313"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#313"
+ , "c5" : "00347"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#347"
  , "c1" : "String"
  , "c2" : "getUid()"
  , "c3" : "2"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00320"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#320"
+ , "c5" : "00354"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#354"
  , "c1" : "double"
  , "c2" : "getMinX()"
  , "c3" : "1"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00324"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#324"
+ , "c5" : "00358"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#358"
  , "c1" : "double"
  , "c2" : "getMinY()"
  , "c3" : "1"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00328"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#328"
+ , "c5" : "00362"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#362"
  , "c1" : "IEntityImage"
  , "c2" : "getImage()"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00332"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#332"
+ , "c5" : "00366"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#366"
  , "c1" : "XPoint2D"
  , "c2" : "getPosition()"
  , "c3" : "1"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00336"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#336"
+ , "c5" : "00370"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#370"
  , "c1" : "XDimension2D"
  , "c2" : "getSize()"
  , "c3" : "1"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00340"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#340"
+ , "c5" : "00374"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#374"
  , "c1" : "ClusterPosition"
  , "c2" : "getClusterPosition()"
  , "c3" : "1"
@@ -279,8 +279,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00344"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#344"
+ , "c5" : "00378"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#378"
  , "c1" : "boolean"
  , "c2" : "isShielded()"
  , "c3" : "1"
@@ -288,8 +288,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00348"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#348"
+ , "c5" : "00382"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#382"
  , "c1" : "void"
  , "c2" : "moveSvek(double;double)"
  , "c3" : "1"
@@ -297,8 +297,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00353"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#353"
+ , "c5" : "00387"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#387"
  , "c1" : "boolean"
  , "c2" : "isHidden()"
  , "c3" : "1"
@@ -306,8 +306,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00359"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#359"
+ , "c5" : "00393"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#393"
  , "c1" : "void"
  , "c2" : "setPolygon(double;double;List<XPoint2D>)"
  , "c3" : "1"
@@ -315,8 +315,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00363"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#363"
+ , "c5" : "00397"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#397"
  , "c1" : "Shadowable"
  , "c2" : "getPolygon()"
  , "c3" : "1"
@@ -324,8 +324,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00367"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#367"
+ , "c5" : "00401"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#401"
  , "c1" : "XPoint2D"
  , "c2" : "getPoint2D(double;double)"
  , "c3" : "1"
@@ -333,8 +333,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00371"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#371"
+ , "c5" : "00405"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#405"
  , "c1" : "XPoint2D"
  , "c2" : "projection(XPoint2D;StringBounder)"
  , "c3" : "4"
@@ -342,8 +342,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00386"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#386"
+ , "c5" : "00420"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#420"
  , "c1" : "double"
  , "c2" : "getOverscanX(StringBounder)"
  , "c3" : "1"
@@ -351,8 +351,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00390"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#390"
+ , "c5" : "00424"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#424"
  , "c1" : "void"
  , "c2" : "addImpact(double)"
  , "c3" : "1"
@@ -360,8 +360,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00394"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#394"
+ , "c5" : "00428"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#428"
  , "c1" : "void"
  , "c2" : "drawKals(UGraphic)"
  , "c3" : "2"
@@ -369,8 +369,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00405"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#405"
+ , "c5" : "00439"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#439"
  , "c1" : "void"
  , "c2" : "fixOverlap()"
  , "c3" : "2"
@@ -378,8 +378,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00413"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#413"
+ , "c5" : "00447"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#447"
  , "c1" : "void"
  , "c2" : "fixHoverlap(List<Kal>)"
  , "c3" : "3"
@@ -387,8 +387,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00426"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#426"
+ , "c5" : "00460"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#460"
  , "c1" : "void"
  , "c2" : "drawList(UGraphic;List<Kal>)"
  , "c3" : "2"
@@ -458,1123 +458,1123 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#85"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method setCluster arguments Cluster  cluster"
+ , "c3" : "QC-JAV000006[00085] For method setCluster arguments Cluster  cluster"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#57"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.svek.SvekNode.toString@POLYN212923 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.svek.SvekNode.toString@POLYN213127 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#57"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.svek.SvekNode.toString@POLYN212923 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.svek.SvekNode.toString@POLYN213127 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#63"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#97"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00063] The argument ent is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00097] The argument ent is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#63"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#97"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00063] The argument image is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00097] The argument image is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#63"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#97"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00063] The argument colorSequence is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00097] The argument colorSequence is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#70"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.svek.SvekNode.SvekNode@POLYN213193 the MagicNumber/String  'sh%04d' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.svek.SvekNode.SvekNode@POLYN213397 the MagicNumber/String  'sh%04d' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#72"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.svek.SvekNode.SvekNode@POLYN213193 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.svek.SvekNode.SvekNode@POLYN213397 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#73"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.svek.SvekNode.SvekNode@POLYN213193 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.svek.SvekNode.SvekNode@POLYN213397 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#77"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.svek.SvekNode.SvekNode@POLYN213193 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.svek.SvekNode.SvekNode@POLYN213397 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#82"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.svek.SvekNode.getDimImage@POLYN214323 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.svek.SvekNode.getDimImage@POLYN214527 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#99"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#133"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00099] For method appendShape arguments StringBuilder  sb|StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00133] For method appendShape arguments StringBuilder  sb|StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#99"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#133"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00099] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00133] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#115"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN214899 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN215103 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#121"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN214899 the MagicNumber/String  ' [' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN214899 the MagicNumber/String  ',' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN214899 the MagicNumber/String  'label=\'\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#125"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN214899 the MagicNumber/String  ',' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#126"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN214899 the MagicNumber/String  'width=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#127"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN214899 the MagicNumber/String  ',' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN214899 the MagicNumber/String  'height=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN214899 the MagicNumber/String  ',' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN214899 the MagicNumber/String  'color=\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN214899 the MagicNumber/String  '\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN214899 the MagicNumber/String  '];' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#135"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00135] For method getMaxWidthFromLabelForEntryExit arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#147"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00147] For method appendLabelHtmlSpecialForPort arguments StringBuilder  sb|StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#150"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPort@POLYN217760 the MagicNumber/String  40 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#151"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPort@POLYN217760 the MagicNumber/String  40 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#156"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00156] For method appendLabelHtmlSpecialForPortHtml arguments StringBuilder  sb|StringBounder  stringBounder|int  fullWidth"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#156"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00156] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN215103 the MagicNumber/String  ' [' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN215103 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN215103 the MagicNumber/String  'label=\'\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN215103 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  ' [' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN215103 the MagicNumber/String  'width=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  'shape=plaintext' should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN215103 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN215103 the MagicNumber/String  'height=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  'label=&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN215103 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  '&amp;lt;TABLE BORDER=\'0\' CELLBORDER=\'0\' CELLSPACING=\'0\' CELLPADDING=\'0\'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN215103 the MagicNumber/String  'color=\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN215103 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  '&amp;lt;TR&amp;gt;&amp;lt;TD WIDTH=\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#165"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  '\' HEIGHT=\'1\' COLSPAN=\'3\'&amp;gt;&amp;lt;/TD&amp;gt;&amp;lt;/TR&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#166"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  '&amp;lt;TR&amp;gt;&amp;lt;TD&amp;gt;&amp;lt;/TD&amp;gt;&amp;lt;TD FIXEDSIZE=\'TRUE\' PORT=\'P\'  BORDER=\'1\' COLOR=\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#167"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  '\' WIDTH=\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#167"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  '\' HEIGHT=\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#168"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  '\'&amp;gt;&amp;lt;/TD&amp;gt;&amp;lt;TD&amp;gt;&amp;lt;/TD&amp;gt;&amp;lt;/TR&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.svek.SvekNode.appendShape@POLYN215103 the MagicNumber/String  '];' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#169"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  '&amp;lt;TR&amp;gt;&amp;lt;TD WIDTH=\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#169"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  '\' HEIGHT=\'1\' COLSPAN=\'3\'&amp;gt;&amp;lt;/TD&amp;gt;&amp;lt;/TR&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#170"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  '&amp;lt;/TABLE&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00171"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#171"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218324 the MagicNumber/String  '&amp;gt;];' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#174"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00174] For method appendLabelHtmlSpecialForPortBasic arguments StringBuilder  sb|StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#174"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00174] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#176"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219683 the MagicNumber/String  ' [' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00177"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#177"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219683 the MagicNumber/String  'shape=rect' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#178"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219683 the MagicNumber/String  ',' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#179"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219683 the MagicNumber/String  'label=\'\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00180"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#180"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219683 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000006[00169] For method getMaxWidthFromLabelForEntryExit arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#181"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219683 the MagicNumber/String  'width=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00182"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#182"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219683 the MagicNumber/String  ',' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#183"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219683 the MagicNumber/String  'height=' should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00181] For method appendLabelHtmlSpecialForPort arguments StringBuilder  sb|StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219683 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPort@POLYN217964 the MagicNumber/String  40 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219683 the MagicNumber/String  'color=\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#185"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219683 the MagicNumber/String  '\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00186"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#186"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219683 the MagicNumber/String  '];' should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPort@POLYN217964 the MagicNumber/String  40 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#190"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00190] For method appendLabelHtmlSpecialForPortHtml arguments StringBuilder  sb|StringBounder  stringBounder|int  fullWidth"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#190"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00190] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.svek.SvekNode.shield@POLYN220884 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.svek.SvekNode.shield@POLYN220884 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  ' [' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00195"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#195"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  'shape=plaintext' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#196"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  ',' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#197"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  'label=&amp;lt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#198"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  '&amp;lt;TABLE BORDER=\'0\' CELLBORDER=\'0\' CELLSPACING=\'0\' CELLPADDING=\'0\'&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#199"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  '&amp;lt;TR&amp;gt;&amp;lt;TD WIDTH=\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#199"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  '\' HEIGHT=\'1\' COLSPAN=\'3\'&amp;gt;&amp;lt;/TD&amp;gt;&amp;lt;/TR&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#200"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00200] For method appendHtml arguments StringBuilder  sb"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  '&amp;lt;TR&amp;gt;&amp;lt;TD&amp;gt;&amp;lt;/TD&amp;gt;&amp;lt;TD FIXEDSIZE=\'TRUE\' PORT=\'P\'  BORDER=\'1\' COLOR=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00200"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#200"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00200] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#201"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  '\' WIDTH=\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#201"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  '\' HEIGHT=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.svek.SvekNode.appendHtml@POLYN221427 the MagicNumber/String  ' [' should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  '\'&amp;gt;&amp;lt;/TD&amp;gt;&amp;lt;TD&amp;gt;&amp;lt;/TD&amp;gt;&amp;lt;/TR&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.svek.SvekNode.appendHtml@POLYN221427 the MagicNumber/String  'shape=plaintext,' should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  '&amp;lt;TR&amp;gt;&amp;lt;TD WIDTH=\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  '\' HEIGHT=\'1\' COLSPAN=\'3\'&amp;gt;&amp;lt;/TD&amp;gt;&amp;lt;/TR&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.svek.SvekNode.appendHtml@POLYN221427 the MagicNumber/String  'label=&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  '&amp;lt;/TABLE&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#206"
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.svek.SvekNode.appendHtml@POLYN221427 the MagicNumber/String  '&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortHtml@POLYN218528 the MagicNumber/String  '&amp;gt;];' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#207"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.svek.SvekNode.appendHtml@POLYN221427 the MagicNumber/String  '];' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00212"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#212"
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#208"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00212] For method appendLabelHtml arguments StringBuilder  sb"
+ , "c3" : "QC-JAV000006[00208] For method appendLabelHtmlSpecialForPortBasic arguments StringBuilder  sb|StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#208"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00208] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#210"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219887 the MagicNumber/String  ' [' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#211"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219887 the MagicNumber/String  'shape=rect' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00212"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#212"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00212] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219887 the MagicNumber/String  ',' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00213"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#213"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219887 the MagicNumber/String  'label=\'\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00214"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#214"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  '&amp;lt;TABLE BORDER=\'0\' CELLBORDER=\'0\' CELLSPACING=\'0\' CELLPADDING=\'0\'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219887 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  '&amp;lt;TR&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219887 the MagicNumber/String  'width=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#216"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219887 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00217"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219887 the MagicNumber/String  'height=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00218"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#218"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219887 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00219"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#219"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  '&amp;lt;/TR&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219887 the MagicNumber/String  'color=\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#219"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219887 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00220"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#220"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  '&amp;lt;TR&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00221"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#221"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00222"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#222"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  '&amp;lt;TD BGCOLOR=\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00222"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#222"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  '\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#223"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  ' FIXEDSIZE=\'TRUE\' WIDTH=\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#223"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  '\' HEIGHT=\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#223"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForPortBasic@POLYN219887 the MagicNumber/String  '];' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00224"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  ' PORT=\'h\'&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#225"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  '&amp;lt;/TD&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.svek.SvekNode.shield@POLYN221088 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.svek.SvekNode.shield@POLYN221088 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00227"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#227"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  '&amp;lt;/TR&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#228"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  '&amp;lt;TR&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00230"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#230"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00232"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#232"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  '&amp;lt;/TR&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#233"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222060 the MagicNumber/String  '&amp;lt;/TABLE&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00236"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#236"
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#234"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00236] For method appendLabelHtmlSpecialForLink arguments StringBuilder  sb|StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00234] For method appendHtml arguments StringBuilder  sb"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#234"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00234] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00236"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#236"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00236] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.svek.SvekNode.appendHtml@POLYN221631 the MagicNumber/String  ' [' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00248"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#248"
+ , "c1" : "00237"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#237"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00248] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.svek.SvekNode.appendHtml@POLYN221631 the MagicNumber/String  'shape=plaintext,' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00238"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#238"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.svek.SvekNode.appendHtml@POLYN221631 the MagicNumber/String  'label=&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00240"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224016 the MagicNumber/String  ' [' should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.svek.SvekNode.appendHtml@POLYN221631 the MagicNumber/String  '&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00241"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224016 the MagicNumber/String  'shape=plaintext,' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00243"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#243"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224016 the MagicNumber/String  'label=&amp;lt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#244"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224016 the MagicNumber/String  '&amp;lt;TABLE BGCOLOR=\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00245"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#245"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224016 the MagicNumber/String  '\' BORDER=\'0\' CELLBORDER=\'0\' CELLSPACING=\'0\' CELLPADDING=\'0\'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.svek.SvekNode.appendHtml@POLYN221631 the MagicNumber/String  '];' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00246"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#246"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224016 the MagicNumber/String  0 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00246] For method appendLabelHtml arguments StringBuilder  sb"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00250"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#250"
+ , "c1" : "00246"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#246"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00246] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#248"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224016 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  '&amp;lt;TABLE BORDER=\'0\' CELLBORDER=\'0\' CELLSPACING=\'0\' CELLPADDING=\'0\'&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#249"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  '&amp;lt;TR&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00251"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#251"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#253"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  '&amp;lt;/TR&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00254"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#254"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224016 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  '&amp;lt;TR&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00255"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#255"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224016 the MagicNumber/String  '&amp;lt;/TABLE&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00256"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#256"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224016 the MagicNumber/String  '&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  '&amp;lt;TD BGCOLOR=\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#256"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224016 the MagicNumber/String  '];' should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  ' FIXEDSIZE=\'TRUE\' WIDTH=\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#257"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  '\' HEIGHT=\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#257"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  '\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00258"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#258"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  ' PORT=\'h\'&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#259"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  '&amp;lt;/TD&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#260"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00261"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#261"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00261] For method appendTr arguments StringBuilder  sb|String  portId|double  height"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00261"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#261"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00261] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  '&amp;lt;/TR&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00262"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#262"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225781 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  '&amp;lt;TR&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00265"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#265"
+ , "c1" : "00264"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#264"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225781 the MagicNumber/String  '&amp;lt;TR&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00266"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#266"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225781 the MagicNumber/String  '&amp;lt;TD ' should be converted to const"
+ , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  '&amp;lt;/TR&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00267"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#267"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225781 the MagicNumber/String  ' FIXEDSIZE=\'TRUE\' WIDTH=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtml@POLYN222264 the MagicNumber/String  '&amp;lt;/TABLE&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00267"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#267"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225781 the MagicNumber/String  '\' HEIGHT=\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00267"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#267"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225781 the MagicNumber/String  '\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00268"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#268"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225781 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00269"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#269"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225781 the MagicNumber/String  ' PORT=\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00269"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#269"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225781 the MagicNumber/String  '\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00271"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#271"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225781 the MagicNumber/String  '&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00272"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#272"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225781 the MagicNumber/String  '&amp;lt;/TD&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00273"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#273"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225781 the MagicNumber/String  '&amp;lt;/TR&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00276"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#276"
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#270"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00276] For method appendTd arguments StringBuilder  sb|double  w|double  h"
+ , "c3" : "QC-JAV000006[00270] For method appendLabelHtmlSpecialForLink arguments StringBuilder  sb|StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00276"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#276"
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#270"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00276] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00270] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00282"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#282"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00282] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00274"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#274"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00274] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224220 the MagicNumber/String  ' [' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00275"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#275"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224220 the MagicNumber/String  'shape=plaintext,' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.svek.SvekNode.appendTd@POLYN226685 the MagicNumber/String  '&amp;lt;TD' should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224220 the MagicNumber/String  'label=&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00278"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#278"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.svek.SvekNode.appendTd@POLYN226685 the MagicNumber/String  ' FIXEDSIZE=\'TRUE\' WIDTH=\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00278"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#278"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.svek.SvekNode.appendTd@POLYN226685 the MagicNumber/String  '\' HEIGHT=\'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00278"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#278"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.svek.SvekNode.appendTd@POLYN226685 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224220 the MagicNumber/String  '&amp;lt;TABLE BGCOLOR=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00279"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#279"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.svek.SvekNode.appendTd@POLYN226685 the MagicNumber/String  '&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224220 the MagicNumber/String  '\' BORDER=\'0\' CELLBORDER=\'0\' CELLSPACING=\'0\' CELLPADDING=\'0\'&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00280"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#280"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.svek.SvekNode.appendTd@POLYN226685 the MagicNumber/String  '&amp;lt;/TD&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#283"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00283] For method appendTd arguments StringBuilder  sb"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#283"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00283] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224220 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00284"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#284"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00284] In method net.sourceforge.plantuml.svek.SvekNode.appendTd@POLYN227182 the MagicNumber/String  '&amp;lt;TD&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00284] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224220 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00285"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#285"
+ , "c1" : "00288"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#288"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00285] In method net.sourceforge.plantuml.svek.SvekNode.appendTd@POLYN227182 the MagicNumber/String  '&amp;lt;/TD&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00288"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#288"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00288] For method appendShapeInternal arguments StringBuilder  sb"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00288"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#288"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00288] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00288] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224220 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00289"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#289"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.svek.SvekNode.appendShapeInternal@POLYN227391 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224220 the MagicNumber/String  '&amp;lt;/TABLE&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00293"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#293"
+ , "c1" : "00290"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#290"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.svek.SvekNode.appendShapeInternal@POLYN227391 the MagicNumber/String  'shape=rect' should be converted to const"
+ , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224220 the MagicNumber/String  '&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00297"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#297"
+ , "c1" : "00291"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#291"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00297] In method net.sourceforge.plantuml.svek.SvekNode.appendShapeInternal@POLYN227391 the MagicNumber/String  'shape=octagon' should be converted to const"
+ , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.svek.SvekNode.appendLabelHtmlSpecialForLink@POLYN224220 the MagicNumber/String  '];' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#295"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00295] For method appendTr arguments StringBuilder  sb|String  portId|double  height"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#295"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00295] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00296"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#296"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00296] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225985 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00299"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#299"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00299] In method net.sourceforge.plantuml.svek.SvekNode.appendShapeInternal@POLYN227391 the MagicNumber/String  'shape=hexagon' should be converted to const"
+ , "c3" : "QC-JAV000010[00299] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225985 the MagicNumber/String  '&amp;lt;TR&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00300"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#300"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00300] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225985 the MagicNumber/String  '&amp;lt;TD ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00301"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.svek.SvekNode.appendShapeInternal@POLYN227391 the MagicNumber/String  'shape=diamond' should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225985 the MagicNumber/String  ' FIXEDSIZE=\'TRUE\' WIDTH=\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#301"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225985 the MagicNumber/String  '\' HEIGHT=\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#301"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225985 the MagicNumber/String  '\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00302"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#302"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225985 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00303"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#303"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.svek.SvekNode.appendShapeInternal@POLYN227391 the MagicNumber/String  'shape=circle' should be converted to const"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225985 the MagicNumber/String  ' PORT=\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00303"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#303"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225985 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00305"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#305"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00305] In method net.sourceforge.plantuml.svek.SvekNode.appendShapeInternal@POLYN227391 the MagicNumber/String  'shape=ellipse' should be converted to const"
+ , "c3" : "QC-JAV000010[00305] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225985 the MagicNumber/String  '&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00306"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#306"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00306] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225985 the MagicNumber/String  '&amp;lt;/TD&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00307"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#307"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.svek.SvekNode.appendShapeInternal@POLYN227391 the MagicNumber/String  'shape=rect,style=rounded' should be converted to const"
+ , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.svek.SvekNode.appendTr@POLYN225985 the MagicNumber/String  '&amp;lt;/TR&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00310"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#310"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00310] For method appendTd arguments StringBuilder  sb|double  w|double  h"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00310"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#310"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00310] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00311"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#311"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00311] In method net.sourceforge.plantuml.svek.SvekNode.appendTd@POLYN226889 the MagicNumber/String  '&amp;lt;TD' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00312"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#312"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.svek.SvekNode.appendTd@POLYN226889 the MagicNumber/String  ' FIXEDSIZE=\'TRUE\' WIDTH=\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00312"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#312"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.svek.SvekNode.appendTd@POLYN226889 the MagicNumber/String  '\' HEIGHT=\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00312"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#312"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.svek.SvekNode.appendTd@POLYN226889 the MagicNumber/String  '\'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00313"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#313"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00313] In method net.sourceforge.plantuml.svek.SvekNode.appendTd@POLYN226889 the MagicNumber/String  '&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00314"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#314"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.svek.SvekNode.getUid@POLYN228908 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.svek.SvekNode.appendTd@POLYN226889 the MagicNumber/String  '&amp;lt;/TD&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00345"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#345"
+ , "c1" : "00317"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#317"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00317] For method appendTd arguments StringBuilder  sb"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00317"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#317"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00317] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00318"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#318"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00345] In method net.sourceforge.plantuml.svek.SvekNode.isShielded@POLYN229874 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00318] In method net.sourceforge.plantuml.svek.SvekNode.appendTd@POLYN227386 the MagicNumber/String  '&amp;lt;TD&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00319"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#319"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.svek.SvekNode.appendTd@POLYN227386 the MagicNumber/String  '&amp;lt;/TD&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00322"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#322"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00322] For method appendShapeInternal arguments StringBuilder  sb"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00322"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#322"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00322] The argument sb is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00323"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#323"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00323] In method net.sourceforge.plantuml.svek.SvekNode.appendShapeInternal@POLYN227595 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00327"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#327"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00327] In method net.sourceforge.plantuml.svek.SvekNode.appendShapeInternal@POLYN227595 the MagicNumber/String  'shape=rect' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00331"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#331"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00331] In method net.sourceforge.plantuml.svek.SvekNode.appendShapeInternal@POLYN227595 the MagicNumber/String  'shape=octagon' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00333"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#333"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.svek.SvekNode.appendShapeInternal@POLYN227595 the MagicNumber/String  'shape=hexagon' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00335"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#335"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00335] In method net.sourceforge.plantuml.svek.SvekNode.appendShapeInternal@POLYN227595 the MagicNumber/String  'shape=diamond' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00337"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#337"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.svek.SvekNode.appendShapeInternal@POLYN227595 the MagicNumber/String  'shape=circle' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00339"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#339"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00339] In method net.sourceforge.plantuml.svek.SvekNode.appendShapeInternal@POLYN227595 the MagicNumber/String  'shape=ellipse' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00341"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#341"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00341] In method net.sourceforge.plantuml.svek.SvekNode.appendShapeInternal@POLYN227595 the MagicNumber/String  'shape=rect,style=rounded' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00348"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#348"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00348] For method moveSvek arguments double  deltaX|double  deltaY"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.svek.SvekNode.getUid@POLYN229112 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00359"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#359"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00359] For method setPolygon arguments double  minX|double  minY|List&lt;XPoint2D &gt;  points"
+ , "c1" : "00379"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#379"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00379] In method net.sourceforge.plantuml.svek.SvekNode.isShielded@POLYN230078 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00367"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#367"
+ , "c1" : "00382"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#382"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00367] For method getPoint2D arguments double  x|double  y"
+ , "c3" : "QC-JAV000006[00382] For method moveSvek arguments double  deltaX|double  deltaY"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00371"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#371"
+ , "c1" : "00393"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#393"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00371] For method projection arguments XPoint2D  pt|StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00393] For method setPolygon arguments double  minX|double  minY|List&lt;XPoint2D &gt;  points"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00371"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#371"
+ , "c1" : "00401"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#401"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00401] For method getPoint2D arguments double  x|double  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00405"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#405"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00405] For method projection arguments XPoint2D  pt|StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00405"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#405"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00371] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00405] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00381"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#381"
+ , "c1" : "00415"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#415"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00381] In method net.sourceforge.plantuml.svek.SvekNode.projection@POLYN231016 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00386"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#386"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00386] For method getOverscanX arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00390"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#390"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00390] For method addImpact arguments double  angle"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00394"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#394"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00394] For method drawKals arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00395"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#395"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00395] In method net.sourceforge.plantuml.svek.SvekNode.drawKals@POLYN232385 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00406"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#406"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00406] In method net.sourceforge.plantuml.svek.SvekNode.fixOverlap@POLYN233228 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00413"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#413"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00413] For method fixHoverlap arguments List&lt;Kal &gt;  list"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00413"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#413"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00413] The argument list is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00415] In method net.sourceforge.plantuml.svek.SvekNode.projection@POLYN231220 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00420"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#420"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00420] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00419"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#419"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00419] In method net.sourceforge.plantuml.svek.SvekNode.fixHoverlap@POLYN233659 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00426"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#426"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00426] For method drawList arguments UGraphic  ug|List&lt;Kal &gt;  list"
+ , "c3" : "QC-JAV000006[00420] For method getOverscanX arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00424"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#424"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00424] For method addImpact arguments double  angle"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00428"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#428"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00428] For method drawKals arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00429"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#429"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00429] In method net.sourceforge.plantuml.svek.SvekNode.drawKals@POLYN232589 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00440"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#440"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00440] In method net.sourceforge.plantuml.svek.SvekNode.fixOverlap@POLYN233432 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00447"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#447"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00447] For method fixHoverlap arguments List&lt;Kal &gt;  list"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00447"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#447"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00447] The argument list is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00454"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#454"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00454] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00453"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#453"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00453] In method net.sourceforge.plantuml.svek.SvekNode.fixHoverlap@POLYN233863 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00460"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#460"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00460] For method drawList arguments UGraphic  ug|List&lt;Kal &gt;  list"
 }} 
 ]
 , 

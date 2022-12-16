@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.sprite.ResourcesUtils"
 class net.sourceforge.plantuml.sprite.ResourcesUtils {
-+getJarFile(String;boolean) : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#23]]]
--getProtocol() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#51]]]
--listFiles(JarFile;String) : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#56]]]
--listFolders(JarFile;String) : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#68]]]
--listEntry(SFile) : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#84]]]
++getJarFile(String;boolean) : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#57]]]
+-getProtocol() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#85]]]
+-listFiles(JarFile;String) : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#90]]]
+-listFolders(JarFile;String) : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#102]]]
+-listEntry(SFile) : Set<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#118]]]
 } 
 @enduml

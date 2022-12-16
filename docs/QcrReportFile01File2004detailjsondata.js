@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#56"
  , "c1" : "Step1MessageExo"
  , "c2" : "Step1MessageExo(ParticipantRange;StringBounder;MessageExo;DrawableSet;Frontier)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#78"
  , "c1" : "Frontier"
  , "c2" : "prepareMessage(ConstraintSet;InGroupablesStack)"
  , "c3" : "5"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#81"
+ , "c5" : "00115"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#115"
  , "c1" : "LivingParticipantBox"
  , "c2" : "getLivingParticipantBox()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#85"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#119"
  , "c1" : "Arrow"
  , "c2" : "createArrow()"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00098"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#98"
+ , "c5" : "00132"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#132"
  , "c1" : "ArrowConfiguration"
  , "c2" : "getArrowType(MessageExo)"
  , "c3" : "3"
@@ -125,122 +125,122 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00022] The argument message is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00056] The argument message is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00022] The argument drawingSet is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00056] The argument drawingSet is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#57"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00023] The argument freeY is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00057] The argument freeY is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00036] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00070] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00037] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00071] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method prepareMessage arguments ConstraintSet  constraintSet|InGroupablesStack  inGroupablesStack"
+ , "c3" : "QC-JAV000006[00078] For method prepareMessage arguments ConstraintSet  constraintSet|InGroupablesStack  inGroupablesStack"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#78"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00044] The argument constraintSet is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00078] The argument constraintSet is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#78"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00044] The argument inGroupablesStack is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00078] The argument inGroupablesStack is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#53"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.prepareMessage@POLYN165815 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.prepareMessage@POLYN166019 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#55"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.prepareMessage@POLYN165815 the MagicNumber/String  30 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.prepareMessage@POLYN166019 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#91"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00091] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00125] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#92"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00092] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00126] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#86"
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.createArrow@POLYN168119 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.createArrow@POLYN168323 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#90"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.createArrow@POLYN168119 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.createArrow@POLYN168323 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#98"
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#132"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00098] For method getArrowType arguments MessageExo  m"
+ , "c3" : "QC-JAV000006[00132] For method getArrowType arguments MessageExo  m"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#100"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.getArrowType@POLYN169188 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.getArrowType@POLYN169392 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#102"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.getArrowType@POLYN169188 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.getArrowType@POLYN169392 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

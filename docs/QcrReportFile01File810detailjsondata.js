@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.bpm.CleanerEmptyLine" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerEmptyLine.java.html#6"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/CleanerEmptyLine.java.html#40"
  , "c1" : "boolean"
  , "c2" : "clean(Grid)"
  , "c3" : "3"
@@ -82,31 +82,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00006"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerEmptyLine.java.html#6"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerEmptyLine.java.html#40"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00006] For method clean arguments Grid  grid"
+ , "c3" : "QC-JAV000006[00040] For method clean arguments Grid  grid"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00006"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerEmptyLine.java.html#6"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerEmptyLine.java.html#40"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00006] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00040] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerEmptyLine.java.html#7"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerEmptyLine.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00007] In method net.sourceforge.plantuml.bpm.CleanerEmptyLine.clean@POLYN145775 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.bpm.CleanerEmptyLine.clean@POLYN145979 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerEmptyLine.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerEmptyLine.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.bpm.CleanerEmptyLine.clean@POLYN145775 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.bpm.CleanerEmptyLine.clean@POLYN145979 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

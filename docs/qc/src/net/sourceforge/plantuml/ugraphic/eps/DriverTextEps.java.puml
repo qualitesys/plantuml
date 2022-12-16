@@ -2,14 +2,14 @@
 !pragma layout smetana
 "UDriver<UText,EpsGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.eps.DriverTextEps"
 class net.sourceforge.plantuml.ugraphic.eps.DriverTextEps {
-+DriverTextEps(ClipContainer;EpsStrategy) : DriverTextEps [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#32]]]
-+draw(UText;double;double;ColorMapper;UParam;EpsGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#37]]]
--getOutline(TextLayout) : Shape [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#116]]]
--drawAsText(UText;double;double;UParam;EpsGraphics;ColorMapper) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#120]]]
-drawPathIterator(EpsGraphics;double;double;Shape) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#132]]]
--drawSingle(EpsGraphics;double;double;PathIterator) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#151]]]
--analyze(Shape) : List<Integer> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#175]]]
--getClosings(PathIterator) : List<Integer> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#194]]]
--getMinMax(double;double;PathIterator) : MinMax [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#209]]]
++DriverTextEps(ClipContainer;EpsStrategy) : DriverTextEps [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#65]]]
++draw(UText;double;double;ColorMapper;UParam;EpsGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#70]]]
+-getOutline(TextLayout) : Shape [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#149]]]
+-drawAsText(UText;double;double;UParam;EpsGraphics;ColorMapper) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#153]]]
+drawPathIterator(EpsGraphics;double;double;Shape) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#165]]]
+-drawSingle(EpsGraphics;double;double;PathIterator) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#184]]]
+-analyze(Shape) : List<Integer> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#208]]]
+-getClosings(PathIterator) : List<Integer> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#227]]]
+-getMinMax(double;double;PathIterator) : MinMax [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverTextEps.java.html#242]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.bpm.ChainImpl" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#50"
  , "c1" : "boolean"
  , "c2" : "remove(O)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#59"
  , "c1" : "ChainImpl<O>"
  , "c2" : "cloneMe()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#67"
  , "c1" : "int"
  , "c2" : "compare(O;O)"
  , "c3" : "8"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#56"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#90"
  , "c1" : "List<O>"
  , "c2" : "toList()"
  , "c3" : "5"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#105"
  , "c1" : "ChainImpl"
  , "c2" : "ChainImpl()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#74"
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#108"
  , "c1" : "ChainImpl"
  , "c2" : "ChainImpl(O)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#78"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#112"
  , "c1" : "int"
  , "c2" : "updateStructuralVersion()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#83"
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#117"
  , "c1" : "boolean"
  , "c2" : "contains(O)"
  , "c3" : "4"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#96"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#130"
  , "c1" : "Navigator<O>"
  , "c2" : "navigator(O)"
  , "c3" : "4"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#113"
+ , "c5" : "00147"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#147"
  , "c1" : "O"
  , "c2" : "getInternal(int)"
  , "c3" : "3"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00122"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#122"
+ , "c5" : "00156"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#156"
  , "c1" : "void"
  , "c2" : "setInternal(int;O)"
  , "c3" : "3"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#132"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#166"
  , "c1" : "void"
  , "c2" : "insertInternal(int;O)"
  , "c3" : "3"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00142"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#142"
+ , "c5" : "00176"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#176"
  , "c1" : "void"
  , "c2" : "ensure(int)"
  , "c3" : "3"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00150"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#150"
+ , "c5" : "00184"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#184"
  , "c1" : "void"
  , "c2" : "ensureInternal(int;List<O>)"
  , "c3" : "2"
@@ -206,311 +206,311 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#16"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method remove arguments O  data"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.bpm.ChainImpl.remove@POLYN172704 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#33"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method compare arguments O  a|O  b"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN173586 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN173586 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN173586 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#39"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN173586 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN173586 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN173586 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN173586 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.bpm.ChainImpl.toList@POLYN174770 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.bpm.ChainImpl.toList@POLYN174770 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.bpm.ChainImpl.toList@POLYN174770 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#83"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method contains arguments O  data"
+ , "c3" : "QC-JAV000006[00050] For method remove arguments O  data"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#85"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.bpm.ChainImpl.contains@POLYN175818 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.bpm.ChainImpl.remove@POLYN172908 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.bpm.ChainImpl.contains@POLYN175818 the MagicNumber/String  true should be converted to const"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#67"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00067] For method compare arguments O  a|O  b"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#90"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.bpm.ChainImpl.contains@POLYN175818 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN173790 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#71"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN173790 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#71"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN173790 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#73"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN173790 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN173790 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN173790 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#84"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN173790 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.bpm.ChainImpl.contains@POLYN175818 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.bpm.ChainImpl.toList@POLYN174974 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#96"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00096] For method navigator arguments O  data"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#100"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00100] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00105] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.bpm.ChainImpl.toList@POLYN174974 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.bpm.ChainImpl.navigator@POLYN176709 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.bpm.ChainImpl.toList@POLYN174974 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.bpm.ChainImpl.navigator@POLYN176709 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#113"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#117"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method getInternal arguments int  position"
+ , "c3" : "QC-JAV000006[00117] For method contains arguments O  data"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#115"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.bpm.ChainImpl.getInternal@POLYN178015 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.bpm.ChainImpl.contains@POLYN176022 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#118"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.bpm.ChainImpl.getInternal@POLYN178015 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.bpm.ChainImpl.contains@POLYN176022 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#122"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#124"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.bpm.ChainImpl.contains@POLYN176022 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#127"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.bpm.ChainImpl.contains@POLYN176022 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#130"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00122] For method setInternal arguments int  position|O  data"
+ , "c3" : "QC-JAV000006[00130] For method navigator arguments O  data"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#125"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.bpm.ChainImpl.setInternal@POLYN178417 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00134] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#128"
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.bpm.ChainImpl.setInternal@POLYN178417 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00139] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#132"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.bpm.ChainImpl.navigator@POLYN176913 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#139"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.bpm.ChainImpl.navigator@POLYN176913 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#147"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00132] For method insertInternal arguments int  position|O  data"
+ , "c3" : "QC-JAV000006[00147] For method getInternal arguments int  position"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#135"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.bpm.ChainImpl.insertInternal@POLYN178953 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.bpm.ChainImpl.getInternal@POLYN178219 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#138"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.bpm.ChainImpl.insertInternal@POLYN178953 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.bpm.ChainImpl.getInternal@POLYN178219 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#142"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#156"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00142] For method ensure arguments int  position"
+ , "c3" : "QC-JAV000006[00156] For method setInternal arguments int  position|O  data"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#143"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.bpm.ChainImpl.ensure@POLYN179489 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.bpm.ChainImpl.setInternal@POLYN178621 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#146"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.bpm.ChainImpl.ensure@POLYN179489 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.bpm.ChainImpl.setInternal@POLYN178621 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#150"
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#166"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00150] For method ensureInternal arguments int  position|List&lt;O &gt;  list"
+ , "c3" : "QC-JAV000006[00166] For method insertInternal arguments int  position|O  data"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#150"
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#169"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.bpm.ChainImpl.insertInternal@POLYN179157 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.bpm.ChainImpl.insertInternal@POLYN179157 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#176"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00176] For method ensure arguments int  position"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.bpm.ChainImpl.ensure@POLYN179693 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#180"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.bpm.ChainImpl.ensure@POLYN179693 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#184"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00184] For method ensureInternal arguments int  position|List&lt;O &gt;  list"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#184"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00150] The argument list is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00184] The argument list is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#151"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.bpm.ChainImpl.ensureInternal@POLYN179850 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.bpm.ChainImpl.ensureInternal@POLYN180054 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#151"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.bpm.ChainImpl.ensureInternal@POLYN179850 the MagicNumber/String  'position=' should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.bpm.ChainImpl.ensureInternal@POLYN180054 the MagicNumber/String  'position=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#153"
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.bpm.ChainImpl.ensureInternal@POLYN179850 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.bpm.ChainImpl.ensureInternal@POLYN180054 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#193"
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#227"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00193] For method set arguments O  data"
+ , "c3" : "QC-JAV000006[00227] For method set arguments O  data"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#198"
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#232"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00198] For method insertBefore arguments O  data"
+ , "c3" : "QC-JAV000006[00232] For method insertBefore arguments O  data"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00203"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#203"
+ , "c1" : "00237"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#237"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00203] For method insertAfter arguments O  data"
+ , "c3" : "QC-JAV000006[00237] For method insertAfter arguments O  data"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00205"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#205"
+ , "c1" : "00239"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#239"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.bpm.ChainImpl.InternalNavigator.insertAfter@POLYN181910 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.bpm.ChainImpl.InternalNavigator.insertAfter@POLYN182114 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

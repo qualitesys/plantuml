@@ -2,8 +2,8 @@
 !pragma layout smetana
 "UDrawable" <|-- "net.sourceforge.plantuml.svek.CircleAndArrow"
 class net.sourceforge.plantuml.svek.CircleAndArrow {
-+CircleAndArrow(XPoint2D;XPoint2D) : CircleAndArrow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/CircleAndArrow.java.html#24]]]
--putOnCircle(XPoint2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/CircleAndArrow.java.html#44]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/CircleAndArrow.java.html#51]]]
++CircleAndArrow(XPoint2D;XPoint2D) : CircleAndArrow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/CircleAndArrow.java.html#58]]]
+-putOnCircle(XPoint2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/CircleAndArrow.java.html#78]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/CircleAndArrow.java.html#85]]]
 } 
 @enduml

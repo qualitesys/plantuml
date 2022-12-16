@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.stats.XmlConverter" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#68"
  , "c1" : "XmlConverter"
  , "c2" : "XmlConverter(Stats)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#38"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#72"
  , "c1" : "Document"
  , "c2" : "getDocument()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#59"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#93"
  , "c1" : "void"
  , "c2" : "addNode(Element;Document;StatsTable)"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#76"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#110"
  , "c1" : "String"
  , "c2" : "toXmlName(String)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00080"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#80"
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#114"
  , "c1" : "String"
  , "c2" : "toText(Object)"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#90"
+ , "c5" : "00124"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#124"
  , "c1" : "Transformer"
  , "c2" : "getTransformer()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#96"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#130"
  , "c1" : "void"
  , "c2" : "createXml(OutputStream)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00103"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#103"
+ , "c5" : "00137"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#137"
  , "c1" : "String"
  , "c2" : "toHtml()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00125"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#125"
+ , "c5" : "00159"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#159"
  , "c1" : "void"
  , "c2" : "printTableHtml(StringBuilder;StatsTable)"
  , "c3" : "2"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00139"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#139"
+ , "c5" : "00173"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#173"
  , "c1" : "String"
  , "c2" : "getCreoleLine(Collection<StatsColumn>;StatsLine;boolean)"
  , "c3" : "14"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00174"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#174"
+ , "c5" : "00208"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#208"
  , "c1" : "String"
  , "c2" : "getHtmlHeader(Collection<StatsColumn>)"
  , "c3" : "2"
@@ -186,493 +186,493 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#41"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.stats.XmlConverter.getDocument@POLYN176326 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.stats.XmlConverter.getDocument@POLYN176326 the MagicNumber/String  'plantuml' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#59"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method addNode arguments Element  root|Document  document|StatsTable  table"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#59"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00059] The argument root is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#59"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00059] The argument document is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#59"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00059] The argument table is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00063] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00063] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00064] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00065] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00065] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00065] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00065] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.stats.XmlConverter.addNode@POLYN177534 the MagicNumber/String  'line' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#76"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method toXmlName arguments String  name"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#76"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00076] The argument name is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.stats.XmlConverter.getDocument@POLYN176530 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.stats.XmlConverter.toXmlName@POLYN178709 the MagicNumber/String  '\\W+' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.stats.XmlConverter.getDocument@POLYN176530 the MagicNumber/String  'plantuml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.stats.XmlConverter.toXmlName@POLYN178709 the MagicNumber/String  '_' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#80"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method toText arguments Object  tmp"
+ , "c3" : "QC-JAV000006[00093] For method addNode arguments Element  root|Document  document|StatsTable  table"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#82"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#93"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00093] The argument root is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#93"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00093] The argument document is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#93"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00093] The argument table is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.stats.XmlConverter.toText@POLYN178882 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000001[00097] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#84"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.stats.XmlConverter.toText@POLYN178882 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00097] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#85"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.stats.XmlConverter.toText@POLYN178882 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000001[00098] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#92"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.stats.XmlConverter.getTransformer@POLYN179307 the MagicNumber/String  'yes' should be converted to const"
+ , "c3" : "QC-JAV000001[00099] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#96"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00096] For method createXml arguments OutputStream  os"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#105"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN179986 the MagicNumber/String  '&amp;lt;html&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000001[00099] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#106"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN179986 the MagicNumber/String  '&amp;lt;style type=\'text/css\'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000001[00099] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#107"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN179986 the MagicNumber/String  'body { font-family: arial, helvetica, sans-serif; font-size: 12px; font-weight: normal; color: black; background: white;}' should be converted to const"
+ , "c3" : "QC-JAV000001[00099] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#108"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN179986 the MagicNumber/String  'th,td { font-size: 12px;}' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#109"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN179986 the MagicNumber/String  'table { border-collapse: collapse; border-style: none;}' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.stats.XmlConverter.addNode@POLYN177738 the MagicNumber/String  'line' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN179986 the MagicNumber/String  '&amp;lt;/style&amp;gt;' should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00110] For method toXmlName arguments String  name"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#110"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00110] The argument name is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN179986 the MagicNumber/String  '&amp;lt;h2&amp;gt;Statistics&amp;lt;/h2&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.stats.XmlConverter.toXmlName@POLYN178913 the MagicNumber/String  '\\W+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#113"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN179986 the MagicNumber/String  '&amp;lt;h2&amp;gt;Current session statistics&amp;lt;/h2&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.stats.XmlConverter.toXmlName@POLYN178913 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN179986 the MagicNumber/String  '&amp;lt;p&amp;gt;' should be converted to const"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#114"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00114] For method toText arguments Object  tmp"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#117"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN179986 the MagicNumber/String  '&amp;lt;h2&amp;gt;General statistics since ever&amp;lt;/h2&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.stats.XmlConverter.toText@POLYN179086 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.stats.XmlConverter.toText@POLYN179086 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN179986 the MagicNumber/String  '&amp;lt;p&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.stats.XmlConverter.toText@POLYN179086 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#121"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN179986 the MagicNumber/String  '&amp;lt;/html&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#125"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00125] For method printTableHtml arguments StringBuilder  result|StatsTable  table"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#125"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00125] The argument result is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#125"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00125] The argument table is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00131] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#127"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.stats.XmlConverter.printTableHtml@POLYN181564 the MagicNumber/String  '&amp;lt;table border=1 cellspacing=0 cellpadding=2&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.stats.XmlConverter.getTransformer@POLYN179511 the MagicNumber/String  'yes' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.stats.XmlConverter.printTableHtml@POLYN181564 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.stats.XmlConverter.printTableHtml@POLYN181564 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.stats.XmlConverter.printTableHtml@POLYN181564 the MagicNumber/String  '&amp;lt;/table&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#139"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00139] For method getCreoleLine arguments Collection&lt;StatsColumn &gt;  headers|StatsLine  line|boolean  bold"
+ , "c3" : "QC-JAV000006[00130] For method createXml arguments OutputStream  os"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#139"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00139] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN180190 the MagicNumber/String  '&amp;lt;html&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#147"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00147] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN180190 the MagicNumber/String  '&amp;lt;style type=\'text/css\'&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#148"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00148] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#148"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00148] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#156"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00156] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#158"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00158] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN180190 the MagicNumber/String  'body { font-family: arial, helvetica, sans-serif; font-size: 12px; font-weight: normal; color: black; background: white;}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182665 the MagicNumber/String  '&amp;lt;tr bgcolor=#f0f0f0&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN180190 the MagicNumber/String  'th,td { font-size: 12px;}' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#143"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN180190 the MagicNumber/String  'table { border-collapse: collapse; border-style: none;}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182665 the MagicNumber/String  '&amp;lt;tr bgcolor=#fcfcfc&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN180190 the MagicNumber/String  '&amp;lt;/style&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#145"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN180190 the MagicNumber/String  '&amp;lt;h2&amp;gt;Statistics&amp;lt;/h2&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#147"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN180190 the MagicNumber/String  '&amp;lt;h2&amp;gt;Current session statistics&amp;lt;/h2&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182665 the MagicNumber/String  '&amp;lt;td align=right&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN180190 the MagicNumber/String  '&amp;lt;p&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182665 the MagicNumber/String  '&amp;lt;td&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN180190 the MagicNumber/String  '&amp;lt;h2&amp;gt;General statistics since ever&amp;lt;/h2&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#154"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182665 the MagicNumber/String  '&amp;lt;b&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN180190 the MagicNumber/String  '&amp;lt;p&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#157"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182665 the MagicNumber/String  '%,d' should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.stats.XmlConverter.toHtml@POLYN180190 the MagicNumber/String  '&amp;lt;/html&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#160"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182665 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#159"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00159] For method printTableHtml arguments StringBuilder  result|StatsTable  table"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#160"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#159"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00159] The argument result is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#159"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00159] The argument table is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182665 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00165] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182665 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.stats.XmlConverter.printTableHtml@POLYN181768 the MagicNumber/String  '&amp;lt;table border=1 cellspacing=0 cellpadding=2&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.stats.XmlConverter.printTableHtml@POLYN181768 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182665 the MagicNumber/String  '&amp;lt;/b&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#168"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182665 the MagicNumber/String  '&amp;lt;/td&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.stats.XmlConverter.printTableHtml@POLYN181768 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182665 the MagicNumber/String  '&amp;lt;/tr&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.stats.XmlConverter.printTableHtml@POLYN181768 the MagicNumber/String  '&amp;lt;/table&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#174"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#173"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00174] For method getHtmlHeader arguments Collection&lt;StatsColumn &gt;  headers"
+ , "c3" : "QC-JAV000006[00173] For method getCreoleLine arguments Collection&lt;StatsColumn &gt;  headers|StatsLine  line|boolean  bold"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#176"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.stats.XmlConverter.getHtmlHeader@POLYN184722 the MagicNumber/String  '&amp;lt;tr bgcolor=#e0e0e0&amp;gt;' should be converted to const"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#173"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00173] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#178"
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.stats.XmlConverter.getHtmlHeader@POLYN184722 the MagicNumber/String  '&amp;lt;td&amp;gt;&amp;lt;b&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#179"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.stats.XmlConverter.getHtmlHeader@POLYN184722 the MagicNumber/String  '&amp;lt;br&amp;gt;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00180"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#180"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.stats.XmlConverter.getHtmlHeader@POLYN184722 the MagicNumber/String  '&amp;lt;/b&amp;gt;&amp;lt;/td&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000001[00181] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.stats.XmlConverter.getHtmlHeader@POLYN184722 the MagicNumber/String  '&amp;lt;/tr&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000001[00182] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#96"
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#182"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00182] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#190"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00190] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#192"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00192] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182869 the MagicNumber/String  '&amp;lt;tr bgcolor=#f0f0f0&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#178"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182869 the MagicNumber/String  '&amp;lt;tr bgcolor=#fcfcfc&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#183"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182869 the MagicNumber/String  '&amp;lt;td align=right&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#185"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182869 the MagicNumber/String  '&amp;lt;td&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#188"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182869 the MagicNumber/String  '&amp;lt;b&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#191"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182869 the MagicNumber/String  '%,d' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182869 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182869 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00195"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#195"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182869 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#200"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182869 the MagicNumber/String  '&amp;lt;/b&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#202"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182869 the MagicNumber/String  '&amp;lt;/td&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#204"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.stats.XmlConverter.getCreoleLine@POLYN182869 the MagicNumber/String  '&amp;lt;/tr&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#208"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00208] For method getHtmlHeader arguments Collection&lt;StatsColumn &gt;  headers"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#210"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.stats.XmlConverter.getHtmlHeader@POLYN184926 the MagicNumber/String  '&amp;lt;tr bgcolor=#e0e0e0&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#212"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.stats.XmlConverter.getHtmlHeader@POLYN184926 the MagicNumber/String  '&amp;lt;td&amp;gt;&amp;lt;b&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00213"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#213"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.stats.XmlConverter.getHtmlHeader@POLYN184926 the MagicNumber/String  '&amp;lt;br&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00214"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#214"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.stats.XmlConverter.getHtmlHeader@POLYN184926 the MagicNumber/String  '&amp;lt;/b&amp;gt;&amp;lt;/td&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#216"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.stats.XmlConverter.getHtmlHeader@POLYN184926 the MagicNumber/String  '&amp;lt;/tr&amp;gt;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#130"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00096] Public method createXml is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00130] Public method createXml is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

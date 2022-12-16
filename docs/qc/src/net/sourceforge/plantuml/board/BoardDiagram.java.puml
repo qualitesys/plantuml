@@ -2,14 +2,14 @@
 !pragma layout smetana
 "UmlDiagram" <|-- "net.sourceforge.plantuml.board.BoardDiagram"
 class net.sourceforge.plantuml.board.BoardDiagram {
-+getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#33]]]
-+BoardDiagram(UmlSource) : BoardDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#37]]]
-exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#42]]]
--getTextBlock() : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#48]]]
--drawMe(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#76]]]
--getFullWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#91]]]
--getMaxStage() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#99]]]
--getLastActivity() : Activity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#107]]]
-+addLine(String;String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#111]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#67]]]
++BoardDiagram(UmlSource) : BoardDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#71]]]
+exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#76]]]
+-getTextBlock() : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#82]]]
+-drawMe(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#110]]]
+-getFullWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#125]]]
+-getMaxStage() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#133]]]
+-getLastActivity() : Activity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#141]]]
++addLine(String;String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#145]]]
 } 
 @enduml

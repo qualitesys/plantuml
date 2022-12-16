@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.brotli.Utils" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c1" : "void"
  , "c2" : "fillBytesWithZeroes(byte[];int;int)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c1" : "void"
  , "c2" : "fillIntsWithZeroes(int[];int;int)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c1" : "void"
  , "c2" : "copyBytesWithin(byte[];int;int;int)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c1" : "int"
  , "c2" : "readInput(InputStream;byte[];int;int)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c1" : "void"
  , "c2" : "closeInput(InputStream)"
  , "c3" : "1"
@@ -118,87 +118,87 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method fillBytesWithZeroes arguments byte[]  dest|int  start|int  end"
+ , "c3" : "QC-JAV000006[00053] For method fillBytesWithZeroes arguments byte[]  dest|int  start|int  end"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.brotli.Utils.fillBytesWithZeroes@POLYN147762 the MagicNumber/String  1024 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Utils.fillBytesWithZeroes@POLYN147774 the MagicNumber/String  1024 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.brotli.Utils.fillBytesWithZeroes@POLYN147762 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Utils.fillBytesWithZeroes@POLYN147774 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method fillIntsWithZeroes arguments int[]  dest|int  start|int  end"
+ , "c3" : "QC-JAV000006[00053] For method fillIntsWithZeroes arguments int[]  dest|int  start|int  end"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.brotli.Utils.fillIntsWithZeroes@POLYN148611 the MagicNumber/String  1024 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Utils.fillIntsWithZeroes@POLYN148623 the MagicNumber/String  1024 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.brotli.Utils.fillIntsWithZeroes@POLYN148611 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Utils.fillIntsWithZeroes@POLYN148623 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method copyBytesWithin arguments byte[]  bytes|int  target|int  start|int  end"
+ , "c3" : "QC-JAV000006[00053] For method copyBytesWithin arguments byte[]  bytes|int  target|int  start|int  end"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method readInput arguments InputStream  src|byte[]  dst|int  offset|int  length"
+ , "c3" : "QC-JAV000006[00053] For method readInput arguments InputStream  src|byte[]  dst|int  offset|int  length"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00051] The argument src is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00053] The argument src is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.brotli.Utils.readInput@POLYN149569 the MagicNumber/String  'Failed to read input' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Utils.readInput@POLYN149581 the MagicNumber/String  'Failed to read input' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method closeInput arguments InputStream  src"
+ , "c3" : "QC-JAV000006[00053] For method closeInput arguments InputStream  src"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00051] The argument src is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00053] The argument src is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

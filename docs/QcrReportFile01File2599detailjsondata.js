@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.UPath" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#22"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#57"
  , "c1" : "UPath"
  , "c2" : "UPath(String;String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#27"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#62"
  , "c1" : "UPath"
  , "c2" : "UPath()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#31"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#66"
  , "c1" : "void"
  , "c2" : "add(double[];USegmentType)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#35"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#70"
  , "c1" : "boolean"
  , "c2" : "isEmpty()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#39"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#74"
  , "c1" : "void"
  , "c2" : "addInternal(USegment)"
  , "c3" : "4"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#53"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#88"
  , "c1" : "UPath"
  , "c2" : "translate(double;double)"
  , "c3" : "2"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#61"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#96"
  , "c1" : "UPath"
  , "c2" : "rotate(double)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#69"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#104"
  , "c1" : "void"
  , "c2" : "moveTo(XPoint2D)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#73"
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#108"
  , "c1" : "void"
  , "c2" : "lineTo(XPoint2D)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#77"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#112"
  , "c1" : "void"
  , "c2" : "moveTo(double;double)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#81"
+ , "c5" : "00116"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#116"
  , "c1" : "void"
  , "c2" : "lineTo(double;double)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#85"
+ , "c5" : "00120"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#120"
  , "c1" : "void"
  , "c2" : "cubicTo(XPoint2D;XPoint2D;XPoint2D)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00089"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#89"
+ , "c5" : "00124"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#124"
  , "c1" : "void"
  , "c2" : "cubicTo(double;double;double;double;double;double)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#93"
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#128"
  , "c1" : "void"
  , "c2" : "quadTo(double;double;double;double)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#97"
+ , "c5" : "00132"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#132"
  , "c1" : "void"
  , "c2" : "quadTo(XPoint2D;XPoint2D)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#101"
+ , "c5" : "00136"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#136"
  , "c1" : "void"
  , "c2" : "arcTo(double;double;double;double;double;double;double)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#107"
+ , "c5" : "00142"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#142"
  , "c1" : "void"
  , "c2" : "arcTo(XPoint2D;double;double;double)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#113"
+ , "c5" : "00148"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#148"
  , "c1" : "void"
  , "c2" : "closePath()"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00117"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#117"
+ , "c5" : "00152"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#152"
  , "c1" : "double"
  , "c2" : "getMaxX()"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00121"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#121"
+ , "c5" : "00156"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#156"
  , "c1" : "double"
  , "c2" : "getMaxY()"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00125"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#125"
+ , "c5" : "00160"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#160"
  , "c1" : "double"
  , "c2" : "getMinX()"
  , "c3" : "1"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00129"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#129"
+ , "c5" : "00164"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#164"
  , "c1" : "double"
  , "c2" : "getMinY()"
  , "c3" : "1"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00134"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#134"
+ , "c5" : "00169"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#169"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00138"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#138"
+ , "c5" : "00173"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#173"
  , "c1" : "Iterator<USegment>"
  , "c2" : "iterator()"
  , "c3" : "1"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00142"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#142"
+ , "c5" : "00177"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#177"
  , "c1" : "boolean"
  , "c2" : "isOpenIconic()"
  , "c3" : "1"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00146"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#146"
+ , "c5" : "00181"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#181"
  , "c1" : "void"
  , "c2" : "setOpenIconic(boolean)"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00150"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#150"
+ , "c5" : "00185"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#185"
  , "c1" : "String"
  , "c2" : "getComment()"
  , "c3" : "1"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00154"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#154"
+ , "c5" : "00189"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#189"
  , "c1" : "String"
  , "c2" : "getCodeLine()"
  , "c3" : "1"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00158"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#158"
+ , "c5" : "00193"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#193"
  , "c1" : "void"
  , "c2" : "setIgnoreForCompressionOnX()"
  , "c3" : "1"
@@ -279,8 +279,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00162"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#162"
+ , "c5" : "00197"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#197"
  , "c1" : "void"
  , "c2" : "setIgnoreForCompressionOnY()"
  , "c3" : "1"
@@ -288,8 +288,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00166"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#166"
+ , "c5" : "00201"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#201"
  , "c1" : "void"
  , "c2" : "drawWhenCompressed(UGraphic;CompressionMode)"
  , "c3" : "1"
@@ -297,8 +297,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00169"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#169"
+ , "c5" : "00204"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#204"
  , "c1" : "boolean"
  , "c2" : "isIgnoreForCompressionOn(CompressionMode)"
  , "c3" : "3"
@@ -375,283 +375,283 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#28"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.ugraphic.UPath.UPath@POLYN169963 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.UPath.UPath@POLYN170173 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#28"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.ugraphic.UPath.UPath@POLYN169963 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.UPath.UPath@POLYN170173 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#31"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method add arguments double[]  coord|USegmentType  pathType"
+ , "c3" : "QC-JAV000006[00066] For method add arguments double[]  coord|USegmentType  pathType"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#36"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.ugraphic.UPath.isEmpty@POLYN170312 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.UPath.isEmpty@POLYN170522 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#39"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method addInternal arguments USegment  segment"
+ , "c3" : "QC-JAV000006[00074] For method addInternal arguments USegment  segment"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#39"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#74"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00039] The argument segment is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00074] The argument segment is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#43"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.ugraphic.UPath.addInternal@POLYN170434 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ugraphic.UPath.addInternal@POLYN170644 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#43"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.ugraphic.UPath.addInternal@POLYN170434 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ugraphic.UPath.addInternal@POLYN170644 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#47"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.ugraphic.UPath.addInternal@POLYN170434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.UPath.addInternal@POLYN170644 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#47"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.ugraphic.UPath.addInternal@POLYN170434 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.UPath.addInternal@POLYN170644 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#48"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.ugraphic.UPath.addInternal@POLYN170434 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.UPath.addInternal@POLYN170644 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#53"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#88"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method translate arguments double  dx|double  dy"
+ , "c3" : "QC-JAV000006[00088] For method translate arguments double  dx|double  dy"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#61"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#96"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method rotate arguments double  theta"
+ , "c3" : "QC-JAV000006[00096] For method rotate arguments double  theta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#69"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#104"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method moveTo arguments XPoint2D  pt"
+ , "c3" : "QC-JAV000006[00104] For method moveTo arguments XPoint2D  pt"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#69"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#104"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00069] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#73"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method lineTo arguments XPoint2D  pt"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#73"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00073] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#77"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00077] For method moveTo arguments double  x|double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#81"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00081] For method lineTo arguments double  x|double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#85"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00085] For method cubicTo arguments XPoint2D  p1|XPoint2D  p2|XPoint2D  p"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#85"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00085] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#85"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00085] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#89"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00089] For method cubicTo arguments double  ctrlx1|double  ctrly1|double  ctrlx2|double  ctrly2|double  x2|double  y2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#93"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00093] For method quadTo arguments double  ctrlx|double  ctrly|double  x2|double  y2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#97"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method quadTo arguments XPoint2D  ctrl|XPoint2D  pt"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#97"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00097] The argument ctrl is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#97"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00097] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#101"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00101] For method arcTo arguments double  rx|double  ry|double  x_axis_rotation|double  large_arc_flag|double  sweep_flag|double  x|double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#107"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00107] For method arcTo arguments XPoint2D  pt|double  radius|double  large_arc_flag|double  sweep_flag"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#107"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00107] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00104] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.ugraphic.UPath.arcTo@POLYN175184 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#146"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00146] For method setOpenIconic arguments boolean  isOpenIconic"
+ , "c3" : "QC-JAV000006[00108] For method lineTo arguments XPoint2D  pt"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#159"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.ugraphic.UPath.setIgnoreForCompressionOnX@POLYN176768 the MagicNumber/String  true should be converted to const"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#108"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00108] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#163"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.ugraphic.UPath.setIgnoreForCompressionOnY@POLYN176875 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#166"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#112"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00166] For method drawWhenCompressed arguments UGraphic  ug|CompressionMode  mode"
+ , "c3" : "QC-JAV000006[00112] For method moveTo arguments double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#169"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#116"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00169] For method isIgnoreForCompressionOn arguments CompressionMode  mode"
+ , "c3" : "QC-JAV000006[00116] For method lineTo arguments double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#113"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00113] Void method closePath is empty or contains only a return."
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#120"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00120] For method cubicTo arguments XPoint2D  p1|XPoint2D  p2|XPoint2D  p"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#113"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00113] Void method closePath is empty or contains only a return. Interface segregation"
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#120"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00120] The argument p1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#166"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00166] Void method drawWhenCompressed is empty or contains only a return."
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#120"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00120] The argument p2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#166"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#124"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00124] For method cubicTo arguments double  ctrlx1|double  ctrly1|double  ctrlx2|double  ctrly2|double  x2|double  y2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#128"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00128] For method quadTo arguments double  ctrlx|double  ctrly|double  x2|double  y2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#132"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00132] For method quadTo arguments XPoint2D  ctrl|XPoint2D  pt"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#132"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00132] The argument ctrl is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#132"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00132] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#136"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00136] For method arcTo arguments double  rx|double  ry|double  x_axis_rotation|double  large_arc_flag|double  sweep_flag|double  x|double  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#142"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00142] For method arcTo arguments XPoint2D  pt|double  radius|double  large_arc_flag|double  sweep_flag"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#142"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00142] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#143"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.ugraphic.UPath.arcTo@POLYN175394 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#181"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00181] For method setOpenIconic arguments boolean  isOpenIconic"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.ugraphic.UPath.setIgnoreForCompressionOnX@POLYN176978 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#198"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.ugraphic.UPath.setIgnoreForCompressionOnY@POLYN177085 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#201"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00201] For method drawWhenCompressed arguments UGraphic  ug|CompressionMode  mode"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#204"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00204] For method isIgnoreForCompressionOn arguments CompressionMode  mode"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#148"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00166] Void method drawWhenCompressed is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000005[00148] Void method closePath is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#148"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00148] Void method closePath is empty or contains only a return. Interface segregation"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#201"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00201] Void method drawWhenCompressed is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#201"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00201] Void method drawWhenCompressed is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

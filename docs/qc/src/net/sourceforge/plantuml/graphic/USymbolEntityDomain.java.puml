@@ -2,7 +2,7 @@
 !pragma layout smetana
 "USymbolSimpleAbstract" <|-- "net.sourceforge.plantuml.graphic.USymbolEntityDomain"
 class net.sourceforge.plantuml.graphic.USymbolEntityDomain {
-+getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolEntityDomain.java.html#10]]]
-getDrawing(SymbolContext) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolEntityDomain.java.html#15]]]
++getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolEntityDomain.java.html#44]]]
+getDrawing(SymbolContext) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolEntityDomain.java.html#49]]]
 } 
 @enduml

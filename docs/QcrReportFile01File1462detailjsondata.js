@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.json.WritingBuffer" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#75"
  , "c1" : "WritingBuffer"
  , "c2" : "WritingBuffer(Writer)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#75"
  , "c1" : "WritingBuffer"
  , "c2" : "WritingBuffer(Writer;int)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#75"
  , "c1" : "void"
  , "c2" : "write(int)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#75"
  , "c1" : "void"
  , "c2" : "write(char[];int;int)"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#75"
  , "c1" : "void"
  , "c2" : "write(String;int;int)"
  , "c3" : "3"
@@ -136,59 +136,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.json.WritingBuffer.WritingBuffer@POLYN156776 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.json.WritingBuffer.WritingBuffer@POLYN156800 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#75"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method write arguments int  c"
+ , "c3" : "QC-JAV000006[00075] For method write arguments int  c"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.json.WritingBuffer.write@POLYN157168 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.json.WritingBuffer.write@POLYN157192 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#75"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method write arguments char[]  cbuf|int  off|int  len"
+ , "c3" : "QC-JAV000006[00075] For method write arguments char[]  cbuf|int  off|int  len"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#75"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method write arguments String  str|int  off|int  len"
+ , "c3" : "QC-JAV000006[00075] For method write arguments String  str|int  off|int  len"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#71"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#75"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00071] The argument str is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00075] The argument str is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.WritingBuffer.flush@POLYN158998 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.WritingBuffer.flush@POLYN159022 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WritingBuffer.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.WritingBuffer.flush@POLYN158998 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.WritingBuffer.flush@POLYN159022 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

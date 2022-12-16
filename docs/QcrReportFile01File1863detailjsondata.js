@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.security.SURL" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#67"
+ , "c5" : "00136"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#136"
  , "c1" : "SURL"
  , "c2" : "SURL(URL;String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#73"
+ , "c5" : "00150"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#150"
  , "c1" : "SURL"
  , "c2" : "create(String)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#87"
+ , "c5" : "00172"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#172"
  , "c1" : "SURL"
  , "c2" : "create(URL)"
  , "c3" : "6"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00105"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#105"
+ , "c5" : "00196"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#196"
  , "c1" : "SURL"
  , "c2" : "createWithoutUser(URL)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#110"
+ , "c5" : "00209"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#209"
  , "c1" : "void"
  , "c2" : "resetBadHosts()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00115"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#115"
+ , "c5" : "00214"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#214"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00120"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#120"
+ , "c5" : "00221"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#221"
  , "c1" : "boolean"
  , "c2" : "isUrlOk()"
  , "c3" : "7"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00146"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#146"
+ , "c5" : "00247"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#247"
  , "c1" : "boolean"
  , "c2" : "forbiddenURL(String)"
  , "c3" : "3"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00154"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#154"
+ , "c5" : "00255"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#255"
  , "c1" : "boolean"
  , "c2" : "isInUrlAllowList()"
  , "c3" : "3"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00163"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#163"
+ , "c5" : "00264"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#264"
  , "c1" : "String"
  , "c2" : "cleanPath(String)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00174"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#174"
+ , "c5" : "00275"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#275"
  , "c1" : "List<String>"
  , "c2" : "getUrlAllowList()"
  , "c3" : "2"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00183"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#183"
+ , "c5" : "00296"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#296"
  , "c1" : "byte[]"
  , "c2" : "getBytes()"
  , "c3" : "5"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00220"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#220"
+ , "c5" : "00351"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#351"
  , "c1" : "byte[]"
  , "c2" : "getBytes(Proxy;SecurityAuthentication;Map<String,Object>)"
  , "c3" : "2"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00235"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#235"
+ , "c5" : "00385"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#385"
  , "c1" : "byte[]"
  , "c2" : "getBytesOnPost(Proxy;SecurityAuthentication;String;Map<String,Object>)"
  , "c3" : "2"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00252"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#252"
+ , "c5" : "00410"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#410"
  , "c1" : "Callable<byte[]>"
  , "c2" : "requestWithGetAndResponse(URL;Proxy;SecurityAuthentication;Map<String,Object>)"
  , "c3" : "3"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00285"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#285"
+ , "c5" : "00454"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#454"
  , "c1" : "Callable<byte[]>"
  , "c2" : "requestWithPostAndResponse(URL;Proxy;SecurityAuthentication;String;Map<String,Object>)"
  , "c3" : "4"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00314"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#314"
+ , "c5" : "00483"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#483"
  , "c1" : "Charset"
  , "c2" : "extractCharset(String)"
  , "c3" : "3"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00330"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#330"
+ , "c5" : "00506"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#506"
  , "c1" : "byte[]"
  , "c2" : "retrieveResponseAsBytes(HttpURLConnection)"
  , "c3" : "3"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00346"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#346"
+ , "c5" : "00528"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#528"
  , "c1" : "byte[]"
  , "c2" : "retrieveData(InputStream)"
  , "c3" : "2"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00358"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#358"
+ , "c5" : "00546"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#546"
  , "c1" : "void"
  , "c2" : "sendRequestAsBytes(HttpURLConnection;byte[])"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00365"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#365"
+ , "c5" : "00553"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#553"
  , "c1" : "InputStream"
  , "c2" : "openStream()"
  , "c3" : "3"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00375"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#375"
+ , "c5" : "00563"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#563"
  , "c1" : "BufferedImage"
  , "c2" : "readRasterImageFromURL()"
  , "c3" : "3"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00390"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#390"
+ , "c5" : "00582"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#582"
  , "c1" : "boolean"
  , "c2" : "isAuthorizationConfigured()"
  , "c3" : "1"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00395"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#395"
+ , "c5" : "00595"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#595"
  , "c1" : "void"
  , "c2" : "applyEndpointAccessAuthentication(URLConnection;SecurityAuthentication)"
  , "c3" : "4"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00412"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#412"
+ , "c5" : "00616"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#616"
  , "c1" : "void"
  , "c2" : "applyAdditionalHeaders(URLConnection;Map<String,Object>)"
  , "c3" : "8"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00429"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#429"
+ , "c5" : "00640"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#640"
  , "c1" : "URL"
  , "c2" : "removeUserInfo(URL)"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00434"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#434"
+ , "c5" : "00651"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#651"
  , "c1" : "String"
  , "c2" : "removeUserInfoFromUrlPath(String)"
  , "c3" : "2"
@@ -337,864 +337,864 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#73"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method create arguments String  url"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.security.SURL.create@POLYN248949 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.security.SURL.create@POLYN248949 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.security.SURL.create@POLYN248949 the MagicNumber/String  'http://' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.security.SURL.create@POLYN248949 the MagicNumber/String  'https://' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.security.SURL.create@POLYN248949 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#87"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00087] For method create arguments URL  url"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.security.SURL.create@POLYN249745 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.security.SURL.create@POLYN249745 the MagicNumber/String  'URL cannot be null' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.security.SURL.create@POLYN249745 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.security.SURL.create@POLYN249745 the MagicNumber/String  ':' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.security.SURL.create@POLYN249745 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#105"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00105] For method createWithoutUser arguments URL  url"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN251449 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#126"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN251449 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN251449 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN251449 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN251449 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN251449 the MagicNumber/String  80 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN251449 the MagicNumber/String  443 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN251449 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#143"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN251449 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#146"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00146] For method forbiddenURL arguments String  full"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#146"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00146] The argument full is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#147"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.security.SURL.forbiddenURL@POLYN252466 the MagicNumber/String  '^https?://[-#.0-9:\\[\\]+]+/.*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#148"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.security.SURL.forbiddenURL@POLYN252466 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#149"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.security.SURL.forbiddenURL@POLYN252466 the MagicNumber/String  '^https?://[^.]+/.*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#150"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.security.SURL.forbiddenURL@POLYN252466 the MagicNumber/String  true should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00150] For method create arguments String  url"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.security.SURL.forbiddenURL@POLYN252466 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.security.SURL.create@POLYN250251 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#158"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.security.SURL.isInUrlAllowList@POLYN252796 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.security.SURL.create@POLYN250251 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#154"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.security.SURL.create@POLYN250251 the MagicNumber/String  'http://' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#154"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.security.SURL.create@POLYN250251 the MagicNumber/String  'https://' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.security.SURL.isInUrlAllowList@POLYN252796 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.security.SURL.create@POLYN250251 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#163"
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#172"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00163] For method cleanPath arguments String  path"
+ , "c3" : "QC-JAV000006[00172] For method create arguments URL  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#163"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00163] The argument path is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#169"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.security.SURL.cleanPath@POLYN253205 the MagicNumber/String  ':80/' should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.security.SURL.create@POLYN251047 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#169"
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.security.SURL.cleanPath@POLYN253205 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.security.SURL.create@POLYN251047 the MagicNumber/String  'URL cannot be null' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#170"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.security.SURL.cleanPath@POLYN253205 the MagicNumber/String  ':443/' should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.security.SURL.create@POLYN251047 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#170"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.security.SURL.cleanPath@POLYN253205 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.security.SURL.create@POLYN251047 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#176"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.security.SURL.getUrlAllowList@POLYN253778 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.security.SURL.create@POLYN251047 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#179"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.security.SURL.getUrlAllowList@POLYN253778 the MagicNumber/String  ';' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#184"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN254506 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#185"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN254506 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN254506 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#194"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN254506 the MagicNumber/String  1000L should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#194"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN254506 the MagicNumber/String  60 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#195"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN254506 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#201"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN254506 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00203"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#203"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN254506 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#207"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN254506 the MagicNumber/String  'issue ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#207"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN254506 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#211"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN254506 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00220"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#220"
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#196"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00220] For method getBytes arguments Proxy  proxy|SecurityAuthentication  authentication|Map&lt;String ,Object &gt;  headers"
+ , "c3" : "QC-JAV000006[00196] For method createWithoutUser arguments URL  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00221"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#221"
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN256954 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN252751 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00222"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#222"
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN256954 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN252751 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00229"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#229"
+ , "c1" : "00231"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#231"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN256954 the MagicNumber/String  'SURL response issue to ' should be converted to const"
+ , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN252751 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00229"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#229"
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#234"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN256954 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00230"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#230"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN256954 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00235"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#235"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00235] For method getBytesOnPost arguments Proxy  proxy|SecurityAuthentication  authentication|String  data|Map&lt;String ,Object &gt;  headers"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00237"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#237"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.security.SURL.getBytesOnPost@POLYN258409 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN252751 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.security.SURL.getBytesOnPost@POLYN258409 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN252751 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00246"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#246"
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.security.SURL.getBytesOnPost@POLYN258409 the MagicNumber/String  'SURL response issue to ' should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN252751 the MagicNumber/String  80 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00246"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#246"
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.security.SURL.getBytesOnPost@POLYN258409 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN252751 the MagicNumber/String  443 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#242"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN252751 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00244"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#244"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.security.SURL.isUrlOk@POLYN252751 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00247"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#247"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.security.SURL.getBytesOnPost@POLYN258409 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00252"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#252"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00252] For method requestWithGetAndResponse arguments URL  url|Proxy  proxy|SecurityAuthentication  authentication|Map&lt;String ,Object &gt;  headers"
+ , "c3" : "QC-JAV000006[00247] For method forbiddenURL arguments String  full"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00247"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#247"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00247] The argument full is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#248"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.security.SURL.forbiddenURL@POLYN253768 the MagicNumber/String  '^https?://[-#.0-9:\\[\\]+]+/.*' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#249"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.security.SURL.forbiddenURL@POLYN253768 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#250"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.security.SURL.forbiddenURL@POLYN253768 the MagicNumber/String  '^https?://[^.]+/.*' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00251"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#251"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.security.SURL.forbiddenURL@POLYN253768 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00252"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#252"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00252] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00258"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#258"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.security.SURL.requestWithGetAndResponse@POLYN259568 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.security.SURL.forbiddenURL@POLYN253768 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00259"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#259"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.security.SURL.requestWithGetAndResponse@POLYN259568 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.security.SURL.isInUrlAllowList@POLYN254098 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00260"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#260"
+ , "c1" : "00261"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#261"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.security.SURL.requestWithGetAndResponse@POLYN259568 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.security.SURL.isInUrlAllowList@POLYN254098 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00275"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#275"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.security.SURL.requestWithGetAndResponse@POLYN259568 the MagicNumber/String  'Location' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00285"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#285"
+ , "c1" : "00264"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#264"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00285] For method requestWithPostAndResponse arguments URL  url|Proxy  proxy|SecurityAuthentication  authentication|String  data|Map&lt;String ,Object &gt;  headers"
+ , "c3" : "QC-JAV000006[00264] For method cleanPath arguments String  path"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00285"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#285"
+ , "c1" : "00264"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#264"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00285] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00264] The argument path is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00286"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#286"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00286] The argument data is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00290"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#290"
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#270"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.security.SURL.requestWithPostAndResponse@POLYN261541 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.security.SURL.cleanPath@POLYN254507 the MagicNumber/String  ':80/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00291"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#291"
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#270"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.security.SURL.requestWithPostAndResponse@POLYN261541 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.security.SURL.cleanPath@POLYN254507 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00292"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#292"
+ , "c1" : "00271"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#271"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.security.SURL.requestWithPostAndResponse@POLYN261541 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.security.SURL.cleanPath@POLYN254507 the MagicNumber/String  ':443/' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00271"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#271"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.security.SURL.cleanPath@POLYN254507 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00277"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#277"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.security.SURL.getUrlAllowList@POLYN255080 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00280"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#280"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.security.SURL.getUrlAllowList@POLYN255080 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00297"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#297"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00297] In method net.sourceforge.plantuml.security.SURL.requestWithPostAndResponse@POLYN261541 the MagicNumber/String  'POST' should be converted to const"
+ , "c3" : "QC-JAV000010[00297] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN255808 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00299"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#299"
+ , "c1" : "00298"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00299] In method net.sourceforge.plantuml.security.SURL.requestWithPostAndResponse@POLYN261541 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN255808 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00304"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#304"
+ , "c1" : "00306"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#306"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.security.SURL.requestWithPostAndResponse@POLYN261541 the MagicNumber/String  'Content-Type' should be converted to const"
+ , "c3" : "QC-JAV000010[00306] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN255808 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00307"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#307"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.security.SURL.requestWithPostAndResponse@POLYN261541 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN255808 the MagicNumber/String  1000L should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#307"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN255808 the MagicNumber/String  60 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00308"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#308"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN255808 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00314"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#314"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00314] For method extractCharset arguments String  contentType"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN255808 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00316"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#316"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.security.SURL.extractCharset@POLYN263169 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN255808 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00318"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#318"
+ , "c1" : "00320"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#320"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00318] In method net.sourceforge.plantuml.security.SURL.extractCharset@POLYN263169 the MagicNumber/String  '(?i)\\bcharset=\\s*\'?([^\\s;\']*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN255808 the MagicNumber/String  'issue ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00321"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#321"
+ , "c1" : "00320"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#320"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00321] In method net.sourceforge.plantuml.security.SURL.extractCharset@POLYN263169 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN255808 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00326"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#326"
+ , "c1" : "00324"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#324"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00326] In method net.sourceforge.plantuml.security.SURL.extractCharset@POLYN263169 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00330"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#330"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00330] For method retrieveResponseAsBytes arguments HttpURLConnection  connection"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00330"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#330"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00330] The argument connection is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00340"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#340"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00340] In method net.sourceforge.plantuml.security.SURL.retrieveResponseAsBytes@POLYN264017 the MagicNumber/String  'HTTP error ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00340"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#340"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00340] In method net.sourceforge.plantuml.security.SURL.retrieveResponseAsBytes@POLYN264017 the MagicNumber/String  ' with ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00346"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#346"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00346] For method retrieveData arguments InputStream  input"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00346"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#346"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00346] The argument input is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00350"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#350"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00350] Assigning instead of comparing on read=input.read(buffer) (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00348"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#348"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.security.SURL.retrieveData@POLYN264979 the MagicNumber/String  1024 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00350"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#350"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00350] In method net.sourceforge.plantuml.security.SURL.retrieveData@POLYN264979 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00324] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN255808 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00351"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#351"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00351] In method net.sourceforge.plantuml.security.SURL.retrieveData@POLYN264979 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00358"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#358"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00358] For method sendRequestAsBytes arguments HttpURLConnection  connection|byte[]  data"
+ , "c3" : "QC-JAV000006[00351] For method getBytes arguments Proxy  proxy|SecurityAuthentication  authentication|Map&lt;String ,Object &gt;  headers"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00358"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#358"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00358] The argument connection is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00368"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#368"
+ , "c1" : "00352"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#352"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00368] In method net.sourceforge.plantuml.security.SURL.openStream@POLYN266145 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00352] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN258256 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00372"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#372"
+ , "c1" : "00353"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#353"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00372] In method net.sourceforge.plantuml.security.SURL.openStream@POLYN266145 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00353] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN258256 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00379"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#379"
+ , "c1" : "00360"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#360"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00379] In method net.sourceforge.plantuml.security.SURL.readRasterImageFromURL@POLYN266504 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00360] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN258256 the MagicNumber/String  'SURL response issue to ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00379"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#379"
+ , "c1" : "00360"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#360"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00379] In method net.sourceforge.plantuml.security.SURL.readRasterImageFromURL@POLYN266504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00360] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN258256 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00380"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#380"
+ , "c1" : "00361"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#361"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00380] In method net.sourceforge.plantuml.security.SURL.readRasterImageFromURL@POLYN266504 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00361] In method net.sourceforge.plantuml.security.SURL.getBytes@POLYN258256 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00386"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#386"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00386] In method net.sourceforge.plantuml.security.SURL.readRasterImageFromURL@POLYN266504 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00391"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#391"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00391] In method net.sourceforge.plantuml.security.SURL.isAuthorizationConfigured@POLYN267270 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00395"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#395"
+ , "c1" : "00385"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#385"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00395] For method applyEndpointAccessAuthentication arguments URLConnection  http|SecurityAuthentication  authentication"
+ , "c3" : "QC-JAV000006[00385] For method getBytesOnPost arguments Proxy  proxy|SecurityAuthentication  authentication|String  data|Map&lt;String ,Object &gt;  headers"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00395"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#395"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00395] The argument authentication is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00407"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#407"
+ , "c1" : "00387"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#387"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00407] In method net.sourceforge.plantuml.security.SURL.applyEndpointAccessAuthentication@POLYN267649 the MagicNumber/String  'The transport of authentication data over an unencrypted http connection is not allowed' should be converted to const"
+ , "c3" : "QC-JAV000010[00387] In method net.sourceforge.plantuml.security.SURL.getBytesOnPost@POLYN259711 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00412"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#412"
+ , "c1" : "00388"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#388"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00388] In method net.sourceforge.plantuml.security.SURL.getBytesOnPost@POLYN259711 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00396"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#396"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00396] In method net.sourceforge.plantuml.security.SURL.getBytesOnPost@POLYN259711 the MagicNumber/String  'SURL response issue to ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00396"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#396"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00396] In method net.sourceforge.plantuml.security.SURL.getBytesOnPost@POLYN259711 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00397"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#397"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00397] In method net.sourceforge.plantuml.security.SURL.getBytesOnPost@POLYN259711 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00410"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#410"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00412] For method applyAdditionalHeaders arguments URLConnection  http|Map&lt;String ,Object &gt;  headers"
+ , "c3" : "QC-JAV000006[00410] For method requestWithGetAndResponse arguments URL  url|Proxy  proxy|SecurityAuthentication  authentication|Map&lt;String ,Object &gt;  headers"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00412"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#412"
+ , "c1" : "00410"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#410"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00412] The argument http is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00410] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00416"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#416"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00416] In method net.sourceforge.plantuml.security.SURL.requestWithGetAndResponse@POLYN260870 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00417"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#417"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00417] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00417] In method net.sourceforge.plantuml.security.SURL.requestWithGetAndResponse@POLYN260870 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00418"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#418"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00418] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00418] In method net.sourceforge.plantuml.security.SURL.requestWithGetAndResponse@POLYN260870 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00419"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#419"
+ , "c1" : "00433"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#433"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00419] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.security.SURL.requestWithGetAndResponse@POLYN260870 the MagicNumber/String  'Location' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00420"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#420"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00420] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00421"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#421"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00421] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00421"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#421"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00421] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00413"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#413"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00413] In method net.sourceforge.plantuml.security.SURL.applyAdditionalHeaders@POLYN268300 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00422"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#422"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00422] In method net.sourceforge.plantuml.security.SURL.applyAdditionalHeaders@POLYN268300 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00429"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#429"
+ , "c1" : "00454"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#454"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00429] For method removeUserInfo arguments URL  url"
+ , "c3" : "QC-JAV000006[00454] For method requestWithPostAndResponse arguments URL  url|Proxy  proxy|SecurityAuthentication  authentication|String  data|Map&lt;String ,Object &gt;  headers"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00429"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#429"
+ , "c1" : "00454"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#454"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00429] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00454] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00434"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#434"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00434] For method removeUserInfoFromUrlPath arguments String  url"
+ , "c1" : "00455"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#455"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00455] The argument data is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00438"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#438"
+ , "c1" : "00459"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#459"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00438] In method net.sourceforge.plantuml.security.SURL.removeUserInfoFromUrlPath@POLYN269784 the MagicNumber/String  '$1$3' should be converted to const"
+ , "c3" : "QC-JAV000010[00459] In method net.sourceforge.plantuml.security.SURL.requestWithPostAndResponse@POLYN262843 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#73"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00073] Public method create is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00460"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#460"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00460] In method net.sourceforge.plantuml.security.SURL.requestWithPostAndResponse@POLYN262843 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#87"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00087] Public method create is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00461"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#461"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00461] In method net.sourceforge.plantuml.security.SURL.requestWithPostAndResponse@POLYN262843 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00365"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#365"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00365] Public method openStream is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00466"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#466"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00466] In method net.sourceforge.plantuml.security.SURL.requestWithPostAndResponse@POLYN262843 the MagicNumber/String  'POST' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00375"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#375"
+ , "c1" : "00468"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#468"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00468] In method net.sourceforge.plantuml.security.SURL.requestWithPostAndResponse@POLYN262843 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00473"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#473"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00473] In method net.sourceforge.plantuml.security.SURL.requestWithPostAndResponse@POLYN262843 the MagicNumber/String  'Content-Type' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00476"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#476"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00476] In method net.sourceforge.plantuml.security.SURL.requestWithPostAndResponse@POLYN262843 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00483"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#483"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00483] For method extractCharset arguments String  contentType"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00485"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#485"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00485] In method net.sourceforge.plantuml.security.SURL.extractCharset@POLYN264471 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00487"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#487"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00487] In method net.sourceforge.plantuml.security.SURL.extractCharset@POLYN264471 the MagicNumber/String  '(?i)\\bcharset=\\s*\'?([^\\s;\']*)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00490"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#490"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00490] In method net.sourceforge.plantuml.security.SURL.extractCharset@POLYN264471 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00495"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#495"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00495] In method net.sourceforge.plantuml.security.SURL.extractCharset@POLYN264471 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00506"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#506"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00506] For method retrieveResponseAsBytes arguments HttpURLConnection  connection"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00506"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#506"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00506] The argument connection is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00516"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#516"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00516] In method net.sourceforge.plantuml.security.SURL.retrieveResponseAsBytes@POLYN265319 the MagicNumber/String  'HTTP error ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00516"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#516"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00516] In method net.sourceforge.plantuml.security.SURL.retrieveResponseAsBytes@POLYN265319 the MagicNumber/String  ' with ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00528"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#528"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00528] For method retrieveData arguments InputStream  input"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00528"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#528"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00528] The argument input is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00532"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#532"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE481[00532] Assigning instead of comparing on read=input.read(buffer) (see http://cwe.mitre.org/data/definitions/481.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00530"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#530"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00530] In method net.sourceforge.plantuml.security.SURL.retrieveData@POLYN266281 the MagicNumber/String  1024 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00532"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#532"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00532] In method net.sourceforge.plantuml.security.SURL.retrieveData@POLYN266281 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00533"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#533"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00533] In method net.sourceforge.plantuml.security.SURL.retrieveData@POLYN266281 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00546"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#546"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00546] For method sendRequestAsBytes arguments HttpURLConnection  connection|byte[]  data"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00546"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#546"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00546] The argument connection is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00556"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#556"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00556] In method net.sourceforge.plantuml.security.SURL.openStream@POLYN267447 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00560"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#560"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00560] In method net.sourceforge.plantuml.security.SURL.openStream@POLYN267447 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00567"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#567"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00567] In method net.sourceforge.plantuml.security.SURL.readRasterImageFromURL@POLYN267806 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00567"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#567"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00567] In method net.sourceforge.plantuml.security.SURL.readRasterImageFromURL@POLYN267806 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00568"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#568"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00568] In method net.sourceforge.plantuml.security.SURL.readRasterImageFromURL@POLYN267806 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00574"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#574"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00574] In method net.sourceforge.plantuml.security.SURL.readRasterImageFromURL@POLYN267806 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00583"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#583"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00583] In method net.sourceforge.plantuml.security.SURL.isAuthorizationConfigured@POLYN268572 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00595"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#595"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00595] For method applyEndpointAccessAuthentication arguments URLConnection  http|SecurityAuthentication  authentication"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00595"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#595"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00595] The argument authentication is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00607"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#607"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00607] In method net.sourceforge.plantuml.security.SURL.applyEndpointAccessAuthentication@POLYN268951 the MagicNumber/String  'The transport of authentication data over an unencrypted http connection is not allowed' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00616"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#616"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00616] For method applyAdditionalHeaders arguments URLConnection  http|Map&lt;String ,Object &gt;  headers"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00616"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#616"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00616] The argument http is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00621"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#621"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00621] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00622"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#622"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00622] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00623"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#623"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00623] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00624"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#624"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00624] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00625"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#625"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00625] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00625"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#625"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00625] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00617"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#617"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00617] In method net.sourceforge.plantuml.security.SURL.applyAdditionalHeaders@POLYN269602 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00626"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#626"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00626] In method net.sourceforge.plantuml.security.SURL.applyAdditionalHeaders@POLYN269602 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00640"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#640"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00640] For method removeUserInfo arguments URL  url"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00640"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#640"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00640] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00651"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#651"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00651] For method removeUserInfoFromUrlPath arguments String  url"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00655"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#655"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00655] In method net.sourceforge.plantuml.security.SURL.removeUserInfoFromUrlPath@POLYN271086 the MagicNumber/String  '$1$3' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#150"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00375] Public method readRasterImageFromURL is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00150] Public method create is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#172"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00172] Public method create is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00553"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#553"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00553] Public method openStream is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00563"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#563"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00563] Public method readRasterImageFromURL is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

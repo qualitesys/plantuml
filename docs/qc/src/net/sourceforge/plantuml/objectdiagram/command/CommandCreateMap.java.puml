@@ -2,11 +2,11 @@
 !pragma layout smetana
 "CommandMultilines2<AbstractEntityDiagram>" <|-- "net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap"
 class net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap {
-+CommandCreateMap() : CommandCreateMap [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#38]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#42]]]
--color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#61]]]
-+getPatternEnd() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#66]]]
-executeNow(AbstractEntityDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#71]]]
--executeArg0(AbstractEntityDiagram;RegexResult) : IEntity [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#108]]]
++CommandCreateMap() : CommandCreateMap [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#72]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#76]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#95]]]
++getPatternEnd() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#100]]]
+executeNow(AbstractEntityDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#105]]]
+-executeArg0(AbstractEntityDiagram;RegexResult) : IEntity [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#142]]]
 } 
 @enduml

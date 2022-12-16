@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.common.splines__c"
 class gen.lib.common.splines__c {
-+arrow_clip(ST_Agedge_s;ST_Agnode_s;CArray<ST_pointf>;int[];int[];ST_bezier;ST_splineInfo) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#205]]]
-+bezier_clip(__ptr__;__ptr__;CArray<ST_pointf>;boolean) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1393]]]
++arrow_clip(ST_Agedge_s;ST_Agnode_s;CArray<ST_pointf>;int[];int[];ST_bezier;ST_splineInfo) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#249]]]
++bezier_clip(__ptr__;__ptr__;CArray<ST_pointf>;boolean) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1437]]]
 +shape_clip0(__ptr__;ST_Agnode_s;CArray<ST_pointf>;boolean) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
 +new_spline(ST_Agedge_s;int) : ST_bezier [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]
 +clip_and_install(ST_Agedge_s;ST_Agnode_s;CArray<ST_pointf>;int;ST_splineInfo) : void [[[./../../../../.././qc/src/gen/lib/common/splines__c.java.html#1]]]

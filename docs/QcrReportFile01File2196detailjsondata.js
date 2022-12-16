@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.svek.ArithmeticStrategySum" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java.html#42"
  , "c1" : "void"
  , "c2" : "eat(double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java.html#46"
  , "c1" : "double"
  , "c2" : "getResult()"
  , "c3" : "1"
@@ -77,10 +77,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java.html#8"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategySum.java.html#42"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00008] For method eat arguments double  v"
+ , "c3" : "QC-JAV000006[00042] For method eat arguments double  v"
 }} 
 ]
 , 

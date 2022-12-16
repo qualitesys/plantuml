@@ -2,16 +2,16 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.Magma"
 class net.sourceforge.plantuml.cucadiagram.Magma {
-+Magma(CucaDiagram;List<ILeaf>) : Magma [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#12]]]
-+putInSquare() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#17]]]
-+getContainer() : IGroup [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#32]]]
-+isComplete() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#40]]]
--squareSize() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#48]]]
--getTopLeft() : ILeaf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#52]]]
--getBottomLeft() : ILeaf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#56]]]
--getTopRight() : ILeaf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#61]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#67]]]
-+linkToDown(Magma) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#71]]]
-+linkToRight(Magma) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#77]]]
++Magma(CucaDiagram;List<ILeaf>) : Magma [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#46]]]
++putInSquare() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#51]]]
++getContainer() : IGroup [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#66]]]
++isComplete() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#74]]]
+-squareSize() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#82]]]
+-getTopLeft() : ILeaf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#86]]]
+-getBottomLeft() : ILeaf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#90]]]
+-getTopRight() : ILeaf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#95]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#101]]]
++linkToDown(Magma) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#105]]]
++linkToRight(Magma) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#111]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.preproc.Truth" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00005"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Truth.java.html#5"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Truth.java.html#39"
  , "c1" : "boolean"
  , "c2" : "isTrue(String)"
  , "c3" : "1"

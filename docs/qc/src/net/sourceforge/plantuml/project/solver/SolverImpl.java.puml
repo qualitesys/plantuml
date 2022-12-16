@@ -2,8 +2,8 @@
 !pragma layout smetana
 "AbstractSolverSolver" <|-- "net.sourceforge.plantuml.project.solver.SolverImpl"
 class net.sourceforge.plantuml.project.solver.SolverImpl {
-+SolverImpl(LoadPlanable) : SolverImpl [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/SolverImpl.java.html#13]]]
-computeEnd() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/SolverImpl.java.html#18]]]
-computeStart() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/SolverImpl.java.html#34]]]
++SolverImpl(LoadPlanable) : SolverImpl [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/SolverImpl.java.html#47]]]
+computeEnd() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/SolverImpl.java.html#52]]]
+computeStart() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/SolverImpl.java.html#68]]]
 } 
 @enduml

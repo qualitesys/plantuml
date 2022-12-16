@@ -2,17 +2,17 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.code.Base64Coder"
 class net.sourceforge.plantuml.code.Base64Coder {
-+encodeString(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#53]]]
-+encodeLines(byte[]) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#58]]]
-+encodeLines(byte[];int;int;int;String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#63]]]
-+encode(byte[]) : char[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#81]]]
-+encode(byte[];int) : char[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#86]]]
-+encode(byte[];int;int) : char[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#91]]]
-+decodeString(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#117]]]
-+decodeLines(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#122]]]
-+decode(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#134]]]
-+decode(char[]) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#139]]]
-+decode(char[];int;int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#144]]]
--Base64Coder() : Base64Coder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#180]]]
++encodeString(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#104]]]
++encodeLines(byte[]) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#116]]]
++encodeLines(byte[];int;int;int;String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#135]]]
++encode(byte[]) : char[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#159]]]
++encode(byte[];int) : char[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#172]]]
++encode(byte[];int;int) : char[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#187]]]
++decodeString(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#221]]]
++decodeLines(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#236]]]
++decode(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#257]]]
++decode(char[]) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#271]]]
++decode(char[];int;int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#289]]]
+-Base64Coder() : Base64Coder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#325]]]
 } 
 @enduml

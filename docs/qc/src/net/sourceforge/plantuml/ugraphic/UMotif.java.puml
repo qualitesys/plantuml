@@ -2,18 +2,18 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.UMotif"
 class net.sourceforge.plantuml.ugraphic.UMotif {
-+UMotif(int...) : UMotif [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#16]]]
-+UMotif(String) : UMotif [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#23]]]
-getLength() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#32]]]
-getPoints() : List<XPoint2D> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#36]]]
-+getRectangle(double;double) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#40]]]
-convertPoint(char) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#50]]]
-convertFromChar(char) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#57]]]
-+drawHorizontal(UGraphic;double;double;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#67]]]
-+drawVertical(UGraphic;double;double;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#72]]]
-drawHorizontal(double;double;int) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#77]]]
-drawVertical(double;double;int) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#87]]]
--addHorizontal(double;double;DotPath) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#97]]]
--addVertical(double;double;DotPath) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#112]]]
++UMotif(int...) : UMotif [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#50]]]
++UMotif(String) : UMotif [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#57]]]
+getLength() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#66]]]
+getPoints() : List<XPoint2D> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#70]]]
++getRectangle(double;double) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#74]]]
+convertPoint(char) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#84]]]
+convertFromChar(char) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#91]]]
++drawHorizontal(UGraphic;double;double;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#101]]]
++drawVertical(UGraphic;double;double;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#106]]]
+drawHorizontal(double;double;int) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#111]]]
+drawVertical(double;double;int) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#121]]]
+-addHorizontal(double;double;DotPath) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#131]]]
+-addVertical(double;double;DotPath) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#146]]]
 } 
 @enduml

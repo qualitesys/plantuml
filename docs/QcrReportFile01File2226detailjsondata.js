@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.svek.GroupPngMakerActivity" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#65"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#99"
  , "c1" : "GroupPngMakerActivity"
  , "c2" : "GroupPngMakerActivity(CucaDiagram;IGroup;StringBounder)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#105"
  , "c1" : "List<Link>"
  , "c2" : "getPureInnerLinks()"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#84"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#118"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "getDefaultStyleDefinitionGroup()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#88"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#122"
  , "c1" : "IEntityImage"
  , "c2" : "getImage()"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00121"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#121"
+ , "c5" : "00155"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#155"
  , "c1" : "HColor"
  , "c2" : "getColor(ColorParam;Stereotype)"
  , "c3" : "1"
@@ -118,108 +118,108 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#52"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#86"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method getChildrenGroups arguments IGroup  parent"
+ , "c3" : "QC-JAV000006[00086] For method getChildrenGroups arguments IGroup  parent"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method isEmpty arguments IGroup  g"
+ , "c3" : "QC-JAV000006[00093] For method isEmpty arguments IGroup  g"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#74"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00074] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00108] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#74"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00074] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00108] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#75"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00075] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00109] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#75"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00075] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00109] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#76"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getPureInnerLinks@POLYN168998 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getPureInnerLinks@POLYN169202 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#77"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getPureInnerLinks@POLYN168998 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getPureInnerLinks@POLYN169202 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#89"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN170078 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN170282 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#96"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN170078 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN170282 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#99"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN170078 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN170282 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#105"
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN170078 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN170282 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#112"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN170078 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN170282 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#112"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN170078 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN170282 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#121"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#155"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00121] For method getColor arguments ColorParam  colorParam|Stereotype  stereo"
+ , "c3" : "QC-JAV000006[00155] For method getColor arguments ColorParam  colorParam|Stereotype  stereo"
 }} 
 ]
 , 

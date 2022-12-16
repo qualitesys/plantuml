@@ -2,16 +2,16 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.project.core.TaskInstant"
 class net.sourceforge.plantuml.project.core.TaskInstant {
-+TaskInstant(Moment;TaskAttribute) : TaskInstant [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#16]]]
--TaskInstant(Moment;TaskAttribute;int;GanttConstraintMode;LoadPlanable) : TaskInstant [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#20]]]
-+withDelta(int;GanttConstraintMode;LoadPlanable) : TaskInstant [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#32]]]
--manageDelta(Day) : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#36]]]
-+getInstantPrecise() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#55]]]
-+getInstantTheorical() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#65]]]
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#76]]]
-+getMoment() : Moment [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#80]]]
-+isTask() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#84]]]
-+getAttribute() : TaskAttribute [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#88]]]
-+sameRowAs(TaskInstant) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#92]]]
++TaskInstant(Moment;TaskAttribute) : TaskInstant [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#50]]]
+-TaskInstant(Moment;TaskAttribute;int;GanttConstraintMode;LoadPlanable) : TaskInstant [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#54]]]
++withDelta(int;GanttConstraintMode;LoadPlanable) : TaskInstant [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#66]]]
+-manageDelta(Day) : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#70]]]
++getInstantPrecise() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#89]]]
++getInstantTheorical() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#99]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#110]]]
++getMoment() : Moment [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#114]]]
++isTask() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#118]]]
++getAttribute() : TaskAttribute [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#122]]]
++sameRowAs(TaskInstant) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html#126]]]
 } 
 @enduml

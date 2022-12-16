@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.xmi.XmiClassDiagramStandard" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramStandard.java.html#13"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramStandard.java.html#47"
  , "c1" : "XmiClassDiagramStandard"
  , "c2" : "XmiClassDiagramStandard(ClassDiagram)"
  , "c3" : "3"
@@ -82,24 +82,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramStandard.java.html#13"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramStandard.java.html#47"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00013] The argument classDiagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00047] The argument classDiagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramStandard.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramStandard.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00020] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00054] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramStandard.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramStandard.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.xmi.XmiClassDiagramStandard.XmiClassDiagramStandard@POLYN147032 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.xmi.XmiClassDiagramStandard.XmiClassDiagramStandard@POLYN147236 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

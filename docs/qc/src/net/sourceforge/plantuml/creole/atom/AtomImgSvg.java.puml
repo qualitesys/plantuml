@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractAtomAtom" <|-- "net.sourceforge.plantuml.creole.atom.AtomImgSvg"
 class net.sourceforge.plantuml.creole.atom.AtomImgSvg {
-+AtomImgSvg(TileImageSvg) : AtomImgSvg [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImgSvg.java.html#13]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImgSvg.java.html#17]]]
-+getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImgSvg.java.html#21]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImgSvg.java.html#25]]]
++AtomImgSvg(TileImageSvg) : AtomImgSvg [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImgSvg.java.html#47]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImgSvg.java.html#51]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImgSvg.java.html#55]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomImgSvg.java.html#59]]]
 } 
 @enduml

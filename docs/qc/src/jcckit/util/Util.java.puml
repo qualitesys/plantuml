@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "jcckit.util.Util"
 class jcckit.util.Util {
--Util() : Util [[[./../../../.././qc/src/jcckit/util/Util.java.html#7]]]
-+log(double;boolean) : double [[[./../../../.././qc/src/jcckit/util/Util.java.html#10]]]
-+exp(double;boolean) : double [[[./../../../.././qc/src/jcckit/util/Util.java.html#15]]]
+-Util() : Util [[[./../../../.././qc/src/jcckit/util/Util.java.html#28]]]
++log(double;boolean) : double [[[./../../../.././qc/src/jcckit/util/Util.java.html#35]]]
++exp(double;boolean) : double [[[./../../../.././qc/src/jcckit/util/Util.java.html#44]]]
 } 
 @enduml

@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.project.draw.FingerPrint"
 class net.sourceforge.plantuml.project.draw.FingerPrint {
-+FingerPrint(double;double;double;double) : FingerPrint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#11]]]
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#19]]]
-+overlap(FingerPrint) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#23]]]
++FingerPrint(double;double;double;double) : FingerPrint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#45]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#53]]]
++overlap(FingerPrint) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/FingerPrint.java.html#57]]]
 } 
 @enduml

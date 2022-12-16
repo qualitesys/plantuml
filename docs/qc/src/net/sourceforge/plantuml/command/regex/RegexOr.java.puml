@@ -2,11 +2,11 @@
 !pragma layout smetana
 "RegexComposedIRegex" <|-- "net.sourceforge.plantuml.command.regex.RegexOr"
 class net.sourceforge.plantuml.command.regex.RegexOr {
-+RegexOr(IRegex...) : RegexOr [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexOr.java.html#16]]]
-+RegexOr(String;IRegex...) : RegexOr [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexOr.java.html#20]]]
-getFullSlow() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexOr.java.html#26]]]
-getStartCount() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexOr.java.html#40]]]
-+createPartialMatch(Iterator<String>) : Map<String,RegexPartialMatch> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexOr.java.html#44]]]
-+match(StringLocated) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexOr.java.html#56]]]
++RegexOr(IRegex...) : RegexOr [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexOr.java.html#50]]]
++RegexOr(String;IRegex...) : RegexOr [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexOr.java.html#54]]]
+getFullSlow() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexOr.java.html#60]]]
+getStartCount() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexOr.java.html#74]]]
++createPartialMatch(Iterator<String>) : Map<String,RegexPartialMatch> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexOr.java.html#78]]]
++match(StringLocated) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexOr.java.html#90]]]
 } 
 @enduml

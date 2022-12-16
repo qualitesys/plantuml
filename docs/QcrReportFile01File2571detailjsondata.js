@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.TextLimitFinder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#49"
  , "c1" : "UGraphic"
  , "c2" : "apply(UChange)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#57"
  , "c1" : "TextLimitFinder"
  , "c2" : "create(StringBounder;boolean)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#61"
  , "c1" : "TextLimitFinder"
  , "c2" : "TextLimitFinder(StringBounder;UTranslate;MinMaxMutable)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#66"
  , "c1" : "void"
  , "c2" : "draw(UShape)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#74"
  , "c1" : "void"
  , "c2" : "drawText(double;double;UText)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#50"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#84"
  , "c1" : "double"
  , "c2" : "getMaxX()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#54"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#88"
  , "c1" : "double"
  , "c2" : "getMaxY()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#58"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#92"
  , "c1" : "double"
  , "c2" : "getMinX()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#62"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#96"
  , "c1" : "double"
  , "c2" : "getMinY()"
  , "c3" : "1"
@@ -154,52 +154,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method apply arguments UChange  change"
+ , "c3" : "QC-JAV000006[00049] For method apply arguments UChange  change"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#49"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00049] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method create arguments StringBounder  stringBounder|boolean  initToZero"
+ , "c3" : "QC-JAV000006[00057] For method create arguments StringBounder  stringBounder|boolean  initToZero"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method draw arguments UShape  shape"
+ , "c3" : "QC-JAV000006[00066] For method draw arguments UShape  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method drawText arguments double  x|double  y|UText  text"
+ , "c3" : "QC-JAV000006[00074] For method drawText arguments double  x|double  y|UText  text"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#74"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00040] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00074] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.ugraphic.TextLimitFinder.drawText@POLYN156884 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.TextLimitFinder.drawText@POLYN157088 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.graphic.TextAttributes" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#9"
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#33"
  , "c1" : "Color"
  , "c2" : "getTextColor()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#12"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#39"
  , "c1" : "String"
  , "c2" : "getFontName()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#15"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#45"
  , "c1" : "FontStyle"
  , "c2" : "getFontStyle()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#18"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#50"
  , "c1" : "double"
  , "c2" : "getFontSize()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#21"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#57"
  , "c1" : "double"
  , "c2" : "getOrientationAngle()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#24"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#65"
  , "c1" : "Anchor"
  , "c2" : "getHorizontalAnchor()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#27"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/jcckit/graphic/TextAttributes.java.html#73"
  , "c1" : "Anchor"
  , "c2" : "getVerticalAnchor()"
  , "c3" : "1"

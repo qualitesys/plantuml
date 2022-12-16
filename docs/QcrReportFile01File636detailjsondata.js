@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#62"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#96"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "getStyleSignatureDiamond()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#66"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#100"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "getStyleSignatureArrow()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#70"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#104"
  , "c1" : "ConditionalBuilder"
  , "c2" : "ConditionalBuilder(Swimlane;HColor;HColor;Rainbow;FtileFactory;ConditionStyle;ConditionEndStyle;Branch;Branch;ISkinParam;StringBounder;FontConfiguration;FontConfiguration;Url)"
  , "c3" : "4"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#107"
+ , "c5" : "00141"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#141"
  , "c1" : "Ftile"
  , "c2" : "create(Swimlane;HColor;HColor;Rainbow;FtileFactory;ConditionStyle;ConditionEndStyle;Branch;Branch;ISkinParam;StringBounder;FontConfiguration;FontConfiguration;Url)"
  , "c3" : "5"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00131"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#131"
+ , "c5" : "00165"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#165"
  , "c1" : "boolean"
  , "c2" : "isEmptyOrOnlySingleStopOrSpot(Branch)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00135"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#135"
+ , "c5" : "00169"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#169"
  , "c1" : "Ftile"
  , "c2" : "createDown(Branch;Branch)"
  , "c3" : "4"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00158"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#158"
+ , "c5" : "00192"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#192"
  , "c1" : "Ftile"
  , "c2" : "createNude()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00163"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#163"
+ , "c5" : "00197"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#197"
  , "c1" : "Ftile"
  , "c2" : "createWithDiamonds()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00178"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#178"
+ , "c5" : "00212"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#212"
  , "c1" : "Ftile"
  , "c2" : "createWithLinks()"
  , "c3" : "2"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00199"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#199"
+ , "c5" : "00233"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#233"
  , "c1" : "Ftile"
  , "c2" : "getDiamond1(boolean)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00203"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#203"
+ , "c5" : "00237"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#237"
  , "c1" : "Ftile"
  , "c2" : "getShape1(boolean;TextBlock;TextBlock)"
  , "c3" : "13"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00244"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#244"
+ , "c5" : "00278"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#278"
  , "c1" : "TextBlock"
  , "c2" : "getLabelPositive(Branch)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00249"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#249"
+ , "c5" : "00283"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#283"
  , "c1" : "Ftile"
  , "c2" : "getShape2(Branch;Branch;boolean)"
  , "c3" : "4"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00274"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#274"
+ , "c5" : "00308"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#308"
  , "c1" : "boolean"
  , "c2" : "hasTwoBranches()"
  , "c3" : "1"
@@ -199,381 +199,381 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#72"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#106"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00072] The argument branch1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00106] The argument branch1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#72"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#106"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00072] The argument branch2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00106] The argument branch2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#72"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#106"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00072] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.ConditionalBuilder@POLYN205725 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.ConditionalBuilder@POLYN205725 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.ConditionalBuilder@POLYN205725 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.ConditionalBuilder@POLYN205725 the MagicNumber/String  30 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.ConditionalBuilder@POLYN205725 the MagicNumber/String  30 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#107"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00107] For method create arguments Swimlane  swimlane|HColor  borderColor|HColor  backColor|Rainbow  arrowColor|FtileFactory  ftileFactory|ConditionStyle  conditionStyle|ConditionEndStyle  conditionEndStyle|Branch  branch1|Branch  branch2|ISkinParam  skinParam|StringBounder  stringBounder|FontConfiguration  fcArrow|FontConfiguration  fcTest|Url  url"
+ , "c3" : "QC-JAVCWE476[00106] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#109"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00109] The argument branch1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#109"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00109] The argument branch2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.create@POLYN208192 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.ConditionalBuilder@POLYN205929 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#120"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.create@POLYN208192 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.ConditionalBuilder@POLYN205929 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#131"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00131] For method isEmptyOrOnlySingleStopOrSpot arguments Branch  branch"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#131"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00131] The argument branch is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#135"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00135] For method createDown arguments Branch  branch1|Branch  branch2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#135"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00135] The argument branch1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#135"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00135] The argument branch2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#113"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.ConditionalBuilder@POLYN205929 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210120 the MagicNumber/String  30 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.ConditionalBuilder@POLYN205929 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210120 the MagicNumber/String  30 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210120 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.ConditionalBuilder@POLYN205929 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210120 the MagicNumber/String  true should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00141] For method create arguments Swimlane  swimlane|HColor  borderColor|HColor  backColor|Rainbow  arrowColor|FtileFactory  ftileFactory|ConditionStyle  conditionStyle|ConditionEndStyle  conditionEndStyle|Branch  branch1|Branch  branch2|ISkinParam  skinParam|StringBounder  stringBounder|FontConfiguration  fcArrow|FontConfiguration  fcTest|Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#143"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210120 the MagicNumber/String  10 should be converted to const"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00143] The argument branch1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#147"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210120 the MagicNumber/String  10 should be converted to const"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#143"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00143] The argument branch2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#151"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210120 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#152"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210120 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#152"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210120 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.create@POLYN208396 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210120 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#155"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210120 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#164"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithDiamonds@POLYN212640 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.create@POLYN208396 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#165"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00165] For method isEmptyOrOnlySingleStopOrSpot arguments Branch  branch"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#165"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00165] The argument branch is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#169"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00169] For method createDown arguments Branch  branch1|Branch  branch2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#169"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00169] The argument branch1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#169"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00169] The argument branch2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithDiamonds@POLYN212640 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210324 the MagicNumber/String  30 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210324 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithDiamonds@POLYN212640 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210324 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#179"
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithLinks@POLYN214086 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210324 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00180"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#180"
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithLinks@POLYN214086 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210324 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#183"
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithLinks@POLYN214086 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#184"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithLinks@POLYN214086 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210324 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithLinks@POLYN214086 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210324 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#195"
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithLinks@POLYN214086 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210324 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#186"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210324 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#188"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210324 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#189"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createDown@POLYN210324 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#198"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithDiamonds@POLYN212844 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#199"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00199] For method getDiamond1 arguments boolean  eastWest"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithDiamonds@POLYN212844 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00203"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#203"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00203] For method getShape1 arguments boolean  eastWest|TextBlock  tb1|TextBlock  tb2"
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#208"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithDiamonds@POLYN212844 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#244"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00244] For method getLabelPositive arguments Branch  branch"
+ , "c1" : "00213"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#213"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithLinks@POLYN214290 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#244"
+ , "c1" : "00214"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#214"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithLinks@POLYN214290 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#217"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithLinks@POLYN214290 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00218"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#218"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithLinks@POLYN214290 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#219"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithLinks@POLYN214290 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#229"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.createWithLinks@POLYN214290 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00233"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#233"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00233] For method getDiamond1 arguments boolean  eastWest"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00237"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#237"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00237] For method getShape1 arguments boolean  eastWest|TextBlock  tb1|TextBlock  tb2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00278"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#278"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00278] For method getLabelPositive arguments Branch  branch"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00278"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#278"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00244] The argument branch is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00278] The argument branch is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00246"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#246"
+ , "c1" : "00280"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#280"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getLabelPositive@POLYN219482 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getLabelPositive@POLYN219686 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00246"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#246"
+ , "c1" : "00280"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#280"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getLabelPositive@POLYN219482 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getLabelPositive@POLYN219686 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00249"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#249"
+ , "c1" : "00283"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#283"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00249] For method getShape2 arguments Branch  branch1|Branch  branch2|boolean  useNorth"
+ , "c3" : "QC-JAV000006[00283] For method getShape2 arguments Branch  branch1|Branch  branch2|boolean  useNorth"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00249"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#249"
+ , "c1" : "00283"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#283"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00249] The argument branch1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00283] The argument branch1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00249"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#249"
+ , "c1" : "00283"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#283"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00249] The argument branch2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00283] The argument branch2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00252"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#252"
+ , "c1" : "00286"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#286"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getShape2@POLYN219821 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getShape2@POLYN220025 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00257"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#257"
+ , "c1" : "00291"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#291"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getShape2@POLYN219821 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getShape2@POLYN220025 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00257"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#257"
+ , "c1" : "00291"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#291"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getShape2@POLYN219821 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getShape2@POLYN220025 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00261"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#261"
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#295"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getShape2@POLYN219821 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getShape2@POLYN220025 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00261"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#261"
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#295"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getShape2@POLYN219821 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getShape2@POLYN220025 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00269"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#269"
+ , "c1" : "00303"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#303"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getShape2@POLYN219821 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getShape2@POLYN220025 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00269"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#269"
+ , "c1" : "00303"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/ConditionalBuilder.java.html#303"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getShape2@POLYN219821 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder.getShape2@POLYN220025 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

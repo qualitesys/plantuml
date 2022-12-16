@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.svek.image.YTransformer"
 class net.sourceforge.plantuml.svek.image.YTransformer {
-+YTransformer(double) : YTransformer [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#10]]]
-+getPoint2D(XPoint2D) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#14]]]
-+getReversePoint2D(XPoint2D) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#18]]]
-+getAlpha() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#22]]]
++YTransformer(double) : YTransformer [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#44]]]
++getPoint2D(XPoint2D) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#48]]]
++getReversePoint2D(XPoint2D) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#52]]]
++getAlpha() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/YTransformer.java.html#56]]]
 } 
 @enduml

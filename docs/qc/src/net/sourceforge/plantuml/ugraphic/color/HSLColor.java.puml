@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.color.HSLColor"
 class net.sourceforge.plantuml.ugraphic.color.HSLColor {
-+HSLColor(Color) : HSLColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#237]]]
-+HSLColor(float;float;float) : HSLColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#237]]]
-+HSLColor(float;float;float;float) : HSLColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#237]]]
-+HSLColor(float[]) : HSLColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#237]]]
-+HSLColor(float[];float) : HSLColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#237]]]
++HSLColor(Color) : HSLColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#238]]]
++HSLColor(float;float;float) : HSLColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#238]]]
++HSLColor(float;float;float;float) : HSLColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#238]]]
++HSLColor(float[]) : HSLColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#238]]]
++HSLColor(float[];float) : HSLColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#238]]]
 +adjustHue(float) : Color [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1]]]
 +adjustLuminance(float) : Color [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1]]]
 +adjustSaturation(float) : Color [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1]]]

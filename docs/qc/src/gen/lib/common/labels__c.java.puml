@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.common.labels__c"
 class gen.lib.common.labels__c {
-+storeline(ST_GVC_s;ST_textlabel_t;CString;char) : void [[[./../../../../.././qc/src/gen/lib/common/labels__c.java.html#63]]]
-+make_simple_label(ST_GVC_s;ST_textlabel_t) : void [[[./../../../../.././qc/src/gen/lib/common/labels__c.java.html#101]]]
-+make_label(ST_Agobj_s;CString;int;double;CString;CString) : ST_textlabel_t [[[./../../../../.././qc/src/gen/lib/common/labels__c.java.html#174]]]
-+strdup_and_subst_obj0(CString;ST_Agobj_s;int) : CString [[[./../../../../.././qc/src/gen/lib/common/labels__c.java.html#255]]]
-+strdup_and_subst_obj(CString;__ptr__) : CString [[[./../../../../.././qc/src/gen/lib/common/labels__c.java.html#429]]]
++storeline(ST_GVC_s;ST_textlabel_t;CString;char) : void [[[./../../../../.././qc/src/gen/lib/common/labels__c.java.html#107]]]
++make_simple_label(ST_GVC_s;ST_textlabel_t) : void [[[./../../../../.././qc/src/gen/lib/common/labels__c.java.html#145]]]
++make_label(ST_Agobj_s;CString;int;double;CString;CString) : ST_textlabel_t [[[./../../../../.././qc/src/gen/lib/common/labels__c.java.html#222]]]
++strdup_and_subst_obj0(CString;ST_Agobj_s;int) : CString [[[./../../../../.././qc/src/gen/lib/common/labels__c.java.html#310]]]
++strdup_and_subst_obj(CString;__ptr__) : CString [[[./../../../../.././qc/src/gen/lib/common/labels__c.java.html#501]]]
 } 
 @enduml

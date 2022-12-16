@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.DirWatcher"
 class net.sourceforge.plantuml.DirWatcher {
-+DirWatcher(File;Option;String) : DirWatcher [[[./../../../../.././qc/src/net/sourceforge/plantuml/DirWatcher.java.html#25]]]
-+buildCreatedFiles() : List<GeneratedImage> [[[./../../../../.././qc/src/net/sourceforge/plantuml/DirWatcher.java.html#31]]]
-+getErrorFile() : File [[[./../../../../.././qc/src/net/sourceforge/plantuml/DirWatcher.java.html#66]]]
--fileToProcess(String) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/DirWatcher.java.html#89]]]
-+getDir() : File [[[./../../../../.././qc/src/net/sourceforge/plantuml/DirWatcher.java.html#93]]]
++DirWatcher(File;Option;String) : DirWatcher [[[./../../../../.././qc/src/net/sourceforge/plantuml/DirWatcher.java.html#59]]]
++buildCreatedFiles() : List<GeneratedImage> [[[./../../../../.././qc/src/net/sourceforge/plantuml/DirWatcher.java.html#65]]]
++getErrorFile() : File [[[./../../../../.././qc/src/net/sourceforge/plantuml/DirWatcher.java.html#100]]]
+-fileToProcess(String) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/DirWatcher.java.html#123]]]
++getDir() : File [[[./../../../../.././qc/src/net/sourceforge/plantuml/DirWatcher.java.html#127]]]
 } 
 @enduml

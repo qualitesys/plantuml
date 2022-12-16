@@ -2,9 +2,9 @@
 !pragma layout smetana
 "CommandMultilinesBracket<TitledDiagram>" <|-- "net.sourceforge.plantuml.command.CommandSkinParamMultilines"
 class net.sourceforge.plantuml.command.CommandSkinParamMultilines {
-+CommandSkinParamMultilines() : CommandSkinParamMultilines [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#11]]]
-isLineConsistent(String;int) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#16]]]
--hasStartingQuote(CharSequence) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#24]]]
-+execute(TitledDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#29]]]
++CommandSkinParamMultilines() : CommandSkinParamMultilines [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#45]]]
+isLineConsistent(String;int) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#50]]]
+-hasStartingQuote(CharSequence) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#58]]]
++execute(TitledDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#63]]]
 } 
 @enduml

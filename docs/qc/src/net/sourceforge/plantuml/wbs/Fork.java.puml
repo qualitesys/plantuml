@@ -2,8 +2,8 @@
 !pragma layout smetana
 "WBSTextBlock" <|-- "net.sourceforge.plantuml.wbs.Fork"
 class net.sourceforge.plantuml.wbs.Fork {
-+Fork(ISkinParam;WElement) : Fork [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/Fork.java.html#20]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/Fork.java.html#34]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/Fork.java.html#75]]]
++Fork(ISkinParam;WElement) : Fork [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/Fork.java.html#54]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/Fork.java.html#68]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/Fork.java.html#109]]]
 } 
 @enduml

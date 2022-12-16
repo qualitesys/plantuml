@@ -2,13 +2,13 @@
 !pragma layout smetana
 "UnsupportedC" <|-- "smetana.core.CArrayOfStar"
 class smetana.core.CArrayOfStar {
-+toString() : String [[[./../../../.././qc/src/smetana/core/CArrayOfStar.java.html#15]]]
--CArrayOfStar(List<O>;int) : CArrayOfStar [[[./../../../.././qc/src/smetana/core/CArrayOfStar.java.html#20]]]
-+comparePointer_(CArrayOfStar<O>) : int [[[./../../../.././qc/src/smetana/core/CArrayOfStar.java.html#40]]]
-+get_(int) : O [[[./../../../.././qc/src/smetana/core/CArrayOfStar.java.html#47]]]
-+set_(int;O) : void [[[./../../../.././qc/src/smetana/core/CArrayOfStar.java.html#51]]]
-+realloc(int) : void [[[./../../../.././qc/src/smetana/core/CArrayOfStar.java.html#55]]]
-+plus_(int) : CArrayOfStar<O> [[[./../../../.././qc/src/smetana/core/CArrayOfStar.java.html#64]]]
-+_swap(int;int) : void [[[./../../../.././qc/src/smetana/core/CArrayOfStar.java.html#68]]]
++toString() : String [[[./../../../.././qc/src/smetana/core/CArrayOfStar.java.html#49]]]
+-CArrayOfStar(List<O>;int) : CArrayOfStar [[[./../../../.././qc/src/smetana/core/CArrayOfStar.java.html#54]]]
++comparePointer_(CArrayOfStar<O>) : int [[[./../../../.././qc/src/smetana/core/CArrayOfStar.java.html#74]]]
++get_(int) : O [[[./../../../.././qc/src/smetana/core/CArrayOfStar.java.html#81]]]
++set_(int;O) : void [[[./../../../.././qc/src/smetana/core/CArrayOfStar.java.html#85]]]
++realloc(int) : void [[[./../../../.././qc/src/smetana/core/CArrayOfStar.java.html#89]]]
++plus_(int) : CArrayOfStar<O> [[[./../../../.././qc/src/smetana/core/CArrayOfStar.java.html#98]]]
++_swap(int;int) : void [[[./../../../.././qc/src/smetana/core/CArrayOfStar.java.html#102]]]
 } 
 @enduml

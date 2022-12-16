@@ -2,12 +2,12 @@
 !pragma layout smetana
 "Pushable" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple"
 class net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple {
-+ParticipantBoxSimple(double) : ParticipantBoxSimple [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#16]]]
-+ParticipantBoxSimple(double;String) : ParticipantBoxSimple [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#20]]]
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#26]]]
-+getCenterX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#30]]]
-+pushToLeft(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#34]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#38]]]
-+getDelays(StringBounder) : Collection<Segment> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#42]]]
++ParticipantBoxSimple(double) : ParticipantBoxSimple [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#50]]]
++ParticipantBoxSimple(double;String) : ParticipantBoxSimple [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#54]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#60]]]
++getCenterX(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#64]]]
++pushToLeft(double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#68]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#72]]]
++getDelays(StringBounder) : Collection<Segment> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#76]]]
 } 
 @enduml

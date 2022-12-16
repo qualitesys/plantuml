@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.gui.PixelCanvas" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#19"
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#34"
  , "c1" : "PixelCanvas"
  , "c2" : "PixelCanvas(int;int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#25"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#40"
  , "c1" : "Graphics2D"
  , "c2" : "getGraphics2D()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#29"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#44"
  , "c1" : "void"
  , "c2" : "setPixel(int;int;int;int;int;int)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#33"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#48"
  , "c1" : "void"
  , "c2" : "setPixel(int;int;Color)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#37"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#52"
  , "c1" : "int"
  , "c2" : "getImageWidth()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#41"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#56"
  , "c1" : "int"
  , "c2" : "getImageHeight()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#45"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#60"
  , "c1" : "void"
  , "c2" : "saveToImage(OutputStream)"
  , "c3" : "1"
@@ -136,38 +136,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#29"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#44"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method setPixel arguments int  pX|int  pY|int  pA|int  pR|int  pG|int  pB"
+ , "c3" : "QC-JAV000006[00044] For method setPixel arguments int  pX|int  pY|int  pA|int  pR|int  pG|int  pB"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#33"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method setPixel arguments int  pX|int  pY|Color  pColor"
+ , "c3" : "QC-JAV000006[00048] For method setPixel arguments int  pX|int  pY|Color  pColor"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#33"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#48"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument pColor is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00048] The argument pColor is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#45"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method saveToImage arguments OutputStream  os"
+ , "c3" : "QC-JAV000006[00060] For method saveToImage arguments OutputStream  os"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#46"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method ext.plantuml.com.ctreber.acearth.gui.PixelCanvas.saveToImage@POLYN145413 the MagicNumber/String  'png' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method ext.plantuml.com.ctreber.acearth.gui.PixelCanvas.saveToImage@POLYN145503 the MagicNumber/String  'png' should be converted to const"
 }} 
 ]
 , 

@@ -2,11 +2,11 @@
 !pragma layout smetana
 "ImageData" <|-- "net.sourceforge.plantuml.api.ImageDataAbstract"
 class net.sourceforge.plantuml.api.ImageDataAbstract {
-+ImageDataAbstract(int;int) : ImageDataAbstract [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#14]]]
-+ImageDataAbstract(XDimension2D) : ImageDataAbstract [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#20]]]
-+getWidth() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#24]]]
-+getHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#28]]]
-+getStatus() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#32]]]
-+setStatus(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#36]]]
++ImageDataAbstract(int;int) : ImageDataAbstract [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#48]]]
++ImageDataAbstract(XDimension2D) : ImageDataAbstract [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#54]]]
++getWidth() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#58]]]
++getHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#62]]]
++getStatus() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#66]]]
++setStatus(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataAbstract.java.html#70]]]
 } 
 @enduml

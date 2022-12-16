@@ -2,18 +2,18 @@
 !pragma layout smetana
 "NumberAnalyzed" <|-- "net.sourceforge.plantuml.api.NumberAnalyzedDated"
 class net.sourceforge.plantuml.api.NumberAnalyzedDated {
--NumberAnalyzedDated(String;long;long;long;long;long;long;long;long;String) : NumberAnalyzedDated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#19]]]
-+reset() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#28]]]
-+NumberAnalyzedDated() : NumberAnalyzedDated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#33]]]
-+NumberAnalyzedDated(String) : NumberAnalyzedDated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#38]]]
--resetCreatedModifiedComment() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#43]]]
-+addValue(long) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#51]]]
-+add(NumberAnalyzed) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#57]]]
-getSavedSupplementatyData() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#63]]]
-+load(String;Preferences) : NumberAnalyzedDated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#67]]]
-+getCreationTime() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#87]]]
-+getModificationTime() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#91]]]
-+getComment() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#95]]]
-+setComment(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#99]]]
+-NumberAnalyzedDated(String;long;long;long;long;long;long;long;long;String) : NumberAnalyzedDated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#46]]]
++reset() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#55]]]
++NumberAnalyzedDated() : NumberAnalyzedDated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#60]]]
++NumberAnalyzedDated(String) : NumberAnalyzedDated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#65]]]
+-resetCreatedModifiedComment() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#70]]]
++addValue(long) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#78]]]
++add(NumberAnalyzed) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#84]]]
+getSavedSupplementatyData() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#90]]]
++load(String;Preferences) : NumberAnalyzedDated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#94]]]
++getCreationTime() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#114]]]
++getModificationTime() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#118]]]
++getComment() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#122]]]
++setComment(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#126]]]
 } 
 @enduml

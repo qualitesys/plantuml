@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.color.HUSLColorConverter"
 class net.sourceforge.plantuml.ugraphic.color.HUSLColorConverter {
--getBounds(double) : List<double[]> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.html#390]]]
--intersectLineLine(double[];double[]) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.html#390]]]
--distanceFromPole(double[]) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.html#390]]]
--lengthOfRayUntilIntersect(double;double[]) : Length [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.html#390]]]
--maxSafeChromaForL(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.html#390]]]
+-getBounds(double) : List<double[]> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.html#393]]]
+-intersectLineLine(double[];double[]) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.html#393]]]
+-distanceFromPole(double[]) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.html#393]]]
+-lengthOfRayUntilIntersect(double;double[]) : Length [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.html#393]]]
+-maxSafeChromaForL(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.html#393]]]
 -maxChromaForLH(double;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.html#1]]]
 -dotProduct(double[];double[]) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.html#1]]]
 -round(double;int) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.html#1]]]

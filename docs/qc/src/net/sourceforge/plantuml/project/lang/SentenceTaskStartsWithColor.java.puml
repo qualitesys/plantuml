@@ -2,7 +2,7 @@
 !pragma layout smetana
 "SentenceSimple" <|-- "net.sourceforge.plantuml.project.lang.SentenceTaskStartsWithColor"
 class net.sourceforge.plantuml.project.lang.SentenceTaskStartsWithColor {
-+SentenceTaskStartsWithColor() : SentenceTaskStartsWithColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java.html#14]]]
-+execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java.html#20]]]
++SentenceTaskStartsWithColor() : SentenceTaskStartsWithColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java.html#48]]]
++execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java.html#54]]]
 } 
 @enduml

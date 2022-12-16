@@ -2,14 +2,14 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.argon2.model.Block"
 class net.sourceforge.plantuml.argon2.model.Block {
-+Block() : Block [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#17]]]
-+fromBytes(byte[]) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#21]]]
-+toBytes() : byte[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#30]]]
-+copyBlock(Block) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#41]]]
-+xor(Block;Block) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#45]]]
-+xor(Block;Block;Block) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#51]]]
-+xorWith(Block) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#57]]]
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#64]]]
-clear() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#73]]]
++Block() : Block [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#21]]]
++fromBytes(byte[]) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#25]]]
++toBytes() : byte[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#34]]]
++copyBlock(Block) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#45]]]
++xor(Block;Block) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#49]]]
++xor(Block;Block;Block) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#55]]]
++xorWith(Block) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#61]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#68]]]
+clear() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#77]]]
 } 
 @enduml

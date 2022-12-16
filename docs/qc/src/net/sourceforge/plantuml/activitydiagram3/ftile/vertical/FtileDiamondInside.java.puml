@@ -2,17 +2,17 @@
 !pragma layout smetana
 "FtileDiamondWIP" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside"
 class net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside {
-+FtileDiamondInside(TextBlock;ISkinParam;HColor;HColor;Swimlane) : FtileDiamondInside [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#19]]]
-+withNorth(TextBlock) : FtileDiamondInside [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#25]]]
-+withWest(TextBlock) : FtileDiamondInside [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#29]]]
-+withEast(TextBlock) : FtileDiamondInside [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#33]]]
-+withWestAndEast(TextBlock;TextBlock) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#37]]]
-+withSouth(TextBlock) : FtileDiamondInside [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#41]]]
--FtileDiamondInside(TextBlock;ISkinParam;HColor;HColor;Swimlane;TextBlock;TextBlock;TextBlock;TextBlock) : FtileDiamondInside [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#45]]]
-+drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#50]]]
--calculateDimensionAlone(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#72]]]
-calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#86]]]
-+getEastLabelWidth(StringBounder) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#94]]]
-+getSouthLabelHeight(StringBounder) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#99]]]
++FtileDiamondInside(TextBlock;ISkinParam;HColor;HColor;Swimlane) : FtileDiamondInside [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#53]]]
++withNorth(TextBlock) : FtileDiamondInside [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#59]]]
++withWest(TextBlock) : FtileDiamondInside [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#63]]]
++withEast(TextBlock) : FtileDiamondInside [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#67]]]
++withWestAndEast(TextBlock;TextBlock) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#71]]]
++withSouth(TextBlock) : FtileDiamondInside [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#75]]]
+-FtileDiamondInside(TextBlock;ISkinParam;HColor;HColor;Swimlane;TextBlock;TextBlock;TextBlock;TextBlock) : FtileDiamondInside [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#79]]]
++drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#84]]]
+-calculateDimensionAlone(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#106]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#120]]]
++getEastLabelWidth(StringBounder) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#128]]]
++getSouthLabelHeight(StringBounder) : double [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#133]]]
 } 
 @enduml

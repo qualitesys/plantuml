@@ -2,11 +2,11 @@
 !pragma layout smetana
 "CharSequence" <|-- "net.sourceforge.plantuml.sequencediagram.MessageNumber"
 class net.sourceforge.plantuml.sequencediagram.MessageNumber {
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageNumber.java.html#9]]]
-+MessageNumber(String) : MessageNumber [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageNumber.java.html#13]]]
-+getNumberRaw() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageNumber.java.html#17]]]
-+charAt(int) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageNumber.java.html#21]]]
-+length() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageNumber.java.html#25]]]
-+subSequence(int;int) : CharSequence [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageNumber.java.html#29]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageNumber.java.html#43]]]
++MessageNumber(String) : MessageNumber [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageNumber.java.html#47]]]
++getNumberRaw() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageNumber.java.html#51]]]
++charAt(int) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageNumber.java.html#55]]]
++length() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageNumber.java.html#59]]]
++subSequence(int;int) : CharSequence [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/MessageNumber.java.html#63]]]
 } 
 @enduml

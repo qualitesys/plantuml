@@ -2,8 +2,8 @@
 !pragma layout smetana
 "Thread" <|-- "net.sourceforge.plantuml.telnet.AcceptTelnetClient"
 class net.sourceforge.plantuml.telnet.AcceptTelnetClient {
-AcceptTelnetClient(Socket) : AcceptTelnetClient [[[./../../../../../.././qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#21]]]
-+runInternal() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#30]]]
-+run() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#46]]]
+AcceptTelnetClient(Socket) : AcceptTelnetClient [[[./../../../../../.././qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#55]]]
++runInternal() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#64]]]
++run() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#80]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.AbstractMessage" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#60"
  , "c1" : "void"
  , "c2" : "getStereotype(Stereotype)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#64"
  , "c1" : "Style[]"
  , "c2" : "getUsedStyles()"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#38"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#72"
  , "c1" : "StyleSignature"
  , "c2" : "getStyleSignature()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#89"
  , "c1" : "AbstractMessage"
  , "c2" : "AbstractMessage(StyleBuilder;Display;ArrowConfiguration;String)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#64"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#98"
  , "c1" : "void"
  , "c2" : "setUrl(Url)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#68"
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#102"
  , "c1" : "void"
  , "c2" : "goParallel()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00072"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#72"
+ , "c5" : "00106"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#106"
  , "c1" : "void"
  , "c2" : "setParallelBrother(AbstractMessage)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#76"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#110"
  , "c1" : "boolean"
  , "c2" : "isParallel()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00080"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#80"
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#114"
  , "c1" : "Url"
  , "c2" : "getUrl()"
  , "c3" : "4"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00089"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#89"
+ , "c5" : "00123"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#123"
  , "c1" : "boolean"
  , "c2" : "hasUrl()"
  , "c3" : "4"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00103"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#103"
+ , "c5" : "00137"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#137"
  , "c1" : "boolean"
  , "c2" : "addLifeEvent(LifeEvent)"
  , "c3" : "4"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00119"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#119"
+ , "c5" : "00153"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#153"
  , "c1" : "boolean"
  , "c2" : "isCreate()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00124"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#124"
+ , "c5" : "00158"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#158"
  , "c1" : "boolean"
  , "c2" : "isActivate()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00129"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#129"
+ , "c5" : "00163"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#163"
  , "c1" : "boolean"
  , "c2" : "isDeactivate()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00133"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#133"
+ , "c5" : "00167"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#167"
  , "c1" : "boolean"
  , "c2" : "isDestroy()"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00138"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#138"
+ , "c5" : "00172"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#172"
  , "c1" : "boolean"
  , "c2" : "isDeactivateOrDestroy()"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00142"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#142"
+ , "c5" : "00176"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#176"
  , "c1" : "boolean"
  , "c2" : "isActivateAndDeactive()"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00146"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#146"
+ , "c5" : "00180"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#180"
  , "c1" : "Display"
  , "c2" : "getLabel()"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00150"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#150"
+ , "c5" : "00184"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#184"
  , "c1" : "Display"
  , "c2" : "getLabelNumbered()"
  , "c3" : "2"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00160"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#160"
+ , "c5" : "00194"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#194"
  , "c1" : "ArrowConfiguration"
  , "c2" : "getArrowConfiguration()"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00164"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#164"
+ , "c5" : "00198"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#198"
  , "c1" : "List<Note>"
  , "c2" : "getNoteOnMessages()"
  , "c3" : "1"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00168"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#168"
+ , "c5" : "00202"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#202"
  , "c1" : "void"
  , "c2" : "setNote(Note)"
  , "c3" : "2"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00177"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#177"
+ , "c5" : "00211"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#211"
  , "c1" : "NotePosition"
  , "c2" : "overrideNotePosition(NotePosition)"
  , "c3" : "1"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00181"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#181"
+ , "c5" : "00215"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#215"
  , "c1" : "String"
  , "c2" : "getMessageNumber()"
  , "c3" : "1"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00185"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#185"
+ , "c5" : "00219"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#219"
  , "c1" : "boolean"
  , "c2" : "compatibleForCreate(Participant)"
  , "c3" : "1"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00187"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#187"
+ , "c5" : "00221"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#221"
  , "c1" : "boolean"
  , "c2" : "isSelfMessage()"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00192"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#192"
+ , "c5" : "00226"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#226"
  , "c1" : "double"
  , "c2" : "getPosYstartLevel()"
  , "c3" : "1"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00196"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#196"
+ , "c5" : "00230"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#230"
  , "c1" : "void"
  , "c2" : "setPosYstartLevel(double)"
  , "c3" : "1"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00200"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#200"
+ , "c5" : "00234"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#234"
  , "c1" : "void"
  , "c2" : "setPosYendLevel(double)"
  , "c3" : "1"
@@ -279,8 +279,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00204"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#204"
+ , "c5" : "00238"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#238"
  , "c1" : "double"
  , "c2" : "getPosYendLevel()"
  , "c3" : "1"
@@ -288,8 +288,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00212"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#212"
+ , "c5" : "00246"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#246"
  , "c1" : "void"
  , "c2" : "setAnchor(String)"
  , "c3" : "2"
@@ -297,8 +297,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00219"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#219"
+ , "c5" : "00253"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#253"
  , "c1" : "void"
  , "c2" : "setPart1Anchor(String)"
  , "c3" : "1"
@@ -306,8 +306,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00223"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#223"
+ , "c5" : "00257"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#257"
  , "c1" : "void"
  , "c2" : "setPart2Anchor(String)"
  , "c3" : "1"
@@ -315,8 +315,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00227"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#227"
+ , "c5" : "00261"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#261"
  , "c1" : "String"
  , "c2" : "getAnchor()"
  , "c3" : "1"
@@ -324,8 +324,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00231"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#231"
+ , "c5" : "00265"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#265"
  , "c1" : "String"
  , "c2" : "getPart1Anchor()"
  , "c3" : "1"
@@ -333,8 +333,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00235"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#235"
+ , "c5" : "00269"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#269"
  , "c1" : "String"
  , "c2" : "getPart2Anchor()"
  , "c3" : "1"
@@ -342,8 +342,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00239"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#239"
+ , "c5" : "00273"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#273"
  , "c1" : "Participant"
  , "c2" : "getParticipant1()"
  , "c3" : "1"
@@ -351,8 +351,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00241"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#241"
+ , "c5" : "00275"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#275"
  , "c1" : "Participant"
  , "c2" : "getParticipant2()"
  , "c3" : "1"
@@ -422,248 +422,248 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method getStereotype arguments Stereotype  stereotype"
+ , "c3" : "QC-JAV000006[00060] For method getStereotype arguments Stereotype  stereotype"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.getUsedStyles@POLYN174106 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.getUsedStyles@POLYN174310 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.getUsedStyles@POLYN174106 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.AbstractMessage@POLYN175449 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#64"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method setUrl arguments Url  url"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.goParallel@POLYN176041 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#72"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00072] For method setParallelBrother arguments AbstractMessage  brother"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.getUrl@POLYN176374 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.getUrl@POLYN176374 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.getUsedStyles@POLYN174310 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.hasUrl@POLYN176708 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.AbstractMessage@POLYN175653 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.hasUrl@POLYN176708 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#95"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.hasUrl@POLYN176708 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.hasUrl@POLYN176708 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#103"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00103] For method addLifeEvent arguments LifeEvent  lifeEvent"
+ , "c3" : "QC-JAV000006[00098] For method setUrl arguments Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#103"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00103] The argument lifeEvent is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00113] The same method call lifeEvent.getType() is used several times, should be optimized "
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.goParallel@POLYN176245 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#106"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.addLifeEvent@POLYN177307 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#107"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.addLifeEvent@POLYN177307 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.addLifeEvent@POLYN177307 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#116"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.addLifeEvent@POLYN177307 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#151"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.getLabelNumbered@POLYN179124 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#168"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00168] For method setNote arguments Note  note"
+ , "c3" : "QC-JAV000006[00106] For method setParallelBrother arguments AbstractMessage  brother"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#168"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#115"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.getUrl@POLYN176578 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.getUrl@POLYN176578 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#126"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.hasUrl@POLYN176912 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.hasUrl@POLYN176912 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#129"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.hasUrl@POLYN176912 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.hasUrl@POLYN176912 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#137"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00137] For method addLifeEvent arguments LifeEvent  lifeEvent"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#137"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00168] The argument note is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00137] The argument lifeEvent is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#169"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00169] The same method call note.getPosition()note.getPosition()note.getPosition() is used several times, should be optimized "
+ , "c3" : "QC-JAV000021[00147] The same method call lifeEvent.getType() is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#169"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00169] The same method call note.getPosition()note.getPosition() is used several times, should be optimized "
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.addLifeEvent@POLYN177511 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#170"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00170] The same method call note.getPosition() is used several times, should be optimized "
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.addLifeEvent@POLYN177511 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00177"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#177"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00177] For method overrideNotePosition arguments NotePosition  notePosition"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#145"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.addLifeEvent@POLYN177511 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#150"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.addLifeEvent@POLYN177511 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#185"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00185] For method compatibleForCreate arguments Participant  p"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#196"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00196] For method setPosYstartLevel arguments double  posYstartLevel"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00200"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#200"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00200] For method setPosYendLevel arguments double  posYendLevel"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00212"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#212"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00212] For method setAnchor arguments String  anchor"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#214"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.setAnchor@POLYN181433 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.getLabelNumbered@POLYN179328 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#214"
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#202"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00202] For method setNote arguments Note  note"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#202"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00202] The argument note is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.setAnchor@POLYN181433 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000021[00203] The same method call note.getPosition()note.getPosition()note.getPosition() is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00203] The same method call note.getPosition()note.getPosition() is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#204"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00204] The same method call note.getPosition() is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#211"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00211] For method overrideNotePosition arguments NotePosition  notePosition"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00219"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#219"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00219] For method setPart1Anchor arguments String  anchor"
+ , "c3" : "QC-JAV000006[00219] For method compatibleForCreate arguments Participant  p"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#223"
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#230"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00223] For method setPart2Anchor arguments String  anchor"
+ , "c3" : "QC-JAV000006[00230] For method setPosYstartLevel arguments double  posYstartLevel"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#234"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00234] For method setPosYendLevel arguments double  posYendLevel"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00246"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#246"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00246] For method setAnchor arguments String  anchor"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#248"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.setAnchor@POLYN181637 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#248"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.sequencediagram.AbstractMessage.setAnchor@POLYN181637 the MagicNumber/String  '{' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#253"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00253] For method setPart1Anchor arguments String  anchor"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractMessage.java.html#257"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00257] For method setPart2Anchor arguments String  anchor"
 }} 
 ]
 , 

@@ -2,9 +2,9 @@
 !pragma layout smetana
 "SingleLineCommand2<ActivityDiagram>" <|-- "net.sourceforge.plantuml.activitydiagram.command.CommandPartition"
 class net.sourceforge.plantuml.activitydiagram.command.CommandPartition {
-+CommandPartition() : CommandPartition [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandPartition.java.html#29]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandPartition.java.html#33]]]
--color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandPartition.java.html#49]]]
-executeArg(ActivityDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandPartition.java.html#54]]]
++CommandPartition() : CommandPartition [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandPartition.java.html#63]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandPartition.java.html#67]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandPartition.java.html#83]]]
+executeArg(ActivityDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandPartition.java.html#88]]]
 } 
 @enduml

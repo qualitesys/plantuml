@@ -2,8 +2,8 @@
 !pragma layout smetana
 "OutputStream" <|-- "net.sourceforge.plantuml.NullOutputStream"
 class net.sourceforge.plantuml.NullOutputStream {
-+write(int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#12]]]
-+write(byte[]) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#18]]]
-+write(byte[];int;int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#24]]]
++write(int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#48]]]
++write(byte[]) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#56]]]
++write(byte[];int;int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#64]]]
 } 
 @enduml

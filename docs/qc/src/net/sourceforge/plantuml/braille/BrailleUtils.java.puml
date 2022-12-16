@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.braille.BrailleUtils"
 class net.sourceforge.plantuml.braille.BrailleUtils {
-+isBraille(char) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleUtils.java.html#6]]]
++isBraille(char) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/BrailleUtils.java.html#40]]]
 } 
 @enduml

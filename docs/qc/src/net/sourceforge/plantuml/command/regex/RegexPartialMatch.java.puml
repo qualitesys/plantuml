@@ -2,11 +2,11 @@
 !pragma layout smetana
 "Iterable<String>" <|-- "net.sourceforge.plantuml.command.regex.RegexPartialMatch"
 class net.sourceforge.plantuml.command.regex.RegexPartialMatch {
-+RegexPartialMatch(String) : RegexPartialMatch [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#13]]]
-+add(String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#17]]]
-+size() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#21]]]
-+get(int) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#25]]]
-+iterator() : Iterator<String> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#29]]]
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#34]]]
++RegexPartialMatch(String) : RegexPartialMatch [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#47]]]
++add(String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#51]]]
++size() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#55]]]
++get(int) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#59]]]
++iterator() : Iterator<String> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#63]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#68]]]
 } 
 @enduml

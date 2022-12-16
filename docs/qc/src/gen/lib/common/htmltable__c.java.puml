@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.common.htmltable__c"
 class gen.lib.common.htmltable__c {
-+html_port(ST_Agnode_s;CString;int[]) : ST_boxf [[[./../../../../.././qc/src/gen/lib/common/htmltable__c.java.html#20]]]
-+make_html_label(__ptr__;ST_textlabel_t) : int [[[./../../../../.././qc/src/gen/lib/common/htmltable__c.java.html#45]]]
++html_port(ST_Agnode_s;CString;int[]) : ST_boxf [[[./../../../../.././qc/src/gen/lib/common/htmltable__c.java.html#64]]]
++make_html_label(__ptr__;ST_textlabel_t) : int [[[./../../../../.././qc/src/gen/lib/common/htmltable__c.java.html#89]]]
 } 
 @enduml

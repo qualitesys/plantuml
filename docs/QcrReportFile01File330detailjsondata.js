@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.SymbolFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/jcckit/plot/SymbolFactory.java.html#17"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/jcckit/plot/SymbolFactory.java.html#53"
  , "c1" : "Symbol"
  , "c2" : "createSymbol(GraphPoint;Hint;Hint)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/jcckit/plot/SymbolFactory.java.html#21"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/jcckit/plot/SymbolFactory.java.html#63"
  , "c1" : "GraphicalElement"
  , "c2" : "createLegendSymbol(GraphPoint;double)"
  , "c3" : "1"

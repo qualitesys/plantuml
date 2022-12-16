@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.renderer.RowTypeRenderer" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00007"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRenderer.java.html#7"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRenderer.java.html#15"
  , "c1" : "void"
  , "c2" : "startNewRun()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRenderer.java.html#10"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRenderer.java.html#25"
  , "c1" : "void"
  , "c2" : "getPixelTypes(int;int[])"
  , "c3" : "1"

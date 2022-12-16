@@ -2,12 +2,12 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.timingdiagram.TimingNote"
 class net.sourceforge.plantuml.timingdiagram.TimingNote {
-+TimingNote(TimeTick;Player;Display;Position;ISkinParam;Style) : TimingNote [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingNote.java.html#32]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingNote.java.html#42]]]
--createOpale() : Opale [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingNote.java.html#50]]]
-+getHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingNote.java.html#66]]]
--getMarginY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingNote.java.html#70]]]
-+getWhen() : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingNote.java.html#74]]]
-+getPosition() : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingNote.java.html#78]]]
++TimingNote(TimeTick;Player;Display;Position;ISkinParam;Style) : TimingNote [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingNote.java.html#65]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingNote.java.html#75]]]
+-createOpale() : Opale [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingNote.java.html#83]]]
++getHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingNote.java.html#99]]]
+-getMarginY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingNote.java.html#103]]]
++getWhen() : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingNote.java.html#107]]]
++getPosition() : Position [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimingNote.java.html#111]]]
 } 
 @enduml

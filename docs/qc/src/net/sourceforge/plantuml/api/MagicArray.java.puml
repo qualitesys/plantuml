@@ -2,12 +2,12 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.api.MagicArray"
 class net.sourceforge.plantuml.api.MagicArray {
-+MagicArray(int) : MagicArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MagicArray.java.html#13]]]
-+incKey(long) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MagicArray.java.html#18]]]
-+incKey(long;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MagicArray.java.html#22]]]
--setValue(long;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MagicArray.java.html#39]]]
-+getSum() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MagicArray.java.html#48]]]
-+getMaxSum() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MagicArray.java.html#52]]]
--getSumSlow() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MagicArray.java.html#56]]]
++MagicArray(int) : MagicArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MagicArray.java.html#47]]]
++incKey(long) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MagicArray.java.html#52]]]
++incKey(long;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MagicArray.java.html#56]]]
+-setValue(long;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MagicArray.java.html#73]]]
++getSum() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MagicArray.java.html#82]]]
++getMaxSum() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MagicArray.java.html#86]]]
+-getSumSlow() : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/MagicArray.java.html#90]]]
 } 
 @enduml

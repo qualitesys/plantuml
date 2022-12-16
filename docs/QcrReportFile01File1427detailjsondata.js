@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphml.CucaDiagramGraphmlMaker" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#55"
  , "c1" : "CucaDiagramGraphmlMaker"
  , "c2" : "CucaDiagramGraphmlMaker(CucaDiagram)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#59"
  , "c1" : "String"
  , "c2" : "getModel(UmlDiagram)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#63"
  , "c1" : "void"
  , "c2" : "createFiles(OutputStream)"
  , "c3" : "3"
@@ -100,31 +100,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method getModel arguments UmlDiagram  classDiagram"
+ , "c3" : "QC-JAV000006[00059] For method getModel arguments UmlDiagram  classDiagram"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.graphml.CucaDiagramGraphmlMaker.getModel@POLYN151000 the MagicNumber/String  'model1' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.graphml.CucaDiagramGraphmlMaker.getModel@POLYN151204 the MagicNumber/String  'model1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method createFiles arguments OutputStream  fos"
+ , "c3" : "QC-JAV000006[00063] For method createFiles arguments OutputStream  fos"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#59"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00025] Public method getModel is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00059] Public method getModel is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

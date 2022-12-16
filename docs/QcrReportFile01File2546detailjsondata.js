@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.AbstractShadowable" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.html#42"
  , "c1" : "double"
  , "c2" : "getDeltaShadow()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.html#46"
  , "c1" : "void"
  , "c2" : "setDeltaShadow(double)"
  , "c3" : "1"
@@ -77,10 +77,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method setDeltaShadow arguments double  deltaShadow"
+ , "c3" : "QC-JAV000006[00046] For method setDeltaShadow arguments double  deltaShadow"
 }} 
 ]
 , 

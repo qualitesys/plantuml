@@ -2,7 +2,7 @@
 !pragma layout smetana
 "BpmEvent" <|-- "net.sourceforge.plantuml.bpm.BpmEventGoto"
 class net.sourceforge.plantuml.bpm.BpmEventGoto {
-+BpmEventGoto(String) : BpmEventGoto [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmEventGoto.java.html#8]]]
-+getId() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmEventGoto.java.html#12]]]
++BpmEventGoto(String) : BpmEventGoto [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmEventGoto.java.html#41]]]
++getId() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmEventGoto.java.html#45]]]
 } 
 @enduml

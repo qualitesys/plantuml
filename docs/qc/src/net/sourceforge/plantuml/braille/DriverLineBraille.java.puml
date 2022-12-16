@@ -2,7 +2,7 @@
 !pragma layout smetana
 "UDriver<ULine,BrailleGrid>" <|-- "net.sourceforge.plantuml.braille.DriverLineBraille"
 class net.sourceforge.plantuml.braille.DriverLineBraille {
-+DriverLineBraille(ClipContainer) : DriverLineBraille [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/DriverLineBraille.java.html#17]]]
-+draw(ULine;double;double;ColorMapper;UParam;BrailleGrid) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/DriverLineBraille.java.html#21]]]
++DriverLineBraille(ClipContainer) : DriverLineBraille [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/DriverLineBraille.java.html#50]]]
++draw(ULine;double;double;ColorMapper;UParam;BrailleGrid) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/DriverLineBraille.java.html#54]]]
 } 
 @enduml

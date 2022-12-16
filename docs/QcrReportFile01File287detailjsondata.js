@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.graphic.ClippingShape" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00007"
- , "c5link" : "././qc/src/jcckit/graphic/ClippingShape.java.html#7"
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/jcckit/graphic/ClippingShape.java.html#32"
  , "c1" : "boolean"
  , "c2" : "isInside(GraphPoint)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/jcckit/graphic/ClippingShape.java.html#10"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/jcckit/graphic/ClippingShape.java.html#39"
  , "c1" : "ClippingRectangle"
  , "c2" : "getBoundingBox()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/jcckit/graphic/ClippingShape.java.html#13"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/jcckit/graphic/ClippingShape.java.html#46"
  , "c1" : "BasicGraphicalElement"
  , "c2" : "getGraphicalElement()"
  , "c3" : "1"

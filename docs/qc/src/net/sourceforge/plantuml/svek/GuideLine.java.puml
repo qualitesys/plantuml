@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.svek.GuideLine"
 class net.sourceforge.plantuml.svek.GuideLine {
-+getArrowDirection() : Direction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GuideLine.java.html#8]]]
-+getArrowDirection2() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GuideLine.java.html#10]]]
++getArrowDirection() : Direction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GuideLine.java.html#42]]]
++getArrowDirection2() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/GuideLine.java.html#44]]]
 } 
 @enduml

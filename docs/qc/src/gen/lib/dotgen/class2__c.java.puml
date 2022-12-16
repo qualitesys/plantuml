@@ -2,15 +2,15 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.dotgen.class2__c"
 class gen.lib.dotgen.class2__c {
-+label_vnode(ST_Agraph_s;ST_Agedge_s) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#79]]]
-+incr_width(ST_Agraph_s;ST_Agnode_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#110]]]
-+plain_vnode(ST_Agraph_s;ST_Agedge_s) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#128]]]
-+leader_of(ST_Agraph_s;ST_Agnode_s) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#146]]]
-+make_chain(ST_Agraph_s;ST_Agnode_s;ST_Agnode_s;ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#173]]]
-+interclrep(ST_Agraph_s;ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#209]]]
-+is_cluster_edge(ST_Agedge_s) : boolean [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#247]]]
-+merge_chain(ST_Agraph_s;ST_Agedge_s;ST_Agedge_s;boolean) : void [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#264]]]
-+mergeable(ST_Agedge_s;ST_Agedge_s) : boolean [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#294]]]
-+class2(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#313]]]
++label_vnode(ST_Agraph_s;ST_Agedge_s) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#123]]]
++incr_width(ST_Agraph_s;ST_Agnode_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#154]]]
++plain_vnode(ST_Agraph_s;ST_Agedge_s) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#172]]]
++leader_of(ST_Agraph_s;ST_Agnode_s) : ST_Agnode_s [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#190]]]
++make_chain(ST_Agraph_s;ST_Agnode_s;ST_Agnode_s;ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#217]]]
++interclrep(ST_Agraph_s;ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#253]]]
++is_cluster_edge(ST_Agedge_s) : boolean [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#291]]]
++merge_chain(ST_Agraph_s;ST_Agedge_s;ST_Agedge_s;boolean) : void [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#308]]]
++mergeable(ST_Agedge_s;ST_Agedge_s) : boolean [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#338]]]
++class2(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/class2__c.java.html#357]]]
 } 
 @enduml

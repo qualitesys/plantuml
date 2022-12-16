@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.asciiart.AbstractComponentText" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/AbstractComponentText.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/AbstractComponentText.java.html#46"
  , "c1" : "XDimension2D"
  , "c2" : "getPreferredDimension(StringBounder)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/AbstractComponentText.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/AbstractComponentText.java.html#52"
  , "c1" : "Style[]"
  , "c2" : "getUsedStyles()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/AbstractComponentText.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/AbstractComponentText.java.html#56"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "getStyleSignature()"
  , "c3" : "1"
@@ -86,10 +86,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/AbstractComponentText.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/AbstractComponentText.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method getPreferredDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00046] For method getPreferredDimension arguments StringBounder  stringBounder"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.PlotCanvas" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/jcckit/plot/PlotCanvas.java.html#20"
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/jcckit/plot/PlotCanvas.java.html#87"
  , "c1" : "PlotCanvas"
  , "c2" : "PlotCanvas(ConfigParameters)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/jcckit/plot/PlotCanvas.java.html#30"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/jcckit/plot/PlotCanvas.java.html#97"
  , "c1" : "ClippingRectangle"
  , "c2" : "getPaper()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/jcckit/plot/PlotCanvas.java.html#35"
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/jcckit/plot/PlotCanvas.java.html#102"
  , "c1" : "Anchor"
  , "c2" : "getHorizontalAnchor()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/jcckit/plot/PlotCanvas.java.html#40"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/jcckit/plot/PlotCanvas.java.html#107"
  , "c1" : "Anchor"
  , "c2" : "getVerticalAnchor()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/jcckit/plot/PlotCanvas.java.html#45"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/jcckit/plot/PlotCanvas.java.html#112"
  , "c1" : "Plot"
  , "c2" : "getPlot()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/jcckit/plot/PlotCanvas.java.html#50"
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/jcckit/plot/PlotCanvas.java.html#125"
  , "c1" : "void"
  , "c2" : "connect(DataPlot)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/jcckit/plot/PlotCanvas.java.html#55"
+ , "c5" : "00133"
+ , "c5link" : "././qc/src/jcckit/plot/PlotCanvas.java.html#133"
  , "c1" : "void"
  , "c2" : "plotChanged(PlotEvent)"
  , "c3" : "1"
@@ -150,94 +150,94 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#20"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#87"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00087] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#21"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN166373 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN166841 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#21"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN166373 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN166841 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#21"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN166373 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN166841 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#21"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN166373 the MagicNumber/String  0.6 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN166841 the MagicNumber/String  0.6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#22"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN166373 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN166841 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#22"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN166373 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN166841 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#22"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN166373 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN166841 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#22"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN166373 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN166841 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#50"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#125"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method connect arguments DataPlot  dataPlot"
+ , "c3" : "QC-JAV000006[00125] For method connect arguments DataPlot  dataPlot"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#55"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#133"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method plotChanged arguments PlotEvent  event"
+ , "c3" : "QC-JAV000006[00133] For method plotChanged arguments PlotEvent  event"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#55"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#133"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00055] Void method plotChanged is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00133] Void method plotChanged is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#55"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#133"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00055] Void method plotChanged is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00133] Void method plotChanged is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

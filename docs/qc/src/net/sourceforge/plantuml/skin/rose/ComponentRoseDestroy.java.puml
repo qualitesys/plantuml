@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractComponent" <|-- "net.sourceforge.plantuml.skin.rose.ComponentRoseDestroy"
 class net.sourceforge.plantuml.skin.rose.ComponentRoseDestroy {
-+ComponentRoseDestroy(Style;HColor;ISkinSimple) : ComponentRoseDestroy [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDestroy.java.html#20]]]
-drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDestroy.java.html#31]]]
-+getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDestroy.java.html#39]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDestroy.java.html#44]]]
++ComponentRoseDestroy(Style;HColor;ISkinSimple) : ComponentRoseDestroy [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDestroy.java.html#54]]]
+drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDestroy.java.html#65]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDestroy.java.html#73]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDestroy.java.html#78]]]
 } 
 @enduml

@@ -2,8 +2,8 @@
 !pragma layout smetana
 "UDrawable" <|-- "net.sourceforge.plantuml.graphic.TextBlock"
 class net.sourceforge.plantuml.graphic.TextBlock {
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlock.java.html#11]]]
-+getMinMax(StringBounder) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlock.java.html#13]]]
-+getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlock.java.html#15]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlock.java.html#45]]]
++getMinMax(StringBounder) : MinMax [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlock.java.html#47]]]
++getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlock.java.html#49]]]
 } 
 @enduml

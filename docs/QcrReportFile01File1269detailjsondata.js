@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.emoji.PSystemListEmoji" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#59"
  , "c1" : "UDrawable"
  , "c2" : "getRootDrawable(FileFormatOption)"
  , "c3" : "7"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#76"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#110"
  , "c1" : "PSystemListEmoji"
  , "c2" : "PSystemListEmoji(UmlSource;String)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#81"
+ , "c5" : "00115"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#115"
  , "c1" : "DiagramDescription"
  , "c2" : "getDescription()"
  , "c3" : "1"
@@ -93,157 +93,157 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method getRootDrawable arguments FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00059] For method getRootDrawable arguments FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  '&amp;lt;b&amp;gt;&amp;lt;size:16&amp;gt;Emoji available on Unicode Block ' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  '&amp;lt;b&amp;gt;&amp;lt;size:16&amp;gt;Emoji available on Unicode Block ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  '(Blocks available: 26, 27, 1F3, 1F4, 1F5, 1F6, 1F9)' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  '(Blocks available: 26, 27, 1F3, 1F4, 1F5, 1F6, 1F9)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#50"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  '&amp;lt;size:13&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  '&amp;lt;size:13&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  '\'\'&amp;lt;U+003C&amp;gt;:' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  '\'\'&amp;lt;U+003C&amp;gt;:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  ':&amp;lt;U+003E&amp;gt; \'\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  ':&amp;lt;U+003E&amp;gt; \'\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#52"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  '&amp;lt;:' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  '&amp;lt;:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#52"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  ':&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  ':&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#53"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#54"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  '&amp;lt;#0:' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  '&amp;lt;#0:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#54"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  ':&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  ':&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#55"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#56"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#57"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  '\'\'&amp;lt;U+003C&amp;gt;:' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  '\'\'&amp;lt;U+003C&amp;gt;:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#57"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  ':&amp;lt;U+003E&amp;gt; \'\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  ':&amp;lt;U+003E&amp;gt; \'\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#66"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  500 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  500 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#67"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#68"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159210 the MagicNumber/String  1000 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getRootDrawable@POLYN159414 the MagicNumber/String  1000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#82"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/PSystemListEmoji.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getDescription@POLYN162956 the MagicNumber/String  '(List Emoji)' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.emoji.PSystemListEmoji.getDescription@POLYN163160 the MagicNumber/String  '(List Emoji)' should be converted to const"
 }} 
 ]
 , 

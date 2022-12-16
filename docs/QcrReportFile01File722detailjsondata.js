@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.api.NumberAnalyzedDated" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#19"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#46"
  , "c1" : "NumberAnalyzedDated"
  , "c2" : "NumberAnalyzedDated(String;long;long;long;long;long;long;long;long;String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#28"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#55"
  , "c1" : "void"
  , "c2" : "reset()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#33"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#60"
  , "c1" : "NumberAnalyzedDated"
  , "c2" : "NumberAnalyzedDated()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#38"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#65"
  , "c1" : "NumberAnalyzedDated"
  , "c2" : "NumberAnalyzedDated(String)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#43"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#70"
  , "c1" : "void"
  , "c2" : "resetCreatedModifiedComment()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#51"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#78"
  , "c1" : "void"
  , "c2" : "addValue(long)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#57"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#84"
  , "c1" : "void"
  , "c2" : "add(NumberAnalyzed)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#63"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#90"
  , "c1" : "String"
  , "c2" : "getSavedSupplementatyData()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#67"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#94"
  , "c1" : "NumberAnalyzedDated"
  , "c2" : "load(String;Preferences)"
  , "c3" : "2"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#87"
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#114"
  , "c1" : "long"
  , "c2" : "getCreationTime()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#91"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#118"
  , "c1" : "long"
  , "c2" : "getModificationTime()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#95"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#122"
  , "c1" : "String"
  , "c2" : "getComment()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00099"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#99"
+ , "c5" : "00126"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#126"
  , "c1" : "void"
  , "c2" : "setComment(String)"
  , "c3" : "1"
@@ -197,192 +197,192 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#28"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#55"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00028] Lock statement on synchronized method reset"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.resetCreatedModifiedComment@POLYN160446 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#51"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method addValue arguments long  v"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#57"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00057] For method add arguments NumberAnalyzed  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.getSavedSupplementatyData@POLYN161316 the MagicNumber/String  ';' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.getSavedSupplementatyData@POLYN161316 the MagicNumber/String  ';' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#67"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00067] For method load arguments String  name|Preferences  prefs"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#67"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00067] The argument prefs is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161601 the MagicNumber/String  '.saved' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161601 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161601 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161601 the MagicNumber/String  'Cannot load ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161601 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000019[00055] Lock statement on synchronized method reset"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161601 the MagicNumber/String  ';' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161601 the MagicNumber/String  36 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161601 the MagicNumber/String  36 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161601 the MagicNumber/String  36 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161601 the MagicNumber/String  36 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161601 the MagicNumber/String  36 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.resetCreatedModifiedComment@POLYN160608 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161601 the MagicNumber/String  36 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00078] For method addValue arguments long  v"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161601 the MagicNumber/String  36 should be converted to const"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#84"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00084] For method add arguments NumberAnalyzed  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#79"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161601 the MagicNumber/String  36 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.getSavedSupplementatyData@POLYN161478 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#82"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161601 the MagicNumber/String  'Error reading ' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.getSavedSupplementatyData@POLYN161478 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161601 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#94"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00094] For method load arguments String  name|Preferences  prefs"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#94"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00094] The argument prefs is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#95"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00095] Lock statement on synchronized method getComment"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161763 the MagicNumber/String  '.saved' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#99"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00099] Lock statement on synchronized method setComment"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161763 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#99"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#96"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161763 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161763 the MagicNumber/String  'Cannot load ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161763 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#101"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161763 the MagicNumber/String  ';' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#102"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161763 the MagicNumber/String  36 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161763 the MagicNumber/String  36 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161763 the MagicNumber/String  36 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#104"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161763 the MagicNumber/String  36 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#104"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161763 the MagicNumber/String  36 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161763 the MagicNumber/String  36 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161763 the MagicNumber/String  36 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161763 the MagicNumber/String  36 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#109"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161763 the MagicNumber/String  'Error reading ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#110"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.api.NumberAnalyzedDated.load@POLYN161763 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#122"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00122] Lock statement on synchronized method getComment"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#126"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00126] Lock statement on synchronized method setComment"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/api/NumberAnalyzedDated.java.html#126"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00099] For method setComment arguments String  comment"
+ , "c3" : "QC-JAV000006[00126] For method setComment arguments String  comment"
 }} 
 ]
 , 

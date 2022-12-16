@@ -2,8 +2,8 @@
 !pragma layout smetana
 "ArrayList<GridPattern>" <|-- "org.stathissideris.ascii2image.text.GridPatternGroup"
 class org.stathissideris.ascii2image.text.GridPatternGroup {
-+areAllMatchedBy(TextGrid) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#9]]]
-+isAnyMatchedBy(TextGrid) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#18]]]
-+add(GridPattern...) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#28]]]
++areAllMatchedBy(TextGrid) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#31]]]
++isAnyMatchedBy(TextGrid) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#40]]]
++add(GridPattern...) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/GridPatternGroup.java.html#50]]]
 } 
 @enduml

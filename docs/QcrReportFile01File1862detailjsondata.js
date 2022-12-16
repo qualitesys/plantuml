@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.security.SImageIO" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#53"
  , "c1" : "ImageOutputStream"
  , "c2" : "createImageOutputStream(OutputStream)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#57"
  , "c1" : "void"
  , "c2" : "write(RenderedImage;String;OutputStream)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#61"
  , "c1" : "void"
  , "c2" : "write(RenderedImage;String;SFile)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#65"
  , "c1" : "BufferedImage"
  , "c2" : "read(java.io.File)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#69"
  , "c1" : "BufferedImage"
  , "c2" : "read(SFile)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#39"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#73"
  , "c1" : "BufferedImage"
  , "c2" : "read(InputStream)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#43"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#77"
  , "c1" : "BufferedImage"
  , "c2" : "read(byte[])"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#47"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#81"
  , "c1" : "ImageInputStream"
  , "c2" : "createImageInputStream(SFile)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#51"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#85"
  , "c1" : "ImageInputStream"
  , "c2" : "createImageInputStream(Object)"
  , "c3" : "2"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#58"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#92"
  , "c1" : "ImageInputStream"
  , "c2" : "createImageInputStream(InputStream)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#62"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#96"
  , "c1" : "Iterator<ImageReader>"
  , "c2" : "getImageReaders(ImageInputStream)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#66"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#100"
  , "c1" : "Iterator<ImageWriter>"
  , "c2" : "getImageWritersBySuffix(String)"
  , "c3" : "1"
@@ -174,108 +174,108 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method createImageOutputStream arguments OutputStream  os"
+ , "c3" : "QC-JAV000006[00053] For method createImageOutputStream arguments OutputStream  os"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method write arguments RenderedImage  image|String  format|OutputStream  os"
+ , "c3" : "QC-JAV000006[00057] For method write arguments RenderedImage  image|String  format|OutputStream  os"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method write arguments RenderedImage  image|String  format|SFile  file"
+ , "c3" : "QC-JAV000006[00061] For method write arguments RenderedImage  image|String  format|SFile  file"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#61"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00027] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00061] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method read arguments java.io.File  file"
+ , "c3" : "QC-JAV000006[00065] For method read arguments java.io.File  file"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method read arguments SFile  file"
+ , "c3" : "QC-JAV000006[00069] For method read arguments SFile  file"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#69"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00035] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00069] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#73"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method read arguments InputStream  is"
+ , "c3" : "QC-JAV000006[00073] For method read arguments InputStream  is"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method read arguments byte[]  bytes"
+ , "c3" : "QC-JAV000006[00077] For method read arguments byte[]  bytes"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#47"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#81"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00047] For method createImageInputStream arguments SFile  file"
+ , "c3" : "QC-JAV000006[00081] For method createImageInputStream arguments SFile  file"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#47"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#81"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00047] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00081] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#85"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method createImageInputStream arguments Object  obj"
+ , "c3" : "QC-JAV000006[00085] For method createImageInputStream arguments Object  obj"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#58"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#92"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method createImageInputStream arguments InputStream  is"
+ , "c3" : "QC-JAV000006[00092] For method createImageInputStream arguments InputStream  is"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#62"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#96"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method getImageReaders arguments ImageInputStream  iis"
+ , "c3" : "QC-JAV000006[00096] For method getImageReaders arguments ImageInputStream  iis"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#66"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#100"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method getImageWritersBySuffix arguments String  string"
+ , "c3" : "QC-JAV000006[00100] For method getImageWritersBySuffix arguments String  string"
 }} 
 ]
 , 

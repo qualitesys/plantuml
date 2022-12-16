@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.svek.image.Footprint" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#69"
  , "c1" : "Footprint"
  , "c2" : "Footprint(StringBounder)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00135"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#135"
+ , "c5" : "00169"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#169"
  , "c1" : "ContainingEllipse"
  , "c2" : "getEllipse(UDrawable;double)"
  , "c3" : "2"
@@ -98,157 +98,157 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#83"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00049] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00083] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#83"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00049] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00083] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#94"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method apply arguments UChange  change"
+ , "c3" : "QC-JAV000006[00094] For method apply arguments UChange  change"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#64"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method draw arguments UShape  shape"
+ , "c3" : "QC-JAV000006[00098] For method draw arguments UShape  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#64"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#98"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00064] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00098] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#93"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#127"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00093] For method addPoint arguments double  x|double  y"
+ , "c3" : "QC-JAV000006[00127] For method addPoint arguments double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#97"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#131"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method drawText arguments double  x|double  y|UText  text"
+ , "c3" : "QC-JAV000006[00131] For method drawText arguments double  x|double  y|UText  text"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#97"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#131"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00097] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00131] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#100"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.svek.image.Footprint.MyUGraphic.drawText@POLYN175329 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.svek.image.Footprint.MyUGraphic.drawText@POLYN175533 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#107"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#141"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00107] For method drawImage arguments double  x|double  y|UImage  image"
+ , "c3" : "QC-JAV000006[00141] For method drawImage arguments double  x|double  y|UImage  image"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#107"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#141"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00107] The argument image is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00141] The argument image is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#114"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#148"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00114] For method drawPath arguments double  x|double  y|UPath  path"
+ , "c3" : "QC-JAV000006[00148] For method drawPath arguments double  x|double  y|UPath  path"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#114"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#148"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00114] The argument path is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00148] The argument path is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#119"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#153"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00119] For method drawRectangle arguments double  x|double  y|URectangle  rect"
+ , "c3" : "QC-JAV000006[00153] For method drawRectangle arguments double  x|double  y|URectangle  rect"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#119"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#153"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00119] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00153] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#124"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#158"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00124] For method drawEllipse arguments double  x|double  y|UEllipse  rect"
+ , "c3" : "QC-JAV000006[00158] For method drawEllipse arguments double  x|double  y|UEllipse  rect"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#124"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#158"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00124] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00158] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#129"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#163"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00129] For method drawEmpty arguments double  x|double  y|UEmpty  rect"
+ , "c3" : "QC-JAV000006[00163] For method drawEmpty arguments double  x|double  y|UEmpty  rect"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#129"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#163"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00129] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00163] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#135"
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#169"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00135] For method getEllipse arguments UDrawable  drawable|double  alpha"
+ , "c3" : "QC-JAV000006[00169] For method getEllipse arguments UDrawable  drawable|double  alpha"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#135"
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#169"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00135] The argument drawable is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00169] The argument drawable is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#135"
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#169"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00135] Public method getEllipse is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00169] Public method getEllipse is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

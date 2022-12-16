@@ -2,8 +2,8 @@
 !pragma layout smetana
 "GraphicAttributes" <|-- "jcckit.graphic.LineAttributes"
 class jcckit.graphic.LineAttributes {
-+getLineColor() : Color [[[./../../../.././qc/src/jcckit/graphic/LineAttributes.java.html#9]]]
-+getLineThickness() : double [[[./../../../.././qc/src/jcckit/graphic/LineAttributes.java.html#12]]]
-+getLinePattern() : double[] [[[./../../../.././qc/src/jcckit/graphic/LineAttributes.java.html#15]]]
++getLineColor() : Color [[[./../../../.././qc/src/jcckit/graphic/LineAttributes.java.html#33]]]
++getLineThickness() : double [[[./../../../.././qc/src/jcckit/graphic/LineAttributes.java.html#41]]]
++getLinePattern() : double[] [[[./../../../.././qc/src/jcckit/graphic/LineAttributes.java.html#50]]]
 } 
 @enduml

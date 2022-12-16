@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.ShapeAttributesHint" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/jcckit/plot/ShapeAttributesHint.java.html#20"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/jcckit/plot/ShapeAttributesHint.java.html#44"
  , "c1" : "float[]"
  , "c2" : "extractHSB(Color)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/jcckit/plot/ShapeAttributesHint.java.html#26"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/jcckit/plot/ShapeAttributesHint.java.html#50"
  , "c1" : "Color"
  , "c2" : "createColor(float[])"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/jcckit/plot/ShapeAttributesHint.java.html#31"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/jcckit/plot/ShapeAttributesHint.java.html#55"
  , "c1" : "float[]"
  , "c2" : "incrementColor(float[];double[])"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/jcckit/plot/ShapeAttributesHint.java.html#52"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/jcckit/plot/ShapeAttributesHint.java.html#100"
  , "c1" : "ShapeAttributesHint"
  , "c2" : "ShapeAttributesHint(ConfigParameters)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/jcckit/plot/ShapeAttributesHint.java.html#69"
+ , "c5" : "00120"
+ , "c5link" : "././qc/src/jcckit/plot/ShapeAttributesHint.java.html#120"
  , "c1" : "AttributesHint"
  , "c2" : "getNextHint()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/jcckit/plot/ShapeAttributesHint.java.html#84"
+ , "c5" : "00135"
+ , "c5link" : "././qc/src/jcckit/plot/ShapeAttributesHint.java.html#135"
  , "c1" : "GraphicAttributes"
  , "c2" : "getAttributes()"
  , "c3" : "1"
@@ -141,164 +141,164 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#20"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#44"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method extractHSB arguments Color  color"
+ , "c3" : "QC-JAV000006[00044] For method extractHSB arguments Color  color"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#21"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method jcckit.plot.ShapeAttributesHint.extractHSB@POLYN164944 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method jcckit.plot.ShapeAttributesHint.extractHSB@POLYN165250 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#21"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method jcckit.plot.ShapeAttributesHint.extractHSB@POLYN164944 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method jcckit.plot.ShapeAttributesHint.extractHSB@POLYN165250 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#23"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method jcckit.plot.ShapeAttributesHint.extractHSB@POLYN164944 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method jcckit.plot.ShapeAttributesHint.extractHSB@POLYN165250 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#26"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method createColor arguments float[]  colorHSB"
+ , "c3" : "QC-JAV000006[00050] For method createColor arguments float[]  colorHSB"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#27"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN165294 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN165600 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#27"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN165294 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN165294 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN165294 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN165294 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#31"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method incrementColor arguments float[]  colorHSB|double[]  increments"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method jcckit.plot.ShapeAttributesHint.incrementColor@POLYN165665 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method jcckit.plot.ShapeAttributesHint.incrementColor@POLYN165665 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method jcckit.plot.ShapeAttributesHint.incrementColor@POLYN165665 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method jcckit.plot.ShapeAttributesHint.incrementColor@POLYN165665 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN165600 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#52"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method jcckit.plot.ShapeAttributesHint.ShapeAttributesHint@POLYN167890 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN165600 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#63"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method jcckit.plot.ShapeAttributesHint.ShapeAttributesHint@POLYN167890 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN165600 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#65"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method jcckit.plot.ShapeAttributesHint.ShapeAttributesHint@POLYN167890 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN165600 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#69"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00069] For method getNextHint list of called methods Object monObjet|float[] incrementColorN169246|float[] incrementColorN169361"
+ , "c3" : "QC-JAV000006[00055] For method incrementColor arguments float[]  colorHSB|double[]  increments"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#73"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE390[00073] Detection of error condition without action (see http://cwe.mitre.org/data/definitions/390.html)"
+ , "c3" : "QC-JAV000010[00057] In method jcckit.plot.ShapeAttributesHint.incrementColor@POLYN165971 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#70"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method jcckit.plot.ShapeAttributesHint.getNextHint@POLYN168954 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method jcckit.plot.ShapeAttributesHint.incrementColor@POLYN165971 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#79"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method jcckit.plot.ShapeAttributesHint.getNextHint@POLYN168954 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method jcckit.plot.ShapeAttributesHint.incrementColor@POLYN165971 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#60"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00060] In method jcckit.plot.ShapeAttributesHint.incrementColor@POLYN165971 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#100"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00100] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#109"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method jcckit.plot.ShapeAttributesHint.ShapeAttributesHint@POLYN168196 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#111"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00111] In method jcckit.plot.ShapeAttributesHint.ShapeAttributesHint@POLYN168196 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#113"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00113] In method jcckit.plot.ShapeAttributesHint.ShapeAttributesHint@POLYN168196 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#120"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00120] For method getNextHint list of called methods Object monObjet|float[] incrementColorN169552|float[] incrementColorN169667"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#124"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE390[00124] Detection of error condition without action (see http://cwe.mitre.org/data/definitions/390.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#121"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00121] In method jcckit.plot.ShapeAttributesHint.getNextHint@POLYN169260 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method jcckit.plot.ShapeAttributesHint.getNextHint@POLYN169260 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

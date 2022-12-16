@@ -2,7 +2,7 @@
 !pragma layout smetana
 "UDriver<UPolygon,SvgGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.svg.DriverPolygonSvg"
 class net.sourceforge.plantuml.ugraphic.svg.DriverPolygonSvg {
-+DriverPolygonSvg(ClipContainer) : DriverPolygonSvg [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPolygonSvg.java.html#16]]]
-+draw(UPolygon;double;double;ColorMapper;UParam;SvgGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPolygonSvg.java.html#20]]]
++DriverPolygonSvg(ClipContainer) : DriverPolygonSvg [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPolygonSvg.java.html#49]]]
++draw(UPolygon;double;double;ColorMapper;UParam;SvgGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPolygonSvg.java.html#53]]]
 } 
 @enduml

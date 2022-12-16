@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.Shadowable" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/Shadowable.java.html#6"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/Shadowable.java.html#39"
  , "c1" : "void"
  , "c2" : "setDeltaShadow(double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/Shadowable.java.html#8"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/Shadowable.java.html#41"
  , "c1" : "double"
  , "c2" : "getDeltaShadow()"
  , "c3" : "1"

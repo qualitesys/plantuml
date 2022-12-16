@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.mindmap.StripeFrontier" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#46"
  , "c1" : "StripeFrontier"
  , "c2" : "StripeFrontier()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#50"
  , "c1" : "boolean"
  , "c2" : "isEmpty()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#55"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#59"
  , "c1" : "boolean"
  , "c2" : "contains(double;double)"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#67"
  , "c1" : "double"
  , "c2" : "getContact(double;double)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#43"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#77"
  , "c1" : "void"
  , "c2" : "addSegment(double;double;double)"
  , "c3" : "5"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#105"
  , "c1" : "void"
  , "c2" : "addSingleInternal(double;double;double;Stripe)"
  , "c3" : "4"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#87"
+ , "c5" : "00121"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#121"
  , "c1" : "boolean"
  , "c2" : "checkConsistent()"
  , "c3" : "5"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00104"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#104"
+ , "c5" : "00138"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#138"
  , "c1" : "SortedSet<Stripe>"
  , "c2" : "collisionning(double;double)"
  , "c3" : "4"
@@ -161,136 +161,136 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.mindmap.StripeFrontier.isEmpty@POLYN162028 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.mindmap.StripeFrontier.isEmpty@POLYN162232 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method contains arguments double  x|double  y"
+ , "c3" : "QC-JAV000006[00059] For method contains arguments double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method getContact arguments double  x1|double  x2"
+ , "c3" : "QC-JAV000006[00067] For method getContact arguments double  x1|double  x2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method addSegment arguments double  x1|double  x2|double  value"
+ , "c3" : "QC-JAV000006[00077] For method addSegment arguments double  x1|double  x2|double  value"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#55"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00055] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00089] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.mindmap.StripeFrontier.addSegment@POLYN163162 the MagicNumber/String  'x1=' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.mindmap.StripeFrontier.addSegment@POLYN163366 the MagicNumber/String  'x1=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.mindmap.StripeFrontier.addSegment@POLYN163162 the MagicNumber/String  'x2=' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.mindmap.StripeFrontier.addSegment@POLYN163366 the MagicNumber/String  'x2=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#50"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.mindmap.StripeFrontier.addSegment@POLYN163162 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.mindmap.StripeFrontier.addSegment@POLYN163366 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#71"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#105"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method addSingleInternal arguments double  x1|double  x2|double  value|Stripe  touch"
+ , "c3" : "QC-JAV000006[00105] For method addSingleInternal arguments double  x1|double  x2|double  value|Stripe  touch"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#71"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#105"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00071] The argument touch is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00105] The argument touch is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#88"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN165900 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN166104 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#90"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN165900 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN166104 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#91"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN165900 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN166104 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#93"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN165900 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN166104 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#94"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN165900 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN166104 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#99"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN165900 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN166104 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#101"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN165900 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN166104 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#104"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#138"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00104] For method collisionning arguments double  x1|double  x2"
+ , "c3" : "QC-JAV000006[00138] For method collisionning arguments double  x1|double  x2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#107"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00107] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00141] Avoid declaring class instance within loop, performance impact"
 }} 
 ]
 , 

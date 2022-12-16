@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.SvgCharSizeHack" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/SvgCharSizeHack.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/SvgCharSizeHack.java.html#46"
  , "c1" : "String"
  , "c2" : "transformStringForSizeHack(String)"
  , "c3" : "1"

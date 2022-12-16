@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.preproc.ImportedFiles" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#22"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#57"
  , "c1" : "ImportedFiles"
  , "c2" : "ImportedFiles(List<SFile>;AParentFolder)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#27"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#62"
  , "c1" : "ImportedFiles"
  , "c2" : "withCurrentDir(AParentFolder)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#34"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#69"
  , "c1" : "ImportedFiles"
  , "c2" : "createImportedFiles(AParentFolder)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#39"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#74"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#43"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#78"
  , "c1" : "AFile"
  , "c2" : "getAFile(String)"
  , "c3" : "9"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#73"
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#108"
  , "c1" : "List<SFile>"
  , "c2" : "getPath()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00080"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#80"
+ , "c5" : "00115"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#115"
  , "c1" : "List<SFile>"
  , "c2" : "includePath()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#84"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#119"
  , "c1" : "boolean"
  , "c2" : "isAbsolute(String)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00089"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#89"
+ , "c5" : "00124"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#124"
  , "c1" : "void"
  , "c2" : "add(SFile)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#93"
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#128"
  , "c1" : "AParentFolder"
  , "c2" : "getCurrentDir()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#97"
+ , "c5" : "00132"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#132"
  , "c1" : "FileWithSuffix"
  , "c2" : "getFile(String;String)"
  , "c3" : "4"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00114"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#114"
+ , "c5" : "00149"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#149"
  , "c1" : "boolean"
  , "c2" : "isAllowed(AFile)"
  , "c3" : "4"
@@ -195,199 +195,199 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#27"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method withCurrentDir arguments AParentFolder  newCurrentDir"
+ , "c3" : "QC-JAV000006[00062] For method withCurrentDir arguments AParentFolder  newCurrentDir"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#28"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.preproc.ImportedFiles.withCurrentDir@POLYN162048 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.preproc.ImportedFiles.withCurrentDir@POLYN162258 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#34"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method createImportedFiles arguments AParentFolder  newCurrentDir"
+ , "c3" : "QC-JAV000006[00069] For method createImportedFiles arguments AParentFolder  newCurrentDir"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#40"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.preproc.ImportedFiles.toString@POLYN162548 the MagicNumber/String  'ImportedFiles=' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.preproc.ImportedFiles.toString@POLYN162758 the MagicNumber/String  'ImportedFiles=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#40"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.preproc.ImportedFiles.toString@POLYN162548 the MagicNumber/String  ' currentDir=' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.preproc.ImportedFiles.toString@POLYN162758 the MagicNumber/String  ' currentDir=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#43"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method getAFile arguments String  nameOrPath"
+ , "c3" : "QC-JAV000006[00078] For method getAFile arguments String  nameOrPath"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#59"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00059] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00094] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#64"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00064] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00099] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#47"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.preproc.ImportedFiles.getAFile@POLYN162704 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.preproc.ImportedFiles.getAFile@POLYN162914 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#53"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.preproc.ImportedFiles.getAFile@POLYN162704 the MagicNumber/String  'ImportedFiles::getAFile filecurrent = ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.preproc.ImportedFiles.getAFile@POLYN162704 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#84"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00084] For method isAbsolute arguments String  nameOrPath"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.preproc.ImportedFiles.getAFile@POLYN162914 the MagicNumber/String  'ImportedFiles::getAFile filecurrent = ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#89"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00089] For method add arguments SFile  file"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.preproc.ImportedFiles.getAFile@POLYN162914 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#97"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#119"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method getFile arguments String  filename|String  suffix"
+ , "c3" : "QC-JAV000006[00119] For method isAbsolute arguments String  nameOrPath"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#97"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#124"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00124] For method add arguments SFile  file"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#132"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00132] For method getFile arguments String  filename|String  suffix"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#132"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00097] The argument filename is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00132] The argument filename is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#98"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165251 the MagicNumber/String  '~' should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165461 the MagicNumber/String  '~' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#101"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165251 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165461 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#103"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165251 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165461 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#105"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165251 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165461 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#106"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165251 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165461 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#108"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165251 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165461 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#114"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#149"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00114] For method isAllowed arguments AFile  file"
+ , "c3" : "QC-JAV000006[00149] For method isAllowed arguments AFile  file"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#116"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166339 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166549 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#118"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166339 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166549 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#123"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166339 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166549 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#126"
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166339 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166549 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#34"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#69"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00034] Public method createImportedFiles is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00069] Public method createImportedFiles is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#97"
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#132"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00097] Public method getFile is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00132] Public method getFile is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

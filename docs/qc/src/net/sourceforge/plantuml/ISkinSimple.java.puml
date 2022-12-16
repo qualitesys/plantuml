@@ -2,14 +2,14 @@
 !pragma layout smetana
 "SpriteContainer" <|-- "net.sourceforge.plantuml.ISkinSimple"
 class net.sourceforge.plantuml.ISkinSimple {
-+getValue(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#10]]]
-+values() : Map<String,String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#12]]]
-+getPadding() : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#14]]]
-+getMonospacedFamily() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#16]]]
-+getTabSize() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#18]]]
-+getIHtmlColorSet() : HColorSet [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#20]]]
-+getDpi() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#22]]]
-+wrapWidth() : LineBreakStrategy [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#24]]]
-+copyAllFrom(Map<String,String>) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#26]]]
++getValue(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#44]]]
++values() : Map<String,String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#46]]]
++getPadding() : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#48]]]
++getMonospacedFamily() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#50]]]
++getTabSize() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#52]]]
++getIHtmlColorSet() : HColorSet [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#54]]]
++getDpi() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#56]]]
++wrapWidth() : LineBreakStrategy [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#58]]]
++copyAllFrom(Map<String,String>) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/ISkinSimple.java.html#60]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.google.zxing.BarcodeFormat" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#61"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#79"
  , "c1" : "BarcodeFormat"
  , "c2" : "BarcodeFormat(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#66"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#84"
  , "c1" : "String"
  , "c2" : "getName()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#70"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#88"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#74"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#92"
  , "c1" : "BarcodeFormat"
  , "c2" : "valueOf(String)"
  , "c3" : "3"
@@ -102,31 +102,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#74"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#92"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00074] For method valueOf arguments String  name"
+ , "c3" : "QC-JAV000006[00092] For method valueOf arguments String  name"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#75"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.google.zxing.BarcodeFormat.valueOf@POLYN149448 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method ext.plantuml.com.google.zxing.BarcodeFormat.valueOf@POLYN149556 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#75"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.google.zxing.BarcodeFormat.valueOf@POLYN149448 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method ext.plantuml.com.google.zxing.BarcodeFormat.valueOf@POLYN149556 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#79"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method ext.plantuml.com.google.zxing.BarcodeFormat.valueOf@POLYN149448 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method ext.plantuml.com.google.zxing.BarcodeFormat.valueOf@POLYN149556 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

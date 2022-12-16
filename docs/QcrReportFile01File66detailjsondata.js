@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.google.zxing.common.BitSource" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#13"
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#38"
  , "c1" : "BitSource"
  , "c2" : "BitSource(byte[])"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#18"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#48"
  , "c1" : "int"
  , "c2" : "readBits(int)"
  , "c3" : "7"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#61"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#93"
  , "c1" : "int"
  , "c2" : "available()"
  , "c3" : "1"
@@ -93,136 +93,136 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#18"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method readBits arguments int  numBits"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  32 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  0xFF should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  0xFF should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000006[00048] For method readBits arguments int  numBits"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#50"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#51"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151416 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#62"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method ext.plantuml.com.google.zxing.common.BitSource.available@POLYN153764 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#57"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00057] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#60"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  0xFF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#60"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#64"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00064] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#65"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00065] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#71"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00071] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#72"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#73"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#73"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  0xFF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#79"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00079] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#80"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00080] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method ext.plantuml.com.google.zxing.common.BitSource.readBits@POLYN151608 the MagicNumber/String  0xFF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#94"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00094] In method ext.plantuml.com.google.zxing.common.BitSource.available@POLYN153956 the MagicNumber/String  8 should be converted to const"
 }} 
 ]
 , 

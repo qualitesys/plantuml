@@ -2,12 +2,12 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.TextBlockLineBefore"
 class net.sourceforge.plantuml.graphic.TextBlockLineBefore {
-+TextBlockLineBefore(double;TextBlock;char;TextBlock) : TextBlockLineBefore [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockLineBefore.java.html#20]]]
-+TextBlockLineBefore(double;TextBlock;char) : TextBlockLineBefore [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockLineBefore.java.html#27]]]
-+TextBlockLineBefore(double;TextBlock) : TextBlockLineBefore [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockLineBefore.java.html#31]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockLineBefore.java.html#35]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockLineBefore.java.html#44]]]
-+getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockLineBefore.java.html#61]]]
-+getPorts(StringBounder) : Ports [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockLineBefore.java.html#66]]]
++TextBlockLineBefore(double;TextBlock;char;TextBlock) : TextBlockLineBefore [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockLineBefore.java.html#54]]]
++TextBlockLineBefore(double;TextBlock;char) : TextBlockLineBefore [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockLineBefore.java.html#61]]]
++TextBlockLineBefore(double;TextBlock) : TextBlockLineBefore [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockLineBefore.java.html#65]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockLineBefore.java.html#69]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockLineBefore.java.html#78]]]
++getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockLineBefore.java.html#95]]]
++getPorts(StringBounder) : Ports [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockLineBefore.java.html#100]]]
 } 
 @enduml

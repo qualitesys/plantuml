@@ -2,8 +2,8 @@
 !pragma layout smetana
 "Eater" <|-- "net.sourceforge.plantuml.tim.EaterElseIf"
 class net.sourceforge.plantuml.tim.EaterElseIf {
-+EaterElseIf(StringLocated) : EaterElseIf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterElseIf.java.html#11]]]
-+analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterElseIf.java.html#16]]]
-+isTrue() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterElseIf.java.html#24]]]
++EaterElseIf(StringLocated) : EaterElseIf [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterElseIf.java.html#44]]]
++analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterElseIf.java.html#49]]]
++isTrue() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterElseIf.java.html#57]]]
 } 
 @enduml

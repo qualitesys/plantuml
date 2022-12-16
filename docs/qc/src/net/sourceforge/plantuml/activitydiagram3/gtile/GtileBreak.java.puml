@@ -2,6 +2,6 @@
 !pragma layout smetana
 "GtileEmptyWeldingPoint" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GtileBreak"
 class net.sourceforge.plantuml.activitydiagram3.gtile.GtileBreak {
-+GtileBreak(StringBounder;ISkinParam;Swimlane) : GtileBreak [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileBreak.java.html#11]]]
++GtileBreak(StringBounder;ISkinParam;Swimlane) : GtileBreak [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileBreak.java.html#45]]]
 } 
 @enduml

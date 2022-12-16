@@ -2,19 +2,19 @@
 !pragma layout smetana
 "FtileIfNude" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileIfWithDiamonds"
 class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileIfWithDiamonds {
-+FtileIfWithDiamonds(Ftile;Ftile;Ftile;Ftile;Swimlane;StringBounder) : FtileIfWithDiamonds [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#21]]]
-+getMyChildren() : Collection<Ftile> [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#29]]]
-+getYdelta1a(StringBounder) : int [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#33]]]
-+getYdelta1b(StringBounder) : int [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#40]]]
-widthInner(StringBounder) : double [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#48]]]
-calculateDimensionInternalSlow(StringBounder) : FtileGeometry [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#54]]]
-+drawU(UGraphic) : void [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#67]]]
-getTranslate1(StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#76]]]
-getTranslate2(StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#83]]]
-getTranslateDiamond1(StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#89]]]
-getTranslateDiamond2(StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#97]]]
-+computeMarginNeedForBranchLabe1(StringBounder;XDimension2D) : double [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#105]]]
-+computeMarginNeedForBranchLabe2(StringBounder;XDimension2D) : double [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#115]]]
-+computeVerticalMarginNeedForBranchs(StringBounder;XDimension2D;XDimension2D) : double [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#126]]]
++FtileIfWithDiamonds(Ftile;Ftile;Ftile;Ftile;Swimlane;StringBounder) : FtileIfWithDiamonds [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#55]]]
++getMyChildren() : Collection<Ftile> [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#63]]]
++getYdelta1a(StringBounder) : int [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#67]]]
++getYdelta1b(StringBounder) : int [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#74]]]
+widthInner(StringBounder) : double [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#82]]]
+calculateDimensionInternalSlow(StringBounder) : FtileGeometry [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#88]]]
++drawU(UGraphic) : void [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#101]]]
+getTranslate1(StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#110]]]
+getTranslate2(StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#117]]]
+getTranslateDiamond1(StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#123]]]
+getTranslateDiamond2(StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#131]]]
++computeMarginNeedForBranchLabe1(StringBounder;XDimension2D) : double [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#139]]]
++computeMarginNeedForBranchLabe2(StringBounder;XDimension2D) : double [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#149]]]
++computeVerticalMarginNeedForBranchs(StringBounder;XDimension2D;XDimension2D) : double [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#160]]]
 } 
 @enduml

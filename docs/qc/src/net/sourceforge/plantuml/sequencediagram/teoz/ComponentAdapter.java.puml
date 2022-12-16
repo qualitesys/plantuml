@@ -2,8 +2,8 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.ComponentAdapter"
 class net.sourceforge.plantuml.sequencediagram.teoz.ComponentAdapter {
-+ComponentAdapter(Component) : ComponentAdapter [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/ComponentAdapter.java.html#17]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/ComponentAdapter.java.html#21]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/ComponentAdapter.java.html#29]]]
++ComponentAdapter(Component) : ComponentAdapter [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/ComponentAdapter.java.html#51]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/ComponentAdapter.java.html#55]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/ComponentAdapter.java.html#63]]]
 } 
 @enduml

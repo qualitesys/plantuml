@@ -2,17 +2,17 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.security.SImageIO"
 class net.sourceforge.plantuml.security.SImageIO {
-+createImageOutputStream(OutputStream) : ImageOutputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#19]]]
-+write(RenderedImage;String;OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#23]]]
-+write(RenderedImage;String;SFile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#27]]]
-+read(java.io.File) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#31]]]
-+read(SFile) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#35]]]
-+read(InputStream) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#39]]]
-+read(byte[]) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#43]]]
-+createImageInputStream(SFile) : ImageInputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#47]]]
-+createImageInputStream(Object) : ImageInputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#51]]]
-+createImageInputStream(InputStream) : ImageInputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#58]]]
-+getImageReaders(ImageInputStream) : Iterator<ImageReader> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#62]]]
-+getImageWritersBySuffix(String) : Iterator<ImageWriter> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#66]]]
++createImageOutputStream(OutputStream) : ImageOutputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#53]]]
++write(RenderedImage;String;OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#57]]]
++write(RenderedImage;String;SFile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#61]]]
++read(java.io.File) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#65]]]
++read(SFile) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#69]]]
++read(InputStream) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#73]]]
++read(byte[]) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#77]]]
++createImageInputStream(SFile) : ImageInputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#81]]]
++createImageInputStream(Object) : ImageInputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#85]]]
++createImageInputStream(InputStream) : ImageInputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#92]]]
++getImageReaders(ImageInputStream) : Iterator<ImageReader> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#96]]]
++getImageWritersBySuffix(String) : Iterator<ImageWriter> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/security/SImageIO.java.html#100]]]
 } 
 @enduml

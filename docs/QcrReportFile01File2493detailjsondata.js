@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.timingdiagram.Clocks" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Clocks.java.html#6"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Clocks.java.html#39"
  , "c1" : "TimeTick"
  , "c2" : "getNow()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Clocks.java.html#8"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Clocks.java.html#41"
  , "c1" : "TimeTick"
  , "c2" : "getClockValue(String;int)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Clocks.java.html#10"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Clocks.java.html#43"
  , "c1" : "TimeTick"
  , "c2" : "getCodeValue(String)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Clocks.java.html#12"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Clocks.java.html#45"
  , "c1" : "TimingFormat"
  , "c2" : "getTimingFormatDate()"
  , "c3" : "1"

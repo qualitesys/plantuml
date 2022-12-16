@@ -2,13 +2,13 @@
 !pragma layout smetana
 "AbstractTextBlockIEntityImage" <|-- "net.sourceforge.plantuml.svek.AbstractEntityImage"
 class net.sourceforge.plantuml.svek.AbstractEntityImage {
-+AbstractEntityImage(IEntity;ISkinParam) : AbstractEntityImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#18]]]
-+isHidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#24]]]
-getEntity() : IEntity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#28]]]
-getSkinParam() : ISkinParam [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#32]]]
-+getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#37]]]
-getStereo() : Stereotype [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#41]]]
-+getShield(StringBounder) : Margins [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#46]]]
-+getOverscanX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#51]]]
++AbstractEntityImage(IEntity;ISkinParam) : AbstractEntityImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#52]]]
++isHidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#58]]]
+getEntity() : IEntity [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#62]]]
+getSkinParam() : ISkinParam [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#66]]]
++getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#71]]]
+getStereo() : Stereotype [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#75]]]
++getShield(StringBounder) : Margins [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#80]]]
++getOverscanX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#85]]]
 } 
 @enduml

@@ -2,11 +2,11 @@
 !pragma layout smetana
 "AbstractAtomAtom" <|-- "net.sourceforge.plantuml.creole.atom.AtomTree"
 class net.sourceforge.plantuml.creole.atom.AtomTree {
-+AtomTree(HColor) : AtomTree [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#23]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#27]]]
-+getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#40]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#44]]]
--getLevel(Atom) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#59]]]
-+addCell(Atom;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#63]]]
++AtomTree(HColor) : AtomTree [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#57]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#61]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#74]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#78]]]
+-getLevel(Atom) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#93]]]
++addCell(Atom;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#97]]]
 } 
 @enduml

@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.style.Context"
 class net.sourceforge.plantuml.style.Context {
-+push(String) : Context [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/Context.java.html#15]]]
-+pop() : Context [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/Context.java.html#22]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/Context.java.html#31]]]
-+size() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/Context.java.html#35]]]
-+toSignatures() : Collection<StyleSignatureBasic> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/Context.java.html#39]]]
++push(String) : Context [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/Context.java.html#49]]]
++pop() : Context [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/Context.java.html#56]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/Context.java.html#65]]]
++size() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/Context.java.html#69]]]
++toSignatures() : Collection<StyleSignatureBasic> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/Context.java.html#73]]]
 } 
 @enduml

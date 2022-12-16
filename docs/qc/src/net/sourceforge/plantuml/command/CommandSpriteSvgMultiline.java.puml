@@ -2,9 +2,9 @@
 !pragma layout smetana
 "CommandMultilines2<TitledDiagram>" <|-- "net.sourceforge.plantuml.command.CommandSpriteSvgMultiline"
 class net.sourceforge.plantuml.command.CommandSpriteSvgMultiline {
-+CommandSpriteSvgMultiline() : CommandSpriteSvgMultiline [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSpriteSvgMultiline.java.html#15]]]
--getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSpriteSvgMultiline.java.html#19]]]
-+getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSpriteSvgMultiline.java.html#31]]]
-executeNow(TitledDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSpriteSvgMultiline.java.html#36]]]
++CommandSpriteSvgMultiline() : CommandSpriteSvgMultiline [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSpriteSvgMultiline.java.html#49]]]
+-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSpriteSvgMultiline.java.html#53]]]
++getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSpriteSvgMultiline.java.html#65]]]
+executeNow(TitledDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSpriteSvgMultiline.java.html#70]]]
 } 
 @enduml

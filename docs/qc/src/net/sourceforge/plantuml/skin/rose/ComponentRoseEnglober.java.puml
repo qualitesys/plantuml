@@ -2,10 +2,10 @@
 !pragma layout smetana
 "AbstractTextualComponent" <|-- "net.sourceforge.plantuml.skin.rose.ComponentRoseEnglober"
 class net.sourceforge.plantuml.skin.rose.ComponentRoseEnglober {
-+ComponentRoseEnglober(Style;Display;ISkinSimple) : ComponentRoseEnglober [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseEnglober.java.html#23]]]
-drawBackgroundInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseEnglober.java.html#30]]]
-drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseEnglober.java.html#39]]]
-+getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseEnglober.java.html#47]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseEnglober.java.html#52]]]
++ComponentRoseEnglober(Style;Display;ISkinSimple) : ComponentRoseEnglober [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseEnglober.java.html#57]]]
+drawBackgroundInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseEnglober.java.html#64]]]
+drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseEnglober.java.html#73]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseEnglober.java.html#81]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseEnglober.java.html#86]]]
 } 
 @enduml

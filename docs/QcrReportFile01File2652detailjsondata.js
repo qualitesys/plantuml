@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.eps.UGraphicEps" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#33"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#66"
  , "c1" : "AbstractCommonUGraphic"
  , "c2" : "copyUGraphic()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#37"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#70"
  , "c1" : "UGraphicEps"
  , "c2" : "UGraphicEps(UGraphicEps)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#43"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#76"
  , "c1" : "UGraphicEps"
  , "c2" : "UGraphicEps(HColor;ColorMapper;StringBounder;EpsStrategy)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#49"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#82"
  , "c1" : "void"
  , "c2" : "register()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#61"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#94"
  , "c1" : "void"
  , "c2" : "close()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#65"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#98"
  , "c1" : "String"
  , "c2" : "getEPSCode()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#69"
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#102"
  , "c1" : "EpsGraphics"
  , "c2" : "getEpsGraphics()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#73"
+ , "c5" : "00106"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#106"
  , "c1" : "void"
  , "c2" : "drawEps(String;double;double)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#77"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#110"
  , "c1" : "String"
  , "c2" : "getEpsString(HColor;ColorMapper;EpsStrategy;UDrawable)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#85"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#118"
  , "c1" : "void"
  , "c2" : "startUrl(Url)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#90"
+ , "c5" : "00123"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#123"
  , "c1" : "void"
  , "c2" : "closeUrl()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#95"
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#128"
  , "c1" : "void"
  , "c2" : "writeToStream(OutputStream;String;int)"
  , "c3" : "1"
@@ -174,66 +174,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#37"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#70"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00037] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00070] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#43"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#76"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00043] The argument strategy is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00076] The argument strategy is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#73"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#106"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method drawEps arguments String  eps|double  x|double  y"
+ , "c3" : "QC-JAV000006[00106] For method drawEps arguments String  eps|double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#77"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#110"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00077] For method getEpsString arguments HColor  defaultBackground|ColorMapper  colorMapper|EpsStrategy  epsStrategy|UDrawable  udrawable"
+ , "c3" : "QC-JAV000006[00110] For method getEpsString arguments HColor  defaultBackground|ColorMapper  colorMapper|EpsStrategy  epsStrategy|UDrawable  udrawable"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#78"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#111"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00078] The argument udrawable is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00111] The argument udrawable is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#85"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#118"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00085] For method startUrl arguments Url  url"
+ , "c3" : "QC-JAV000006[00118] For method startUrl arguments Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#85"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#118"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00085] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00118] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#95"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#128"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00095] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
+ , "c3" : "QC-JAV000006[00128] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#95"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#128"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00095] The argument os is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00128] The argument os is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

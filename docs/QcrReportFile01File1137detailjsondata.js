@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#55"
  , "c1" : "CucaDiagramSimplifierActivity"
  , "c2" : "CucaDiagramSimplifierActivity(CucaDiagram;List<String>;StringBounder)"
  , "c3" : "5"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#89"
  , "c1" : "IEntityImage"
  , "c2" : "computeImage(IGroup)"
  , "c3" : "1"
@@ -98,66 +98,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#55"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00021] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00055] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00028] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00062] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00029] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00063] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00040] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00074] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00040] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00074] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity.CucaDiagramSimplifierActivity@POLYN150979 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity.CucaDiagramSimplifierActivity@POLYN151183 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity.CucaDiagramSimplifierActivity@POLYN150979 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity.CucaDiagramSimplifierActivity@POLYN151183 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity.CucaDiagramSimplifierActivity@POLYN150979 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity.CucaDiagramSimplifierActivity@POLYN151183 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#85"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method computeImage arguments IGroup  g"
+ , "c3" : "QC-JAV000006[00085] For method computeImage arguments IGroup  g"
 }} 
 ]
 , 

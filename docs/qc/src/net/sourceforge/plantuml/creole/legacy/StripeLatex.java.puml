@@ -2,15 +2,15 @@
 !pragma layout smetana
 "StripeRaw" <|-- "net.sourceforge.plantuml.creole.legacy.StripeLatex"
 class net.sourceforge.plantuml.creole.legacy.StripeLatex {
-+StripeLatex(FontConfiguration) : StripeLatex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#25]]]
-+getAtoms() : List<Atom> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#29]]]
-+getLHeader() : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#33]]]
-+addAndCheckTermination(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#38]]]
-+isTerminated() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#48]]]
--getAtom() : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#52]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#60]]]
-+getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#64]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#68]]]
-+splitInTwo(StringBounder;double) : List<Atom> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#72]]]
++StripeLatex(FontConfiguration) : StripeLatex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#59]]]
++getAtoms() : List<Atom> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#63]]]
++getLHeader() : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#67]]]
++addAndCheckTermination(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#72]]]
++isTerminated() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#82]]]
+-getAtom() : Atom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#86]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#94]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#98]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#102]]]
++splitInTwo(StringBounder;double) : List<Atom> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#106]]]
 } 
 @enduml

@@ -2,14 +2,14 @@
 !pragma layout smetana
 "Element" <|-- "net.sourceforge.plantuml.salt.element.AbstractElement"
 class net.sourceforge.plantuml.salt.element.AbstractElement {
-getBlack() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#12]]]
-getColor88() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#16]]]
-getColorAA() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#20]]]
-getColorBB() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#24]]]
-getColorDD() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#28]]]
-getColorEE() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#32]]]
-getWhite() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#36]]]
--buildColor(String;String) : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#40]]]
-blackBlueTrue(UFont) : FontConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#46]]]
+getBlack() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#46]]]
+getColor88() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#50]]]
+getColorAA() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#54]]]
+getColorBB() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#58]]]
+getColorDD() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#62]]]
+getColorEE() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#66]]]
+getWhite() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#70]]]
+-buildColor(String;String) : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#74]]]
+blackBlueTrue(UFont) : FontConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#80]]]
 } 
 @enduml

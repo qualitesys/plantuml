@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.dot.GraphvizVersion" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00005"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersion.java.html#5"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersion.java.html#39"
  , "c1" : "boolean"
  , "c2" : "useShieldForQuantifier()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00007"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersion.java.html#7"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersion.java.html#41"
  , "c1" : "boolean"
  , "c2" : "useProtectionWhenThereALinkFromOrToGroup()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersion.java.html#9"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersion.java.html#43"
  , "c1" : "boolean"
  , "c2" : "useXLabelInsteadOfLabel()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersion.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersion.java.html#45"
  , "c1" : "boolean"
  , "c2" : "isVizjs()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersion.java.html#13"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersion.java.html#47"
  , "c1" : "boolean"
  , "c2" : "ignoreHorizontalLinks()"
  , "c3" : "1"

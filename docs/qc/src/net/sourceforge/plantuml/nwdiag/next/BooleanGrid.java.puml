@@ -2,13 +2,13 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.nwdiag.next.BooleanGrid"
 class net.sourceforge.plantuml.nwdiag.next.BooleanGrid {
--merge(int;int) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#11]]]
-+burn(int;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#15]]]
-+isBurned(int;int) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#22]]]
-+burnRect(int;int;int;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#26]]]
-+isBurnRect(int;int;int;int) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#33]]]
--check(int;int;int;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#42]]]
-+isSpaceAvailable(Staged;int) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#56]]]
-+useSpace(Staged;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#63]]]
+-merge(int;int) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#44]]]
++burn(int;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#48]]]
++isBurned(int;int) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#55]]]
++burnRect(int;int;int;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#59]]]
++isBurnRect(int;int;int;int) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#66]]]
+-check(int;int;int;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#75]]]
++isSpaceAvailable(Staged;int) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#89]]]
++useSpace(Staged;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#96]]]
 } 
 @enduml

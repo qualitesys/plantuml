@@ -2,9 +2,9 @@
 !pragma layout smetana
 "UGraphicDelegator" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages"
 class net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages {
--create(UGraphic;double;double) : UGraphicNewpages [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#16]]]
--UGraphicNewpages(UGraphic;double;double;double) : UGraphicNewpages [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#20]]]
-+draw(UShape) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#27]]]
-+apply(UChange) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#37]]]
+-create(UGraphic;double;double) : UGraphicNewpages [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#50]]]
+-UGraphicNewpages(UGraphic;double;double;double) : UGraphicNewpages [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#54]]]
++draw(UShape) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#61]]]
++apply(UChange) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#71]]]
 } 
 @enduml

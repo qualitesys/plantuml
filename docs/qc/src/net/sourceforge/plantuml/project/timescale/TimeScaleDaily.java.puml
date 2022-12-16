@@ -2,10 +2,10 @@
 !pragma layout smetana
 "TimeScale" <|-- "net.sourceforge.plantuml.project.timescale.TimeScaleDaily"
 class net.sourceforge.plantuml.project.timescale.TimeScaleDaily {
-+TimeScaleDaily(Day;double;Day) : TimeScaleDaily [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#12]]]
-+getStartingPosition(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#21]]]
-+getEndingPosition(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#25]]]
-+getWidth(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#29]]]
-+isBreaking(Day) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#33]]]
++TimeScaleDaily(Day;double;Day) : TimeScaleDaily [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#46]]]
++getStartingPosition(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#55]]]
++getEndingPosition(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#59]]]
++getWidth(Day) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#63]]]
++isBreaking(Day) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleDaily.java.html#67]]]
 } 
 @enduml

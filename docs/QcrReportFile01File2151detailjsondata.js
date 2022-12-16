@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.stats.StatsUtils" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#78"
  , "c1" : "Stats"
  , "c2" : "getStats()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#85"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#119"
  , "c1" : "void"
  , "c2" : "restoreNow()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00098"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#98"
+ , "c5" : "00132"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#132"
  , "c1" : "void"
  , "c2" : "reload()"
  , "c3" : "4"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#110"
+ , "c5" : "00144"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#144"
  , "c1" : "String"
  , "c2" : "removeDotPSaved(String)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00114"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#114"
+ , "c5" : "00148"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#148"
  , "c1" : "void"
  , "c2" : "endingHook()"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00128"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#128"
+ , "c5" : "00162"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#162"
  , "c1" : "Stats"
  , "c2" : "getStatsLazzy()"
  , "c3" : "2"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00135"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#135"
+ , "c5" : "00169"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#169"
  , "c1" : "void"
  , "c2" : "htmlOutput(Stats)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00141"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#141"
+ , "c5" : "00175"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#175"
  , "c1" : "void"
  , "c2" : "xmlOutput(Stats)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00147"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#147"
+ , "c5" : "00181"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#181"
  , "c1" : "void"
  , "c2" : "setXmlStats(boolean)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00151"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#151"
+ , "c5" : "00185"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#185"
  , "c1" : "void"
  , "c2" : "setHtmlStats(boolean)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00155"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#155"
+ , "c5" : "00189"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#189"
  , "c1" : "void"
  , "c2" : "setRealTimeStats(boolean)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00159"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#159"
+ , "c5" : "00193"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#193"
  , "c1" : "void"
  , "c2" : "outHtml()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00163"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#163"
+ , "c5" : "00197"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#197"
  , "c1" : "void"
  , "c2" : "dumpStats()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00167"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#167"
+ , "c5" : "00201"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#201"
  , "c1" : "void"
  , "c2" : "loopStats()"
  , "c3" : "2"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00180"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#180"
+ , "c5" : "00214"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#214"
  , "c1" : "void"
  , "c2" : "clearScreen(PrintStream;int)"
  , "c3" : "5"
@@ -222,290 +222,290 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#88"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.stats.StatsUtils.restoreNow@POLYN173782 the MagicNumber/String  'full' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.stats.StatsUtils.restoreNow@POLYN173986 the MagicNumber/String  'full' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#91"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.stats.StatsUtils.restoreNow@POLYN173782 the MagicNumber/String  'format.' should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.stats.StatsUtils.restoreNow@POLYN173986 the MagicNumber/String  'format.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#93"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.stats.StatsUtils.restoreNow@POLYN173782 the MagicNumber/String  'Error reloading stats ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00101] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00102] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.stats.StatsUtils.reload@POLYN174443 the MagicNumber/String  'type.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.stats.StatsUtils.reload@POLYN174443 the MagicNumber/String  '.p.saved' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.stats.StatsUtils.reload@POLYN174443 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.stats.StatsUtils.reload@POLYN174443 the MagicNumber/String  'type.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#110"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method removeDotPSaved arguments String  key"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#110"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00110] The argument key is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.stats.StatsUtils.removeDotPSaved@POLYN175238 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.stats.StatsUtils.removeDotPSaved@POLYN175238 the MagicNumber/String  '.p.saved' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.stats.StatsUtils.getStatsLazzy@POLYN175999 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.stats.StatsUtils.restoreNow@POLYN173986 the MagicNumber/String  'Error reloading stats ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#135"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00135] For method htmlOutput arguments Stats  stats"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#135"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00135] The argument stats is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00135] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.stats.StatsUtils.htmlOutput@POLYN176198 the MagicNumber/String  'plantuml-stats.html' should be converted to const"
+ , "c3" : "QC-JAV000001[00136] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#141"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#134"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.stats.StatsUtils.reload@POLYN174647 the MagicNumber/String  'type.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#134"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.stats.StatsUtils.reload@POLYN174647 the MagicNumber/String  '.p.saved' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#137"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.stats.StatsUtils.reload@POLYN174647 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#138"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.stats.StatsUtils.reload@POLYN174647 the MagicNumber/String  'type.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#144"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00141] For method xmlOutput arguments Stats  stats"
+ , "c3" : "QC-JAV000006[00144] For method removeDotPSaved arguments String  key"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#141"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#144"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00141] The argument stats is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00144] The argument key is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#142"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.stats.StatsUtils.xmlOutput@POLYN176520 the MagicNumber/String  'plantuml-stats.xml' should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.stats.StatsUtils.removeDotPSaved@POLYN175442 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#147"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00147] For method setXmlStats arguments boolean  value"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#151"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00151] For method setHtmlStats arguments boolean  value"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#155"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00155] For method setRealTimeStats arguments boolean  value"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#172"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00172] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.stats.StatsUtils.removeDotPSaved@POLYN175442 the MagicNumber/String  '.p.saved' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#168"
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.stats.StatsUtils.loopStats@POLYN177521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.stats.StatsUtils.getStatsLazzy@POLYN176203 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#169"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00169] For method htmlOutput arguments Stats  stats"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#169"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00169] The argument stats is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.stats.StatsUtils.loopStats@POLYN177521 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.stats.StatsUtils.htmlOutput@POLYN176402 the MagicNumber/String  'plantuml-stats.html' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#175"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.stats.StatsUtils.loopStats@POLYN177521 the MagicNumber/String  3000L should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00180"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#180"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00180] For method clearScreen arguments PrintStream  ps|int  linesUsed"
+ , "c3" : "QC-JAV000006[00175] For method xmlOutput arguments Stats  stats"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00180"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#180"
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#175"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00180] The argument ps is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00175] The argument stats is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.stats.StatsUtils.xmlOutput@POLYN176724 the MagicNumber/String  'plantuml-stats.xml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#181"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.stats.StatsUtils.clearScreen@POLYN178163 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#184"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.stats.StatsUtils.clearScreen@POLYN178163 the MagicNumber/String  '/' should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00181] For method setXmlStats arguments boolean  value"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#185"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00185] For method setHtmlStats arguments boolean  value"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#189"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00189] For method setRealTimeStats arguments boolean  value"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00206"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.stats.StatsUtils.clearScreen@POLYN178163 the MagicNumber/String  '\033[%dA' should be converted to const"
+ , "c3" : "QC-JAV000001[00206] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#202"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.stats.StatsUtils.loopStats@POLYN177725 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.stats.StatsUtils.loopStats@POLYN177725 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#209"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.stats.StatsUtils.loopStats@POLYN177725 the MagicNumber/String  3000L should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00214"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#214"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00214] For method clearScreen arguments PrintStream  ps|int  linesUsed"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00214"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#214"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00214] The argument ps is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#215"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.stats.StatsUtils.clearScreen@POLYN178367 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00218"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#218"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.stats.StatsUtils.clearScreen@POLYN178367 the MagicNumber/String  '/' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#219"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.stats.StatsUtils.clearScreen@POLYN178367 the MagicNumber/String  '\033[%dA' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#219"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.stats.StatsUtils.clearScreen@POLYN178367 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#221"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.stats.StatsUtils.clearScreen@POLYN178367 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#221"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.stats.StatsUtils.clearScreen@POLYN178367 the MagicNumber/String  20 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#181"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00181] Public method setXmlStats is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#185"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.stats.StatsUtils.clearScreen@POLYN178163 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#187"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.stats.StatsUtils.clearScreen@POLYN178163 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#187"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.stats.StatsUtils.clearScreen@POLYN178163 the MagicNumber/String  20 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#147"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00147] Public method setXmlStats is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00185] Public method setHtmlStats is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#151"
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#189"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00151] Public method setHtmlStats is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00189] Public method setRealTimeStats is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#155"
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#193"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00155] Public method setRealTimeStats is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00193] Public method outHtml is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#159"
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#197"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00159] Public method outHtml is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00197] Public method dumpStats is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#163"
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#201"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00163] Public method dumpStats is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtils.java.html#167"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00167] Public method loopStats is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00201] Public method loopStats is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

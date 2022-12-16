@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.project.Failable"
 class net.sourceforge.plantuml.project.Failable {
--Failable(O;String) : Failable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Failable.java.html#17]]]
-+get() : O [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Failable.java.html#28]]]
-+isFail() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Failable.java.html#35]]]
-+getError() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Failable.java.html#39]]]
+-Failable(O;String) : Failable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Failable.java.html#51]]]
++get() : O [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Failable.java.html#62]]]
++isFail() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Failable.java.html#69]]]
++getError() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Failable.java.html#73]]]
 } 
 @enduml

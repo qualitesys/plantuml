@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.plugins.Plugin" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#18"
+ , "c5" : "00024"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#24"
  , "c1" : "void"
  , "c2" : "actionPerformed(ActionEvent)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#22"
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#28"
  , "c1" : "boolean"
  , "c2" : "hasGUIP()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#24"
+ , "c5" : "00030"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#30"
  , "c1" : "void"
  , "c2" : "render()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#26"
+ , "c5" : "00032"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#32"
  , "c1" : "void"
  , "c2" : "setProjection(Projection)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#31"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#37"
  , "c1" : "void"
  , "c2" : "setRenderTarget(PixelCanvas)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#36"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#42"
  , "c1" : "void"
  , "c2" : "setParent(ACearth)"
  , "c3" : "1"
@@ -127,45 +127,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#18"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#24"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method actionPerformed arguments ActionEvent  e"
+ , "c3" : "QC-JAV000006[00024] For method actionPerformed arguments ActionEvent  e"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#26"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#32"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method setProjection arguments Projection  pProjection"
+ , "c3" : "QC-JAV000006[00032] For method setProjection arguments Projection  pProjection"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#31"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#37"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method setRenderTarget arguments PixelCanvas  pRenderTarget"
+ , "c3" : "QC-JAV000006[00037] For method setRenderTarget arguments PixelCanvas  pRenderTarget"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#36"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#42"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method setParent arguments ACearth  pParent"
+ , "c3" : "QC-JAV000006[00042] For method setParent arguments ACearth  pParent"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#18"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#24"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00018] Void method actionPerformed is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00024] Void method actionPerformed is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#18"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html#24"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00018] Void method actionPerformed is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00024] Void method actionPerformed is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

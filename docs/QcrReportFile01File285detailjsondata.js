@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.graphic.BasicGraphicalElement" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicalElement.java.html#9"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicalElement.java.html#37"
  , "c1" : "BasicGraphicalElement"
  , "c2" : "BasicGraphicalElement(GraphicAttributes)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicalElement.java.html#14"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicalElement.java.html#45"
  , "c1" : "GraphicAttributes"
  , "c2" : "getGraphicAttributes()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicalElement.java.html#19"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/jcckit/graphic/BasicGraphicalElement.java.html#55"
  , "c1" : "boolean"
  , "c2" : "isClosed()"
  , "c3" : "1"
@@ -86,10 +86,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicalElement.java.html#20"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicalElement.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method jcckit.graphic.BasicGraphicalElement.isClosed@POLYN147037 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method jcckit.graphic.BasicGraphicalElement.isClosed@POLYN147253 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

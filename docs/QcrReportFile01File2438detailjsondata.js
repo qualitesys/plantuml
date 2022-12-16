@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.iterator.CodeIteratorInnerComment" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorInnerComment.java.html#10"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorInnerComment.java.html#43"
  , "c1" : "CodeIteratorInnerComment"
  , "c2" : "CodeIteratorInnerComment(CodeIterator)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorInnerComment.java.html#14"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorInnerComment.java.html#47"
  , "c1" : "StringLocated"
  , "c2" : "peek()"
  , "c3" : "2"
@@ -77,17 +77,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorInnerComment.java.html#16"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorInnerComment.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorInnerComment.peek@POLYN146593 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorInnerComment.peek@POLYN146791 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorInnerComment.java.html#17"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorInnerComment.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorInnerComment.peek@POLYN146593 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorInnerComment.peek@POLYN146791 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

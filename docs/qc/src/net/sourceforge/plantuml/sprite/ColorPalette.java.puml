@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.sprite.ColorPalette"
 class net.sourceforge.plantuml.sprite.ColorPalette {
-+getCharFor(Color) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette.java.html#15]]]
-+getCharFor(HColor) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette.java.html#19]]]
--getHtmlColorSimpleFor(char) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette.java.html#34]]]
-+getColorFor(char) : Color [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette.java.html#39]]]
++getCharFor(Color) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette.java.html#49]]]
++getCharFor(HColor) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette.java.html#53]]]
+-getHtmlColorSimpleFor(char) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette.java.html#68]]]
++getColorFor(char) : Color [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/ColorPalette.java.html#73]]]
 } 
 @enduml

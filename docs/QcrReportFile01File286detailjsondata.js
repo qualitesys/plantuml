@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.graphic.ClippingRectangle" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/jcckit/graphic/ClippingRectangle.java.html#9"
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/jcckit/graphic/ClippingRectangle.java.html#33"
  , "c1" : "ClippingRectangle"
  , "c2" : "ClippingRectangle(double;double;double;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/jcckit/graphic/ClippingRectangle.java.html#17"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/jcckit/graphic/ClippingRectangle.java.html#44"
  , "c1" : "boolean"
  , "c2" : "isInside(GraphPoint)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/jcckit/graphic/ClippingRectangle.java.html#24"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/jcckit/graphic/ClippingRectangle.java.html#51"
  , "c1" : "double"
  , "c2" : "getMinX()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/jcckit/graphic/ClippingRectangle.java.html#29"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/jcckit/graphic/ClippingRectangle.java.html#56"
  , "c1" : "double"
  , "c2" : "getMaxX()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/jcckit/graphic/ClippingRectangle.java.html#34"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/jcckit/graphic/ClippingRectangle.java.html#61"
  , "c1" : "double"
  , "c2" : "getMinY()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/jcckit/graphic/ClippingRectangle.java.html#39"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/jcckit/graphic/ClippingRectangle.java.html#66"
  , "c1" : "double"
  , "c2" : "getMaxY()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/jcckit/graphic/ClippingRectangle.java.html#44"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/jcckit/graphic/ClippingRectangle.java.html#71"
  , "c1" : "ClippingRectangle"
  , "c2" : "getBoundingBox()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/jcckit/graphic/ClippingRectangle.java.html#49"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/jcckit/graphic/ClippingRectangle.java.html#76"
  , "c1" : "BasicGraphicalElement"
  , "c2" : "getGraphicalElement()"
  , "c3" : "1"
@@ -166,59 +166,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#17"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#44"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method isInside arguments GraphPoint  point"
+ , "c3" : "QC-JAV000006[00044] For method isInside arguments GraphPoint  point"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#17"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#44"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00017] For method isInside list of called methods Object monObjet|double point_getXN148551|double point_getYN148626"
+ , "c3" : "QC-JAV000007[00044] For method isInside list of called methods Object monObjet|double point_getXN148713|double point_getYN148788"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#17"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#44"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00017] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00044] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#50"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method jcckit.graphic.ClippingRectangle.getGraphicalElement@POLYN149294 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method jcckit.graphic.ClippingRectangle.getGraphicalElement@POLYN149456 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#51"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method jcckit.graphic.ClippingRectangle.getGraphicalElement@POLYN149294 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method jcckit.graphic.ClippingRectangle.getGraphicalElement@POLYN149456 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#52"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method jcckit.graphic.ClippingRectangle.getGraphicalElement@POLYN149294 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method jcckit.graphic.ClippingRectangle.getGraphicalElement@POLYN149456 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00006"
- , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#6"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#27"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00006] Valued method _minX is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00027] Valued method _minX is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00006"
- , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#6"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#27"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00006] Valued method _minX is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00027] Valued method _minX is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.core.AbstractTask" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#13"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#47"
  , "c1" : "AbstractTask"
  , "c2" : "AbstractTask(StyleBuilder;TaskCode)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#52"
  , "c1" : "void"
  , "c2" : "putInSameRowAs(Task)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#57"
  , "c1" : "Task"
  , "c2" : "getRow()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#61"
  , "c1" : "TaskCode"
  , "c2" : "getCode()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#65"
  , "c1" : "StyleBuilder"
  , "c2" : "getStyleBuilder()"
  , "c3" : "1"
@@ -104,10 +104,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/AbstractTask.java.html#52"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method putInSameRowAs arguments Task  row"
+ , "c3" : "QC-JAV000006[00052] For method putInSameRowAs arguments Task  row"
 }} 
 ]
 , 

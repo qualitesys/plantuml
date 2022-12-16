@@ -2,16 +2,16 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "org.stathissideris.ascii2image.text.StringUtils"
 class org.stathissideris.ascii2image.text.StringUtils {
-+contains(String;String) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#8]]]
-+repeatString(String;int) : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#12]]]
-+isBlank(String) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#23]]]
-+firstToUpper(String) : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#28]]]
-+insertSpaceAtCaps(String) : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#32]]]
-+isOneOf(char;char[]) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#70]]]
-+isOneOf(String;String[]) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#76]]]
-+getPath(String) : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#82]]]
-+getBaseFilename(String) : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#88]]]
-+getExtension(String) : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#94]]]
-+main(String[]) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#101]]]
++contains(String;String) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#38]]]
++repeatString(String;int) : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#42]]]
++isBlank(String) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#60]]]
++firstToUpper(String) : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#71]]]
++insertSpaceAtCaps(String) : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#75]]]
++isOneOf(char;char[]) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#113]]]
++isOneOf(String;String[]) : boolean [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#119]]]
++getPath(String) : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#125]]]
++getBaseFilename(String) : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#131]]]
++getExtension(String) : String [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#137]]]
++main(String[]) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#144]]]
 } 
 @enduml

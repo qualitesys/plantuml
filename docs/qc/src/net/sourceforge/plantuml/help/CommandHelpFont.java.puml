@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<Help>" <|-- "net.sourceforge.plantuml.help.CommandHelpFont"
 class net.sourceforge.plantuml.help.CommandHelpFont {
-+CommandHelpFont() : CommandHelpFont [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpFont.java.html#16]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpFont.java.html#20]]]
-executeArg(Help;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpFont.java.html#28]]]
++CommandHelpFont() : CommandHelpFont [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpFont.java.html#50]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpFont.java.html#54]]]
+executeArg(Help;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpFont.java.html#62]]]
 } 
 @enduml

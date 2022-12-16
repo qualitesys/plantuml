@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.stdlib.GetJsonKey" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#21"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#54"
  , "c1" : "TFunctionSignature"
  , "c2" : "getSignature()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#25"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#58"
  , "c1" : "boolean"
  , "c2" : "canCover(int;Set<String>)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#29"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#62"
  , "c1" : "TValue"
  , "c2" : "executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>)"
  , "c3" : "7"
@@ -107,94 +107,94 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#22"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.tim.stdlib.GetJsonKey.getSignature@POLYN154028 the MagicNumber/String  '%get_json_keys' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.stdlib.GetJsonKey.getSignature@POLYN154226 the MagicNumber/String  '%get_json_keys' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#22"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.tim.stdlib.GetJsonKey.getSignature@POLYN154028 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.stdlib.GetJsonKey.getSignature@POLYN154226 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#25"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArgument"
+ , "c3" : "QC-JAV000006[00058] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArgument"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#26"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.tim.stdlib.GetJsonKey.canCover@POLYN154178 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.tim.stdlib.GetJsonKey.canCover@POLYN154376 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#29"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  named"
+ , "c3" : "QC-JAV000006[00062] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  named"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#29"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#62"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument values is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00062] The argument values is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#46"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00046] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00079] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#46"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00046] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00079] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#47"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00047] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00080] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#31"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.tim.stdlib.GetJsonKey.executeReturnFunction@POLYN154356 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.stdlib.GetJsonKey.executeReturnFunction@POLYN154554 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#32"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.tim.stdlib.GetJsonKey.executeReturnFunction@POLYN154356 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.tim.stdlib.GetJsonKey.executeReturnFunction@POLYN154554 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#33"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.tim.stdlib.GetJsonKey.executeReturnFunction@POLYN154356 the MagicNumber/String  'Not JSON data' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.tim.stdlib.GetJsonKey.executeReturnFunction@POLYN154554 the MagicNumber/String  'Not JSON data' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#53"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetJsonKey.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.stdlib.GetJsonKey.executeReturnFunction@POLYN154356 the MagicNumber/String  'Bad JSON type' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.tim.stdlib.GetJsonKey.executeReturnFunction@POLYN154554 the MagicNumber/String  'Bad JSON type' should be converted to const"
 }} 
 ]
 , 

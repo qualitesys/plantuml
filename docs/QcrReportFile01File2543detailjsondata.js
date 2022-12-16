@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#28"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#61"
  , "c1" : "TimeArrow"
  , "c2" : "create(IntricatedPoint;IntricatedPoint;Display;ISkinSimple;WithLinkType)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#37"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#70"
  , "c1" : "TimeArrow"
  , "c2" : "TimeArrow(XPoint2D;XPoint2D;Display;ISkinSimple;WithLinkType)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#45"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#78"
  , "c1" : "double"
  , "c2" : "getAngle()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#49"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#82"
  , "c1" : "TimeArrow"
  , "c2" : "shorter(TimeArrow;TimeArrow)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#56"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#89"
  , "c1" : "TimeArrow"
  , "c2" : "shorter(TimeArrow;TimeArrow;TimeArrow;TimeArrow)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#60"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#93"
  , "c1" : "double"
  , "c2" : "len()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#64"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#97"
  , "c1" : "TimeArrow"
  , "c2" : "translate(UTranslate)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#69"
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#102"
  , "c1" : "XPoint2D"
  , "c2" : "onCircle(XPoint2D;double)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#76"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#109"
  , "c1" : "FontConfiguration"
  , "c2" : "getFontConfiguration()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#83"
+ , "c5" : "00116"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#116"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "2"
@@ -163,143 +163,143 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#28"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method create arguments IntricatedPoint  pt1|IntricatedPoint  pt2|Display  label|ISkinSimple  spriteContainer|WithLinkType  type"
+ , "c3" : "QC-JAV000006[00061] For method create arguments IntricatedPoint  pt1|IntricatedPoint  pt2|Display  label|ISkinSimple  spriteContainer|WithLinkType  type"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#28"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#61"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument pt1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00061] The argument pt1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#28"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#61"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument pt2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00061] The argument pt2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#49"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method shorter arguments TimeArrow  arrow1|TimeArrow  arrow2"
+ , "c3" : "QC-JAV000006[00082] For method shorter arguments TimeArrow  arrow1|TimeArrow  arrow2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#49"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#82"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00049] The argument arrow1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00082] The argument arrow1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#49"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#82"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00049] The argument arrow2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00082] The argument arrow2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#56"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#89"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method shorter arguments TimeArrow  arrow1|TimeArrow  arrow2|TimeArrow  arrow3|TimeArrow  arrow4"
+ , "c3" : "QC-JAV000006[00089] For method shorter arguments TimeArrow  arrow1|TimeArrow  arrow2|TimeArrow  arrow3|TimeArrow  arrow4"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#64"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#97"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method translate arguments UTranslate  translate"
+ , "c3" : "QC-JAV000006[00097] For method translate arguments UTranslate  translate"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#64"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#97"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00064] The argument translate is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00097] The argument translate is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#69"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#102"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method onCircle arguments XPoint2D  pt|double  alpha"
+ , "c3" : "QC-JAV000006[00102] For method onCircle arguments XPoint2D  pt|double  alpha"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#69"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#102"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00069] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.onCircle@POLYN172064 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.getFontConfiguration@POLYN172645 the MagicNumber/String  14 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.getFontConfiguration@POLYN172645 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#83"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method drawU arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#83"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00083] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.drawU@POLYN173011 the MagicNumber/String  20.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.drawU@POLYN173011 the MagicNumber/String  180.0 should be converted to const"
+ , "c3" : "QC-JAVCWE476[00102] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.drawU@POLYN173011 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.onCircle@POLYN172262 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#104"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.drawU@POLYN173011 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.getFontConfiguration@POLYN172843 the MagicNumber/String  14 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#113"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.getFontConfiguration@POLYN172843 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#116"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00116] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#116"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00116] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.drawU@POLYN173209 the MagicNumber/String  20.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.drawU@POLYN173209 the MagicNumber/String  180.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#136"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.drawU@POLYN173209 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/TimeArrow.java.html#137"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow.drawU@POLYN173209 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

@@ -2,11 +2,11 @@
 !pragma layout smetana
 "JsonValue" <|-- "net.sourceforge.plantuml.json.JsonString"
 class net.sourceforge.plantuml.json.JsonString {
-JsonString(String) : JsonString [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55]]]
-write(JsonWriter) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55]]]
-+isString() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55]]]
-+asString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55]]]
-+hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55]]]
-+equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#55]]]
+JsonString(String) : JsonString [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59]]]
+write(JsonWriter) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59]]]
++isString() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59]]]
++asString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonString.java.html#59]]]
 } 
 @enduml

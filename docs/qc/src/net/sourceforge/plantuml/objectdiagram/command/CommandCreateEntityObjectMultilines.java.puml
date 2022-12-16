@@ -2,10 +2,10 @@
 !pragma layout smetana
 "CommandMultilines2<AbstractClassOrObjectDiagram>" <|-- "net.sourceforge.plantuml.objectdiagram.command.CommandCreateEntityObjectMultilines"
 class net.sourceforge.plantuml.objectdiagram.command.CommandCreateEntityObjectMultilines {
-+CommandCreateEntityObjectMultilines() : CommandCreateEntityObjectMultilines [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateEntityObjectMultilines.java.html#30]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateEntityObjectMultilines.java.html#34]]]
-+getPatternEnd() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateEntityObjectMultilines.java.html#51]]]
-executeNow(AbstractClassOrObjectDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateEntityObjectMultilines.java.html#56]]]
--executeArg0(AbstractClassOrObjectDiagram;RegexResult) : IEntity [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateEntityObjectMultilines.java.html#75]]]
++CommandCreateEntityObjectMultilines() : CommandCreateEntityObjectMultilines [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateEntityObjectMultilines.java.html#64]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateEntityObjectMultilines.java.html#68]]]
++getPatternEnd() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateEntityObjectMultilines.java.html#85]]]
+executeNow(AbstractClassOrObjectDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateEntityObjectMultilines.java.html#90]]]
+-executeArg0(AbstractClassOrObjectDiagram;RegexResult) : IEntity [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateEntityObjectMultilines.java.html#109]]]
 } 
 @enduml

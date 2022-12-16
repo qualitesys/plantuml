@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<TitledDiagram>" <|-- "net.sourceforge.plantuml.command.CommandSkinParam"
 class net.sourceforge.plantuml.command.CommandSkinParam {
-+CommandSkinParam() : CommandSkinParam [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#14]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#18]]]
-executeArg(TitledDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#28]]]
++CommandSkinParam() : CommandSkinParam [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#48]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#52]]]
+executeArg(TitledDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandSkinParam.java.html#62]]]
 } 
 @enduml

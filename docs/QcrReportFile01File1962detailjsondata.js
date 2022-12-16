@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.FreeYStrategyBasic" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategyBasic.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategyBasic.java.html#42"
  , "c1" : "double"
  , "c2" : "peekPosition(Event;ParticipantRange)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategyBasic.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategyBasic.java.html#46"
  , "c1" : "void"
  , "c2" : "addElement(Event;ParticipantRange;double)"
  , "c3" : "1"
@@ -98,38 +98,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategyBasic.java.html#8"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategyBasic.java.html#42"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00008] For method peekPosition arguments Event  event|ParticipantRange  range"
+ , "c3" : "QC-JAV000006[00042] For method peekPosition arguments Event  event|ParticipantRange  range"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategyBasic.java.html#9"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategyBasic.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00009] In method net.sourceforge.plantuml.sequencediagram.graphic.FreeYStrategyBasic.peekPosition@POLYN145367 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.sequencediagram.graphic.FreeYStrategyBasic.peekPosition@POLYN145571 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategyBasic.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategyBasic.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method addElement arguments Event  event|ParticipantRange  range|double  height"
+ , "c3" : "QC-JAV000006[00046] For method addElement arguments Event  event|ParticipantRange  range|double  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategyBasic.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategyBasic.java.html#46"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00012] Void method addElement is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00046] Void method addElement is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategyBasic.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategyBasic.java.html#46"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00012] Void method addElement is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00046] Void method addElement is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

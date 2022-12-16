@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.salt.Positionner2" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#56"
  , "c1" : "void"
  , "c2" : "add(Terminated<Element>)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#66"
  , "c1" : "void"
  , "c2" : "moveNextColumn()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#70"
  , "c1" : "void"
  , "c2" : "moveNextRow()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#75"
  , "c1" : "void"
  , "c2" : "addWithoutMove(Element)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#47"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#81"
  , "c1" : "void"
  , "c2" : "mergeLeft(Terminator)"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#58"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#92"
  , "c1" : "void"
  , "c2" : "updateMax()"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#67"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#101"
  , "c1" : "Map<Element,Cell>"
  , "c2" : "getAll()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#105"
  , "c1" : "int"
  , "c2" : "getNbRows()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#75"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#109"
  , "c1" : "int"
  , "c2" : "getNbCols()"
  , "c3" : "1"
@@ -161,73 +161,73 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method add arguments Terminated&lt;Element &gt;  element"
+ , "c3" : "QC-JAV000006[00056] For method add arguments Terminated&lt;Element &gt;  element"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00022] The argument element is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.salt.Positionner2.moveNextRow@POLYN152789 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#41"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method addWithoutMove arguments Element  elmt"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#47"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00047] For method mergeLeft arguments Terminator  terminator"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.salt.Positionner2.mergeLeft@POLYN153237 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAVCWE476[00056] The argument element is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.salt.Positionner2.getNbRows@POLYN154099 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.salt.Positionner2.moveNextRow@POLYN152993 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#76"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#75"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00075] For method addWithoutMove arguments Element  elmt"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#81"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00081] For method mergeLeft arguments Terminator  terminator"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.salt.Positionner2.getNbCols@POLYN154214 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.salt.Positionner2.mergeLeft@POLYN153441 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#67"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00067] Public method getAll is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.salt.Positionner2.getNbRows@POLYN154303 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#22"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#110"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.salt.Positionner2.getNbCols@POLYN154418 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#101"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00022] Public method add is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00101] Public method getAll is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#56"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00056] Public method add is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

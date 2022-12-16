@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractComponentText" <|-- "net.sourceforge.plantuml.asciiart.ComponentTextReference"
 class net.sourceforge.plantuml.asciiart.ComponentTextReference {
-+ComponentTextReference(Display;FileFormat) : ComponentTextReference [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextReference.java.html#19]]]
-+drawU(UGraphic;Area;Context2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextReference.java.html#24]]]
-+getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextReference.java.html#60]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextReference.java.html#64]]]
++ComponentTextReference(Display;FileFormat) : ComponentTextReference [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextReference.java.html#53]]]
++drawU(UGraphic;Area;Context2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextReference.java.html#58]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextReference.java.html#94]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextReference.java.html#98]]]
 } 
 @enduml

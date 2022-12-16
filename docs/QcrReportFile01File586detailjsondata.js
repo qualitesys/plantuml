@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.Genealogy" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#50"
  , "c1" : "Genealogy"
  , "c2" : "Genealogy(Ftile)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#56"
  , "c1" : "void"
  , "c2" : "process(Ftile)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#66"
  , "c1" : "Ftile"
  , "c2" : "getMyFather(Ftile)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#70"
  , "c1" : "void"
  , "c2" : "setMyFather(Ftile;Ftile)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#43"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#77"
  , "c1" : "UTranslate"
  , "c2" : "getTranslate(Ftile;StringBounder)"
  , "c3" : "2"
@@ -125,59 +125,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method process arguments Ftile  current"
+ , "c3" : "QC-JAV000006[00056] For method process arguments Ftile  current"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00022] The argument current is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00056] The argument current is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method getMyFather arguments Ftile  me"
+ , "c3" : "QC-JAV000006[00066] For method getMyFather arguments Ftile  me"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method setMyFather arguments Ftile  child|Ftile  father"
+ , "c3" : "QC-JAV000006[00070] For method setMyFather arguments Ftile  child|Ftile  father"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method getTranslate arguments Ftile  child|StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00077] For method getTranslate arguments Ftile  child|StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#47"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00047] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00081] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#48"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00048] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00082] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Genealogy.java.html#66"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00032] Public method getMyFather is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00066] Public method getMyFather is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

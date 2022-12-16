@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ImageSelection" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ImageSelection.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ImageSelection.java.html#48"
  , "c1" : "ImageSelection"
  , "c2" : "ImageSelection(Image)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ImageSelection.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ImageSelection.java.html#52"
  , "c1" : "DataFlavor[]"
  , "c2" : "getTransferDataFlavors()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ImageSelection.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ImageSelection.java.html#56"
  , "c1" : "boolean"
  , "c2" : "isDataFlavorSupported(DataFlavor)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ImageSelection.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ImageSelection.java.html#60"
  , "c1" : "Object"
  , "c2" : "getTransferData(DataFlavor)"
  , "c3" : "1"
@@ -95,17 +95,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ImageSelection.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ImageSelection.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method isDataFlavorSupported arguments DataFlavor  flavor"
+ , "c3" : "QC-JAV000006[00056] For method isDataFlavorSupported arguments DataFlavor  flavor"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ImageSelection.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ImageSelection.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method getTransferData arguments DataFlavor  flavor"
+ , "c3" : "QC-JAV000006[00060] For method getTransferData arguments DataFlavor  flavor"
 }} 
 ]
 , 

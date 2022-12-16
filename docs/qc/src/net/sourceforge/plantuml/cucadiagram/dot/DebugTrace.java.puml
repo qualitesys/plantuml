@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.dot.DebugTrace"
 class net.sourceforge.plantuml.cucadiagram.dot.DebugTrace {
--getPrintWriter() : PrintWriter [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#15]]]
-+DEBUG(String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#26]]]
-+DEBUG(String;Throwable) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#32]]]
+-getPrintWriter() : PrintWriter [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#49]]]
++DEBUG(String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#60]]]
++DEBUG(String;Throwable) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DebugTrace.java.html#66]]]
 } 
 @enduml

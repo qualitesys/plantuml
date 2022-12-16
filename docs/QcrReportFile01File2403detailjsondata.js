@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.ExecutionContexts" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#13"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#46"
  , "c1" : "void"
  , "c2" : "addIf(ExecutionContextIf)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#17"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#50"
  , "c1" : "void"
  , "c2" : "addWhile(ExecutionContextWhile)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#21"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#54"
  , "c1" : "void"
  , "c2" : "addForeach(ExecutionContextForeach)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#25"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#58"
  , "c1" : "ExecutionContextIf"
  , "c2" : "peekIf()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#29"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#62"
  , "c1" : "ExecutionContextWhile"
  , "c2" : "peekWhile()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#33"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#66"
  , "c1" : "ExecutionContextForeach"
  , "c2" : "peekForeach()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#37"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#70"
  , "c1" : "ExecutionContextIf"
  , "c2" : "pollIf()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#41"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#74"
  , "c1" : "ExecutionContextWhile"
  , "c2" : "pollWhile()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#45"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#78"
  , "c1" : "ExecutionContextForeach"
  , "c2" : "pollForeach()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#49"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#82"
  , "c1" : "boolean"
  , "c2" : "areAllIfOk(TContext;TMemory)"
  , "c3" : "3"
@@ -156,52 +156,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#13"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method addIf arguments ExecutionContextIf  value"
+ , "c3" : "QC-JAV000006[00046] For method addIf arguments ExecutionContextIf  value"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#17"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method addWhile arguments ExecutionContextWhile  value"
+ , "c3" : "QC-JAV000006[00050] For method addWhile arguments ExecutionContextWhile  value"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#21"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method addForeach arguments ExecutionContextForeach  value"
+ , "c3" : "QC-JAV000006[00054] For method addForeach arguments ExecutionContextForeach  value"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#49"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method areAllIfOk arguments TContext  context|TMemory  memory"
+ , "c3" : "QC-JAV000006[00082] For method areAllIfOk arguments TContext  context|TMemory  memory"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#51"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.tim.ExecutionContexts.areAllIfOk@POLYN151455 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.tim.ExecutionContexts.areAllIfOk@POLYN151653 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#52"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.ExecutionContexts.areAllIfOk@POLYN151455 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.tim.ExecutionContexts.areAllIfOk@POLYN151653 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#55"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContexts.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.ExecutionContexts.areAllIfOk@POLYN151455 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.tim.ExecutionContexts.areAllIfOk@POLYN151653 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

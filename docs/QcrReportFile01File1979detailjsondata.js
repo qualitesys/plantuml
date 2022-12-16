@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#48"
  , "c1" : "void"
  , "c2" : "addList(InGroupableList)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#56"
  , "c1" : "void"
  , "c2" : "pop()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#61"
  , "c1" : "void"
  , "c2" : "addElement(InGroupable)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#67"
  , "c1" : "InGroupableList"
  , "c2" : "getTopGroupingStructure()"
  , "c3" : "2"
@@ -102,45 +102,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method addList arguments InGroupableList  inGroupableList"
+ , "c3" : "QC-JAV000006[00048] For method addList arguments InGroupableList  inGroupableList"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack.pop@POLYN149019 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack.pop@POLYN149223 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method addElement arguments InGroupable  inGroupable"
+ , "c3" : "QC-JAV000006[00061] For method addElement arguments InGroupable  inGroupable"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#34"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack.getTopGroupingStructure@POLYN149454 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack.getTopGroupingStructure@POLYN149658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack.getTopGroupingStructure@POLYN149454 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack.getTopGroupingStructure@POLYN149658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack.getTopGroupingStructure@POLYN149454 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack.getTopGroupingStructure@POLYN149658 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

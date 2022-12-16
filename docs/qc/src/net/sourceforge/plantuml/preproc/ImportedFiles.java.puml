@@ -2,17 +2,17 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.preproc.ImportedFiles"
 class net.sourceforge.plantuml.preproc.ImportedFiles {
--ImportedFiles(List<SFile>;AParentFolder) : ImportedFiles [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#22]]]
-+withCurrentDir(AParentFolder) : ImportedFiles [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#27]]]
-+createImportedFiles(AParentFolder) : ImportedFiles [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#34]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#39]]]
-+getAFile(String) : AFile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#43]]]
-+getPath() : List<SFile> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#73]]]
--includePath() : List<SFile> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#80]]]
--isAbsolute(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#84]]]
-+add(SFile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#89]]]
-+getCurrentDir() : AParentFolder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#93]]]
-+getFile(String;String) : FileWithSuffix [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#97]]]
--isAllowed(AFile) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#114]]]
+-ImportedFiles(List<SFile>;AParentFolder) : ImportedFiles [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#57]]]
++withCurrentDir(AParentFolder) : ImportedFiles [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#62]]]
++createImportedFiles(AParentFolder) : ImportedFiles [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#69]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#74]]]
++getAFile(String) : AFile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#78]]]
++getPath() : List<SFile> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#108]]]
+-includePath() : List<SFile> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#115]]]
+-isAbsolute(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#119]]]
++add(SFile) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#124]]]
++getCurrentDir() : AParentFolder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#128]]]
++getFile(String;String) : FileWithSuffix [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#132]]]
+-isAllowed(AFile) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#149]]]
 } 
 @enduml

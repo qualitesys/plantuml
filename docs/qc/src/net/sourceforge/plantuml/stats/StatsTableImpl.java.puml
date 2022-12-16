@@ -2,10 +2,10 @@
 !pragma layout smetana
 "StatsTable" <|-- "net.sourceforge.plantuml.stats.StatsTableImpl"
 class net.sourceforge.plantuml.stats.StatsTableImpl {
-+StatsTableImpl(String) : StatsTableImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#20]]]
-+getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#25]]]
-+getColumnHeaders() : Collection<StatsColumn> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#29]]]
-+getLines() : List<StatsLine> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#33]]]
-+addLine(StatsLine) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#37]]]
++StatsTableImpl(String) : StatsTableImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#54]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#59]]]
++getColumnHeaders() : Collection<StatsColumn> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#63]]]
++getLines() : List<StatsLine> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#67]]]
++addLine(StatsLine) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/StatsTableImpl.java.html#71]]]
 } 
 @enduml

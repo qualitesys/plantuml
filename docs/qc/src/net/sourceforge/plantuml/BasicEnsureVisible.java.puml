@@ -2,9 +2,9 @@
 !pragma layout smetana
 "EnsureVisible" <|-- "net.sourceforge.plantuml.BasicEnsureVisible"
 class net.sourceforge.plantuml.BasicEnsureVisible {
-+ensureVisible(double;double) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/BasicEnsureVisible.java.html#11]]]
-+hasData() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/BasicEnsureVisible.java.html#26]]]
-+getCoords(double) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BasicEnsureVisible.java.html#30]]]
-+getSurface() : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/BasicEnsureVisible.java.html#41]]]
++ensureVisible(double;double) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/BasicEnsureVisible.java.html#45]]]
++hasData() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/BasicEnsureVisible.java.html#60]]]
++getCoords(double) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BasicEnsureVisible.java.html#64]]]
++getSurface() : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/BasicEnsureVisible.java.html#75]]]
 } 
 @enduml

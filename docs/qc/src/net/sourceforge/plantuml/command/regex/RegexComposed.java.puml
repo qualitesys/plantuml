@@ -2,17 +2,17 @@
 !pragma layout smetana
 "IRegex" <|-- "net.sourceforge.plantuml.command.regex.RegexComposed"
 class net.sourceforge.plantuml.command.regex.RegexComposed {
-partials() : List<IRegex> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#20]]]
-getFullSlow() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#24]]]
--getPattern2() : Pattern2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#28]]]
-isCompiled() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#38]]]
-+RegexComposed(IRegex...) : RegexComposed [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#42]]]
-+createPartialMatch(Iterator<String>) : Map<String,RegexPartialMatch> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#46]]]
-+count() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#55]]]
-getStartCount() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#63]]]
-+matcher(String) : RegexResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#67]]]
-+match(StringLocated) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#76]]]
-+getPattern() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#85]]]
-getPartials() : List<IRegex> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#89]]]
+partials() : List<IRegex> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#54]]]
+getFullSlow() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#58]]]
+-getPattern2() : Pattern2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#62]]]
+isCompiled() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#72]]]
++RegexComposed(IRegex...) : RegexComposed [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#76]]]
++createPartialMatch(Iterator<String>) : Map<String,RegexPartialMatch> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#80]]]
++count() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#89]]]
+getStartCount() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#97]]]
++matcher(String) : RegexResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#101]]]
++match(StringLocated) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#110]]]
++getPattern() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#119]]]
+getPartials() : List<IRegex> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#123]]]
 } 
 @enduml

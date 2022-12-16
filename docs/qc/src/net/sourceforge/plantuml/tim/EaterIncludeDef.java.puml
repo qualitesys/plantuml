@@ -2,8 +2,8 @@
 !pragma layout smetana
 "Eater" <|-- "net.sourceforge.plantuml.tim.EaterIncludeDef"
 class net.sourceforge.plantuml.tim.EaterIncludeDef {
-+EaterIncludeDef(StringLocated) : EaterIncludeDef [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.html#10]]]
-+analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.html#15]]]
-+getLocation() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.html#23]]]
++EaterIncludeDef(StringLocated) : EaterIncludeDef [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.html#43]]]
++analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.html#48]]]
++getLocation() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.html#56]]]
 } 
 @enduml

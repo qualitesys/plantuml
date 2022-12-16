@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sudoku.PSystemSudoku" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#53"
  , "c1" : "ImageData"
  , "c2" : "exportDiagramNow(OutputStream;int;FileFormatOption)"
  , "c3" : "4"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#69"
  , "c1" : "DiagramDescription"
  , "c2" : "getDescription()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#39"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#73"
  , "c1" : "PSystemSudoku"
  , "c2" : "PSystemSudoku(UmlSource;Long)"
  , "c3" : "1"
@@ -107,31 +107,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method exportDiagramNow arguments OutputStream  os|int  num|FileFormatOption  fileFormat"
+ , "c3" : "QC-JAV000006[00053] For method exportDiagramNow arguments OutputStream  os|int  num|FileFormatOption  fileFormat"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#53"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00019] The argument fileFormat is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00053] The argument fileFormat is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00028] The same method call fileFormat.getFileFormat() is used several times, should be optimized "
+ , "c3" : "QC-JAV000021[00062] The same method call fileFormat.getFileFormat() is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.sudoku.PSystemSudoku.getDescription@POLYN151464 the MagicNumber/String  '(Sudoku)' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.sudoku.PSystemSudoku.getDescription@POLYN151668 the MagicNumber/String  '(Sudoku)' should be converted to const"
 }} 
 ]
 , 

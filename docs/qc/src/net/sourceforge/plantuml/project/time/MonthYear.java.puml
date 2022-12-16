@@ -2,19 +2,19 @@
 !pragma layout smetana
 "Comparable<MonthYear>" <|-- "net.sourceforge.plantuml.project.time.MonthYear"
 class net.sourceforge.plantuml.project.time.MonthYear {
-+create(int;Month) : MonthYear [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#11]]]
-+shortName(Locale) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#15]]]
-+shortNameYYYY(Locale) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#19]]]
-+longName(Locale) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#23]]]
-+longNameYYYY(Locale) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#27]]]
--MonthYear(int;Month) : MonthYear [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#31]]]
-+year() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#36]]]
-+next() : MonthYear [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#40]]]
-+month() : Month [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#46]]]
--internalNumber() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#50]]]
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#55]]]
-+hashCode() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#60]]]
-+equals(Object) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#65]]]
-+compareTo(MonthYear) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#73]]]
++create(int;Month) : MonthYear [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#45]]]
++shortName(Locale) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#49]]]
++shortNameYYYY(Locale) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#53]]]
++longName(Locale) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#57]]]
++longNameYYYY(Locale) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#61]]]
+-MonthYear(int;Month) : MonthYear [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#65]]]
++year() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#70]]]
++next() : MonthYear [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#74]]]
++month() : Month [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#80]]]
+-internalNumber() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#84]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#89]]]
++hashCode() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#94]]]
++equals(Object) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#99]]]
++compareTo(MonthYear) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#107]]]
 } 
 @enduml

@@ -2,19 +2,19 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "ext.plantuml.com.google.zxing.common.BitMatrix"
 class ext.plantuml.com.google.zxing.common.BitMatrix {
-+BitMatrix(int) : BitMatrix [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#15]]]
-+BitMatrix(int;int) : BitMatrix [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#19]]]
-+get(int;int) : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#30]]]
-+set(int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#36]]]
-+flip(int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#42]]]
-+clear() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#48]]]
-+setRegion(int;int;int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#56]]]
-+getRow(int;BitArray) : BitArray [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#77]]]
-+getTopLeftOnBit() : int[] [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#89]]]
-+getWidth() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#110]]]
-+getHeight() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#115]]]
-+equals(Object) : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#119]]]
-+hashCode() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#136]]]
-+toString() : String [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#147]]]
++BitMatrix(int) : BitMatrix [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#43]]]
++BitMatrix(int;int) : BitMatrix [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#47]]]
++get(int;int) : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#64]]]
++set(int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#75]]]
++flip(int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#86]]]
++clear() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#94]]]
++setRegion(int;int;int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#109]]]
++getRow(int;BitArray) : BitArray [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#137]]]
++getTopLeftOnBit() : int[] [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#153]]]
++getWidth() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#176]]]
++getHeight() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#183]]]
++equals(Object) : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#187]]]
++hashCode() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#204]]]
++toString() : String [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitMatrix.java.html#215]]]
 } 
 @enduml

@@ -2,6 +2,6 @@
 !pragma layout smetana
 "Iterator<Terminated<String>>" <|-- "net.sourceforge.plantuml.salt.DataSource"
 class net.sourceforge.plantuml.salt.DataSource {
-peek(int) : Terminated<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/DataSource.java.html#8]]]
+peek(int) : Terminated<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/DataSource.java.html#42]]]
 } 
 @enduml

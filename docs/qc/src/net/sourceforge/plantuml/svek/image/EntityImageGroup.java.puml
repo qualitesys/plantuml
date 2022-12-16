@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageGroup"
 class net.sourceforge.plantuml.svek.image.EntityImageGroup {
-+EntityImageGroup(ILeaf;ISkinParam) : EntityImageGroup [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageGroup.java.html#17]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageGroup.java.html#25]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageGroup.java.html#29]]]
-+getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageGroup.java.html#32]]]
++EntityImageGroup(ILeaf;ISkinParam) : EntityImageGroup [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageGroup.java.html#51]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageGroup.java.html#59]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageGroup.java.html#63]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageGroup.java.html#66]]]
 } 
 @enduml

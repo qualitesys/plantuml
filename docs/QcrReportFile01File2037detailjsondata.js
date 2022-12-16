@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#50"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#84"
  , "c1" : "int"
  , "c2" : "getLevelAt(Tile;EventsHistoryMode)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#89"
  , "c1" : "void"
  , "c2" : "addStepForLivebox(Event;double)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#60"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#94"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#64"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#98"
  , "c1" : "String"
  , "c2" : "currentValue(Real)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#105"
  , "c1" : "LivingSpace"
  , "c2" : "LivingSpace(Participant;ParticipantEnglober;Rose;ISkinParam;Real;List<Event>)"
  , "c3" : "17"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00112"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#112"
+ , "c5" : "00146"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#146"
  , "c1" : "boolean"
  , "c2" : "useContinueLineBecauseOfDelay(List<Event>)"
  , "c3" : "4"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00125"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#125"
+ , "c5" : "00159"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#159"
  , "c1" : "void"
  , "c2" : "drawLineAndLiveboxes(UGraphic;double;Context2D)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00134"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#134"
+ , "c5" : "00168"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#168"
  , "c1" : "void"
  , "c2" : "drawHead(UGraphic;Context2D;VerticalAlignment;HorizontalAlignment)"
  , "c3" : "6"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00159"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#159"
+ , "c5" : "00193"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#193"
  , "c1" : "XDimension2D"
  , "c2" : "getHeadPreferredDimension(StringBounder)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00166"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#166"
+ , "c5" : "00200"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#200"
  , "c1" : "double"
  , "c2" : "getPreferredWidth(StringBounder)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00170"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#170"
+ , "c5" : "00204"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#204"
  , "c1" : "Real"
  , "c2" : "getPosC(StringBounder)"
  , "c3" : "2"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00177"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#177"
+ , "c5" : "00211"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#211"
  , "c1" : "Real"
  , "c2" : "getPosC2(StringBounder)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00182"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#182"
+ , "c5" : "00216"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#216"
  , "c1" : "Real"
  , "c2" : "getPosD(StringBounder)"
  , "c3" : "2"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00190"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#190"
+ , "c5" : "00224"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#224"
  , "c1" : "Real"
  , "c2" : "getPosB(StringBounder)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00194"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#194"
+ , "c5" : "00228"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#228"
  , "c1" : "Participant"
  , "c2" : "getParticipant()"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00198"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#198"
+ , "c5" : "00232"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#232"
  , "c1" : "void"
  , "c2" : "goCreate(double)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00203"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#203"
+ , "c5" : "00237"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#237"
  , "c1" : "void"
  , "c2" : "goCreate()"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00207"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#207"
+ , "c5" : "00241"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#241"
  , "c1" : "void"
  , "c2" : "delayOn(double;double)"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00212"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#212"
+ , "c5" : "00246"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#246"
  , "c1" : "ParticipantEnglober"
  , "c2" : "getEnglober()"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00219"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#219"
+ , "c5" : "00253"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#253"
  , "c1" : "void"
  , "c2" : "ensureMarginBefore(double)"
  , "c3" : "2"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00225"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#225"
+ , "c5" : "00259"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#259"
  , "c1" : "void"
  , "c2" : "ensureMarginAfter(double)"
  , "c3" : "2"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00231"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#231"
+ , "c5" : "00265"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#265"
  , "c1" : "Real"
  , "c2" : "getPosA(StringBounder)"
  , "c3" : "1"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00235"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#235"
+ , "c5" : "00269"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#269"
  , "c1" : "Real"
  , "c2" : "getPosE(StringBounder)"
  , "c3" : "1"
@@ -294,325 +294,325 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#50"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method getLevelAt arguments Tile  tile|EventsHistoryMode  mode"
+ , "c3" : "QC-JAV000006[00084] For method getLevelAt arguments Tile  tile|EventsHistoryMode  mode"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#50"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#84"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00050] The argument tile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00084] The argument tile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#55"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#89"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method addStepForLivebox arguments Event  event|double  y"
+ , "c3" : "QC-JAV000006[00089] For method addStepForLivebox arguments Event  event|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.toString@POLYN181160 the MagicNumber/String  ' B=' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.toString@POLYN181364 the MagicNumber/String  ' B=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.toString@POLYN181160 the MagicNumber/String  '/C=' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.toString@POLYN181364 the MagicNumber/String  '/C=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.toString@POLYN181160 the MagicNumber/String  '/D=' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.toString@POLYN181364 the MagicNumber/String  '/D=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#64"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method currentValue arguments Real  pos"
+ , "c3" : "QC-JAV000006[00098] For method currentValue arguments Real  pos"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#65"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.currentValue@POLYN181491 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.currentValue@POLYN181695 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#66"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.currentValue@POLYN181491 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.currentValue@POLYN181695 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#68"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.currentValue@POLYN181491 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#112"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00112] For method useContinueLineBecauseOfDelay arguments List&lt;Event &gt;  events"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00118] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.useContinueLineBecauseOfDelay@POLYN184410 the MagicNumber/String  'lifelineStrategy' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.useContinueLineBecauseOfDelay@POLYN184410 the MagicNumber/String  'nosolid' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.useContinueLineBecauseOfDelay@POLYN184410 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.useContinueLineBecauseOfDelay@POLYN184410 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#122"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.useContinueLineBecauseOfDelay@POLYN184410 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#125"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00125] For method drawLineAndLiveboxes arguments UGraphic  ug|double  height|Context2D  context"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#130"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00130] For method drawHead arguments UGraphic  ug|Context2D  context|VerticalAlignment  verticalAlignment|HorizontalAlignment  horizontalAlignment"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#134"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00134] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.drawHead@POLYN185368 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.currentValue@POLYN181695 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#146"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.drawHead@POLYN185368 the MagicNumber/String  2 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00146] For method useContinueLineBecauseOfDelay arguments List&lt;Event &gt;  events"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#150"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.drawHead@POLYN185368 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00152] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#154"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.drawHead@POLYN185368 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.useContinueLineBecauseOfDelay@POLYN184614 the MagicNumber/String  'lifelineStrategy' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#148"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.useContinueLineBecauseOfDelay@POLYN184614 the MagicNumber/String  'nosolid' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#149"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.useContinueLineBecauseOfDelay@POLYN184614 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.useContinueLineBecauseOfDelay@POLYN184614 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.useContinueLineBecauseOfDelay@POLYN184614 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#159"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00159] For method getHeadPreferredDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00159] For method drawLineAndLiveboxes arguments UGraphic  ug|double  height|Context2D  context"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#160"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#164"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00164] For method drawHead arguments UGraphic  ug|Context2D  context|VerticalAlignment  verticalAlignment|HorizontalAlignment  horizontalAlignment"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#168"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00168] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.getHeadPreferredDimension@POLYN187109 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.drawHead@POLYN185572 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#166"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00166] For method getPreferredWidth arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#170"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00170] For method getPosC arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00171"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#171"
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.getPosC@POLYN187743 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.drawHead@POLYN185572 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#172"
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.getPosC@POLYN187743 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.drawHead@POLYN185572 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00177"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#177"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00177] For method getPosC2 arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00182"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#182"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00182] For method getPosD arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#183"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.getPosD@POLYN188368 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.drawHead@POLYN185572 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#190"
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#193"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00190] For method getPosB arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00193] For method getHeadPreferredDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#198"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00198] For method goCreate arguments double  y"
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.getHeadPreferredDimension@POLYN187313 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#200"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.goCreate@POLYN188878 the MagicNumber/String  true should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00200] For method getPreferredWidth arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#204"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00204] For method getPosC arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.goCreate@POLYN189071 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.getPosC@POLYN187947 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#207"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00207] For method delayOn arguments double  y|double  height"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00219"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#219"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00219] For method ensureMarginBefore arguments double  margin"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00220"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#220"
+ , "c1" : "00206"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.ensureMarginBefore@POLYN189618 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.getPosC@POLYN187947 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#225"
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#211"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00225] For method ensureMarginAfter arguments double  margin"
+ , "c3" : "QC-JAV000006[00211] For method getPosC2 arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#226"
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#216"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00216] For method getPosD arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.ensureMarginAfter@POLYN189916 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.getPosD@POLYN188572 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#231"
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#224"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00231] For method getPosA arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00224] For method getPosB arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00235"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#235"
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#232"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00235] For method getPosE arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00232] For method goCreate arguments double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#198"
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#234"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.goCreate@POLYN189082 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00238"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#238"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.goCreate@POLYN189275 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#241"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00241] For method delayOn arguments double  y|double  height"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#253"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00253] For method ensureMarginBefore arguments double  margin"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00254"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#254"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.ensureMarginBefore@POLYN189822 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#259"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00259] For method ensureMarginAfter arguments double  margin"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#260"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace.ensureMarginAfter@POLYN190120 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00265"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#265"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00265] For method getPosA arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00269"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#269"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00269] For method getPosE arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#232"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00198] Public method goCreate is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00232] Public method goCreate is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00203"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#203"
+ , "c1" : "00237"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#237"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00203] Public method goCreate is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00237] Public method goCreate is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

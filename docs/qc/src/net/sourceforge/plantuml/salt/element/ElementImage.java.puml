@@ -2,8 +2,8 @@
 !pragma layout smetana
 "AbstractElement" <|-- "net.sourceforge.plantuml.salt.element.ElementImage"
 class net.sourceforge.plantuml.salt.element.ElementImage {
-+ElementImage(List<String>) : ElementImage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementImage.java.html#16]]]
-+getPreferredDimension(StringBounder;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementImage.java.html#20]]]
-+drawU(UGraphic;int;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementImage.java.html#24]]]
++ElementImage(List<String>) : ElementImage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementImage.java.html#50]]]
++getPreferredDimension(StringBounder;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementImage.java.html#54]]]
++drawU(UGraphic;int;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementImage.java.html#58]]]
 } 
 @enduml

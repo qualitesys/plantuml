@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.png.PngSegment"
 class net.sourceforge.plantuml.png.PngSegment {
-+PngSegment(int;int) : PngSegment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngSegment.java.html#9]]]
-+getStart(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngSegment.java.html#14]]]
-+getLen(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngSegment.java.html#21]]]
++PngSegment(int;int) : PngSegment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngSegment.java.html#43]]]
++getStart(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngSegment.java.html#48]]]
++getLen(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngSegment.java.html#55]]]
 } 
 @enduml

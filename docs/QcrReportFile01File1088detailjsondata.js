@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.DisplayPositionned" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositionned.java.html#53"
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositionned.java.html#95"
  , "c1" : "Display"
  , "c2" : "getDisplay()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositionned.java.html#57"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositionned.java.html#99"
  , "c1" : "boolean"
  , "c2" : "isNull()"
  , "c3" : "1"
@@ -77,17 +77,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositionned.java.html#54"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositionned.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.cucadiagram.DisplayPositionned.getDisplay@POLYN147059 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.cucadiagram.DisplayPositionned.getDisplay@POLYN147059 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositionned.java.html#58"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositionned.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.cucadiagram.DisplayPositionned.isNull@POLYN147147 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.cucadiagram.DisplayPositionned.isNull@POLYN147147 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

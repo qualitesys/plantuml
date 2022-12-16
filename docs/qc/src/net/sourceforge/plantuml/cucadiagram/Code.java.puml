@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.Code"
 class net.sourceforge.plantuml.cucadiagram.Code {
-+getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Code.java.html#6]]]
-+eventuallyRemoveStartingAndEndingDoubleQuote(String) : Code [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Code.java.html#8]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Code.java.html#40]]]
++eventuallyRemoveStartingAndEndingDoubleQuote(String) : Code [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/Code.java.html#42]]]
 } 
 @enduml

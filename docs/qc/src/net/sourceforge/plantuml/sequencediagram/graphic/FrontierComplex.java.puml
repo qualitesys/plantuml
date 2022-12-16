@@ -2,12 +2,12 @@
 !pragma layout smetana
 "Frontier" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.FrontierComplex"
 class net.sourceforge.plantuml.sequencediagram.graphic.FrontierComplex {
-+create(double;int) : FrontierComplex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#11]]]
--FrontierComplex(double[]) : FrontierComplex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#19]]]
-+getFreeY(ParticipantRange) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#23]]]
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#34]]]
-+add(double;ParticipantRange) : FrontierComplex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#38]]]
-copy() : FrontierComplex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#47]]]
-mergeMax(FrontierComplex) : FrontierComplex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#51]]]
++create(double;int) : FrontierComplex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#45]]]
+-FrontierComplex(double[]) : FrontierComplex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#53]]]
++getFreeY(ParticipantRange) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#57]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#68]]]
++add(double;ParticipantRange) : FrontierComplex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#72]]]
+copy() : FrontierComplex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#81]]]
+mergeMax(FrontierComplex) : FrontierComplex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#85]]]
 } 
 @enduml

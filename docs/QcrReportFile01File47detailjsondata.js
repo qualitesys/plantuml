@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.aclib.gui.MOInteger" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#11"
+ , "c5" : "00017"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#17"
  , "c1" : "MOInteger"
  , "c2" : "MOInteger()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#15"
+ , "c5" : "00021"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#21"
  , "c1" : "MOInteger"
  , "c2" : "MOInteger(int)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#20"
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#26"
  , "c1" : "MOInteger"
  , "c2" : "MOInteger(int;int;int)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#28"
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#34"
  , "c1" : "void"
  , "c2" : "set(int)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#39"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#45"
  , "c1" : "String"
  , "c2" : "niceFormat(int)"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#54"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#60"
  , "c1" : "int"
  , "c2" : "get()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#59"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#65"
  , "c1" : "boolean"
  , "c2" : "checkRange(int)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#64"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#70"
  , "c1" : "boolean"
  , "c2" : "checkRange()"
  , "c3" : "1"
@@ -154,80 +154,80 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#24"
+ , "c1" : "00030"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method ext.plantuml.com.ctreber.aclib.gui.MOInteger.MOInteger@POLYN142428 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00030] In method ext.plantuml.com.ctreber.aclib.gui.MOInteger.MOInteger@POLYN142464 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#28"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#34"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method set arguments int  pInteger"
+ , "c3" : "QC-JAV000006[00034] For method set arguments int  pInteger"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#32"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.aclib.gui.MOInteger.set@POLYN142768 the MagicNumber/String  'Argument '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method ext.plantuml.com.ctreber.aclib.gui.MOInteger.set@POLYN142768 the MagicNumber/String  '' out of range [' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method ext.plantuml.com.ctreber.aclib.gui.MOInteger.set@POLYN142768 the MagicNumber/String  '; ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method ext.plantuml.com.ctreber.aclib.gui.MOInteger.set@POLYN142768 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method ext.plantuml.com.ctreber.aclib.gui.MOInteger.set@POLYN142804 the MagicNumber/String  'Argument '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00039"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#39"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method niceFormat arguments int  pInteger"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method ext.plantuml.com.ctreber.aclib.gui.MOInteger.niceFormat@POLYN143307 the MagicNumber/String  'Infinity' should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.aclib.gui.MOInteger.set@POLYN142804 the MagicNumber/String  '' out of range [' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#48"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method ext.plantuml.com.ctreber.aclib.gui.MOInteger.niceFormat@POLYN143307 the MagicNumber/String  '-Infinity' should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.aclib.gui.MOInteger.set@POLYN142804 the MagicNumber/String  '; ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#59"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#39"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.aclib.gui.MOInteger.set@POLYN142804 the MagicNumber/String  ']' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#45"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method checkRange arguments int  pInteger"
+ , "c3" : "QC-JAV000006[00045] For method niceFormat arguments int  pInteger"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.ctreber.aclib.gui.MOInteger.niceFormat@POLYN143343 the MagicNumber/String  'Infinity' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#54"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00054] In method ext.plantuml.com.ctreber.aclib.gui.MOInteger.niceFormat@POLYN143343 the MagicNumber/String  '-Infinity' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#65"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00065] For method checkRange arguments int  pInteger"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOInteger.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.aclib.gui.MOInteger.checkRange@POLYN144023"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.aclib.gui.MOInteger.checkRange@POLYN144059"
 }} 
 ]
 , 

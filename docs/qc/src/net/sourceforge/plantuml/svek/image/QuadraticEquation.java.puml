@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.svek.image.QuadraticEquation"
 class net.sourceforge.plantuml.svek.image.QuadraticEquation {
-+QuadraticEquation(double;double;double) : QuadraticEquation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/QuadraticEquation.java.html#10]]]
-+solve() : double[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/QuadraticEquation.java.html#16]]]
-+getV(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/QuadraticEquation.java.html#23]]]
++QuadraticEquation(double;double;double) : QuadraticEquation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/QuadraticEquation.java.html#44]]]
++solve() : double[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/QuadraticEquation.java.html#50]]]
++getV(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/QuadraticEquation.java.html#57]]]
 } 
 @enduml

@@ -2,7 +2,7 @@
 !pragma layout smetana
 "PSystemCommandFactory" <|-- "net.sourceforge.plantuml.statediagram.StateDiagramFactory"
 class net.sourceforge.plantuml.statediagram.StateDiagramFactory {
-+createEmptyDiagram(UmlSource;Map<String,String>) : StateDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagramFactory.java.html#35]]]
-createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagramFactory.java.html#40]]]
++createEmptyDiagram(UmlSource;Map<String,String>) : StateDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagramFactory.java.html#69]]]
+createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/StateDiagramFactory.java.html#74]]]
 } 
 @enduml

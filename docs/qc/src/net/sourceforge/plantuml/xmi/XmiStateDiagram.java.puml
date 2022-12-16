@@ -2,12 +2,12 @@
 !pragma layout smetana
 "XmlDiagramTransformer" <|-- "net.sourceforge.plantuml.xmi.XmiStateDiagram"
 class net.sourceforge.plantuml.xmi.XmiStateDiagram {
-+XmiStateDiagram(StateDiagram) : XmiStateDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiStateDiagram.java.html#36]]]
--addState(IEntity;Element) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiStateDiagram.java.html#86]]]
-+forXMI(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiStateDiagram.java.html#101]]]
-+forXMI(Display) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiStateDiagram.java.html#105]]]
--addLink(Link) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiStateDiagram.java.html#109]]]
--createEntityNode(IEntity) : Element [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiStateDiagram.java.html#163]]]
-+transformerXml(OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiStateDiagram.java.html#203]]]
++XmiStateDiagram(StateDiagram) : XmiStateDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiStateDiagram.java.html#70]]]
+-addState(IEntity;Element) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiStateDiagram.java.html#120]]]
++forXMI(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiStateDiagram.java.html#135]]]
++forXMI(Display) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiStateDiagram.java.html#139]]]
+-addLink(Link) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiStateDiagram.java.html#143]]]
+-createEntityNode(IEntity) : Element [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiStateDiagram.java.html#197]]]
++transformerXml(OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiStateDiagram.java.html#237]]]
 } 
 @enduml

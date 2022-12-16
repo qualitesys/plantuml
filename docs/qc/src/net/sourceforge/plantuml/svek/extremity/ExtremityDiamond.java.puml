@@ -2,10 +2,10 @@
 !pragma layout smetana
 "Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityDiamond"
 class net.sourceforge.plantuml.svek.extremity.ExtremityDiamond {
-+somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityDiamond.java.html#18]]]
-+ExtremityDiamond(XPoint2D;double;boolean) : ExtremityDiamond [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityDiamond.java.html#22]]]
-+getDeltaForKal() : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityDiamond.java.html#39]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityDiamond.java.html#43]]]
-+isTooSmallSoGiveThePointCloserToThisOne(XPoint2D) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityDiamond.java.html#53]]]
++somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityDiamond.java.html#52]]]
++ExtremityDiamond(XPoint2D;double;boolean) : ExtremityDiamond [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityDiamond.java.html#56]]]
++getDeltaForKal() : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityDiamond.java.html#73]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityDiamond.java.html#77]]]
++isTooSmallSoGiveThePointCloserToThisOne(XPoint2D) : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityDiamond.java.html#87]]]
 } 
 @enduml

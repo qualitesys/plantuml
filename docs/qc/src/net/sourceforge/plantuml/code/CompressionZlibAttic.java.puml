@@ -2,10 +2,10 @@
 !pragma layout smetana
 "Compression" <|-- "net.sourceforge.plantuml.code.CompressionZlibAttic"
 class net.sourceforge.plantuml.code.CompressionZlibAttic {
-+compress(byte[]) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionZlibAttic.java.html#15]]]
--tryCompress(byte[];int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionZlibAttic.java.html#31]]]
-+decompress(byte[]) : ByteArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionZlibAttic.java.html#45]]]
--tryDecompress(byte[];int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionZlibAttic.java.html#66]]]
--copyArray(byte[];int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionZlibAttic.java.html#89]]]
++compress(byte[]) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionZlibAttic.java.html#49]]]
+-tryCompress(byte[];int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionZlibAttic.java.html#65]]]
++decompress(byte[]) : ByteArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionZlibAttic.java.html#79]]]
+-tryDecompress(byte[];int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionZlibAttic.java.html#100]]]
+-copyArray(byte[];int) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/CompressionZlibAttic.java.html#123]]]
 } 
 @enduml

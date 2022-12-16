@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.google.zxing.common.reedsolomon.GF256" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#17"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#46"
  , "c1" : "GF256"
  , "c2" : "GF256(int)"
  , "c3" : "4"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#36"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#65"
  , "c1" : "GF256Poly"
  , "c2" : "getZero()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#40"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#69"
  , "c1" : "GF256Poly"
  , "c2" : "getOne()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#45"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#76"
  , "c1" : "GF256Poly"
  , "c2" : "buildMonomial(int;int)"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#58"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#93"
  , "c1" : "int"
  , "c2" : "addOrSubtract(int;int)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#63"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#100"
  , "c1" : "int"
  , "c2" : "exp(int)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#68"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#107"
  , "c1" : "int"
  , "c2" : "log(int)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#76"
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#117"
  , "c1" : "int"
  , "c2" : "inverse(int)"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#84"
+ , "c5" : "00129"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#129"
  , "c1" : "int"
  , "c2" : "multiply(int;int)"
  , "c3" : "2"
@@ -147,206 +147,206 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#18"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157061 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157331 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#19"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157061 the MagicNumber/String  256 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157061 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157061 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157061 the MagicNumber/String  256 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157061 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157061 the MagicNumber/String  0x100 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157061 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157061 the MagicNumber/String  255 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157061 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157061 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#45"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method buildMonomial arguments int  degree|int  coefficient"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.buildMonomial@POLYN158617 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157331 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.buildMonomial@POLYN158617 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157331 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157331 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157331 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.buildMonomial@POLYN158617 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157331 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.buildMonomial@POLYN158617 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157331 the MagicNumber/String  0x100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#58"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method addOrSubtract arguments int  a|int  b"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#63"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00063] For method exp arguments int  a"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#68"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00068] For method log arguments int  a"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#69"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.log@POLYN159755 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157331 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#57"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00057] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157331 the MagicNumber/String  255 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#61"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00061] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157331 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.GF256@POLYN157331 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method inverse arguments int  a"
+ , "c3" : "QC-JAV000006[00076] For method buildMonomial arguments int  degree|int  coefficient"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.inverse@POLYN160053 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.buildMonomial@POLYN158887 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.inverse@POLYN160053 the MagicNumber/String  255 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.buildMonomial@POLYN158887 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#83"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00083] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.buildMonomial@POLYN158887 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#84"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00084] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.buildMonomial@POLYN158887 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00084] For method multiply arguments int  a|int  b"
+ , "c3" : "QC-JAV000006[00093] For method addOrSubtract arguments int  a|int  b"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.multiply@POLYN160452 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#100"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00100] For method exp arguments int  a"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.multiply@POLYN160452 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#107"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00107] For method log arguments int  a"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#86"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.multiply@POLYN160452 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.log@POLYN160025 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.multiply@POLYN160452 the MagicNumber/String  0xFF should be converted to const"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#117"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00117] For method inverse arguments int  a"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#91"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.multiply@POLYN160452 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.inverse@POLYN160323 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#121"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00121] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.inverse@POLYN160323 the MagicNumber/String  255 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#129"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00129] For method multiply arguments int  a|int  b"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.multiply@POLYN160722 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.multiply@POLYN160722 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.multiply@POLYN160722 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#136"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00136] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.multiply@POLYN160722 the MagicNumber/String  0xFF should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256.java.html#136"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00136] In method ext.plantuml.com.google.zxing.common.reedsolomon.GF256.multiply@POLYN160722 the MagicNumber/String  8 should be converted to const"
 }} 
 ]
 , 

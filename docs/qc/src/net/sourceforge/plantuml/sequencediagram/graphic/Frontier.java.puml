@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.Frontier"
 class net.sourceforge.plantuml.sequencediagram.graphic.Frontier {
-getFreeY(ParticipantRange) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Frontier.java.html#7]]]
-add(double;ParticipantRange) : Frontier [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Frontier.java.html#9]]]
+getFreeY(ParticipantRange) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Frontier.java.html#41]]]
+add(double;ParticipantRange) : Frontier [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Frontier.java.html#43]]]
 } 
 @enduml

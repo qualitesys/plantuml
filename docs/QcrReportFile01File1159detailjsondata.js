@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.dedication.Dedication" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/Dedication.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/Dedication.java.html#49"
  , "c1" : "BufferedImage"
  , "c2" : "getImage(TinyHashableString)"
  , "c3" : "1"

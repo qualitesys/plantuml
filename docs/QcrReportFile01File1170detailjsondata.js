@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.dedication.TinyHashableString" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/TinyHashableString.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/TinyHashableString.java.html#45"
  , "c1" : "TinyHashableString"
  , "c2" : "TinyHashableString(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/TinyHashableString.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/TinyHashableString.java.html#49"
  , "c1" : "String"
  , "c2" : "getSentence()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/TinyHashableString.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/dedication/TinyHashableString.java.html#53"
  , "c1" : "int"
  , "c2" : "tinyHash()"
  , "c3" : "2"
@@ -93,17 +93,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/TinyHashableString.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/TinyHashableString.java.html#53"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00019] Lock statement on synchronized method tinyHash"
+ , "c3" : "QC-JAV000019[00053] Lock statement on synchronized method tinyHash"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/TinyHashableString.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/TinyHashableString.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.dedication.TinyHashableString.tinyHash@POLYN146877 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.dedication.TinyHashableString.tinyHash@POLYN147081 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

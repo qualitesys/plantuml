@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.dotgen.acyclic__c"
 class gen.lib.dotgen.acyclic__c {
-+reverse_edge(ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/acyclic__c.java.html#32]]]
-+dfs(ST_Agnode_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/acyclic__c.java.html#51]]]
-+acyclic_(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/acyclic__c.java.html#83]]]
++reverse_edge(ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/acyclic__c.java.html#76]]]
++dfs(ST_Agnode_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/acyclic__c.java.html#95]]]
++acyclic_(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/acyclic__c.java.html#127]]]
 } 
 @enduml

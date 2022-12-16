@@ -2,16 +2,16 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.Pragma"
 class net.sourceforge.plantuml.Pragma {
-+define(String;String) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#11]]]
-+isDefine(String) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#15]]]
-+undefine(String) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#19]]]
-+getValue(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#23]]]
-+horizontalLineBetweenDifferentPackageAllowed() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#27]]]
-+backToLegacyPackage() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#31]]]
-+useNewPackage() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#35]]]
--isTrue(String) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#39]]]
-+useVerticalIf() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#43]]]
-+useTeozLayout() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#47]]]
-+useKermor() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#51]]]
++define(String;String) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#45]]]
++isDefine(String) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#49]]]
++undefine(String) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#53]]]
++getValue(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#57]]]
++horizontalLineBetweenDifferentPackageAllowed() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#61]]]
++backToLegacyPackage() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#65]]]
++useNewPackage() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#69]]]
+-isTrue(String) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#73]]]
++useVerticalIf() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#77]]]
++useTeozLayout() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#81]]]
++useKermor() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Pragma.java.html#85]]]
 } 
 @enduml

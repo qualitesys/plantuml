@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingSpace" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#49"
  , "c1" : "Style[]"
  , "c2" : "getUsedStyles()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#53"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "getStyleSignature()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#59"
  , "c1" : "ComponentRoseGroupingSpace"
  , "c2" : "ComponentRoseGroupingSpace(double)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#63"
  , "c1" : "double"
  , "c2" : "getPreferredWidth(StringBounder)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#67"
  , "c1" : "double"
  , "c2" : "getPreferredHeight(StringBounder)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#71"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic;Area;Context2D)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#74"
  , "c1" : "XDimension2D"
  , "c2" : "getPreferredDimension(StringBounder)"
  , "c3" : "1"
@@ -143,52 +143,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method getPreferredWidth arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00063] For method getPreferredWidth arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingSpace.getPreferredWidth@POLYN150382 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingSpace.getPreferredWidth@POLYN150586 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method getPreferredHeight arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00067] For method getPreferredHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#71"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method drawU arguments UGraphic  ug|Area  area|Context2D  context"
+ , "c3" : "QC-JAV000006[00071] For method drawU arguments UGraphic  ug|Area  area|Context2D  context"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method getPreferredDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00074] For method getPreferredDimension arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#71"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00037] Void method drawU is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00071] Void method drawU is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#71"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00037] Void method drawU is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00071] Void method drawU is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

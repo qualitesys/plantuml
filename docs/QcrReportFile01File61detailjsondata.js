@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.google.zxing.Writer" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/Writer.java.html#13"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/Writer.java.html#37"
  , "c1" : "BitMatrix"
  , "c2" : "encode(String;BarcodeFormat;int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/Writer.java.html#17"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/Writer.java.html#47"
  , "c1" : "BitMatrix"
  , "c2" : "encode(String;BarcodeFormat;int;Hashtable)"
  , "c3" : "1"

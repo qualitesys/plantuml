@@ -2,10 +2,10 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.descdiagram.BoxedCharacter"
 class net.sourceforge.plantuml.descdiagram.BoxedCharacter {
-+BoxedCharacter(char;double;UFont;HColor;HColor;HColor) : BoxedCharacter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/BoxedCharacter.java.html#25]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/BoxedCharacter.java.html#34]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/BoxedCharacter.java.html#49]]]
-+getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/BoxedCharacter.java.html#53]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/BoxedCharacter.java.html#57]]]
++BoxedCharacter(char;double;UFont;HColor;HColor;HColor) : BoxedCharacter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/BoxedCharacter.java.html#59]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/BoxedCharacter.java.html#68]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/BoxedCharacter.java.html#83]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/BoxedCharacter.java.html#87]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/BoxedCharacter.java.html#91]]]
 } 
 @enduml

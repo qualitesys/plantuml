@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.cgraph.subg__c"
 class gen.lib.cgraph.subg__c {
-+agfindsubg_by_id(ST_Agraph_s;int) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/subg__c.java.html#32]]]
-+localsubg(ST_Agraph_s;int) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/subg__c.java.html#51]]]
-+agsubg(ST_Agraph_s;CString;boolean) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/subg__c.java.html#78]]]
-+agfstsubg(ST_Agraph_s) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/subg__c.java.html#109]]]
-+agnxtsubg(ST_Agraph_s) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/subg__c.java.html#123]]]
-+agparent(ST_Agraph_s) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/subg__c.java.html#140]]]
++agfindsubg_by_id(ST_Agraph_s;int) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/subg__c.java.html#76]]]
++localsubg(ST_Agraph_s;int) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/subg__c.java.html#95]]]
++agsubg(ST_Agraph_s;CString;boolean) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/subg__c.java.html#122]]]
++agfstsubg(ST_Agraph_s) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/subg__c.java.html#153]]]
++agnxtsubg(ST_Agraph_s) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/subg__c.java.html#167]]]
++agparent(ST_Agraph_s) : ST_Agraph_s [[[./../../../../.././qc/src/gen/lib/cgraph/subg__c.java.html#184]]]
 } 
 @enduml

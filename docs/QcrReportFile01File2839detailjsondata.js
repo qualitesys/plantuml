@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "org.stathissideris.ascii2image.text.TextGrid" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#69"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#91"
  , "c1" : "void"
  , "c2" : "addToMarkupTags(Collection<String>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#75"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#97"
  , "c1" : "TextGrid"
  , "c2" : "TextGrid()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00079"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#79"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#101"
  , "c1" : "TextGrid"
  , "c2" : "TextGrid(int;int)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#86"
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#108"
  , "c1" : "TextGrid"
  , "c2" : "makeSameSizeAs(TextGrid)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#91"
+ , "c5" : "00113"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#113"
  , "c1" : "TextGrid"
  , "c2" : "TextGrid(TextGrid)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00098"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#98"
+ , "c5" : "00120"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#120"
  , "c1" : "void"
  , "c2" : "clear()"
  , "c3" : "2"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#107"
+ , "c5" : "00129"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#129"
  , "c1" : "char"
  , "c2" : "get(int;int)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00116"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#116"
+ , "c5" : "00138"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#138"
  , "c1" : "char"
  , "c2" : "get(Cell)"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00124"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#124"
+ , "c5" : "00146"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#146"
  , "c1" : "StringBuffer"
  , "c2" : "getRow(int)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00128"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#128"
+ , "c5" : "00150"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#150"
  , "c1" : "TextGrid"
  , "c2" : "getSubGrid(int;int;int;int)"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00136"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#136"
+ , "c5" : "00158"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#158"
  , "c1" : "TextGrid"
  , "c2" : "getTestingSubGrid(Cell)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00141"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#141"
+ , "c5" : "00163"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#163"
  , "c1" : "String"
  , "c2" : "getStringAt(int;int;int)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00145"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#145"
+ , "c5" : "00167"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#167"
  , "c1" : "String"
  , "c2" : "getStringAt(Cell;int)"
  , "c3" : "2"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00155"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#155"
+ , "c5" : "00177"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#177"
  , "c1" : "char"
  , "c2" : "getNorthOf(int;int)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00156"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#156"
+ , "c5" : "00178"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#178"
  , "c1" : "char"
  , "c2" : "getSouthOf(int;int)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00157"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#157"
+ , "c5" : "00179"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#179"
  , "c1" : "char"
  , "c2" : "getEastOf(int;int)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00158"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#158"
+ , "c5" : "00180"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#180"
  , "c1" : "char"
  , "c2" : "getWestOf(int;int)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00160"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#160"
+ , "c5" : "00182"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#182"
  , "c1" : "char"
  , "c2" : "getNorthOf(Cell)"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00161"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#161"
+ , "c5" : "00183"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#183"
  , "c1" : "char"
  , "c2" : "getSouthOf(Cell)"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00162"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#162"
+ , "c5" : "00184"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#184"
  , "c1" : "char"
  , "c2" : "getEastOf(Cell)"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00163"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#163"
+ , "c5" : "00185"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#185"
  , "c1" : "char"
  , "c2" : "getWestOf(Cell)"
  , "c3" : "1"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00165"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#165"
+ , "c5" : "00187"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#187"
  , "c1" : "void"
  , "c2" : "writeStringTo(int;int;String)"
  , "c3" : "1"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00169"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#169"
+ , "c5" : "00191"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#191"
  , "c1" : "void"
  , "c2" : "writeStringTo(Cell;String)"
  , "c3" : "2"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00174"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#174"
+ , "c5" : "00196"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#196"
  , "c1" : "void"
  , "c2" : "set(Cell;char)"
  , "c3" : "1"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00178"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#178"
+ , "c5" : "00200"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#200"
  , "c1" : "void"
  , "c2" : "set(int;int;char)"
  , "c3" : "2"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00184"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#184"
+ , "c5" : "00206"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#206"
  , "c1" : "void"
  , "c2" : "setRow(int;String)"
  , "c3" : "2"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00190"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#190"
+ , "c5" : "00212"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#212"
  , "c1" : "void"
  , "c2" : "setRow(int;StringBuffer)"
  , "c3" : "2"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00196"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#196"
+ , "c5" : "00218"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#218"
  , "c1" : "int"
  , "c2" : "getWidth()"
  , "c3" : "2"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00201"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#201"
+ , "c5" : "00223"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#223"
  , "c1" : "int"
  , "c2" : "getHeight()"
  , "c3" : "1"
@@ -279,8 +279,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00205"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#205"
+ , "c5" : "00227"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#227"
  , "c1" : "void"
  , "c2" : "printDebug()"
  , "c3" : "3"
@@ -288,8 +288,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00220"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#220"
+ , "c5" : "00242"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#242"
  , "c1" : "String"
  , "c2" : "getDebugString()"
  , "c3" : "3"
@@ -297,8 +297,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00239"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#239"
+ , "c5" : "00261"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#261"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -306,8 +306,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00244"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#244"
+ , "c5" : "00273"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#273"
  , "c1" : "boolean"
  , "c2" : "add(TextGrid)"
  , "c3" : "5"
@@ -315,8 +315,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00258"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#258"
+ , "c5" : "00292"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#292"
  , "c1" : "void"
  , "c2" : "replaceTypeOnLine()"
  , "c3" : "12"
@@ -324,8 +324,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00282"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#282"
+ , "c5" : "00316"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#316"
  , "c1" : "void"
  , "c2" : "replacePointMarkersOnLine()"
  , "c3" : "16"
@@ -333,8 +333,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00319"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#319"
+ , "c5" : "00353"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#353"
  , "c1" : "CellSet"
  , "c2" : "getPointMarkersOnLine()"
  , "c3" : "4"
@@ -342,8 +342,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00336"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#336"
+ , "c5" : "00370"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#370"
  , "c1" : "void"
  , "c2" : "replaceHumanColorCodes()"
  , "c3" : "4"
@@ -351,8 +351,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00357"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#357"
+ , "c5" : "00396"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#396"
  , "c1" : "void"
  , "c2" : "replaceAll(char;char)"
  , "c3" : "4"
@@ -360,8 +360,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00368"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#368"
+ , "c5" : "00407"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#407"
  , "c1" : "boolean"
  , "c2" : "hasBlankCells()"
  , "c3" : "4"
@@ -369,8 +369,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00382"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#382"
+ , "c5" : "00421"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#421"
  , "c1" : "CellSet"
  , "c2" : "getAllNonBlank()"
  , "c3" : "4"
@@ -378,8 +378,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00395"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#395"
+ , "c5" : "00434"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#434"
  , "c1" : "CellSet"
  , "c2" : "getAllBoundaries()"
  , "c3" : "4"
@@ -387,8 +387,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00409"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#409"
+ , "c5" : "00448"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#448"
  , "c1" : "CellSet"
  , "c2" : "getAllBlanksBetweenCharacters()"
  , "c3" : "4"
@@ -396,8 +396,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00424"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#424"
+ , "c5" : "00471"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#471"
  , "c1" : "ArrayList<CellStringPair>"
  , "c2" : "findStrings()"
  , "c3" : "6"
@@ -405,8 +405,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00451"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#451"
+ , "c5" : "00505"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#505"
  , "c1" : "boolean"
  , "c2" : "hasEntryPoint(Cell;int)"
  , "c3" : "16"
@@ -414,8 +414,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00482"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#482"
+ , "c5" : "00542"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#542"
  , "c1" : "boolean"
  , "c2" : "isBlankBetweenCharacters(Cell)"
  , "c3" : "1"
@@ -423,8 +423,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00489"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#489"
+ , "c5" : "00552"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#552"
  , "c1" : "void"
  , "c2" : "removeNonText()"
  , "c3" : "1"
@@ -432,8 +432,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00499"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#499"
+ , "c5" : "00562"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#562"
  , "c1" : "void"
  , "c2" : "removeArrowheads()"
  , "c3" : "4"
@@ -441,8 +441,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00510"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#510"
+ , "c5" : "00573"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#573"
  , "c1" : "void"
  , "c2" : "removeColorCodes()"
  , "c3" : "2"
@@ -450,8 +450,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00521"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#521"
+ , "c5" : "00584"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#584"
  , "c1" : "void"
  , "c2" : "removeBoundaries()"
  , "c3" : "5"
@@ -459,8 +459,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00543"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#543"
+ , "c5" : "00606"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#606"
  , "c1" : "ArrayList"
  , "c2" : "findArrowheads()"
  , "c3" : "5"
@@ -468,8 +468,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00558"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#558"
+ , "c5" : "00621"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#621"
  , "c1" : "ArrayList<CellColorPair>"
  , "c2" : "findColorCodes()"
  , "c3" : "5"
@@ -477,8 +477,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00583"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#583"
+ , "c5" : "00646"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#646"
  , "c1" : "ArrayList<CellTagPair>"
  , "c2" : "findMarkupTags()"
  , "c3" : "7"
@@ -486,8 +486,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00609"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#609"
+ , "c5" : "00672"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#672"
  , "c1" : "void"
  , "c2" : "removeMarkupTags()"
  , "c3" : "3"
@@ -495,8 +495,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00622"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#622"
+ , "c5" : "00685"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#685"
  , "c1" : "boolean"
  , "c2" : "matchesAny(GridPatternGroup)"
  , "c3" : "1"
@@ -504,127 +504,10 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00626"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#626"
+ , "c5" : "00689"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#689"
  , "c1" : "boolean"
  , "c2" : "matchesAll(GridPatternGroup)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00630"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#630"
- , "c1" : "boolean"
- , "c2" : "matches(GridPattern)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00635"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#635"
- , "c1" : "boolean"
- , "c2" : "isOnHorizontalLine(Cell)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00636"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#636"
- , "c1" : "boolean"
- , "c2" : "isOnHorizontalLine(int;int)"
- , "c3" : "2"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00643"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#643"
- , "c1" : "boolean"
- , "c2" : "isOnVerticalLine(Cell)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00644"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#644"
- , "c1" : "boolean"
- , "c2" : "isOnVerticalLine(int;int)"
- , "c3" : "2"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00652"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#652"
- , "c1" : "boolean"
- , "c2" : "isBoundary(char)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00655"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#655"
- , "c1" : "boolean"
- , "c2" : "isBoundary(int;int)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00656"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#656"
- , "c1" : "boolean"
- , "c2" : "isBoundary(Cell)"
- , "c3" : "6"
- , "c4" : "6"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00676"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#676"
- , "c1" : "boolean"
- , "c2" : "isLine(Cell)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00680"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#680"
- , "c1" : "boolean"
- , "c2" : "isHorizontalLine(char)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00683"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#683"
- , "c1" : "boolean"
- , "c2" : "isHorizontalLine(Cell)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00684"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#684"
- , "c1" : "boolean"
- , "c2" : "isHorizontalLine(int;int)"
- , "c3" : "2"
- , "c4" : "3"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00690"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#690"
- , "c1" : "boolean"
- , "c2" : "isVerticalLine(char)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -633,52 +516,52 @@ var maDataBlocs = {
  , "c5" : "00693"
  , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#693"
  , "c1" : "boolean"
- , "c2" : "isVerticalLine(Cell)"
+ , "c2" : "matches(GridPattern)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00694"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#694"
+ , "c5" : "00698"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#698"
  , "c1" : "boolean"
- , "c2" : "isVerticalLine(int;int)"
+ , "c2" : "isOnHorizontalLine(Cell)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00699"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#699"
+ , "c1" : "boolean"
+ , "c2" : "isOnHorizontalLine(int;int)"
  , "c3" : "2"
- , "c4" : "3"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00700"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#700"
+ , "c5" : "00706"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#706"
  , "c1" : "boolean"
- , "c2" : "isLinesEnd(int;int)"
+ , "c2" : "isOnVerticalLine(Cell)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00705"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#705"
+ , "c5" : "00707"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#707"
  , "c1" : "boolean"
- , "c2" : "isLinesEnd(Cell)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c2" : "isOnVerticalLine(int;int)"
+ , "c3" : "2"
+ , "c4" : "4"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00709"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#709"
+ , "c5" : "00715"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#715"
  , "c1" : "boolean"
- , "c2" : "isVerticalLinesEnd(Cell)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00713"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#713"
- , "c1" : "boolean"
- , "c2" : "isHorizontalLinesEnd(Cell)"
+ , "c2" : "isBoundary(char)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -687,124 +570,124 @@ var maDataBlocs = {
  , "c5" : "00718"
  , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#718"
  , "c1" : "boolean"
- , "c2" : "isPointCell(Cell)"
+ , "c2" : "isBoundary(int;int)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00727"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#727"
+ , "c5" : "00719"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#719"
  , "c1" : "boolean"
- , "c2" : "containsAtLeastOneDashedLine(CellSet)"
- , "c3" : "3"
- , "c4" : "4"
+ , "c2" : "isBoundary(Cell)"
+ , "c3" : "6"
+ , "c4" : "6"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00736"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#736"
+ , "c5" : "00739"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#739"
  , "c1" : "boolean"
- , "c2" : "exactlyOneNeighbourIsBoundary(Cell)"
- , "c3" : "5"
- , "c4" : "6"
+ , "c2" : "isLine(Cell)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00743"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#743"
+ , "c1" : "boolean"
+ , "c2" : "isHorizontalLine(char)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00746"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#746"
+ , "c1" : "boolean"
+ , "c2" : "isHorizontalLine(Cell)"
+ , "c3" : "1"
+ , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00747"
  , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#747"
  , "c1" : "boolean"
- , "c2" : "isStub(Cell)"
+ , "c2" : "isHorizontalLine(int;int)"
+ , "c3" : "2"
+ , "c4" : "3"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00753"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#753"
+ , "c1" : "boolean"
+ , "c2" : "isVerticalLine(char)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00751"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#751"
+ , "c5" : "00756"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#756"
  , "c1" : "boolean"
- , "c2" : "isCrossOnLine(Cell)"
+ , "c2" : "isVerticalLine(Cell)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00755"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#755"
+ , "c5" : "00757"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#757"
  , "c1" : "boolean"
- , "c2" : "isHorizontalCrossOnLine(Cell)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00759"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#759"
- , "c1" : "boolean"
- , "c2" : "isVerticalCrossOnLine(Cell)"
- , "c3" : "1"
- , "c4" : "1"
+ , "c2" : "isVerticalLine(int;int)"
+ , "c3" : "2"
+ , "c4" : "3"
 }} 
 ,
 { "ligne" : { "" : ""
  , "c5" : "00763"
  , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#763"
  , "c1" : "boolean"
- , "c2" : "isStarOnLine(Cell)"
+ , "c2" : "isLinesEnd(int;int)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00767"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#767"
+ , "c5" : "00773"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#773"
  , "c1" : "boolean"
- , "c2" : "isLoneDiagonal(Cell)"
+ , "c2" : "isLinesEnd(Cell)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00772"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#772"
+ , "c5" : "00777"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#777"
  , "c1" : "boolean"
- , "c2" : "isHorizontalStarOnLine(Cell)"
+ , "c2" : "isVerticalLinesEnd(Cell)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00776"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#776"
+ , "c5" : "00781"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#781"
  , "c1" : "boolean"
- , "c2" : "isVerticalStarOnLine(Cell)"
+ , "c2" : "isHorizontalLinesEnd(Cell)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00780"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#780"
+ , "c5" : "00786"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#786"
  , "c1" : "boolean"
- , "c2" : "isArrowhead(Cell)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00787"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#787"
- , "c1" : "boolean"
- , "c2" : "isNorthArrowhead(Cell)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00791"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#791"
- , "c1" : "boolean"
- , "c2" : "isEastArrowhead(Cell)"
+ , "c2" : "isPointCell(Cell)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -813,14 +696,131 @@ var maDataBlocs = {
  , "c5" : "00795"
  , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#795"
  , "c1" : "boolean"
+ , "c2" : "containsAtLeastOneDashedLine(CellSet)"
+ , "c3" : "3"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00804"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#804"
+ , "c1" : "boolean"
+ , "c2" : "exactlyOneNeighbourIsBoundary(Cell)"
+ , "c3" : "5"
+ , "c4" : "6"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00828"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#828"
+ , "c1" : "boolean"
+ , "c2" : "isStub(Cell)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00832"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#832"
+ , "c1" : "boolean"
+ , "c2" : "isCrossOnLine(Cell)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00836"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#836"
+ , "c1" : "boolean"
+ , "c2" : "isHorizontalCrossOnLine(Cell)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00840"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#840"
+ , "c1" : "boolean"
+ , "c2" : "isVerticalCrossOnLine(Cell)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00844"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#844"
+ , "c1" : "boolean"
+ , "c2" : "isStarOnLine(Cell)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00848"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#848"
+ , "c1" : "boolean"
+ , "c2" : "isLoneDiagonal(Cell)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00853"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#853"
+ , "c1" : "boolean"
+ , "c2" : "isHorizontalStarOnLine(Cell)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00857"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#857"
+ , "c1" : "boolean"
+ , "c2" : "isVerticalStarOnLine(Cell)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00861"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#861"
+ , "c1" : "boolean"
+ , "c2" : "isArrowhead(Cell)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00868"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#868"
+ , "c1" : "boolean"
+ , "c2" : "isNorthArrowhead(Cell)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00872"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#872"
+ , "c1" : "boolean"
+ , "c2" : "isEastArrowhead(Cell)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00876"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#876"
+ , "c1" : "boolean"
  , "c2" : "isWestArrowhead(Cell)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00799"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#799"
+ , "c5" : "00880"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#880"
  , "c1" : "boolean"
  , "c2" : "isSouthArrowhead(Cell)"
  , "c3" : "1"
@@ -828,8 +828,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00816"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#816"
+ , "c5" : "00897"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#897"
  , "c1" : "boolean"
  , "c2" : "isBullet(int;int)"
  , "c3" : "1"
@@ -837,8 +837,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00820"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#820"
+ , "c5" : "00901"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#901"
  , "c1" : "boolean"
  , "c2" : "isBullet(Cell)"
  , "c3" : "2"
@@ -846,8 +846,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00830"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#830"
+ , "c5" : "00911"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#911"
  , "c1" : "void"
  , "c2" : "replaceBullets()"
  , "c3" : "4"
@@ -855,8 +855,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00845"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#845"
+ , "c5" : "00932"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#932"
  , "c1" : "boolean"
  , "c2" : "isStringsStart(Cell)"
  , "c3" : "1"
@@ -864,8 +864,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00850"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#850"
+ , "c5" : "00943"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#943"
  , "c1" : "boolean"
  , "c2" : "isStringsEnd(Cell)"
  , "c3" : "1"
@@ -873,8 +873,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00856"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#856"
+ , "c5" : "00949"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#949"
  , "c1" : "int"
  , "c2" : "otherStringsStartInTheSameColumn(Cell)"
  , "c3" : "4"
@@ -882,8 +882,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00869"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#869"
+ , "c5" : "00962"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#962"
  , "c1" : "int"
  , "c2" : "otherStringsEndInTheSameColumn(Cell)"
  , "c3" : "4"
@@ -891,8 +891,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00882"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#882"
+ , "c5" : "00975"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#975"
  , "c1" : "boolean"
  , "c2" : "isColumnBlank(int)"
  , "c3" : "3"
@@ -900,8 +900,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00891"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#891"
+ , "c5" : "00984"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#984"
  , "c1" : "CellSet"
  , "c2" : "followLine(int;int)"
  , "c3" : "1"
@@ -909,8 +909,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00895"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#895"
+ , "c5" : "00988"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#988"
  , "c1" : "CellSet"
  , "c2" : "followIntersection(Cell)"
  , "c3" : "1"
@@ -918,8 +918,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00899"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#899"
+ , "c5" : "00992"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#992"
  , "c1" : "CellSet"
  , "c2" : "followIntersection(Cell;Cell)"
  , "c3" : "7"
@@ -927,8 +927,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00915"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#915"
+ , "c5" : "01014"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1014"
  , "c1" : "CellSet"
  , "c2" : "followLine(Cell)"
  , "c3" : "8"
@@ -936,8 +936,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00930"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#930"
+ , "c5" : "01029"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1029"
  , "c1" : "CellSet"
  , "c2" : "followLine(Cell;Cell)"
  , "c3" : "2"
@@ -945,8 +945,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00936"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#936"
+ , "c5" : "01035"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1035"
  , "c1" : "CellSet"
  , "c2" : "followCorner(Cell)"
  , "c3" : "1"
@@ -954,8 +954,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00940"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#940"
+ , "c5" : "01039"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1039"
  , "c1" : "CellSet"
  , "c2" : "followCorner(Cell;Cell)"
  , "c3" : "6"
@@ -963,8 +963,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00949"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#949"
+ , "c5" : "01048"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1048"
  , "c1" : "CellSet"
  , "c2" : "followCorner1(Cell)"
  , "c3" : "1"
@@ -972,8 +972,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00952"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#952"
+ , "c5" : "01051"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1051"
  , "c1" : "CellSet"
  , "c2" : "followCorner1(Cell;Cell)"
  , "c3" : "4"
@@ -981,8 +981,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00960"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#960"
+ , "c5" : "01059"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1059"
  , "c1" : "CellSet"
  , "c2" : "followCorner2(Cell)"
  , "c3" : "1"
@@ -990,8 +990,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00963"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#963"
+ , "c5" : "01062"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1062"
  , "c1" : "CellSet"
  , "c2" : "followCorner2(Cell;Cell)"
  , "c3" : "4"
@@ -999,8 +999,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00971"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#971"
+ , "c5" : "01070"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1070"
  , "c1" : "CellSet"
  , "c2" : "followCorner3(Cell)"
  , "c3" : "1"
@@ -1008,8 +1008,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00974"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#974"
+ , "c5" : "01073"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1073"
  , "c1" : "CellSet"
  , "c2" : "followCorner3(Cell;Cell)"
  , "c3" : "4"
@@ -1017,8 +1017,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00982"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#982"
+ , "c5" : "01081"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1081"
  , "c1" : "CellSet"
  , "c2" : "followCorner4(Cell)"
  , "c3" : "1"
@@ -1026,8 +1026,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00985"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#985"
+ , "c5" : "01084"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1084"
  , "c1" : "CellSet"
  , "c2" : "followCorner4(Cell;Cell)"
  , "c3" : "4"
@@ -1035,8 +1035,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00994"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#994"
+ , "c5" : "01093"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1093"
  , "c1" : "CellSet"
  , "c2" : "followStub(Cell)"
  , "c3" : "1"
@@ -1044,8 +1044,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00997"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#997"
+ , "c5" : "01096"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1096"
  , "c1" : "CellSet"
  , "c2" : "followStub(Cell;Cell)"
  , "c3" : "10"
@@ -1053,8 +1053,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01008"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1008"
+ , "c5" : "01107"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1107"
  , "c1" : "CellSet"
  , "c2" : "followCell(Cell)"
  , "c3" : "1"
@@ -1062,8 +1062,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01012"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1012"
+ , "c5" : "01111"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1111"
  , "c1" : "CellSet"
  , "c2" : "followCell(Cell;Cell)"
  , "c3" : "6"
@@ -1071,8 +1071,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01024"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1024"
+ , "c5" : "01123"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1123"
  , "c1" : "String"
  , "c2" : "getCellTypeAsString(Cell)"
  , "c3" : "12"
@@ -1080,8 +1080,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01040"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1040"
+ , "c5" : "01139"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1139"
  , "c1" : "CellSet"
  , "c2" : "followCrossOnLine(Cell;Cell)"
  , "c3" : "5"
@@ -1089,8 +1089,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01053"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1053"
+ , "c5" : "01152"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1152"
  , "c1" : "boolean"
  , "c2" : "isOutOfBounds(Cell)"
  , "c3" : "2"
@@ -1098,8 +1098,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01061"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1061"
+ , "c5" : "01160"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1160"
  , "c1" : "boolean"
  , "c2" : "isOutOfBounds(int;int)"
  , "c3" : "2"
@@ -1107,8 +1107,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01067"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1067"
+ , "c5" : "01166"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1166"
  , "c1" : "boolean"
  , "c2" : "isBlank(Cell)"
  , "c3" : "2"
@@ -1116,8 +1116,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01073"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1073"
+ , "c5" : "01172"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1172"
  , "c1" : "boolean"
  , "c2" : "isBlank(int;int)"
  , "c3" : "2"
@@ -1125,8 +1125,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01079"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1079"
+ , "c5" : "01178"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1178"
  , "c1" : "boolean"
  , "c2" : "isCorner(Cell)"
  , "c3" : "1"
@@ -1134,8 +1134,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01082"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1082"
+ , "c5" : "01181"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1181"
  , "c1" : "boolean"
  , "c2" : "isCorner(int;int)"
  , "c3" : "1"
@@ -1143,8 +1143,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01087"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1087"
+ , "c5" : "01186"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1186"
  , "c1" : "boolean"
  , "c2" : "matchesAny(Cell;GridPatternGroup)"
  , "c3" : "1"
@@ -1152,8 +1152,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01092"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1092"
+ , "c5" : "01191"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1191"
  , "c1" : "boolean"
  , "c2" : "isCorner1(Cell)"
  , "c3" : "1"
@@ -1161,8 +1161,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01096"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1096"
+ , "c5" : "01195"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1195"
  , "c1" : "boolean"
  , "c2" : "isCorner2(Cell)"
  , "c3" : "1"
@@ -1170,8 +1170,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01100"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1100"
+ , "c5" : "01199"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1199"
  , "c1" : "boolean"
  , "c2" : "isCorner3(Cell)"
  , "c3" : "1"
@@ -1179,8 +1179,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01104"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1104"
+ , "c5" : "01203"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1203"
  , "c1" : "boolean"
  , "c2" : "isCorner4(Cell)"
  , "c3" : "1"
@@ -1188,8 +1188,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01108"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1108"
+ , "c5" : "01207"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1207"
  , "c1" : "boolean"
  , "c2" : "isCross(Cell)"
  , "c3" : "1"
@@ -1197,8 +1197,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01112"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1112"
+ , "c5" : "01211"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1211"
  , "c1" : "boolean"
  , "c2" : "isK(Cell)"
  , "c3" : "1"
@@ -1206,8 +1206,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01116"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1116"
+ , "c5" : "01215"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1215"
  , "c1" : "boolean"
  , "c2" : "isInverseK(Cell)"
  , "c3" : "1"
@@ -1215,8 +1215,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01120"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1120"
+ , "c5" : "01219"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1219"
  , "c1" : "boolean"
  , "c2" : "isT(Cell)"
  , "c3" : "1"
@@ -1224,8 +1224,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01124"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1124"
+ , "c5" : "01223"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1223"
  , "c1" : "boolean"
  , "c2" : "isInverseT(Cell)"
  , "c3" : "1"
@@ -1233,8 +1233,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01128"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1128"
+ , "c5" : "01227"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1227"
  , "c1" : "boolean"
  , "c2" : "isNormalCorner(Cell)"
  , "c3" : "1"
@@ -1242,8 +1242,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01131"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1131"
+ , "c5" : "01230"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1230"
  , "c1" : "boolean"
  , "c2" : "isNormalCorner(int;int)"
  , "c3" : "1"
@@ -1251,8 +1251,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01135"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1135"
+ , "c5" : "01234"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1234"
  , "c1" : "boolean"
  , "c2" : "isRoundCorner(Cell)"
  , "c3" : "1"
@@ -1260,8 +1260,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01139"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1139"
+ , "c5" : "01238"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1238"
  , "c1" : "boolean"
  , "c2" : "isRoundCorner(int;int)"
  , "c3" : "1"
@@ -1269,8 +1269,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01143"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1143"
+ , "c5" : "01242"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1242"
  , "c1" : "boolean"
  , "c2" : "isIntersection(Cell)"
  , "c3" : "1"
@@ -1278,8 +1278,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01146"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1146"
+ , "c5" : "01245"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1245"
  , "c1" : "boolean"
  , "c2" : "isIntersection(int;int)"
  , "c3" : "1"
@@ -1287,8 +1287,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01150"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1150"
+ , "c5" : "01249"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1249"
  , "c1" : "void"
  , "c2" : "copyCellsTo(CellSet;TextGrid)"
  , "c3" : "2"
@@ -1296,8 +1296,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01158"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1158"
+ , "c5" : "01257"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1257"
  , "c1" : "boolean"
  , "c2" : "equals(TextGrid)"
  , "c3" : "4"
@@ -1305,8 +1305,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01183"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1183"
+ , "c5" : "01287"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1287"
  , "c1" : "void"
  , "c2" : "fillCellsWith(Iterable;char)"
  , "c3" : "2"
@@ -1314,8 +1314,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01192"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1192"
+ , "c5" : "01306"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1306"
  , "c1" : "CellSet"
  , "c2" : "fillContinuousArea(int;int;char)"
  , "c3" : "1"
@@ -1323,8 +1323,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01203"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1203"
+ , "c5" : "01317"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1317"
  , "c1" : "CellSet"
  , "c2" : "fillContinuousArea(Cell;char)"
  , "c3" : "2"
@@ -1332,8 +1332,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01208"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1208"
+ , "c5" : "01322"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1322"
  , "c1" : "CellSet"
  , "c2" : "seedFill(Cell;char)"
  , "c3" : "8"
@@ -1341,8 +1341,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01239"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1239"
+ , "c5" : "01353"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1353"
  , "c1" : "CellSet"
  , "c2" : "seedFillOld(Cell;char)"
  , "c3" : "8"
@@ -1350,8 +1350,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01272"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1272"
+ , "c5" : "01393"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1393"
  , "c1" : "CellSet"
  , "c2" : "findBoundariesExpandingFrom(Cell)"
  , "c3" : "15"
@@ -1359,8 +1359,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01312"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1312"
+ , "c5" : "01433"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1433"
  , "c1" : "CellSet"
  , "c2" : "seedFillLine(Cell;char)"
  , "c3" : "12"
@@ -1368,8 +1368,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01370"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1370"
+ , "c5" : "01491"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1491"
  , "c1" : "boolean"
  , "c2" : "cellContainsDashedLineChar(Cell)"
  , "c3" : "1"
@@ -1377,8 +1377,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01376"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1376"
+ , "c5" : "01497"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1497"
  , "c1" : "boolean"
  , "c2" : "initialiseWithText(String;ProcessingOptions)"
  , "c3" : "2"
@@ -1386,8 +1386,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01386"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1386"
+ , "c5" : "01507"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1507"
  , "c1" : "boolean"
  , "c2" : "initialiseWithLines(ArrayList<StringBuffer>;ProcessingOptions)"
  , "c3" : "11"
@@ -1395,8 +1395,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01462"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1462"
+ , "c5" : "01583"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1583"
  , "c1" : "void"
  , "c2" : "fixTabs(int)"
  , "c3" : "6"
@@ -1404,8 +1404,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "01491"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1491"
+ , "c5" : "01614"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1614"
  , "c1" : "ArrayList<StringBuffer>"
  , "c2" : "getRows()"
  , "c3" : "1"
@@ -1533,1711 +1533,1515 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#69"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method addToMarkupTags arguments Collection&lt;String &gt;  tags"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method org.stathissideris.ascii2image.text.TextGrid.TextGrid@POLYN430380 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method org.stathissideris.ascii2image.text.TextGrid.TextGrid@POLYN430380 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#86"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00086] For method makeSameSizeAs arguments TextGrid  grid"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#86"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00086] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#91"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00091] The argument otherGrid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00098] For method clear list of called methods Object monObjet|java.lang.String StringUtils_repeatStringN431575|int getHeightN431705"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method org.stathissideris.ascii2image.text.TextGrid.clear@POLYN431504 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000006[00091] For method addToMarkupTags arguments Collection&lt;String &gt;  tags"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method org.stathissideris.ascii2image.text.TextGrid.clear@POLYN431504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method org.stathissideris.ascii2image.text.TextGrid.TextGrid@POLYN431118 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#107"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00107] For method get arguments int  x|int  y"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#104"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00104] In method org.stathissideris.ascii2image.text.TextGrid.TextGrid@POLYN431118 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN432057 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#109"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN432057 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN432057 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN432057 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN432057 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#116"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00116] For method get arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00108] For method makeSameSizeAs arguments TextGrid  grid"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#116"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#108"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00116] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00108] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN432567 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN432567 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN432567 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#113"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00113] The argument otherGrid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN432567 the MagicNumber/String  0 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00120] For method clear list of called methods Object monObjet|java.lang.String StringUtils_repeatStringN432313|int getHeightN432443"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#120"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN432567 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method org.stathissideris.ascii2image.text.TextGrid.clear@POLYN432242 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#124"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00124] For method getRow arguments int  y"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00124] In method org.stathissideris.ascii2image.text.TextGrid.clear@POLYN432242 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#128"
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#129"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00128] For method getSubGrid arguments int  x|int  y|int  width|int  height"
+ , "c3" : "QC-JAV000006[00129] For method get arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method org.stathissideris.ascii2image.text.TextGrid.getSubGrid@POLYN433247 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN432795 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#136"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN432795 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#132"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00132] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN432795 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00133] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN432795 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00133] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN432795 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#138"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00136] For method getTestingSubGrid arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00138] For method get arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#136"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#138"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00136] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00138] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#137"
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method org.stathissideris.ascii2image.text.TextGrid.getTestingSubGrid@POLYN433976 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN433305 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#137"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method org.stathissideris.ascii2image.text.TextGrid.getTestingSubGrid@POLYN433976 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method org.stathissideris.ascii2image.text.TextGrid.getTestingSubGrid@POLYN433976 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method org.stathissideris.ascii2image.text.TextGrid.getTestingSubGrid@POLYN433976 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN433305 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#141"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00141] For method getStringAt arguments int  x|int  y|int  length"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#145"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00145] For method getStringAt arguments Cell  cell|int  length"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#145"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00145] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method org.stathissideris.ascii2image.text.TextGrid.getStringAt@POLYN434520 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN433305 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#149"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method org.stathissideris.ascii2image.text.TextGrid.getStringAt@POLYN434520 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN433305 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#142"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00142] In method org.stathissideris.ascii2image.text.TextGrid.get@POLYN433305 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#146"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00146] For method getRow arguments int  y"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#150"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method org.stathissideris.ascii2image.text.TextGrid.getStringAt@POLYN434520 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#151"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method org.stathissideris.ascii2image.text.TextGrid.getStringAt@POLYN434520 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#151"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method org.stathissideris.ascii2image.text.TextGrid.getStringAt@POLYN434520 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#155"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00155] For method getNorthOf arguments int  x|int  y"
+ , "c3" : "QC-JAV000006[00150] For method getSubGrid arguments int  x|int  y|int  width|int  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#155"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method org.stathissideris.ascii2image.text.TextGrid.getNorthOf@POLYN435200 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#156"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00156] For method getSouthOf arguments int  x|int  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#156"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method org.stathissideris.ascii2image.text.TextGrid.getSouthOf@POLYN435410 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#157"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00157] For method getEastOf arguments int  x|int  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#157"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method org.stathissideris.ascii2image.text.TextGrid.getEastOf@POLYN435620 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method org.stathissideris.ascii2image.text.TextGrid.getSubGrid@POLYN433985 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#158"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00158] For method getWestOf arguments int  x|int  y"
+ , "c3" : "QC-JAV000006[00158] For method getTestingSubGrid arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#158"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00158] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method org.stathissideris.ascii2image.text.TextGrid.getWestOf@POLYN435830 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method org.stathissideris.ascii2image.text.TextGrid.getTestingSubGrid@POLYN434714 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#160"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00160] For method getNorthOf arguments Cell  cell"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00159] In method org.stathissideris.ascii2image.text.TextGrid.getTestingSubGrid@POLYN434714 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#160"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00160] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00159] In method org.stathissideris.ascii2image.text.TextGrid.getTestingSubGrid@POLYN434714 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#161"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00161] For method getSouthOf arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#161"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00161] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#162"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00162] For method getEastOf arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#162"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00162] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00159] In method org.stathissideris.ascii2image.text.TextGrid.getTestingSubGrid@POLYN434714 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#163"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00163] For method getWestOf arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00163] For method getStringAt arguments int  x|int  y|int  length"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#163"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00163] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#165"
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#167"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00165] For method writeStringTo arguments int  x|int  y|String  str"
+ , "c3" : "QC-JAV000006[00167] For method getStringAt arguments Cell  cell|int  length"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#169"
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#167"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00167] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#170"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00170] In method org.stathissideris.ascii2image.text.TextGrid.getStringAt@POLYN435258 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00171] In method org.stathissideris.ascii2image.text.TextGrid.getStringAt@POLYN435258 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method org.stathissideris.ascii2image.text.TextGrid.getStringAt@POLYN435258 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#173"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00173] In method org.stathissideris.ascii2image.text.TextGrid.getStringAt@POLYN435258 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#173"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00173] In method org.stathissideris.ascii2image.text.TextGrid.getStringAt@POLYN435258 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#177"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00169] For method writeStringTo arguments Cell  cell|String  str"
+ , "c3" : "QC-JAV000006[00177] For method getNorthOf arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#169"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00169] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#169"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00169] The argument str is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#174"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00174] For method set arguments Cell  cell|char  c"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#174"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00174] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method org.stathissideris.ascii2image.text.TextGrid.getNorthOf@POLYN435938 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#178"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00178] For method set arguments int  x|int  y|char  c"
+ , "c3" : "QC-JAV000006[00178] For method getSouthOf arguments int  x|int  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#178"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00178] In method org.stathissideris.ascii2image.text.TextGrid.getSouthOf@POLYN436148 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#179"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00179] For method getEastOf arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method org.stathissideris.ascii2image.text.TextGrid.set@POLYN437596 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method org.stathissideris.ascii2image.text.TextGrid.getEastOf@POLYN436358 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#179"
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#180"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00180] For method getWestOf arguments int  x|int  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method org.stathissideris.ascii2image.text.TextGrid.set@POLYN437596 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method org.stathissideris.ascii2image.text.TextGrid.getWestOf@POLYN436568 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#182"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00182] For method getNorthOf arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#182"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00182] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#183"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00183] For method getSouthOf arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#183"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00183] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#184"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00184] For method setRow arguments int  y|String  row"
+ , "c3" : "QC-JAV000006[00184] For method getEastOf arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#184"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00184] The argument row is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00184] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00186"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#186"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method org.stathissideris.ascii2image.text.TextGrid.setRow@POLYN438082 the MagicNumber/String  'setRow out of bounds or string wrong size' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#190"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#185"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00190] For method setRow arguments int  y|StringBuffer  row"
+ , "c3" : "QC-JAV000006[00185] For method getWestOf arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#190"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#185"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00190] The argument row is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00185] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#192"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method org.stathissideris.ascii2image.text.TextGrid.setRow@POLYN438518 the MagicNumber/String  'setRow out of bounds or string wrong size' should be converted to const"
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#187"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00187] For method writeStringTo arguments int  x|int  y|String  str"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00197"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#197"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method org.stathissideris.ascii2image.text.TextGrid.getWidth@POLYN438924 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#191"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00191] For method writeStringTo arguments Cell  cell|String  str"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00197"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#197"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method org.stathissideris.ascii2image.text.TextGrid.getWidth@POLYN438924 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#191"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00191] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#198"
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#191"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00191] The argument str is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#196"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00196] For method set arguments Cell  cell|char  c"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#196"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00196] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#200"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00200] For method set arguments int  x|int  y|char  c"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method org.stathissideris.ascii2image.text.TextGrid.getWidth@POLYN438924 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method org.stathissideris.ascii2image.text.TextGrid.set@POLYN438334 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#201"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00201] In method org.stathissideris.ascii2image.text.TextGrid.set@POLYN438334 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00206"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#206"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00206] For method setRow arguments int  y|String  row"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00206"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#206"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00206] The argument row is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#208"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00208] In method org.stathissideris.ascii2image.text.TextGrid.setRow@POLYN438820 the MagicNumber/String  'setRow out of bounds or string wrong size' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00212"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#212"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00212] Avoid declaring class instance within loop, performance impact"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00212] For method setRow arguments int  y|StringBuffer  row"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#213"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00213] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#207"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN439282 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00209"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#209"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN439282 the MagicNumber/String  '    ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00210"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#210"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN439282 the MagicNumber/String  '0123456789' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00210"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#210"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN439282 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00210"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#210"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN439282 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#212"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00212] The argument row is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00214"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#214"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN439282 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00214] In method org.stathissideris.ascii2image.text.TextGrid.setRow@POLYN439256 the MagicNumber/String  'setRow out of bounds or string wrong size' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#214"
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#219"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN439282 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00219] In method org.stathissideris.ascii2image.text.TextGrid.getWidth@POLYN439662 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00215"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#215"
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#219"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN439282 the MagicNumber/String  ' (' should be converted to const"
+ , "c3" : "QC-JAV000010[00219] In method org.stathissideris.ascii2image.text.TextGrid.getWidth@POLYN439662 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00215"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#215"
+ , "c1" : "00220"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#220"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN439282 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00220] In method org.stathissideris.ascii2image.text.TextGrid.getWidth@POLYN439662 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#228"
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#234"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00228] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00234] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00235"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#235"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00235] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00229] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#223"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#225"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String  '    ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#226"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String  '0123456789' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#226"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#226"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#226"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String  '\n' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00230"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#230"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00230"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#230"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN440020 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00231"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#231"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String  '\n' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#231"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String  '\\\\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00231] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN440020 the MagicNumber/String  '    ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00232"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String  '\r' should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN440020 the MagicNumber/String  '0123456789' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00232"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String  '\\\\r' should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN440020 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#233"
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String  ' (' should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN440020 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#233"
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String  ')\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00236] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN440020 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#244"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00244] For method add arguments TextGrid  grid"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#244"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00244] For method add list of called methods Object monObjet|int getWidthN442395|int getHeightN442462"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#244"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00244] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00245"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#245"
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00245] The same method call grid.getWidth()getHeight()grid.getHeight() is used several times, should be optimized "
+ , "c3" : "QC-JAV000010[00236] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN440020 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00246"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#246"
+ , "c1" : "00237"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#237"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00246] The same method call grid.getHeight() is used several times, should be optimized "
+ , "c3" : "QC-JAV000010[00237] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN440020 the MagicNumber/String  ' (' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00246"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#246"
+ , "c1" : "00237"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#237"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method org.stathissideris.ascii2image.text.TextGrid.add@POLYN442099 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00249"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#249"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00249] In method org.stathissideris.ascii2image.text.TextGrid.add@POLYN442099 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00237] In method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN440020 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00250"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00250] In method org.stathissideris.ascii2image.text.TextGrid.add@POLYN442099 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00250] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00251"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#251"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00251] In method org.stathissideris.ascii2image.text.TextGrid.add@POLYN442099 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000001[00251] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#245"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00245] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00247"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#247"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00247] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String  '    ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#248"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00248] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String  '0123456789' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#248"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00248] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#248"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00248] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#248"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00248] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String  '\n' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00252"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#252"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00252] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00252"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#252"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00252] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#253"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00253] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String  '\n' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#253"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00253] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String  '\\\\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00254"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#254"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00254] In method org.stathissideris.ascii2image.text.TextGrid.add@POLYN442099 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00254] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String  '\r' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00258"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#258"
+ , "c1" : "00254"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#254"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00254] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String  '\\\\r' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#255"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00255] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String  ' (' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#255"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00255] In method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String  ')\n' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00273"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#273"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00258] For method replaceTypeOnLine list of called methods Object monObjet|int getWidthN443346|int getHeightN443413|char getN443802"
+ , "c3" : "QC-JAV000006[00273] For method add arguments TextGrid  grid"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00261"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#261"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN443275 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00273"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#273"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00273] For method add list of called methods Object monObjet|int getWidthN443133|int getHeightN443200"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00262"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#262"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00262] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN443275 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00268"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#268"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN443275 the MagicNumber/String  '+' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00269"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#269"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00269] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN443275 the MagicNumber/String  'replaced type on line '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00269"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#269"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00269] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN443275 the MagicNumber/String  '' with +' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00271"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#271"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00271] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN443275 the MagicNumber/String  '-' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00272"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#272"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00272] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN443275 the MagicNumber/String  'replaced type on line '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00272"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#272"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00272] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN443275 the MagicNumber/String  '' with -' should be converted to const"
+ , "c1" : "00273"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#273"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00273] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00274"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#274"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00274] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN443275 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000021[00274] The same method call grid.getWidth()getHeight()grid.getHeight() is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00275"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#275"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00275] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN443275 the MagicNumber/String  'replaced type on line '' should be converted to const"
+ , "c3" : "QC-JAV000021[00275] The same method call grid.getHeight() is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00275"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#275"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00275] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN443275 the MagicNumber/String  '' with |' should be converted to const"
+ , "c3" : "QC-JAV000010[00275] In method org.stathissideris.ascii2image.text.TextGrid.add@POLYN442837 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00282"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#282"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00282] For method replacePointMarkersOnLine list of called methods Object monObjet|int getWidthN445246|int getHeightN445313|char getN445702"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00288"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#288"
+ , "c1" : "00278"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#278"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00288] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00278] In method org.stathissideris.ascii2image.text.TextGrid.add@POLYN442837 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00288"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#288"
+ , "c1" : "00279"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#279"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00288] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00279] In method org.stathissideris.ascii2image.text.TextGrid.add@POLYN442837 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00285"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#285"
+ , "c1" : "00280"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#280"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00285] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00280] In method org.stathissideris.ascii2image.text.TextGrid.add@POLYN442837 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00286"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#286"
+ , "c1" : "00283"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#283"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00283] In method org.stathissideris.ascii2image.text.TextGrid.add@POLYN442837 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00292"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#292"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00292] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  false should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00292] For method replaceTypeOnLine list of called methods Object monObjet|int getWidthN444084|int getHeightN444151|char getN444540"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00294"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#294"
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#295"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00295] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN444013 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00296"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#296"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00296] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00298"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#298"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00300"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#300"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00300] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00296] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN444013 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00302"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#302"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00302] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN444013 the MagicNumber/String  '+' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00303"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#303"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00303] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN444013 the MagicNumber/String  'replaced type on line '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00303"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#303"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00303] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN444013 the MagicNumber/String  '' with +' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00305"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#305"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00305] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  '+' should be converted to const"
+ , "c3" : "QC-JAV000010[00305] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN444013 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00306"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#306"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00306] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  'replaced marker on line '' should be converted to const"
+ , "c3" : "QC-JAV000010[00306] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN444013 the MagicNumber/String  'replaced type on line '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00306"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#306"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00306] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  '' with +' should be converted to const"
+ , "c3" : "QC-JAV000010[00306] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN444013 the MagicNumber/String  '' with -' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00308"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#308"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00308] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00308] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN444013 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00309"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#309"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00309] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  'replaced marker on line '' should be converted to const"
+ , "c3" : "QC-JAV000010[00309] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN444013 the MagicNumber/String  'replaced type on line '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00309"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#309"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00309] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  '' with -' should be converted to const"
+ , "c3" : "QC-JAV000010[00309] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN444013 the MagicNumber/String  '' with |' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00311"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#311"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00311] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  '|' should be converted to const"
+ , "c1" : "00316"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#316"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00316] For method replacePointMarkersOnLine list of called methods Object monObjet|int getWidthN445984|int getHeightN446051|char getN446440"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00312"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#312"
+ , "c1" : "00322"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#322"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00312] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  'replaced marker on line '' should be converted to const"
+ , "c3" : "QC-JAV000001[00322] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00312"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#312"
+ , "c1" : "00322"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#322"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00312] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445175 the MagicNumber/String  '' with |' should be converted to const"
+ , "c3" : "QC-JAV000001[00322] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00319"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#319"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00319] For method getPointMarkersOnLine list of called methods Object monObjet|int getWidthN448128|int getHeightN448195|char getN448584"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00319] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00323"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#323"
+ , "c1" : "00320"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#320"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00323] In method org.stathissideris.ascii2image.text.TextGrid.getPointMarkersOnLine@POLYN447979 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00320] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00324"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#324"
+ , "c1" : "00326"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#326"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00324] In method org.stathissideris.ascii2image.text.TextGrid.getPointMarkersOnLine@POLYN447979 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00326] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00328"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#328"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00328] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00330"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#330"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00330] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00332"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#332"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00332] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00334"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#334"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00334] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00336"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#336"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00336] For method replaceHumanColorCodes list of called methods Object monObjet|int getHeightN449129"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00336] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00339"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#339"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00339] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00339] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  '+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00340"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#340"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00340] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00340] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  'replaced marker on line '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00340"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#340"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00340] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  '' with +' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00342"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#342"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00342] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00342"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#342"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00342] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00342] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00343"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#343"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00343] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00343] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  'replaced marker on line '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00343"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#343"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00343] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00342"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#342"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00342] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00342"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#342"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00342] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00343"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#343"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00343] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00343"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#343"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00343] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00338"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#338"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00338] In method org.stathissideris.ascii2image.text.TextGrid.replaceHumanColorCodes@POLYN449058 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00344"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#344"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00344] In method org.stathissideris.ascii2image.text.TextGrid.replaceHumanColorCodes@POLYN449058 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00343] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  '' with -' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00345"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#345"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00345] In method org.stathissideris.ascii2image.text.TextGrid.replaceHumanColorCodes@POLYN449058 the MagicNumber/String  'c' should be converted to const"
+ , "c3" : "QC-JAV000010[00345] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00346"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#346"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00346] In method org.stathissideris.ascii2image.text.TextGrid.replaceHumanColorCodes@POLYN449058 the MagicNumber/String  'c' should be converted to const"
+ , "c3" : "QC-JAV000010[00346] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  'replaced marker on line '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00346"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#346"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00346] In method org.stathissideris.ascii2image.text.TextGrid.replacePointMarkersOnLine@POLYN445913 the MagicNumber/String  '' with |' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00353"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#353"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00353] For method getPointMarkersOnLine list of called methods Object monObjet|int getWidthN448866|int getHeightN448933|char getN449322"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00357"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#357"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00357] In method org.stathissideris.ascii2image.text.TextGrid.getPointMarkersOnLine@POLYN448717 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00358"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#358"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00358] In method org.stathissideris.ascii2image.text.TextGrid.getPointMarkersOnLine@POLYN448717 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00370"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#370"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00357] For method replaceAll arguments char  c1|char  c2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00357"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#357"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00357] For method replaceAll list of called methods Object monObjet|int getWidthN450604|int getHeightN450671|char getN451060"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00360"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#360"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00360] In method org.stathissideris.ascii2image.text.TextGrid.replaceAll@POLYN450486 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00361"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#361"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00361] In method org.stathissideris.ascii2image.text.TextGrid.replaceAll@POLYN450486 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00368"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#368"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00368] For method hasBlankCells list of called methods Object monObjet|int getWidthN451464|int getHeightN451531"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00374"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#374"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00374] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00374"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#374"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00374] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00372"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#372"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00372] In method org.stathissideris.ascii2image.text.TextGrid.hasBlankCells@POLYN451315 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000007[00370] For method replaceHumanColorCodes list of called methods Object monObjet|int getHeightN449867"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00373"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#373"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00373] In method org.stathissideris.ascii2image.text.TextGrid.hasBlankCells@POLYN451315 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00373] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00375"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#375"
+ , "c1" : "00374"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#374"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00375] In method org.stathissideris.ascii2image.text.TextGrid.hasBlankCells@POLYN451315 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000001[00374] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00376"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#376"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00376] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00376"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#376"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00376] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00377"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#377"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00377] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00377"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#377"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00377] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00376"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#376"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00376] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00376"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#376"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00376] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00377"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#377"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00377] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00377"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#377"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00377] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00372"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#372"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00372] In method org.stathissideris.ascii2image.text.TextGrid.replaceHumanColorCodes@POLYN449796 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00378"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#378"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00378] In method org.stathissideris.ascii2image.text.TextGrid.hasBlankCells@POLYN451315 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00378] In method org.stathissideris.ascii2image.text.TextGrid.replaceHumanColorCodes@POLYN449796 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00382"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#382"
+ , "c1" : "00379"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#379"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00379] In method org.stathissideris.ascii2image.text.TextGrid.replaceHumanColorCodes@POLYN449796 the MagicNumber/String  'c' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00380"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#380"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00380] In method org.stathissideris.ascii2image.text.TextGrid.replaceHumanColorCodes@POLYN449796 the MagicNumber/String  'c' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00396"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#396"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00382] For method getAllNonBlank list of called methods Object monObjet|int getWidthN452303|int getHeightN452370"
+ , "c3" : "QC-JAV000006[00396] For method replaceAll arguments char  c1|char  c2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00388"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#388"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00388] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00388"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#388"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00388] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00386"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#386"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00386] In method org.stathissideris.ascii2image.text.TextGrid.getAllNonBlank@POLYN452154 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00387"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#387"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00387] In method org.stathissideris.ascii2image.text.TextGrid.getAllNonBlank@POLYN452154 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00395"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#395"
+ , "c1" : "00396"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#396"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00395] For method getAllBoundaries list of called methods Object monObjet|int getWidthN453185|int getHeightN453252"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00401"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#401"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00401] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00401"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#401"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00401] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000007[00396] For method replaceAll list of called methods Object monObjet|int getWidthN451342|int getHeightN451409|char getN451798"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00399"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#399"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00399] In method org.stathissideris.ascii2image.text.TextGrid.getAllBoundaries@POLYN453036 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00399] In method org.stathissideris.ascii2image.text.TextGrid.replaceAll@POLYN451224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00400"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#400"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00400] In method org.stathissideris.ascii2image.text.TextGrid.getAllBoundaries@POLYN453036 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00400] In method org.stathissideris.ascii2image.text.TextGrid.replaceAll@POLYN451224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00409"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#409"
+ , "c1" : "00407"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#407"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00409] For method getAllBlanksBetweenCharacters list of called methods Object monObjet|int getWidthN454058|int getHeightN454125"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00415"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#415"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00415] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00415"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#415"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00415] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000007[00407] For method hasBlankCells list of called methods Object monObjet|int getWidthN452202|int getHeightN452269"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00413"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#413"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00413] In method org.stathissideris.ascii2image.text.TextGrid.getAllBlanksBetweenCharacters@POLYN453909 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00413] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00413"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#413"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00413] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00411"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#411"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00411] In method org.stathissideris.ascii2image.text.TextGrid.hasBlankCells@POLYN452053 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00412"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#412"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00412] In method org.stathissideris.ascii2image.text.TextGrid.hasBlankCells@POLYN452053 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00414"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#414"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00414] In method org.stathissideris.ascii2image.text.TextGrid.getAllBlanksBetweenCharacters@POLYN453909 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00414] In method org.stathissideris.ascii2image.text.TextGrid.hasBlankCells@POLYN452053 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00424"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#424"
+ , "c1" : "00417"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#417"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00417] In method org.stathissideris.ascii2image.text.TextGrid.hasBlankCells@POLYN452053 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00421"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#421"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00424] For method findStrings list of called methods Object monObjet|int getWidthN455177|int getHeightN455244|char getN456006|char getN456330|char getN456447"
+ , "c3" : "QC-JAV000007[00421] For method getAllNonBlank list of called methods Object monObjet|int getWidthN453041|int getHeightN453108"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00431"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#431"
+ , "c1" : "00427"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#427"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00431] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00427] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00432"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#432"
+ , "c1" : "00427"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#427"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00432] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00427] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00431"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#431"
+ , "c1" : "00425"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#425"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00431] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00425] In method org.stathissideris.ascii2image.text.TextGrid.getAllNonBlank@POLYN452892 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00432"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#432"
+ , "c1" : "00426"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#426"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00432] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00428"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#428"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00428] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN454988 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00429"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#429"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00429] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN454988 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00426] In method org.stathissideris.ascii2image.text.TextGrid.getAllNonBlank@POLYN452892 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00434"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#434"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00434] For method getAllBoundaries list of called methods Object monObjet|int getWidthN453923|int getHeightN453990"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00440"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#440"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00434] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN454988 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000001[00440] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00440"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#440"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00440] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00438"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#438"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00438] In method org.stathissideris.ascii2image.text.TextGrid.getAllBoundaries@POLYN453774 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00439"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#439"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00439] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN454988 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00439] In method org.stathissideris.ascii2image.text.TextGrid.getAllBoundaries@POLYN453774 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00440"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#440"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00440] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN454988 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00440"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#440"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00440] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN454988 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00440"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#440"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00440] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN454988 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00440"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#440"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00440] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN454988 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00441"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#441"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00441] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN454988 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00451"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#451"
+ , "c1" : "00448"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#448"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00451] For method hasEntryPoint arguments Cell  cell|int  entryPointId"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00451"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#451"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00451] For method hasEntryPoint list of called methods Object monObjet|char getN457351"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00452"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#452"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00452] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457172 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000007[00448] For method getAllBlanksBetweenCharacters list of called methods Object monObjet|int getWidthN454796|int getHeightN454863"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00454"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#454"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00454] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457172 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00454] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00457"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#457"
+ , "c1" : "00454"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#454"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00457] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457172 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000001[00454] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00460"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#460"
+ , "c1" : "00452"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#452"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00460] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457172 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00452] In method org.stathissideris.ascii2image.text.TextGrid.getAllBlanksBetweenCharacters@POLYN454647 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00463"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#463"
+ , "c1" : "00453"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#453"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00463] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457172 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00453] In method org.stathissideris.ascii2image.text.TextGrid.getAllBlanksBetweenCharacters@POLYN454647 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00466"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#466"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00466] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457172 the MagicNumber/String  5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00469"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#469"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00469] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457172 the MagicNumber/String  6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00472"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#472"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00472] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457172 the MagicNumber/String  7 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00475"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#475"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00475] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457172 the MagicNumber/String  8 should be converted to const"
+ , "c1" : "00471"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#471"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00471] For method findStrings list of called methods Object monObjet|int getWidthN455915|int getHeightN455982|char getN456744|char getN457068|char getN457185"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00478"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#478"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00478] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457172 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000001[00478] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00482"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#482"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00482] For method isBlankBetweenCharacters arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00482"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#482"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00482] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00499"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#499"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00499] For method removeArrowheads list of called methods Object monObjet|int getWidthN459578|int getHeightN459645"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00504"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#504"
+ , "c1" : "00479"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#479"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00504] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00479] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00504"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#504"
+ , "c1" : "00478"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#478"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00504] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00478] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00502"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#502"
+ , "c1" : "00479"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#479"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00502] In method org.stathissideris.ascii2image.text.TextGrid.removeArrowheads@POLYN459507 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00479] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00503"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#503"
+ , "c1" : "00475"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#475"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00503] In method org.stathissideris.ascii2image.text.TextGrid.removeArrowheads@POLYN459507 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00475] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN455726 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00476"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#476"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00476] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN455726 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00481"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#481"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00481] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN455726 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00486"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#486"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00486] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN455726 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00487"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#487"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00487] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN455726 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00487"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#487"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00487] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN455726 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00487"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#487"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00487] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN455726 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00487"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#487"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00487] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN455726 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00488"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#488"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00488] In method org.stathissideris.ascii2image.text.TextGrid.findStrings@POLYN455726 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00505"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#505"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00505] In method org.stathissideris.ascii2image.text.TextGrid.removeArrowheads@POLYN459507 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00510"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#510"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00510] For method removeColorCodes list of called methods Object monObjet|java.util.ArrayList&lt;org.stathissideris.ascii2image.text.TextGrid.CellColorPair&gt; findColorCodesN460348|java.util.ArrayList&lt;org.stathissideris.ascii2image.text.TextGrid.CellColorPair&gt; cell_getEastN460879|java.util.ArrayList&lt;org.stathissideris.ascii2image.text.TextGrid.CellColorPair&gt; cell_getEastN461040"
+ , "c3" : "QC-JAV000006[00505] For method hasEntryPoint arguments Cell  cell|int  entryPointId"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00513"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#513"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00513] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00505"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#505"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00505] For method hasEntryPoint list of called methods Object monObjet|char getN458089"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00513"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#513"
+ , "c1" : "00506"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#506"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00513] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00506] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457910 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00508"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#508"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00508] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457910 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00511"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#511"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00511] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457910 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00514"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#514"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00514] In method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN460277 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00515"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#515"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00515] In method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN460277 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00516"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#516"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00516] In method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN460277 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00514] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457910 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00517"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#517"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00517] In method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN460277 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00517] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457910 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00521"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#521"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00521] For method removeBoundaries list of called methods Object monObjet|int getWidthN461320|int getHeightN461387"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00528"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#528"
+ , "c1" : "00520"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#520"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00528] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00520] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457910 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00528"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#528"
+ , "c1" : "00523"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#523"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00528] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00538"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#538"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00538] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00538"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#538"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00538] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00523] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457910 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00526"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#526"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00526] In method org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN461175 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00526] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457910 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00527"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#527"
+ , "c1" : "00529"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#529"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00527] In method org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN461175 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00529] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457910 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00539"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#539"
+ , "c1" : "00532"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#532"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00539] In method org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN461175 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00532] In method org.stathissideris.ascii2image.text.TextGrid.hasEntryPoint@POLYN457910 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00543"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#543"
+ , "c1" : "00542"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#542"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00543] For method findArrowheads list of called methods Object monObjet|int getWidthN462488|int getHeightN462555"
+ , "c3" : "QC-JAV000006[00542] For method isBlankBetweenCharacters arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00549"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#549"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00549] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00542"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#542"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00542] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00549"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#549"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00549] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00547"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#547"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00547] In method org.stathissideris.ascii2image.text.TextGrid.findArrowheads@POLYN462339 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00548"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#548"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00548] In method org.stathissideris.ascii2image.text.TextGrid.findArrowheads@POLYN462339 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00553"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#553"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00553] In method org.stathissideris.ascii2image.text.TextGrid.findArrowheads@POLYN462339 the MagicNumber/String  ' arrowheads found' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00558"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#558"
+ , "c1" : "00562"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#562"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00558] For method findColorCodes list of called methods Object monObjet|int getWidthN463675|int getHeightN463742|java.lang.String getStringAtN464270"
+ , "c3" : "QC-JAV000007[00562] For method removeArrowheads list of called methods Object monObjet|int getWidthN460316|int getHeightN460383"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00565"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#565"
+ , "c1" : "00567"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#567"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00565] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00566"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#566"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00566] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00567] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3251,259 +3055,133 @@ var maDataBlocs = {
  , "c1" : "00565"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#565"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00565] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00565] In method org.stathissideris.ascii2image.text.TextGrid.removeArrowheads@POLYN460245 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00566"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#566"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00566] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00566] In method org.stathissideris.ascii2image.text.TextGrid.removeArrowheads@POLYN460245 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00567"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#567"
+ , "c1" : "00568"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#568"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00567] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00559"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#559"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00559] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN463390 the MagicNumber/String  'c[A-F0-9]{3}' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00563"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#563"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00563] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN463390 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00564"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#564"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00564] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN463390 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00564"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#564"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00564] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN463390 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00566"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#566"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00566] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN463390 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00569"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#569"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00569] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN463390 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00570"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#570"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00570] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN463390 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00571"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#571"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00571] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN463390 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00572"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#572"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00572] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN463390 the MagicNumber/String  16 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00572"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#572"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00572] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN463390 the MagicNumber/String  17 should be converted to const"
+ , "c3" : "QC-JAV000010[00568] In method org.stathissideris.ascii2image.text.TextGrid.removeArrowheads@POLYN460245 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00573"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#573"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00573] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN463390 the MagicNumber/String  16 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00573] For method removeColorCodes list of called methods Object monObjet|java.util.ArrayList&lt;org.stathissideris.ascii2image.text.TextGrid.CellColorPair&gt; findColorCodesN461086|java.util.ArrayList&lt;org.stathissideris.ascii2image.text.TextGrid.CellColorPair&gt; cell_getEastN461617|java.util.ArrayList&lt;org.stathissideris.ascii2image.text.TextGrid.CellColorPair&gt; cell_getEastN461778"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00573"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#573"
+ , "c1" : "00576"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#576"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00573] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN463390 the MagicNumber/String  17 should be converted to const"
+ , "c3" : "QC-JAV000001[00576] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00574"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#574"
+ , "c1" : "00576"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#576"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00574] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN463390 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000001[00576] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00574"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#574"
+ , "c1" : "00577"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#577"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00574] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN463390 the MagicNumber/String  17 should be converted to const"
+ , "c3" : "QC-JAV000010[00577] In method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN461015 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00578"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#578"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00578] In method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN461015 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00579"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#579"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00579] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN463390 the MagicNumber/String  ' color codes found' should be converted to const"
+ , "c3" : "QC-JAV000010[00579] In method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN461015 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00583"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#583"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00583] For method findMarkupTags list of called methods Object monObjet|int getWidthN466070|int getHeightN466137|char getN466665"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00591"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#591"
+ , "c1" : "00580"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#580"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00591] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00594"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#594"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00594] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00595"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#595"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00595] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00597"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#597"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00597] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00591"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#591"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00591] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00594"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#594"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00594] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00595"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#595"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00595] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00597"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#597"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00597] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00580] In method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN461015 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00584"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#584"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00584] For method removeBoundaries list of called methods Object monObjet|int getWidthN462058|int getHeightN462125"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00591"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#591"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00584] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN465785 the MagicNumber/String  '\\{(.+?)\\}' should be converted to const"
+ , "c3" : "QC-JAV000001[00591] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00591"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#591"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00591] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00601"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#601"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00601] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00601"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#601"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00601] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00589"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#589"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00589] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN465785 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00589] In method org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN461913 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00590"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#590"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00590] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN465785 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00590] In method org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN461913 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00590"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#590"
+ , "c1" : "00602"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#602"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00590] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN465785 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00602] In method org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN461913 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00593"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#593"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00593] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN465785 the MagicNumber/String  '{' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00597"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#597"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00597] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN465785 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00599"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#599"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00599] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN465785 the MagicNumber/String  'found tag ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00599"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#599"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00599] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN465785 the MagicNumber/String  ' at ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00599"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#599"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00599] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN465785 the MagicNumber/String  ', ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00609"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#609"
+ , "c1" : "00606"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#606"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00609] For method removeMarkupTags list of called methods Object monObjet|java.util.ArrayList&lt;org.stathissideris.ascii2image.text.TextGrid.CellTagPair&gt; findMarkupTagsN467813"
+ , "c3" : "QC-JAV000007[00606] For method findArrowheads list of called methods Object monObjet|int getWidthN463226|int getHeightN463293"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3521,1984 +3199,2131 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00613"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#613"
+ , "c1" : "00610"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#610"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00613] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00610] In method org.stathissideris.ascii2image.text.TextGrid.findArrowheads@POLYN463077 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00614"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#614"
+ , "c1" : "00611"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#611"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00614] In method org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN467742 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00615"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#615"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00615] In method org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN467742 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00611] In method org.stathissideris.ascii2image.text.TextGrid.findArrowheads@POLYN463077 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00616"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#616"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00616] In method org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN467742 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00616] In method org.stathissideris.ascii2image.text.TextGrid.findArrowheads@POLYN463077 the MagicNumber/String  ' arrowheads found' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00622"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#622"
+ , "c1" : "00621"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#621"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00622] For method matchesAny arguments GridPatternGroup  criteria"
+ , "c3" : "QC-JAV000007[00621] For method findColorCodes list of called methods Object monObjet|int getWidthN464413|int getHeightN464480|java.lang.String getStringAtN465008"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00622"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#622"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00622] The argument criteria is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00628"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#628"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00628] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00626"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#626"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00626] For method matchesAll arguments GridPatternGroup  criteria"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00626"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#626"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00626] The argument criteria is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00629"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#629"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00629] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00630"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#630"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00630] For method matches arguments GridPattern  criteria"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00630] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00628"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#628"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00628] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00629"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#629"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00629] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00630"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#630"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00630] The argument criteria is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00630] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00622"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#622"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00622] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN464128 the MagicNumber/String  'c[A-F0-9]{3}' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00626"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#626"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00626] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN464128 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00627"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#627"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00627] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN464128 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00627"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#627"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00627] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN464128 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00629"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#629"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00629] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN464128 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00632"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#632"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00632] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN464128 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00633"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#633"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00633] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN464128 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00634"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#634"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00634] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN464128 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00635"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#635"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00635] For method isOnHorizontalLine arguments Cell  cell"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00635] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN464128 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00635"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#635"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00635] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00635] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN464128 the MagicNumber/String  17 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00636"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#636"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00636] For method isOnHorizontalLine arguments int  x|int  y"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00636] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN464128 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00636"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#636"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00636] For method isOnHorizontalLine list of called methods Object monObjet|char getN469168|char getN469300"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00636] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN464128 the MagicNumber/String  17 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00637"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#637"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00637] In method org.stathissideris.ascii2image.text.TextGrid.isOnHorizontalLine@POLYN469046 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00637] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN464128 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00638"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#638"
+ , "c1" : "00637"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#637"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00638] In method org.stathissideris.ascii2image.text.TextGrid.isOnHorizontalLine@POLYN469046 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00637] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN464128 the MagicNumber/String  17 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00639"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#639"
+ , "c1" : "00642"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#642"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00639] In method org.stathissideris.ascii2image.text.TextGrid.isOnHorizontalLine@POLYN469046 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00640"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#640"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00640] In method org.stathissideris.ascii2image.text.TextGrid.isOnHorizontalLine@POLYN469046 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00643"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#643"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00643] For method isOnVerticalLine arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00643"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#643"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00643] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00644"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#644"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00644] For method isOnVerticalLine arguments int  x|int  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00644"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#644"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00644] For method isOnVerticalLine list of called methods Object monObjet|char getN469897|char getN470029"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00645"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#645"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00645] In method org.stathissideris.ascii2image.text.TextGrid.isOnVerticalLine@POLYN469775 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00642] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN464128 the MagicNumber/String  ' color codes found' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00646"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#646"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00646] For method findMarkupTags list of called methods Object monObjet|int getWidthN466808|int getHeightN466875|char getN467403"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00654"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#654"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00646] In method org.stathissideris.ascii2image.text.TextGrid.isOnVerticalLine@POLYN469775 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00654] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00657"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#657"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00657] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00658"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#658"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00658] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00660"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#660"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00660] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00654"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#654"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00654] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00657"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#657"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00657] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00658"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#658"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00658] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00660"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#660"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00660] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00647"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#647"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00647] In method org.stathissideris.ascii2image.text.TextGrid.isOnVerticalLine@POLYN469775 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00648"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#648"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00648] In method org.stathissideris.ascii2image.text.TextGrid.isOnVerticalLine@POLYN469775 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00647] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN466523 the MagicNumber/String  '\\{(.+?)\\}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00652"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#652"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00652] For method isBoundary arguments char  c"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00652] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN466523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00655"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#655"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00655] For method isBoundary arguments int  x|int  y"
+ , "c1" : "00653"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#653"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00653] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN466523 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00653"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#653"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00653] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN466523 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00656"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#656"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00656] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN466523 the MagicNumber/String  '{' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00660"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#660"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00660] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN466523 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00662"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#662"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00662] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN466523 the MagicNumber/String  'found tag ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00662"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#662"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00662] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN466523 the MagicNumber/String  ' at ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00662"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#662"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00662] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN466523 the MagicNumber/String  ', ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00672"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#672"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00656] For method isBoundary arguments Cell  cell"
+ , "c3" : "QC-JAV000007[00672] For method removeMarkupTags list of called methods Object monObjet|java.util.ArrayList&lt;org.stathissideris.ascii2image.text.TextGrid.CellTagPair&gt; findMarkupTagsN468551"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00656"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#656"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00656] For method isBoundary list of called methods Object monObjet|char getN470822"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00656"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#656"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00656] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00658"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#658"
+ , "c1" : "00675"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#675"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00658] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN470725 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00675] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00658"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#658"
+ , "c1" : "00675"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#675"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00658] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN470725 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00659"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#659"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00659] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN470725 the MagicNumber/String  '+' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00659"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#659"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00659] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN470725 the MagicNumber/String  '\\' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00659"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#659"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00659] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN470725 the MagicNumber/String  '/' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00666"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#666"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00666] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN470725 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00667"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#667"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00667] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN470725 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00671"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#671"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00671] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN470725 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00673"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#673"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00673] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN470725 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000001[00675] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00676"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#676"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00676] For method isLine arguments Cell  cell"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00676] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00680"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#680"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00680] For method isHorizontalLine arguments char  c"
+ , "c1" : "00677"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#677"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00677] In method org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN468480 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00683"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#683"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00683] For method isHorizontalLine arguments Cell  cell"
+ , "c1" : "00678"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#678"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00678] In method org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN468480 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00683"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#683"
+ , "c1" : "00679"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#679"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00679] In method org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN468480 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00685"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#685"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00685] For method matchesAny arguments GridPatternGroup  criteria"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00685"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#685"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00683] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00685] The argument criteria is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00684"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#684"
+ , "c1" : "00689"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#689"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00684] For method isHorizontalLine arguments int  x|int  y"
+ , "c3" : "QC-JAV000006[00689] For method matchesAll arguments GridPatternGroup  criteria"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00684"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#684"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00684] For method isHorizontalLine list of called methods Object monObjet|char getN472408"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00686"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#686"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00686] In method org.stathissideris.ascii2image.text.TextGrid.isHorizontalLine@POLYN472286 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00686"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#686"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00686] In method org.stathissideris.ascii2image.text.TextGrid.isHorizontalLine@POLYN472286 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00690"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#690"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00690] For method isVerticalLine arguments char  c"
+ , "c1" : "00689"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#689"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00689] The argument criteria is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00693"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#693"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00693] For method isVerticalLine arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00693] For method matches arguments GridPattern  criteria"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00693"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#693"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00693] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00693] The argument criteria is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00694"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#694"
+ , "c1" : "00698"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#698"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00694] For method isVerticalLine arguments int  x|int  y"
+ , "c3" : "QC-JAV000006[00698] For method isOnHorizontalLine arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00694"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#694"
+ , "c1" : "00698"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#698"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00698] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00699"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#699"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00694] For method isVerticalLine list of called methods Object monObjet|char getN473154"
+ , "c3" : "QC-JAV000006[00699] For method isOnHorizontalLine arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00696"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#696"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00696] In method org.stathissideris.ascii2image.text.TextGrid.isVerticalLine@POLYN473032 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00696"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#696"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00696] In method org.stathissideris.ascii2image.text.TextGrid.isVerticalLine@POLYN473032 the MagicNumber/String  false should be converted to const"
+ , "c1" : "00699"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#699"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00699] For method isOnHorizontalLine list of called methods Object monObjet|char getN469906|char getN470038"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00700"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#700"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00700] For method isLinesEnd arguments int  x|int  y"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00700] In method org.stathissideris.ascii2image.text.TextGrid.isOnHorizontalLine@POLYN469784 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00705"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#705"
+ , "c1" : "00701"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#701"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00701] In method org.stathissideris.ascii2image.text.TextGrid.isOnHorizontalLine@POLYN469784 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00702"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#702"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00702] In method org.stathissideris.ascii2image.text.TextGrid.isOnHorizontalLine@POLYN469784 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00703"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#703"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00703] In method org.stathissideris.ascii2image.text.TextGrid.isOnHorizontalLine@POLYN469784 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00706"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#706"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00705] For method isLinesEnd arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00706] For method isOnVerticalLine arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00706"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#706"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00706] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00707"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#707"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00707] For method isOnVerticalLine arguments int  x|int  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00707"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#707"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00707] For method isOnVerticalLine list of called methods Object monObjet|char getN470635|char getN470767"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00708"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#708"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00708] In method org.stathissideris.ascii2image.text.TextGrid.isOnVerticalLine@POLYN470513 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00709"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#709"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00709] For method isVerticalLinesEnd arguments Cell  cell"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00709] In method org.stathissideris.ascii2image.text.TextGrid.isOnVerticalLine@POLYN470513 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00713"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#713"
+ , "c1" : "00710"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#710"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00710] In method org.stathissideris.ascii2image.text.TextGrid.isOnVerticalLine@POLYN470513 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00711"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#711"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00711] In method org.stathissideris.ascii2image.text.TextGrid.isOnVerticalLine@POLYN470513 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00715"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#715"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00713] For method isHorizontalLinesEnd arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00715] For method isBoundary arguments char  c"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00718"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#718"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00718] For method isPointCell arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00718] For method isBoundary arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00727"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#727"
+ , "c1" : "00719"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#719"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00727] For method containsAtLeastOneDashedLine arguments CellSet  set"
+ , "c3" : "QC-JAV000006[00719] For method isBoundary arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00727"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#727"
+ , "c1" : "00719"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#719"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00727] For method containsAtLeastOneDashedLine list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; set_iteratorN474649"
+ , "c3" : "QC-JAV000007[00719] For method isBoundary list of called methods Object monObjet|char getN471560"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00727"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#727"
+ , "c1" : "00719"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#719"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00727] The argument set is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00719] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00721"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#721"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00721] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN471463 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00721"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#721"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00721] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN471463 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00722"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#722"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00722] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN471463 the MagicNumber/String  '+' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00722"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#722"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00722] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN471463 the MagicNumber/String  '\\' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00722"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#722"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00722] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN471463 the MagicNumber/String  '/' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00729"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#729"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00729] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN471463 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00730"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#730"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00730] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00730] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN471463 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00730"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#730"
+ , "c1" : "00734"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#734"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00730] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00731"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#731"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00731] In method org.stathissideris.ascii2image.text.TextGrid.containsAtLeastOneDashedLine@POLYN474552 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00733"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#733"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00733] In method org.stathissideris.ascii2image.text.TextGrid.containsAtLeastOneDashedLine@POLYN474552 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00734] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN471463 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00736"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#736"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00736] In method org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN471463 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00739"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#739"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00736] For method exactlyOneNeighbourIsBoundary arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00739] For method isLine arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00736"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#736"
+ , "c1" : "00743"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#743"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00743] For method isHorizontalLine arguments char  c"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00746"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#746"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00746] For method isHorizontalLine arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00746"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#746"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00736] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00737"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#737"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00737] In method org.stathissideris.ascii2image.text.TextGrid.exactlyOneNeighbourIsBoundary@POLYN475064 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00742"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#742"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00742] In method org.stathissideris.ascii2image.text.TextGrid.exactlyOneNeighbourIsBoundary@POLYN475064 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAVCWE476[00746] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00747"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#747"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00747] For method isStub arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00747] For method isHorizontalLine arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00751"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#751"
+ , "c1" : "00747"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#747"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00751] For method isCrossOnLine arguments Cell  cell"
+ , "c3" : "QC-JAV000007[00747] For method isHorizontalLine list of called methods Object monObjet|char getN473146"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00755"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#755"
+ , "c1" : "00749"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#749"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00749] In method org.stathissideris.ascii2image.text.TextGrid.isHorizontalLine@POLYN473024 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00749"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#749"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00749] In method org.stathissideris.ascii2image.text.TextGrid.isHorizontalLine@POLYN473024 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00753"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#753"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00755] For method isHorizontalCrossOnLine arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00753] For method isVerticalLine arguments char  c"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00756"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#756"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00756] For method isVerticalLine arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00756"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#756"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00756] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00757"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#757"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00757] For method isVerticalLine arguments int  x|int  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00757"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#757"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00757] For method isVerticalLine list of called methods Object monObjet|char getN473892"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00759"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#759"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00759] For method isVerticalCrossOnLine arguments Cell  cell"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00759] In method org.stathissideris.ascii2image.text.TextGrid.isVerticalLine@POLYN473770 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00759"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#759"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00759] In method org.stathissideris.ascii2image.text.TextGrid.isVerticalLine@POLYN473770 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00763"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#763"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00763] For method isStarOnLine arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00763] For method isLinesEnd arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00767"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#767"
+ , "c1" : "00773"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#773"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00767] For method isLoneDiagonal arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00773] For method isLinesEnd arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00772"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#772"
+ , "c1" : "00777"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#777"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00772] For method isHorizontalStarOnLine arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00777] For method isVerticalLinesEnd arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00776"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#776"
+ , "c1" : "00781"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#781"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00776] For method isVerticalStarOnLine arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00781] For method isHorizontalLinesEnd arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00780"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#780"
+ , "c1" : "00786"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#786"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00780] For method isArrowhead arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00787"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#787"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00787] For method isNorthArrowhead arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00788"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#788"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00788] In method org.stathissideris.ascii2image.text.TextGrid.isNorthArrowhead@POLYN477653 the MagicNumber/String  '^' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00791"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#791"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00791] For method isEastArrowhead arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00792"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#792"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00792] In method org.stathissideris.ascii2image.text.TextGrid.isEastArrowhead@POLYN477816 the MagicNumber/String  '&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000006[00786] For method isPointCell arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00795"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#795"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00795] For method isWestArrowhead arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00795] For method containsAtLeastOneDashedLine arguments CellSet  set"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00796"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#796"
+ , "c1" : "00795"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#795"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00795] For method containsAtLeastOneDashedLine list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; set_iteratorN475387"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00795"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#795"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00795] The argument set is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00798"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#798"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00796] In method org.stathissideris.ascii2image.text.TextGrid.isWestArrowhead@POLYN477979 the MagicNumber/String  '&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000001[00798] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00798"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#798"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00798] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00799"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#799"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00799] For method isSouthArrowhead arguments Cell  cell"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00799] In method org.stathissideris.ascii2image.text.TextGrid.containsAtLeastOneDashedLine@POLYN475290 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00799"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#799"
+ , "c1" : "00801"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#801"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00801] In method org.stathissideris.ascii2image.text.TextGrid.containsAtLeastOneDashedLine@POLYN475290 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00804"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#804"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00804] For method exactlyOneNeighbourIsBoundary arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00804"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#804"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00799] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00804] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00800"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#800"
+ , "c1" : "00805"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#805"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00800] The same method call get(cell) is used several times, should be optimized "
+ , "c3" : "QC-JAV000010[00805] In method org.stathissideris.ascii2image.text.TextGrid.exactlyOneNeighbourIsBoundary@POLYN475802 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00800"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#800"
+ , "c1" : "00810"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#810"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00800] In method org.stathissideris.ascii2image.text.TextGrid.isSouthArrowhead@POLYN478142 the MagicNumber/String  'v' should be converted to const"
+ , "c3" : "QC-JAV000010[00810] In method org.stathissideris.ascii2image.text.TextGrid.exactlyOneNeighbourIsBoundary@POLYN475802 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00800"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#800"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00800] In method org.stathissideris.ascii2image.text.TextGrid.isSouthArrowhead@POLYN478142 the MagicNumber/String  'V' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00816"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#816"
+ , "c1" : "00828"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#828"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00816] For method isBullet arguments int  x|int  y"
+ , "c3" : "QC-JAV000006[00828] For method isStub arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00820"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#820"
+ , "c1" : "00832"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#832"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00820] For method isBullet arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00832] For method isCrossOnLine arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00820"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#820"
+ , "c1" : "00836"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#836"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00820] For method isBullet list of called methods Object monObjet|char getN478798"
+ , "c3" : "QC-JAV000006[00836] For method isHorizontalCrossOnLine arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00820"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#820"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00820] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00822"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#822"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00822] In method org.stathissideris.ascii2image.text.TextGrid.isBullet@POLYN478701 the MagicNumber/String  'o' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00822"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#822"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00822] In method org.stathissideris.ascii2image.text.TextGrid.isBullet@POLYN478701 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00826"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#826"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00826] In method org.stathissideris.ascii2image.text.TextGrid.isBullet@POLYN478701 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00827"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#827"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00827] In method org.stathissideris.ascii2image.text.TextGrid.isBullet@POLYN478701 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00830"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#830"
+ , "c1" : "00840"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#840"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00830] For method replaceBullets list of called methods Object monObjet|int getWidthN479399|int getHeightN479466"
+ , "c3" : "QC-JAV000006[00840] For method isVerticalCrossOnLine arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00835"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#835"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00835] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00835"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#835"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00835] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00833"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#833"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00833] In method org.stathissideris.ascii2image.text.TextGrid.replaceBullets@POLYN479328 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00834"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#834"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00834] In method org.stathissideris.ascii2image.text.TextGrid.replaceBullets@POLYN479328 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00837"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#837"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00837] In method org.stathissideris.ascii2image.text.TextGrid.replaceBullets@POLYN479328 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00838"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#838"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00838] In method org.stathissideris.ascii2image.text.TextGrid.replaceBullets@POLYN479328 the MagicNumber/String  '\u2022' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00845"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#845"
+ , "c1" : "00844"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#844"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00845] For method isStringsStart arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00844] For method isStarOnLine arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00845"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#845"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00845] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00850"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#850"
+ , "c1" : "00848"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#848"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00850] For method isStringsEnd arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00848] For method isLoneDiagonal arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00850"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#850"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00850] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00856"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#856"
+ , "c1" : "00853"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#853"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00856] For method otherStringsStartInTheSameColumn arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00856"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#856"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00856] For method otherStringsStartInTheSameColumn list of called methods Object monObjet|int getHeightN481182"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00856"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#856"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00856] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00861"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#861"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00861] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000006[00853] For method isHorizontalStarOnLine arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00857"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#857"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00857] In method org.stathissideris.ascii2image.text.TextGrid.otherStringsStartInTheSameColumn@POLYN480919 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00858"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#858"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00858] In method org.stathissideris.ascii2image.text.TextGrid.otherStringsStartInTheSameColumn@POLYN480919 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00860"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#860"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00860] In method org.stathissideris.ascii2image.text.TextGrid.otherStringsStartInTheSameColumn@POLYN480919 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00869"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#869"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00869] For method otherStringsEndInTheSameColumn arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00857] For method isVerticalStarOnLine arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00869"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#869"
+ , "c1" : "00861"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#861"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00869] For method otherStringsEndInTheSameColumn list of called methods Object monObjet|int getHeightN482000"
+ , "c3" : "QC-JAV000006[00861] For method isArrowhead arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00868"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#868"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00868] For method isNorthArrowhead arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00869"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#869"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00869] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00869] In method org.stathissideris.ascii2image.text.TextGrid.isNorthArrowhead@POLYN478391 the MagicNumber/String  '^' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00874"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#874"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00874] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00870"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#870"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00870] In method org.stathissideris.ascii2image.text.TextGrid.otherStringsEndInTheSameColumn@POLYN481737 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00871"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#871"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00871] In method org.stathissideris.ascii2image.text.TextGrid.otherStringsEndInTheSameColumn@POLYN481737 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00872"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#872"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00872] For method isEastArrowhead arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00873"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#873"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00873] In method org.stathissideris.ascii2image.text.TextGrid.otherStringsEndInTheSameColumn@POLYN481737 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00873] In method org.stathissideris.ascii2image.text.TextGrid.isEastArrowhead@POLYN478554 the MagicNumber/String  '&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00882"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#882"
+ , "c1" : "00876"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#876"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00882] For method isColumnBlank arguments int  x"
+ , "c3" : "QC-JAV000006[00876] For method isWestArrowhead arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00882"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#882"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00882] For method isColumnBlank list of called methods Object monObjet|int getHeightN482652"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00884"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#884"
+ , "c1" : "00877"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#877"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00884] In method org.stathissideris.ascii2image.text.TextGrid.isColumnBlank@POLYN482555 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00877] In method org.stathissideris.ascii2image.text.TextGrid.isWestArrowhead@POLYN478717 the MagicNumber/String  '&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00885"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#885"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00885] In method org.stathissideris.ascii2image.text.TextGrid.isColumnBlank@POLYN482555 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00887"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#887"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00887] In method org.stathissideris.ascii2image.text.TextGrid.isColumnBlank@POLYN482555 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00891"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#891"
+ , "c1" : "00880"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#880"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00891] For method followLine arguments int  x|int  y"
+ , "c3" : "QC-JAV000006[00880] For method isSouthArrowhead arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00895"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#895"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00895] For method followIntersection arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00896"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#896"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00896] In method org.stathissideris.ascii2image.text.TextGrid.followIntersection@POLYN483251 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00899"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#899"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00899] For method followIntersection arguments Cell  cell|Cell  blocked"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00899"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#899"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00899] For method followIntersection list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getNorthN483719|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getSouthN483794|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN483869|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getWestN483944"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00899"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#899"
+ , "c1" : "00880"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#880"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00899] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00880] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00900"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#900"
+ , "c1" : "00881"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#881"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00900] In method org.stathissideris.ascii2image.text.TextGrid.followIntersection@POLYN483414 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000021[00881] The same method call get(cell) is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00906"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#906"
+ , "c1" : "00881"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#881"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00906] In method org.stathissideris.ascii2image.text.TextGrid.followIntersection@POLYN483414 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00881] In method org.stathissideris.ascii2image.text.TextGrid.isSouthArrowhead@POLYN478880 the MagicNumber/String  'v' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00881"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#881"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00881] In method org.stathissideris.ascii2image.text.TextGrid.isSouthArrowhead@POLYN478880 the MagicNumber/String  'V' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00897"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#897"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00897] For method isBullet arguments int  x|int  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00901"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#901"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00901] For method isBullet arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00901"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#901"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00901] For method isBullet list of called methods Object monObjet|char getN479536"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00901"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#901"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00901] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00903"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#903"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00903] In method org.stathissideris.ascii2image.text.TextGrid.isBullet@POLYN479439 the MagicNumber/String  'o' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00903"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#903"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00903] In method org.stathissideris.ascii2image.text.TextGrid.isBullet@POLYN479439 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00907"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#907"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00907] In method org.stathissideris.ascii2image.text.TextGrid.followIntersection@POLYN483414 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00907] In method org.stathissideris.ascii2image.text.TextGrid.isBullet@POLYN479439 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00908"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#908"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00908] In method org.stathissideris.ascii2image.text.TextGrid.followIntersection@POLYN483414 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00908] In method org.stathissideris.ascii2image.text.TextGrid.isBullet@POLYN479439 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00909"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#909"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00909] In method org.stathissideris.ascii2image.text.TextGrid.followIntersection@POLYN483414 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00915"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#915"
+ , "c1" : "00911"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#911"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00915] For method followLine arguments Cell  cell"
+ , "c3" : "QC-JAV000007[00911] For method replaceBullets list of called methods Object monObjet|int getWidthN480137|int getHeightN480204"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00916"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#916"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00916] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00916"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#916"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00916] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00914"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#914"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00914] In method org.stathissideris.ascii2image.text.TextGrid.replaceBullets@POLYN480066 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00915"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#915"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00915] In method org.stathissideris.ascii2image.text.TextGrid.replaceBullets@POLYN480066 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00918"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#918"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00918] In method org.stathissideris.ascii2image.text.TextGrid.replaceBullets@POLYN480066 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00919"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#919"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00919] In method org.stathissideris.ascii2image.text.TextGrid.replaceBullets@POLYN480066 the MagicNumber/String  '\u2022' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00932"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#932"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00932] For method isStringsStart arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00932"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#932"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00915] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00932] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00927"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#927"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00927] In method org.stathissideris.ascii2image.text.TextGrid.followLine@POLYN484954 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00930"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#930"
+ , "c1" : "00943"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#943"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00930] For method followLine arguments Cell  cell|Cell  blocked"
+ , "c3" : "QC-JAV000006[00943] For method isStringsEnd arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00930"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#930"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00930] For method followLine list of called methods Object monObjet|org.stathissideris.ascii2image.text.CellSet followLineN486267"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00936"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#936"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00936] For method followCorner arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00937"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#937"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00937] In method org.stathissideris.ascii2image.text.TextGrid.followCorner@POLYN486508 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00940"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#940"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00940] For method followCorner arguments Cell  cell|Cell  blocked"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00941"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#941"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00941] In method org.stathissideris.ascii2image.text.TextGrid.followCorner@POLYN486671 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00946"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#946"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00946] In method org.stathissideris.ascii2image.text.TextGrid.followCorner@POLYN486671 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00943"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#943"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00943] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00949"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#949"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00949] For method followCorner1 arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00949] For method otherStringsStartInTheSameColumn arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00949"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#949"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00949] For method otherStringsStartInTheSameColumn list of called methods Object monObjet|int getHeightN481920"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00949"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#949"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00949] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00954"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#954"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00954] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00950"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#950"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00950] In method org.stathissideris.ascii2image.text.TextGrid.followCorner1@POLYN487519 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00950] In method org.stathissideris.ascii2image.text.TextGrid.otherStringsStartInTheSameColumn@POLYN481657 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00952"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#952"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00952] For method followCorner1 arguments Cell  cell|Cell  blocked"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00952"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#952"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00952] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00951"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#951"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00951] In method org.stathissideris.ascii2image.text.TextGrid.otherStringsStartInTheSameColumn@POLYN481657 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00953"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#953"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00953] In method org.stathissideris.ascii2image.text.TextGrid.followCorner1@POLYN487682 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00953] In method org.stathissideris.ascii2image.text.TextGrid.otherStringsStartInTheSameColumn@POLYN481657 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00960"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#960"
+ , "c1" : "00962"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#962"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00960] For method followCorner2 arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00962] For method otherStringsEndInTheSameColumn arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00961"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#961"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00961] In method org.stathissideris.ascii2image.text.TextGrid.followCorner2@POLYN488384 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00963"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#963"
+ , "c1" : "00962"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#962"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00963] For method followCorner2 arguments Cell  cell|Cell  blocked"
+ , "c3" : "QC-JAV000007[00962] For method otherStringsEndInTheSameColumn list of called methods Object monObjet|int getHeightN482738"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00963"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#963"
+ , "c1" : "00962"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#962"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00963] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00962] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00967"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#967"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00967] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00963"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#963"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00963] In method org.stathissideris.ascii2image.text.TextGrid.otherStringsEndInTheSameColumn@POLYN482475 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00964"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#964"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00964] In method org.stathissideris.ascii2image.text.TextGrid.followCorner2@POLYN488547 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00964] In method org.stathissideris.ascii2image.text.TextGrid.otherStringsEndInTheSameColumn@POLYN482475 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00971"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#971"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00971] For method followCorner3 arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00972"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#972"
+ , "c1" : "00966"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#966"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00972] In method org.stathissideris.ascii2image.text.TextGrid.followCorner3@POLYN489249 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00974"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#974"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00974] For method followCorner3 arguments Cell  cell|Cell  blocked"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00974"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#974"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00974] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00966] In method org.stathissideris.ascii2image.text.TextGrid.otherStringsEndInTheSameColumn@POLYN482475 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00975"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#975"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00975] In method org.stathissideris.ascii2image.text.TextGrid.followCorner3@POLYN489412 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00982"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#982"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00982] For method followCorner4 arguments Cell  cell"
+ , "c3" : "QC-JAV000006[00975] For method isColumnBlank arguments int  x"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00983"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#983"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00983] In method org.stathissideris.ascii2image.text.TextGrid.followCorner4@POLYN490114 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00985"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#985"
+ , "c1" : "00975"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#975"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00985] For method followCorner4 arguments Cell  cell|Cell  blocked"
+ , "c3" : "QC-JAV000007[00975] For method isColumnBlank list of called methods Object monObjet|int getHeightN483390"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00985"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#985"
+ , "c1" : "00977"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#977"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00977] In method org.stathissideris.ascii2image.text.TextGrid.isColumnBlank@POLYN483293 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00978"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#978"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00978] In method org.stathissideris.ascii2image.text.TextGrid.isColumnBlank@POLYN483293 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00980"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#980"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00980] In method org.stathissideris.ascii2image.text.TextGrid.isColumnBlank@POLYN483293 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00984"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#984"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00984] For method followLine arguments int  x|int  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00988"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#988"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00988] For method followIntersection arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00989"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#989"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00989] In method org.stathissideris.ascii2image.text.TextGrid.followIntersection@POLYN483989 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00992"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#992"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00992] For method followIntersection arguments Cell  cell|Cell  blocked"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00992"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#992"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00992] For method followIntersection list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getNorthN484457|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getSouthN484532|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN484607|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getWestN484682"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00992"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#992"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00985] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00992] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00986"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#986"
+ , "c1" : "00993"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#993"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00986] In method org.stathissideris.ascii2image.text.TextGrid.followCorner4@POLYN490277 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00993] In method org.stathissideris.ascii2image.text.TextGrid.followIntersection@POLYN484152 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00994"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#994"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00994] For method followStub arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00995"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#995"
+ , "c1" : "00999"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#999"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00995] In method org.stathissideris.ascii2image.text.TextGrid.followStub@POLYN490979 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00999] In method org.stathissideris.ascii2image.text.TextGrid.followIntersection@POLYN484152 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00997"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#997"
+ , "c1" : "01000"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1000"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01000] In method org.stathissideris.ascii2image.text.TextGrid.followIntersection@POLYN484152 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1001"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01001] In method org.stathissideris.ascii2image.text.TextGrid.followIntersection@POLYN484152 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01002"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1002"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01002] In method org.stathissideris.ascii2image.text.TextGrid.followIntersection@POLYN484152 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01014"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1014"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00997] For method followStub arguments Cell  cell|Cell  blocked"
+ , "c3" : "QC-JAV000006[01014] For method followLine arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00997"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#997"
+ , "c1" : "01014"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1014"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00997] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00998"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#998"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00998] In method org.stathissideris.ascii2image.text.TextGrid.followStub@POLYN491142 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01008"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1008"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01008] For method followCell arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01009"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1009"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01009] In method org.stathissideris.ascii2image.text.TextGrid.followCell@POLYN492297 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01012"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1012"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01012] For method followCell arguments Cell  cell|Cell  blocked"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01012"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1012"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01012] For method followCell list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid getTestingSubGridN493464"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01018"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1018"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01018] In method org.stathissideris.ascii2image.text.TextGrid.followCell@POLYN492460 the MagicNumber/String  'Umbiguous input at position ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01018"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1018"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01018] In method org.stathissideris.ascii2image.text.TextGrid.followCell@POLYN492460 the MagicNumber/String  ':' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01021"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1021"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01021] In method org.stathissideris.ascii2image.text.TextGrid.followCell@POLYN492460 the MagicNumber/String  'Cannot follow cell ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01021"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1021"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01021] In method org.stathissideris.ascii2image.text.TextGrid.followCell@POLYN492460 the MagicNumber/String  ': cannot determine cell type' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01024"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1024"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01024] For method getCellTypeAsString arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01025"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1025"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01025] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN493699 the MagicNumber/String  'K' should be converted to const"
+ , "c3" : "QC-JAVCWE476[01014] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01026"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1026"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01026] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN493699 the MagicNumber/String  'T' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01027"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1027"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01027] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN493699 the MagicNumber/String  'inverse K' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01028"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1028"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01028] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN493699 the MagicNumber/String  'inverse T' should be converted to const"
+ , "c3" : "QC-JAV000010[01026] In method org.stathissideris.ascii2image.text.TextGrid.followLine@POLYN485692 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01029"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1029"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01029] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN493699 the MagicNumber/String  'corner 1' should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01029] For method followLine arguments Cell  cell|Cell  blocked"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01030"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1030"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01030] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN493699 the MagicNumber/String  'corner 2' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01031"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1031"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01031] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN493699 the MagicNumber/String  'corner 3' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01032"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1032"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01032] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN493699 the MagicNumber/String  'corner 4' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01033"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1033"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01033] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN493699 the MagicNumber/String  'line' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01034"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1034"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01034] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN493699 the MagicNumber/String  'stub' should be converted to const"
+ , "c1" : "01029"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1029"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01029] For method followLine list of called methods Object monObjet|org.stathissideris.ascii2image.text.CellSet followLineN487005"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01035"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1035"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01035] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN493699 the MagicNumber/String  'crossOnLine' should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01035] For method followCorner arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01036"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1036"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01036] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN493699 the MagicNumber/String  'unrecognisable type' should be converted to const"
+ , "c3" : "QC-JAV000010[01036] In method org.stathissideris.ascii2image.text.TextGrid.followCorner@POLYN487246 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01039"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1039"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01039] For method followCorner arguments Cell  cell|Cell  blocked"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01040"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1040"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01040] For method followCrossOnLine arguments Cell  cell|Cell  blocked"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01040] In method org.stathissideris.ascii2image.text.TextGrid.followCorner@POLYN487409 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01040"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1040"
+ , "c1" : "01045"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1045"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01045] In method org.stathissideris.ascii2image.text.TextGrid.followCorner@POLYN487409 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01048"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1048"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01048] For method followCorner1 arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01049"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1049"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01049] In method org.stathissideris.ascii2image.text.TextGrid.followCorner1@POLYN488257 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01051"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1051"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01051] For method followCorner1 arguments Cell  cell|Cell  blocked"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01051"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1051"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[01040] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[01051] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01053"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1053"
+ , "c1" : "01052"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1052"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01052] In method org.stathissideris.ascii2image.text.TextGrid.followCorner1@POLYN488420 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01059"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1059"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01053] For method isOutOfBounds arguments Cell  cell"
+ , "c3" : "QC-JAV000006[01059] For method followCorner2 arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01053"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1053"
+ , "c1" : "01060"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1060"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01060] In method org.stathissideris.ascii2image.text.TextGrid.followCorner2@POLYN489122 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01062"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1062"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01062] For method followCorner2 arguments Cell  cell|Cell  blocked"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01062"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1062"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[01053] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01054"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1054"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01054] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN495787 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01055"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1055"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01055] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN495787 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01056"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1056"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01056] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN495787 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01057"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1057"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01057] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN495787 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01057"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1057"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01057] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN495787 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01058"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1058"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01058] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN495787 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01061"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1061"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01061] For method isOutOfBounds arguments int  x|int  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01061"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1061"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01061] For method isOutOfBounds list of called methods Object monObjet|char getN496350"
+ , "c3" : "QC-JAVCWE476[01062] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01063"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1063"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01063] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN496228 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01063"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1063"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01063] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN496228 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01064"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1064"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01064] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN496228 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01067"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1067"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01067] For method isBlank arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01067"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1067"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01067] For method isBlank list of called methods Object monObjet|char getN496661"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01069"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1069"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01069] In method org.stathissideris.ascii2image.text.TextGrid.isBlank@POLYN496564 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01069"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1069"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01069] In method org.stathissideris.ascii2image.text.TextGrid.isBlank@POLYN496564 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[01063] In method org.stathissideris.ascii2image.text.TextGrid.followCorner2@POLYN489285 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01070"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1070"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01070] For method followCorner3 arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01071"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1071"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01070] In method org.stathissideris.ascii2image.text.TextGrid.isBlank@POLYN496564 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[01071] In method org.stathissideris.ascii2image.text.TextGrid.followCorner3@POLYN489987 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01073"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1073"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01073] For method isBlank arguments int  x|int  y"
+ , "c3" : "QC-JAV000006[01073] For method followCorner3 arguments Cell  cell|Cell  blocked"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01073"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1073"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01073] For method isBlank list of called methods Object monObjet|char getN496997"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01075"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1075"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01075] In method org.stathissideris.ascii2image.text.TextGrid.isBlank@POLYN496875 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01075"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1075"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01075] In method org.stathissideris.ascii2image.text.TextGrid.isBlank@POLYN496875 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01076"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1076"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01076] In method org.stathissideris.ascii2image.text.TextGrid.isBlank@POLYN496875 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01079"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1079"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01079] For method isCorner arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01079"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1079"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[01079] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[01073] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01074"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1074"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01074] In method org.stathissideris.ascii2image.text.TextGrid.followCorner3@POLYN490150 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01081"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1081"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01081] For method followCorner4 arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01082"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1082"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01082] For method isCorner arguments int  x|int  y"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01082] In method org.stathissideris.ascii2image.text.TextGrid.followCorner4@POLYN490852 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01087"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1087"
+ , "c1" : "01084"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1084"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01087] For method matchesAny arguments Cell  cell|GridPatternGroup  criteria"
+ , "c3" : "QC-JAV000006[01084] For method followCorner4 arguments Cell  cell|Cell  blocked"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01087"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1087"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01087] For method matchesAny list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid getTestingSubGridN497815"
+ , "c1" : "01084"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1084"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[01084] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01092"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1092"
+ , "c1" : "01085"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1085"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01085] In method org.stathissideris.ascii2image.text.TextGrid.followCorner4@POLYN491015 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01093"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1093"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01092] For method isCorner1 arguments Cell  cell"
+ , "c3" : "QC-JAV000006[01093] For method followStub arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01094"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1094"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01094] In method org.stathissideris.ascii2image.text.TextGrid.followStub@POLYN491717 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01096"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1096"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01096] For method isCorner2 arguments Cell  cell"
+ , "c3" : "QC-JAV000006[01096] For method followStub arguments Cell  cell|Cell  blocked"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01100"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1100"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01100] For method isCorner3 arguments Cell  cell"
+ , "c1" : "01096"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1096"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[01096] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01104"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1104"
+ , "c1" : "01097"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1097"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01097] In method org.stathissideris.ascii2image.text.TextGrid.followStub@POLYN491880 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01107"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1107"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01104] For method isCorner4 arguments Cell  cell"
+ , "c3" : "QC-JAV000006[01107] For method followCell arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01108"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1108"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01108] For method isCross arguments Cell  cell"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01108] In method org.stathissideris.ascii2image.text.TextGrid.followCell@POLYN493035 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01112"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1112"
+ , "c1" : "01111"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1111"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01112] For method isK arguments Cell  cell"
+ , "c3" : "QC-JAV000006[01111] For method followCell arguments Cell  cell|Cell  blocked"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01116"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1116"
+ , "c1" : "01111"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1111"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01116] For method isInverseK arguments Cell  cell"
+ , "c3" : "QC-JAV000007[01111] For method followCell list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid getTestingSubGridN494202"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01117"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01117] In method org.stathissideris.ascii2image.text.TextGrid.followCell@POLYN493198 the MagicNumber/String  'Umbiguous input at position ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01117"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01117] In method org.stathissideris.ascii2image.text.TextGrid.followCell@POLYN493198 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01120"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1120"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01120] In method org.stathissideris.ascii2image.text.TextGrid.followCell@POLYN493198 the MagicNumber/String  'Cannot follow cell ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01120"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1120"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01120] In method org.stathissideris.ascii2image.text.TextGrid.followCell@POLYN493198 the MagicNumber/String  ': cannot determine cell type' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01123"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1123"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01120] For method isT arguments Cell  cell"
+ , "c3" : "QC-JAV000006[01123] For method getCellTypeAsString arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01124"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1124"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01124] For method isInverseT arguments Cell  cell"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01124] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN494437 the MagicNumber/String  'K' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01125"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01125] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN494437 the MagicNumber/String  'T' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01126"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1126"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01126] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN494437 the MagicNumber/String  'inverse K' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01127"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1127"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01127] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN494437 the MagicNumber/String  'inverse T' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01128"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1128"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01128] For method isNormalCorner arguments Cell  cell"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01128] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN494437 the MagicNumber/String  'corner 1' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01129"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1129"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01129] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN494437 the MagicNumber/String  'corner 2' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01130"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01130] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN494437 the MagicNumber/String  'corner 3' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01131"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1131"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01131] For method isNormalCorner arguments int  x|int  y"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01131] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN494437 the MagicNumber/String  'corner 4' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01132"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1132"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01132] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN494437 the MagicNumber/String  'line' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01133"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01133] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN494437 the MagicNumber/String  'stub' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01134"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1134"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01134] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN494437 the MagicNumber/String  'crossOnLine' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01135"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1135"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01135] For method isRoundCorner arguments Cell  cell"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01135] In method org.stathissideris.ascii2image.text.TextGrid.getCellTypeAsString@POLYN494437 the MagicNumber/String  'unrecognisable type' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01139"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1139"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01139] For method isRoundCorner arguments int  x|int  y"
+ , "c3" : "QC-JAV000006[01139] For method followCrossOnLine arguments Cell  cell|Cell  blocked"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01143"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1143"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01143] For method isIntersection arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01146"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1146"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01146] For method isIntersection arguments int  x|int  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01150"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1150"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01150] For method copyCellsTo arguments CellSet  cells|TextGrid  grid"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01150"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1150"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01150] For method copyCellsTo list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; cells_iteratorN500761"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01150"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1150"
+ , "c1" : "01139"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1139"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[01150] The argument cells is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[01139] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01150"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1150"
+ , "c1" : "01152"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1152"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01152] For method isOutOfBounds arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01152"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1152"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[01150] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[01152] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01153"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01153] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[01153] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN496525 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01153"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1153"
+ , "c1" : "01154"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01153] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[01154] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN496525 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01158"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1158"
+ , "c1" : "01155"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1155"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01155] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN496525 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01156"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01156] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN496525 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01156"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01156] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN496525 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01157"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01157] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN496525 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01160"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1160"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01158] For method equals arguments TextGrid  grid"
+ , "c3" : "QC-JAV000006[01160] For method isOutOfBounds arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01158"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1158"
+ , "c1" : "01160"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1160"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01158] For method equals list of called methods Object monObjet|int grid_getHeightN501436|StringBuffer grid_getRowN501784"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01158"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1158"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[01158] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01166"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1166"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01166] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01167"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1167"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01167] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000007[01160] For method isOutOfBounds list of called methods Object monObjet|char getN497088"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01162"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01162] In method org.stathissideris.ascii2image.text.TextGrid.equals@POLYN501110 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[01162] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN496966 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01165"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1165"
+ , "c1" : "01162"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01165] In method org.stathissideris.ascii2image.text.TextGrid.equals@POLYN501110 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01162] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN496966 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01163"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01163] In method org.stathissideris.ascii2image.text.TextGrid.isOutOfBounds@POLYN496966 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01166"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1166"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01166] For method isBlank arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01166"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1166"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01166] For method isBlank list of called methods Object monObjet|char getN497399"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01168"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01168] In method org.stathissideris.ascii2image.text.TextGrid.equals@POLYN501110 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[01168] In method org.stathissideris.ascii2image.text.TextGrid.isBlank@POLYN497302 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01170"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1170"
+ , "c1" : "01168"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01170] In method org.stathissideris.ascii2image.text.TextGrid.equals@POLYN501110 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[01168] In method org.stathissideris.ascii2image.text.TextGrid.isBlank@POLYN497302 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01183"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1183"
+ , "c1" : "01169"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1169"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01169] In method org.stathissideris.ascii2image.text.TextGrid.isBlank@POLYN497302 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01172"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1172"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01183] For method fillCellsWith arguments Iterable  cells|char  c"
+ , "c3" : "QC-JAV000006[01172] For method isBlank arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01183"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1183"
+ , "c1" : "01172"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1172"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01172] For method isBlank list of called methods Object monObjet|char getN497735"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01174"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01174] In method org.stathissideris.ascii2image.text.TextGrid.isBlank@POLYN497613 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01174"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01174] In method org.stathissideris.ascii2image.text.TextGrid.isBlank@POLYN497613 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01175"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01175] In method org.stathissideris.ascii2image.text.TextGrid.isBlank@POLYN497613 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01178"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1178"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01178] For method isCorner arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01178"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1178"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[01183] The argument cells is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[01178] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01181"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1181"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01181] For method isCorner arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01186"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1186"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01186] Avoid declaring class instance within loop, performance impact"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01186] For method matchesAny arguments Cell  cell|GridPatternGroup  criteria"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01192"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1192"
+ , "c1" : "01186"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1186"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01192] For method fillContinuousArea arguments int  x|int  y|char  c"
+ , "c3" : "QC-JAV000007[01186] For method matchesAny list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid getTestingSubGridN498553"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01191"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1191"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01191] For method isCorner1 arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01195"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1195"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01195] For method isCorner2 arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01199"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1199"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01199] For method isCorner3 arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01203"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1203"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01203] For method fillContinuousArea arguments Cell  cell|char  c"
+ , "c3" : "QC-JAV000006[01203] For method isCorner4 arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01204"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1204"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01204] In method org.stathissideris.ascii2image.text.TextGrid.fillContinuousArea@POLYN503081 the MagicNumber/String  'Attempted to fill area out of bounds: ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01208"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1208"
+ , "c1" : "01207"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1207"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01208] For method seedFill arguments Cell  seed|char  newChar"
+ , "c3" : "QC-JAV000006[01207] For method isCross arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01208"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1208"
+ , "c1" : "01211"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1211"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01208] For method seedFill list of called methods Object monObjet|char getN503623"
+ , "c3" : "QC-JAV000006[01211] For method isK arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01220"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1220"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01220] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "01215"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1215"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01215] For method isInverseK arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01220"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1220"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01220] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "01219"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1219"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01219] For method isT arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01225"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1225"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01225] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01226"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1226"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01226] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "01223"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1223"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01223] For method isInverseT arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01227"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1227"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01227] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01228"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1228"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01228] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01239"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1239"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01239] For method seedFillOld arguments Cell  seed|char  newChar"
+ , "c3" : "QC-JAV000006[01227] For method isNormalCorner arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01239"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1239"
+ , "c1" : "01230"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1230"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01239] For method seedFillOld list of called methods Object monObjet|char getN505746"
+ , "c3" : "QC-JAV000006[01230] For method isNormalCorner arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01251"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1251"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01251] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "01234"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1234"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01234] For method isRoundCorner arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01251"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1251"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01251] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "01238"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1238"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01238] For method isRoundCorner arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01256"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1256"
+ , "c1" : "01242"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1242"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01242] For method isIntersection arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01245"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1245"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01245] For method isIntersection arguments int  x|int  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01249"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1249"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01249] For method copyCellsTo arguments CellSet  cells|TextGrid  grid"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01249"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1249"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01249] For method copyCellsTo list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; cells_iteratorN501499"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01249"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1249"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[01249] The argument cells is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01249"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1249"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[01249] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01252"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1252"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01256] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[01252] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01252"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1252"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[01252] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01257"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1257"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01257] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01258"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1258"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01258] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01259"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1259"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01259] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01272"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1272"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01272] For method findBoundariesExpandingFrom arguments Cell  seed"
+ , "c3" : "QC-JAV000006[01257] For method equals arguments TextGrid  grid"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01272"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1272"
+ , "c1" : "01257"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1257"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01272] For method findBoundariesExpandingFrom list of called methods Object monObjet|char getN507795"
+ , "c3" : "QC-JAV000007[01257] For method equals list of called methods Object monObjet|int grid_getHeightN502174|StringBuffer grid_getRowN502522"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01285"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1285"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01285] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "01257"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1257"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[01257] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01285"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1285"
+ , "c1" : "01265"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1265"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01285] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[01265] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01289"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1289"
+ , "c1" : "01266"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1266"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01289] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[01266] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01261"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1261"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01261] In method org.stathissideris.ascii2image.text.TextGrid.equals@POLYN501848 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01264"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1264"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01264] In method org.stathissideris.ascii2image.text.TextGrid.equals@POLYN501848 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01267"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1267"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01267] In method org.stathissideris.ascii2image.text.TextGrid.equals@POLYN501848 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01269"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1269"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01269] In method org.stathissideris.ascii2image.text.TextGrid.equals@POLYN501848 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01287"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1287"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01287] For method fillCellsWith arguments Iterable  cells|char  c"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01287"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1287"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[01287] The argument cells is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5509,2180 +5334,2355 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01291"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1291"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01291] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01292"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1292"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01292] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01278"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1278"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01278] In method org.stathissideris.ascii2image.text.TextGrid.findBoundariesExpandingFrom@POLYN507624 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01295"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1295"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01295] In method org.stathissideris.ascii2image.text.TextGrid.findBoundariesExpandingFrom@POLYN507624 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01298"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1298"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01298] In method org.stathissideris.ascii2image.text.TextGrid.findBoundariesExpandingFrom@POLYN507624 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01301"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1301"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01301] In method org.stathissideris.ascii2image.text.TextGrid.findBoundariesExpandingFrom@POLYN507624 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01304"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1304"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01304] In method org.stathissideris.ascii2image.text.TextGrid.findBoundariesExpandingFrom@POLYN507624 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01312"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1312"
+ , "c1" : "01306"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1306"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01312] For method seedFillLine arguments Cell  cell|char  newChar"
+ , "c3" : "QC-JAV000006[01306] For method fillContinuousArea arguments int  x|int  y|char  c"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01312"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1312"
+ , "c1" : "01317"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1317"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01312] For method seedFillLine list of called methods Object monObjet|char getN510322|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN511791"
+ , "c3" : "QC-JAV000006[01317] For method fillContinuousArea arguments Cell  cell|char  c"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01312"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1312"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[01312] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01327"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1327"
+ , "c1" : "01318"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1318"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01327] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01327"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1327"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01327] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[01318] In method org.stathissideris.ascii2image.text.TextGrid.fillContinuousArea@POLYN503819 the MagicNumber/String  'Attempted to fill area out of bounds: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01322"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1322"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01322] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510052 the MagicNumber/String  1 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01322] For method seedFill arguments Cell  seed|char  newChar"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01323"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1323"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01323] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510052 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "01322"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1322"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01322] For method seedFill list of called methods Object monObjet|char getN504361"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01323"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1323"
+ , "c1" : "01334"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1334"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01323] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510052 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[01334] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01332"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1332"
+ , "c1" : "01334"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1334"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01332] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510052 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[01334] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01339"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1339"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01339] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510052 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000001[01339] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01339"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1339"
+ , "c1" : "01340"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1340"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01339] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510052 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000001[01340] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01345"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1345"
+ , "c1" : "01341"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1341"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01345] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510052 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[01341] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01348"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1348"
+ , "c1" : "01342"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1342"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01348] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510052 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[01342] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01356"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1356"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01356] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510052 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "01353"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1353"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01353] For method seedFillOld arguments Cell  seed|char  newChar"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01357"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1357"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01357] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510052 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "01353"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1353"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01353] For method seedFillOld list of called methods Object monObjet|char getN506484"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01358"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1358"
+ , "c1" : "01365"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1365"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01358] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510052 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[01365] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01358"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1358"
+ , "c1" : "01365"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1365"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01358] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510052 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01360"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1360"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01360] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510052 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000001[01365] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01370"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1370"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[01370] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01371"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1371"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[01371] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01372"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1372"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[01372] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01373"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1373"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[01373] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01393"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1393"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01370] For method cellContainsDashedLineChar arguments Cell  cell"
+ , "c3" : "QC-JAV000006[01393] For method findBoundariesExpandingFrom arguments Cell  seed"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01370"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1370"
+ , "c1" : "01393"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1393"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01370] For method cellContainsDashedLineChar list of called methods Object monObjet|char getN514115"
+ , "c3" : "QC-JAV000007[01393] For method findBoundariesExpandingFrom list of called methods Object monObjet|char getN508533"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01376"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1376"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01376] For method initialiseWithText arguments String  text|ProcessingOptions  options"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01376"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1376"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[01376] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01379"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1379"
+ , "c1" : "01406"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1406"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01379] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN514273 the MagicNumber/String  '(\r)?\n' should be converted to const"
+ , "c3" : "QC-JAV000001[01406] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01380"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1380"
+ , "c1" : "01406"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1406"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01380] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN514273 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01386"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1386"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01386] For method initialiseWithLines arguments ArrayList&lt;StringBuffer &gt;  lines|ProcessingOptions  options"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01386"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1386"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01386] For method initialiseWithLines list of called methods Object monObjet|java.lang.String StringUtils_repeatStringN517527"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01415"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1415"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01415] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01435"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1435"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01435] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01438"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1438"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01438] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01439"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1439"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01439] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01397"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1397"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01397] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01405"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1405"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01405] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01407"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1407"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01407] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01408"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1408"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01408] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[01406] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01410"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1410"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01410] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[01410] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01411"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1411"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[01411] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01412"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1412"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[01412] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01413"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1413"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[01413] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01399"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1399"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01399] In method org.stathissideris.ascii2image.text.TextGrid.findBoundariesExpandingFrom@POLYN508362 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01416"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1416"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01416] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[01416] In method org.stathissideris.ascii2image.text.TextGrid.findBoundariesExpandingFrom@POLYN508362 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01430"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1430"
+ , "c1" : "01419"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1419"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01430] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[01419] In method org.stathissideris.ascii2image.text.TextGrid.findBoundariesExpandingFrom@POLYN508362 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01430"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1430"
+ , "c1" : "01422"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1422"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01430] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[01422] In method org.stathissideris.ascii2image.text.TextGrid.findBoundariesExpandingFrom@POLYN508362 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01438"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1438"
+ , "c1" : "01425"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1425"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01438] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[01425] In method org.stathissideris.ascii2image.text.TextGrid.findBoundariesExpandingFrom@POLYN508362 the MagicNumber/String  '*' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01433"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1433"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01433] For method seedFillLine arguments Cell  cell|char  newChar"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01433"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1433"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01433] For method seedFillLine list of called methods Object monObjet|char getN511060|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN512529"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01433"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1433"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[01433] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01448"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1448"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[01448] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01448"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1448"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[01448] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01443"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1443"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01443] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[01443] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510790 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01448"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1448"
+ , "c1" : "01444"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1444"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01448] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String  '  ' should be converted to const"
+ , "c3" : "QC-JAV000010[01444] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510790 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01448"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1448"
+ , "c1" : "01444"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1444"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01448] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String  '  ' should be converted to const"
+ , "c3" : "QC-JAV000010[01444] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510790 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01459"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1459"
+ , "c1" : "01453"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1453"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01459] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[01453] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510790 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01462"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1462"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01462] For method fixTabs arguments int  tabSize"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01462"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1462"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01462] For method fixTabs list of called methods Object monObjet|java.lang.String StringUtils_repeatStringN519794"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01468"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1468"
+ , "c1" : "01460"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1460"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01468] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[01460] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510790 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01460"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1460"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01460] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510790 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01466"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1466"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01466] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510790 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01469"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1469"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01469] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[01469] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510790 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01477"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1477"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01477] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510790 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01478"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1478"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01478] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[01478] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510790 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01479"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1479"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01479] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510790 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01479"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1479"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01479] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510790 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01481"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1481"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01481] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[01481] In method org.stathissideris.ascii2image.text.TextGrid.seedFillLine@POLYN510790 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01478"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1478"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01478] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "01491"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1491"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01491] For method cellContainsDashedLineChar arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01481"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1481"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[01481] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "01491"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1491"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01491] For method cellContainsDashedLineChar list of called methods Object monObjet|char getN514853"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01464"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1464"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01464] In method org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN518684 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "01497"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1497"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01497] For method initialiseWithText arguments String  text|ProcessingOptions  options"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01472"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1472"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01472] In method org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN518684 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01473"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1473"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01473] In method org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN518684 the MagicNumber/String  '\t' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01476"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1476"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01476] In method org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN518684 the MagicNumber/String  'Found tab. Spaces left: ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01478"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1478"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01478] In method org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN518684 the MagicNumber/String  ' ' should be converted to const"
+ , "c1" : "01497"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1497"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[01497] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01500"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1500"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[01500] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAV000010[01500] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN515011 the MagicNumber/String  '(\r)?\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01501"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1501"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[01501] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAV000010[01501] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN515011 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01509"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1509"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[01509] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c1" : "01507"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1507"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01507] For method initialiseWithLines arguments ArrayList&lt;StringBuffer &gt;  lines|ProcessingOptions  options"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01510"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1510"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[01510] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01518"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1518"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[01518] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01519"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1519"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[01519] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01525"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1525"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[01525] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01527"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1527"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[01527] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "01507"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1507"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01507] For method initialiseWithLines list of called methods Object monObjet|java.lang.String StringUtils_repeatStringN518265"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01536"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1536"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01536] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getNorth@POLYN521882 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[01536] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01556"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1556"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[01556] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01559"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1559"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[01559] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01560"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1560"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[01560] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01518"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1518"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01518] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01526"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1526"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01526] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01528"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1528"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01528] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01529"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1529"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01529] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01531"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1531"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01531] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01537"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1537"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01537] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getSouth@POLYN522052 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[01537] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01538"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1538"
+ , "c1" : "01551"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1551"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01538] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getEast@POLYN522222 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[01551] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01539"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1539"
+ , "c1" : "01551"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1551"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01539] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getWest@POLYN522392 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[01551] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01541"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1541"
+ , "c1" : "01559"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1559"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01541] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getNW@POLYN522562 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[01559] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01541"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1541"
+ , "c1" : "01564"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1564"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01541] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getNW@POLYN522562 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[01564] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01542"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1542"
+ , "c1" : "01569"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1569"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01542] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getNE@POLYN522756 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[01569] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String  '  ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01542"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1542"
+ , "c1" : "01569"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1569"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01542] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getNE@POLYN522756 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01543"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1543"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01543] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getSW@POLYN522950 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01543"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1543"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01543] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getSW@POLYN522950 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01544"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1544"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01544] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getSE@POLYN523144 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01544"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1544"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01544] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getSE@POLYN523144 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01574"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1574"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01574] For method isNorthOf arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01574"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1574"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[01574] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01575"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1575"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01575] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNorthOf@POLYN524654 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01576"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1576"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01576] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNorthOf@POLYN524654 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01579"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1579"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01579] For method isSouthOf arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01579"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1579"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[01579] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[01569] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String  '  ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01580"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1580"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01580] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isSouthOf@POLYN524873 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[01580] In method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01581"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1581"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01581] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isSouthOf@POLYN524873 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01584"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1584"
+ , "c1" : "01583"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1583"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01584] For method isWestOf arguments Cell  cell"
+ , "c3" : "QC-JAV000006[01583] For method fixTabs arguments int  tabSize"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01584"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1584"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[01584] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01585"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1585"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01585] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isWestOf@POLYN525092 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01586"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1586"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01586] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isWestOf@POLYN525092 the MagicNumber/String  false should be converted to const"
+ , "c1" : "01583"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1583"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01583] For method fixTabs list of called methods Object monObjet|java.lang.String StringUtils_repeatStringN520532"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01589"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1589"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01589] For method isEastOf arguments Cell  cell"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01589"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1589"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[01589] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[01589] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01590"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1590"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01590] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isEastOf@POLYN525311 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01591"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1591"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01591] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isEastOf@POLYN525311 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01595"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1595"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01595] For method equals arguments Object  o"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01597"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1597"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01597] In method org.stathissideris.ascii2image.text.TextGrid.Cell.equals@POLYN525530 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01597"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1597"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01597] In method org.stathissideris.ascii2image.text.TextGrid.Cell.equals@POLYN525530 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01598"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1598"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01598] In method org.stathissideris.ascii2image.text.TextGrid.Cell.equals@POLYN525530 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000001[01590] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01599"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1599"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01599] In method org.stathissideris.ascii2image.text.TextGrid.Cell.equals@POLYN525530 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000001[01599] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01603"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1603"
+ , "c1" : "01602"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1602"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01603] In method org.stathissideris.ascii2image.text.TextGrid.Cell.hashCode@POLYN525959 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000001[01602] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01606"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1606"
+ , "c1" : "01599"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1599"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[01599] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01602"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1602"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[01602] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01585"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1585"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01585] In method org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN519422 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01593"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1593"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01593] In method org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN519422 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01594"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1594"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01594] In method org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN519422 the MagicNumber/String  '\t' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01597"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1597"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01597] In method org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN519422 the MagicNumber/String  'Found tab. Spaces left: ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01599"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1599"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01599] In method org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN519422 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01623"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1623"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE493[01623] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01624"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1624"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE493[01624] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01632"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1632"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE493[01632] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01633"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1633"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE493[01633] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01641"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1641"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE493[01641] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01642"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1642"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE493[01642] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01648"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1648"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE493[01648] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01650"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1650"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[01650] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01659"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1659"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01659] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getNorth@POLYN522620 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01660"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1660"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01660] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getSouth@POLYN522790 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01661"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1661"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01661] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getEast@POLYN522960 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01662"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1662"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01662] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getWest@POLYN523130 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01664"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1664"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01664] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getNW@POLYN523300 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01664"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1664"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01664] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getNW@POLYN523300 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01665"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1665"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01665] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getNE@POLYN523494 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01665"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1665"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01665] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getNE@POLYN523494 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01666"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1666"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01666] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getSW@POLYN523688 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01666"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1666"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01666] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getSW@POLYN523688 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01667"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1667"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01667] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getSE@POLYN523882 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01667"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1667"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01667] In method org.stathissideris.ascii2image.text.TextGrid.Cell.getSE@POLYN523882 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01697"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1697"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01606] For method isNextTo arguments int  x2|int  y2"
+ , "c3" : "QC-JAV000006[01697] For method isNorthOf arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01607"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1607"
+ , "c1" : "01697"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1697"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[01697] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01698"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1698"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01607] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526113 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[01698] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNorthOf@POLYN525392 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01607"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1607"
+ , "c1" : "01699"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1699"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01607] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526113 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[01699] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNorthOf@POLYN525392 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01607"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1607"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01607] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526113 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01608"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1608"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01608] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526113 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01608"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1608"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01608] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526113 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01609"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1609"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01609] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526113 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01609"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1609"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01609] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526113 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01610"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1610"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01610] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526113 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01613"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1613"
+ , "c1" : "01702"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1702"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01613] For method isNextTo arguments Cell  cell"
+ , "c3" : "QC-JAV000006[01702] For method isSouthOf arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01614"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1614"
+ , "c1" : "01702"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1702"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[01702] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01703"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1703"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01614] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526905 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[01703] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isSouthOf@POLYN525611 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01614"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1614"
+ , "c1" : "01704"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1704"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01614] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526905 the MagicNumber/String  'cell cannot be null' should be converted to const"
+ , "c3" : "QC-JAV000010[01704] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isSouthOf@POLYN525611 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01619"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1619"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01619] In method org.stathissideris.ascii2image.text.TextGrid.Cell.toString@POLYN527219 the MagicNumber/String  '(' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01619"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1619"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01619] In method org.stathissideris.ascii2image.text.TextGrid.Cell.toString@POLYN527219 the MagicNumber/String  ', ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01619"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1619"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01619] In method org.stathissideris.ascii2image.text.TextGrid.Cell.toString@POLYN527219 the MagicNumber/String  ')' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01622"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1622"
+ , "c1" : "01707"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1707"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01622] For method scale arguments int  s"
+ , "c3" : "QC-JAV000006[01707] For method isWestOf arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#86"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00086] Public method makeSameSizeAs is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "01707"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1707"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[01707] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#128"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00128] Public method getSubGrid is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "01708"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1708"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01708] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isWestOf@POLYN525830 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#136"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00136] Public method getTestingSubGrid is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "01709"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1709"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01709] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isWestOf@POLYN525830 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#141"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00141] Public method getStringAt is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "01712"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1712"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01712] For method isEastOf arguments Cell  cell"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#155"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00155] Public method getNorthOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "01712"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1712"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[01712] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#156"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00156] Public method getSouthOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "01713"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1713"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01713] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isEastOf@POLYN526049 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#157"
+ , "c1" : "01714"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1714"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01714] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isEastOf@POLYN526049 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01718"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1718"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01718] For method equals arguments Object  o"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01720"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1720"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01720] In method org.stathissideris.ascii2image.text.TextGrid.Cell.equals@POLYN526268 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01720"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1720"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01720] In method org.stathissideris.ascii2image.text.TextGrid.Cell.equals@POLYN526268 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01721"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1721"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01721] In method org.stathissideris.ascii2image.text.TextGrid.Cell.equals@POLYN526268 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01722"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1722"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01722] In method org.stathissideris.ascii2image.text.TextGrid.Cell.equals@POLYN526268 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01726"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1726"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01726] In method org.stathissideris.ascii2image.text.TextGrid.Cell.hashCode@POLYN526697 the MagicNumber/String  16 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01729"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1729"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01729] For method isNextTo arguments int  x2|int  y2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01730"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1730"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01730] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526851 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01730"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1730"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01730] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526851 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01730"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1730"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01730] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526851 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01731"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1731"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01731] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526851 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01731"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1731"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01731] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526851 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01732"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1732"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01732] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526851 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01732"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1732"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01732] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526851 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01733"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1733"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01733] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN526851 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01736"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1736"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01736] For method isNextTo arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01737"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1737"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01737] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN527643 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01737"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1737"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01737] In method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN527643 the MagicNumber/String  'cell cannot be null' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01742"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1742"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01742] In method org.stathissideris.ascii2image.text.TextGrid.Cell.toString@POLYN527957 the MagicNumber/String  '(' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01742"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1742"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01742] In method org.stathissideris.ascii2image.text.TextGrid.Cell.toString@POLYN527957 the MagicNumber/String  ', ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01742"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1742"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[01742] In method org.stathissideris.ascii2image.text.TextGrid.Cell.toString@POLYN527957 the MagicNumber/String  ')' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01745"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1745"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[01745] For method scale arguments int  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#108"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00157] Public method getEastOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00108] Public method makeSameSizeAs is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#150"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00150] Public method getSubGrid is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#158"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00158] Public method getWestOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#160"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00160] Public method getNorthOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#161"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00161] Public method getSouthOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#162"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00162] Public method getEastOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00158] Public method getTestingSubGrid is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#163"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00163] Public method getWestOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00163] Public method getStringAt is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00239"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#239"
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#177"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00239] Public method toString is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00177] Public method getNorthOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#244"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#178"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00244] Public method add is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00178] Public method getSouthOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00319"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#319"
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#179"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00319] Public method getPointMarkersOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00179] Public method getEastOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00368"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#368"
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#180"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00368] Public method hasBlankCells is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00180] Public method getWestOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00382"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#382"
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#182"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00382] Public method getAllNonBlank is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00182] Public method getNorthOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00395"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#395"
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#183"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00395] Public method getAllBoundaries is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00183] Public method getSouthOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00409"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#409"
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#184"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00409] Public method getAllBlanksBetweenCharacters is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00184] Public method getEastOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00424"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#424"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#185"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00424] Public method findStrings is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00185] Public method getWestOf is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00451"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#451"
+ , "c1" : "00261"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#261"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00451] Public method hasEntryPoint is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00261] Public method toString is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00482"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#482"
+ , "c1" : "00273"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#273"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00482] Public method isBlankBetweenCharacters is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00273] Public method add is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00543"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#543"
+ , "c1" : "00353"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#353"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00543] Public method findArrowheads is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00353] Public method getPointMarkersOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00558"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#558"
+ , "c1" : "00407"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#407"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00558] Public method findColorCodes is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00407] Public method hasBlankCells is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00622"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#622"
+ , "c1" : "00421"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#421"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00622] Public method matchesAny is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00421] Public method getAllNonBlank is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00626"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#626"
+ , "c1" : "00434"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#434"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00626] Public method matchesAll is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00434] Public method getAllBoundaries is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00630"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#630"
+ , "c1" : "00448"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#448"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00630] Public method matches is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00448] Public method getAllBlanksBetweenCharacters is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00635"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#635"
+ , "c1" : "00471"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#471"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00635] Public method isOnHorizontalLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00471] Public method findStrings is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00643"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#643"
+ , "c1" : "00505"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#505"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00643] Public method isOnVerticalLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00505] Public method hasEntryPoint is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00652"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#652"
+ , "c1" : "00542"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#542"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00652] Public method isBoundary is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00542] Public method isBlankBetweenCharacters is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00655"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#655"
+ , "c1" : "00606"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#606"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00655] Public method isBoundary is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00606] Public method findArrowheads is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00656"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#656"
+ , "c1" : "00621"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#621"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00656] Public method isBoundary is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00621] Public method findColorCodes is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00676"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#676"
+ , "c1" : "00685"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#685"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00676] Public method isLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00685] Public method matchesAny is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00680"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#680"
+ , "c1" : "00689"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#689"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00680] Public method isHorizontalLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00683"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#683"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00683] Public method isHorizontalLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00684"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#684"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00684] Public method isHorizontalLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00690"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#690"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00690] Public method isVerticalLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00689] Public method matchesAll is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00693"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#693"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00693] Public method isVerticalLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00693] Public method matches is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00694"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#694"
+ , "c1" : "00698"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#698"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00694] Public method isVerticalLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00698] Public method isOnHorizontalLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00700"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#700"
+ , "c1" : "00706"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#706"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00700] Public method isLinesEnd is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00706] Public method isOnVerticalLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00705"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#705"
+ , "c1" : "00715"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#715"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00705] Public method isLinesEnd is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00709"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#709"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00709] Public method isVerticalLinesEnd is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00713"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#713"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00713] Public method isHorizontalLinesEnd is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00715] Public method isBoundary is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00718"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#718"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00718] Public method isPointCell is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00718] Public method isBoundary is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00727"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#727"
+ , "c1" : "00719"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#719"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00727] Public method containsAtLeastOneDashedLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00719] Public method isBoundary is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00736"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#736"
+ , "c1" : "00739"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#739"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00736] Public method exactlyOneNeighbourIsBoundary is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00739] Public method isLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00743"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#743"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00743] Public method isHorizontalLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00746"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#746"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00746] Public method isHorizontalLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00747"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#747"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00747] Public method isStub is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00747] Public method isHorizontalLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00751"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#751"
+ , "c1" : "00753"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#753"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00751] Public method isCrossOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00753] Public method isVerticalLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00755"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#755"
+ , "c1" : "00756"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#756"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00755] Public method isHorizontalCrossOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00756] Public method isVerticalLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00759"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#759"
+ , "c1" : "00757"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#757"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00759] Public method isVerticalCrossOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00757] Public method isVerticalLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00763"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#763"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00763] Public method isStarOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00763] Public method isLinesEnd is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00767"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#767"
+ , "c1" : "00773"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#773"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00767] Public method isLoneDiagonal is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00773] Public method isLinesEnd is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00772"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#772"
+ , "c1" : "00777"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#777"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00772] Public method isHorizontalStarOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00777] Public method isVerticalLinesEnd is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00776"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#776"
+ , "c1" : "00781"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#781"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00776] Public method isVerticalStarOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00781] Public method isHorizontalLinesEnd is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00780"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#780"
+ , "c1" : "00786"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#786"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00780] Public method isArrowhead is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00787"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#787"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00787] Public method isNorthArrowhead is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00791"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#791"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00791] Public method isEastArrowhead is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00786] Public method isPointCell is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00795"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#795"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00795] Public method isWestArrowhead is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00795] Public method containsAtLeastOneDashedLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00799"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#799"
+ , "c1" : "00804"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#804"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00799] Public method isSouthArrowhead is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00804] Public method exactlyOneNeighbourIsBoundary is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00816"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#816"
+ , "c1" : "00828"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#828"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00816] Public method isBullet is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00828] Public method isStub is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00820"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#820"
+ , "c1" : "00832"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#832"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00820] Public method isBullet is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00832] Public method isCrossOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00845"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#845"
+ , "c1" : "00836"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#836"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00845] Public method isStringsStart is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00836] Public method isHorizontalCrossOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00850"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#850"
+ , "c1" : "00840"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#840"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00850] Public method isStringsEnd is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00840] Public method isVerticalCrossOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00856"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#856"
+ , "c1" : "00844"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#844"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00856] Public method otherStringsStartInTheSameColumn is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00844] Public method isStarOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00869"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#869"
+ , "c1" : "00848"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#848"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00869] Public method otherStringsEndInTheSameColumn is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00848] Public method isLoneDiagonal is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00882"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#882"
+ , "c1" : "00853"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#853"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00882] Public method isColumnBlank is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00853] Public method isHorizontalStarOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00891"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#891"
+ , "c1" : "00857"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#857"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00891] Public method followLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00857] Public method isVerticalStarOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00895"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#895"
+ , "c1" : "00861"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#861"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00895] Public method followIntersection is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00861] Public method isArrowhead is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00899"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#899"
+ , "c1" : "00868"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#868"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00899] Public method followIntersection is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00868] Public method isNorthArrowhead is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00915"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#915"
+ , "c1" : "00872"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#872"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00915] Public method followLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00872] Public method isEastArrowhead is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00930"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#930"
+ , "c1" : "00876"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#876"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00930] Public method followLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00876] Public method isWestArrowhead is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00936"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#936"
+ , "c1" : "00880"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#880"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00936] Public method followCorner is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00880] Public method isSouthArrowhead is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00940"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#940"
+ , "c1" : "00897"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#897"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00940] Public method followCorner is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00897] Public method isBullet is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00901"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#901"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00901] Public method isBullet is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00932"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#932"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00932] Public method isStringsStart is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00943"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#943"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00943] Public method isStringsEnd is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00949"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#949"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00949] Public method followCorner1 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00949] Public method otherStringsStartInTheSameColumn is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00952"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#952"
+ , "c1" : "00962"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#962"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00952] Public method followCorner1 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00962] Public method otherStringsEndInTheSameColumn is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00960"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#960"
+ , "c1" : "00975"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#975"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00960] Public method followCorner2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00975] Public method isColumnBlank is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00963"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#963"
+ , "c1" : "00984"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#984"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00963] Public method followCorner2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00984] Public method followLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00971"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#971"
+ , "c1" : "00988"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#988"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00971] Public method followCorner3 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00988] Public method followIntersection is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00974"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#974"
+ , "c1" : "00992"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#992"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00974] Public method followCorner3 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00992] Public method followIntersection is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00982"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#982"
+ , "c1" : "01014"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1014"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00982] Public method followCorner4 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01014] Public method followLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00985"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#985"
+ , "c1" : "01029"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1029"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00985] Public method followCorner4 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01029] Public method followLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00994"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#994"
+ , "c1" : "01035"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1035"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00994] Public method followStub is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01035] Public method followCorner is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00997"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#997"
+ , "c1" : "01039"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1039"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00997] Public method followStub is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01039] Public method followCorner is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01008"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1008"
+ , "c1" : "01048"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1048"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01008] Public method followCell is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01048] Public method followCorner1 is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01012"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1012"
+ , "c1" : "01051"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1051"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01012] Public method followCell is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01051] Public method followCorner1 is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01024"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1024"
+ , "c1" : "01059"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1059"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01024] Public method getCellTypeAsString is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01059] Public method followCorner2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01040"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1040"
+ , "c1" : "01062"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1062"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01040] Public method followCrossOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01062] Public method followCorner2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01053"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1053"
+ , "c1" : "01070"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1070"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01053] Public method isOutOfBounds is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01061"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1061"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01061] Public method isOutOfBounds is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01067"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1067"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01067] Public method isBlank is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01070] Public method followCorner3 is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01073"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1073"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01073] Public method isBlank is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01073] Public method followCorner3 is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01079"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1079"
+ , "c1" : "01081"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1081"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01079] Public method isCorner is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01081] Public method followCorner4 is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01082"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1082"
+ , "c1" : "01084"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1084"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01082] Public method isCorner is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01084] Public method followCorner4 is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01087"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1087"
+ , "c1" : "01093"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1093"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01087] Public method matchesAny is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01092"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1092"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01092] Public method isCorner1 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01093] Public method followStub is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01096"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1096"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01096] Public method isCorner2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01096] Public method followStub is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01100"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1100"
+ , "c1" : "01107"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1107"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01100] Public method isCorner3 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01107] Public method followCell is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01104"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1104"
+ , "c1" : "01111"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1111"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01104] Public method isCorner4 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01111] Public method followCell is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01108"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1108"
+ , "c1" : "01123"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1123"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01108] Public method isCross is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01112"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1112"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01112] Public method isK is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01116"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1116"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01116] Public method isInverseK is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01120"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1120"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01120] Public method isT is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01124"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1124"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01124] Public method isInverseT is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01128"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1128"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01128] Public method isNormalCorner is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01131"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1131"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01131] Public method isNormalCorner is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01135"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1135"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01135] Public method isRoundCorner is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01123] Public method getCellTypeAsString is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01139"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1139"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01139] Public method isRoundCorner is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01139] Public method followCrossOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01143"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1143"
+ , "c1" : "01152"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1152"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01143] Public method isIntersection is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01152] Public method isOutOfBounds is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01146"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1146"
+ , "c1" : "01160"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1160"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01146] Public method isIntersection is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01160] Public method isOutOfBounds is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01158"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1158"
+ , "c1" : "01166"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1166"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01158] Public method equals is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01166] Public method isBlank is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01192"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1192"
+ , "c1" : "01172"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1172"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01192] Public method fillContinuousArea is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01172] Public method isBlank is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01178"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1178"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[01178] Public method isCorner is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01181"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1181"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[01181] Public method isCorner is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01186"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1186"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[01186] Public method matchesAny is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01191"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1191"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[01191] Public method isCorner1 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01195"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1195"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[01195] Public method isCorner2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01199"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1199"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[01199] Public method isCorner3 is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01203"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1203"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01203] Public method fillContinuousArea is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01203] Public method isCorner4 is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01272"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1272"
+ , "c1" : "01207"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1207"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01272] Public method findBoundariesExpandingFrom is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01207] Public method isCross is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01370"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1370"
+ , "c1" : "01211"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1211"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01370] Public method cellContainsDashedLineChar is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01211] Public method isK is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01376"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1376"
+ , "c1" : "01215"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1215"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01376] Public method initialiseWithText is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01215] Public method isInverseK is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#69"
+ , "c1" : "01219"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1219"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00069] Public method addToMarkupTags is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01219] Public method isT is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#165"
+ , "c1" : "01223"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1223"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00165] Public method writeStringTo is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01223] Public method isInverseT is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#174"
+ , "c1" : "01227"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1227"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00174] Public method set is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01227] Public method isNormalCorner is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00258"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#258"
+ , "c1" : "01230"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1230"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00258] Public method replaceTypeOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01230] Public method isNormalCorner is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00282"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#282"
+ , "c1" : "01234"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1234"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00282] Public method replacePointMarkersOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01234] Public method isRoundCorner is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00357"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#357"
+ , "c1" : "01238"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1238"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00357] Public method replaceAll is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01238] Public method isRoundCorner is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00489"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#489"
+ , "c1" : "01242"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1242"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00489] Public method removeNonText is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01242] Public method isIntersection is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00499"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#499"
+ , "c1" : "01245"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1245"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00499] Public method removeArrowheads is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01245] Public method isIntersection is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00510"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#510"
+ , "c1" : "01257"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1257"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00510] Public method removeColorCodes is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01257] Public method equals is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00521"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#521"
+ , "c1" : "01306"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1306"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00521] Public method removeBoundaries is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01306] Public method fillContinuousArea is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00609"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#609"
+ , "c1" : "01317"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1317"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00609] Public method removeMarkupTags is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01317] Public method fillContinuousArea is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00830"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#830"
+ , "c1" : "01393"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1393"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00830] Public method replaceBullets is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01393] Public method findBoundariesExpandingFrom is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01150"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1150"
+ , "c1" : "01491"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1491"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01150] Public method copyCellsTo is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01491] Public method cellContainsDashedLineChar is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01183"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1183"
+ , "c1" : "01497"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1497"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[01183] Public method fillCellsWith is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[01497] Public method initialiseWithText is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#91"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00091] Public method addToMarkupTags is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#187"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00187] Public method writeStringTo is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#196"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00196] Public method set is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00292"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#292"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00292] Public method replaceTypeOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00316"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#316"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00316] Public method replacePointMarkersOnLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00396"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#396"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00396] Public method replaceAll is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00552"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#552"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00552] Public method removeNonText is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00562"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#562"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00562] Public method removeArrowheads is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00573"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#573"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00573] Public method removeColorCodes is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00584"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#584"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00584] Public method removeBoundaries is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00672"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#672"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00672] Public method removeMarkupTags is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00911"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#911"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00911] Public method replaceBullets is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01249"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1249"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[01249] Public method copyCellsTo is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01287"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1287"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[01287] Public method fillCellsWith is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN514273"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN515011"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method org.stathissideris.ascii2image.text.TextGrid.toString@POLYN441837 ending with method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method org.stathissideris.ascii2image.text.TextGrid.toString@POLYN442575 ending with method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--org.stathissideris.ascii2image.text.TextGrid.toString@POLYN441837"
+ , "c3" : "QC-JAV999995[00001] +--org.stathissideris.ascii2image.text.TextGrid.toString@POLYN442575"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979"
+ , "c3" : "QC-JAV999995[00001] +--+--org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.followLine@POLYN486145"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN460277"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.followLine@POLYN486883"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN461175"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN461015"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN467742"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 ending with method org.stathissideris.ascii2image.text.TextGrid.toString@POLYN441837"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--org.stathissideris.ascii2image.text.TextGrid.toString@POLYN441837"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN461913"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.Cell.hashCode@POLYN525959"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN468480"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 ending with method org.stathissideris.ascii2image.text.TextGrid.toString@POLYN442575"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999995[00001] +--org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999995[00001] +--+--org.stathissideris.ascii2image.text.TextGrid.toString@POLYN442575"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.fillCellsWith@POLYN502145"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.Cell.hashCode@POLYN526697"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.getEastOf@POLYN436394"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.fillCellsWith@POLYN502883"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.getNorthOf@POLYN436040"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.getEastOf@POLYN437132"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.getSouthOf@POLYN436217"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.getNorthOf@POLYN436778"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.getWestOf@POLYN436571"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.getSouthOf@POLYN436955"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isIntersection@POLYN500427"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.getWestOf@POLYN437309"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isNormalCorner@POLYN499641"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isIntersection@POLYN501165"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isRoundCorner@POLYN500034"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isNormalCorner@POLYN500379"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01379"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1379"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01379] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN514273 the MagicNumber/String '-\r-?\n' MUST BE CONVERTED to const"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isRoundCorner@POLYN500772"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01380"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1380"
+ , "c1" : "01500"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1500"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01380] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN514273 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[01500] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN515011 the MagicNumber/String '-\r-?\n' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#223"
+ , "c1" : "01501"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1501"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00223] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[01501] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN515011 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#225"
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#245"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00225] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String '    ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00245] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#226"
+ , "c1" : "00247"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#247"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00226] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String '0123456789' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00247] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String '    ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#226"
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#248"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00226] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String '\n' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00248] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String '0123456789' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#226"
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#248"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00226] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00248] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String '\n' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#226"
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#248"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00226] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String 10 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00248] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00230"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#230"
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#248"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00230] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00248] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String 10 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00230"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#230"
+ , "c1" : "00252"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#252"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00230] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String 10 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00252] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String ' ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#231"
+ , "c1" : "00252"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#252"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00231] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String '\\\\n' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00252] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String 10 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#231"
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#253"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00231] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String '\n' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00253] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String '\\\\n' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00232"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#232"
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#253"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00232] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String '\\\\r' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00253] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String '\n' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00232"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#232"
+ , "c1" : "00254"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#254"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00232] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String '\r' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00254] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String '\\\\r' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#233"
+ , "c1" : "00254"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#254"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00233] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String ' -' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00254] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String '\r' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#233"
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#255"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00233] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN440371 the MagicNumber/String '-\n' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00255] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String ' -' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01397"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1397"
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#255"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01397] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00255] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN441109 the MagicNumber/String '-\n' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01405"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1405"
+ , "c1" : "01518"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1518"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01405] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String 2 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[01518] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01407"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1407"
+ , "c1" : "01526"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1526"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01407] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[01526] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String 2 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01408"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1408"
+ , "c1" : "01528"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1528"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01408] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[01528] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01410"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1410"
+ , "c1" : "01529"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1529"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01410] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[01529] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01416"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1416"
+ , "c1" : "01531"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1531"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01416] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[01531] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01430"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1430"
+ , "c1" : "01537"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1537"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01430] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[01537] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01430"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1430"
+ , "c1" : "01551"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1551"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01430] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String 2 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[01551] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String ' ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01438"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1438"
+ , "c1" : "01551"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1551"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01438] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[01551] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String 2 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01443"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1443"
+ , "c1" : "01559"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1559"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01443] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[01559] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String ' ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01448"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1448"
+ , "c1" : "01564"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1564"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01448] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String '  ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[01564] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String ' ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01448"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1448"
+ , "c1" : "01569"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1569"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01448] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String '  ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[01569] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String '  ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01459"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1459"
+ , "c1" : "01569"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1569"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01459] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN514979 the MagicNumber/String true MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[01569] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String '  ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00514"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#514"
+ , "c1" : "01580"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1580"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00514] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN460277 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[01580] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN515717 the MagicNumber/String true MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00515"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#515"
+ , "c1" : "00577"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#577"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00515] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN460277 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00577] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN461015 the MagicNumber/String ' ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00516"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#516"
+ , "c1" : "00578"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#578"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00516] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN460277 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00578] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN461015 the MagicNumber/String ' ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00517"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#517"
+ , "c1" : "00579"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#579"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00517] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN460277 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00579] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN461015 the MagicNumber/String ' ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00526"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#526"
+ , "c1" : "00580"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#580"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00526] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN461175 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00580] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN461015 the MagicNumber/String ' ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00527"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#527"
+ , "c1" : "00589"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#589"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00527] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN461175 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00589] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN461913 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00539"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#539"
+ , "c1" : "00590"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#590"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00539] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN461175 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00590] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN461913 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00614"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#614"
+ , "c1" : "00602"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#602"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00614] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN467742 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00602] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN461913 the MagicNumber/String ' ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00615"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#615"
+ , "c1" : "00677"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#677"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00615] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN467742 the MagicNumber/String 2 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00677] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN468480 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00616"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#616"
+ , "c1" : "00678"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#678"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00616] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN467742 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00678] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN468480 the MagicNumber/String 2 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "01603"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1603"
+ , "c1" : "00679"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#679"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01603] In the recursive method org.stathissideris.ascii2image.text.TextGrid.Cell.hashCode@POLYN525959 the MagicNumber/String 16 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00679] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN468480 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01726"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1726"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01726] In the recursive method org.stathissideris.ascii2image.text.TextGrid.Cell.hashCode@POLYN526697 the MagicNumber/String 16 MUST BE CONVERTED to const"
 }} 
 ]
 , 

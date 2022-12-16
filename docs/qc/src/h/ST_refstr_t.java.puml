@@ -2,7 +2,7 @@
 !pragma layout smetana
 "ST_dtlink_s" <|-- "h.ST_refstr_t"
 class h.ST_refstr_t {
-+getTheField(OFFSET) : Object [[[./../../.././qc/src/h/ST_refstr_t.java.html#14]]]
-+setString(CString) : void [[[./../../.././qc/src/h/ST_refstr_t.java.html#24]]]
++getTheField(OFFSET) : Object [[[./../../.././qc/src/h/ST_refstr_t.java.html#58]]]
++setString(CString) : void [[[./../../.././qc/src/h/ST_refstr_t.java.html#68]]]
 } 
 @enduml

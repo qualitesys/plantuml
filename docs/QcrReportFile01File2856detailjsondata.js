@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "smetana.core.debug.Purify" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#26"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#59"
  , "c1" : "Purify"
  , "c2" : "Purify()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#36"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#69"
  , "c1" : "void"
  , "c2" : "logline(String)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#44"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#77"
  , "c1" : "void"
  , "c2" : "entering(String;String)"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#62"
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#95"
  , "c1" : "void"
  , "c2" : "leaving(String;String)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#66"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#99"
  , "c1" : "void"
  , "c2" : "traceCall(PrintWriter;String;String)"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#78"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#111"
  , "c1" : "Method"
  , "c2" : "recordMe(String)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00103"
- , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#103"
+ , "c5" : "00136"
+ , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#136"
  , "c1" : "boolean"
  , "c2" : "checkWarning(String;Method)"
  , "c3" : "3"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#113"
+ , "c5" : "00146"
+ , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#146"
  , "c1" : "Method"
  , "c2" : "getTheMethod(Class<?>;String)"
  , "c3" : "3"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00126"
- , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#126"
+ , "c5" : "00159"
+ , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#159"
  , "c1" : "void"
  , "c2" : "reset()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00130"
- , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#130"
+ , "c5" : "00163"
+ , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#163"
  , "c1" : "void"
  , "c2" : "printMe()"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00145"
- , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#145"
+ , "c5" : "00178"
+ , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#178"
  , "c1" : "String"
  , "c2" : "getVersion(Method)"
  , "c3" : "2"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00152"
- , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#152"
+ , "c5" : "00185"
+ , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#185"
  , "c1" : "String"
  , "c2" : "getPath(Method)"
  , "c3" : "2"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00159"
- , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#159"
+ , "c5" : "00192"
+ , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#192"
  , "c1" : "String"
  , "c2" : "getReviewedWhen(Method)"
  , "c3" : "2"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00167"
- , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#167"
+ , "c5" : "00200"
+ , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#200"
  , "c1" : "boolean"
  , "c2" : "hasND_Rank(Method)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00172"
- , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#172"
+ , "c5" : "00205"
+ , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#205"
  , "c1" : "String"
  , "c2" : "getKey(Method)"
  , "c3" : "2"
@@ -236,458 +236,458 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#30"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method smetana.core.debug.Purify.Purify@POLYN172419 the MagicNumber/String  'CREATING ' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method smetana.core.debug.Purify.Purify@POLYN172617 the MagicNumber/String  'CREATING ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#36"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#69"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00036] Lock statement on synchronized method logline"
+ , "c3" : "QC-JAV000019[00069] Lock statement on synchronized method logline"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#36"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method logline arguments String  s"
+ , "c3" : "QC-JAV000006[00069] For method logline arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#38"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method smetana.core.debug.Purify.logline@POLYN172867 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method smetana.core.debug.Purify.logline@POLYN173065 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#44"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#77"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00044] Lock statement on synchronized method entering"
+ , "c3" : "QC-JAV000019[00077] Lock statement on synchronized method entering"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#44"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method entering arguments String  signature|String  methodNameDeclared"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method smetana.core.debug.Purify.entering@POLYN173209 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method smetana.core.debug.Purify.entering@POLYN173209 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method smetana.core.debug.Purify.entering@POLYN173209 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method smetana.core.debug.Purify.entering@POLYN173209 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#62"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00062] Lock statement on synchronized method leaving"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#62"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method leaving arguments String  signature|String  methodName"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#66"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method traceCall arguments PrintWriter  pw|String  signature|String  methodNameDeclared"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method smetana.core.debug.Purify.traceCall@POLYN174406 the MagicNumber/String  '(%02d) %-26.26s [%-10.10s] %s' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method smetana.core.debug.Purify.traceCall@POLYN174406 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000006[00077] For method entering arguments String  signature|String  methodNameDeclared"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#78"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00078] In method smetana.core.debug.Purify.entering@POLYN173407 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#83"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00083] In method smetana.core.debug.Purify.entering@POLYN173407 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#83"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00083] In method smetana.core.debug.Purify.entering@POLYN173407 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#88"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00088] In method smetana.core.debug.Purify.entering@POLYN173407 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#95"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00078] Lock statement on synchronized method recordMe"
+ , "c3" : "QC-JAV000019[00095] Lock statement on synchronized method leaving"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#78"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#95"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method recordMe arguments String  methodNameDeclared"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#78"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00078] For method recordMe list of called methods Object monObjet|java.lang.reflect.Method getTheMethodN175988|java.lang.reflect.Method getTheMethodN176245"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#78"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00078] The argument methodNameDeclared is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method smetana.core.debug.Purify.recordMe@POLYN175167 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method smetana.core.debug.Purify.recordMe@POLYN175167 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000006[00095] For method leaving arguments String  signature|String  methodName"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method smetana.core.debug.Purify.recordMe@POLYN175167 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#103"
- , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00103] Lock statement on synchronized method checkWarning"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#103"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00103] For method checkWarning arguments String  methodNameDeclared|Method  theMethod3"
+ , "c3" : "QC-JAV000006[00099] For method traceCall arguments PrintWriter  pw|String  signature|String  methodNameDeclared"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#103"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00103] The argument theMethod3 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#104"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method smetana.core.debug.Purify.checkWarning@POLYN176732 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method smetana.core.debug.Purify.traceCall@POLYN174604 the MagicNumber/String  '(%02d) %-26.26s [%-10.10s] %s' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method smetana.core.debug.Purify.checkWarning@POLYN176732 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method smetana.core.debug.Purify.traceCall@POLYN174604 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#107"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method smetana.core.debug.Purify.checkWarning@POLYN176732 the MagicNumber/String  '_w_' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method smetana.core.debug.Purify.checkWarning@POLYN176732 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method smetana.core.debug.Purify.checkWarning@POLYN176732 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#113"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#111"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00113] Lock statement on synchronized method getTheMethod"
+ , "c3" : "QC-JAV000019[00111] Lock statement on synchronized method recordMe"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#113"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#111"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method getTheMethod arguments Class&lt;? &gt;  theClass|String  methodName2"
+ , "c3" : "QC-JAV000006[00111] For method recordMe arguments String  methodNameDeclared"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#113"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#111"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00111] For method recordMe list of called methods Object monObjet|java.lang.reflect.Method getTheMethodN176186|java.lang.reflect.Method getTheMethodN176443"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#111"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00113] The argument theClass is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00111] The argument methodNameDeclared is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#122"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method smetana.core.debug.Purify.getTheMethod@POLYN177259 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method smetana.core.debug.Purify.recordMe@POLYN175365 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#130"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00130] For method printMe list of called methods Object monObjet|java.lang.String getReviewedWhenN178612|java.lang.String getVersionN178703|java.lang.String getPathN178794"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#134"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00134] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00115] In method smetana.core.debug.Purify.recordMe@POLYN175365 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#135"
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00135] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00132] In method smetana.core.debug.Purify.recordMe@POLYN175365 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00136] Avoid declaring class instance within loop, performance impact"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00136] Lock statement on synchronized method checkWarning"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#136"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00136] For method checkWarning arguments String  methodNameDeclared|Method  theMethod3"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#136"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00136] The argument theMethod3 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00137] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00137] In method smetana.core.debug.Purify.checkWarning@POLYN176930 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00138] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00139] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method smetana.core.debug.Purify.printMe@POLYN178008 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method smetana.core.debug.Purify.printMe@POLYN178008 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method smetana.core.debug.Purify.checkWarning@POLYN176930 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method smetana.core.debug.Purify.printMe@POLYN178008 the MagicNumber/String  '%-8s %-26s %-12s %s %-30s %s%n' should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method smetana.core.debug.Purify.checkWarning@POLYN176930 the MagicNumber/String  '_w_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#145"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#141"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00141] In method smetana.core.debug.Purify.checkWarning@POLYN176930 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#143"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00143] In method smetana.core.debug.Purify.checkWarning@POLYN176930 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#146"
+ , "c2" : "INFO"
+ , "c3" : "QC-JAV000019[00146] Lock statement on synchronized method getTheMethod"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#146"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00145] For method getVersion arguments Method  method"
+ , "c3" : "QC-JAV000006[00146] For method getTheMethod arguments Class&lt;? &gt;  theClass|String  methodName2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#145"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#146"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00145] The argument method is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#147"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method smetana.core.debug.Purify.getVersion@POLYN179311 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#148"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method smetana.core.debug.Purify.getVersion@POLYN179311 the MagicNumber/String  'XX' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#152"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00152] For method getPath arguments Method  method"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#152"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00152] The argument method is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#154"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method smetana.core.debug.Purify.getPath@POLYN179641 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAVCWE476[00146] The argument theClass is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method smetana.core.debug.Purify.getPath@POLYN179641 the MagicNumber/String  'XX' should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method smetana.core.debug.Purify.getTheMethod@POLYN177457 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#159"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#163"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00159] For method getReviewedWhen arguments Method  method"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#159"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00159] The argument method is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#161"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method smetana.core.debug.Purify.getReviewedWhen@POLYN179971 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#162"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method smetana.core.debug.Purify.getReviewedWhen@POLYN179971 the MagicNumber/String  '?' should be converted to const"
+ , "c3" : "QC-JAV000007[00163] For method printMe list of called methods Object monObjet|java.lang.String getReviewedWhenN178810|java.lang.String getVersionN178901|java.lang.String getPathN178992"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#167"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00167] For method hasND_Rank arguments Method  method"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00167] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#167"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00167] The argument method is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00168] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method smetana.core.debug.Purify.hasND_Rank@POLYN180319 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00169] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#170"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00170] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00171] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00172"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00172] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method smetana.core.debug.Purify.printMe@POLYN178206 the MagicNumber/String  '*' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method smetana.core.debug.Purify.printMe@POLYN178206 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#173"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00173] In method smetana.core.debug.Purify.printMe@POLYN178206 the MagicNumber/String  '%-8s %-26s %-12s %s %-30s %s%n' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#178"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00172] For method getKey arguments Method  method"
+ , "c3" : "QC-JAV000006[00178] For method getVersion arguments Method  method"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#172"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#178"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00172] The argument method is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00178] The argument method is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#174"
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method smetana.core.debug.Purify.getKey@POLYN180560 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method smetana.core.debug.Purify.getVersion@POLYN179509 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00175"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#175"
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method smetana.core.debug.Purify.getKey@POLYN180560 the MagicNumber/String  '?' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method smetana.core.debug.Purify.getVersion@POLYN179509 the MagicNumber/String  'XX' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#126"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00126] Public method reset is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#185"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00185] For method getPath arguments Method  method"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#130"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#185"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00185] The argument method is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00187] In method smetana.core.debug.Purify.getPath@POLYN179839 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#188"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00188] In method smetana.core.debug.Purify.getPath@POLYN179839 the MagicNumber/String  'XX' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#192"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00192] For method getReviewedWhen arguments Method  method"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#192"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00192] The argument method is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00194] In method smetana.core.debug.Purify.getReviewedWhen@POLYN180169 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00195"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#195"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00195] In method smetana.core.debug.Purify.getReviewedWhen@POLYN180169 the MagicNumber/String  '?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#200"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00200] For method hasND_Rank arguments Method  method"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#200"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00200] The argument method is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#202"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00202] In method smetana.core.debug.Purify.hasND_Rank@POLYN180517 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#205"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00205] For method getKey arguments Method  method"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#205"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00205] The argument method is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00207"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#207"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00207] In method smetana.core.debug.Purify.getKey@POLYN180758 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#208"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00208] In method smetana.core.debug.Purify.getKey@POLYN180758 the MagicNumber/String  '?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#159"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00130] Public method printMe is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00159] Public method reset is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#163"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00163] Public method printMe is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

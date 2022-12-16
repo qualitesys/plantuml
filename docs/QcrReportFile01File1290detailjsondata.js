@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.error.PSystemErrorUtils" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#15"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#48"
  , "c1" : "PSystemError"
  , "c2" : "buildV2(UmlSource;ErrorUml;List<String>;List<StringLocated>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#23"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#56"
  , "c1" : "PSystemError"
  , "c2" : "merge(Collection<PSystemError>)"
  , "c3" : "8"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#51"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#84"
  , "c1" : "PSystemErrorV2"
  , "c2" : "mergeV2(List<PSystemErrorV2>)"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#60"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#93"
  , "c1" : "boolean"
  , "c2" : "isDiagramError(Class<?extendsDiagram>)"
  , "c3" : "1"
@@ -116,115 +116,115 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#15"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method buildV2 arguments UmlSource  source|ErrorUml  singleError|List&lt;String &gt;  debugLines|List&lt;StringLocated &gt;  list"
+ , "c3" : "QC-JAV000006[00048] For method buildV2 arguments UmlSource  source|ErrorUml  singleError|List&lt;String &gt;  debugLines|List&lt;StringLocated &gt;  list"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method merge arguments Collection&lt;PSystemError &gt;  ps"
+ , "c3" : "QC-JAV000006[00056] For method merge arguments Collection&lt;PSystemError &gt;  ps"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00023] The argument ps is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00056] The argument ps is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#39"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00039] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00072] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#40"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00040] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00073] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#24"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.error.PSystemErrorUtils.merge@POLYN153007 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.error.PSystemErrorUtils.merge@POLYN153007 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.error.PSystemErrorUtils.merge@POLYN153007 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.error.PSystemErrorUtils.merge@POLYN153007 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.error.PSystemErrorUtils.merge@POLYN153007 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.error.PSystemErrorUtils.merge@POLYN153007 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.error.PSystemErrorUtils.merge@POLYN153007 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#51"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method mergeV2 arguments List&lt;PSystemErrorV2 &gt;  errorsV2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.error.PSystemErrorUtils.mergeV2@POLYN154397 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.error.PSystemErrorUtils.mergeV2@POLYN154397 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.error.PSystemErrorUtils.merge@POLYN153205 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#60"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.error.PSystemErrorUtils.merge@POLYN153205 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#65"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.error.PSystemErrorUtils.merge@POLYN153205 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#68"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.error.PSystemErrorUtils.merge@POLYN153205 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#68"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.error.PSystemErrorUtils.merge@POLYN153205 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.error.PSystemErrorUtils.merge@POLYN153205 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#78"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.error.PSystemErrorUtils.merge@POLYN153205 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method isDiagramError arguments Class&lt;?  extends Diagram &gt;  type"
+ , "c3" : "QC-JAV000006[00084] For method mergeV2 arguments List&lt;PSystemErrorV2 &gt;  errorsV2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.error.PSystemErrorUtils.mergeV2@POLYN154595 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#87"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.error.PSystemErrorUtils.mergeV2@POLYN154595 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#93"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00093] For method isDiagramError arguments Class&lt;?  extends Diagram &gt;  type"
 }} 
 ]
 , 

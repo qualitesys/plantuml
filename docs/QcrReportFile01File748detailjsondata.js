@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.argon2.model.Position" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/model/Position.java.html#11"
+ , "c5" : "00015"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/model/Position.java.html#15"
  , "c1" : "Position"
  , "c2" : "Position(int;int;int;int)"
  , "c3" : "1"
@@ -68,31 +68,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00006"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Position.java.html#6"
+ , "c1" : "00010"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Position.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00006] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00010] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Position.java.html#7"
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Position.java.html#11"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00007] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00011] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Position.java.html#8"
+ , "c1" : "00012"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Position.java.html#12"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00008] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00012] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Position.java.html#9"
+ , "c1" : "00013"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Position.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00009] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00013] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ]
 , 

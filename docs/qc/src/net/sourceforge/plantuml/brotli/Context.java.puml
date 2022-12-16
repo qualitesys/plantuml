@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.brotli.Context"
 class net.sourceforge.plantuml.brotli.Context {
--unpackLookupTable(int[];String;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53]]]
+-unpackLookupTable(int[];String;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55]]]
 } 
 @enduml

@@ -2,17 +2,17 @@
 !pragma layout smetana
 "UmlDiagram" <|-- "net.sourceforge.plantuml.wbs.WBSDiagram"
 class net.sourceforge.plantuml.wbs.WBSDiagram {
-+getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#33]]]
-+WBSDiagram(UmlSource) : WBSDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#37]]]
-exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#42]]]
--getTextBlock() : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#48]]]
--drawMe(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#74]]]
--getDrawingElement() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#79]]]
-+addIdea(HColor;int;String;Direction;IdeaShape) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#86]]]
-+addIdea(HColor;int;Display;String;Direction;IdeaShape) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#98]]]
--initRoot(HColor;Display;String;IdeaShape) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#119]]]
--getParentOfLast(int) : WElement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#124]]]
-+getSmartLevel(String) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#132]]]
--add(HColor;int;Display;String;Direction;IdeaShape) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#154]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#67]]]
++WBSDiagram(UmlSource) : WBSDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#71]]]
+exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#76]]]
+-getTextBlock() : TextBlockBackcolored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#82]]]
+-drawMe(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#108]]]
+-getDrawingElement() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#113]]]
++addIdea(HColor;int;String;Direction;IdeaShape) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#120]]]
++addIdea(HColor;int;Display;String;Direction;IdeaShape) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#132]]]
+-initRoot(HColor;Display;String;IdeaShape) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#153]]]
+-getParentOfLast(int) : WElement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#158]]]
++getSmartLevel(String) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#166]]]
+-add(HColor;int;Display;String;Direction;IdeaShape) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagram.java.html#188]]]
 } 
 @enduml

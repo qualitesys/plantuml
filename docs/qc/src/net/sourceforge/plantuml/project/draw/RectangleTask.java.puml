@@ -2,14 +2,14 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.project.draw.RectangleTask"
 class net.sourceforge.plantuml.project.draw.RectangleTask {
-+RectangleTask(double;double;double;int;Collection<Segment>) : RectangleTask [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#24]]]
--draw2hlines(UGraphic;double;ULine) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#34]]]
--drawRect(double;UGraphic;HColor;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#39]]]
-+draw(UGraphic;double;HColor;boolean;boolean) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#53]]]
--drawWithRound(UGraphic;double;HColor) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#91]]]
--drawWithoutRound(UGraphic;double;HColor;boolean;boolean) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#107]]]
--getFullSegmentsLength() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#141]]]
--drawIntermediateDotted(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#148]]]
--drawPartly(double;UGraphic;Segment;double;HColor;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#159]]]
++RectangleTask(double;double;double;int;Collection<Segment>) : RectangleTask [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#58]]]
+-draw2hlines(UGraphic;double;ULine) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#68]]]
+-drawRect(double;UGraphic;HColor;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#73]]]
++draw(UGraphic;double;HColor;boolean;boolean) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#87]]]
+-drawWithRound(UGraphic;double;HColor) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#125]]]
+-drawWithoutRound(UGraphic;double;HColor;boolean;boolean) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#141]]]
+-getFullSegmentsLength() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#175]]]
+-drawIntermediateDotted(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#182]]]
+-drawPartly(double;UGraphic;Segment;double;HColor;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#193]]]
 } 
 @enduml

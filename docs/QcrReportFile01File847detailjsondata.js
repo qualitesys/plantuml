@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.brotli.BrotliRuntimeException" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/BrotliRuntimeException.java.html#16"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/BrotliRuntimeException.java.html#18"
  , "c1" : "BrotliRuntimeException"
  , "c2" : "BrotliRuntimeException(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/BrotliRuntimeException.java.html#16"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/BrotliRuntimeException.java.html#18"
  , "c1" : "BrotliRuntimeException"
  , "c2" : "BrotliRuntimeException(String;Throwable)"
  , "c3" : "1"

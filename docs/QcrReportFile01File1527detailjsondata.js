@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.nwdiag.next.BooleanGrid" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#11"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#44"
  , "c1" : "int"
  , "c2" : "merge(int;int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#15"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#48"
  , "c1" : "void"
  , "c2" : "burn(int;int)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#22"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#55"
  , "c1" : "boolean"
  , "c2" : "isBurned(int;int)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#26"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#59"
  , "c1" : "void"
  , "c2" : "burnRect(int;int;int;int)"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#33"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#66"
  , "c1" : "boolean"
  , "c2" : "isBurnRect(int;int;int;int)"
  , "c3" : "4"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#42"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#75"
  , "c1" : "void"
  , "c2" : "check(int;int;int;int)"
  , "c3" : "4"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#56"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#89"
  , "c1" : "boolean"
  , "c2" : "isSpaceAvailable(Staged;int)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#63"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#96"
  , "c1" : "void"
  , "c2" : "useSpace(Staged;int)"
  , "c3" : "1"
@@ -145,164 +145,164 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#11"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#44"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00011] For method merge arguments int  x|int  y"
+ , "c3" : "QC-JAV000006[00044] For method merge arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#12"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.merge@POLYN154900 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.merge@POLYN155098 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#15"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method burn arguments int  x|int  y"
+ , "c3" : "QC-JAV000006[00048] For method burn arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#17"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.burn@POLYN155093 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.burn@POLYN155291 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#18"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.burn@POLYN155093 the MagicNumber/String  'Already present' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.burn@POLYN155291 the MagicNumber/String  'Already present' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#22"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method isBurned arguments int  x|int  y"
+ , "c3" : "QC-JAV000006[00055] For method isBurned arguments int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#26"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method burnRect arguments int  x1|int  y1|int  x2|int  y2"
+ , "c3" : "QC-JAV000006[00059] For method burnRect arguments int  x1|int  y1|int  x2|int  y2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#33"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method isBurnRect arguments int  x1|int  y1|int  x2|int  y2"
+ , "c3" : "QC-JAV000006[00066] For method isBurnRect arguments int  x1|int  y1|int  x2|int  y2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#38"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isBurnRect@POLYN156337 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isBurnRect@POLYN156535 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#39"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isBurnRect@POLYN156337 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isBurnRect@POLYN156535 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#42"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#75"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method check arguments int  x1|int  y1|int  x2|int  y2"
+ , "c3" : "QC-JAV000006[00075] For method check arguments int  x1|int  y1|int  x2|int  y2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#43"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.check@POLYN157053 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.check@POLYN157251 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#43"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.check@POLYN157053 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.check@POLYN157251 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#43"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.check@POLYN157053 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.check@POLYN157251 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#43"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.check@POLYN157053 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.check@POLYN157251 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#56"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#89"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method isSpaceAvailable arguments Staged  element|int  x"
+ , "c3" : "QC-JAV000006[00089] For method isSpaceAvailable arguments Staged  element|int  x"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#56"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#89"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00056] The argument element is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00089] The argument element is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#57"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isSpaceAvailable@POLYN157717 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isSpaceAvailable@POLYN157915 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#58"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isSpaceAvailable@POLYN157717 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isSpaceAvailable@POLYN157915 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#60"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isSpaceAvailable@POLYN157717 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isSpaceAvailable@POLYN157915 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#63"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#96"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00063] For method useSpace arguments Staged  element|int  x"
+ , "c3" : "QC-JAV000006[00096] For method useSpace arguments Staged  element|int  x"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#63"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#96"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00063] The argument element is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00096] The argument element is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#64"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.useSpace@POLYN158156 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.useSpace@POLYN158354 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

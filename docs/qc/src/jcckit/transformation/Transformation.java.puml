@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "jcckit.transformation.Transformation"
 class jcckit.transformation.Transformation {
-+transformToGraph(DataPoint) : GraphPoint [[[./../../../.././qc/src/jcckit/transformation/Transformation.java.html#10]]]
-+transformToData(GraphPoint) : DataPoint [[[./../../../.././qc/src/jcckit/transformation/Transformation.java.html#13]]]
++transformToGraph(DataPoint) : GraphPoint [[[./../../../.././qc/src/jcckit/transformation/Transformation.java.html#36]]]
++transformToData(GraphPoint) : DataPoint [[[./../../../.././qc/src/jcckit/transformation/Transformation.java.html#43]]]
 } 
 @enduml

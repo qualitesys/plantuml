@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "ext.plantuml.com.google.zxing.BarcodeFormat"
 class ext.plantuml.com.google.zxing.BarcodeFormat {
--BarcodeFormat(String) : BarcodeFormat [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#61]]]
-+getName() : String [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#66]]]
-+toString() : String [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#70]]]
-+valueOf(String) : BarcodeFormat [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#74]]]
+-BarcodeFormat(String) : BarcodeFormat [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#79]]]
++getName() : String [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#84]]]
++toString() : String [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#88]]]
++valueOf(String) : BarcodeFormat [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/BarcodeFormat.java.html#92]]]
 } 
 @enduml

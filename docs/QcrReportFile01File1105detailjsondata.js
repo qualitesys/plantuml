@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.Ident" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#49"
  , "c1" : "Ident"
  , "c2" : "Ident(List<String>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#54"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#58"
  , "c1" : "boolean"
  , "c2" : "startsWith(Ident)"
  , "c3" : "4"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#70"
  , "c1" : "String"
  , "c2" : "forXmi()"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#47"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#81"
  , "c1" : "Ident"
  , "c2" : "add(Ident)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#53"
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#87"
  , "c1" : "Ident"
  , "c2" : "empty()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#57"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#91"
  , "c1" : "String"
  , "c2" : "getLast()"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#64"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#98"
  , "c1" : "Code"
  , "c2" : "toCode(CucaDiagram)"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#70"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#104"
  , "c1" : "Ident"
  , "c2" : "eventuallyRemoveStartingAndEndingDoubleQuote(String)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#77"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#111"
  , "c1" : "Ident"
  , "c2" : "removeStartingParenthesis()"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#88"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#122"
  , "c1" : "Ident"
  , "c2" : "addSuffix(String)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#96"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#130"
  , "c1" : "Ident"
  , "c2" : "removeMemberPart()"
  , "c3" : "2"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00108"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#108"
+ , "c5" : "00142"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#142"
  , "c1" : "String"
  , "c2" : "getPortMember()"
  , "c3" : "2"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00117"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#117"
+ , "c5" : "00151"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#151"
  , "c1" : "Ident"
  , "c2" : "from(String;String)"
  , "c3" : "5"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00137"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#137"
+ , "c5" : "00171"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#171"
  , "c1" : "boolean"
  , "c2" : "isOdd(String;String)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00141"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#141"
+ , "c5" : "00175"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#175"
  , "c1" : "void"
  , "c2" : "checkResult(String)"
  , "c3" : "4"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00153"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#153"
+ , "c5" : "00187"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#187"
  , "c1" : "Ident"
  , "c2" : "add(String;String)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00164"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#164"
+ , "c5" : "00198"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#198"
  , "c1" : "Ident"
  , "c2" : "parent()"
  , "c3" : "2"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00172"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#172"
+ , "c5" : "00206"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#206"
  , "c1" : "boolean"
  , "c2" : "equals(Object)"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00178"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#178"
+ , "c5" : "00212"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#212"
  , "c1" : "int"
  , "c2" : "hashCode()"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00182"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#182"
+ , "c5" : "00216"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#216"
  , "c1" : "String"
  , "c2" : "toString(String)"
  , "c3" : "4"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00196"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#196"
+ , "c5" : "00230"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#230"
  , "c1" : "void"
  , "c2" : "checkSameAs(Code;String;CucaDiagram)"
  , "c3" : "6"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00217"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#217"
+ , "c5" : "00251"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#251"
  , "c1" : "String"
  , "c2" : "getLastPart(String;String)"
  , "c3" : "3"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00232"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#232"
+ , "c5" : "00266"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#266"
  , "c1" : "String"
  , "c2" : "getName()"
  , "c3" : "1"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00236"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#236"
+ , "c5" : "00270"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#270"
  , "c1" : "boolean"
  , "c2" : "isRoot()"
  , "c3" : "1"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00240"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#240"
+ , "c5" : "00274"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#274"
  , "c1" : "Ident"
  , "c2" : "move(Ident;Ident)"
  , "c3" : "3"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00251"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#251"
+ , "c5" : "00285"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#285"
  , "c1" : "int"
  , "c2" : "size()"
  , "c3" : "1"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00255"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#255"
+ , "c5" : "00289"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#289"
  , "c1" : "Ident"
  , "c2" : "getPrefix(int)"
  , "c3" : "1"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00259"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#259"
+ , "c5" : "00293"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#293"
  , "c1" : "Ident"
  , "c2" : "getSuffix(int)"
  , "c3" : "1"
@@ -341,556 +341,556 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method startsWith arguments Ident  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#24"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00024] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.cucadiagram.Ident.startsWith@POLYN184941 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.cucadiagram.Ident.startsWith@POLYN184941 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.cucadiagram.Ident.startsWith@POLYN184941 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.cucadiagram.Ident.startsWith@POLYN184941 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.cucadiagram.Ident.startsWith@POLYN184941 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#39"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.cucadiagram.Ident.forXmi@POLYN185656 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.cucadiagram.Ident.forXmi@POLYN185656 the MagicNumber/String  '.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#47"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00047] For method add arguments Ident  added"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#47"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00047] The argument added is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000006[00058] For method startsWith arguments Ident  other"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.cucadiagram.Ident.getLast@POLYN186686 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.cucadiagram.Ident.getLast@POLYN186686 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.cucadiagram.Ident.getLast@POLYN186686 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#64"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method toCode arguments CucaDiagram  diagram"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#64"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00064] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00058] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#70"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00070] For method eventuallyRemoveStartingAndEndingDoubleQuote arguments String  format"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#72"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.cucadiagram.Ident.eventuallyRemoveStartingAndEndingDoubleQuote@POLYN187230 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.cucadiagram.Ident.startsWith@POLYN185145 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#79"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.cucadiagram.Ident.removeStartingParenthesis@POLYN187802 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.cucadiagram.Ident.startsWith@POLYN185145 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.cucadiagram.Ident.startsWith@POLYN185145 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#64"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.cucadiagram.Ident.startsWith@POLYN185145 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#67"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.cucadiagram.Ident.startsWith@POLYN185145 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#73"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.cucadiagram.Ident.forXmi@POLYN185860 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.cucadiagram.Ident.forXmi@POLYN185860 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.cucadiagram.Ident.removeStartingParenthesis@POLYN187802 the MagicNumber/String  '()' should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00081] For method add arguments Ident  added"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.cucadiagram.Ident.removeStartingParenthesis@POLYN187802 the MagicNumber/String  false should be converted to const"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00081] The argument added is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#84"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.cucadiagram.Ident.removeStartingParenthesis@POLYN187802 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.cucadiagram.Ident.getLast@POLYN186890 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#88"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method addSuffix arguments String  suffix"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.cucadiagram.Ident.getLast@POLYN186890 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#90"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.cucadiagram.Ident.addSuffix@POLYN188620 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.cucadiagram.Ident.getLast@POLYN186890 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.cucadiagram.Ident.removeMemberPart@POLYN189153 the MagicNumber/String  '::' should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00098] For method toCode arguments CucaDiagram  diagram"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.cucadiagram.Ident.removeMemberPart@POLYN189153 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.cucadiagram.Ident.removeMemberPart@POLYN189153 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.cucadiagram.Ident.removeMemberPart@POLYN189153 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#98"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00098] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.cucadiagram.Ident.removeMemberPart@POLYN189153 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.cucadiagram.Ident.getPortMember@POLYN189959 the MagicNumber/String  '::' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.cucadiagram.Ident.getPortMember@POLYN189959 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#112"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.cucadiagram.Ident.getPortMember@POLYN189959 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.cucadiagram.Ident.getPortMember@POLYN189959 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#117"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00117] For method from arguments String  full|String  separator"
+ , "c3" : "QC-JAV000006[00104] For method eventuallyRemoveStartingAndEndingDoubleQuote arguments String  format"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#117"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00117] The argument full is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#117"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00117] The argument separator is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#123"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.cucadiagram.Ident.from@POLYN190406 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.cucadiagram.Ident.eventuallyRemoveStartingAndEndingDoubleQuote@POLYN187434 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#125"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.cucadiagram.Ident.from@POLYN190406 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.Ident.removeStartingParenthesis@POLYN188006 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#130"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.cucadiagram.Ident.from@POLYN190406 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.cucadiagram.Ident.removeStartingParenthesis@POLYN188006 the MagicNumber/String  '()' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#131"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.cucadiagram.Ident.from@POLYN190406 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.cucadiagram.Ident.removeStartingParenthesis@POLYN188006 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.cucadiagram.Ident.removeStartingParenthesis@POLYN188006 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#122"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00122] For method addSuffix arguments String  suffix"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#124"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.cucadiagram.Ident.addSuffix@POLYN188824 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#132"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.cucadiagram.Ident.removeMemberPart@POLYN189357 the MagicNumber/String  '::' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.cucadiagram.Ident.removeMemberPart@POLYN189357 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#134"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.cucadiagram.Ident.removeMemberPart@POLYN189357 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#137"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00137] For method isOdd arguments String  full|String  separator"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#137"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00137] The argument full is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.cucadiagram.Ident.removeMemberPart@POLYN189357 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.cucadiagram.Ident.isOdd@POLYN191633 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.cucadiagram.Ident.removeMemberPart@POLYN189357 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#141"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00141] For method checkResult arguments String  separator"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#143"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.cucadiagram.Ident.checkResult@POLYN191926 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.cucadiagram.Ident.getPortMember@POLYN190163 the MagicNumber/String  '::' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#145"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.cucadiagram.Ident.getPortMember@POLYN190163 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.cucadiagram.Ident.checkResult@POLYN191926 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.cucadiagram.Ident.getPortMember@POLYN190163 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#146"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.cucadiagram.Ident.checkResult@POLYN191926 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.cucadiagram.Ident.getPortMember@POLYN190163 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#147"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.cucadiagram.Ident.checkResult@POLYN191926 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#153"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#151"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00153] For method add arguments String  sup|String  separator"
+ , "c3" : "QC-JAV000006[00151] For method from arguments String  full|String  separator"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#151"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00151] The argument full is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#151"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00151] The argument separator is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.cucadiagram.Ident.from@POLYN190610 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.cucadiagram.Ident.from@POLYN190610 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.cucadiagram.Ident.from@POLYN190610 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.cucadiagram.Ident.parent@POLYN193528 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.cucadiagram.Ident.from@POLYN190610 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#168"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.cucadiagram.Ident.parent@POLYN193528 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#171"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00171] For method isOdd arguments String  full|String  separator"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#168"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.cucadiagram.Ident.parent@POLYN193528 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#171"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00171] The argument full is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00172"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#172"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00172] For method equals arguments Object  obj"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00182"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#182"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00182] For method toString arguments String  sep"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.cucadiagram.Ident.toString@POLYN194285 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.cucadiagram.Ident.isOdd@POLYN191837 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#184"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.cucadiagram.Ident.toString@POLYN194285 the MagicNumber/String  '.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00188"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#188"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.cucadiagram.Ident.toString@POLYN194285 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#196"
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#175"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00196] For method checkSameAs arguments Code  code|String  separator|CucaDiagram  diagram"
+ , "c3" : "QC-JAV000006[00175] For method checkResult arguments String  separator"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#196"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00196] The argument code is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.cucadiagram.Ident.checkResult@POLYN192130 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#196"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00196] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#180"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.cucadiagram.Ident.checkResult@POLYN192130 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#180"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.cucadiagram.Ident.checkResult@POLYN192130 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#181"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.cucadiagram.Ident.checkResult@POLYN192130 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#187"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00187] For method add arguments String  sup|String  separator"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#199"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.cucadiagram.Ident.parent@POLYN193732 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00202] The same method call code.getName()toString(separator) is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00200"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#200"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.cucadiagram.Ident.checkSameAs@POLYN194931 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#201"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.cucadiagram.Ident.checkSameAs@POLYN194931 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.cucadiagram.Ident.parent@POLYN193732 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.cucadiagram.Ident.checkSameAs@POLYN194931 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.cucadiagram.Ident.parent@POLYN193732 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#202"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.cucadiagram.Ident.checkSameAs@POLYN194931 the MagicNumber/String  false should be converted to const"
+ , "c1" : "00206"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#206"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00206] For method equals arguments Object  obj"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#208"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.cucadiagram.Ident.checkSameAs@POLYN194931 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00209"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#209"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.cucadiagram.Ident.checkSameAs@POLYN194931 the MagicNumber/String  false should be converted to const"
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#216"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00216] For method toString arguments String  sep"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00217"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#217"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00217] For method getLastPart arguments String  fullName|String  separator"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00217"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#217"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00217] The argument fullName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.cucadiagram.Ident.toString@POLYN194489 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00218"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.cucadiagram.Ident.getLastPart@POLYN196075 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.cucadiagram.Ident.toString@POLYN194489 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00222"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.cucadiagram.Ident.getLastPart@POLYN196075 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.cucadiagram.Ident.toString@POLYN194489 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00237"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#237"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.cucadiagram.Ident.isRoot@POLYN196713 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00240"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#240"
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#230"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00240] For method move arguments Ident  from|Ident  to"
+ , "c3" : "QC-JAV000006[00230] For method checkSameAs arguments Code  code|String  separator|CucaDiagram  diagram"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00240"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#240"
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#230"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00240] The argument from is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00230] The argument code is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00240"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#240"
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#230"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00240] The argument to is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00230] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00241"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#241"
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.cucadiagram.Ident.move@POLYN196843 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000021[00236] The same method call code.getName()toString(separator) is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00255"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#255"
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#234"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.cucadiagram.Ident.checkSameAs@POLYN195135 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00235"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#235"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.cucadiagram.Ident.checkSameAs@POLYN195135 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#236"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.cucadiagram.Ident.checkSameAs@POLYN195135 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#236"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.cucadiagram.Ident.checkSameAs@POLYN195135 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#242"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.cucadiagram.Ident.checkSameAs@POLYN195135 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00243"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#243"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.cucadiagram.Ident.checkSameAs@POLYN195135 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00251"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#251"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00255] For method getPrefix arguments int  toIndex"
+ , "c3" : "QC-JAV000006[00251] For method getLastPart arguments String  fullName|String  separator"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00251"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#251"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00251] The argument fullName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00252"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#252"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.cucadiagram.Ident.getLastPart@POLYN196279 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00256"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#256"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.cucadiagram.Ident.getPrefix@POLYN197762 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.cucadiagram.Ident.getLastPart@POLYN196279 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00259"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#259"
+ , "c1" : "00271"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#271"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.cucadiagram.Ident.isRoot@POLYN196917 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00274"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#274"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00259] For method getSuffix arguments int  fromIndex"
+ , "c3" : "QC-JAV000006[00274] For method move arguments Ident  from|Ident  to"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00274"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#274"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00274] The argument from is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00274"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#274"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00274] The argument to is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00275"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#275"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.cucadiagram.Ident.move@POLYN197047 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00289"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#289"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00289] For method getPrefix arguments int  toIndex"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00290"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#290"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.cucadiagram.Ident.getPrefix@POLYN197966 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00293"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#293"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00293] For method getSuffix arguments int  fromIndex"
 }} 
 ]
 , 

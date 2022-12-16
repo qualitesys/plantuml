@@ -2,14 +2,14 @@
 !pragma layout smetana
 "UGraphicNo" <|-- "net.sourceforge.plantuml.ugraphic.TextLimitFinder"
 class net.sourceforge.plantuml.ugraphic.TextLimitFinder {
-+apply(UChange) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#15]]]
-+create(StringBounder;boolean) : TextLimitFinder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#23]]]
--TextLimitFinder(StringBounder;UTranslate;MinMaxMutable) : TextLimitFinder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#27]]]
-+draw(UShape) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#32]]]
--drawText(double;double;UText) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#40]]]
-+getMaxX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#50]]]
-+getMaxY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#54]]]
-+getMinX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#58]]]
-+getMinY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#62]]]
++apply(UChange) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#49]]]
++create(StringBounder;boolean) : TextLimitFinder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#57]]]
+-TextLimitFinder(StringBounder;UTranslate;MinMaxMutable) : TextLimitFinder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#61]]]
++draw(UShape) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#66]]]
+-drawText(double;double;UText) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#74]]]
++getMaxX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#84]]]
++getMaxY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#88]]]
++getMinX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#92]]]
++getMinY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#96]]]
 } 
 @enduml

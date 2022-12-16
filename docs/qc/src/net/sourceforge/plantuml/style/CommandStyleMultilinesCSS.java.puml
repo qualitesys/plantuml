@@ -2,9 +2,9 @@
 !pragma layout smetana
 "CommandMultilines2<TitledDiagram>" <|-- "net.sourceforge.plantuml.style.CommandStyleMultilinesCSS"
 class net.sourceforge.plantuml.style.CommandStyleMultilinesCSS {
-+CommandStyleMultilinesCSS() : CommandStyleMultilinesCSS [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#17]]]
-+getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#22]]]
--getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#26]]]
-executeNow(TitledDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#33]]]
++CommandStyleMultilinesCSS() : CommandStyleMultilinesCSS [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#51]]]
++getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#56]]]
+-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#60]]]
+executeNow(TitledDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#67]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#8"
+ , "c5" : "00025"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#25"
  , "c1" : "MaskUtil"
  , "c2" : "MaskUtil()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#14"
+ , "c5" : "00031"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#31"
  , "c1" : "int"
  , "c2" : "applyMaskPenaltyRule1(ByteMatrix)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#20"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#37"
  , "c1" : "int"
  , "c2" : "applyMaskPenaltyRule2(ByteMatrix)"
  , "c3" : "4"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#39"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#56"
  , "c1" : "int"
  , "c2" : "applyMaskPenaltyRule3(ByteMatrix)"
  , "c3" : "5"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#101"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#118"
  , "c1" : "int"
  , "c2" : "applyMaskPenaltyRule4(ByteMatrix)"
  , "c3" : "4"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00120"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#120"
+ , "c5" : "00137"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#137"
  , "c1" : "boolean"
  , "c2" : "getDataMaskBit(int;int;int)"
  , "c3" : "10"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00161"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#161"
+ , "c5" : "00178"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#178"
  , "c1" : "int"
  , "c2" : "applyMaskPenaltyRule1Internal(ByteMatrix;boolean)"
  , "c3" : "8"
@@ -143,1011 +143,1011 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#14"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#31"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method applyMaskPenaltyRule1 arguments ByteMatrix  matrix"
+ , "c3" : "QC-JAV000006[00031] For method applyMaskPenaltyRule1 arguments ByteMatrix  matrix"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#15"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1@POLYN170501 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1@POLYN170603 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#15"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1@POLYN170501 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1@POLYN170603 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#20"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#37"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method applyMaskPenaltyRule2 arguments ByteMatrix  matrix"
+ , "c3" : "QC-JAV000006[00037] For method applyMaskPenaltyRule2 arguments ByteMatrix  matrix"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#20"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#37"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00020] For method applyMaskPenaltyRule2 list of called methods Object monObjet|byte[][] matrix_getArrayN170912|int matrix_getWidthN170987|int matrix_getHeightN171062"
+ , "c3" : "QC-JAV000007[00037] For method applyMaskPenaltyRule2 list of called methods Object monObjet|byte[][] matrix_getArrayN171014|int matrix_getWidthN171089|int matrix_getHeightN171164"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#20"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#37"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument matrix is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00037] The argument matrix is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#21"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170746 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170848 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#25"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170746 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170848 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#25"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170746 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170848 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#26"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170746 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170848 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#26"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170746 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170746 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170746 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170746 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170746 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170746 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#39"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method applyMaskPenaltyRule3 arguments ByteMatrix  matrix"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#39"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00039] For method applyMaskPenaltyRule3 list of called methods Object monObjet|byte[][] matrix_getArrayN172288|int matrix_getWidthN172363|int matrix_getHeightN172438"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#39"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00039] The argument matrix is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170848 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170848 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#47"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170848 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#48"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170848 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#49"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170848 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#49"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule2@POLYN170848 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  7 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00056] For method applyMaskPenaltyRule3 arguments ByteMatrix  matrix"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00056] For method applyMaskPenaltyRule3 list of called methods Object monObjet|byte[][] matrix_getArrayN172390|int matrix_getWidthN172465|int matrix_getHeightN172540"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#56"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00056] The argument matrix is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  9 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  40 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#66"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00066] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#66"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00066] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#67"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00067] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#68"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00068] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  9 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  40 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172122 the MagicNumber/String  40 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#87"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00087] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#87"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00087] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#88"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00088] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#88"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00088] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  6 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#92"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00092] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  7 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#94"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00094] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#94"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00094] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  9 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#96"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00096] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#96"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00096] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00097] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00097] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#99"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00099] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#99"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00099] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00100] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00100] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#101"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00101] For method applyMaskPenaltyRule4 arguments ByteMatrix  matrix"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00101] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#101"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00101] For method applyMaskPenaltyRule4 list of called methods Object monObjet|byte[][] matrix_getArrayN177419|int matrix_getWidthN177494|int matrix_getHeightN177569|int matrix_getHeightN178166"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#101"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00101] The argument matrix is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00101] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177253 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule3@POLYN172224 the MagicNumber/String  40 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#106"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177253 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#107"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177253 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#108"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177253 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#109"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177253 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177253 the MagicNumber/String  100 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177253 the MagicNumber/String  50 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177253 the MagicNumber/String  5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177253 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#120"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#118"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00120] For method getDataMaskBit arguments int  maskPattern|int  x|int  y"
+ , "c3" : "QC-JAV000006[00118] For method applyMaskPenaltyRule4 arguments ByteMatrix  matrix"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#122"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#118"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00118] For method applyMaskPenaltyRule4 list of called methods Object monObjet|byte[][] matrix_getArrayN177521|int matrix_getWidthN177596|int matrix_getHeightN177671|int matrix_getHeightN178268"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#118"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00118] The argument matrix is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  'Invalid mask pattern' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177355 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177355 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#124"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00124] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177355 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177355 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#127"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  0x1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  0x1 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177355 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177355 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#133"
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177355 the MagicNumber/String  50 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#135"
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177355 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#136"
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule4@POLYN177355 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#138"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#137"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00137] For method getDataMaskBit arguments int  maskPattern|int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  0x1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  'Invalid mask pattern' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  0x1 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#143"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  0x1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#145"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  6 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#147"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  0x1 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#147"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  0x1 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  0x1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#151"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#151"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  0x1 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#151"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  0x1 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#154"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  'Invalid mask pattern: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178571 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#161"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00161] For method applyMaskPenaltyRule1Internal arguments ByteMatrix  matrix|boolean  isHorizontal"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00156] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#161"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00161] For method applyMaskPenaltyRule1Internal list of called methods Object monObjet|byte[][] matrix_getArrayN181653"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00156] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  0x1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#161"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00161] The argument matrix is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#158"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00158] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  0x1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181061 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#163"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181061 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181061 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  0x1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#176"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181061 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00177"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#177"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181061 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  0x1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#166"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00166] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  7 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00168] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00168] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  0x1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00168] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  0x1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00171] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  'Invalid mask pattern: ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#173"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00173] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.getDataMaskBit@POLYN178673 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#178"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00178] For method applyMaskPenaltyRule1Internal arguments ByteMatrix  matrix|boolean  isHorizontal"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#178"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00178] For method applyMaskPenaltyRule1Internal list of called methods Object monObjet|byte[][] matrix_getArrayN181755"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#178"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00178] The argument matrix is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#179"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00179] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181163 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181061 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181163 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#183"
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181061 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181163 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#184"
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181061 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181163 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#185"
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181061 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181163 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00188"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#188"
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181061 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181163 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00191"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#191"
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181061 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181163 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#195"
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181061 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181163 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#202"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00202] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181163 the MagicNumber/String  5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#205"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00205] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181163 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#208"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00208] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181163 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MaskUtil.java.html#212"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00212] In method ext.plantuml.com.google.zxing.qrcode.encoder.MaskUtil.applyMaskPenaltyRule1Internal@POLYN181163 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

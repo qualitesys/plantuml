@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.EaterIfndef" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#11"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#44"
  , "c1" : "EaterIfndef"
  , "c2" : "EaterIfndef(StringLocated)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#16"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#49"
  , "c1" : "void"
  , "c2" : "analyze(TContext;TMemory)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#23"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#56"
  , "c1" : "boolean"
  , "c2" : "isTrue(TContext;TMemory)"
  , "c3" : "1"
@@ -100,52 +100,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#16"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method analyze arguments TContext  context|TMemory  memory"
+ , "c3" : "QC-JAV000006[00049] For method analyze arguments TContext  context|TMemory  memory"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#18"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.tim.EaterIfndef.analyze@POLYN147242 the MagicNumber/String  '!ifndef' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.tim.EaterIfndef.analyze@POLYN147440 the MagicNumber/String  '!ifndef' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00023] For method isTrue arguments TContext  context|TMemory  memory"
+ , "c3" : "QC-JAV000006[00056] For method isTrue arguments TContext  context|TMemory  memory"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00023] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00056] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00023] The argument memory is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00056] The argument memory is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#25"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.tim.EaterIfndef.isTrue@POLYN147569 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.tim.EaterIfndef.isTrue@POLYN147767 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#25"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIfndef.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.tim.EaterIfndef.isTrue@POLYN147569 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.tim.EaterIfndef.isTrue@POLYN147767 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

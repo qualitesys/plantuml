@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#23"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#57"
  , "c1" : "CommandMindMapOrgmodeMultiline"
  , "c2" : "CommandMindMapOrgmodeMultiline()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#61"
  , "c1" : "IRegex"
  , "c2" : "getRegexConcat()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#38"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#72"
  , "c1" : "String"
  , "c2" : "getPatternEnd()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#43"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#77"
  , "c1" : "CommandExecutionResult"
  , "c2" : "executeNow(MindMapDiagram;BlocLines)"
  , "c3" : "4"
@@ -109,227 +109,227 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158632 the MagicNumber/String  'TYPE' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158632 the MagicNumber/String  '([*]+)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158632 the MagicNumber/String  'BACKCOLOR' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158632 the MagicNumber/String  '\\[(#\\w+)\\]' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158632 the MagicNumber/String  'SHAPE' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158632 the MagicNumber/String  '(_)?' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158632 the MagicNumber/String  ':' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158632 the MagicNumber/String  'DATA' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158632 the MagicNumber/String  '(.*)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#39"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getPatternEnd@POLYN159329 the MagicNumber/String  '^(.*);(?:\\s*\\&amp;lt;\\&amp;lt;(.+)\\&amp;gt;\\&amp;gt;)?$' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#43"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method executeNow arguments MindMapDiagram  diagram|BlocLines  lines"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#43"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00043] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#43"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00043] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  'DATA' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  'TYPE' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  'BACKCOLOR' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158836 the MagicNumber/String  'TYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158836 the MagicNumber/String  '([*]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  'SHAPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158836 the MagicNumber/String  'BACKCOLOR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158836 the MagicNumber/String  '\\[(#\\w+)\\]' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#65"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158836 the MagicNumber/String  'SHAPE' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#65"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158836 the MagicNumber/String  '(_)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158836 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  'SHAPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158836 the MagicNumber/String  'DATA' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159431 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getRegexConcat@POLYN158836 the MagicNumber/String  '(.*)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#73"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.getPatternEnd@POLYN159533 the MagicNumber/String  '^(.*);(?:\\s*\\&amp;lt;\\&amp;lt;(.+)\\&amp;gt;\\&amp;gt;)?$' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#77"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00077] For method executeNow arguments MindMapDiagram  diagram|BlocLines  lines"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#77"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00077] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#77"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00077] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  'DATA' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#84"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  'TYPE' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  'BACKCOLOR' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#92"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#96"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  'SHAPE' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#101"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  'SHAPE' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapOrgmodeMultiline.java.html#101"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline.executeNow@POLYN159635 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

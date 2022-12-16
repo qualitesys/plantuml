@@ -2,7 +2,7 @@
 !pragma layout smetana
 "SentenceSimple" <|-- "net.sourceforge.plantuml.project.lang.SentenceIsColoredForCompletion"
 class net.sourceforge.plantuml.project.lang.SentenceIsColoredForCompletion {
-+SentenceIsColoredForCompletion() : SentenceIsColoredForCompletion [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceIsColoredForCompletion.java.html#10]]]
-+execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceIsColoredForCompletion.java.html#15]]]
++SentenceIsColoredForCompletion() : SentenceIsColoredForCompletion [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceIsColoredForCompletion.java.html#44]]]
++execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceIsColoredForCompletion.java.html#49]]]
 } 
 @enduml

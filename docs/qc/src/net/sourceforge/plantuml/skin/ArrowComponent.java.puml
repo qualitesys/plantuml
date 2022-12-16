@@ -2,10 +2,10 @@
 !pragma layout smetana
 "Component" <|-- "net.sourceforge.plantuml.skin.ArrowComponent"
 class net.sourceforge.plantuml.skin.ArrowComponent {
-getStartPoint(StringBounder;XDimension2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ArrowComponent.java.html#10]]]
-getEndPoint(StringBounder;XDimension2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ArrowComponent.java.html#12]]]
-getPaddingY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ArrowComponent.java.html#14]]]
-+getYPoint(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ArrowComponent.java.html#16]]]
-+getPosArrow(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ArrowComponent.java.html#18]]]
+getStartPoint(StringBounder;XDimension2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ArrowComponent.java.html#44]]]
+getEndPoint(StringBounder;XDimension2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ArrowComponent.java.html#46]]]
+getPaddingY() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ArrowComponent.java.html#48]]]
++getYPoint(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ArrowComponent.java.html#50]]]
++getPosArrow(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/ArrowComponent.java.html#52]]]
 } 
 @enduml

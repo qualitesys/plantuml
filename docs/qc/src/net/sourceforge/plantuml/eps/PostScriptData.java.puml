@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.eps.PostScriptData"
 class net.sourceforge.plantuml.eps.PostScriptData {
-+toPostString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptData.java.html#13]]]
--toPostStringSlow() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptData.java.html#20]]]
-+add(PostScriptCommand) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptData.java.html#29]]]
++toPostString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptData.java.html#47]]]
+-toPostStringSlow() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptData.java.html#54]]]
++add(PostScriptCommand) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptData.java.html#63]]]
 } 
 @enduml

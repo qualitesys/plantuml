@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.PlotEventType" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/jcckit/plot/PlotEventType.java.html#13"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/jcckit/plot/PlotEventType.java.html#35"
  , "c1" : "PlotEventType"
  , "c2" : "PlotEventType()"
  , "c3" : "1"

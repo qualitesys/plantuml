@@ -2,6 +2,6 @@
 !pragma layout smetana
 "PSystemError" <|-- "net.sourceforge.plantuml.error.PSystemErrorEmpty"
 class net.sourceforge.plantuml.error.PSystemErrorEmpty {
-+PSystemErrorEmpty(UmlSource;List<StringLocated>;ErrorUml) : PSystemErrorEmpty [[[./../../../../../.././qc/src/net/sourceforge/plantuml/error/PSystemErrorEmpty.java.html#12]]]
++PSystemErrorEmpty(UmlSource;List<StringLocated>;ErrorUml) : PSystemErrorEmpty [[[./../../../../../.././qc/src/net/sourceforge/plantuml/error/PSystemErrorEmpty.java.html#45]]]
 } 
 @enduml

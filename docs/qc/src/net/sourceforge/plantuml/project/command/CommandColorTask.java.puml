@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<GanttDiagram>" <|-- "net.sourceforge.plantuml.project.command.CommandColorTask"
 class net.sourceforge.plantuml.project.command.CommandColorTask {
-+CommandColorTask() : CommandColorTask [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#19]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#23]]]
-executeArg(GanttDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#32]]]
++CommandColorTask() : CommandColorTask [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#53]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#57]]]
+executeArg(GanttDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandColorTask.java.html#66]]]
 } 
 @enduml

@@ -2,7 +2,7 @@
 !pragma layout smetana
 "SentenceSimple" <|-- "net.sourceforge.plantuml.project.lang.SentenceIsForTask"
 class net.sourceforge.plantuml.project.lang.SentenceIsForTask {
-+SentenceIsForTask() : SentenceIsForTask [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceIsForTask.java.html#11]]]
-+execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceIsForTask.java.html#16]]]
++SentenceIsForTask() : SentenceIsForTask [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceIsForTask.java.html#45]]]
++execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceIsForTask.java.html#50]]]
 } 
 @enduml

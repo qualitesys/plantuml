@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "h.ST_deque_t" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/h/ST_deque_t.java.html#12"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/h/ST_deque_t.java.html#56"
  , "c1" : "boolean"
  , "c2" : "malloc(int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/h/ST_deque_t.java.html#17"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/h/ST_deque_t.java.html#61"
  , "c1" : "boolean"
  , "c2" : "realloc(int)"
  , "c3" : "3"
@@ -91,59 +91,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/h/ST_deque_t.java.html#9"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00009] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00053] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/h/ST_deque_t.java.html#10"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00010] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00054] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/h/ST_deque_t.java.html#12"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method malloc arguments int  newdqn"
+ , "c3" : "QC-JAV000006[00056] For method malloc arguments int  newdqn"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/h/ST_deque_t.java.html#14"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method h.ST_deque_t.malloc@POLYN153861 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method h.ST_deque_t.malloc@POLYN154125 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/h/ST_deque_t.java.html#17"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method realloc arguments int  newdqn"
+ , "c3" : "QC-JAV000006[00061] For method realloc arguments int  newdqn"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/h/ST_deque_t.java.html#19"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method h.ST_deque_t.realloc@POLYN154071 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method h.ST_deque_t.realloc@POLYN154335 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/h/ST_deque_t.java.html#22"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method h.ST_deque_t.realloc@POLYN154071 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method h.ST_deque_t.realloc@POLYN154335 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/h/ST_deque_t.java.html#26"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method h.ST_deque_t.realloc@POLYN154071 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method h.ST_deque_t.realloc@POLYN154335 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

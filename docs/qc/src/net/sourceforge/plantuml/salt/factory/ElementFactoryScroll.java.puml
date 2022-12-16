@@ -2,8 +2,8 @@
 !pragma layout smetana
 "AbstractElementFactoryComplex" <|-- "net.sourceforge.plantuml.salt.factory.ElementFactoryScroll"
 class net.sourceforge.plantuml.salt.factory.ElementFactoryScroll {
-+ElementFactoryScroll(DataSource;Dictionary) : ElementFactoryScroll [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryScroll.java.html#13]]]
-+create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryScroll.java.html#17]]]
-+ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryScroll.java.html#36]]]
++ElementFactoryScroll(DataSource;Dictionary) : ElementFactoryScroll [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryScroll.java.html#47]]]
++create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryScroll.java.html#51]]]
++ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryScroll.java.html#70]]]
 } 
 @enduml

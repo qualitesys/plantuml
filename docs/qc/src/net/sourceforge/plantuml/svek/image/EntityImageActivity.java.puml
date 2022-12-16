@@ -2,13 +2,13 @@
 !pragma layout smetana
 "AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageActivity"
 class net.sourceforge.plantuml.svek.image.EntityImageActivity {
-+EntityImageActivity(ILeaf;ISkinParam;Bibliotekon) : EntityImageActivity [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageActivity.java.html#39]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageActivity.java.html#52]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageActivity.java.html#57]]]
--drawOctagon(UGraphic) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageActivity.java.html#73]]]
--drawNormal(UGraphic) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageActivity.java.html#87]]]
-+getDefaultStyleDefinition() : StyleSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageActivity.java.html#107]]]
--applyColors(UGraphic) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageActivity.java.html#112]]]
-+getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageActivity.java.html#125]]]
++EntityImageActivity(ILeaf;ISkinParam;Bibliotekon) : EntityImageActivity [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageActivity.java.html#73]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageActivity.java.html#86]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageActivity.java.html#91]]]
+-drawOctagon(UGraphic) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageActivity.java.html#107]]]
+-drawNormal(UGraphic) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageActivity.java.html#121]]]
++getDefaultStyleDefinition() : StyleSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageActivity.java.html#141]]]
+-applyColors(UGraphic) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageActivity.java.html#146]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageActivity.java.html#159]]]
 } 
 @enduml

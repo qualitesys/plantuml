@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.preproc.StartDiagramExtractReader" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#55"
  , "c1" : "StartDiagramExtractReader"
  , "c2" : "build(FileWithSuffix;StringLocated;Charset)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#59"
  , "c1" : "StartDiagramExtractReader"
  , "c2" : "build(SURL;StringLocated;String;Charset)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#63"
  , "c1" : "StartDiagramExtractReader"
  , "c2" : "build(InputStream;StringLocated;String)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#67"
  , "c1" : "StartDiagramExtractReader"
  , "c2" : "StartDiagramExtractReader(ReadLine;String)"
  , "c3" : "7"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#62"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#96"
  , "c1" : "boolean"
  , "c2" : "checkUid(String;StringLocated)"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00072"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#72"
+ , "c5" : "00106"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#106"
  , "c1" : "ReadLine"
  , "c2" : "getReadLine(FileWithSuffix;StringLocated;Charset)"
  , "c3" : "2"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#84"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#118"
  , "c1" : "ReadLine"
  , "c2" : "getReadLine(InputStream;StringLocated;String)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#88"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#122"
  , "c1" : "ReadLine"
  , "c2" : "getReadLine(SURL;StringLocated;Charset)"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#96"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#130"
  , "c1" : "boolean"
  , "c2" : "containsStartDiagram(FileWithSuffix;StringLocated;Charset)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#101"
+ , "c5" : "00135"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#135"
  , "c1" : "boolean"
  , "c2" : "containsStartDiagram(SURL;StringLocated;Charset)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00106"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#106"
+ , "c5" : "00140"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#140"
  , "c1" : "boolean"
  , "c2" : "containsStartDiagram(InputStream;StringLocated;String)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00111"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#111"
+ , "c5" : "00145"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#145"
  , "c1" : "boolean"
  , "c2" : "containsStartDiagram(ReadLine)"
  , "c3" : "4"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00127"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#127"
+ , "c5" : "00161"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#161"
  , "c1" : "StringLocated"
  , "c2" : "readLine()"
  , "c3" : "3"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00139"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#139"
+ , "c5" : "00173"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#173"
  , "c1" : "void"
  , "c2" : "close()"
  , "c3" : "1"
@@ -206,339 +206,339 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method build arguments FileWithSuffix  f2|StringLocated  s|Charset  charset"
+ , "c3" : "QC-JAV000006[00055] For method build arguments FileWithSuffix  f2|StringLocated  s|Charset  charset"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#55"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00021] The argument f2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#25"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method build arguments SURL  url|StringLocated  s|String  uid|Charset  charset"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#29"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method build arguments InputStream  is|StringLocated  s|String  desc"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.build@POLYN166660 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#33"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument raw is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00047] Assigning instead of comparing on s=raw.readLine() (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN166944 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN166944 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN166944 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN166944 the MagicNumber/String  '\\d+' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN166944 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN166944 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN166944 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN166944 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN166944 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN166944 the MagicNumber/String  'Error ' should be converted to const"
+ , "c3" : "QC-JAVCWE476[00055] The argument f2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN166944 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method checkUid arguments String  uid|StringLocated  s"
+ , "c3" : "QC-JAV000006[00059] For method build arguments SURL  url|StringLocated  s|String  uid|Charset  charset"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN168455 the MagicNumber/String  null should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00063] For method build arguments InputStream  is|StringLocated  s|String  desc"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN168455 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN168455 the MagicNumber/String  '.*id=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN168455 the MagicNumber/String  '\\W.*' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.build@POLYN166864 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#67"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00067] The argument raw is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN168455 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAVCWE481[00081] Assigning instead of comparing on s=raw.readLine() (see http://cwe.mitre.org/data/definitions/481.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#68"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN167148 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN168455 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN167148 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#72"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00072] For method getReadLine arguments FileWithSuffix  f2|StringLocated  s|Charset  charset"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN167148 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#72"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00072] The argument f2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN167148 the MagicNumber/String  '\\d+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.getReadLine@POLYN168900 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN167148 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.getReadLine@POLYN168900 the MagicNumber/String  'Cannot open ' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN167148 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#84"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00084] For method getReadLine arguments InputStream  is|StringLocated  s|String  description"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#88"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method getReadLine arguments SURL  url|StringLocated  s|Charset  charset"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#88"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00088] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#90"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.getReadLine@POLYN169975 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN167148 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN167148 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#83"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN167148 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.getReadLine@POLYN169975 the MagicNumber/String  'Cannot connect' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN167148 the MagicNumber/String  'Error ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN167148 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#96"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00096] For method containsStartDiagram arguments FileWithSuffix  f2|StringLocated  s|Charset  charset"
+ , "c3" : "QC-JAV000006[00096] For method checkUid arguments String  uid|StringLocated  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN168659 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN168659 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN168659 the MagicNumber/String  '.*id=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN168659 the MagicNumber/String  '\\W.*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#101"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00101] For method containsStartDiagram arguments SURL  url|StringLocated  s|Charset  charset"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN168659 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN168659 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#106"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00106] For method containsStartDiagram arguments InputStream  is|StringLocated  s|String  description"
+ , "c3" : "QC-JAV000006[00106] For method getReadLine arguments FileWithSuffix  f2|StringLocated  s|Charset  charset"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#111"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#106"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00106] The argument f2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#109"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.getReadLine@POLYN169104 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#110"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.getReadLine@POLYN169104 the MagicNumber/String  'Cannot open ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#118"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00111] For method containsStartDiagram arguments ReadLine  r"
+ , "c3" : "QC-JAV000006[00118] For method getReadLine arguments InputStream  is|StringLocated  s|String  description"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00114] Assigning instead of comparing on s=r.readLine() (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#122"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00122] For method getReadLine arguments SURL  url|StringLocated  s|Charset  charset"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN171591 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN171591 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#116"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN171591 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN171591 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#122"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00122] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN171591 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.getReadLine@POLYN170179 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#129"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.readLine@POLYN172223 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.getReadLine@POLYN170179 the MagicNumber/String  'Cannot connect' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.readLine@POLYN172223 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#130"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00130] For method containsStartDiagram arguments FileWithSuffix  f2|StringLocated  s|Charset  charset"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.readLine@POLYN172223 the MagicNumber/String  true should be converted to const"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#135"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00135] For method containsStartDiagram arguments SURL  url|StringLocated  s|Charset  charset"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#134"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#140"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00140] For method containsStartDiagram arguments InputStream  is|StringLocated  s|String  description"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#145"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00145] For method containsStartDiagram arguments ReadLine  r"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.readLine@POLYN172223 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAVCWE481[00148] Assigning instead of comparing on s=r.readLine() (see http://cwe.mitre.org/data/definitions/481.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#147"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN171795 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#148"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN171795 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#150"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN171795 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#154"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN171795 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#158"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN171795 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.readLine@POLYN172427 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#166"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.readLine@POLYN172427 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.readLine@POLYN172427 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.readLine@POLYN172427 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

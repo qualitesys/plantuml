@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.project.solver.Solver"
 class net.sourceforge.plantuml.project.solver.Solver {
-+getData(TaskAttribute) : Value [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/Solver.java.html#9]]]
-+setData(TaskAttribute;Value) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/Solver.java.html#11]]]
++getData(TaskAttribute) : Value [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/Solver.java.html#43]]]
++setData(TaskAttribute;Value) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/solver/Solver.java.html#45]]]
 } 
 @enduml

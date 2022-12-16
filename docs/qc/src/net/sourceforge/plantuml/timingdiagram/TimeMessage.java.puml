@@ -2,16 +2,16 @@
 !pragma layout smetana
 "WithLinkType" <|-- "net.sourceforge.plantuml.timingdiagram.TimeMessage"
 class net.sourceforge.plantuml.timingdiagram.TimeMessage {
-+TimeMessage(TickInPlayer;TickInPlayer;String;ISkinParam) : TimeMessage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#26]]]
-+getUStroke() : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#37]]]
--getColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#44]]]
--getStyle() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#52]]]
--getStyleSignature() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#56]]]
-+getPlayer1() : Player [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#60]]]
-+getPlayer2() : Player [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#64]]]
-+getTick1() : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#68]]]
-+getTick2() : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#72]]]
-+getLabel() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#76]]]
-+goNorank() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#81]]]
++TimeMessage(TickInPlayer;TickInPlayer;String;ISkinParam) : TimeMessage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#59]]]
++getUStroke() : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#70]]]
+-getColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#77]]]
+-getStyle() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#85]]]
+-getStyleSignature() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#89]]]
++getPlayer1() : Player [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#93]]]
++getPlayer2() : Player [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#97]]]
++getTick1() : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#101]]]
++getTick2() : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#105]]]
++getLabel() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#109]]]
++goNorank() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeMessage.java.html#114]]]
 } 
 @enduml

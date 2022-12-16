@@ -2,17 +2,17 @@
 !pragma layout smetana
 "AbstractUGraphic<EpsGraphics>ClipContainer" <|-- "net.sourceforge.plantuml.ugraphic.eps.UGraphicEps"
 class net.sourceforge.plantuml.ugraphic.eps.UGraphicEps {
-copyUGraphic() : AbstractCommonUGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#33]]]
-UGraphicEps(UGraphicEps) : UGraphicEps [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#37]]]
-+UGraphicEps(HColor;ColorMapper;StringBounder;EpsStrategy) : UGraphicEps [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#43]]]
--register() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#49]]]
-+close() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#61]]]
-+getEPSCode() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#65]]]
-+getEpsGraphics() : EpsGraphics [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#69]]]
-+drawEps(String;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#73]]]
-+getEpsString(HColor;ColorMapper;EpsStrategy;UDrawable) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#77]]]
-+startUrl(Url) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#85]]]
-+closeUrl() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#90]]]
-+writeToStream(OutputStream;String;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#95]]]
+copyUGraphic() : AbstractCommonUGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#66]]]
+UGraphicEps(UGraphicEps) : UGraphicEps [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#70]]]
++UGraphicEps(HColor;ColorMapper;StringBounder;EpsStrategy) : UGraphicEps [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#76]]]
+-register() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#82]]]
++close() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#94]]]
++getEPSCode() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#98]]]
++getEpsGraphics() : EpsGraphics [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#102]]]
++drawEps(String;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#106]]]
++getEpsString(HColor;ColorMapper;EpsStrategy;UDrawable) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#110]]]
++startUrl(Url) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#118]]]
++closeUrl() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#123]]]
++writeToStream(OutputStream;String;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/UGraphicEps.java.html#128]]]
 } 
 @enduml

@@ -60,24 +60,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00006"
- , "c1link" : "./qc/src/h/ST_Agdatadict_s.java.html#6"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/h/ST_Agdatadict_s.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00006] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00050] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/h/ST_Agdatadict_s.java.html#7"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/h/ST_Agdatadict_s.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00007] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00051] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/h/ST_Agdatadict_s.java.html#8"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/h/ST_Agdatadict_s.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00008] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00052] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ]
 , 

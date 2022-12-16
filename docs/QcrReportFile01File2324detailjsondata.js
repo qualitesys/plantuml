@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.svek.image.EntityImageClassHeader" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#74"
  , "c1" : "EntityImageClassHeader"
  , "c2" : "EntityImageClassHeader(ILeaf;ISkinParam;PortionShower)"
  , "c3" : "11"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00118"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#118"
+ , "c5" : "00152"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#152"
  , "c1" : "TextBlock"
  , "c2" : "getCircledCharacter(ILeaf;ISkinParam)"
  , "c3" : "5"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00148"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#148"
+ , "c5" : "00182"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#182"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "spotStyleSignature(LeafType)"
  , "c3" : "12"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00176"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#176"
+ , "c5" : "00210"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#210"
  , "c1" : "char"
  , "c2" : "getCircledChar(LeafType)"
  , "c3" : "12"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00205"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#205"
+ , "c5" : "00239"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#239"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00209"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#209"
+ , "c5" : "00243"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#243"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00213"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#213"
+ , "c5" : "00247"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#247"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic;double;double)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00217"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#217"
+ , "c5" : "00251"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#251"
  , "c1" : "ShapeType"
  , "c2" : "getShapeType()"
  , "c3" : "1"
@@ -145,430 +145,430 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#74"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00040] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00074] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#74"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00040] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00074] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#74"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00040] The argument portionShower is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00074] The argument portionShower is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#48"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#66"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#67"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#67"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#67"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#67"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#73"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#75"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#75"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#75"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#75"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#106"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#106"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187156 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#118"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00118] For method getCircledCharacter arguments ILeaf  entity|ISkinParam  skinParam"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#118"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00118] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#118"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00118] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#120"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledCharacter@POLYN192714 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#120"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledCharacter@POLYN192714 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#115"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#122"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledCharacter@POLYN192714 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#133"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledCharacter@POLYN192714 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#133"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledCharacter@POLYN192714 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#137"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledCharacter@POLYN192714 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#138"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledCharacter@POLYN192714 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#141"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledCharacter@POLYN192714 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#148"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#145"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#145"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#145"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#147"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.EntityImageClassHeader@POLYN187360 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#152"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00148] For method spotStyleSignature arguments LeafType  leafType"
+ , "c3" : "QC-JAV000006[00152] For method getCircledCharacter arguments ILeaf  entity|ISkinParam  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#176"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#152"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00152] The argument entity is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#152"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00152] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#154"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledCharacter@POLYN192918 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#154"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledCharacter@POLYN192918 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledCharacter@POLYN192918 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledCharacter@POLYN192918 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledCharacter@POLYN192918 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledCharacter@POLYN192918 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledCharacter@POLYN192918 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledCharacter@POLYN192918 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#182"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00176] For method getCircledChar arguments LeafType  leafType"
+ , "c3" : "QC-JAV000006[00182] For method spotStyleSignature arguments LeafType  leafType"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#179"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197383 the MagicNumber/String  '@' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#181"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197383 the MagicNumber/String  'A' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#183"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197383 the MagicNumber/String  'C' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#185"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197383 the MagicNumber/String  'I' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#187"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197383 the MagicNumber/String  'E' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#189"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197383 the MagicNumber/String  'E' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00191"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#191"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197383 the MagicNumber/String  'P' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197383 the MagicNumber/String  'S' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#195"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197383 the MagicNumber/String  'X' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00197"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#197"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197383 the MagicNumber/String  'M' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00199"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#199"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197383 the MagicNumber/String  'S' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#201"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197383 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#202"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197383 the MagicNumber/String  '?' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00205"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#205"
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#210"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00205] For method calculateDimension arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00209"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#209"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00209] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00210] For method getCircledChar arguments LeafType  leafType"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00213"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#213"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197587 the MagicNumber/String  '@' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#215"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197587 the MagicNumber/String  'A' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#217"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197587 the MagicNumber/String  'C' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#219"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197587 the MagicNumber/String  'I' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#221"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197587 the MagicNumber/String  'E' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00223"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#223"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197587 the MagicNumber/String  'E' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00225"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#225"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197587 the MagicNumber/String  'P' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#227"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197587 the MagicNumber/String  'S' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#229"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197587 the MagicNumber/String  'X' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00231"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#231"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197587 the MagicNumber/String  'M' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00233"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#233"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197587 the MagicNumber/String  'S' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00235"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#235"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197587 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#236"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.svek.image.EntityImageClassHeader.getCircledChar@POLYN197587 the MagicNumber/String  '?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00239"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#239"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00213] For method drawU arguments UGraphic  ug|double  width|double  height"
+ , "c3" : "QC-JAV000006[00239] For method calculateDimension arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00243"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#243"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00243] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00247"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageClassHeader.java.html#247"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00247] For method drawU arguments UGraphic  ug|double  width|double  height"
 }} 
 ]
 , 

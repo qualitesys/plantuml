@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.bpm.BpmElement" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#36"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#69"
  , "c1" : "BpmElement"
  , "c2" : "BpmElement(String;BpmElementType;String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#42"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#75"
  , "c1" : "BpmElement"
  , "c2" : "BpmElement(String;BpmElementType)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#47"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#80"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#54"
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#87"
  , "c1" : "BpmElementType"
  , "c2" : "getType()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#58"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#91"
  , "c1" : "Display"
  , "c2" : "getDisplay()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#62"
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#95"
  , "c1" : "TextBlock"
  , "c2" : "toTextBlock(ISkinParam)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#90"
+ , "c5" : "00123"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#123"
  , "c1" : "void"
  , "c2" : "drawLine(UGraphic;Where;XDimension2D)"
  , "c3" : "5"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#107"
+ , "c5" : "00140"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#140"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "getSignatureCircle()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00111"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#111"
+ , "c5" : "00144"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#144"
  , "c1" : "Style"
  , "c2" : "getStyle(ISkinParam)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00115"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#115"
+ , "c5" : "00148"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#148"
  , "c1" : "TextBlock"
  , "c2" : "toTextBlockInternal(ISkinParam)"
  , "c3" : "5"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00138"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#138"
+ , "c5" : "00171"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#171"
  , "c1" : "XDimension2D"
  , "c2" : "getDimension(StringBounder;ISkinParam)"
  , "c3" : "2"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00145"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#145"
+ , "c5" : "00178"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#178"
  , "c1" : "String"
  , "c2" : "getId()"
  , "c3" : "1"
@@ -181,241 +181,241 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#43"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.bpm.BpmElement.BpmElement@POLYN172431 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.bpm.BpmElement.BpmElement@POLYN172629 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#48"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.bpm.BpmElement.toString@POLYN172644 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.bpm.BpmElement.toString@POLYN172842 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#49"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.bpm.BpmElement.toString@POLYN172644 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.bpm.BpmElement.toString@POLYN172842 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#49"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.bpm.BpmElement.toString@POLYN172644 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.bpm.BpmElement.toString@POLYN172842 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#51"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.bpm.BpmElement.toString@POLYN172644 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.bpm.BpmElement.toString@POLYN172842 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#51"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.bpm.BpmElement.toString@POLYN172644 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.bpm.BpmElement.toString@POLYN172842 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#62"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#95"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method toTextBlock arguments ISkinParam  skinParam"
+ , "c3" : "QC-JAV000006[00095] For method toTextBlock arguments ISkinParam  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#90"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#123"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00090] For method drawLine arguments UGraphic  ug|Where  w|XDimension2D  total"
+ , "c3" : "QC-JAV000006[00123] For method drawLine arguments UGraphic  ug|Where  w|XDimension2D  total"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#90"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#123"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00090] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00123] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#90"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#123"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00090] The argument total is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00123] The argument total is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#94"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174532 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174730 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#94"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174532 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174730 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#94"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174532 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174730 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#97"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174532 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174730 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#97"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174532 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174730 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#100"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174532 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174730 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#100"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174532 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174730 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#100"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174532 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174730 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#103"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174532 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174730 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#103"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174532 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.bpm.BpmElement.drawLine@POLYN174730 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#111"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#144"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00111] For method getStyle arguments ISkinParam  skinParam"
+ , "c3" : "QC-JAV000006[00144] For method getStyle arguments ISkinParam  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#111"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#144"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00111] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00144] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#115"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#148"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00115] For method toTextBlockInternal arguments ISkinParam  skinParam"
+ , "c3" : "QC-JAV000006[00148] For method toTextBlockInternal arguments ISkinParam  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#117"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176505 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176703 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#120"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176505 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176703 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#121"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176505 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176703 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#122"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176505 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176703 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#125"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176505 the MagicNumber/String  14 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176703 the MagicNumber/String  14 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#126"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176505 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176703 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#126"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176505 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176703 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#128"
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176505 the MagicNumber/String  14 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176703 the MagicNumber/String  14 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#129"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176505 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.bpm.BpmElement.toTextBlockInternal@POLYN176703 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#138"
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#171"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00138] For method getDimension arguments StringBounder  stringBounder|ISkinParam  skinParam"
+ , "c3" : "QC-JAV000006[00171] For method getDimension arguments StringBounder  stringBounder|ISkinParam  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#139"
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmElement.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.bpm.BpmElement.getDimension@POLYN178444 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.bpm.BpmElement.getDimension@POLYN178642 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

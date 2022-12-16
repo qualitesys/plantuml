@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.creole.CreoleContext"
 class net.sourceforge.plantuml.creole.CreoleContext {
-+getLocalNumber(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleContext.java.html#11]]]
--ensureStackOk(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleContext.java.html#18]]]
++getLocalNumber(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleContext.java.html#45]]]
+-ensureStackOk(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/CreoleContext.java.html#52]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.argon2.exception.Argon2Exception" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/exception/Argon2Exception.java.html#6"
+ , "c5" : "00010"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/exception/Argon2Exception.java.html#10"
  , "c1" : "Argon2Exception"
  , "c2" : "Argon2Exception(String)"
  , "c3" : "1"

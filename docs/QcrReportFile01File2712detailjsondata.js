@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#27"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#60"
  , "c1" : "double"
  , "c2" : "dpiFactor()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#31"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#64"
  , "c1" : "UGraphicVdx"
  , "c2" : "UGraphicVdx(HColor;ColorMapper;StringBounder)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#37"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#70"
  , "c1" : "AbstractCommonUGraphic"
  , "c2" : "copyUGraphic()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#41"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#74"
  , "c1" : "UGraphicVdx"
  , "c2" : "UGraphicVdx(UGraphicVdx)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#46"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#79"
  , "c1" : "void"
  , "c2" : "register()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#61"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#94"
  , "c1" : "void"
  , "c2" : "writeToStream(OutputStream;String;int)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00066"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#66"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#99"
  , "c1" : "boolean"
  , "c2" : "matchesProperty(String)"
  , "c3" : "2"
@@ -129,45 +129,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx.dpiFactor@POLYN156689 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#61"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx.dpiFactor@POLYN156887 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#94"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
+ , "c3" : "QC-JAV000006[00094] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#66"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#99"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method matchesProperty arguments String  propertyName"
+ , "c3" : "QC-JAV000006[00099] For method matchesProperty arguments String  propertyName"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#67"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx.matchesProperty@POLYN158735 the MagicNumber/String  'SPECIALTXT' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx.matchesProperty@POLYN158933 the MagicNumber/String  'SPECIALTXT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#68"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx.matchesProperty@POLYN158735 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx.matchesProperty@POLYN158933 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#70"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx.matchesProperty@POLYN158735 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx.matchesProperty@POLYN158933 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

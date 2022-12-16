@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.svek.ClusterDecoration" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#21"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#56"
  , "c1" : "ClusterDecoration"
  , "c2" : "ClusterDecoration(PackageStyle;USymbol;TextBlock;TextBlock;ClusterPosition;UStroke)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#30"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#65"
  , "c1" : "USymbol"
  , "c2" : "guess(USymbol;PackageStyle)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#37"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#72"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic;HColor;HColor;double;double;HorizontalAlignment;HorizontalAlignment;double)"
  , "c3" : "2"
@@ -100,45 +100,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#30"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method guess arguments USymbol  symbol|PackageStyle  style"
+ , "c3" : "QC-JAV000006[00065] For method guess arguments USymbol  symbol|PackageStyle  style"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#30"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#65"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00030] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00065] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#31"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.svek.ClusterDecoration.guess@POLYN153139 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.svek.ClusterDecoration.guess@POLYN153349 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#37"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#72"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method drawU arguments UGraphic  ug|HColor  backColor|HColor  borderColor|double  shadowing|double  roundCorner|HorizontalAlignment  titleAlignment|HorizontalAlignment  stereoAlignment|double  diagonalCorner"
+ , "c3" : "QC-JAV000006[00072] For method drawU arguments UGraphic  ug|HColor  backColor|HColor  borderColor|double  shadowing|double  roundCorner|HorizontalAlignment  titleAlignment|HorizontalAlignment  stereoAlignment|double  diagonalCorner"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#37"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#72"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00037] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00072] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#40"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.svek.ClusterDecoration.drawU@POLYN153375 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.svek.ClusterDecoration.drawU@POLYN153585 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

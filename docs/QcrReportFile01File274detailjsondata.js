@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.GraphicsPlotCanvas" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#37"
+ , "c5" : "00106"
+ , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#106"
  , "c1" : "GraphicsPlotCanvas"
  , "c2" : "GraphicsPlotCanvas(ConfigParameters;BufferedImage)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#54"
+ , "c5" : "00126"
+ , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#126"
  , "c1" : "void"
  , "c2" : "paint()"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#70"
+ , "c5" : "00142"
+ , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#142"
  , "c1" : "void"
  , "c2" : "drawPlot(Plot)"
  , "c3" : "4"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#86"
+ , "c5" : "00158"
+ , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#158"
  , "c1" : "void"
  , "c2" : "init(Dimension)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#90"
+ , "c5" : "00162"
+ , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#162"
  , "c1" : "void"
  , "c2" : "drawCoordinateSystem(Dimension;Plot)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#96"
+ , "c5" : "00171"
+ , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#171"
  , "c1" : "void"
  , "c2" : "prepare()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00100"
- , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#100"
+ , "c5" : "00178"
+ , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#178"
  , "c1" : "void"
  , "c2" : "calculateTransformation(Dimension)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00106"
- , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#106"
+ , "c5" : "00187"
+ , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#187"
  , "c1" : "Renderer"
  , "c2" : "createRenderer()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#113"
+ , "c5" : "00200"
+ , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#200"
  , "c1" : "void"
  , "c2" : "setRenderer(String)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00131"
- , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#131"
+ , "c5" : "00224"
+ , "c5link" : "././qc/src/jcckit/GraphicsPlotCanvas.java.html#224"
  , "c1" : "void"
  , "c2" : "setMarker(GraphicalElement)"
  , "c3" : "1"
@@ -186,157 +186,157 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#37"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#106"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00037] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00106] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#37"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#106"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00037] The argument img3 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00106] The argument img3 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#40"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method jcckit.GraphicsPlotCanvas.GraphicsPlotCanvas@POLYN177945 the MagicNumber/String  'jcckit.renderer.Graphics2DRenderer' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method jcckit.GraphicsPlotCanvas.GraphicsPlotCanvas@POLYN178491 the MagicNumber/String  'jcckit.renderer.Graphics2DRenderer' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#54"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#126"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00054] For method paint list of called methods Object monObjet|jcckit.plot.Plot getPlotN179485"
+ , "c3" : "QC-JAV000007[00126] For method paint list of called methods Object monObjet|jcckit.plot.Plot getPlotN180031"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#57"
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method jcckit.GraphicsPlotCanvas.paint@POLYN178849 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method jcckit.GraphicsPlotCanvas.paint@POLYN179395 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#57"
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method jcckit.GraphicsPlotCanvas.paint@POLYN178849 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method jcckit.GraphicsPlotCanvas.paint@POLYN179395 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#57"
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method jcckit.GraphicsPlotCanvas.paint@POLYN178849 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method jcckit.GraphicsPlotCanvas.paint@POLYN179395 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#57"
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method jcckit.GraphicsPlotCanvas.paint@POLYN178849 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method jcckit.GraphicsPlotCanvas.paint@POLYN179395 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#65"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method jcckit.GraphicsPlotCanvas.paint@POLYN178849 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method jcckit.GraphicsPlotCanvas.paint@POLYN179395 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#70"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#142"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00070] For method drawPlot arguments Plot  plot"
+ , "c3" : "QC-JAV000006[00142] For method drawPlot arguments Plot  plot"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#70"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#142"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00070] For method drawPlot list of called methods Object monObjet|jcckit.graphic.Renderer createRendererN179966|jcckit.graphic.GraphicalElement[] plot_getCurvesN180039|jcckit.graphic.GraphicalElement plot_getAnnotationN180386"
+ , "c3" : "QC-JAV000007[00142] For method drawPlot list of called methods Object monObjet|jcckit.graphic.Renderer createRendererN180512|jcckit.graphic.GraphicalElement[] plot_getCurvesN180585|jcckit.graphic.GraphicalElement plot_getAnnotationN180932"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#70"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#142"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00070] The argument plot is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00142] The argument plot is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#74"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method jcckit.GraphicsPlotCanvas.drawPlot@POLYN179829 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method jcckit.GraphicsPlotCanvas.drawPlot@POLYN180375 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#78"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method jcckit.GraphicsPlotCanvas.drawPlot@POLYN179829 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method jcckit.GraphicsPlotCanvas.drawPlot@POLYN180375 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#86"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#158"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00086] For method init arguments Dimension  size"
+ , "c3" : "QC-JAV000006[00158] For method init arguments Dimension  size"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#90"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#162"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00090] For method drawCoordinateSystem arguments Dimension  size|Plot  plot"
+ , "c3" : "QC-JAV000006[00162] For method drawCoordinateSystem arguments Dimension  size|Plot  plot"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#90"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#162"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00090] The argument plot is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00162] The argument plot is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#100"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#178"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00100] For method calculateTransformation arguments Dimension  size"
+ , "c3" : "QC-JAV000006[00178] For method calculateTransformation arguments Dimension  size"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#100"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#178"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00100] The argument size is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00178] The argument size is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#113"
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#200"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method setRenderer arguments String  className"
+ , "c3" : "QC-JAV000006[00200] For method setRenderer arguments String  className"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#131"
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#224"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00131] For method setMarker arguments GraphicalElement  marker"
+ , "c3" : "QC-JAV000006[00224] For method setMarker arguments GraphicalElement  marker"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.GraphicsPlotCanvas.createRenderer@POLYN181746"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.GraphicsPlotCanvas.createRenderer@POLYN182292"
 }} 
 ]
 , 

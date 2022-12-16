@@ -2,10 +2,10 @@
 !pragma layout smetana
 "RuntimeException" <|-- "net.sourceforge.plantuml.json.ParseException"
 class net.sourceforge.plantuml.json.ParseException {
-ParseException(String;Location) : ParseException [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/ParseException.java.html#39]]]
-+getLocation() : Location [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/ParseException.java.html#39]]]
-+getOffset() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/ParseException.java.html#39]]]
-+getLine() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/ParseException.java.html#39]]]
+ParseException(String;Location) : ParseException [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/ParseException.java.html#43]]]
++getLocation() : Location [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/ParseException.java.html#43]]]
++getOffset() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/ParseException.java.html#43]]]
++getLine() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/ParseException.java.html#43]]]
 +getColumn() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/ParseException.java.html#1]]]
 } 
 @enduml

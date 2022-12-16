@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.graphic.GraphPoint" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/jcckit/graphic/GraphPoint.java.html#9"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/jcckit/graphic/GraphPoint.java.html#35"
  , "c1" : "GraphPoint"
  , "c2" : "GraphPoint(double[])"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/jcckit/graphic/GraphPoint.java.html#14"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/jcckit/graphic/GraphPoint.java.html#40"
  , "c1" : "GraphPoint"
  , "c2" : "GraphPoint(double;double)"
  , "c3" : "1"

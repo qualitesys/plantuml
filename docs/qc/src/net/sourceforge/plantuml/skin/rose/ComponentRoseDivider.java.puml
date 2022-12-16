@@ -2,12 +2,12 @@
 !pragma layout smetana
 "AbstractTextualComponent" <|-- "net.sourceforge.plantuml.skin.rose.ComponentRoseDivider"
 class net.sourceforge.plantuml.skin.rose.ComponentRoseDivider {
-+ComponentRoseDivider(Style;Display;ISkinSimple) : ComponentRoseDivider [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#32]]]
-drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#45]]]
--drawSep(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#72]]]
--drawRectLong(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#78]]]
--drawDoubleLine(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#86]]]
-+getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#94]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#99]]]
++ComponentRoseDivider(Style;Display;ISkinSimple) : ComponentRoseDivider [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#66]]]
+drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#79]]]
+-drawSep(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#106]]]
+-drawRectLong(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#112]]]
+-drawDoubleLine(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#120]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#128]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#133]]]
 } 
 @enduml

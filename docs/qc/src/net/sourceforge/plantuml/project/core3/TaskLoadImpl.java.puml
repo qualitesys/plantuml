@@ -2,11 +2,11 @@
 !pragma layout smetana
 "TaskLoad" <|-- "net.sourceforge.plantuml.project.core3.TaskLoadImpl"
 class net.sourceforge.plantuml.project.core3.TaskLoadImpl {
-+TaskLoadImpl(Histogram) : TaskLoadImpl [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#10]]]
-+getStart() : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#14]]]
-+setStart(long) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#18]]]
-+getEnd() : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#22]]]
-+setEnd(long) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#26]]]
-+getLoad() : Histogram [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#30]]]
++TaskLoadImpl(Histogram) : TaskLoadImpl [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#44]]]
++getStart() : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#48]]]
++setStart(long) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#52]]]
++getEnd() : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#56]]]
++setEnd(long) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#60]]]
++getLoad() : Histogram [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TaskLoadImpl.java.html#64]]]
 } 
 @enduml

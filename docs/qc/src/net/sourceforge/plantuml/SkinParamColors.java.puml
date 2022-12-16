@@ -2,11 +2,11 @@
 !pragma layout smetana
 "SkinParamDelegator" <|-- "net.sourceforge.plantuml.SkinParamColors"
 class net.sourceforge.plantuml.SkinParamColors {
-+getColors() : Colors [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamColors.java.html#11]]]
-+SkinParamColors(ISkinParam;Colors) : SkinParamColors [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamColors.java.html#17]]]
-+toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamColors.java.html#23]]]
-+shadowing(Stereotype) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamColors.java.html#28]]]
-+getFontHtmlColor(Stereotype;FontParam...) : HColor [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamColors.java.html#36]]]
-+getHtmlColor(ColorParam;Stereotype;boolean) : HColor [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamColors.java.html#45]]]
++getColors() : Colors [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamColors.java.html#45]]]
++SkinParamColors(ISkinParam;Colors) : SkinParamColors [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamColors.java.html#51]]]
++toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamColors.java.html#57]]]
++shadowing(Stereotype) : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamColors.java.html#62]]]
++getFontHtmlColor(Stereotype;FontParam...) : HColor [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamColors.java.html#70]]]
++getHtmlColor(ColorParam;Stereotype;boolean) : HColor [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamColors.java.html#79]]]
 } 
 @enduml

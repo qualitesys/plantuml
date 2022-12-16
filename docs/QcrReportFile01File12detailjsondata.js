@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.projection.Projection" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#37"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#46"
  , "c1" : "void"
  , "c2" : "initTransformTable()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#53"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#62"
  , "c1" : "void"
  , "c2" : "setScale()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#56"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#67"
  , "c1" : "double"
  , "c2" : "projectY(double)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#58"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#69"
  , "c1" : "double"
  , "c2" : "inverseProjectY(double)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#61"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#74"
  , "c1" : "double"
  , "c2" : "projectX(double;double)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#63"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#76"
  , "c1" : "double"
  , "c2" : "inverseProjectX(double)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#65"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#78"
  , "c1" : "boolean"
  , "c2" : "isVisible(Point3D)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#67"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#80"
  , "c1" : "boolean"
  , "c2" : "isWithinImage(Point2D)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#74"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#93"
  , "c1" : "Coordinate"
  , "c2" : "getLocation(int;int)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00228"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c5" : "00249"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c1" : "Point2D"
  , "c2" : "project2D(Point3D)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00228"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c5" : "00249"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c1" : "Point2D"
  , "c2" : "finalize(Point2D)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00228"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c5" : "00249"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c1" : "double"
  , "c2" : "finalizeX(double)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00228"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c5" : "00249"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c1" : "double"
  , "c2" : "finalizeY(double)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00228"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c5" : "00249"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c1" : "double"
  , "c2" : "inverseFinalizeX(double)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00228"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c5" : "00249"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c1" : "double"
  , "c2" : "inverseFinalizeY(double)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00228"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c5" : "00249"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c1" : "Point3D"
  , "c2" : "rotate(Point3D)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00228"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c5" : "00249"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c1" : "Point3D"
  , "c2" : "rotateReverse(Point3D)"
  , "c3" : "1"
@@ -328,199 +328,199 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method ext.plantuml.com.ctreber.acearth.projection.Projection.initTransformTable@POLYN173385 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method ext.plantuml.com.ctreber.acearth.projection.Projection.initTransformTable@POLYN173385 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#56"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method projectY arguments double  pY"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00056] In method ext.plantuml.com.ctreber.acearth.projection.Projection.initTransformTable@POLYN173511 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#58"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method inverseProjectY arguments double  pY"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#61"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method projectX arguments double  pX|double  pZ"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#63"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00063] For method inverseProjectX arguments double  pX"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#65"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00065] For method isVisible arguments Point3D  pPoint"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#57"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00057] In method ext.plantuml.com.ctreber.acearth.projection.Projection.initTransformTable@POLYN173511 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00067] For method isWithinImage arguments Point2D  pPoint"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#67"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00067] The argument pPoint is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000006[00067] For method projectY arguments double  pY"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00069] The same method call pPoint.getX()pPoint.getY()pPoint.getY() is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00070] The same method call pPoint.getY() is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.ctreber.acearth.projection.Projection.isWithinImage@POLYN175105 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.ctreber.acearth.projection.Projection.isWithinImage@POLYN175105 the MagicNumber/String  0 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00069] For method inverseProjectY arguments double  pY"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00074] For method getLocation arguments int  pX|int  pY"
+ , "c3" : "QC-JAV000006[00074] For method projectX arguments double  pX|double  pZ"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00228] For method project2D arguments Point3D  pPoint"
+ , "c3" : "QC-JAV000006[00076] For method inverseProjectX arguments double  pX"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#78"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00078] For method isVisible arguments Point3D  pPoint"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#80"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00080] For method isWithinImage arguments Point2D  pPoint"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#80"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00228] The argument pPoint is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00080] The argument pPoint is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00082] The same method call pPoint.getX()pPoint.getY()pPoint.getY() is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#83"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00083] The same method call pPoint.getY() is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method ext.plantuml.com.ctreber.acearth.projection.Projection.isWithinImage@POLYN175231 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#83"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00083] In method ext.plantuml.com.ctreber.acearth.projection.Projection.isWithinImage@POLYN175231 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00228] For method finalize arguments Point2D  pPoint"
+ , "c3" : "QC-JAV000006[00093] For method getLocation arguments int  pX|int  pY"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00249] For method project2D arguments Point3D  pPoint"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00228] The argument pPoint is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00249] The argument pPoint is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00228] For method finalizeX arguments double  pX"
+ , "c3" : "QC-JAV000006[00249] For method finalize arguments Point2D  pPoint"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00228] For method finalizeY arguments double  pY"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00228] For method inverseFinalizeX arguments double  x"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00228] For method inverseFinalizeY arguments double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00228] For method rotate arguments Point3D  pPoint"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00228] For method rotate list of called methods Object monObjet|double pPoint_getXN177970|double pPoint_getYN178045|double pPoint_getZN178120"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00228] The argument pPoint is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00249] The argument pPoint is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00228] For method rotateReverse arguments Point3D  pPoint"
+ , "c3" : "QC-JAV000006[00249] For method finalizeX arguments double  pX"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00228] For method rotateReverse list of called methods Object monObjet|double pPoint_getXN180732|double pPoint_getYN180807|double pPoint_getZN180882"
+ , "c3" : "QC-JAV000006[00249] For method finalizeY arguments double  pY"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00249] For method inverseFinalizeX arguments double  x"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00249] For method inverseFinalizeY arguments double  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00249] For method rotate arguments Point3D  pPoint"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00249] For method rotate list of called methods Object monObjet|double pPoint_getXN178096|double pPoint_getYN178171|double pPoint_getZN178246"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00228] The argument pPoint is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00249] The argument pPoint is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00249] For method rotateReverse arguments Point3D  pPoint"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00249] For method rotateReverse list of called methods Object monObjet|double pPoint_getXN180858|double pPoint_getYN180933|double pPoint_getZN181008"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00249] The argument pPoint is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -573,52 +573,52 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#56"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#67"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00056] Public method projectY is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00067] Public method projectY is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#58"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#69"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00058] Public method inverseProjectY is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00069] Public method inverseProjectY is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#63"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#76"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00063] Public method inverseProjectX is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00076] Public method inverseProjectX is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#65"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#78"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00065] Public method isVisible is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00078] Public method isVisible is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#74"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#93"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00074] Public method getLocation is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00093] Public method getLocation is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00228] Public method project2D is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00249] Public method project2D is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#228"
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00228] Public method finalize is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00249] Public method finalize is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

@@ -2,14 +2,14 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.gitlog.SmetanaForGit"
 class net.sourceforge.plantuml.gitlog.SmetanaForGit {
-+SmetanaForGit(UGraphic;ISkinParam) : SmetanaForGit [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#51]]]
--getStyle() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#57]]]
--arrowColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#62]]]
-+drawMe(Collection<GNode>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#66]]]
--getSize(ST_Agnode_s) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#83]]]
--getPosition(ST_Agnode_s) : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#90]]]
--initGraph(Collection<GNode>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#99]]]
--createEdge(GNode;GNode) : ST_Agedge_s [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#139]]]
--createNode(XDimension2D) : ST_Agnode_s [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#153]]]
++SmetanaForGit(UGraphic;ISkinParam) : SmetanaForGit [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#84]]]
+-getStyle() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#90]]]
+-arrowColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#95]]]
++drawMe(Collection<GNode>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#99]]]
+-getSize(ST_Agnode_s) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#116]]]
+-getPosition(ST_Agnode_s) : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#123]]]
+-initGraph(Collection<GNode>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#132]]]
+-createEdge(GNode;GNode) : ST_Agedge_s [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#172]]]
+-createNode(XDimension2D) : ST_Agnode_s [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#186]]]
 } 
 @enduml

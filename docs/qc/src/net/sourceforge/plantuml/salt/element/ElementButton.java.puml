@@ -2,8 +2,8 @@
 !pragma layout smetana
 "AbstractElementTextElement" <|-- "net.sourceforge.plantuml.salt.element.ElementButton"
 class net.sourceforge.plantuml.salt.element.ElementButton {
-+ElementButton(String;UFont;ISkinSimple) : ElementButton [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementButton.java.html#19]]]
-+getPreferredDimension(StringBounder;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementButton.java.html#23]]]
-+drawU(UGraphic;int;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementButton.java.html#29]]]
++ElementButton(String;UFont;ISkinSimple) : ElementButton [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementButton.java.html#53]]]
++getPreferredDimension(StringBounder;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementButton.java.html#57]]]
++drawU(UGraphic;int;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementButton.java.html#63]]]
 } 
 @enduml

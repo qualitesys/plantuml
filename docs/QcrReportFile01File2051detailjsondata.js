@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.teoz.TileArguments" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#56"
  , "c1" : "TileArguments"
  , "c2" : "TileArguments(StringBounder;LivingSpaces;Rose;ISkinParam;Real;Real)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#66"
  , "c1" : "TileArguments"
  , "c2" : "withBackColorGeneral(HColor;HColor)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#71"
  , "c1" : "TileArguments"
  , "c2" : "withBackColor(Reference)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#43"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#77"
  , "c1" : "StringBounder"
  , "c2" : "getStringBounder()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#47"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#81"
  , "c1" : "Real"
  , "c2" : "getXOrigin()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#51"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#85"
  , "c1" : "Real"
  , "c2" : "getYOrigin()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#89"
  , "c1" : "LivingSpaces"
  , "c2" : "getLivingSpaces()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#59"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#93"
  , "c1" : "Rose"
  , "c2" : "getSkin()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#63"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#97"
  , "c1" : "ISkinParam"
  , "c2" : "getSkinParam()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#67"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#101"
  , "c1" : "LivingSpace"
  , "c2" : "getLivingSpace(Participant)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#105"
  , "c1" : "LivingSpace"
  , "c2" : "getFirstLivingSpace()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#75"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#109"
  , "c1" : "LivingSpace"
  , "c2" : "getLastLivingSpace()"
  , "c3" : "2"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#85"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#119"
  , "c1" : "void"
  , "c2" : "setBordered(Bordered)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00089"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#89"
+ , "c5" : "00123"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#123"
  , "c1" : "double"
  , "c2" : "getBorder1()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#93"
+ , "c5" : "00127"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#127"
  , "c1" : "double"
  , "c2" : "getBorder2()"
  , "c3" : "1"
@@ -208,45 +208,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method withBackColorGeneral arguments HColor  backColorElement|HColor  backColorGeneral"
+ , "c3" : "QC-JAV000006[00066] For method withBackColorGeneral arguments HColor  backColorElement|HColor  backColorGeneral"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#71"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method withBackColor arguments Reference  reference"
+ , "c3" : "QC-JAV000006[00071] For method withBackColor arguments Reference  reference"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#71"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00037] The argument reference is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00071] The argument reference is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#67"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#101"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00067] For method getLivingSpace arguments Participant  p"
+ , "c3" : "QC-JAV000006[00101] For method getLivingSpace arguments Participant  p"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#76"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.sequencediagram.teoz.TileArguments.getLastLivingSpace@POLYN158517 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.sequencediagram.teoz.TileArguments.getLastLivingSpace@POLYN158721 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#85"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileArguments.java.html#119"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00085] For method setBordered arguments Bordered  bordered"
+ , "c3" : "QC-JAV000006[00119] For method setBordered arguments Bordered  bordered"
 }} 
 ]
 , 

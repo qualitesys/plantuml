@@ -2,8 +2,8 @@
 !pragma layout smetana
 "ReadLine" <|-- "net.sourceforge.plantuml.preproc.ReadLineList"
 class net.sourceforge.plantuml.preproc.ReadLineList {
-+ReadLineList(List<String>;LineLocation) : ReadLineList [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#15]]]
-+close() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#20]]]
-+readLine() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#23]]]
++ReadLineList(List<String>;LineLocation) : ReadLineList [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#49]]]
++close() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#54]]]
++readLine() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#57]]]
 } 
 @enduml

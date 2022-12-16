@@ -2,9 +2,9 @@
 !pragma layout smetana
 "SingleLineCommand2<SequenceDiagram>" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandBoxStart"
 class net.sourceforge.plantuml.sequencediagram.command.CommandBoxStart {
-+CommandBoxStart() : CommandBoxStart [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandBoxStart.java.html#24]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandBoxStart.java.html#28]]]
--color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandBoxStart.java.html#44]]]
-executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandBoxStart.java.html#49]]]
++CommandBoxStart() : CommandBoxStart [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandBoxStart.java.html#58]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandBoxStart.java.html#62]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandBoxStart.java.html#78]]]
+executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandBoxStart.java.html#83]]]
 } 
 @enduml

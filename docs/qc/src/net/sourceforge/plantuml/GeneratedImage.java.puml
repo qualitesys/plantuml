@@ -2,9 +2,9 @@
 !pragma layout smetana
 "Comparable<GeneratedImage>" <|-- "net.sourceforge.plantuml.GeneratedImage"
 class net.sourceforge.plantuml.GeneratedImage {
-+getPngFile() : File [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImage.java.html#8]]]
-+getDescription() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImage.java.html#10]]]
-+lineErrorRaw() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImage.java.html#12]]]
-+getStatus() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImage.java.html#14]]]
++getPngFile() : File [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImage.java.html#42]]]
++getDescription() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImage.java.html#44]]]
++lineErrorRaw() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImage.java.html#46]]]
++getStatus() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/GeneratedImage.java.html#48]]]
 } 
 @enduml

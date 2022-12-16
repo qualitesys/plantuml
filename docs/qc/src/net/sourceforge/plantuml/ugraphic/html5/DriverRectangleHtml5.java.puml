@@ -2,7 +2,7 @@
 !pragma layout smetana
 "UDriver<URectangle,Html5Drawer>" <|-- "net.sourceforge.plantuml.ugraphic.html5.DriverRectangleHtml5"
 class net.sourceforge.plantuml.ugraphic.html5.DriverRectangleHtml5 {
-+DriverRectangleHtml5(ClipContainer) : DriverRectangleHtml5 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/html5/DriverRectangleHtml5.java.html#19]]]
-+draw(URectangle;double;double;ColorMapper;UParam;Html5Drawer) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/html5/DriverRectangleHtml5.java.html#23]]]
++DriverRectangleHtml5(ClipContainer) : DriverRectangleHtml5 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/html5/DriverRectangleHtml5.java.html#52]]]
++draw(URectangle;double;double;ColorMapper;UParam;Html5Drawer) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/html5/DriverRectangleHtml5.java.html#56]]]
 } 
 @enduml

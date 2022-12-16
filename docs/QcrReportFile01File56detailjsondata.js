@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.google.zxing.EncodeHintType" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/EncodeHintType.java.html#14"
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/EncodeHintType.java.html#36"
  , "c1" : "EncodeHintType"
  , "c2" : "EncodeHintType()"
  , "c3" : "1"

@@ -2,7 +2,7 @@
 !pragma layout smetana
 "ScaleProtectedScale" <|-- "net.sourceforge.plantuml.ScaleWidthAndHeight"
 class net.sourceforge.plantuml.ScaleWidthAndHeight {
-+ScaleWidthAndHeight(double;double) : ScaleWidthAndHeight [[[./../../../../.././qc/src/net/sourceforge/plantuml/ScaleWidthAndHeight.java.html#9]]]
-+getScaleInternal(double;double) : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/ScaleWidthAndHeight.java.html#14]]]
++ScaleWidthAndHeight(double;double) : ScaleWidthAndHeight [[[./../../../../.././qc/src/net/sourceforge/plantuml/ScaleWidthAndHeight.java.html#43]]]
++getScaleInternal(double;double) : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/ScaleWidthAndHeight.java.html#48]]]
 } 
 @enduml

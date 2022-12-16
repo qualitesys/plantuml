@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.braille.UGraphicBraille" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#31"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#64"
  , "c1" : "AbstractCommonUGraphic"
  , "c2" : "copyUGraphic()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#35"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#68"
  , "c1" : "UGraphicBraille"
  , "c2" : "UGraphicBraille(HColor;ColorMapper;StringBounder)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#40"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#73"
  , "c1" : "UGraphicBraille"
  , "c2" : "UGraphicBraille(UGraphicBraille)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#61"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#94"
  , "c1" : "void"
  , "c2" : "register()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00079"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#79"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#112"
  , "c1" : "void"
  , "c2" : "writeToStream(OutputStream;String;int)"
  , "c3" : "1"
@@ -104,10 +104,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#79"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#112"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00079] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
+ , "c3" : "QC-JAV000006[00112] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
 }} 
 ]
 , 

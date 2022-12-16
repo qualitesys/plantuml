@@ -2,14 +2,14 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.salt.Cell"
 class net.sourceforge.plantuml.salt.Cell {
-+Cell(int;int) : Cell [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#12]]]
-+mergeLeft() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#19]]]
-+getMinRow() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#23]]]
-+getMaxRow() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#27]]]
-+getMinCol() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#31]]]
-+getMaxCol() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#35]]]
-+getNbRows() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#39]]]
-+getNbCols() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#43]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#48]]]
++Cell(int;int) : Cell [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#46]]]
++mergeLeft() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#53]]]
++getMinRow() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#57]]]
++getMaxRow() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#61]]]
++getMinCol() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#65]]]
++getMaxCol() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#69]]]
++getNbRows() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#73]]]
++getNbCols() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#77]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/Cell.java.html#82]]]
 } 
 @enduml

@@ -2,14 +2,14 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.code.deflate.Decompressor"
 class net.sourceforge.plantuml.code.deflate.Decompressor {
-+decompress(BitInputStream) : byte[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#16]]]
-+decompress(BitInputStream;OutputStreamProtected) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#24]]]
--Decompressor(BitInputStream;OutputStreamProtected) : Decompressor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#41]]]
--decodeHuffmanCodes() : CanonicalCode[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#93]]]
--decompressUncompressedBlock() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#191]]]
--decompressHuffmanBlock(CanonicalCode;CanonicalCode) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#214]]]
--decodeRunLength(int) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#246]]]
--decodeDistance(int) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#262]]]
--readInt(int) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#278]]]
++decompress(BitInputStream) : byte[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#23]]]
++decompress(BitInputStream;OutputStreamProtected) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#37]]]
+-Decompressor(BitInputStream;OutputStreamProtected) : Decompressor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#54]]]
+-decodeHuffmanCodes() : CanonicalCode[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#106]]]
+-decompressUncompressedBlock() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#204]]]
+-decompressHuffmanBlock(CanonicalCode;CanonicalCode) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#227]]]
+-decodeRunLength(int) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#259]]]
+-decodeDistance(int) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#275]]]
+-readInt(int) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html#291]]]
 } 
 @enduml

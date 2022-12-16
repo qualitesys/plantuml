@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.jsondiagram.JsonCurve" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#29"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#58"
  , "c1" : "JsonCurve"
  , "c2" : "JsonCurve(ST_Agedgeinfo_t;Mirror;double)"
  , "c3" : "7"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#57"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#86"
  , "c1" : "XPoint2D"
  , "c2" : "getPoint(ST_splines;int)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#63"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#92"
  , "c1" : "void"
  , "c2" : "drawCurve(HColor;UGraphic)"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#84"
+ , "c5" : "00113"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#113"
  , "c1" : "void"
  , "c2" : "drawSpot(UGraphic)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#90"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#119"
  , "c1" : "XPoint2D"
  , "c2" : "getVeryFirst()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#95"
+ , "c5" : "00124"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#124"
  , "c1" : "XPoint2D"
  , "c2" : "supp(XPoint2D;XPoint2D;double)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00104"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#104"
+ , "c5" : "00133"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#133"
  , "c1" : "double"
  , "c2" : "getMaxX()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00108"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#108"
+ , "c5" : "00137"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#137"
  , "c1" : "double"
  , "c2" : "getMaxY()"
  , "c3" : "1"
@@ -159,283 +159,283 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#29"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument data is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00038] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164612 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164612 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164612 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164612 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164612 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164612 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164612 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164612 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164612 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#57"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00057] For method getPoint arguments ST_splines  splines|int  i"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#57"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00057] The argument splines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.getPoint@POLYN166550 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#63"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00063] For method drawCurve arguments HColor  color|UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#63"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00063] The argument color is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#63"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00063] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#70"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00070] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00071] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00072] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAVCWE476[00058] The argument data is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawCurve@POLYN166967 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00067] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#69"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawCurve@POLYN166967 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#69"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawCurve@POLYN166967 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#71"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawCurve@POLYN166967 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#72"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawCurve@POLYN166967 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#77"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawCurve@POLYN166967 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164786 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#74"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164786 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawCurve@POLYN166967 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#84"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00084] For method drawSpot arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#84"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00084] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#85"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawSpot@POLYN168766 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164786 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#79"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.JsonCurve@POLYN164786 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#86"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00086] For method getPoint arguments ST_splines  splines|int  i"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#86"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00086] The argument splines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawSpot@POLYN168766 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.getPoint@POLYN166724 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawSpot@POLYN168766 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.getVeryFirst@POLYN169396 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.getVeryFirst@POLYN169396 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#95"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#92"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00095] For method supp arguments XPoint2D  center|XPoint2D  direction|double  len"
+ , "c3" : "QC-JAV000006[00092] For method drawCurve arguments HColor  color|UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#95"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#92"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00095] The argument center is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00092] The argument color is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#95"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#92"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00095] The argument direction is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00092] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#104"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00104] Public method getMaxX is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#99"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00099] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#108"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00108] Public method getMaxY is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00100] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#84"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#101"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00101] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#96"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawCurve@POLYN167141 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawCurve@POLYN167141 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawCurve@POLYN167141 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawCurve@POLYN167141 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#101"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawCurve@POLYN167141 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#106"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawCurve@POLYN167141 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawCurve@POLYN167141 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#113"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00113] For method drawSpot arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#113"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00113] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawSpot@POLYN168940 the MagicNumber/String  3 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#116"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawSpot@POLYN168940 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#116"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.drawSpot@POLYN168940 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#120"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.getVeryFirst@POLYN169570 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#120"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.jsondiagram.JsonCurve.getVeryFirst@POLYN169570 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#124"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00124] For method supp arguments XPoint2D  center|XPoint2D  direction|double  len"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#124"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00124] The argument center is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#124"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00124] The argument direction is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#133"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00084] Public method drawSpot is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00133] Public method getMaxX is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#137"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00137] Public method getMaxY is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonCurve.java.html#113"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00113] Public method drawSpot is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

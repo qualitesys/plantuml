@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.donors.PSystemDonors" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#67"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#105"
  , "c1" : "PSystemDonors"
  , "c2" : "PSystemDonors(UmlSource)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00072"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#72"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#110"
  , "c1" : "UDrawable"
  , "c2" : "getRootDrawable(FileFormatOption)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00098"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#98"
+ , "c5" : "00136"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#136"
  , "c1" : "List<TextBlock>"
  , "c2" : "getCols(List<String>;int;int)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00108"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#108"
+ , "c5" : "00146"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#146"
  , "c1" : "List<String>"
  , "c2" : "getDonors()"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00124"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#124"
+ , "c5" : "00162"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#162"
  , "c1" : "DiagramDescription"
  , "c2" : "getDescription()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00128"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#128"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#166"
  , "c1" : "PSystemDonors"
  , "c2" : "create(UmlSource)"
  , "c3" : "1"
@@ -134,108 +134,108 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#72"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#110"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00072] For method getRootDrawable arguments FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00110] For method getRootDrawable arguments FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#77"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.donors.PSystemDonors.getRootDrawable@POLYN168995 the MagicNumber/String  '&amp;lt;b&amp;gt;Special thanks to our sponsors and donors !' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.donors.PSystemDonors.getRootDrawable@POLYN169223 the MagicNumber/String  '&amp;lt;b&amp;gt;Special thanks to our sponsors and donors !' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#81"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.donors.PSystemDonors.getRootDrawable@POLYN168995 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.donors.PSystemDonors.getRootDrawable@POLYN169223 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#82"
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.donors.PSystemDonors.getRootDrawable@POLYN168995 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.donors.PSystemDonors.getRootDrawable@POLYN169223 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#83"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.donors.PSystemDonors.getRootDrawable@POLYN168995 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.donors.PSystemDonors.getRootDrawable@POLYN169223 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#88"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.donors.PSystemDonors.getRootDrawable@POLYN168995 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.donors.PSystemDonors.getRootDrawable@POLYN169223 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#98"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#136"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00098] For method getCols arguments List&lt;String &gt;  lines|int  nbCol|int  reserved"
+ , "c3" : "QC-JAV000006[00136] For method getCols arguments List&lt;String &gt;  lines|int  nbCol|int  reserved"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#98"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#136"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00098] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00136] The argument lines is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#102"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00102] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00140] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#100"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.donors.PSystemDonors.getCols@POLYN171064 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.donors.PSystemDonors.getCols@POLYN171292 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#101"
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.donors.PSystemDonors.getCols@POLYN171064 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.donors.PSystemDonors.getCols@POLYN171292 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#113"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.donors.PSystemDonors.getDonors@POLYN172162 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.donors.PSystemDonors.getDonors@POLYN172390 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#113"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.donors.PSystemDonors.getDonors@POLYN172162 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.donors.PSystemDonors.getDonors@POLYN172390 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#125"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.donors.PSystemDonors.getDescription@POLYN173164 the MagicNumber/String  '(Donors)' should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.donors.PSystemDonors.getDescription@POLYN173392 the MagicNumber/String  '(Donors)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#128"
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#166"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00128] For method create arguments UmlSource  source"
+ , "c3" : "QC-JAV000006[00166] For method create arguments UmlSource  source"
 }} 
 ]
 , 

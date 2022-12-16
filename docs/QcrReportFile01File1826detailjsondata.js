@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.salt.element.ElementTreeEntry" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#53"
  , "c1" : "ElementTreeEntry"
  , "c2" : "ElementTreeEntry(int;Element)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#58"
  , "c1" : "void"
  , "c2" : "addCell(Element)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#62"
  , "c1" : "XDimension2D"
  , "c2" : "getPreferredDimensionFirstCell(StringBounder)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#66"
  , "c1" : "ListWidth"
  , "c2" : "getPreferredDimensionOtherCell(StringBounder)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#74"
  , "c1" : "double"
  , "c2" : "getXDelta()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#78"
  , "c1" : "void"
  , "c2" : "drawFirstCell(UGraphic;double;double)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#82"
  , "c1" : "void"
  , "c2" : "drawSecondCell(UGraphic;double;double;ListWidth;double)"
  , "c3" : "2"
@@ -143,150 +143,150 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method addCell arguments Element  elmt"
+ , "c3" : "QC-JAV000006[00058] For method addCell arguments Element  elmt"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method getPreferredDimensionFirstCell arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00062] For method getPreferredDimensionFirstCell arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionFirstCell@POLYN153584 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionFirstCell@POLYN153788 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionFirstCell@POLYN153584 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionFirstCell@POLYN153788 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionFirstCell@POLYN153584 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionFirstCell@POLYN153788 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method getPreferredDimensionOtherCell arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00066] For method getPreferredDimensionOtherCell arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionOtherCell@POLYN153876 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionOtherCell@POLYN154080 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionOtherCell@POLYN153876 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionOtherCell@POLYN154080 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#41"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getXDelta@POLYN154318 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getXDelta@POLYN154522 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method drawFirstCell arguments UGraphic  ug|double  x|double  y"
+ , "c3" : "QC-JAV000006[00078] For method drawFirstCell arguments UGraphic  ug|double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#78"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00044] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00078] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.drawFirstCell@POLYN154420 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.drawFirstCell@POLYN154624 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.drawFirstCell@POLYN154420 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.drawFirstCell@POLYN154624 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#48"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method drawSecondCell arguments UGraphic  ug|double  x|double  y|ListWidth  otherWidth|double  margin"
+ , "c3" : "QC-JAV000006[00082] For method drawSecondCell arguments UGraphic  ug|double  x|double  y|ListWidth  otherWidth|double  margin"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#48"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#82"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00048] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00082] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#48"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#82"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00048] The argument otherWidth is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00082] The argument otherWidth is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.drawSecondCell@POLYN154785 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.drawSecondCell@POLYN154989 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#51"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.drawSecondCell@POLYN154785 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.drawSecondCell@POLYN154989 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#66"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00032] Public method getPreferredDimensionOtherCell is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00066] Public method getPreferredDimensionOtherCell is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#58"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00024] Public method addCell is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00058] Public method addCell is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#48"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#82"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00048] Public method drawSecondCell is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00082] Public method drawSecondCell is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

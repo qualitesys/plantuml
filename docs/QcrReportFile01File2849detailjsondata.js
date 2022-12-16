@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "smetana.core.Memory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/smetana/core/Memory.java.html#6"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/smetana/core/Memory.java.html#40"
  , "c1" : "__ptr__"
  , "c2" : "malloc(Class)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/smetana/core/Memory.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/smetana/core/Memory.java.html#45"
  , "c1" : "__ptr__"
  , "c2" : "malloc(size_t)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/smetana/core/Memory.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/smetana/core/Memory.java.html#49"
  , "c1" : "__ptr__"
  , "c2" : "realloc(__ptr__;size_t)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/smetana/core/Memory.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/smetana/core/Memory.java.html#53"
  , "c1" : "void"
  , "c2" : "free(Object)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/smetana/core/Memory.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/smetana/core/Memory.java.html#56"
  , "c1" : "int"
  , "c2" : "identityHashCode(CString)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/smetana/core/Memory.java.html#34"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/smetana/core/Memory.java.html#68"
  , "c1" : "Object"
  , "c2" : "fromIdentityHashCode(int)"
  , "c3" : "3"
@@ -150,136 +150,136 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00006"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#6"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#40"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00006] For method malloc arguments Class  theClass"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#7"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00007] In method smetana.core.Memory.malloc@POLYN149155 the MagicNumber/String  'MEMORY::malloc ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#8"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00008] In method smetana.core.Memory.malloc@POLYN149155 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#11"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00011] For method malloc arguments size_t  size"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#11"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00011] The argument size is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#15"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method realloc arguments __ptr__  old|size_t  size"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#15"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00015] The argument old is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#16"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method smetana.core.Memory.realloc@POLYN149578 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#19"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method free arguments Object  arg"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#22"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method identityHashCode arguments CString  data"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#22"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00022] For method identityHashCode list of called methods Object monObjet|int data_getUidN150074"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method smetana.core.Memory.identityHashCode@POLYN149866 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method smetana.core.Memory.identityHashCode@POLYN149866 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#34"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00034] For method fromIdentityHashCode arguments int  hash"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#34"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00034] For method fromIdentityHashCode list of called methods Object monObjet|smetana.core.Z Z_zN150539"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method smetana.core.Memory.fromIdentityHashCode@POLYN150290 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#36"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method smetana.core.Memory.fromIdentityHashCode@POLYN150290 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000006[00040] For method malloc arguments Class  theClass"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00041"
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method smetana.core.Memory.fromIdentityHashCode@POLYN150290 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method smetana.core.Memory.malloc@POLYN149359 the MagicNumber/String  'MEMORY::malloc ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#42"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00042] In method smetana.core.Memory.malloc@POLYN149359 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#45"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00045] For method malloc arguments size_t  size"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#45"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00045] The argument size is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#49"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00049] For method realloc arguments __ptr__  old|size_t  size"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#49"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00049] The argument old is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method smetana.core.Memory.realloc@POLYN149782 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#53"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00053] For method free arguments Object  arg"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#56"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00056] For method identityHashCode arguments CString  data"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#56"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00056] For method identityHashCode list of called methods Object monObjet|int data_getUidN150278"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#57"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00057] In method smetana.core.Memory.identityHashCode@POLYN150070 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method smetana.core.Memory.identityHashCode@POLYN150070 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#68"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00068] For method fromIdentityHashCode arguments int  hash"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#68"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00068] For method fromIdentityHashCode list of called methods Object monObjet|smetana.core.Z Z_zN150743"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method smetana.core.Memory.fromIdentityHashCode@POLYN150494 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method smetana.core.Memory.fromIdentityHashCode@POLYN150494 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method smetana.core.Memory.fromIdentityHashCode@POLYN150494 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Memory.malloc@POLYN149426"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Memory.malloc@POLYN149630"
 }} 
 ]
 , 

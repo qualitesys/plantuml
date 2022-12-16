@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<SequenceDiagram>" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandGrouping"
 class net.sourceforge.plantuml.sequencediagram.command.CommandGrouping {
-+CommandGrouping() : CommandGrouping [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandGrouping.java.html#24]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandGrouping.java.html#28]]]
-executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandGrouping.java.html#41]]]
++CommandGrouping() : CommandGrouping [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandGrouping.java.html#58]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandGrouping.java.html#62]]]
+executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandGrouping.java.html#75]]]
 } 
 @enduml

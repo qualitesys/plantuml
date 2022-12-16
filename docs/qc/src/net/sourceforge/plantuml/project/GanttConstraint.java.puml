@@ -2,15 +2,15 @@
 !pragma layout smetana
 "WithLinkType" <|-- "net.sourceforge.plantuml.project.GanttConstraint"
 class net.sourceforge.plantuml.project.GanttConstraint {
-+GanttConstraint(HColorSet;StyleBuilder;TaskInstant;TaskInstant;HColor) : GanttConstraint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#28]]]
-+GanttConstraint(HColorSet;StyleBuilder;TaskInstant;TaskInstant) : GanttConstraint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#38]]]
-+isOn(Task) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#42]]]
-+isThereRightArrow(Task) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#46]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#58]]]
-+getStyleSignature() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#62]]]
-+getUDrawable(TimeScale;ToTaskDraw) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#66]]]
-+isHidden(Day;Day) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#73]]]
--isHidden(Day;Day;Day) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#83]]]
-+goNorank() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#94]]]
++GanttConstraint(HColorSet;StyleBuilder;TaskInstant;TaskInstant;HColor) : GanttConstraint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#62]]]
++GanttConstraint(HColorSet;StyleBuilder;TaskInstant;TaskInstant) : GanttConstraint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#72]]]
++isOn(Task) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#76]]]
++isThereRightArrow(Task) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#80]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#92]]]
++getStyleSignature() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#96]]]
++getUDrawable(TimeScale;ToTaskDraw) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#100]]]
++isHidden(Day;Day) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#107]]]
+-isHidden(Day;Day;Day) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#117]]]
++goNorank() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html#128]]]
 } 
 @enduml

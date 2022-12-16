@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.dot.DotMaker2" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotMaker2.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotMaker2.java.html#42"
  , "c1" : "void"
  , "c2" : "goJunit()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotMaker2.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotMaker2.java.html#46"
  , "c1" : "boolean"
  , "c2" : "isJunit()"
  , "c3" : "1"
@@ -77,10 +77,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotMaker2.java.html#9"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotMaker2.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00009] In method net.sourceforge.plantuml.cucadiagram.dot.DotMaker2.goJunit@POLYN145154 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.cucadiagram.dot.DotMaker2.goJunit@POLYN145358 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

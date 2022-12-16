@@ -2,9 +2,9 @@
 !pragma layout smetana
 "Sprite" <|-- "net.sourceforge.plantuml.sprite.SpriteImage"
 class net.sourceforge.plantuml.sprite.SpriteImage {
-+SpriteImage(BufferedImage) : SpriteImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteImage.java.html#26]]]
-+asTextBlock(HColor;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteImage.java.html#30]]]
-+fromInternal(String) : Sprite [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteImage.java.html#49]]]
-+getInternalSprite(String) : InputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteImage.java.html#66]]]
++SpriteImage(BufferedImage) : SpriteImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteImage.java.html#60]]]
++asTextBlock(HColor;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteImage.java.html#64]]]
++fromInternal(String) : Sprite [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteImage.java.html#83]]]
++getInternalSprite(String) : InputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/SpriteImage.java.html#100]]]
 } 
 @enduml

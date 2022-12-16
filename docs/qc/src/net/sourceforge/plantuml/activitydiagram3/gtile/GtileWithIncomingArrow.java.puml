@@ -2,7 +2,7 @@
 !pragma layout smetana
 "GtileWithMarginGtile" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithIncomingArrow"
 class net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithIncomingArrow {
-+GtileWithIncomingArrow(AbstractGtileRoot;double) : GtileWithIncomingArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithIncomingArrow.java.html#12]]]
-+getInnerConnections() : Collection<GConnection> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithIncomingArrow.java.html#21]]]
++GtileWithIncomingArrow(AbstractGtileRoot;double) : GtileWithIncomingArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithIncomingArrow.java.html#46]]]
++getInnerConnections() : Collection<GConnection> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithIncomingArrow.java.html#55]]]
 } 
 @enduml

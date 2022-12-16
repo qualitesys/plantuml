@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.timingdiagram.TimingRuler" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#41"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#74"
  , "c1" : "UGraphic"
  , "c2" : "applyForVLines(UGraphic;Style;ISkinParam)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#48"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#81"
  , "c1" : "void"
  , "c2" : "ensureNotEmpty()"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#57"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#90"
  , "c1" : "TimingRuler"
  , "c2" : "TimingRuler(ISkinParam)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#61"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#94"
  , "c1" : "void"
  , "c2" : "scaleInPixels(long;long)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#68"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#101"
  , "c1" : "long"
  , "c2" : "tickUnitary()"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#78"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#111"
  , "c1" : "long"
  , "c2" : "highestCommonFactor()"
  , "c3" : "6"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#97"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#130"
  , "c1" : "Set<Long>"
  , "c2" : "getAbsolutesTicks()"
  , "c3" : "3"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00112"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#112"
+ , "c5" : "00145"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#145"
  , "c1" : "int"
  , "c2" : "getNbTick()"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00120"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#120"
+ , "c5" : "00153"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#153"
  , "c1" : "double"
  , "c2" : "getWidth()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00126"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#126"
+ , "c5" : "00159"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#159"
  , "c1" : "double"
  , "c2" : "getPosInPixel(TimeTick)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00130"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#130"
+ , "c5" : "00163"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#163"
  , "c1" : "double"
  , "c2" : "getPosInPixelInternal(double)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00135"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#135"
+ , "c5" : "00168"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#168"
  , "c1" : "long"
  , "c2" : "tickToTime(int)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00139"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#139"
+ , "c5" : "00172"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#172"
  , "c1" : "void"
  , "c2" : "addTime(TimeTick)"
  , "c3" : "2"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00147"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#147"
+ , "c5" : "00180"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#180"
  , "c1" : "FontConfiguration"
  , "c2" : "getFontConfiguration()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00151"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#151"
+ , "c5" : "00184"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#184"
  , "c1" : "Style"
  , "c2" : "getStyle()"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00156"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#156"
+ , "c5" : "00189"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#189"
  , "c1" : "TextBlock"
  , "c2" : "getTimeTextBlock(long)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00160"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#160"
+ , "c5" : "00193"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#193"
  , "c1" : "TextBlock"
  , "c2" : "getTimeTextBlock(String)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00165"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#165"
+ , "c5" : "00198"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#198"
  , "c1" : "void"
  , "c2" : "drawTimeAxis(UGraphic;TimeAxisStategy;Map<String,TimeTick>)"
  , "c3" : "4"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00184"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#184"
+ , "c5" : "00217"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#217"
  , "c1" : "void"
  , "c2" : "drawTimeAxisManual(UGraphic;Map<String,TimeTick>)"
  , "c3" : "4"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00206"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#206"
+ , "c5" : "00239"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#239"
  , "c1" : "void"
  , "c2" : "drawTimeAxisAutomatic(UGraphic)"
  , "c3" : "3"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00224"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#224"
+ , "c5" : "00257"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#257"
  , "c1" : "String"
  , "c2" : "getLabel(TimeTick;Map<String,TimeTick>)"
  , "c3" : "3"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00232"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#232"
+ , "c5" : "00265"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#265"
  , "c1" : "BigDecimal"
  , "c2" : "getFirstPositiveOrZeroValue()"
  , "c3" : "3"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00240"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#240"
+ , "c5" : "00273"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#273"
  , "c1" : "Collection<Long>"
  , "c2" : "roundValues()"
  , "c3" : "6"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00260"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#260"
+ , "c5" : "00293"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#293"
  , "c1" : "void"
  , "c2" : "drawVlines(UGraphic;double)"
  , "c3" : "2"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00269"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#269"
+ , "c5" : "00302"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#302"
  , "c1" : "double"
  , "c2" : "getHeight(StringBounder)"
  , "c3" : "1"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00273"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#273"
+ , "c5" : "00306"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#306"
  , "c1" : "TimeTick"
  , "c2" : "getMax()"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00277"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#277"
+ , "c5" : "00310"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#310"
  , "c1" : "TimeTick"
  , "c2" : "getMin()"
  , "c3" : "1"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00281"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#281"
+ , "c5" : "00314"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#314"
  , "c1" : "long"
  , "c2" : "computeHighestCommonFactor(long;long)"
  , "c3" : "2"
@@ -339,521 +339,521 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#41"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method applyForVLines arguments UGraphic  ug|Style  style|ISkinParam  skinParam"
+ , "c3" : "QC-JAV000006[00074] For method applyForVLines arguments UGraphic  ug|Style  style|ISkinParam  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#41"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#74"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00041] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00074] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#41"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#74"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00041] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00074] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#41"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#74"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00041] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00074] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#42"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.applyForVLines@POLYN194549 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.applyForVLines@POLYN194747 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#42"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.applyForVLines@POLYN194549 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.applyForVLines@POLYN194747 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#42"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.applyForVLines@POLYN194549 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.applyForVLines@POLYN194747 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#49"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.ensureNotEmpty@POLYN195091 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.ensureNotEmpty@POLYN195289 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#52"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.ensureNotEmpty@POLYN195091 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.ensureNotEmpty@POLYN195289 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#52"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.ensureNotEmpty@POLYN195091 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.ensureNotEmpty@POLYN195289 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#61"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#94"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method scaleInPixels arguments long  tick|long  pixel"
+ , "c3" : "QC-JAV000006[00094] For method scaleInPixels arguments long  tick|long  pixel"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#62"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.scaleInPixels@POLYN195856 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.scaleInPixels@POLYN196054 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#62"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.scaleInPixels@POLYN195856 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.scaleInPixels@POLYN196054 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#69"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.tickUnitary@POLYN196236 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.tickUnitary@POLYN196434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#79"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.highestCommonFactor@POLYN196502 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.highestCommonFactor@POLYN196502 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.highestCommonFactor@POLYN196502 the MagicNumber/String  200 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.getAbsolutesTicks@POLYN197429 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.getNbTick@POLYN198209 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.highestCommonFactor@POLYN196700 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.getNbTick@POLYN198209 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.highestCommonFactor@POLYN196700 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#117"
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.getNbTick@POLYN198209 the MagicNumber/String  1000 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.highestCommonFactor@POLYN196700 the MagicNumber/String  200 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#117"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.getNbTick@POLYN198209 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.getAbsolutesTicks@POLYN197627 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#123"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.getWidth@POLYN198756 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.getNbTick@POLYN198407 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#126"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00126] For method getPosInPixel arguments TimeTick  when"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#126"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00126] The argument when is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#130"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00130] For method getPosInPixelInternal arguments double  time"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#135"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00135] For method tickToTime arguments int  i"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#139"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00139] For method addTime arguments TimeTick  time"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#139"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00139] The argument time is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#140"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.addTime@POLYN199780 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.getNbTick@POLYN198407 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#150"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.getNbTick@POLYN198407 the MagicNumber/String  1000 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#150"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.getNbTick@POLYN198407 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#156"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00156] For method getTimeTextBlock arguments long  time"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.getWidth@POLYN198954 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#160"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#159"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00160] For method getTimeTextBlock arguments String  string"
+ , "c3" : "QC-JAV000006[00159] For method getPosInPixel arguments TimeTick  when"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#165"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00165] For method drawTimeAxis arguments UGraphic  ug|TimeAxisStategy  timeAxisStategy|Map&lt;String ,TimeTick &gt;  codes"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#165"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#159"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00165] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00159] The argument when is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#184"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#163"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00184] For method drawTimeAxisManual arguments UGraphic  ug|Map&lt;String ,TimeTick &gt;  codes"
+ , "c3" : "QC-JAV000006[00163] For method getPosInPixelInternal arguments double  time"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#184"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00184] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#196"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00196] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00199"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#199"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00199] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00200"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#200"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00200] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#185"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisManual@POLYN202131 the MagicNumber/String  5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00188"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#188"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisManual@POLYN202131 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#192"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisManual@POLYN202131 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00197"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#197"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisManual@POLYN202131 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#201"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisManual@POLYN202131 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#201"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisManual@POLYN202131 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#206"
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#168"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00206] For method drawTimeAxisAutomatic arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00168] For method tickToTime arguments int  i"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#206"
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#172"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00172] For method addTime arguments TimeTick  time"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#172"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00206] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00172] The argument time is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#173"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.addTime@POLYN199978 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#189"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00189] For method getTimeTextBlock arguments long  time"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#193"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00193] For method getTimeTextBlock arguments String  string"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#198"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00198] For method drawTimeAxis arguments UGraphic  ug|TimeAxisStategy  timeAxisStategy|Map&lt;String ,TimeTick &gt;  codes"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#198"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00198] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#217"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00217] For method drawTimeAxisManual arguments UGraphic  ug|Map&lt;String ,TimeTick &gt;  codes"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#217"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00217] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#229"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00229] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#232"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00232] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00233"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#233"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00233] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00218"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00218] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisManual@POLYN202329 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00219"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#219"
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00219] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisManual@POLYN202329 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#207"
+ , "c1" : "00225"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#225"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisAutomatic@POLYN203965 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisManual@POLYN202329 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00210"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#210"
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#230"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisAutomatic@POLYN203965 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00215"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#215"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisAutomatic@POLYN203965 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00220"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#220"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisAutomatic@POLYN203965 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00220"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#220"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisAutomatic@POLYN203965 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00224"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#224"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00224] For method getLabel arguments TimeTick  tick|Map&lt;String ,TimeTick &gt;  codes"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00224"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#224"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00224] The argument tick is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00224"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#224"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00224] The argument codes is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisManual@POLYN202329 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00234"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#234"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.getFirstPositiveOrZeroValue@POLYN206074 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisManual@POLYN202329 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00242"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#242"
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#234"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.roundValues@POLYN206410 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisManual@POLYN202329 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00249"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#249"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.roundValues@POLYN206410 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00254"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#254"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.roundValues@POLYN206410 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00254"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#254"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.roundValues@POLYN206410 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00255"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#255"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.roundValues@POLYN206410 the MagicNumber/String  0L should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00260"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#260"
+ , "c1" : "00239"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#239"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00260] For method drawVlines arguments UGraphic  ug|double  height"
+ , "c3" : "QC-JAV000006[00239] For method drawTimeAxisAutomatic arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00260"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#260"
+ , "c1" : "00239"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#239"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00260] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00239] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00264"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#264"
+ , "c1" : "00251"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#251"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawVlines@POLYN207556 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00251] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00269"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#269"
+ , "c1" : "00252"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#252"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00252] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00240"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#240"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisAutomatic@POLYN204163 the MagicNumber/String  5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00243"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#243"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisAutomatic@POLYN204163 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#248"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisAutomatic@POLYN204163 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#253"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisAutomatic@POLYN204163 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#253"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawTimeAxisAutomatic@POLYN204163 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#257"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00269] For method getHeight arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00257] For method getLabel arguments TimeTick  tick|Map&lt;String ,TimeTick &gt;  codes"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00270"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#270"
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#257"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00257] The argument tick is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#257"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00257] The argument codes is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00267"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#267"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.getHeight@POLYN208281 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.getFirstPositiveOrZeroValue@POLYN206272 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00281"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#281"
+ , "c1" : "00275"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#275"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.roundValues@POLYN206608 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00282"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#282"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00282] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.roundValues@POLYN206608 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00287"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#287"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00287] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.roundValues@POLYN206608 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00287"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#287"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00287] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.roundValues@POLYN206608 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00288"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#288"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00288] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.roundValues@POLYN206608 the MagicNumber/String  0L should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00293"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#293"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00281] For method computeHighestCommonFactor arguments long  a|long  b"
+ , "c3" : "QC-JAV000006[00293] For method drawVlines arguments UGraphic  ug|double  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#283"
+ , "c1" : "00293"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#293"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00293] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00297"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#297"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.computeHighestCommonFactor@POLYN208698 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00297] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.drawVlines@POLYN207754 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#126"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00126] Public method getPosInPixel is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00302"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#302"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00302] For method getHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00269"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#269"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00269] Public method getHeight is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00303"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#303"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.getHeight@POLYN208479 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#48"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00048] Public method ensureNotEmpty is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00314"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#314"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00314] For method computeHighestCommonFactor arguments long  a|long  b"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#139"
+ , "c1" : "00316"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#316"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.timingdiagram.TimingRuler.computeHighestCommonFactor@POLYN208896 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#159"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00139] Public method addTime is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00159] Public method getPosInPixel is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00302"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#302"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00302] Public method getHeight is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#81"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00081] Public method ensureNotEmpty is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#172"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00172] Public method addTime is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

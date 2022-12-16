@@ -2,12 +2,12 @@
 !pragma layout smetana
 "Swimable" <|-- "net.sourceforge.plantuml.activitydiagram3.Instruction"
 class net.sourceforge.plantuml.activitydiagram3.Instruction {
-+createFtile(FtileFactory) : Ftile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Instruction.java.html#19]]]
-+createGtile(ISkinParam;StringBounder) : Gtile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Instruction.java.html#21]]]
-+add(Instruction) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Instruction.java.html#23]]]
-+kill() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Instruction.java.html#25]]]
-+getInLinkRendering() : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Instruction.java.html#27]]]
-+addNote(Display;NotePosition;NoteType;Colors;Swimlane) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Instruction.java.html#29]]]
-+containsBreak() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Instruction.java.html#31]]]
++createFtile(FtileFactory) : Ftile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Instruction.java.html#53]]]
++createGtile(ISkinParam;StringBounder) : Gtile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Instruction.java.html#55]]]
++add(Instruction) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Instruction.java.html#57]]]
++kill() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Instruction.java.html#59]]]
++getInLinkRendering() : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Instruction.java.html#61]]]
++addNote(Display;NotePosition;NoteType;Colors;Swimlane) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Instruction.java.html#63]]]
++containsBreak() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/Instruction.java.html#65]]]
 } 
 @enduml

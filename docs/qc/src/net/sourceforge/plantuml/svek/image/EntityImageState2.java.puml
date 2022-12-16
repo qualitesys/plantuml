@@ -2,11 +2,11 @@
 !pragma layout smetana
 "AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageState2"
 class net.sourceforge.plantuml.svek.image.EntityImageState2 {
-+EntityImageState2(ILeaf;ISkinParam;SName) : EntityImageState2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageState2.java.html#31]]]
--getStyle() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageState2.java.html#49]]]
--getStyleSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageState2.java.html#53]]]
-+getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageState2.java.html#57]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageState2.java.html#61]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageState2.java.html#65]]]
++EntityImageState2(ILeaf;ISkinParam;SName) : EntityImageState2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageState2.java.html#65]]]
+-getStyle() : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageState2.java.html#83]]]
+-getStyleSignature() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageState2.java.html#87]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageState2.java.html#91]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageState2.java.html#95]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageState2.java.html#99]]]
 } 
 @enduml

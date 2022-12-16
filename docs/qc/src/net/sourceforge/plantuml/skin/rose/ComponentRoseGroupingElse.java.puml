@@ -2,10 +2,10 @@
 !pragma layout smetana
 "AbstractTextualComponent" <|-- "net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingElse"
 class net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingElse {
-+ComponentRoseGroupingElse(boolean;Style;CharSequence;ISkinSimple) : ComponentRoseGroupingElse [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingElse.java.html#30]]]
-drawBackgroundInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingElse.java.html#40]]]
-drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingElse.java.html#69]]]
-+getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingElse.java.html#81]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingElse.java.html#89]]]
++ComponentRoseGroupingElse(boolean;Style;CharSequence;ISkinSimple) : ComponentRoseGroupingElse [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingElse.java.html#64]]]
+drawBackgroundInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingElse.java.html#74]]]
+drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingElse.java.html#103]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingElse.java.html#115]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingElse.java.html#123]]]
 } 
 @enduml

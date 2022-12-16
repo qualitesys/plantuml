@@ -2,8 +2,8 @@
 !pragma layout smetana
 "Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled"
 class net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled {
-+MiddleCircleCircled(double;MiddleCircleCircledMode;HColor;HColor) : MiddleCircleCircled [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircleCircled.java.html#24]]]
-+somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircleCircled.java.html#32]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircleCircled.java.html#36]]]
++MiddleCircleCircled(double;MiddleCircleCircledMode;HColor;HColor) : MiddleCircleCircled [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircleCircled.java.html#58]]]
++somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircleCircled.java.html#66]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircleCircled.java.html#70]]]
 } 
 @enduml

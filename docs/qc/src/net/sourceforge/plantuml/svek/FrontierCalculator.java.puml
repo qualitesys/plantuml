@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.svek.FrontierCalculator"
 class net.sourceforge.plantuml.svek.FrontierCalculator {
-+FrontierCalculator(ClusterPosition;Collection<ClusterPosition>;Collection<XPoint2D>) : FrontierCalculator [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#15]]]
-+getSuggestedPosition() : ClusterPosition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#105]]]
-+ensureMinWidth(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#109]]]
++FrontierCalculator(ClusterPosition;Collection<ClusterPosition>;Collection<XPoint2D>) : FrontierCalculator [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#49]]]
++getSuggestedPosition() : ClusterPosition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#139]]]
++ensureMinWidth(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#143]]]
 } 
 @enduml

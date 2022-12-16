@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.jsondiagram.Mirror" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#44"
  , "c1" : "Mirror"
  , "c2" : "Mirror(double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#48"
  , "c1" : "double"
  , "c2" : "inv(double)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#55"
  , "c1" : "XPoint2D"
  , "c2" : "invAndXYSwitch(XPoint2D)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#61"
  , "c1" : "XPoint2D"
  , "c2" : "invGit(XPoint2D)"
  , "c3" : "1"
@@ -116,66 +116,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method inv arguments double  v"
+ , "c3" : "QC-JAV000006[00048] For method inv arguments double  v"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.jsondiagram.Mirror.inv@POLYN148137 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.jsondiagram.Mirror.inv@POLYN148341 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.jsondiagram.Mirror.inv@POLYN148137 the MagicNumber/String  'BAD VALUE IN Mirror' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.jsondiagram.Mirror.inv@POLYN148341 the MagicNumber/String  'BAD VALUE IN Mirror' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method invAndXYSwitch arguments XPoint2D  pt"
+ , "c3" : "QC-JAV000006[00055] For method invAndXYSwitch arguments XPoint2D  pt"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#55"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00021] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00055] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method invGit arguments XPoint2D  pt"
+ , "c3" : "QC-JAV000006[00061] For method invGit arguments XPoint2D  pt"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#61"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00027] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00061] The argument pt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#55"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00021] Public method invAndXYSwitch is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00055] Public method invAndXYSwitch is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Mirror.java.html#61"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00027] Public method invGit is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00061] Public method invGit is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

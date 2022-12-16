@@ -2,7 +2,7 @@
 !pragma layout smetana
 "BpmEvent" <|-- "net.sourceforge.plantuml.bpm.BpmEventAdd"
 class net.sourceforge.plantuml.bpm.BpmEventAdd {
-+BpmEventAdd(BpmElement) : BpmEventAdd [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.html#8]]]
-+getElement() : BpmElement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.html#12]]]
++BpmEventAdd(BpmElement) : BpmEventAdd [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.html#41]]]
++getElement() : BpmElement [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.html#45]]]
 } 
 @enduml

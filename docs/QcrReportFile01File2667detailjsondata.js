@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#57"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#91"
  , "c1" : "Set<Url>"
  , "c2" : "getAllUrlsEncountered()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#62"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#96"
  , "c1" : "UGraphic"
  , "c2" : "apply(UChange)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#105"
  , "c1" : "AbstractCommonUGraphic"
  , "c2" : "copyUGraphic()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#75"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#109"
  , "c1" : "UGraphicG2d"
  , "c2" : "UGraphicG2d(UGraphicG2d)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#86"
+ , "c5" : "00120"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#120"
  , "c1" : "UGraphicG2d"
  , "c2" : "UGraphicG2d(HColor;ColorMapper;StringBounder;Graphics2D;double)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#91"
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#125"
  , "c1" : "UGraphicG2d"
  , "c2" : "UGraphicG2d(HColor;ColorMapper;StringBounder;Graphics2D;double;AffineTransformation;double;double)"
  , "c3" : "4"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#107"
+ , "c5" : "00141"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#141"
  , "c1" : "void"
  , "c2" : "register(double)"
  , "c3" : "3"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00126"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#126"
+ , "c5" : "00160"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#160"
  , "c1" : "void"
  , "c2" : "beforeDraw()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#132"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#166"
  , "c1" : "void"
  , "c2" : "applyClip()"
  , "c3" : "3"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00142"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#142"
+ , "c5" : "00176"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#176"
  , "c1" : "double"
  , "c2" : "getDpiFactor()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00147"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#147"
+ , "c5" : "00181"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#181"
  , "c1" : "void"
  , "c2" : "startUrl(Url)"
  , "c3" : "3"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00159"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#159"
+ , "c5" : "00193"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#193"
  , "c1" : "void"
  , "c2" : "closeUrl()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00163"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#163"
+ , "c5" : "00197"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#197"
  , "c1" : "void"
  , "c2" : "ensureVisible(double;double)"
  , "c3" : "3"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00170"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#170"
+ , "c5" : "00204"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#204"
  , "c1" : "BufferedImage"
  , "c2" : "getBufferedImage()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00174"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#174"
+ , "c5" : "00208"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#208"
  , "c1" : "void"
  , "c2" : "setBufferedImage(BufferedImage)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00178"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#178"
+ , "c5" : "00212"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#212"
  , "c1" : "Graphics2D"
  , "c2" : "getGraphics2D()"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00183"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#183"
+ , "c5" : "00217"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#217"
  , "c1" : "void"
  , "c2" : "writeToStream(OutputStream;String;int)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00189"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#189"
+ , "c5" : "00223"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#223"
  , "c1" : "double"
  , "c2" : "dpiFactor()"
  , "c3" : "1"
@@ -242,171 +242,171 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#62"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method apply arguments UChange  change"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#75"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00075] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178601 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178601 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178601 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#91"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00091] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178978 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178978 the MagicNumber/String  1.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178978 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178978 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#107"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00107] For method register arguments double  dpiFactor"
+ , "c3" : "QC-JAV000006[00096] For method apply arguments UChange  change"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#109"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00109] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.register@POLYN180122 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178805 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#122"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178805 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#122"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN178805 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#125"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00125] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN179182 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN179182 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.applyClip@POLYN182148 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN179182 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#135"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.applyClip@POLYN182148 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.UGraphicG2d@POLYN179182 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#147"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#141"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00147] For method startUrl arguments Url  url"
+ , "c3" : "QC-JAV000006[00141] For method register arguments double  dpiFactor"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#147"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#143"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.register@POLYN180326 the MagicNumber/String  1.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.applyClip@POLYN182352 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#169"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.applyClip@POLYN182352 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#181"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00181] For method startUrl arguments Url  url"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#181"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00147] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00181] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#151"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.startUrl@POLYN182881 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.startUrl@POLYN183085 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#160"
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.closeUrl@POLYN183374 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.closeUrl@POLYN183578 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#163"
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#197"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00163] For method ensureVisible arguments double  x|double  y"
+ , "c3" : "QC-JAV000006[00197] For method ensureVisible arguments double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#165"
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00165] The same method call getClip() is used several times, should be optimized "
+ , "c3" : "QC-JAV000021[00199] The same method call getClip() is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#165"
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.ensureVisible@POLYN183530 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.ensureVisible@POLYN183734 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#165"
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.ensureVisible@POLYN183530 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.ensureVisible@POLYN183734 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#174"
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#208"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00174] For method setBufferedImage arguments BufferedImage  bufferedImage"
+ , "c3" : "QC-JAV000006[00208] For method setBufferedImage arguments BufferedImage  bufferedImage"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#183"
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#217"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00183] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
+ , "c3" : "QC-JAV000006[00217] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
 }} 
 ]
 , 

@@ -2,12 +2,12 @@
 !pragma layout smetana
 "RenderTarget" <|-- "ext.plantuml.com.ctreber.acearth.gui.PixelCanvas"
 class ext.plantuml.com.ctreber.acearth.gui.PixelCanvas {
-+PixelCanvas(int;int) : PixelCanvas [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#19]]]
-+getGraphics2D() : Graphics2D [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#25]]]
-+setPixel(int;int;int;int;int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#29]]]
-+setPixel(int;int;Color) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#33]]]
-+getImageWidth() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#37]]]
-+getImageHeight() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#41]]]
-+saveToImage(OutputStream) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#45]]]
++PixelCanvas(int;int) : PixelCanvas [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#34]]]
++getGraphics2D() : Graphics2D [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#40]]]
++setPixel(int;int;int;int;int;int) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#44]]]
++setPixel(int;int;Color) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#48]]]
++getImageWidth() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#52]]]
++getImageHeight() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#56]]]
++saveToImage(OutputStream) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#60]]]
 } 
 @enduml

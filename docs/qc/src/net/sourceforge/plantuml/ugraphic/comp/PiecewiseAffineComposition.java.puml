@@ -2,7 +2,7 @@
 !pragma layout smetana
 "PiecewiseAffineTransform" <|-- "net.sourceforge.plantuml.ugraphic.comp.PiecewiseAffineComposition"
 class net.sourceforge.plantuml.ugraphic.comp.PiecewiseAffineComposition {
-+PiecewiseAffineComposition(PiecewiseAffineComposition;PiecewiseAffineComposition) : PiecewiseAffineComposition [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/PiecewiseAffineComposition.java.html#9]]]
-+transform(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/PiecewiseAffineComposition.java.html#14]]]
++PiecewiseAffineComposition(PiecewiseAffineComposition;PiecewiseAffineComposition) : PiecewiseAffineComposition [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/PiecewiseAffineComposition.java.html#43]]]
++transform(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/PiecewiseAffineComposition.java.html#48]]]
 } 
 @enduml

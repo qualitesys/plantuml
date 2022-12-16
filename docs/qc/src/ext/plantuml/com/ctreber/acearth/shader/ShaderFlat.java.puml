@@ -2,6 +2,6 @@
 !pragma layout smetana
 "Shader" <|-- "ext.plantuml.com.ctreber.acearth.shader.ShaderFlat"
 class ext.plantuml.com.ctreber.acearth.shader.ShaderFlat {
-+getShadedColors(int;int[]) : Color[] [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.html#8]]]
++getShadedColors(int;int[]) : Color[] [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.html#14]]]
 } 
 @enduml

@@ -2,10 +2,10 @@
 !pragma layout smetana
 "JFrame" <|-- "net.sourceforge.plantuml.swing.LicenseWindow"
 class net.sourceforge.plantuml.swing.LicenseWindow {
-+LicenseWindow() : LicenseWindow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/LicenseWindow.java.html#31]]]
--getNorthLabel() : JComponent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/LicenseWindow.java.html#48]]]
--getSouthLabel() : JComponent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/LicenseWindow.java.html#64]]]
--getJComponent(List<String>) : JComponent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/LicenseWindow.java.html#76]]]
-+main(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/LicenseWindow.java.html#103]]]
++LicenseWindow() : LicenseWindow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/LicenseWindow.java.html#67]]]
+-getNorthLabel() : JComponent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/LicenseWindow.java.html#84]]]
+-getSouthLabel() : JComponent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/LicenseWindow.java.html#100]]]
+-getJComponent(List<String>) : JComponent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/LicenseWindow.java.html#112]]]
++main(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/swing/LicenseWindow.java.html#139]]]
 } 
 @enduml

@@ -2,7 +2,7 @@
 !pragma layout smetana
 "Something" <|-- "net.sourceforge.plantuml.project.lang.ComplementInColorsFromTo"
 class net.sourceforge.plantuml.project.lang.ComplementInColorsFromTo {
-+toRegex(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementInColorsFromTo.java.html#13]]]
-+getMe(GanttDiagram;RegexResult;String) : Failable<CenterBorderColor[]> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementInColorsFromTo.java.html#18]]]
++toRegex(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementInColorsFromTo.java.html#47]]]
++getMe(GanttDiagram;RegexResult;String) : Failable<CenterBorderColor[]> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementInColorsFromTo.java.html#52]]]
 } 
 @enduml

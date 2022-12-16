@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.posimo.PositionableUtils" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#44"
  , "c1" : "XRectangle2D"
  , "c2" : "convert(Positionable)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#50"
  , "c1" : "boolean"
  , "c2" : "intersect(Positionable;Positionable)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#56"
  , "c1" : "Positionable"
  , "c2" : "addMargin(Positionable;double;double)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#74"
  , "c1" : "XPoint2D"
  , "c2" : "getCenter(Positionable)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#46"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#80"
  , "c1" : "Positionable"
  , "c2" : "move(Positionable;double;double)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#53"
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#87"
  , "c1" : "Positionable"
  , "c2" : "moveAwayFrom(Positionable;Positionable)"
  , "c3" : "6"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#87"
+ , "c5" : "00121"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#121"
  , "c1" : "boolean"
  , "c2" : "doesIntersectWithThisCoef(Positionable;Positionable;double;double;double)"
  , "c3" : "1"
@@ -136,157 +136,157 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#10"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#44"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00010] For method convert arguments Positionable  positionable"
+ , "c3" : "QC-JAV000006[00044] For method convert arguments Positionable  positionable"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#10"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#44"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00010] The argument positionable is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00044] The argument positionable is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method intersect arguments Positionable  big|Positionable  small"
+ , "c3" : "QC-JAV000006[00050] For method intersect arguments Positionable  big|Positionable  small"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method addMargin arguments Positionable  pos|double  widthMargin|double  heightMargin"
+ , "c3" : "QC-JAV000006[00056] For method addMargin arguments Positionable  pos|double  widthMargin|double  heightMargin"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#56"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00022] The argument pos is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00056] The argument pos is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.posimo.PositionableUtils.addMargin@POLYN161045 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.posimo.PositionableUtils.addMargin@POLYN161249 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.posimo.PositionableUtils.addMargin@POLYN161045 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#40"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method getCenter arguments Positionable  p"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.posimo.PositionableUtils.getCenter@POLYN161974 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.posimo.PositionableUtils.getCenter@POLYN161974 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#46"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method move arguments Positionable  p|double  deltaX|double  deltaY"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#53"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method moveAwayFrom arguments Positionable  fixe|Positionable  toMove"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN162968 the MagicNumber/String  0.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN162968 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN162968 the MagicNumber/String  0.1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN162968 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN162968 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN162968 the MagicNumber/String  5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN162968 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.posimo.PositionableUtils.addMargin@POLYN161249 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN162968 the MagicNumber/String  2.0 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00074] For method getCenter arguments Positionable  p"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#82"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN162968 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.posimo.PositionableUtils.getCenter@POLYN162178 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#77"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.posimo.PositionableUtils.getCenter@POLYN162178 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#80"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00080] For method move arguments Positionable  p|double  deltaX|double  deltaY"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#87"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00087] For method doesIntersectWithThisCoef arguments Positionable  fixe|Positionable  toMove|double  deltaX|double  deltaY|double  c"
+ , "c3" : "QC-JAV000006[00087] For method moveAwayFrom arguments Positionable  fixe|Positionable  toMove"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN163172 the MagicNumber/String  0.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN163172 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#101"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN163172 the MagicNumber/String  0.1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN163172 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN163172 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN163172 the MagicNumber/String  5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN163172 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#108"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN163172 the MagicNumber/String  2.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#116"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.posimo.PositionableUtils.moveAwayFrom@POLYN163172 the MagicNumber/String  2.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/PositionableUtils.java.html#121"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00121] For method doesIntersectWithThisCoef arguments Positionable  fixe|Positionable  toMove|double  deltaX|double  deltaY|double  c"
 }} 
 ]
 , 

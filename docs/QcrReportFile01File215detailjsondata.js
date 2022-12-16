@@ -60,73 +60,73 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/h/ST_RTree.java.html#9"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00009] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00053] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/h/ST_RTree.java.html#12"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00012] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00056] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/h/ST_RTree.java.html#15"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00015] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00059] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/h/ST_RTree.java.html#16"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00016] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00060] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/h/ST_RTree.java.html#22"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00022] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00066] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/h/ST_RTree.java.html#26"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00026] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00070] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/h/ST_RTree.java.html#29"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00029] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00073] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/h/ST_RTree.java.html#30"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00030] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00074] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/h/ST_RTree.java.html#31"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00031] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00075] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/h/ST_RTree.java.html#33"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/h/ST_RTree.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00033] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00077] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ]
 , 

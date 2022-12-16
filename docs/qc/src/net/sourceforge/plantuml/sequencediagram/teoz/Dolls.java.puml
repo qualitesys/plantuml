@@ -2,14 +2,14 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.Dolls"
 class net.sourceforge.plantuml.sequencediagram.teoz.Dolls {
-+Dolls(TileArguments) : Dolls [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#22]]]
--addParticipant(Participant;ParticipantEnglober;TileArguments) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#33]]]
--getParent(Doll) : Doll [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#42]]]
-+size() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#49]]]
-+getOffsetForEnglobers(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#53]]]
-+addConstraints(StringBounder) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#68]]]
-+drawEnglobers(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#79]]]
-+getMinX(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#85]]]
-+getMaxX(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#96]]]
++Dolls(TileArguments) : Dolls [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#56]]]
+-addParticipant(Participant;ParticipantEnglober;TileArguments) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#67]]]
+-getParent(Doll) : Doll [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#76]]]
++size() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#83]]]
++getOffsetForEnglobers(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#87]]]
++addConstraints(StringBounder) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#102]]]
++drawEnglobers(UGraphic;double;Context2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#113]]]
++getMinX(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#119]]]
++getMaxX(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#130]]]
 } 
 @enduml

@@ -2,15 +2,15 @@
 !pragma layout smetana
 "Positionable" <|-- "net.sourceforge.plantuml.posimo.Label"
 class net.sourceforge.plantuml.posimo.Label {
-+Label(double;double) : Label [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#14]]]
-+setCenterX(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#19]]]
-+setCenterY(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#23]]]
-+getPosition() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#27]]]
-+getSize() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#31]]]
-+setWidth(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#35]]]
-+setHeight(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#39]]]
-+setX(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#43]]]
-+setY(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#47]]]
-+moveSvek(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#51]]]
++Label(double;double) : Label [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#48]]]
++setCenterX(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#53]]]
++setCenterY(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#57]]]
++getPosition() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#61]]]
++getSize() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#65]]]
++setWidth(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#69]]]
++setHeight(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#73]]]
++setX(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#77]]]
++setY(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#81]]]
++moveSvek(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Label.java.html#85]]]
 } 
 @enduml

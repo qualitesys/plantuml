@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.draw.TimeHeader" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#27"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#61"
  , "c1" : "double"
  , "c2" : "Y_POS_ROW16()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#65"
  , "c1" : "double"
  , "c2" : "Y_POS_ROW28()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#78"
  , "c1" : "TimeHeader"
  , "c2" : "TimeHeader(Style;Style;Day;Day;TimeScale;HColorSet)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#53"
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#87"
  , "c1" : "HColor"
  , "c2" : "closedBackgroundColor()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#57"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#91"
  , "c1" : "HColor"
  , "c2" : "closedFontColor()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#61"
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#95"
  , "c1" : "HColor"
  , "c2" : "openFontColor()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#65"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#99"
  , "c1" : "HColor"
  , "c2" : "getBarColor()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#69"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#103"
  , "c1" : "double"
  , "c2" : "getTimeHeaderHeight()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#105"
  , "c1" : "double"
  , "c2" : "getTimeFooterHeight()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#73"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#107"
  , "c1" : "void"
  , "c2" : "drawTimeHeader(UGraphic;double)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#75"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#109"
  , "c1" : "void"
  , "c2" : "drawTimeFooter(UGraphic)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#77"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#111"
  , "c1" : "double"
  , "c2" : "getFullHeaderHeight()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00079"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#79"
+ , "c5" : "00113"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#113"
  , "c1" : "void"
  , "c2" : "drawHline(UGraphic;double)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#86"
+ , "c5" : "00120"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#120"
  , "c1" : "void"
  , "c2" : "drawVbar(UGraphic;double;double;double;boolean)"
  , "c3" : "3"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#95"
+ , "c5" : "00129"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#129"
  , "c1" : "FontConfiguration"
  , "c2" : "getFontConfiguration(int;boolean;HColor)"
  , "c3" : "2"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00103"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#103"
+ , "c5" : "00137"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#137"
  , "c1" : "TimeScale"
  , "c2" : "getTimeScale()"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#107"
+ , "c5" : "00141"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#141"
  , "c1" : "TextBlock"
  , "c2" : "getTextBlock(String;int;boolean;HColor)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00112"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#112"
+ , "c5" : "00146"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#146"
  , "c1" : "void"
  , "c2" : "printCentered(UGraphic;TextBlock;double;double)"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00119"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#119"
+ , "c5" : "00153"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#153"
  , "c1" : "void"
  , "c2" : "printCentered(UGraphic;boolean;double;double;TextBlock...)"
  , "c3" : "3"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00133"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#133"
+ , "c5" : "00167"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#167"
  , "c1" : "void"
  , "c2" : "drawRectangle(UGraphic;double;double;double)"
  , "c3" : "2"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00142"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#142"
+ , "c5" : "00176"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#176"
  , "c1" : "UGraphic"
  , "c2" : "goBold(UGraphic)"
  , "c3" : "1"
@@ -276,255 +276,255 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.project.draw.TimeHeader.Y_POS_ROW16@POLYN171022 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.project.draw.TimeHeader.Y_POS_ROW16@POLYN171226 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.project.draw.TimeHeader.Y_POS_ROW28@POLYN171115 the MagicNumber/String  28 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#73"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method drawTimeHeader arguments UGraphic  ug|double  totalHeightWithoutFooter"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#75"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00075] For method drawTimeFooter arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#79"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00079] For method drawHline arguments UGraphic  ug|double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#79"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00079] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#86"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00086] For method drawVbar arguments UGraphic  ug|double  x|double  y1|double  y2|boolean  bold"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#86"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00086] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#95"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00095] For method getFontConfiguration arguments int  size|boolean  bold|HColor  color"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.project.draw.TimeHeader.getFontConfiguration@POLYN174443 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.project.draw.TimeHeader.Y_POS_ROW28@POLYN171319 the MagicNumber/String  28 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#107"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00107] For method getTextBlock arguments String  text|int  size|boolean  bold|HColor  color"
+ , "c3" : "QC-JAV000006[00107] For method drawTimeHeader arguments UGraphic  ug|double  totalHeightWithoutFooter"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#112"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#109"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00112] For method printCentered arguments UGraphic  ug|TextBlock  text|double  start|double  end"
+ , "c3" : "QC-JAV000006[00109] For method drawTimeFooter arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#112"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00112] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#112"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00112] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.project.draw.TimeHeader.printCentered@POLYN175410 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#116"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.project.draw.TimeHeader.printCentered@POLYN175410 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#119"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#113"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00119] For method printCentered arguments UGraphic  ug|boolean  hideIfTooBig|double  start|double  end|TextBlock  ...texts"
+ , "c3" : "QC-JAV000006[00113] For method drawHline arguments UGraphic  ug|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#119"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#113"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00119] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00113] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00123] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#122"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.project.draw.TimeHeader.printCentered@POLYN176114 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#122"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.project.draw.TimeHeader.printCentered@POLYN176114 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#125"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.project.draw.TimeHeader.printCentered@POLYN176114 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#125"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.project.draw.TimeHeader.printCentered@POLYN176114 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#126"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.project.draw.TimeHeader.printCentered@POLYN176114 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#127"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.project.draw.TimeHeader.printCentered@POLYN176114 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#133"
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#120"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00133] For method drawRectangle arguments UGraphic  ug|double  height|double  x1|double  x2"
+ , "c3" : "QC-JAV000006[00120] For method drawVbar arguments UGraphic  ug|double  x|double  y1|double  y2|boolean  bold"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#133"
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#120"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00133] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00120] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#129"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00129] For method getFontConfiguration arguments int  size|boolean  bold|HColor  color"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.project.draw.TimeHeader.drawRectangle@POLYN177333 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.project.draw.TimeHeader.getFontConfiguration@POLYN174647 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#142"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#141"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00142] For method goBold arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00141] For method getTextBlock arguments String  text|int  size|boolean  bold|HColor  color"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#142"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#146"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00146] For method printCentered arguments UGraphic  ug|TextBlock  text|double  start|double  end"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#146"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00142] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00146] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#143"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#146"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00146] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.project.draw.TimeHeader.goBold@POLYN177987 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.project.draw.TimeHeader.printCentered@POLYN175614 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#69"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00069] Public method getTimeHeaderHeight is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#150"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.project.draw.TimeHeader.printCentered@POLYN175614 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#71"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00071] Public method getTimeFooterHeight is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#153"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00153] For method printCentered arguments UGraphic  ug|boolean  hideIfTooBig|double  start|double  end|TextBlock  ...texts"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#77"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00077] Public method getFullHeaderHeight is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#153"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00153] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#73"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00073] Public method drawTimeHeader is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00157] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#75"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.project.draw.TimeHeader.printCentered@POLYN176318 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.project.draw.TimeHeader.printCentered@POLYN176318 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.project.draw.TimeHeader.printCentered@POLYN176318 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.project.draw.TimeHeader.printCentered@POLYN176318 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.project.draw.TimeHeader.printCentered@POLYN176318 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#161"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.project.draw.TimeHeader.printCentered@POLYN176318 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#167"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00167] For method drawRectangle arguments UGraphic  ug|double  height|double  x1|double  x2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#167"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00167] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.project.draw.TimeHeader.drawRectangle@POLYN177537 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#176"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00176] For method goBold arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#176"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00176] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.project.draw.TimeHeader.goBold@POLYN178191 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#103"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00075] Public method drawTimeFooter is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00103] Public method getTimeHeaderHeight is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#105"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00105] Public method getTimeFooterHeight is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#111"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00111] Public method getFullHeaderHeight is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#107"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00107] Public method drawTimeHeader is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeader.java.html#109"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00109] Public method drawTimeFooter is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

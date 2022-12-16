@@ -2,12 +2,12 @@
 !pragma layout smetana
 "AbstractCommonUGraphic" <|-- "net.sourceforge.plantuml.ugraphic.AbstractUGraphic"
 class net.sourceforge.plantuml.ugraphic.AbstractUGraphic {
-+AbstractUGraphic(HColor;ColorMapper;StringBounder;O) : AbstractUGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#23]]]
-AbstractUGraphic(AbstractUGraphic<O>) : AbstractUGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#28]]]
-getGraphicObject() : O [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#34]]]
-manageHiddenAutomatically() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#38]]]
-drawComment(UComment) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#84]]]
-beforeDraw() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#87]]]
-afterDraw() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#90]]]
++AbstractUGraphic(HColor;ColorMapper;StringBounder;O) : AbstractUGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#57]]]
+AbstractUGraphic(AbstractUGraphic<O>) : AbstractUGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#62]]]
+getGraphicObject() : O [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#68]]]
+manageHiddenAutomatically() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#72]]]
+drawComment(UComment) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#118]]]
+beforeDraw() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#121]]]
+afterDraw() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#124]]]
 } 
 @enduml

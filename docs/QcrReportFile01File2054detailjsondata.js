@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.teoz.TileParallel" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#53"
  , "c1" : "TileParallel"
  , "c2" : "TileParallel(StringBounder;Real)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#60"
  , "c1" : "YGauge"
  , "c2" : "getYGauge()"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#38"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#72"
  , "c1" : "void"
  , "c2" : "callbackY_internal(TimeHook)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#45"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#79"
  , "c1" : "void"
  , "c2" : "add(Tile)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#49"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#83"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#57"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#91"
  , "c1" : "double"
  , "c2" : "getContactPointRelative()"
  , "c3" : "2"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#65"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#99"
  , "c1" : "double"
  , "c2" : "getZZZ()"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#73"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#107"
  , "c1" : "double"
  , "c2" : "getPreferredHeight()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#77"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#111"
  , "c1" : "void"
  , "c2" : "addConstraints()"
  , "c3" : "2"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#83"
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#117"
  , "c1" : "Real"
  , "c2" : "getMinX()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#109"
+ , "c5" : "00143"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#143"
  , "c1" : "Real"
  , "c2" : "getMaxX()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00135"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#135"
+ , "c5" : "00169"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#169"
  , "c1" : "Event"
  , "c2" : "getEvent()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00139"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#139"
+ , "c5" : "00173"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#173"
  , "c1" : "boolean"
  , "c2" : "matchAnchor(String)"
  , "c3" : "3"
@@ -197,87 +197,87 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00030] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00064] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#72"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method callbackY_internal arguments TimeHook  y"
+ , "c3" : "QC-JAV000006[00072] For method callbackY_internal arguments TimeHook  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#79"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00045] For method add arguments Tile  tile"
+ , "c3" : "QC-JAV000006[00079] For method add arguments Tile  tile"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#83"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00083] For method drawU arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#83"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00049] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00083] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#53"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00053] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00087] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#58"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sequencediagram.teoz.TileParallel.getContactPointRelative@POLYN164921 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.teoz.TileParallel.getContactPointRelative@POLYN165125 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#66"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.sequencediagram.teoz.TileParallel.getZZZ@POLYN165258 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.sequencediagram.teoz.TileParallel.getZZZ@POLYN165462 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#136"
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.sequencediagram.teoz.TileParallel.getEvent@POLYN167621 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.sequencediagram.teoz.TileParallel.getEvent@POLYN167825 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#139"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#173"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00139] For method matchAnchor arguments String  anchor"
+ , "c3" : "QC-JAV000006[00173] For method matchAnchor arguments String  anchor"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#142"
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.sequencediagram.teoz.TileParallel.matchAnchor@POLYN167709 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.sequencediagram.teoz.TileParallel.matchAnchor@POLYN167913 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#144"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileParallel.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.sequencediagram.teoz.TileParallel.matchAnchor@POLYN167709 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.sequencediagram.teoz.TileParallel.matchAnchor@POLYN167913 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

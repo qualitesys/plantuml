@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.ebnf.CharIterator"
 class net.sourceforge.plantuml.ebnf.CharIterator {
-peek(int) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CharIterator.java.html#5]]]
-next() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CharIterator.java.html#7]]]
+peek(int) : char [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CharIterator.java.html#39]]]
+next() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CharIterator.java.html#41]]]
 } 
 @enduml

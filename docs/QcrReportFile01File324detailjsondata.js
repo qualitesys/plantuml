@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.PositionHint" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/jcckit/plot/PositionHint.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/jcckit/plot/PositionHint.java.html#50"
  , "c1" : "PositionHint"
  , "c2" : "PositionHint(ConfigParameters)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/jcckit/plot/PositionHint.java.html#23"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/jcckit/plot/PositionHint.java.html#61"
  , "c1" : "PositionHint"
  , "c2" : "PositionHint(GraphPoint;GraphPoint)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/jcckit/plot/PositionHint.java.html#29"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/jcckit/plot/PositionHint.java.html#67"
  , "c1" : "GraphPoint"
  , "c2" : "getPosition()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/jcckit/plot/PositionHint.java.html#34"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/jcckit/plot/PositionHint.java.html#72"
  , "c1" : "GraphPoint"
  , "c2" : "getOrigin()"
  , "c3" : "1"
@@ -102,31 +102,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/jcckit/plot/PositionHint.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/jcckit/plot/PositionHint.java.html#50"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00016] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00050] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/jcckit/plot/PositionHint.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/jcckit/plot/PositionHint.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method jcckit.plot.PositionHint.PositionHint@POLYN151847 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method jcckit.plot.PositionHint.PositionHint@POLYN152075 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/jcckit/plot/PositionHint.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/jcckit/plot/PositionHint.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method jcckit.plot.PositionHint.PositionHint@POLYN151847 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method jcckit.plot.PositionHint.PositionHint@POLYN152075 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/jcckit/plot/PositionHint.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/jcckit/plot/PositionHint.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method jcckit.plot.PositionHint.PositionHint@POLYN151847 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method jcckit.plot.PositionHint.PositionHint@POLYN152075 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

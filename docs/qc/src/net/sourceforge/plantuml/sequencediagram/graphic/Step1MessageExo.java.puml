@@ -2,10 +2,10 @@
 !pragma layout smetana
 "Step1Abstract" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo"
 class net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo {
-Step1MessageExo(ParticipantRange;StringBounder;MessageExo;DrawableSet;Frontier) : Step1MessageExo [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#22]]]
-prepareMessage(ConstraintSet;InGroupablesStack) : Frontier [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#44]]]
--getLivingParticipantBox() : LivingParticipantBox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#81]]]
--createArrow() : Arrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#85]]]
--getArrowType(MessageExo) : ArrowConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#98]]]
+Step1MessageExo(ParticipantRange;StringBounder;MessageExo;DrawableSet;Frontier) : Step1MessageExo [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#56]]]
+prepareMessage(ConstraintSet;InGroupablesStack) : Frontier [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#78]]]
+-getLivingParticipantBox() : LivingParticipantBox [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#115]]]
+-createArrow() : Arrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#119]]]
+-getArrowType(MessageExo) : ArrowConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#132]]]
 } 
 @enduml

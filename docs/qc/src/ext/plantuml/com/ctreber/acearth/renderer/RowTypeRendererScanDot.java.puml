@@ -2,8 +2,8 @@
 !pragma layout smetana
 "RowTypeRenderer" <|-- "ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanDot"
 class ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanDot {
-+startNewRun() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#12]]]
-+getPixelTypes(int;int[]) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#17]]]
-+setScanDots(ScanDot[]) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#50]]]
++startNewRun() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#18]]]
++getPixelTypes(int;int[]) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#23]]]
++setScanDots(ScanDot[]) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#56]]]
 } 
 @enduml

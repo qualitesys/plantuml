@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.CurveFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/jcckit/plot/CurveFactory.java.html#9"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/jcckit/plot/CurveFactory.java.html#40"
  , "c1" : "Curve"
  , "c2" : "create(int;int;ClippingShape;Legend)"
  , "c3" : "1"

@@ -2,9 +2,9 @@
 !pragma layout smetana
 "Sprite" <|-- "net.sourceforge.plantuml.emoji.SpriteSvgNanoParser"
 class net.sourceforge.plantuml.emoji.SpriteSvgNanoParser {
-+SpriteSvgNanoParser(BufferedImage) : SpriteSvgNanoParser [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SpriteSvgNanoParser.java.html#27]]]
-+asTextBlock(HColor;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SpriteSvgNanoParser.java.html#31]]]
-+fromInternal(String) : Sprite [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SpriteSvgNanoParser.java.html#53]]]
-+getInternalSprite(String) : InputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SpriteSvgNanoParser.java.html#70]]]
++SpriteSvgNanoParser(BufferedImage) : SpriteSvgNanoParser [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SpriteSvgNanoParser.java.html#61]]]
++asTextBlock(HColor;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SpriteSvgNanoParser.java.html#65]]]
++fromInternal(String) : Sprite [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SpriteSvgNanoParser.java.html#87]]]
++getInternalSprite(String) : InputStream [[[./../../../../../.././qc/src/net/sourceforge/plantuml/emoji/SpriteSvgNanoParser.java.html#104]]]
 } 
 @enduml

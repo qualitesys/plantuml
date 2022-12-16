@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.creole.atom.AtomImg" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#43"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#77"
  , "c1" : "AtomImg"
  , "c2" : "AtomImg(BufferedImage;double;Url;String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#50"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#84"
  , "c1" : "Atom"
  , "c2" : "createQrcode(String;double)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#61"
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#95"
  , "c1" : "Atom"
  , "c2" : "create(String;ImgValign;int;double;Url)"
  , "c3" : "12"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00125"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#125"
+ , "c5" : "00159"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#159"
  , "c1" : "Atom"
  , "c2" : "buildRasterFromData(String;FontConfiguration;byte[];double;Url)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00134"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#134"
+ , "c5" : "00168"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#168"
  , "c1" : "Atom"
  , "c2" : "buildRasterFromUrl(String;FontConfiguration;SURL;double;Url)"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00146"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#146"
+ , "c5" : "00180"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#180"
  , "c1" : "Atom"
  , "c2" : "buildSvgFromUrl(String;FontConfiguration;SURL;double;Url)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00160"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#160"
+ , "c5" : "00194"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#194"
  , "c1" : "XDimension2D"
  , "c2" : "calculateDimension(StringBounder)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00164"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#164"
+ , "c5" : "00198"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#198"
  , "c1" : "double"
  , "c2" : "getStartingAltitude(StringBounder)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00168"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#168"
+ , "c5" : "00202"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#202"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "3"
@@ -154,395 +154,395 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#50"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method createQrcode arguments String  flash|double  scale"
+ , "c3" : "QC-JAV000006[00084] For method createQrcode arguments String  flash|double  scale"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#53"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.creole.atom.AtomImg.createQrcode@POLYN180217 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.creole.atom.AtomImg.createQrcode@POLYN180217 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.creole.atom.AtomImg.createQrcode@POLYN180217 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.creole.atom.AtomImg.createQrcode@POLYN180217 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.creole.atom.AtomImg.createQrcode@POLYN180217 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.creole.atom.AtomImg.createQrcode@POLYN180217 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.creole.atom.AtomImg.createQrcode@POLYN180217 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#61"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method create arguments String  src|ImgValign  valign|int  vspace|double  scale|Url  url"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#61"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00061] The argument src is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  14 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  'ERROR ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  'ERROR ' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.creole.atom.AtomImg.createQrcode@POLYN180421 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  'http:' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.creole.atom.AtomImg.createQrcode@POLYN180421 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  'https:' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.creole.atom.AtomImg.createQrcode@POLYN180421 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#89"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  '.svg' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.creole.atom.AtomImg.createQrcode@POLYN180421 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.creole.atom.AtomImg.createQrcode@POLYN180421 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#92"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.creole.atom.AtomImg.createQrcode@POLYN180421 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#92"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.creole.atom.AtomImg.createQrcode@POLYN180421 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#95"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  '(File not found: ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  ')' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#99"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  '(Cannot decode)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  '.svg' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  '(Cannot decode)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#109"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  '(Cannot decode: ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  ')' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  '(Cannot decode)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  'ERROR ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181109 the MagicNumber/String  'ERROR' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#125"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00125] For method buildRasterFromData arguments String  source|FontConfiguration  fc|byte[]  data|double  scale|Url  url"
+ , "c3" : "QC-JAV000006[00095] For method create arguments String  src|ImgValign  valign|int  vspace|double  scale|Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#128"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#95"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00095] The argument src is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromData@POLYN185775 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  14 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#105"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  'ERROR ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#116"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  'ERROR ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#122"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  'http:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#122"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  'https:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  '.svg' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromData@POLYN185775 the MagicNumber/String  '(Cannot decode: ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromData@POLYN185775 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromData@POLYN185775 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  '(File not found: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#134"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00134] For method buildRasterFromUrl arguments String  text|FontConfiguration  fc|SURL  source|double  scale|Url  url"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#136"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromUrl@POLYN186435 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  ')' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#133"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  '(Cannot decode)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  '.svg' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromUrl@POLYN186435 the MagicNumber/String  '(Cannot decode: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#137"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromUrl@POLYN186435 the MagicNumber/String  ')' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromUrl@POLYN186435 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromUrl@POLYN186435 the MagicNumber/String  '(Cannot decode: ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromUrl@POLYN186435 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  '(Cannot decode)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromUrl@POLYN186435 the MagicNumber/String  'http' should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#146"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00146] For method buildSvgFromUrl arguments String  text|FontConfiguration  fc|SURL  source|double  scale|Url  url"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#148"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildSvgFromUrl@POLYN187285 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  '(Cannot decode: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#149"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildSvgFromUrl@POLYN187285 the MagicNumber/String  '(Cannot decode SVG: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#149"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildSvgFromUrl@POLYN187285 the MagicNumber/String  ')' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#152"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildSvgFromUrl@POLYN187285 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  '(Cannot decode)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildSvgFromUrl@POLYN187285 the MagicNumber/String  '(Cannot decode SVG: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  'ERROR ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#153"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildSvgFromUrl@POLYN187285 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.creole.atom.AtomImg.create@POLYN181313 the MagicNumber/String  'ERROR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#160"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#159"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00160] For method calculateDimension arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00159] For method buildRasterFromData arguments String  source|FontConfiguration  fc|byte[]  data|double  scale|Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#164"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00164] For method getStartingAltitude arguments StringBounder  stringBounder"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#162"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromData@POLYN185979 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromData@POLYN185979 the MagicNumber/String  '(Cannot decode: ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromData@POLYN185979 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.creole.atom.AtomImg.getStartingAltitude@POLYN188440 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromData@POLYN185979 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#168"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00168] For method drawU arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00168] For method buildRasterFromUrl arguments String  text|FontConfiguration  fc|SURL  source|double  scale|Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#168"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00168] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#169"
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.creole.atom.AtomImg.drawU@POLYN188542 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromUrl@POLYN186639 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromUrl@POLYN186639 the MagicNumber/String  '(Cannot decode: ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromUrl@POLYN186639 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.creole.atom.AtomImg.drawU@POLYN188542 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromUrl@POLYN186639 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromUrl@POLYN186639 the MagicNumber/String  '(Cannot decode: ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromUrl@POLYN186639 the MagicNumber/String  ')' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildRasterFromUrl@POLYN186639 the MagicNumber/String  'http' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#180"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00180] For method buildSvgFromUrl arguments String  text|FontConfiguration  fc|SURL  source|double  scale|Url  url"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#182"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildSvgFromUrl@POLYN187489 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#183"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildSvgFromUrl@POLYN187489 the MagicNumber/String  '(Cannot decode SVG: ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#183"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildSvgFromUrl@POLYN187489 the MagicNumber/String  ')' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#186"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildSvgFromUrl@POLYN187489 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildSvgFromUrl@POLYN187489 the MagicNumber/String  '(Cannot decode SVG: ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.creole.atom.AtomImg.buildSvgFromUrl@POLYN187489 the MagicNumber/String  ')' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#194"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00194] For method calculateDimension arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#198"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00198] For method getStartingAltitude arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#199"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.creole.atom.AtomImg.getStartingAltitude@POLYN188644 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#202"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00202] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#202"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00202] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.creole.atom.AtomImg.drawU@POLYN188746 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomImg.java.html#208"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.creole.atom.AtomImg.drawU@POLYN188746 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

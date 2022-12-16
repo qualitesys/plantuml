@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.graphic.Text" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/jcckit/graphic/Text.java.html#11"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/jcckit/graphic/Text.java.html#37"
  , "c1" : "Text"
  , "c2" : "Text(GraphPoint;String;GraphicAttributes)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/jcckit/graphic/Text.java.html#18"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/jcckit/graphic/Text.java.html#44"
  , "c1" : "GraphPoint"
  , "c2" : "getPosition()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/jcckit/graphic/Text.java.html#23"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/jcckit/graphic/Text.java.html#49"
  , "c1" : "String"
  , "c2" : "getText()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/jcckit/graphic/Text.java.html#28"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/jcckit/graphic/Text.java.html#59"
  , "c1" : "void"
  , "c2" : "renderWith(Renderer)"
  , "c3" : "3"
@@ -102,17 +102,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/jcckit/graphic/Text.java.html#28"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/jcckit/graphic/Text.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method renderWith arguments Renderer  renderer"
+ , "c3" : "QC-JAV000006[00059] For method renderWith arguments Renderer  renderer"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/jcckit/graphic/Text.java.html#33"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/jcckit/graphic/Text.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method jcckit.graphic.Text.renderWith@POLYN147304 the MagicNumber/String  ' does not implements TextRenderer.' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method jcckit.graphic.Text.renderWith@POLYN147490 the MagicNumber/String  ' does not implements TextRenderer.' should be converted to const"
 }} 
 ]
 , 

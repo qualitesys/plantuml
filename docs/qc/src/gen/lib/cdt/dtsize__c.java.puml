@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.cdt.dtsize__c"
 class gen.lib.cdt.dtsize__c {
-+treecount(ST_dtlink_s) : int [[[./../../../../.././qc/src/gen/lib/cdt/dtsize__c.java.html#22]]]
-+dtsize_(ST_dt_s) : int [[[./../../../../.././qc/src/gen/lib/cdt/dtsize__c.java.html#36]]]
++treecount(ST_dtlink_s) : int [[[./../../../../.././qc/src/gen/lib/cdt/dtsize__c.java.html#69]]]
++dtsize_(ST_dt_s) : int [[[./../../../../.././qc/src/gen/lib/cdt/dtsize__c.java.html#83]]]
 } 
 @enduml

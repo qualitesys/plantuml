@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.PSystemBuilder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#76"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#110"
  , "c1" : "Diagram"
  , "c2" : "createPSystem(List<StringLocated>;List<StringLocated>;Map<String,String>)"
  , "c3" : "7"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00198"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#198"
+ , "c5" : "00232"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#232"
  , "c1" : "boolean"
  , "c2" : "isOk(Diagram)"
  , "c3" : "2"
@@ -105,143 +105,143 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#76"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#110"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method createPSystem arguments List&lt;StringLocated &gt;  source|List&lt;StringLocated &gt;  rawSource|Map&lt;String ,String &gt;  skinParam"
+ , "c3" : "QC-JAV000006[00110] For method createPSystem arguments List&lt;StringLocated &gt;  source|List&lt;StringLocated &gt;  rawSource|Map&lt;String ,String &gt;  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#76"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#110"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00076] The argument source is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00110] The argument source is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#91"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00091] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00125] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#93"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00093] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00127] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#103"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00103] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00137] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#108"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00108] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00142] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#81"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.PSystemBuilder.createPSystem@POLYN190680 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.PSystemBuilder.createPSystem@POLYN190680 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.PSystemBuilder.createPSystem@POLYN190680 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.PSystemBuilder.createPSystem@POLYN190680 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.PSystemBuilder.createPSystem@POLYN190680 the MagicNumber/String  'Preprocessor Error: ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.PSystemBuilder.createPSystem@POLYN190680 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.PSystemBuilder.createPSystem@POLYN190680 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.PSystemBuilder.createPSystem@POLYN190884 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.PSystemBuilder.createPSystem@POLYN190680 the MagicNumber/String  'Compilation duration ' should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.PSystemBuilder.createPSystem@POLYN190884 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#155"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00155] The same method call License.getCurrent() is used several times, should be optimized "
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.PSystemBuilder.createPSystem@POLYN190884 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00177"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#177"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00177] The same method call License.getCurrent() is used several times, should be optimized "
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.PSystemBuilder.createPSystem@POLYN190884 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#198"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#124"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.PSystemBuilder.createPSystem@POLYN190884 the MagicNumber/String  'Preprocessor Error: ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.PSystemBuilder.createPSystem@POLYN190884 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#148"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.PSystemBuilder.createPSystem@POLYN190884 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.PSystemBuilder.createPSystem@POLYN190884 the MagicNumber/String  'Compilation duration ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#189"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00189] The same method call License.getCurrent() is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#211"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00211] The same method call License.getCurrent() is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#232"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00198] For method isOk arguments Diagram  ps"
+ , "c3" : "QC-JAV000006[00232] For method isOk arguments Diagram  ps"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00199"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#199"
+ , "c1" : "00233"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#233"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.PSystemBuilder.isOk@POLYN199539 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.PSystemBuilder.isOk@POLYN199743 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00200"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#200"
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#234"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.PSystemBuilder.isOk@POLYN199539 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.PSystemBuilder.isOk@POLYN199743 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#202"
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.PSystemBuilder.isOk@POLYN199539 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.PSystemBuilder.isOk@POLYN199743 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

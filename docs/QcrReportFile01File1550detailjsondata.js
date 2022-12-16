@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.openiconic.PSystemOpenIconicFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconicFactory.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconicFactory.java.html#46"
  , "c1" : "AbstractPSystem"
  , "c2" : "executeLine(UmlSource;String)"
  , "c3" : "2"
@@ -82,52 +82,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconicFactory.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconicFactory.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method executeLine arguments UmlSource  source|String  line"
+ , "c3" : "QC-JAV000006[00046] For method executeLine arguments UmlSource  source|String  line"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconicFactory.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconicFactory.java.html#46"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00046] The argument line is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconicFactory.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconicFactory.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.openiconic.PSystemOpenIconicFactory.executeLine@POLYN147121 the MagicNumber/String  'openiconic ' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.openiconic.PSystemOpenIconicFactory.executeLine@POLYN147325 the MagicNumber/String  'openiconic ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconicFactory.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconicFactory.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.openiconic.PSystemOpenIconicFactory.executeLine@POLYN147121 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.openiconic.PSystemOpenIconicFactory.executeLine@POLYN147325 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconicFactory.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconicFactory.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.openiconic.PSystemOpenIconicFactory.executeLine@POLYN147121 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.openiconic.PSystemOpenIconicFactory.executeLine@POLYN147325 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconicFactory.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconicFactory.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.openiconic.PSystemOpenIconicFactory.executeLine@POLYN147121 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.openiconic.PSystemOpenIconicFactory.executeLine@POLYN147325 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconicFactory.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconicFactory.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.openiconic.PSystemOpenIconicFactory.executeLine@POLYN147121 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.openiconic.PSystemOpenIconicFactory.executeLine@POLYN147325 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.ExecutionContextIf" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#9"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#42"
  , "c1" : "ExecutionContextIf"
  , "c2" : "ExecutionContextIf(boolean)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#16"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#49"
  , "c1" : "ExecutionContextIf"
  , "c2" : "fromValue(boolean)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#20"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#53"
  , "c1" : "boolean"
  , "c2" : "conditionIsOkHere()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#24"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#57"
  , "c1" : "void"
  , "c2" : "enteringElseIf()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#28"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#61"
  , "c1" : "void"
  , "c2" : "nowInElse()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#32"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#65"
  , "c1" : "void"
  , "c2" : "nowInSomeElseIf()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#37"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#70"
  , "c1" : "boolean"
  , "c2" : "hasBeenBurn()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#41"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#74"
  , "c1" : "void"
  , "c2" : "setHasBeenBurn(boolean)"
  , "c3" : "1"
@@ -138,45 +138,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#12"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.tim.ExecutionContextIf.ExecutionContextIf@POLYN147624 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.tim.ExecutionContextIf.ExecutionContextIf@POLYN147822 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#16"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method fromValue arguments boolean  isTrue"
+ , "c3" : "QC-JAV000006[00049] For method fromValue arguments boolean  isTrue"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#25"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.tim.ExecutionContextIf.enteringElseIf@POLYN148106 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.tim.ExecutionContextIf.enteringElseIf@POLYN148304 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#33"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.tim.ExecutionContextIf.nowInSomeElseIf@POLYN148327 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.tim.ExecutionContextIf.nowInSomeElseIf@POLYN148525 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#34"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.tim.ExecutionContextIf.nowInSomeElseIf@POLYN148327 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.tim.ExecutionContextIf.nowInSomeElseIf@POLYN148525 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#41"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/ExecutionContextIf.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method setHasBeenBurn arguments boolean  hasBeenBurn"
+ , "c3" : "QC-JAV000006[00074] For method setHasBeenBurn arguments boolean  hasBeenBurn"
 }} 
 ]
 , 

@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.bpm.Navigator"
 class net.sourceforge.plantuml.bpm.Navigator {
-+next() : O [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#6]]]
-+previous() : O [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#8]]]
-+get() : O [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#10]]]
-+set(O) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#12]]]
-+insertBefore(O) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#14]]]
-+insertAfter(O) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#16]]]
++next() : O [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#40]]]
++previous() : O [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#42]]]
++get() : O [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#44]]]
++set(O) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#46]]]
++insertBefore(O) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#48]]]
++insertAfter(O) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Navigator.java.html#50]]]
 } 
 @enduml

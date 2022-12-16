@@ -2,10 +2,10 @@
 !pragma layout smetana
 "ElementFactory" <|-- "net.sourceforge.plantuml.salt.factory.AbstractElementFactoryComplex"
 class net.sourceforge.plantuml.salt.factory.AbstractElementFactoryComplex {
-+AbstractElementFactoryComplex(DataSource;Dictionary) : AbstractElementFactoryComplex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#19]]]
-+addFactory(ElementFactory) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#24]]]
-getNextElement() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#28]]]
-getDataSource() : DataSource [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#37]]]
-getDictionary() : Dictionary [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#41]]]
++AbstractElementFactoryComplex(DataSource;Dictionary) : AbstractElementFactoryComplex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#53]]]
++addFactory(ElementFactory) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#58]]]
+getNextElement() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#62]]]
+getDataSource() : DataSource [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#71]]]
+getDictionary() : Dictionary [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#75]]]
 } 
 @enduml

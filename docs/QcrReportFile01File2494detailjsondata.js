@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.timingdiagram.Highlight" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#32"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#65"
  , "c1" : "Highlight"
  , "c2" : "Highlight(ISkinParam;TimeTick;TimeTick;Display;Colors)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#40"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#73"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "getStyleSignature()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#44"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#77"
  , "c1" : "Style"
  , "c2" : "getStyle()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#49"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#82"
  , "c1" : "HColor"
  , "c2" : "getBackColor()"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#57"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#90"
  , "c1" : "HColor"
  , "c2" : "getLineColor()"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#65"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#98"
  , "c1" : "UStroke"
  , "c2" : "getUStroke()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#69"
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#102"
  , "c1" : "TimeTick"
  , "c2" : "getTickFrom()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#73"
+ , "c5" : "00106"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#106"
  , "c1" : "TimeTick"
  , "c2" : "getTickTo()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#77"
+ , "c5" : "00110"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#110"
  , "c1" : "Display"
  , "c2" : "getCaption()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#81"
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#114"
  , "c1" : "TextBlock"
  , "c2" : "getCaption(ISkinParam)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#86"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#119"
  , "c1" : "void"
  , "c2" : "drawHighlightsBack(UGraphic;TimingRuler;double)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00094"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#94"
+ , "c5" : "00127"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#127"
  , "c1" : "void"
  , "c2" : "drawHighlightsLines(UGraphic;TimingRuler;double)"
  , "c3" : "1"
@@ -188,87 +188,87 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#51"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.timingdiagram.Highlight.getBackColor@POLYN164337 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.timingdiagram.Highlight.getBackColor@POLYN164535 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#59"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.timingdiagram.Highlight.getLineColor@POLYN164739 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.timingdiagram.Highlight.getLineColor@POLYN164937 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#81"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#114"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00081] For method getCaption arguments ISkinParam  skinParam"
+ , "c3" : "QC-JAV000006[00114] For method getCaption arguments ISkinParam  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#82"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.timingdiagram.Highlight.getCaption@POLYN165532 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.timingdiagram.Highlight.getCaption@POLYN165730 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#86"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#119"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00086] For method drawHighlightsBack arguments UGraphic  ug|TimingRuler  ruler|double  height"
+ , "c3" : "QC-JAV000006[00119] For method drawHighlightsBack arguments UGraphic  ug|TimingRuler  ruler|double  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#86"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#119"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00086] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00119] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#86"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#119"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00086] The argument ruler is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00119] The argument ruler is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#94"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#127"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00094] For method drawHighlightsLines arguments UGraphic  ug|TimingRuler  ruler|double  height"
+ , "c3" : "QC-JAV000006[00127] For method drawHighlightsLines arguments UGraphic  ug|TimingRuler  ruler|double  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#94"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#127"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00094] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00127] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#94"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#127"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00094] The argument ruler is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00127] The argument ruler is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#86"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#119"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00086] Public method drawHighlightsBack is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00119] Public method drawHighlightsBack is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#94"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/Highlight.java.html#127"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00094] Public method drawHighlightsLines is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00127] Public method drawHighlightsLines is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

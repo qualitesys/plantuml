@@ -2,8 +2,8 @@
 !pragma layout smetana
 "ElementFactory" <|-- "net.sourceforge.plantuml.salt.factory.ElementFactoryDroplist"
 class net.sourceforge.plantuml.salt.factory.ElementFactoryDroplist {
-+ElementFactoryDroplist(DataSource;ISkinSimple) : ElementFactoryDroplist [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryDroplist.java.html#16]]]
-+create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryDroplist.java.html#21]]]
-+ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryDroplist.java.html#32]]]
++ElementFactoryDroplist(DataSource;ISkinSimple) : ElementFactoryDroplist [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryDroplist.java.html#50]]]
++create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryDroplist.java.html#55]]]
++ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryDroplist.java.html#66]]]
 } 
 @enduml

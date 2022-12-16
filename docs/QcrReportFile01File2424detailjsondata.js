@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#23"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#56"
  , "c1" : "ReversePolishInterpretor"
  , "c2" : "ReversePolishInterpretor(TokenStack;Knowledge;TMemory;TContext)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#28"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#61"
  , "c1" : "ReversePolishInterpretor"
  , "c2" : "ReversePolishInterpretor(LineLocation;TokenStack;Knowledge;TMemory;TContext)"
  , "c3" : "24"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00092"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#92"
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#125"
  , "c1" : "TValue"
  , "c2" : "getResult()"
  , "c3" : "1"
@@ -100,87 +100,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#25"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163195 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#28"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument queue is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#28"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument knowledge is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00035] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00045] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00046] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00047] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00051] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00055] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163393 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00061] Avoid declaring class instance within loop, performance impact"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00061] The argument queue is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00067] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#61"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00061] The argument knowledge is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#71"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00071] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00068] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#78"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00078] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#79"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00079] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -191,143 +149,185 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#81"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00081] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00084] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#88"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00088] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#94"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00094] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00100] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#104"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00104] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#113"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00113] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00114] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00114] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#66"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  'ReversePolishInterpretor::queue=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  'rpn ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00081] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#33"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  'ReversePolishInterpretor::queue=' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  'bad op' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#37"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  'rpn ' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  'rpn43' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#48"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  'token2=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#49"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  'bad op' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  'function=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#57"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  'rpn43' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#60"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  'token2=' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  'Unknown built-in function ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#63"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  'function=' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#64"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  'Bad number of arguments for ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#65"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  'Unknown built-in function ' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#67"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#69"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  'Bad number of arguments for ' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  'args=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#72"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#73"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  'rpn44' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#76"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  'args=' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  'r=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#77"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  'rpn44' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  'r=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ReversePolishInterpretor.java.html#86"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163499 the MagicNumber/String  'rpn41' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor.ReversePolishInterpretor@POLYN163697 the MagicNumber/String  'rpn41' should be converted to const"
 }} 
 ]
 , 

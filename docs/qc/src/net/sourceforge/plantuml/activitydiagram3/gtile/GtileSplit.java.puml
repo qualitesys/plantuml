@@ -2,11 +2,11 @@
 !pragma layout smetana
 "GtileColumns" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit"
 class net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit {
-+GtileSplit(List<Gtile>;Swimlane;HColor) : GtileSplit [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#21]]]
-+getDefaultStyleDefinitionActivity() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#27]]]
-+getDefaultStyleDefinitionDiamond() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#31]]]
-+getDefaultStyleDefinitionArrow() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#35]]]
-drawUInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#40]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#58]]]
++GtileSplit(List<Gtile>;Swimlane;HColor) : GtileSplit [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#55]]]
++getDefaultStyleDefinitionActivity() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#61]]]
++getDefaultStyleDefinitionDiamond() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#65]]]
++getDefaultStyleDefinitionArrow() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#69]]]
+drawUInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#74]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#92]]]
 } 
 @enduml

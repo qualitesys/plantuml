@@ -2,16 +2,16 @@
 !pragma layout smetana
 "AbstractTextBlockIEntityImage" <|-- "net.sourceforge.plantuml.svek.EntityImageProtected"
 class net.sourceforge.plantuml.svek.EntityImageProtected {
-+getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#21]]]
-+EntityImageProtected(IEntityImage;double;Neighborhood;Bibliotekon) : EntityImageProtected [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#27]]]
-+isHidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#34]]]
-+getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#38]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#42]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#46]]]
-+drawUntranslated(UGraphic;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#50]]]
-+getShapeType() : ShapeType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#55]]]
-+getShield(StringBounder) : Margins [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#59]]]
-+getOverscanX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#63]]]
-+getPorts(StringBounder) : Ports [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#68]]]
++getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#55]]]
++EntityImageProtected(IEntityImage;double;Neighborhood;Bibliotekon) : EntityImageProtected [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#61]]]
++isHidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#68]]]
++getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#72]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#76]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#80]]]
++drawUntranslated(UGraphic;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#84]]]
++getShapeType() : ShapeType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#89]]]
++getShield(StringBounder) : Margins [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#93]]]
++getOverscanX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#97]]]
++getPorts(StringBounder) : Ports [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#102]]]
 } 
 @enduml

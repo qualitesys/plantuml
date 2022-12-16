@@ -2,10 +2,10 @@
 !pragma layout smetana
 "UParam" <|-- "net.sourceforge.plantuml.ugraphic.UParamNull"
 class net.sourceforge.plantuml.ugraphic.UParamNull {
-+getColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UParamNull.java.html#9]]]
-+getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UParamNull.java.html#13]]]
-+getStroke() : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UParamNull.java.html#17]]]
-+isHidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UParamNull.java.html#21]]]
-+getPattern() : UPattern [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UParamNull.java.html#25]]]
++getColor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UParamNull.java.html#43]]]
++getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UParamNull.java.html#47]]]
++getStroke() : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UParamNull.java.html#51]]]
++isHidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UParamNull.java.html#55]]]
++getPattern() : UPattern [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UParamNull.java.html#59]]]
 } 
 @enduml

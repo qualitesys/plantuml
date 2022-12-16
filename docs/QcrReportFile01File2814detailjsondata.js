@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "org.stathissideris.ascii2image.core.ConfigurationParser" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/ConfigurationParser.java.html#21"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/ConfigurationParser.java.html#40"
  , "c1" : "Collection<CustomShapeDefinition>"
  , "c2" : "getShapeDefinitions()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/ConfigurationParser.java.html#25"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/ConfigurationParser.java.html#44"
  , "c1" : "HashMap<String,CustomShapeDefinition>"
  , "c2" : "getShapeDefinitionsHash()"
  , "c3" : "1"

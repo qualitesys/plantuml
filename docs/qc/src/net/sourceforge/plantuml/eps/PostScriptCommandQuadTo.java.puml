@@ -2,7 +2,7 @@
 !pragma layout smetana
 "PostScriptCommand" <|-- "net.sourceforge.plantuml.eps.PostScriptCommandQuadTo"
 class net.sourceforge.plantuml.eps.PostScriptCommandQuadTo {
-+PostScriptCommandQuadTo(double;double;double;double) : PostScriptCommandQuadTo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandQuadTo.java.html#11]]]
-+toPostString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandQuadTo.java.html#18]]]
++PostScriptCommandQuadTo(double;double;double;double) : PostScriptCommandQuadTo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandQuadTo.java.html#45]]]
++toPostString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandQuadTo.java.html#52]]]
 } 
 @enduml

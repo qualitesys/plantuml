@@ -2,7 +2,7 @@
 !pragma layout smetana
 "Something" <|-- "net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd"
 class net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd {
-+toRegex(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#26]]]
-+getMe(GanttDiagram;RegexResult;String) : Failable<TaskInstant> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#33]]]
++toRegex(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#60]]]
++getMe(GanttDiagram;RegexResult;String) : Failable<TaskInstant> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#67]]]
 } 
 @enduml

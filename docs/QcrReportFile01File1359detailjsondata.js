@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphic.Splitter" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00098"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#98"
+ , "c5" : "00132"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#132"
  , "c1" : "Splitter"
  , "c2" : "Splitter(String)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#107"
+ , "c5" : "00141"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#141"
  , "c1" : "List<String>"
  , "c2" : "getSplittedInternal()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00111"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#111"
+ , "c5" : "00145"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#145"
  , "c1" : "String"
  , "c2" : "purgeAllTag(String)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00115"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#115"
+ , "c5" : "00149"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#149"
  , "c1" : "List<HtmlCommand>"
  , "c2" : "getHtmlCommands(boolean)"
  , "c3" : "4"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00129"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#129"
+ , "c5" : "00163"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#163"
  , "c1" : "Collection<Text>"
  , "c2" : "splitText(Text)"
  , "c3" : "4"
@@ -132,115 +132,115 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#101"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00101] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00135] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#101"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.graphic.Splitter.Splitter@POLYN171955 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.graphic.Splitter.Splitter@POLYN172159 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#111"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#145"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00111] For method purgeAllTag arguments String  s"
+ , "c3" : "QC-JAV000006[00145] For method purgeAllTag arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#112"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.graphic.Splitter.purgeAllTag@POLYN172564 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.graphic.Splitter.purgeAllTag@POLYN172768 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#115"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#149"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00115] For method getHtmlCommands arguments boolean  newLineAlone"
+ , "c3" : "QC-JAV000006[00149] For method getHtmlCommands arguments boolean  newLineAlone"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#119"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00119] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00153] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#120"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00120] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00154] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#121"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00121] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00155] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#129"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#163"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00129] For method splitText arguments Text  cmd"
+ , "c3" : "QC-JAV000006[00163] For method splitText arguments Text  cmd"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#129"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#163"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00129] The argument cmd is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00163] The argument cmd is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#132"
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.graphic.Splitter.splitText@POLYN173602 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.graphic.Splitter.splitText@POLYN173806 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#134"
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.graphic.Splitter.splitText@POLYN173602 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.graphic.Splitter.splitText@POLYN173806 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#138"
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.graphic.Splitter.splitText@POLYN173602 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.graphic.Splitter.splitText@POLYN173806 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#139"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.graphic.Splitter.splitText@POLYN173602 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.graphic.Splitter.splitText@POLYN173806 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#142"
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.graphic.Splitter.splitText@POLYN173602 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.graphic.Splitter.splitText@POLYN173806 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#115"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Splitter.java.html#149"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00115] Public method getHtmlCommands is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00149] Public method getHtmlCommands is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

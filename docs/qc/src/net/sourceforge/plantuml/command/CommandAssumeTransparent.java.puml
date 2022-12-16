@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<TitledDiagram>" <|-- "net.sourceforge.plantuml.command.CommandAssumeTransparent"
 class net.sourceforge.plantuml.command.CommandAssumeTransparent {
-+CommandAssumeTransparent() : CommandAssumeTransparent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#13]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#17]]]
-executeArg(TitledDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#28]]]
++CommandAssumeTransparent() : CommandAssumeTransparent [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#47]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#51]]]
+executeArg(TitledDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#62]]]
 } 
 @enduml

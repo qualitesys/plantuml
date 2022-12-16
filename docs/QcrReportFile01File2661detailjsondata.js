@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#30"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#64"
  , "c1" : "DriverRectangleG2d"
  , "c2" : "DriverRectangleG2d(double;EnsureVisible)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#69"
  , "c1" : "void"
  , "c2" : "draw(URectangle;double;double;ColorMapper;UParam;Graphics2D)"
  , "c3" : "11"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00080"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#80"
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#114"
  , "c1" : "void"
  , "c2" : "drawBorder(UParam;HColor;ColorMapper;UShapeSized;Shape;Graphics2D;double;double)"
  , "c3" : "4"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#95"
+ , "c5" : "00129"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#129"
  , "c1" : "GradientPaint"
  , "c2" : "getPaintGradient(double;double;ColorMapper;double;double;HColor)"
  , "c3" : "7"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00117"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#117"
+ , "c5" : "00151"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#151"
  , "c1" : "void"
  , "c2" : "managePattern(UParam;Graphics2D)"
  , "c3" : "12"
@@ -118,458 +118,458 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method draw arguments URectangle  rect|double  x|double  y|ColorMapper  mapper|UParam  param|Graphics2D  g2d"
+ , "c3" : "QC-JAV000006[00069] For method draw arguments URectangle  rect|double  x|double  y|ColorMapper  mapper|UParam  param|Graphics2D  g2d"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#69"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00035] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00069] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#69"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00035] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00069] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#69"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00035] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.draw@POLYN181524 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.draw@POLYN181524 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.draw@POLYN181524 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.draw@POLYN181524 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.draw@POLYN181524 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAVCWE476[00069] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.draw@POLYN181524 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.draw@POLYN181728 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#80"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method drawBorder arguments UParam  param|HColor  color|ColorMapper  mapper|UShapeSized  sized|Shape  shape|Graphics2D  g2d|double  x|double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#80"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00080] The argument color is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#80"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00080] The argument sized is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#81"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00081] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#95"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00095] For method getPaintGradient arguments double  x|double  y|ColorMapper  mapper|double  width|double  height|HColor  back"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#100"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.getPaintGradient@POLYN186155 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.draw@POLYN181728 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#101"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.getPaintGradient@POLYN186155 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.draw@POLYN181728 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.draw@POLYN181728 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.getPaintGradient@POLYN186155 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.getPaintGradient@POLYN186155 the MagicNumber/String  '\\' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#106"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.getPaintGradient@POLYN186155 the MagicNumber/String  '-' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#107"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.getPaintGradient@POLYN186155 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.draw@POLYN181728 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.getPaintGradient@POLYN186155 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.draw@POLYN181728 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#117"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#114"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00117] For method managePattern arguments UParam  param|Graphics2D  g2d"
+ , "c3" : "QC-JAV000006[00114] For method drawBorder arguments UParam  param|HColor  color|ColorMapper  mapper|UShapeSized  sized|Shape  shape|Graphics2D  g2d|double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#117"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#114"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00117] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00114] The argument color is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#117"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#114"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00117] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00114] The argument sized is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  4 should be converted to const"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#115"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00115] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#125"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#125"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  4 should be converted to const"
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#129"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00129] For method getPaintGradient arguments double  x|double  y|ColorMapper  mapper|double  width|double  height|HColor  back"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#134"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.getPaintGradient@POLYN186359 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.getPaintGradient@POLYN186359 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#135"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.getPaintGradient@POLYN186359 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#137"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.getPaintGradient@POLYN186359 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.getPaintGradient@POLYN186359 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.getPaintGradient@POLYN186359 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#141"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.getPaintGradient@POLYN186359 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  4 should be converted to const"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#151"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00151] For method managePattern arguments UParam  param|Graphics2D  g2d"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  4 should be converted to const"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#151"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00151] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#143"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#151"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00151] The argument g2d is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#143"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#144"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#144"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#145"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#145"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#146"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#146"
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#147"
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#147"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN188870 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#158"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#169"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#169"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#178"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#178"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#179"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#179"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#180"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#180"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#181"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverRectangleG2d.java.html#181"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d.managePattern@POLYN189074 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

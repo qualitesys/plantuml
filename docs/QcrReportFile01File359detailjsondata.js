@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.AnnotatedBuilder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#69"
  , "c1" : "AnnotatedBuilder"
  , "c2" : "AnnotatedBuilder(Annotated;ISkinParam;StringBounder)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#75"
  , "c1" : "boolean"
  , "c2" : "hasMainFrame()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#45"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#79"
  , "c1" : "double"
  , "c2" : "mainFrameSuppHeight()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#59"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#93"
  , "c1" : "TextBlock"
  , "c2" : "decoreWithFrame(TextBlock)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00123"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#123"
+ , "c5" : "00157"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#157"
  , "c1" : "ISkinParam"
  , "c2" : "getSkinParam()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00127"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#127"
+ , "c5" : "00161"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#161"
  , "c1" : "TextBlock"
  , "c2" : "getLegend()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#132"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#166"
  , "c1" : "TextBlock"
  , "c2" : "getTitle()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00141"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#141"
+ , "c5" : "00175"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#175"
  , "c1" : "TextBlock"
  , "c2" : "getCaption()"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00153"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#153"
+ , "c5" : "00187"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#187"
  , "c1" : "TextBlock"
  , "c2" : "addHeaderAndFooter(TextBlock)"
  , "c3" : "4"
@@ -154,178 +154,178 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.AnnotatedBuilder.hasMainFrame@POLYN182228 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.AnnotatedBuilder.hasMainFrame@POLYN182432 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#54"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.AnnotatedBuilder.mainFrameSuppHeight@POLYN182358 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.AnnotatedBuilder.mainFrameSuppHeight@POLYN182562 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#56"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.AnnotatedBuilder.mainFrameSuppHeight@POLYN182358 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.AnnotatedBuilder.mainFrameSuppHeight@POLYN182562 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method decoreWithFrame arguments TextBlock  original"
+ , "c3" : "QC-JAV000006[00093] For method decoreWithFrame arguments TextBlock  original"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#93"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00059] The argument original is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00093] The argument original is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183558 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183762 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#77"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183558 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183762 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#79"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183558 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183762 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#81"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183558 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183762 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#82"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183558 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183762 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#83"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183558 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183762 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#83"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183558 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183762 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#84"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183558 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183762 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#84"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183558 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183762 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#87"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183558 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183762 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#87"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183558 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.AnnotatedBuilder.decoreWithFrame@POLYN183762 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#144"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.AnnotatedBuilder.getCaption@POLYN189241 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.AnnotatedBuilder.getCaption@POLYN189445 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#144"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.AnnotatedBuilder.getCaption@POLYN189241 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.AnnotatedBuilder.getCaption@POLYN189445 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#153"
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#187"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00153] For method addHeaderAndFooter arguments TextBlock  original"
+ , "c3" : "QC-JAV000006[00187] For method addHeaderAndFooter arguments TextBlock  original"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#159"
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.AnnotatedBuilder.addHeaderAndFooter@POLYN189938 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.AnnotatedBuilder.addHeaderAndFooter@POLYN190142 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#160"
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.AnnotatedBuilder.addHeaderAndFooter@POLYN189938 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.AnnotatedBuilder.addHeaderAndFooter@POLYN190142 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#163"
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.AnnotatedBuilder.addHeaderAndFooter@POLYN189938 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.AnnotatedBuilder.addHeaderAndFooter@POLYN190142 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#166"
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.AnnotatedBuilder.addHeaderAndFooter@POLYN189938 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.AnnotatedBuilder.addHeaderAndFooter@POLYN190142 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#167"
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.AnnotatedBuilder.addHeaderAndFooter@POLYN189938 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.AnnotatedBuilder.addHeaderAndFooter@POLYN190142 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#170"
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.AnnotatedBuilder.addHeaderAndFooter@POLYN189938 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.AnnotatedBuilder.addHeaderAndFooter@POLYN190142 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

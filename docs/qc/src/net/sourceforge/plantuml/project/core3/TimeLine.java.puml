@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.project.core3.TimeLine"
 class net.sourceforge.plantuml.project.core3.TimeLine {
-+getNext(long) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TimeLine.java.html#8]]]
-+getPrevious(long) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TimeLine.java.html#10]]]
++getNext(long) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TimeLine.java.html#42]]]
++getPrevious(long) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TimeLine.java.html#44]]]
 } 
 @enduml

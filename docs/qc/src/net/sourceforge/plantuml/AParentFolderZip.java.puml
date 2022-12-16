@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AParentFolder" <|-- "net.sourceforge.plantuml.AParentFolderZip"
 class net.sourceforge.plantuml.AParentFolderZip {
-+toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/AParentFolderZip.java.html#14]]]
-+AParentFolderZip(SFile;String) : AParentFolderZip [[[./../../../../.././qc/src/net/sourceforge/plantuml/AParentFolderZip.java.html#18]]]
-+getAFile(String) : AFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/AParentFolderZip.java.html#28]]]
-merge(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/AParentFolderZip.java.html#32]]]
++toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/AParentFolderZip.java.html#48]]]
++AParentFolderZip(SFile;String) : AParentFolderZip [[[./../../../../.././qc/src/net/sourceforge/plantuml/AParentFolderZip.java.html#52]]]
++getAFile(String) : AFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/AParentFolderZip.java.html#62]]]
+merge(String) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/AParentFolderZip.java.html#66]]]
 } 
 @enduml

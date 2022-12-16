@@ -2,9 +2,9 @@
 !pragma layout smetana
 "Command<S>" <|-- "net.sourceforge.plantuml.command.ProtectedCommand"
 class net.sourceforge.plantuml.command.ProtectedCommand {
-+ProtectedCommand(Command<S>) : ProtectedCommand [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#15]]]
-+execute(S;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#19]]]
-+isValid(BlocLines) : CommandControl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#38]]]
-+getDescription() : String[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#42]]]
++ProtectedCommand(Command<S>) : ProtectedCommand [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#49]]]
++execute(S;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#53]]]
++isValid(BlocLines) : CommandControl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#72]]]
++getDescription() : String[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#76]]]
 } 
 @enduml

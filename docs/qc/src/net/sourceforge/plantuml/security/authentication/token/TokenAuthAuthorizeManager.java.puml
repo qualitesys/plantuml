@@ -2,6 +2,6 @@
 !pragma layout smetana
 "SecurityAuthorizeManager" <|-- "net.sourceforge.plantuml.security.authentication.token.TokenAuthAuthorizeManager"
 class net.sourceforge.plantuml.security.authentication.token.TokenAuthAuthorizeManager {
-+create(SecurityCredentials) : SecurityAuthentication [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAuthorizeManager.java.html#13]]]
++create(SecurityCredentials) : SecurityAuthentication [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAuthorizeManager.java.html#52]]]
 } 
 @enduml

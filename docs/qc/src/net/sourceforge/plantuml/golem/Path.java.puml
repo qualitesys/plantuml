@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.golem.Path"
 class net.sourceforge.plantuml.golem.Path {
-+build(TileArea;TileArea) : Path [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Path.java.html#11]]]
--Path(TileArea;TileArea) : Path [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Path.java.html#15]]]
-+getStart() : TileArea [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Path.java.html#20]]]
-+getDest() : TileArea [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Path.java.html#24]]]
++build(TileArea;TileArea) : Path [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Path.java.html#45]]]
+-Path(TileArea;TileArea) : Path [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Path.java.html#49]]]
++getStart() : TileArea [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Path.java.html#54]]]
++getDest() : TileArea [[[./../../../../../.././qc/src/net/sourceforge/plantuml/golem/Path.java.html#58]]]
 } 
 @enduml

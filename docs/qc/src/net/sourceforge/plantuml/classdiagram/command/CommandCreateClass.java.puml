@@ -2,9 +2,9 @@
 !pragma layout smetana
 "SingleLineCommand2<ClassDiagram>" <|-- "net.sourceforge.plantuml.classdiagram.command.CommandCreateClass"
 class net.sourceforge.plantuml.classdiagram.command.CommandCreateClass {
-+CommandCreateClass() : CommandCreateClass [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClass.java.html#42]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClass.java.html#46]]]
--color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClass.java.html#90]]]
-executeArg(ClassDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClass.java.html#95]]]
++CommandCreateClass() : CommandCreateClass [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClass.java.html#76]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClass.java.html#80]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClass.java.html#124]]]
+executeArg(ClassDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClass.java.html#129]]]
 } 
 @enduml

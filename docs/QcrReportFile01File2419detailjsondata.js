@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.Trie" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/Trie.java.html#6"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/Trie.java.html#39"
  , "c1" : "void"
  , "c2" : "add(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/Trie.java.html#8"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/Trie.java.html#41"
  , "c1" : "String"
  , "c2" : "getLonguestMatchStartingIn(String)"
  , "c3" : "1"

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.util.Util" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00007"
- , "c5link" : "././qc/src/jcckit/util/Util.java.html#7"
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/jcckit/util/Util.java.html#28"
  , "c1" : "Util"
  , "c2" : "Util()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/jcckit/util/Util.java.html#10"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/jcckit/util/Util.java.html#35"
  , "c1" : "double"
  , "c2" : "log(double;boolean)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/jcckit/util/Util.java.html#15"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/jcckit/util/Util.java.html#44"
  , "c1" : "double"
  , "c2" : "exp(double;boolean)"
  , "c3" : "1"
@@ -86,17 +86,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/jcckit/util/Util.java.html#10"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/jcckit/util/Util.java.html#35"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00010] For method log arguments double  x|boolean  logScale"
+ , "c3" : "QC-JAV000006[00035] For method log arguments double  x|boolean  logScale"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/jcckit/util/Util.java.html#15"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/jcckit/util/Util.java.html#44"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method exp arguments double  x|boolean  logScale"
+ , "c3" : "QC-JAV000006[00044] For method exp arguments double  x|boolean  logScale"
 }} 
 ]
 , 

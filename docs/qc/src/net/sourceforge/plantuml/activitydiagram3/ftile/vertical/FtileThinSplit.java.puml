@@ -2,13 +2,13 @@
 !pragma layout smetana
 "AbstractFtile" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileThinSplit"
 class net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileThinSplit {
-+FtileThinSplit(ISkinParam;HColor;Swimlane) : FtileThinSplit [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#31]]]
-+getMyChildren() : Collection<Ftile> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#38]]]
-+setGeom(double;double;double) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#42]]]
-calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#49]]]
-+drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#53]]]
-+getSwimlanes() : Set<Swimlane> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#64]]]
-+getSwimlaneIn() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#68]]]
-+getSwimlaneOut() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#72]]]
++FtileThinSplit(ISkinParam;HColor;Swimlane) : FtileThinSplit [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#65]]]
++getMyChildren() : Collection<Ftile> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#72]]]
++setGeom(double;double;double) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#76]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#83]]]
++drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#87]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#98]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#102]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#106]]]
 } 
 @enduml

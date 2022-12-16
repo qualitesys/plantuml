@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractTextBlock" <|-- "net.sourceforge.plantuml.graphic.TextBlockEmpty"
 class net.sourceforge.plantuml.graphic.TextBlockEmpty {
-+TextBlockEmpty(double;double) : TextBlockEmpty [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html#12]]]
-+TextBlockEmpty() : TextBlockEmpty [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html#17]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html#21]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html#25]]]
++TextBlockEmpty(double;double) : TextBlockEmpty [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html#46]]]
++TextBlockEmpty() : TextBlockEmpty [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html#51]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html#55]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockEmpty.java.html#59]]]
 } 
 @enduml

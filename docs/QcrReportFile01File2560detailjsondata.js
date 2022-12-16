@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.PlacementStrategy" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategy.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategy.java.html#45"
  , "c1" : "void"
  , "c2" : "add(TextBlock)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategy.java.html#13"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategy.java.html#47"
  , "c1" : "Map<TextBlock,XPoint2D>"
  , "c2" : "getPositions(double;double)"
  , "c3" : "1"

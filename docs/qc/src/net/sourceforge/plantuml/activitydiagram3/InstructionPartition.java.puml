@@ -2,16 +2,16 @@
 !pragma layout smetana
 "AbstractInstructionInstruction" <|-- "net.sourceforge.plantuml.activitydiagram3.InstructionPartition"
 class net.sourceforge.plantuml.activitydiagram3.InstructionPartition {
-+InstructionPartition(Instruction;String) : InstructionPartition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#20]]]
-+getParent() : Instruction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#24]]]
-+getSwimlanes() : Set<Swimlane> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#28]]]
-+getSwimlaneIn() : Swimlane [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#32]]]
-+getSwimlaneOut() : Swimlane [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#36]]]
-+createFtile(FtileFactory) : Ftile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#40]]]
-+add(Instruction) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#44]]]
-+kill() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#48]]]
-+getInLinkRendering() : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#52]]]
-+addNote(Display;NotePosition;NoteType;Colors;Swimlane) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#56]]]
-+containsBreak() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#60]]]
++InstructionPartition(Instruction;String) : InstructionPartition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#54]]]
++getParent() : Instruction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#58]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#62]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#66]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#70]]]
++createFtile(FtileFactory) : Ftile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#74]]]
++add(Instruction) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#78]]]
++kill() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#82]]]
++getInLinkRendering() : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#86]]]
++addNote(Display;NotePosition;NoteType;Colors;Swimlane) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#90]]]
++containsBreak() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionPartition.java.html#94]]]
 } 
 @enduml

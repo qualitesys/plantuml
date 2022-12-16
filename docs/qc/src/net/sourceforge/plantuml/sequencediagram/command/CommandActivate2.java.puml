@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<SequenceDiagram>" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandActivate2"
 class net.sourceforge.plantuml.sequencediagram.command.CommandActivate2 {
-+CommandActivate2() : CommandActivate2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandActivate2.java.html#18]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandActivate2.java.html#22]]]
-executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandActivate2.java.html#33]]]
++CommandActivate2() : CommandActivate2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandActivate2.java.html#52]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandActivate2.java.html#56]]]
+executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandActivate2.java.html#67]]]
 } 
 @enduml

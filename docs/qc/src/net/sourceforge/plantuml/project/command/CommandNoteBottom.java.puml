@@ -2,8 +2,8 @@
 !pragma layout smetana
 "CommandMultilines<GanttDiagram>" <|-- "net.sourceforge.plantuml.project.command.CommandNoteBottom"
 class net.sourceforge.plantuml.project.command.CommandNoteBottom {
-+CommandNoteBottom() : CommandNoteBottom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandNoteBottom.java.html#13]]]
-+getPatternEnd() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandNoteBottom.java.html#18]]]
-+execute(GanttDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandNoteBottom.java.html#22]]]
++CommandNoteBottom() : CommandNoteBottom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandNoteBottom.java.html#47]]]
++getPatternEnd() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandNoteBottom.java.html#52]]]
++execute(GanttDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandNoteBottom.java.html#56]]]
 } 
 @enduml

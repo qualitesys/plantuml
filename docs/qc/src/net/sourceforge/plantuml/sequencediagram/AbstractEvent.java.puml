@@ -2,9 +2,9 @@
 !pragma layout smetana
 "Event" <|-- "net.sourceforge.plantuml.sequencediagram.AbstractEvent"
 class net.sourceforge.plantuml.sequencediagram.AbstractEvent {
-+isParallel() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#8]]]
-+getUrl() : Url [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#12]]]
-+hasUrl() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#16]]]
-+setY(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#20]]]
++isParallel() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#42]]]
++getUrl() : Url [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#46]]]
++hasUrl() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#50]]]
++setY(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#54]]]
 } 
 @enduml

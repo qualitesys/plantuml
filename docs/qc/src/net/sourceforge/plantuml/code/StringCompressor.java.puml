@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.code.StringCompressor"
 class net.sourceforge.plantuml.code.StringCompressor {
-compress(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/StringCompressor.java.html#8]]]
-decompress(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/StringCompressor.java.html#10]]]
+compress(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/StringCompressor.java.html#42]]]
+decompress(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/StringCompressor.java.html#44]]]
 } 
 @enduml

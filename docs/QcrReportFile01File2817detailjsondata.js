@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "org.stathissideris.ascii2image.core.DocBookConverter" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#40"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#59"
  , "c1" : "void"
  , "c2" : "list()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#48"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#67"
  , "c1" : "void"
  , "c2" : "main(String[])"
  , "c3" : "1"
@@ -91,101 +91,101 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#17"
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#36"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method startElement arguments String  nsURI|String  strippedName|String  tagName|Attributes  attributes"
+ , "c3" : "QC-JAV000006[00036] For method startElement arguments String  nsURI|String  strippedName|String  tagName|Attributes  attributes"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#20"
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#39"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument tagName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00039] The argument tagName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#23"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler.startElement@POLYN146821 the MagicNumber/String  'title' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler.startElement@POLYN146821 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#25"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler.startElement@POLYN146821 the MagicNumber/String  'url' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler.startElement@POLYN146821 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#29"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method characters arguments char[]  ch|int  start|int  length"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler.characters@POLYN147233 the MagicNumber/String  'Title: ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler.characters@POLYN147233 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler.characters@POLYN147233 the MagicNumber/String  'Url: ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler.characters@POLYN147233 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler.startElement@POLYN146935 the MagicNumber/String  'title' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00043"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method org.stathissideris.ascii2image.core.DocBookConverter.list@POLYN147938 the MagicNumber/String  'org.apache.crimson.parser.XMLReaderImpl' should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler.startElement@POLYN146935 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#44"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00044] In method org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler.startElement@POLYN146935 the MagicNumber/String  'url' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.core.DocBookConverter.list@POLYN147938 the MagicNumber/String  'howto.xml' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler.startElement@POLYN146935 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method main arguments String[]  args"
+ , "c3" : "QC-JAV000006[00048] For method characters arguments char[]  ch|int  start|int  length"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler.characters@POLYN147347 the MagicNumber/String  'Title: ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler.characters@POLYN147347 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#53"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00053] In method org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler.characters@POLYN147347 the MagicNumber/String  'Url: ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#54"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00054] In method org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler.characters@POLYN147347 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method org.stathissideris.ascii2image.core.DocBookConverter.list@POLYN148052 the MagicNumber/String  'org.apache.crimson.parser.XMLReaderImpl' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#64"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00064] In method org.stathissideris.ascii2image.core.DocBookConverter.list@POLYN148052 the MagicNumber/String  'howto.xml' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#67"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00067] For method main arguments String[]  args"
 }} 
 ]
 , 

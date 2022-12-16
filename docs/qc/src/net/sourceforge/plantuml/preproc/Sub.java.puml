@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.preproc.Sub"
 class net.sourceforge.plantuml.preproc.Sub {
-+Sub(String) : Sub [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Sub.java.html#22]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Sub.java.html#27]]]
-+add(StringLocated) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Sub.java.html#31]]]
-+lines() : List<StringLocated> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Sub.java.html#38]]]
-+fromFile(ReadLine;String;TContext;TMemory) : Sub [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Sub.java.html#46]]]
++Sub(String) : Sub [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Sub.java.html#56]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Sub.java.html#61]]]
++add(StringLocated) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Sub.java.html#65]]]
++lines() : List<StringLocated> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Sub.java.html#72]]]
++fromFile(ReadLine;String;TContext;TMemory) : Sub [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/Sub.java.html#80]]]
 } 
 @enduml

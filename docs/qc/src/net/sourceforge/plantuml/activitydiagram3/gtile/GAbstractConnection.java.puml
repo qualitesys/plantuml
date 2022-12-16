@@ -2,13 +2,13 @@
 !pragma layout smetana
 "GConnection" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GAbstractConnection"
 class net.sourceforge.plantuml.activitydiagram3.gtile.GAbstractConnection {
-+GAbstractConnection(GPoint;GPoint) : GAbstractConnection [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#21]]]
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#27]]]
-+getHooks() : List<GPoint> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#32]]]
-+drawTranslatable(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#37]]]
-+drawTranslate(UGraphic;UTranslate;UTranslate) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#51]]]
--getDefaultStyleDefinitionArrow() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#55]]]
-skinParam() : ISkinParam [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#59]]]
-getInLinkRenderingColor() : Rainbow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#64]]]
++GAbstractConnection(GPoint;GPoint) : GAbstractConnection [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#55]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#61]]]
++getHooks() : List<GPoint> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#66]]]
++drawTranslatable(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#71]]]
++drawTranslate(UGraphic;UTranslate;UTranslate) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#85]]]
+-getDefaultStyleDefinitionArrow() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#89]]]
+skinParam() : ISkinParam [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#93]]]
+getInLinkRenderingColor() : Rainbow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#98]]]
 } 
 @enduml

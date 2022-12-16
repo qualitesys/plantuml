@@ -2,7 +2,7 @@
 !pragma layout smetana
 "UnsupportedStarStruct" <|-- "h.ST_Agdesc_s"
 class h.ST_Agdesc_s {
-+___(__struct__) : void [[[./../../.././qc/src/h/ST_Agdesc_s.java.html#18]]]
-+copy() : __struct__ [[[./../../.././qc/src/h/ST_Agdesc_s.java.html#31]]]
++___(__struct__) : void [[[./../../.././qc/src/h/ST_Agdesc_s.java.html#62]]]
++copy() : __struct__ [[[./../../.././qc/src/h/ST_Agdesc_s.java.html#75]]]
 } 
 @enduml

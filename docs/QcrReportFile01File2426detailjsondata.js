@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.expression.TValue" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#14"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#47"
  , "c1" : "TValue"
  , "c2" : "TValue(int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#20"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#53"
  , "c1" : "TValue"
  , "c2" : "TValue(String)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#26"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#59"
  , "c1" : "TValue"
  , "c2" : "TValue(JsonValue)"
  , "c3" : "1"
@@ -45,55 +45,10 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#32"
- , "c1" : "TValue"
- , "c2" : "fromInt(int)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#36"
- , "c1" : "TValue"
- , "c2" : "fromBoolean(boolean)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#40"
- , "c1" : "TValue"
- , "c2" : "fromJson(JsonValue)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#45"
- , "c1" : "String"
- , "c2" : "toString()"
- , "c3" : "4"
- , "c4" : "4"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#58"
- , "c1" : "TValue"
- , "c2" : "fromString(Token)"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
  , "c5" : "00065"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#65"
  , "c1" : "TValue"
- , "c2" : "fromString(String)"
+ , "c2" : "fromInt(int)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -102,14 +57,59 @@ var maDataBlocs = {
  , "c5" : "00069"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#69"
  , "c1" : "TValue"
+ , "c2" : "fromBoolean(boolean)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#73"
+ , "c1" : "TValue"
+ , "c2" : "fromJson(JsonValue)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#78"
+ , "c1" : "String"
+ , "c2" : "toString()"
+ , "c3" : "4"
+ , "c4" : "4"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#91"
+ , "c1" : "TValue"
+ , "c2" : "fromString(Token)"
+ , "c3" : "2"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#98"
+ , "c1" : "TValue"
+ , "c2" : "fromString(String)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#102"
+ , "c1" : "TValue"
  , "c2" : "fromNumber(Token)"
  , "c3" : "2"
  , "c4" : "2"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00076"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#76"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#109"
  , "c1" : "TValue"
  , "c2" : "add(TValue)"
  , "c3" : "2"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#83"
+ , "c5" : "00116"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#116"
  , "c1" : "TValue"
  , "c2" : "minus(TValue)"
  , "c3" : "2"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#90"
+ , "c5" : "00123"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#123"
  , "c1" : "TValue"
  , "c2" : "multiply(TValue)"
  , "c3" : "2"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#97"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#130"
  , "c1" : "TValue"
  , "c2" : "dividedBy(TValue)"
  , "c3" : "2"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00104"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#104"
+ , "c5" : "00137"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#137"
  , "c1" : "boolean"
  , "c2" : "isNumber()"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00108"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#108"
+ , "c5" : "00141"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#141"
  , "c1" : "boolean"
  , "c2" : "isJson()"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00112"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#112"
+ , "c5" : "00145"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#145"
  , "c1" : "boolean"
  , "c2" : "isString()"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00116"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#116"
+ , "c5" : "00149"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#149"
  , "c1" : "Token"
  , "c2" : "toToken()"
  , "c3" : "3"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00126"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#126"
+ , "c5" : "00159"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#159"
  , "c1" : "TValue"
  , "c2" : "greaterThanOrEquals(TValue)"
  , "c3" : "2"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00133"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#133"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#166"
  , "c1" : "TValue"
  , "c2" : "greaterThan(TValue)"
  , "c3" : "2"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00140"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#140"
+ , "c5" : "00173"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#173"
  , "c1" : "TValue"
  , "c2" : "lessThanOrEquals(TValue)"
  , "c3" : "2"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00147"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#147"
+ , "c5" : "00180"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#180"
  , "c1" : "TValue"
  , "c2" : "lessThan(TValue)"
  , "c3" : "2"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00154"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#154"
+ , "c5" : "00187"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#187"
  , "c1" : "TValue"
  , "c2" : "equalsOperation(TValue)"
  , "c3" : "2"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00161"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#161"
+ , "c5" : "00194"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#194"
  , "c1" : "TValue"
  , "c2" : "notEquals(TValue)"
  , "c3" : "2"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00168"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#168"
+ , "c5" : "00201"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#201"
  , "c1" : "boolean"
  , "c2" : "toBoolean()"
  , "c3" : "2"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00175"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#175"
+ , "c5" : "00208"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#208"
  , "c1" : "int"
  , "c2" : "toInt()"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00179"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#179"
+ , "c5" : "00212"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#212"
  , "c1" : "TValue"
  , "c2" : "logicalAnd(TValue)"
  , "c3" : "1"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00183"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#183"
+ , "c5" : "00216"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#216"
  , "c1" : "TValue"
  , "c2" : "logicalOr(TValue)"
  , "c3" : "1"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00187"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#187"
+ , "c5" : "00220"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#220"
  , "c1" : "JsonValue"
  , "c2" : "toJson()"
  , "c3" : "1"
@@ -341,479 +341,479 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#16"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172024 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#17"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172024 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172280 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172280 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172575 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172575 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#32"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method fromInt arguments int  v"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#36"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method fromBoolean arguments boolean  b"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.tim.expression.TValue.fromBoolean@POLYN172998 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.tim.expression.TValue.fromBoolean@POLYN172998 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#40"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method fromJson arguments JsonValue  json"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.tim.expression.TValue.toString@POLYN173357 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.tim.expression.TValue.toString@POLYN173357 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172222 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#52"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.expression.TValue.toString@POLYN173357 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172222 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#53"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.expression.TValue.toString@POLYN173357 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172478 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#58"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method fromString arguments Token  token"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#55"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172478 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#58"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00058] The argument token is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#61"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172773 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172773 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00065] For method fromString arguments String  s"
+ , "c3" : "QC-JAV000006[00065] For method fromInt arguments int  v"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method fromNumber arguments Token  token"
+ , "c3" : "QC-JAV000006[00069] For method fromBoolean arguments boolean  b"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#69"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00069] The argument token is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#76"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method add arguments TValue  v2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#76"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00076] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#83"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method minus arguments TValue  v2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#83"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00083] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#90"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00090] For method multiply arguments TValue  v2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#90"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00090] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#94"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.tim.expression.TValue.multiply@POLYN175562 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.tim.expression.TValue.fromBoolean@POLYN173196 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#97"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.tim.expression.TValue.fromBoolean@POLYN173196 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#73"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method dividedBy arguments TValue  v2"
+ , "c3" : "QC-JAV000006[00073] For method fromJson arguments JsonValue  json"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#97"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#79"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.tim.expression.TValue.toString@POLYN173555 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.tim.expression.TValue.toString@POLYN173555 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.tim.expression.TValue.toString@POLYN173555 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.tim.expression.TValue.toString@POLYN173555 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#91"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00091] For method fromString arguments Token  token"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#91"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00097] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00091] The argument token is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.tim.expression.TValue.dividedBy@POLYN176009 the MagicNumber/String  '/' should be converted to const"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#98"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00098] For method fromString arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.tim.expression.TValue.isNumber@POLYN176456 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#102"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00102] For method fromNumber arguments Token  token"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.tim.expression.TValue.isNumber@POLYN176456 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#102"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00102] The argument token is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#109"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.tim.expression.TValue.isJson@POLYN176632 the MagicNumber/String  null should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00109] For method add arguments TValue  v2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#113"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.tim.expression.TValue.isString@POLYN176752 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#109"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00109] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.tim.expression.TValue.toToken@POLYN176872 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#116"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00116] For method minus arguments TValue  v2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#116"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00116] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.tim.expression.TValue.toToken@POLYN176872 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#126"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00126] For method greaterThanOrEquals arguments TValue  v2"
+ , "c3" : "QC-JAV000006[00123] For method multiply arguments TValue  v2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#126"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#123"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00126] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00123] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#127"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.tim.expression.TValue.multiply@POLYN175760 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.tim.expression.TValue.greaterThanOrEquals@POLYN177462 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#133"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00133] For method greaterThan arguments TValue  v2"
+ , "c3" : "QC-JAV000006[00130] For method dividedBy arguments TValue  v2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#133"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#130"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00133] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00130] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#137"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.tim.expression.TValue.greaterThan@POLYN177912 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.tim.expression.TValue.dividedBy@POLYN176207 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#140"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00140] For method lessThanOrEquals arguments TValue  v2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#140"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00140] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#144"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.tim.expression.TValue.lessThanOrEquals@POLYN178362 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.tim.expression.TValue.isNumber@POLYN176654 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#147"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00147] For method lessThan arguments TValue  v2"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#138"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.tim.expression.TValue.isNumber@POLYN176654 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#147"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00147] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#142"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.tim.expression.TValue.isJson@POLYN176830 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#146"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.tim.expression.TValue.isString@POLYN176950 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.tim.expression.TValue.lessThan@POLYN178812 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.tim.expression.TValue.toToken@POLYN177070 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#154"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00154] For method equalsOperation arguments TValue  v2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#154"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00154] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#158"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.tim.expression.TValue.equalsOperation@POLYN179262 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.tim.expression.TValue.toToken@POLYN177070 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#161"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#159"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00161] For method notEquals arguments TValue  v2"
+ , "c3" : "QC-JAV000006[00159] For method greaterThanOrEquals arguments TValue  v2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#161"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#159"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00161] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00159] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#165"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.tim.expression.TValue.notEquals@POLYN179712 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.tim.expression.TValue.greaterThanOrEquals@POLYN177660 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#166"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00166] For method greaterThan arguments TValue  v2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#166"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00166] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.tim.expression.TValue.toBoolean@POLYN180162 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.tim.expression.TValue.greaterThan@POLYN178110 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#172"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#173"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00173] For method lessThanOrEquals arguments TValue  v2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#173"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00173] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.tim.expression.TValue.toBoolean@POLYN180162 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.tim.expression.TValue.lessThanOrEquals@POLYN178560 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#179"
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#180"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00179] For method logicalAnd arguments TValue  v2"
+ , "c3" : "QC-JAV000006[00180] For method lessThan arguments TValue  v2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#179"
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#180"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00179] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00180] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#183"
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#184"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.tim.expression.TValue.lessThan@POLYN179010 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#187"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00183] For method logicalOr arguments TValue  v2"
+ , "c3" : "QC-JAV000006[00187] For method equalsOperation arguments TValue  v2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#183"
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#187"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00183] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00187] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#32"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00032] Public method fromInt is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#191"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.tim.expression.TValue.equalsOperation@POLYN179460 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#36"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00036] Public method fromBoolean is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#194"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00194] For method notEquals arguments TValue  v2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#40"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00040] Public method fromJson is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#194"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00194] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#58"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00058] Public method fromString is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#198"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.tim.expression.TValue.notEquals@POLYN179910 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.tim.expression.TValue.toBoolean@POLYN180360 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#205"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.tim.expression.TValue.toBoolean@POLYN180360 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#212"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00212] For method logicalAnd arguments TValue  v2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#212"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00212] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#216"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00216] For method logicalOr arguments TValue  v2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#216"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00216] The argument v2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#65"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00065] Public method fromString is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00065] Public method fromInt is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#69"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00069] Public method fromNumber is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00069] Public method fromBoolean is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#179"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#73"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00179] Public method logicalAnd is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00073] Public method fromJson is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#183"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#91"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00183] Public method logicalOr is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00091] Public method fromString is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#98"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00098] Public method fromString is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#102"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00102] Public method fromNumber is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#212"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00212] Public method logicalAnd is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#216"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00216] Public method logicalOr is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

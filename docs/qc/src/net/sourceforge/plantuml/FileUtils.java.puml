@@ -2,19 +2,19 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.FileUtils"
 class net.sourceforge.plantuml.FileUtils {
-+resetCounter() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#24]]]
-+createTempFileLegacy(String;String) : File [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#28]]]
-+createTempFile(String;String) : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#45]]]
-+copyInternal(InputStream;OutputStream;boolean) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#62]]]
-+copyToFile(SFile;SFile) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#74]]]
-+copyToStream(SFile;OutputStream) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#86]]]
-+copyToStream(File;OutputStream) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#95]]]
-+copyToStream(InputStream;OutputStream) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#101]]]
-+copyToFile(byte[];SFile) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#107]]]
-+readSvg(SFile) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#113]]]
-+readSvg(InputStream) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#121]]]
-+readText(InputStream) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#126]]]
-+readFile(SFile) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#131]]]
--readSvg(BufferedReader;boolean;boolean) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#139]]]
++resetCounter() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#58]]]
++createTempFileLegacy(String;String) : File [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#62]]]
++createTempFile(String;String) : SFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#79]]]
++copyInternal(InputStream;OutputStream;boolean) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#96]]]
++copyToFile(SFile;SFile) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#108]]]
++copyToStream(SFile;OutputStream) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#120]]]
++copyToStream(File;OutputStream) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#129]]]
++copyToStream(InputStream;OutputStream) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#135]]]
++copyToFile(byte[];SFile) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#141]]]
++readSvg(SFile) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#147]]]
++readSvg(InputStream) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#155]]]
++readText(InputStream) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#160]]]
++readFile(SFile) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#165]]]
+-readSvg(BufferedReader;boolean;boolean) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileUtils.java.html#173]]]
 } 
 @enduml

@@ -2,8 +2,8 @@
 !pragma layout smetana
 "ElementFactory" <|-- "net.sourceforge.plantuml.salt.factory.ElementFactoryRetrieveFromDictonnary"
 class net.sourceforge.plantuml.salt.factory.ElementFactoryRetrieveFromDictonnary {
-+ElementFactoryRetrieveFromDictonnary(DataSource;Dictionary) : ElementFactoryRetrieveFromDictonnary [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#16]]]
-+create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#21]]]
-+ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#34]]]
++ElementFactoryRetrieveFromDictonnary(DataSource;Dictionary) : ElementFactoryRetrieveFromDictonnary [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#50]]]
++create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#55]]]
++ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryRetrieveFromDictonnary.java.html#68]]]
 } 
 @enduml

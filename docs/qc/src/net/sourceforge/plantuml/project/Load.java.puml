@@ -2,9 +2,9 @@
 !pragma layout smetana
 "Value" <|-- "net.sourceforge.plantuml.project.Load"
 class net.sourceforge.plantuml.project.Load {
--Load(int) : Load [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Load.java.html#8]]]
-+inWinks(int) : Load [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Load.java.html#12]]]
-+getFullLoad() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Load.java.html#16]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Load.java.html#21]]]
+-Load(int) : Load [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Load.java.html#42]]]
++inWinks(int) : Load [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Load.java.html#46]]]
++getFullLoad() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Load.java.html#50]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Load.java.html#55]]]
 } 
 @enduml

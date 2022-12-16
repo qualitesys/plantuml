@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.gitlog.GitDiagram" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#27"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#60"
  , "c1" : "GitDiagram"
  , "c2" : "GitDiagram(UmlSource;GitTextArea)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#33"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#66"
  , "c1" : "DiagramDescription"
  , "c2" : "getDescription()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#38"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#71"
  , "c1" : "ImageData"
  , "c2" : "exportDiagramInternal(OutputStream;int;FileFormatOption)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#44"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#77"
  , "c1" : "void"
  , "c2" : "drawInternal(UGraphic)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#56"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#89"
  , "c1" : "TextBlockBackcolored"
  , "c2" : "getTextBlock()"
  , "c3" : "1"
@@ -118,66 +118,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#27"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#60"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00027] The argument textArea is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00060] The argument textArea is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#28"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.gitlog.GitDiagram.GitDiagram@POLYN154645 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.gitlog.GitDiagram.GitDiagram@POLYN154843 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#34"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.gitlog.GitDiagram.getDescription@POLYN155088 the MagicNumber/String  '(Git)' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.gitlog.GitDiagram.getDescription@POLYN155286 the MagicNumber/String  '(Git)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#38"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#71"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method exportDiagramInternal arguments OutputStream  os|int  index|FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00071] For method exportDiagramInternal arguments OutputStream  os|int  index|FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#44"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method drawInternal arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00077] For method drawInternal arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#64"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.gitlog.GitDiagram.getTextBlock@POLYN155725 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.gitlog.GitDiagram.getTextBlock@POLYN155923 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#68"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.gitlog.GitDiagram.getTextBlock@POLYN155725 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.gitlog.GitDiagram.getTextBlock@POLYN155923 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#72"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.gitlog.GitDiagram.getTextBlock@POLYN155725 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.gitlog.GitDiagram.getTextBlock@POLYN155923 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#76"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GitDiagram.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.gitlog.GitDiagram.getTextBlock@POLYN155725 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.gitlog.GitDiagram.getTextBlock@POLYN155923 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

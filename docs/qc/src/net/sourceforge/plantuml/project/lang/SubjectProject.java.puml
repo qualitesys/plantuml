@@ -2,8 +2,8 @@
 !pragma layout smetana
 "Subject" <|-- "net.sourceforge.plantuml.project.lang.SubjectProject"
 class net.sourceforge.plantuml.project.lang.SubjectProject {
-+toRegex() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectProject.java.html#17]]]
-+getMe(GanttDiagram;RegexResult) : Failable<GanttDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectProject.java.html#21]]]
-+getSentences() : Collection<?extendsSentenceSimple> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectProject.java.html#25]]]
++toRegex() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectProject.java.html#51]]]
++getMe(GanttDiagram;RegexResult) : Failable<GanttDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectProject.java.html#55]]]
++getSentences() : Collection<?extendsSentenceSimple> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SubjectProject.java.html#59]]]
 } 
 @enduml

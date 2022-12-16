@@ -2,18 +2,18 @@
 !pragma layout smetana
 "AbstractTile" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteRight"
 class net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteRight {
-+getEvent() : Event [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#30]]]
--isCreate() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#34]]]
-+getContactPointRelative() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#39]]]
-+CommunicationTileNoteRight(Tile;AbstractMessage;Rose;ISkinParam;LivingSpace;Note;YGauge) : CommunicationTileNoteRight [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#43]]]
-+getYGauge() : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#56]]]
-callbackY_internal(TimeHook) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#61]]]
--getComponent(StringBounder) : Component [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#66]]]
--getNotePosition(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#73]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#83]]]
-+getPreferredHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#96]]]
-+addConstraints() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#102]]]
-+getMinX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#106]]]
-+getMaxX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#110]]]
++getEvent() : Event [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#64]]]
+-isCreate() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#68]]]
++getContactPointRelative() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#73]]]
++CommunicationTileNoteRight(Tile;AbstractMessage;Rose;ISkinParam;LivingSpace;Note;YGauge) : CommunicationTileNoteRight [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#77]]]
++getYGauge() : YGauge [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#90]]]
+callbackY_internal(TimeHook) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#95]]]
+-getComponent(StringBounder) : Component [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#100]]]
+-getNotePosition(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#107]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#117]]]
++getPreferredHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#130]]]
++addConstraints() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#136]]]
++getMinX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#140]]]
++getMaxX() : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteRight.java.html#144]]]
 } 
 @enduml

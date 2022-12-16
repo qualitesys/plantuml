@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "h.ST_textlabel_t" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/h/ST_textlabel_t.java.html#30"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/h/ST_textlabel_t.java.html#74"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/h/ST_textlabel_t.java.html#35"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/h/ST_textlabel_t.java.html#79"
  , "c1" : "boolean"
  , "c2" : "isSameThan(__ptr__)"
  , "c3" : "1"
@@ -91,73 +91,73 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#11"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00011] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00055] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#12"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00012] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00056] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#13"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00013] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00057] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#19"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00019] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00063] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#20"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00020] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00064] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#23"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00023] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00067] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#25"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00025] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00069] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#27"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00027] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00071] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#31"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method h.ST_textlabel_t.toString@POLYN155274 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method h.ST_textlabel_t.toString@POLYN155538 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#35"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#79"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method isSameThan arguments __ptr__  other"
+ , "c3" : "QC-JAV000006[00079] For method isSameThan arguments __ptr__  other"
 }} 
 ]
 , 

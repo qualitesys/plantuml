@@ -2,13 +2,13 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.TextBlockVertical2"
 class net.sourceforge.plantuml.graphic.TextBlockVertical2 {
-TextBlockVertical2(TextBlock;TextBlock;HorizontalAlignment) : TextBlockVertical2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockVertical2.java.html#23]]]
-TextBlockVertical2(TextBlock;UImage;HorizontalAlignment) : TextBlockVertical2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockVertical2.java.html#29]]]
--convertImage(UImage) : AbstractTextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockVertical2.java.html#33]]]
-+TextBlockVertical2(List<TextBlock>;HorizontalAlignment) : TextBlockVertical2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockVertical2.java.html#46]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockVertical2.java.html#54]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockVertical2.java.html#62]]]
-+getPorts(StringBounder) : Ports [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockVertical2.java.html#91]]]
-+getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockVertical2.java.html#105]]]
+TextBlockVertical2(TextBlock;TextBlock;HorizontalAlignment) : TextBlockVertical2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockVertical2.java.html#57]]]
+TextBlockVertical2(TextBlock;UImage;HorizontalAlignment) : TextBlockVertical2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockVertical2.java.html#63]]]
+-convertImage(UImage) : AbstractTextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockVertical2.java.html#67]]]
++TextBlockVertical2(List<TextBlock>;HorizontalAlignment) : TextBlockVertical2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockVertical2.java.html#80]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockVertical2.java.html#88]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockVertical2.java.html#96]]]
++getPorts(StringBounder) : Ports [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockVertical2.java.html#125]]]
++getInnerPosition(String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockVertical2.java.html#139]]]
 } 
 @enduml

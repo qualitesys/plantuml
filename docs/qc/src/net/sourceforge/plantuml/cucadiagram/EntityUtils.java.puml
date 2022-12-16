@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.EntityUtils"
 class net.sourceforge.plantuml.cucadiagram.EntityUtils {
-+groupRoot(IGroup) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityUtils.java.html#6]]]
--isParent(IGroup;IGroup) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityUtils.java.html#13]]]
-+isPureInnerLink12(IGroup;Link) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityUtils.java.html#33]]]
-+isPureInnerLink3(IGroup;Link) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityUtils.java.html#47]]]
++groupRoot(IGroup) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityUtils.java.html#40]]]
+-isParent(IGroup;IGroup) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityUtils.java.html#47]]]
++isPureInnerLink12(IGroup;Link) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityUtils.java.html#67]]]
++isPureInnerLink3(IGroup;Link) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityUtils.java.html#81]]]
 } 
 @enduml

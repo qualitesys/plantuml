@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.dedication.Dedications"
 class net.sourceforge.plantuml.dedication.Dedications {
--secret(int;String;BigInteger) : DedicationCrypted [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Dedications.java.html#38]]]
--load(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Dedications.java.html#42]]]
--Dedications() : Dedications [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Dedications.java.html#49]]]
-+get(String) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Dedications.java.html#52]]]
+-secret(int;String;BigInteger) : DedicationCrypted [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Dedications.java.html#72]]]
+-load(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Dedications.java.html#76]]]
+-Dedications() : Dedications [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Dedications.java.html#83]]]
++get(String) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/Dedications.java.html#86]]]
 } 
 @enduml

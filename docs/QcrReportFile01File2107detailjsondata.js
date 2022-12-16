@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.skin.rose.Rose" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#65"
  , "c1" : "HColor"
  , "c2" : "getHtmlColor(ISkinParam;ColorParam)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#69"
  , "c1" : "HColor"
  , "c2" : "getHtmlColor(ISkinParam;Stereotype;ColorParam...)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#45"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#79"
  , "c1" : "void"
  , "c2" : "checkRose()"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#86"
  , "c1" : "Component"
  , "c2" : "createComponentNote(Style[];ComponentType;ISkinParam;Display;Colors)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#58"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#92"
  , "c1" : "Component"
  , "c2" : "createComponentNote(Style[];ComponentType;ISkinParam;Display;Colors;NotePosition)"
  , "c3" : "8"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#90"
+ , "c5" : "00124"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#124"
  , "c1" : "Component"
  , "c2" : "createComponent(Style[];ComponentType;ArrowConfiguration;ISkinParam;Display)"
  , "c3" : "41"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00227"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#227"
+ , "c5" : "00261"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#261"
  , "c1" : "double"
  , "c2" : "getMinClassWidth(Style)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00231"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#231"
+ , "c5" : "00265"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#265"
  , "c1" : "Component"
  , "c2" : "createComponentNewPage(ISkinParam)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00236"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#236"
+ , "c5" : "00270"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#270"
  , "c1" : "ArrowComponent"
  , "c2" : "createComponentArrow(Style[];ArrowConfiguration;ISkinParam;Display)"
  , "c3" : "23"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00289"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#289"
+ , "c5" : "00323"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#323"
  , "c1" : "UStroke"
  , "c2" : "getStroke(ISkinParam;LineParam;double)"
  , "c3" : "2"
@@ -170,976 +170,976 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method getHtmlColor arguments ISkinParam  skin|ColorParam  color"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.skin.rose.Rose.getHtmlColor@POLYN200085 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#35"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method getHtmlColor arguments ISkinParam  skin|Stereotype  stereotype|ColorParam  ...colorParams"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#35"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00035] The argument skin is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00037] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.skin.rose.Rose.getHtmlColor@POLYN200295 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.skin.rose.Rose.getHtmlColor@POLYN200295 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.skin.rose.Rose.getHtmlColor@POLYN200295 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.skin.rose.Rose.checkRose@POLYN200812 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#52"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method createComponentNote arguments Style[]  styles|ComponentType  type|ISkinParam  param|Display  stringsToDisplay|Colors  colors"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201058 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#58"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method createComponentNote arguments Style[]  styles|ComponentType  type|ISkinParam  param|Display  stringsToDisplay|Colors  colors|NotePosition  notePosition"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#58"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00058] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#58"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00058] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201459 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201459 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000006[00065] For method getHtmlColor arguments ISkinParam  skin|ColorParam  color"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201459 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.skin.rose.Rose.getHtmlColor@POLYN200289 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201459 the MagicNumber/String  false should be converted to const"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#69"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00069] For method getHtmlColor arguments ISkinParam  skin|Stereotype  stereotype|ColorParam  ...colorParams"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201459 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#69"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00069] The argument skin is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#73"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201459 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000001[00071] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#73"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201459 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.skin.rose.Rose.getHtmlColor@POLYN200499 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#78"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201459 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.rose.Rose.getHtmlColor@POLYN200499 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.skin.rose.Rose.getHtmlColor@POLYN200499 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201459 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.skin.rose.Rose.checkRose@POLYN201016 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201459 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#90"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#86"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00090] For method createComponent arguments Style[]  styles|ComponentType  type|ArrowConfiguration  config|ISkinParam  param|Display  stringsToDisplay"
+ , "c3" : "QC-JAV000006[00086] For method createComponentNote arguments Style[]  styles|ComponentType  type|ISkinParam  param|Display  stringsToDisplay|Colors  colors"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#90"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201262 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#92"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00092] For method createComponentNote arguments Style[]  styles|ComponentType  type|ISkinParam  param|Display  stringsToDisplay|Colors  colors|NotePosition  notePosition"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#92"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00090] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00092] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#90"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#92"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00090] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00092] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#97"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201663 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#101"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201663 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#101"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201663 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#104"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201663 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#109"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201663 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#109"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201663 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#110"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201663 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#110"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201663 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#113"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201663 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#113"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNote@POLYN201663 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#124"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00124] For method createComponent arguments Style[]  styles|ComponentType  type|ArrowConfiguration  config|ISkinParam  param|Display  stringsToDisplay"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  false should be converted to const"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#124"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00124] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#122"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#122"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#125"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#125"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  true should be converted to const"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#124"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00124] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#135"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#135"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#136"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#139"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#139"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#139"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#142"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#145"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#145"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#145"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#148"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#151"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#154"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#154"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#154"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#157"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#157"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#157"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#160"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#160"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#160"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#163"
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#163"
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#163"
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#166"
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#166"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#178"
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#178"
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#181"
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#181"
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#181"
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#184"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#184"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#184"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#187"
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#190"
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#190"
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#190"
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#193"
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#193"
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#193"
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#196"
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#196"
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#196"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00199"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#199"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00199"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#199"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00199"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#199"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#202"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00205"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#205"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#208"
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#208"
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#208"
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#197"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#197"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#197"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#200"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#200"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#200"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#212"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#212"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#215"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#215"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00218"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00218"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00222"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#222"
+ , "c1" : "00218"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203457 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#221"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  7 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#224"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#224"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#224"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#227"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00227] For method getMinClassWidth arguments Style  style"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#227"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00227] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#231"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00231] For method createComponentNewPage arguments ISkinParam  param"
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#227"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#230"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#230"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#230"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00233"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#233"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNewPage@POLYN214469 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00236"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#236"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00236] For method createComponentArrow arguments Style[]  styles|ArrowConfiguration  config|ISkinParam  param|Display  stringsToDisplay"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00236"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#236"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00236] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00236"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#236"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00236] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00241"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#241"
+ , "c1" : "00233"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#233"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentArrow@POLYN214744 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00233"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#233"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#236"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00239"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#239"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentArrow@POLYN214744 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#242"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#242"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#249"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00252"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#252"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentArrow@POLYN214744 the MagicNumber/String  'first' should be converted to const"
+ , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00252"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#252"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#256"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.skin.rose.Rose.createComponent@POLYN203661 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00261"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#261"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00261] For method getMinClassWidth arguments Style  style"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00261"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#261"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00261] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00265"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#265"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00265] For method createComponentNewPage arguments ISkinParam  param"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00267"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#267"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentArrow@POLYN214744 the MagicNumber/String  'direction' should be converted to const"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentNewPage@POLYN214673 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#270"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00270] For method createComponentArrow arguments Style[]  styles|ArrowConfiguration  config|ISkinParam  param|Display  stringsToDisplay"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#270"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00270] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#270"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00270] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00275"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#275"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentArrow@POLYN214744 the MagicNumber/String  'reversedirection' should be converted to const"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentArrow@POLYN214948 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00285"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#285"
+ , "c1" : "00276"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#276"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00285] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentArrow@POLYN214744 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentArrow@POLYN214948 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00286"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#286"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentArrow@POLYN214744 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentArrow@POLYN214948 the MagicNumber/String  'first' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00289"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#289"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#301"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentArrow@POLYN214948 the MagicNumber/String  'direction' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00309"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#309"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00309] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentArrow@POLYN214948 the MagicNumber/String  'reversedirection' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00319"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#319"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentArrow@POLYN214948 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00320"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#320"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.skin.rose.Rose.createComponentArrow@POLYN214948 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00323"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#323"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00289] For method getStroke arguments ISkinParam  param|LineParam  lineParam|double  defaultValue"
+ , "c3" : "QC-JAV000006[00323] For method getStroke arguments ISkinParam  param|LineParam  lineParam|double  defaultValue"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00289"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#289"
+ , "c1" : "00323"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#323"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00289] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00323] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00290"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#290"
+ , "c1" : "00324"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#324"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.skin.rose.Rose.getStroke@POLYN217880 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00324] In method net.sourceforge.plantuml.skin.rose.Rose.getStroke@POLYN218084 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00291"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#291"
+ , "c1" : "00325"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/Rose.java.html#325"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.skin.rose.Rose.getStroke@POLYN217880 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00325] In method net.sourceforge.plantuml.skin.rose.Rose.getStroke@POLYN218084 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

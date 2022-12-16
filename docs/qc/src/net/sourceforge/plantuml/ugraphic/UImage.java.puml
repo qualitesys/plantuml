@@ -2,18 +2,18 @@
 !pragma layout smetana
 "UShape" <|-- "net.sourceforge.plantuml.ugraphic.UImage"
 class net.sourceforge.plantuml.ugraphic.UImage {
-+UImage(MutableImage) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#13]]]
--UImage(MutableImage;String;String) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#17]]]
-+withRawFileName(String) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#23]]]
-+withFormula(String) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#27]]]
-+getRawFileName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#31]]]
-+getFormula() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#35]]]
-+scale(double) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#39]]]
-+getImage(double) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#43]]]
-+getWidth() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#48]]]
-+getHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#52]]]
-+muteColor(Color) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#56]]]
-+muteTransparentColor(Color) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#60]]]
-+monochrome() : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#64]]]
++UImage(MutableImage) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#47]]]
+-UImage(MutableImage;String;String) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#51]]]
++withRawFileName(String) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#57]]]
++withFormula(String) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#61]]]
++getRawFileName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#65]]]
++getFormula() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#69]]]
++scale(double) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#73]]]
++getImage(double) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#77]]]
++getWidth() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#82]]]
++getHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#86]]]
++muteColor(Color) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#90]]]
++muteTransparentColor(Color) : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#94]]]
++monochrome() : UImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#98]]]
 } 
 @enduml

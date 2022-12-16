@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.google.zxing.qrcode.decoder.ErrorCorrectionLevel" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#25"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#52"
  , "c1" : "ErrorCorrectionLevel"
  , "c2" : "ErrorCorrectionLevel(int;int;String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#31"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#58"
  , "c1" : "int"
  , "c2" : "ordinal()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#35"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#62"
  , "c1" : "int"
  , "c2" : "getBits()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#39"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#66"
  , "c1" : "String"
  , "c2" : "getName()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#43"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#70"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#48"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#78"
  , "c1" : "ErrorCorrectionLevel"
  , "c2" : "forBits(int)"
  , "c3" : "2"
@@ -120,17 +120,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#48"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method forBits arguments int  bits"
+ , "c3" : "QC-JAV000006[00078] For method forBits arguments int  bits"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#49"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.google.zxing.qrcode.decoder.ErrorCorrectionLevel.forBits@POLYN149315 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method ext.plantuml.com.google.zxing.qrcode.decoder.ErrorCorrectionLevel.forBits@POLYN149495 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

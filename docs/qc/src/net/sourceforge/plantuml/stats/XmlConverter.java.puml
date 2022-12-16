@@ -2,16 +2,16 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.stats.XmlConverter"
 class net.sourceforge.plantuml.stats.XmlConverter {
-+XmlConverter(Stats) : XmlConverter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#34]]]
--getDocument() : Document [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#38]]]
--addNode(Element;Document;StatsTable) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#59]]]
--toXmlName(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#76]]]
--toText(Object) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#80]]]
--getTransformer() : Transformer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#90]]]
-+createXml(OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#96]]]
-+toHtml() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#103]]]
--printTableHtml(StringBuilder;StatsTable) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#125]]]
--getCreoleLine(Collection<StatsColumn>;StatsLine;boolean) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#139]]]
--getHtmlHeader(Collection<StatsColumn>) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#174]]]
++XmlConverter(Stats) : XmlConverter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#68]]]
+-getDocument() : Document [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#72]]]
+-addNode(Element;Document;StatsTable) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#93]]]
+-toXmlName(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#110]]]
+-toText(Object) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#114]]]
+-getTransformer() : Transformer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#124]]]
++createXml(OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#130]]]
++toHtml() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#137]]]
+-printTableHtml(StringBuilder;StatsTable) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#159]]]
+-getCreoleLine(Collection<StatsColumn>;StatsLine;boolean) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#173]]]
+-getHtmlHeader(Collection<StatsColumn>) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/stats/XmlConverter.java.html#208]]]
 } 
 @enduml

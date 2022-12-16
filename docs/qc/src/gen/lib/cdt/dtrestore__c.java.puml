@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.cdt.dtrestore__c"
 class gen.lib.cdt.dtrestore__c {
-+dtrestore(ST_dt_s;ST_dtlink_s) : int [[[./../../../../.././qc/src/gen/lib/cdt/dtrestore__c.java.html#24]]]
++dtrestore(ST_dt_s;ST_dtlink_s) : int [[[./../../../../.././qc/src/gen/lib/cdt/dtrestore__c.java.html#73]]]
 } 
 @enduml

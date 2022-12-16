@@ -2,7 +2,7 @@
 !pragma layout smetana
 "SentenceSimple" <|-- "net.sourceforge.plantuml.project.lang.SentencePausesDayOfWeek"
 class net.sourceforge.plantuml.project.lang.SentencePausesDayOfWeek {
-+SentencePausesDayOfWeek() : SentencePausesDayOfWeek [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDayOfWeek.java.html#11]]]
-+execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDayOfWeek.java.html#16]]]
++SentencePausesDayOfWeek() : SentencePausesDayOfWeek [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDayOfWeek.java.html#45]]]
++execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDayOfWeek.java.html#50]]]
 } 
 @enduml

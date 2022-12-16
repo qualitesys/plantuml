@@ -2,9 +2,9 @@
 !pragma layout smetana
 "SingleLineCommand2<DescriptionDiagram>" <|-- "net.sourceforge.plantuml.descdiagram.command.CommandArchimate"
 class net.sourceforge.plantuml.descdiagram.command.CommandArchimate {
-+CommandArchimate() : CommandArchimate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimate.java.html#30]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimate.java.html#34]]]
--color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimate.java.html#84]]]
-executeArg(DescriptionDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimate.java.html#89]]]
++CommandArchimate() : CommandArchimate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimate.java.html#64]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimate.java.html#68]]]
+-color() : ColorParser [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimate.java.html#118]]]
+executeArg(DescriptionDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimate.java.html#123]]]
 } 
 @enduml

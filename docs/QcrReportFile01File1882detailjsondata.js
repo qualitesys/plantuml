@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.AbstractEvent" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#42"
  , "c1" : "boolean"
  , "c2" : "isParallel()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#46"
  , "c1" : "Url"
  , "c2" : "getUrl()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#50"
  , "c1" : "boolean"
  , "c2" : "hasUrl()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#54"
  , "c1" : "void"
  , "c2" : "setY(double)"
  , "c3" : "1"
@@ -116,45 +116,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#9"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00009] In method net.sourceforge.plantuml.sequencediagram.AbstractEvent.isParallel@POLYN145589 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.sequencediagram.AbstractEvent.isParallel@POLYN145793 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#13"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.sequencediagram.AbstractEvent.getUrl@POLYN145677 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.sequencediagram.AbstractEvent.getUrl@POLYN145881 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.sequencediagram.AbstractEvent.hasUrl@POLYN145765 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.sequencediagram.AbstractEvent.hasUrl@POLYN145969 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method setY arguments double  y"
+ , "c3" : "QC-JAV000006[00054] For method setY arguments double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#54"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00020] Void method setY is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00054] Void method setY is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#54"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00020] Void method setY is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00054] Void method setY is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

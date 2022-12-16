@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.real.PositiveForce"
 class net.sourceforge.plantuml.real.PositiveForce {
-+PositiveForce(Real;RealMoveable;double) : PositiveForce [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#14]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#26]]]
-+apply() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#30]]]
++PositiveForce(Real;RealMoveable;double) : PositiveForce [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#48]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#60]]]
++apply() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#64]]]
 } 
 @enduml

@@ -2,6 +2,6 @@
 !pragma layout smetana
 "UnsupportedStarStruct" <|-- "h.ST_Agrec_s"
 class h.ST_Agrec_s {
-+isSameThan(__ptr__) : boolean [[[./../../.././qc/src/h/ST_Agrec_s.java.html#15]]]
++isSameThan(__ptr__) : boolean [[[./../../.././qc/src/h/ST_Agrec_s.java.html#59]]]
 } 
 @enduml

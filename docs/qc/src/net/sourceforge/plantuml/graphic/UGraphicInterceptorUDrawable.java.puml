@@ -2,8 +2,8 @@
 !pragma layout smetana
 "UGraphicDelegator" <|-- "net.sourceforge.plantuml.graphic.UGraphicInterceptorUDrawable"
 class net.sourceforge.plantuml.graphic.UGraphicInterceptorUDrawable {
-+UGraphicInterceptorUDrawable(UGraphic) : UGraphicInterceptorUDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/UGraphicInterceptorUDrawable.java.html#10]]]
-+draw(UShape) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/UGraphicInterceptorUDrawable.java.html#14]]]
-+apply(UChange) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/UGraphicInterceptorUDrawable.java.html#24]]]
++UGraphicInterceptorUDrawable(UGraphic) : UGraphicInterceptorUDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/UGraphicInterceptorUDrawable.java.html#44]]]
++draw(UShape) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/UGraphicInterceptorUDrawable.java.html#48]]]
++apply(UChange) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/UGraphicInterceptorUDrawable.java.html#58]]]
 } 
 @enduml

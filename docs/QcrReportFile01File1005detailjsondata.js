@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.core.Diagram" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#16"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#68"
  , "c1" : "ImageData"
  , "c2" : "exportDiagram(OutputStream;int;FileFormatOption)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#19"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#75"
  , "c1" : "int"
  , "c2" : "getNbImages()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#21"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#77"
  , "c1" : "int"
  , "c2" : "getSplitPagesHorizontal()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#23"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#79"
  , "c1" : "int"
  , "c2" : "getSplitPagesVertical()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#25"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#81"
  , "c1" : "DiagramDescription"
  , "c2" : "getDescription()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#27"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#83"
  , "c1" : "String"
  , "c2" : "getMetadata()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#29"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#85"
  , "c1" : "String"
  , "c2" : "getWarningOrError()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#32"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#90"
  , "c1" : "UmlSource"
  , "c2" : "getSource()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#35"
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#95"
  , "c1" : "boolean"
  , "c2" : "hasUrl()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#37"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/core/Diagram.java.html#97"
  , "c1" : "Display"
  , "c2" : "getTitleDisplay()"
  , "c3" : "1"

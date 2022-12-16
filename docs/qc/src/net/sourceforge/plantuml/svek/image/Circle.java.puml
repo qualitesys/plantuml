@@ -2,13 +2,13 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.svek.image.Circle"
 class net.sourceforge.plantuml.svek.image.Circle {
-+Circle() : Circle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Circle.java.html#12]]]
-+Circle(XPoint2D) : Circle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Circle.java.html#16]]]
-+Circle(XPoint2D;XPoint2D) : Circle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Circle.java.html#21]]]
-+getCircle(XPoint2D;XPoint2D;XPoint2D) : Circle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Circle.java.html#26]]]
--Circle(XPoint2D;XPoint2D;XPoint2D) : Circle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Circle.java.html#33]]]
-+getCenter() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Circle.java.html#47]]]
-+getRadius() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Circle.java.html#51]]]
-+isOutside(XPoint2D) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Circle.java.html#55]]]
++Circle() : Circle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Circle.java.html#46]]]
++Circle(XPoint2D) : Circle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Circle.java.html#50]]]
++Circle(XPoint2D;XPoint2D) : Circle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Circle.java.html#55]]]
++getCircle(XPoint2D;XPoint2D;XPoint2D) : Circle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Circle.java.html#60]]]
+-Circle(XPoint2D;XPoint2D;XPoint2D) : Circle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Circle.java.html#67]]]
++getCenter() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Circle.java.html#81]]]
++getRadius() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Circle.java.html#85]]]
++isOutside(XPoint2D) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/Circle.java.html#89]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.real.RealLine" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#53"
  , "c1" : "void"
  , "c2" : "register(double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#59"
  , "c1" : "void"
  , "c2" : "register2(AbstractReal)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#63"
  , "c1" : "double"
  , "c2" : "getAbsoluteMin()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#67"
  , "c1" : "double"
  , "c2" : "getAbsoluteMax()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#71"
  , "c1" : "void"
  , "c2" : "addForce(PositiveForce)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#43"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#77"
  , "c1" : "void"
  , "c2" : "compile()"
  , "c3" : "10"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#85"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#119"
  , "c1" : "void"
  , "c2" : "printCounter(Map<PositiveForce,Integer>)"
  , "c3" : "3"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00094"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#94"
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#128"
  , "c1" : "void"
  , "c2" : "incCounter(Map<PositiveForce,Integer>;PositiveForce)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00099"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#99"
+ , "c5" : "00133"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#133"
  , "c1" : "Real"
  , "c2" : "asMaxAbsolute()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00103"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#103"
+ , "c5" : "00137"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#137"
  , "c1" : "Real"
  , "c2" : "asMinAbsolute()"
  , "c3" : "1"
@@ -191,206 +191,206 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00019] For method register arguments double  v"
+ , "c3" : "QC-JAV000006[00053] For method register arguments double  v"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method register2 arguments AbstractReal  abstractReal"
+ , "c3" : "QC-JAV000006[00059] For method register2 arguments AbstractReal  abstractReal"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#71"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method addForce arguments PositiveForce  force"
+ , "c3" : "QC-JAV000006[00071] For method addForce arguments PositiveForce  force"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#48"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00048] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00082] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#63"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00063] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00097] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159795 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159795 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159795 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159795 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159795 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159795 the MagicNumber/String  99999 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159795 the MagicNumber/String  'Inifinite Loop?' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159999 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159795 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159999 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#85"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#88"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159999 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159999 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#96"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159999 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#111"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159999 the MagicNumber/String  99999 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#113"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159999 the MagicNumber/String  'Inifinite Loop?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#115"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159999 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#119"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00085] For method printCounter arguments Map&lt;PositiveForce ,Integer &gt;  counter"
+ , "c3" : "QC-JAV000006[00119] For method printCounter arguments Map&lt;PositiveForce ,Integer &gt;  counter"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#85"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#119"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00085] The argument counter is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00119] The argument counter is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#87"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.real.RealLine.printCounter@POLYN161365 the MagicNumber/String  'force=' should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.real.RealLine.printCounter@POLYN161569 the MagicNumber/String  'force=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#90"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.real.RealLine.printCounter@POLYN161365 the MagicNumber/String  'count=' should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.real.RealLine.printCounter@POLYN161569 the MagicNumber/String  'count=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#90"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.real.RealLine.printCounter@POLYN161365 the MagicNumber/String  ' for ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#94"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00094] For method incCounter arguments Map&lt;PositiveForce ,Integer &gt;  counter|PositiveForce  f"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#94"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00094] The argument counter is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.real.RealLine.incCounter@POLYN161945 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.real.RealLine.incCounter@POLYN161945 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.real.RealLine.incCounter@POLYN161945 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.real.RealLine.printCounter@POLYN161569 the MagicNumber/String  ' for ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#128"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00128] For method addFixed arguments double  delta"
+ , "c3" : "QC-JAV000006[00128] For method incCounter arguments Map&lt;PositiveForce ,Integer &gt;  counter|PositiveForce  f"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#132"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#128"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00128] The argument counter is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.real.RealLine.incCounter@POLYN162149 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.real.RealLine.incCounter@POLYN162149 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#130"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.real.RealLine.incCounter@POLYN162149 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#162"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00132] For method addAtLeast arguments double  delta"
+ , "c3" : "QC-JAV000006[00162] For method addFixed arguments double  delta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#136"
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#166"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00136] For method ensureBiggerThan arguments Real  other"
+ , "c3" : "QC-JAV000006[00166] For method addAtLeast arguments double  delta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#121"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00121] Void method printCreationStackTrace is empty or contains only a return."
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#170"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00170] For method ensureBiggerThan arguments Real  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#121"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#155"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00121] Void method printCreationStackTrace is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000005[00155] Void method printCreationStackTrace is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#37"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#155"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00037] Public method addForce is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000004[00155] Void method printCreationStackTrace is empty or contains only a return. Interface segregation"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#71"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00071] Public method addForce is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ScaleMaxHeight" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#42"
  , "c1" : "ScaleMaxHeight"
  , "c2" : "ScaleMaxHeight(double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#46"
  , "c1" : "double"
  , "c2" : "getScaleInternal(double;double)"
  , "c3" : "2"
@@ -84,24 +84,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method getScaleInternal arguments double  width|double  height"
+ , "c3" : "QC-JAV000006[00046] For method getScaleInternal arguments double  width|double  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.ScaleMaxHeight.getScaleInternal@POLYN145786 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.ScaleMaxHeight.getScaleInternal@POLYN145990 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ScaleMaxHeight.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.ScaleMaxHeight.getScaleInternal@POLYN145786 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.ScaleMaxHeight.getScaleInternal@POLYN145990 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

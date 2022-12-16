@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.timingdiagram.Clocks"
 class net.sourceforge.plantuml.timingdiagram.Clocks {
-+getNow() : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Clocks.java.html#6]]]
-+getClockValue(String;int) : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Clocks.java.html#8]]]
-+getCodeValue(String) : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Clocks.java.html#10]]]
-+getTimingFormatDate() : TimingFormat [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Clocks.java.html#12]]]
++getNow() : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Clocks.java.html#39]]]
++getClockValue(String;int) : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Clocks.java.html#41]]]
++getCodeValue(String) : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Clocks.java.html#43]]]
++getTimingFormatDate() : TimingFormat [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/Clocks.java.html#45]]]
 } 
 @enduml

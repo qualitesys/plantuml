@@ -2,12 +2,12 @@
 !pragma layout smetana
 "Projection" <|-- "ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho"
 class ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho {
-+isVisible(Point3D) : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#11]]]
-+getLocation(int;int) : Coordinate [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#16]]]
-+projectX(double;double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#27]]]
-+inverseProjectX(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#32]]]
-+projectY(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#38]]]
-+inverseProjectY(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#43]]]
-setScale() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#49]]]
++isVisible(Point3D) : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#22]]]
++getLocation(int;int) : Coordinate [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#27]]]
++projectX(double;double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#40]]]
++inverseProjectX(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#45]]]
++projectY(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#53]]]
++inverseProjectY(double) : double [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#58]]]
+setScale() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#67]]]
 } 
 @enduml

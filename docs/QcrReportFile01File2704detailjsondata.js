@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#29"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#62"
  , "c1" : "UGraphicTikz"
  , "c2" : "UGraphicTikz(HColor;ColorMapper;StringBounder;double;boolean)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#35"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#68"
  , "c1" : "AbstractCommonUGraphic"
  , "c2" : "copyUGraphic()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#39"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#72"
  , "c1" : "UGraphicTikz"
  , "c2" : "UGraphicTikz(UGraphicTikz)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#44"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#77"
  , "c1" : "void"
  , "c2" : "register()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#60"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#93"
  , "c1" : "void"
  , "c2" : "startUrl(Url)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#65"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#98"
  , "c1" : "void"
  , "c2" : "closeUrl()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#70"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#103"
  , "c1" : "void"
  , "c2" : "writeToStream(OutputStream;String;int)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#75"
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#108"
  , "c1" : "boolean"
  , "c2" : "matchesProperty(String)"
  , "c3" : "2"
@@ -145,52 +145,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#60"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method startUrl arguments Url  url"
+ , "c3" : "QC-JAV000006[00093] For method startUrl arguments Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#60"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#93"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00060] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00093] The argument url is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#70"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#103"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00070] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
+ , "c3" : "QC-JAV000006[00103] For method writeToStream arguments OutputStream  os|String  metadata|int  dpi"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#75"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#108"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00075] For method matchesProperty arguments String  propertyName"
+ , "c3" : "QC-JAV000006[00108] For method matchesProperty arguments String  propertyName"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#76"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz.matchesProperty@POLYN161404 the MagicNumber/String  'SPECIALTXT' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz.matchesProperty@POLYN161602 the MagicNumber/String  'SPECIALTXT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#77"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz.matchesProperty@POLYN161404 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz.matchesProperty@POLYN161602 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#79"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz.matchesProperty@POLYN161404 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz.matchesProperty@POLYN161602 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

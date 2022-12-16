@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.SimpleCurveFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/jcckit/plot/SimpleCurveFactory.java.html#20"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/jcckit/plot/SimpleCurveFactory.java.html#53"
  , "c1" : "SimpleCurveFactory"
  , "c2" : "SimpleCurveFactory(ConfigParameters)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/jcckit/plot/SimpleCurveFactory.java.html#32"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/jcckit/plot/SimpleCurveFactory.java.html#75"
  , "c1" : "Curve"
  , "c2" : "create(int;int;ClippingShape;Legend)"
  , "c3" : "1"
@@ -91,38 +91,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/jcckit/plot/SimpleCurveFactory.java.html#20"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/jcckit/plot/SimpleCurveFactory.java.html#53"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00053] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/jcckit/plot/SimpleCurveFactory.java.html#21"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/jcckit/plot/SimpleCurveFactory.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method jcckit.plot.SimpleCurveFactory.SimpleCurveFactory@POLYN154626 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method jcckit.plot.SimpleCurveFactory.SimpleCurveFactory@POLYN154884 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/jcckit/plot/SimpleCurveFactory.java.html#22"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/jcckit/plot/SimpleCurveFactory.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method jcckit.plot.SimpleCurveFactory.SimpleCurveFactory@POLYN154626 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method jcckit.plot.SimpleCurveFactory.SimpleCurveFactory@POLYN154884 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/jcckit/plot/SimpleCurveFactory.java.html#25"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/jcckit/plot/SimpleCurveFactory.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method jcckit.plot.SimpleCurveFactory.SimpleCurveFactory@POLYN154626 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method jcckit.plot.SimpleCurveFactory.SimpleCurveFactory@POLYN154884 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/jcckit/plot/SimpleCurveFactory.java.html#32"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/jcckit/plot/SimpleCurveFactory.java.html#75"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method create arguments int  curveIndex|int  numberOfCurves|ClippingShape  clippingShape|Legend  legend"
+ , "c3" : "QC-JAV000006[00075] For method create arguments int  curveIndex|int  numberOfCurves|ClippingShape  clippingShape|Legend  legend"
 }} 
 ]
 , 

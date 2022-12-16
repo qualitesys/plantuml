@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.color.HColorAutomagic" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00007"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorAutomagic.java.html#7"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorAutomagic.java.html#40"
  , "c1" : "HColor"
  , "c2" : "getAppropriateColor(HColor)"
  , "c3" : "1"
@@ -75,17 +75,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorAutomagic.java.html#7"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorAutomagic.java.html#40"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00007] For method getAppropriateColor arguments HColor  back"
+ , "c3" : "QC-JAV000006[00040] For method getAppropriateColor arguments HColor  back"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorAutomagic.java.html#7"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorAutomagic.java.html#40"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00007] The argument back is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00040] The argument back is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

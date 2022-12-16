@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.ImageBuilder" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#93"
+ , "c5" : "00127"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#127"
  , "c1" : "ImageBuilder"
  , "c2" : "imageBuilder(FileFormatOption)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#97"
+ , "c5" : "00131"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#131"
  , "c1" : "ImageBuilder"
  , "c2" : "plainImageBuilder(UDrawable;FileFormatOption)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#101"
+ , "c5" : "00135"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#135"
  , "c1" : "ImageBuilder"
  , "c2" : "plainPngBuilder(UDrawable)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00105"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#105"
+ , "c5" : "00139"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#139"
  , "c1" : "ImageBuilder"
  , "c2" : "ImageBuilder(FileFormatOption)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#110"
+ , "c5" : "00144"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#144"
  , "c1" : "ImageBuilder"
  , "c2" : "annotations(boolean)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00115"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#115"
+ , "c5" : "00149"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#149"
  , "c1" : "ImageBuilder"
  , "c2" : "backcolor(HColor)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00120"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#120"
+ , "c5" : "00154"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#154"
  , "c1" : "ImageBuilder"
  , "c2" : "blackBackcolor()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00124"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#124"
+ , "c5" : "00158"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#158"
  , "c1" : "ImageBuilder"
  , "c2" : "dimension(XDimension2D)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00129"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#129"
+ , "c5" : "00163"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#163"
  , "c1" : "int"
  , "c2" : "getDpi()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00133"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#133"
+ , "c5" : "00167"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#167"
  , "c1" : "ImageBuilder"
  , "c2" : "drawable(UDrawable)"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00141"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#141"
+ , "c5" : "00175"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#175"
  , "c1" : "ImageBuilder"
  , "c2" : "margin(ClockwiseTopRightBottomLeft)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00146"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#146"
+ , "c5" : "00180"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#180"
  , "c1" : "ImageBuilder"
  , "c2" : "metadata(String)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00151"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#151"
+ , "c5" : "00185"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#185"
  , "c1" : "ImageBuilder"
  , "c2" : "randomPixel()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00156"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#156"
+ , "c5" : "00190"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#190"
  , "c1" : "ImageBuilder"
  , "c2" : "seed(long)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00161"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#161"
+ , "c5" : "00195"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#195"
  , "c1" : "ImageBuilder"
  , "c2" : "status(int)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00166"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#166"
+ , "c5" : "00200"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#200"
  , "c1" : "String"
  , "c2" : "getSvgLinkTarget()"
  , "c3" : "5"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00176"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#176"
+ , "c5" : "00210"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#210"
  , "c1" : "ImageBuilder"
  , "c2" : "warningOrError(String)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00181"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#181"
+ , "c5" : "00215"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#215"
  , "c1" : "ImageBuilder"
  , "c2" : "styled(TitledDiagram)"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00195"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#195"
+ , "c5" : "00229"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#229"
  , "c1" : "ImageData"
  , "c2" : "write(OutputStream)"
  , "c3" : "5"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00215"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#215"
+ , "c5" : "00249"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#249"
  , "c1" : "byte[]"
  , "c2" : "writeByteArray()"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00222"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#222"
+ , "c5" : "00256"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#256"
  , "c1" : "ImageData"
  , "c2" : "writeImageInternal(OutputStream;Animation)"
  , "c3" : "6"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00261"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#261"
+ , "c5" : "00295"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#295"
  , "c1" : "void"
  , "c2" : "maybeDrawBorder(UGraphic;XDimension2D)"
  , "c3" : "4"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00280"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#280"
+ , "c5" : "00314"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#314"
  , "c1" : "void"
  , "c2" : "drawRandomPoint(UGraphic)"
  , "c3" : "1"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00290"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#290"
+ , "c5" : "00324"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#324"
  , "c1" : "XDimension2D"
  , "c2" : "getFinalDimension()"
  , "c3" : "2"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00300"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#300"
+ , "c5" : "00334"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#334"
  , "c1" : "UGraphic"
  , "c2" : "handwritten(UGraphic)"
  , "c3" : "2"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00311"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#311"
+ , "c5" : "00345"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#345"
  , "c1" : "ImageData"
  , "c2" : "writeImageMjpeg(OutputStream)"
  , "c3" : "2"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00338"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#338"
+ , "c5" : "00372"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#372"
  , "c1" : "ImageData"
  , "c2" : "writeImageAnimatedGif(OutputStream)"
  , "c3" : "2"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00361"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#361"
+ , "c5" : "00395"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#395"
  , "c1" : "Image"
  , "c2" : "getAviImage(AffineTransformation)"
  , "c3" : "1"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00368"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#368"
+ , "c5" : "00402"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#402"
  , "c1" : "UGraphic"
  , "c2" : "createUGraphic(XDimension2D;Animation;double;double;double;Pragma)"
  , "c3" : "13"
@@ -279,8 +279,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00402"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#402"
+ , "c5" : "00436"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#436"
  , "c1" : "UGraphic"
  , "c2" : "createUGraphicSVG(double;XDimension2D;boolean)"
  , "c3" : "1"
@@ -288,8 +288,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00415"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#415"
+ , "c5" : "00449"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#449"
  , "c1" : "UGraphic"
  , "c2" : "createUGraphicPNG(double;XDimension2D;Animation;double;double;String)"
  , "c3" : "4"
@@ -297,8 +297,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00441"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#441"
+ , "c5" : "00475"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#475"
  , "c1" : "HColor"
  , "c2" : "getDefaultHBackColor()"
  , "c3" : "1"
@@ -306,8 +306,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00445"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#445"
+ , "c5" : "00479"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#479"
  , "c1" : "String"
  , "c2" : "getHoverPathColorRGB()"
  , "c3" : "5"
@@ -315,8 +315,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00457"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#457"
+ , "c5" : "00491"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#491"
  , "c1" : "ClockwiseTopRightBottomLeft"
  , "c2" : "calculateMargin(TitledDiagram)"
  , "c3" : "2"
@@ -324,8 +324,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00466"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#466"
+ , "c5" : "00500"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#500"
  , "c1" : "String"
  , "c2" : "getPreserveAspectRatio()"
  , "c3" : "5"
@@ -333,8 +333,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00476"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#476"
+ , "c5" : "00510"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#510"
  , "c1" : "ImageDataSimple"
  , "c2" : "createImageData(XDimension2D)"
  , "c3" : "1"
@@ -411,885 +411,885 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#93"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#127"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00093] For method imageBuilder arguments FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00127] For method imageBuilder arguments FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#97"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#131"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method plainImageBuilder arguments UDrawable  drawable|FileFormatOption  fileFormatOption"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#101"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00101] For method plainPngBuilder arguments UDrawable  drawable"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#105"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00105] The argument fileFormatOption is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#110"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method annotations arguments boolean  annotations"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#115"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00115] For method backcolor arguments HColor  backcolor"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#124"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00124] For method dimension arguments XDimension2D  dimension"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getDpi@POLYN229745 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getDpi@POLYN229745 the MagicNumber/String  96 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#133"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00133] For method drawable arguments UDrawable  drawable"
+ , "c3" : "QC-JAV000006[00131] For method plainImageBuilder arguments UDrawable  drawable|FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#135"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00135] For method plainPngBuilder arguments UDrawable  drawable"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#139"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00139] The argument fileFormatOption is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#144"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00144] For method annotations arguments boolean  annotations"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#149"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00149] For method backcolor arguments HColor  backcolor"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#158"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00158] For method dimension arguments XDimension2D  dimension"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.drawable@POLYN229921 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getDpi@POLYN229949 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#141"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00141] For method margin arguments ClockwiseTopRightBottomLeft  margin"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#146"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00146] For method metadata arguments String  metadata"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#152"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.randomPixel@POLYN230642 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#156"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00156] For method seed arguments long  seed"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#161"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00161] For method status arguments int  status"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getDpi@POLYN229949 the MagicNumber/String  96 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#167"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getSvgLinkTarget@POLYN231132 the MagicNumber/String  null should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00167] For method drawable arguments UDrawable  drawable"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getSvgLinkTarget@POLYN231132 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.drawable@POLYN230125 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#172"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getSvgLinkTarget@POLYN231132 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#176"
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#175"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00176] For method warningOrError arguments String  warningOrError"
+ , "c3" : "QC-JAV000006[00175] For method margin arguments ClockwiseTopRightBottomLeft  margin"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#181"
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#180"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00181] For method styled arguments TitledDiagram  diagram"
+ , "c3" : "QC-JAV000006[00180] For method metadata arguments String  metadata"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#181"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00181] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#185"
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.styled@POLYN231630 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.randomPixel@POLYN230846 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00188"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#188"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.styled@POLYN231630 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#190"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00190] For method seed arguments long  seed"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#195"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00195] For method write arguments OutputStream  os"
+ , "c3" : "QC-JAV000006[00195] For method status arguments int  status"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#196"
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.write@POLYN232534 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getSvgLinkTarget@POLYN231336 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#198"
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.write@POLYN232534 the MagicNumber/String  'udrawable is not a TextBlock' should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getSvgLinkTarget@POLYN231336 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00206"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#206"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getSvgLinkTarget@POLYN231336 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#210"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00210] For method warningOrError arguments String  warningOrError"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#215"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00215] For method styled arguments TitledDiagram  diagram"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#215"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00215] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#219"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.styled@POLYN231834 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00222"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#222"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.styled@POLYN231834 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#229"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00222] For method writeImageInternal arguments OutputStream  os|Animation  animationArg"
+ , "c3" : "QC-JAV000006[00229] For method write arguments OutputStream  os"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00222"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#222"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00222] The argument os is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00224"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#224"
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#230"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN233943 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.write@POLYN232738 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#225"
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN233943 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.write@POLYN232738 the MagicNumber/String  'udrawable is not a TextBlock' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00226"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#226"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN233943 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#233"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN233943 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#233"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN233943 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00234"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#234"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN233943 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00234"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#234"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN233943 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00235"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#235"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN233943 the MagicNumber/String  96.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00236"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#236"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN233943 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00237"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#237"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN233943 the MagicNumber/String  'Bad scaleFactor' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00240"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#240"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN233943 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00248"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#248"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN233943 the MagicNumber/String  96 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00253"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#253"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN233943 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00261"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#261"
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#256"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00261] For method maybeDrawBorder arguments UGraphic  ug|XDimension2D  dim"
+ , "c3" : "QC-JAV000006[00256] For method writeImageInternal arguments OutputStream  os|Animation  animationArg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00261"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#261"
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#256"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00261] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00256] The argument os is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00261"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#261"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00261] The argument dim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00262"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#262"
+ , "c1" : "00258"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#258"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.maybeDrawBorder@POLYN236935 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN234147 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#259"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN234147 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#260"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN234147 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00267"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#267"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.maybeDrawBorder@POLYN236935 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN234147 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00267"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#267"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN234147 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00268"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#268"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.maybeDrawBorder@POLYN236935 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN234147 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00268"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#268"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.maybeDrawBorder@POLYN236935 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN234147 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00269"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#269"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN234147 the MagicNumber/String  96.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00270"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#270"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.maybeDrawBorder@POLYN236935 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN234147 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00275"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#275"
+ , "c1" : "00271"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#271"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.maybeDrawBorder@POLYN236935 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN234147 the MagicNumber/String  'Bad scaleFactor' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00277"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#277"
+ , "c1" : "00274"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#274"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.maybeDrawBorder@POLYN236935 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00280"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#280"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00280] For method drawRandomPoint arguments UGraphic  ug2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00280"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#280"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00280] The argument ug2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00274] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN234147 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00282"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#282"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00282] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.drawRandomPoint@POLYN238197 the MagicNumber/String  40 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#283"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.drawRandomPoint@POLYN238197 the MagicNumber/String  40 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00284"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#284"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00284] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.drawRandomPoint@POLYN238197 the MagicNumber/String  40 should be converted to const"
+ , "c3" : "QC-JAV000010[00282] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN234147 the MagicNumber/String  96 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00287"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#287"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00287] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.drawRandomPoint@POLYN238197 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00287"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#287"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00287] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.drawRandomPoint@POLYN238197 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00291"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#291"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getFinalDimension@POLYN239124 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00292"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#292"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getFinalDimension@POLYN239124 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00294"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#294"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getFinalDimension@POLYN239124 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00287] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal@POLYN234147 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00295"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#295"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getFinalDimension@POLYN239124 the MagicNumber/String  1 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00295] For method maybeDrawBorder arguments UGraphic  ug|XDimension2D  dim"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00300"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#300"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00300] For method handwritten arguments UGraphic  ug"
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#295"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00295] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#295"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00295] The argument dim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00296"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#296"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00296] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.maybeDrawBorder@POLYN237139 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00301"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.handwritten@POLYN239850 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.maybeDrawBorder@POLYN237139 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00302"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#302"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.maybeDrawBorder@POLYN237139 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00302"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#302"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.maybeDrawBorder@POLYN237139 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00304"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#304"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.maybeDrawBorder@POLYN237139 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00309"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#309"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00309] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.maybeDrawBorder@POLYN237139 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00311"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#311"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00311] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.maybeDrawBorder@POLYN237139 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00314"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#314"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00311] For method writeImageMjpeg arguments OutputStream  os"
+ , "c3" : "QC-JAV000006[00314] For method drawRandomPoint arguments UGraphic  ug2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00322"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#322"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00322] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00314"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#314"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00314] The argument ug2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00315"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#315"
+ , "c1" : "00316"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#316"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00315] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240129 the MagicNumber/String  'c:/tmp.avi' should be converted to const"
+ , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.drawRandomPoint@POLYN238401 the MagicNumber/String  40 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00317"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#317"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240129 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.drawRandomPoint@POLYN238401 the MagicNumber/String  40 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00319"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#319"
+ , "c1" : "00318"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#318"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240129 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00319"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#319"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240129 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00320"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#320"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240129 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00320"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#320"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240129 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00320"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#320"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240129 the MagicNumber/String  12.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00318] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.drawRandomPoint@POLYN238401 the MagicNumber/String  40 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00321"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#321"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00321] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240129 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00321] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.drawRandomPoint@POLYN238401 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00323"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#323"
+ , "c1" : "00321"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#321"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00323] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240129 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00323"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#323"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00323] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240129 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00324"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#324"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00324] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240129 the MagicNumber/String  90.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00324"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#324"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00324] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240129 the MagicNumber/String  180.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00324"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#324"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00324] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240129 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00321] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.drawRandomPoint@POLYN238401 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00325"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#325"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00325] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240129 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00325] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getFinalDimension@POLYN239328 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00325"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#325"
+ , "c1" : "00326"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#326"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00325] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240129 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00326] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getFinalDimension@POLYN239328 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00338"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#338"
+ , "c1" : "00328"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#328"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00328] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getFinalDimension@POLYN239328 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00329"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#329"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00329] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getFinalDimension@POLYN239328 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00334"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#334"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00338] For method writeImageAnimatedGif arguments OutputStream  os"
+ , "c3" : "QC-JAV000006[00334] For method handwritten arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00335"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#335"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00335] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.handwritten@POLYN240054 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00345"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#345"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00345] For method writeImageMjpeg arguments OutputStream  os"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00356"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#356"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00356] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00349"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#349"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00349] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240333 the MagicNumber/String  'c:/tmp.avi' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00351"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#351"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00351] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240333 the MagicNumber/String  100 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00353"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#353"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00353] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240333 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00353"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#353"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00353] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240333 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00354"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#354"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00354] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00354] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240333 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00354"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#354"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00354] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240333 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00354"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#354"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00354] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240333 the MagicNumber/String  12.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00355"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#355"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00355] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00355] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240333 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00346"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#346"
+ , "c1" : "00357"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#357"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00346] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageAnimatedGif@POLYN241787 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00357] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240333 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00350"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#350"
+ , "c1" : "00357"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#357"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00350] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageAnimatedGif@POLYN241787 the MagicNumber/String  60 should be converted to const"
+ , "c3" : "QC-JAV000010[00357] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240333 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00361"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#361"
+ , "c1" : "00358"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#358"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00358] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240333 the MagicNumber/String  90.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00358"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#358"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00358] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240333 the MagicNumber/String  180.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00358"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#358"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00358] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240333 the MagicNumber/String  100 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00359"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#359"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00359] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240333 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00359"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#359"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00359] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageMjpeg@POLYN240333 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00372"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#372"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00361] For method getAviImage arguments AffineTransformation  affineTransform"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00368"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#368"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00368] For method createUGraphic arguments XDimension2D  dim|Animation  animationArg|double  dx|double  dy|double  scaleFactor|Pragma  pragma"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00369"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#369"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00369] The argument pragma is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00375"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#375"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00375] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphic@POLYN243227 the MagicNumber/String  'true' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00375"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#375"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00375] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphic@POLYN243227 the MagicNumber/String  'svginteractive' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00386"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#386"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00386] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphic@POLYN243227 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000006[00372] For method writeImageAnimatedGif arguments OutputStream  os"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00388"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#388"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00388] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphic@POLYN243227 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000001[00388] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00389"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#389"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00389] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00380"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#380"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00380] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageAnimatedGif@POLYN241991 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00384"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#384"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00384] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageAnimatedGif@POLYN241991 the MagicNumber/String  60 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00395"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#395"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00395] For method getAviImage arguments AffineTransformation  affineTransform"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00402"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#402"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00402] For method createUGraphicSVG arguments double  scaleFactor|XDimension2D  dim|boolean  interactive"
+ , "c3" : "QC-JAV000006[00402] For method createUGraphic arguments XDimension2D  dim|Animation  animationArg|double  dx|double  dy|double  scaleFactor|Pragma  pragma"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00404"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#404"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00404] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicSVG@POLYN245842 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00406"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#406"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00406] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicSVG@POLYN245842 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00403"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#403"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00403] The argument pragma is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00409"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#409"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00409] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicSVG@POLYN245842 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00409] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphic@POLYN243431 the MagicNumber/String  'true' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00415"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#415"
+ , "c1" : "00409"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#409"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00409] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphic@POLYN243431 the MagicNumber/String  'svginteractive' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00420"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#420"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00420] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphic@POLYN243431 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00422"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#422"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00422] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphic@POLYN243431 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00436"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#436"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00415] For method createUGraphicPNG arguments double  scaleFactor|XDimension2D  dim|Animation  affineTransforms|double  dx|double  dy|String  watermark"
+ , "c3" : "QC-JAV000006[00436] For method createUGraphicSVG arguments double  scaleFactor|XDimension2D  dim|boolean  interactive"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00415"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#415"
+ , "c1" : "00438"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#438"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00438] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicSVG@POLYN246046 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00440"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#440"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00440] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicSVG@POLYN246046 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00443"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#443"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00443] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicSVG@POLYN246046 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00449"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#449"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00449] For method createUGraphicPNG arguments double  scaleFactor|XDimension2D  dim|Animation  affineTransforms|double  dx|double  dy|String  watermark"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00449"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#449"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00415] The argument dim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00449] The argument dim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00417"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#417"
+ , "c1" : "00451"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#451"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00417] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN246894 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00451] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN247098 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00417"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#417"
+ , "c1" : "00451"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#451"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00417] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN246894 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00451] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN247098 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00417"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#417"
+ , "c1" : "00451"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#451"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00417] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN246894 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00451] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN247098 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00417"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#417"
+ , "c1" : "00451"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#451"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00417] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN246894 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00451] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN247098 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00424"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#424"
+ , "c1" : "00458"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#458"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00424] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN246894 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00458] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN247098 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00424"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#424"
+ , "c1" : "00458"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#458"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00424] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN246894 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00458] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN247098 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00424"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#424"
+ , "c1" : "00458"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#458"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00424] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN246894 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00458] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN247098 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00424"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#424"
+ , "c1" : "00458"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#458"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00424] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN246894 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00458] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN247098 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00431"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#431"
+ , "c1" : "00465"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#465"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00431] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN246894 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00465] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN247098 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00431"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#431"
+ , "c1" : "00465"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#465"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00431] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN246894 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00465] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.createUGraphicPNG@POLYN247098 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00446"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#446"
+ , "c1" : "00480"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#480"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00446] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getHoverPathColorRGB@POLYN249288 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00480] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getHoverPathColorRGB@POLYN249492 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00448"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#448"
+ , "c1" : "00482"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#482"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00448] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getHoverPathColorRGB@POLYN249288 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00482] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getHoverPathColorRGB@POLYN249492 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00450"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#450"
+ , "c1" : "00484"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#484"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00450] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getHoverPathColorRGB@POLYN249288 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00484] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getHoverPathColorRGB@POLYN249492 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00454"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#454"
+ , "c1" : "00488"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#488"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00454] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getHoverPathColorRGB@POLYN249288 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00488] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getHoverPathColorRGB@POLYN249492 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00457"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#457"
+ , "c1" : "00491"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#491"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00457] For method calculateMargin arguments TitledDiagram  diagram"
+ , "c3" : "QC-JAV000006[00491] For method calculateMargin arguments TitledDiagram  diagram"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00457"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#457"
+ , "c1" : "00491"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#491"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00457] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00491] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00467"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#467"
+ , "c1" : "00501"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#501"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00467] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getPreserveAspectRatio@POLYN250311 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00501] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getPreserveAspectRatio@POLYN250515 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00469"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#469"
+ , "c1" : "00503"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#503"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00469] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getPreserveAspectRatio@POLYN250311 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00503] In method net.sourceforge.plantuml.ugraphic.ImageBuilder.getPreserveAspectRatio@POLYN250515 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00476"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#476"
+ , "c1" : "00510"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#510"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00476] For method createImageData arguments XDimension2D  dim"
+ , "c3" : "QC-JAV000006[00510] For method createImageData arguments XDimension2D  dim"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#101"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#135"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00101] Public method plainPngBuilder is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00135] Public method plainPngBuilder is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#115"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#149"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00115] Public method backcolor is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00149] Public method backcolor is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#120"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#154"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00120] Public method blackBackcolor is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00154] Public method blackBackcolor is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#141"
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#175"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00141] Public method margin is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00175] Public method margin is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#156"
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#190"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00156] Public method seed is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00190] Public method seed is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#161"
+ , "c1" : "00195"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#195"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00161] Public method status is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00195] Public method status is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00215"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#215"
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ImageBuilder.java.html#249"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00215] Public method writeByteArray is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00249] Public method writeByteArray is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

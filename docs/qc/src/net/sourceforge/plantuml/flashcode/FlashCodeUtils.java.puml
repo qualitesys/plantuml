@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.flashcode.FlashCodeUtils"
 class net.sourceforge.plantuml.flashcode.FlashCodeUtils {
-+exportFlashcode(String;Color;Color) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flashcode/FlashCodeUtils.java.html#9]]]
++exportFlashcode(String;Color;Color) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flashcode/FlashCodeUtils.java.html#43]]]
 } 
 @enduml

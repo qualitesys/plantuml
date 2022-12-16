@@ -2,14 +2,14 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.AnnotatedBuilder"
 class net.sourceforge.plantuml.AnnotatedBuilder {
-+AnnotatedBuilder(Annotated;ISkinParam;StringBounder) : AnnotatedBuilder [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#35]]]
-+hasMainFrame() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#41]]]
-+mainFrameSuppHeight() : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#45]]]
-+decoreWithFrame(TextBlock) : TextBlock [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#59]]]
--getSkinParam() : ISkinParam [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#123]]]
-+getLegend() : TextBlock [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#127]]]
-+getTitle() : TextBlock [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#132]]]
-+getCaption() : TextBlock [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#141]]]
-+addHeaderAndFooter(TextBlock) : TextBlock [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#153]]]
++AnnotatedBuilder(Annotated;ISkinParam;StringBounder) : AnnotatedBuilder [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#69]]]
++hasMainFrame() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#75]]]
++mainFrameSuppHeight() : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#79]]]
++decoreWithFrame(TextBlock) : TextBlock [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#93]]]
+-getSkinParam() : ISkinParam [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#157]]]
++getLegend() : TextBlock [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#161]]]
++getTitle() : TextBlock [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#166]]]
++getCaption() : TextBlock [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#175]]]
++addHeaderAndFooter(TextBlock) : TextBlock [[[./../../../../.././qc/src/net/sourceforge/plantuml/AnnotatedBuilder.java.html#187]]]
 } 
 @enduml

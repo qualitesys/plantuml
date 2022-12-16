@@ -2,10 +2,10 @@
 !pragma layout smetana
 "SingleMultiFactoryCommand<SequenceDiagram>" <|-- "net.sourceforge.plantuml.command.note.sequence.FactorySequenceNoteOnArrowCommand"
 class net.sourceforge.plantuml.command.note.sequence.FactorySequenceNoteOnArrowCommand {
--getRegexConcatMultiLine() : IRegex [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteOnArrowCommand.java.html#39]]]
--getRegexConcatSingleLine() : IRegex [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteOnArrowCommand.java.html#53]]]
-+createSingleLine() : Command<SequenceDiagram> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteOnArrowCommand.java.html#71]]]
-+createMultiLine(boolean) : Command<SequenceDiagram> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteOnArrowCommand.java.html#83]]]
--executeInternal(SequenceDiagram;RegexResult;BlocLines) : CommandExecutionResult [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteOnArrowCommand.java.html#103]]]
+-getRegexConcatMultiLine() : IRegex [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteOnArrowCommand.java.html#73]]]
+-getRegexConcatSingleLine() : IRegex [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteOnArrowCommand.java.html#87]]]
++createSingleLine() : Command<SequenceDiagram> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteOnArrowCommand.java.html#105]]]
++createMultiLine(boolean) : Command<SequenceDiagram> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteOnArrowCommand.java.html#117]]]
+-executeInternal(SequenceDiagram;RegexResult;BlocLines) : CommandExecutionResult [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/sequence/FactorySequenceNoteOnArrowCommand.java.html#137]]]
 } 
 @enduml

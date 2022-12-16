@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.brotli.Dictionary"
 class net.sourceforge.plantuml.brotli.Dictionary {
-+setData(ByteBuffer) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html#43]]]
-+getData() : ByteBuffer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html#43]]]
++setData(ByteBuffer) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html#45]]]
++getData() : ByteBuffer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html#45]]]
 } 
 @enduml

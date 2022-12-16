@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractSymbolFactory" <|-- "jcckit.plot.BarFactory"
 class jcckit.plot.BarFactory {
-+BarFactory(ConfigParameters) : BarFactory [[[./../../../.././qc/src/jcckit/plot/BarFactory.java.html#21]]]
-createSymbol(GraphPoint;GraphicAttributes;Hint;Hint) : Symbol [[[./../../../.././qc/src/jcckit/plot/BarFactory.java.html#28]]]
-+createLegendSymbol(GraphPoint;double) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/BarFactory.java.html#59]]]
-createPlainSymbol(GraphPoint;double;GraphicAttributes) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/BarFactory.java.html#65]]]
++BarFactory(ConfigParameters) : BarFactory [[[./../../../.././qc/src/jcckit/plot/BarFactory.java.html#69]]]
+createSymbol(GraphPoint;GraphicAttributes;Hint;Hint) : Symbol [[[./../../../.././qc/src/jcckit/plot/BarFactory.java.html#83]]]
++createLegendSymbol(GraphPoint;double) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/BarFactory.java.html#118]]]
+createPlainSymbol(GraphPoint;double;GraphicAttributes) : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/BarFactory.java.html#127]]]
 } 
 @enduml

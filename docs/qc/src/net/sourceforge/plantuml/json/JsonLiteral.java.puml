@@ -2,15 +2,15 @@
 !pragma layout smetana
 "JsonValue" <|-- "net.sourceforge.plantuml.json.JsonLiteral"
 class net.sourceforge.plantuml.json.JsonLiteral {
-JsonLiteral(String) : JsonLiteral [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#78]]]
-write(JsonWriter) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#78]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#78]]]
-+hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#78]]]
-+isNull() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#78]]]
-+isTrue() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#78]]]
-+isFalse() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#78]]]
-+isBoolean() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#78]]]
-+asBoolean() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#78]]]
-+equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#78]]]
+JsonLiteral(String) : JsonLiteral [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#82]]]
+write(JsonWriter) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#82]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#82]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#82]]]
++isNull() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#82]]]
++isTrue() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#82]]]
++isFalse() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#82]]]
++isBoolean() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#82]]]
++asBoolean() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#82]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/JsonLiteral.java.html#82]]]
 } 
 @enduml

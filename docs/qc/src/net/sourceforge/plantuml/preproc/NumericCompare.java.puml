@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.preproc.NumericCompare"
 class net.sourceforge.plantuml.preproc.NumericCompare {
-+NumericCompare(String) : NumericCompare [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/NumericCompare.java.html#8]]]
-+isCompareOk(int;int) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/NumericCompare.java.html#12]]]
++NumericCompare(String) : NumericCompare [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/NumericCompare.java.html#42]]]
++isCompareOk(int;int) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/NumericCompare.java.html#46]]]
 } 
 @enduml

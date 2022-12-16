@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<TimingDiagram>" <|-- "net.sourceforge.plantuml.timingdiagram.command.CommandAnalog"
 class net.sourceforge.plantuml.timingdiagram.command.CommandAnalog {
-+CommandAnalog() : CommandAnalog [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandAnalog.java.html#18]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandAnalog.java.html#22]]]
-executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandAnalog.java.html#54]]]
++CommandAnalog() : CommandAnalog [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandAnalog.java.html#52]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandAnalog.java.html#56]]]
+executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandAnalog.java.html#88]]]
 } 
 @enduml

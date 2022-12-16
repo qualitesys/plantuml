@@ -2,13 +2,13 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.renderer.Renderer"
 class ext.plantuml.com.ctreber.acearth.renderer.Renderer {
-+Renderer(RenderTarget) : Renderer [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#16]]]
-+render() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#20]]]
--renderRows() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#29]]]
--getPixelTypes(int) : int[] [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#37]]]
--renderRow(int;int[]) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#51]]]
-+setShader(Shader) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#59]]]
-+setRenderTarget(RenderTarget) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#63]]]
-+addRowTypeRenderer(RowTypeRenderer) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#67]]]
++Renderer(RenderTarget) : Renderer [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#25]]]
++render() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#29]]]
+-renderRows() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#38]]]
+-getPixelTypes(int) : int[] [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#53]]]
+-renderRow(int;int[]) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#73]]]
++setShader(Shader) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#81]]]
++setRenderTarget(RenderTarget) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#85]]]
++addRowTypeRenderer(RowTypeRenderer) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#89]]]
 } 
 @enduml

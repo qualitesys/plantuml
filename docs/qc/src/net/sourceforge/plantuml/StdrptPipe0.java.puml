@@ -2,8 +2,8 @@
 !pragma layout smetana
 "Stdrpt" <|-- "net.sourceforge.plantuml.StdrptPipe0"
 class net.sourceforge.plantuml.StdrptPipe0 {
-+printInfo(PrintStream;Diagram) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#12]]]
-+finalMessage(ErrorStatus) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#24]]]
-+errorLine(int;File) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#33]]]
++printInfo(PrintStream;Diagram) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#46]]]
++finalMessage(ErrorStatus) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#58]]]
++errorLine(int;File) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#67]]]
 } 
 @enduml

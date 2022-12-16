@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.dotgen.class1__c"
 class gen.lib.dotgen.class1__c {
-+nonconstraint_edge(ST_Agedge_s) : boolean [[[./../../../../.././qc/src/gen/lib/dotgen/class1__c.java.html#44]]]
-+interclust1(ST_Agraph_s;ST_Agnode_s;ST_Agnode_s;ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/class1__c.java.html#66]]]
-+class1_(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/class1__c.java.html#106]]]
++nonconstraint_edge(ST_Agedge_s) : boolean [[[./../../../../.././qc/src/gen/lib/dotgen/class1__c.java.html#88]]]
++interclust1(ST_Agraph_s;ST_Agnode_s;ST_Agnode_s;ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/class1__c.java.html#110]]]
++class1_(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/class1__c.java.html#150]]]
 } 
 @enduml

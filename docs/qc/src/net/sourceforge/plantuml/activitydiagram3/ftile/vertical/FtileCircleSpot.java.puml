@@ -2,12 +2,12 @@
 !pragma layout smetana
 "AbstractFtile" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleSpot"
 class net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleSpot {
-+FtileCircleSpot(ISkinParam;Swimlane;String;UFont;HColor;Style) : FtileCircleSpot [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleSpot.java.html#35]]]
-+getMyChildren() : Collection<Ftile> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleSpot.java.html#46]]]
-+getSwimlanes() : Set<Swimlane> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleSpot.java.html#50]]]
-+getSwimlaneIn() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleSpot.java.html#57]]]
-+getSwimlaneOut() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleSpot.java.html#61]]]
-+drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleSpot.java.html#65]]]
-calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleSpot.java.html#83]]]
++FtileCircleSpot(ISkinParam;Swimlane;String;UFont;HColor;Style) : FtileCircleSpot [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleSpot.java.html#69]]]
++getMyChildren() : Collection<Ftile> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleSpot.java.html#80]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleSpot.java.html#84]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleSpot.java.html#91]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleSpot.java.html#95]]]
++drawU(UGraphic) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleSpot.java.html#99]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileCircleSpot.java.html#117]]]
 } 
 @enduml

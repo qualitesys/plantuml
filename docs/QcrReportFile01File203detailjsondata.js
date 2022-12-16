@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "h.ST_BestPos_t" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/h/ST_BestPos_t.java.html#14"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/h/ST_BestPos_t.java.html#58"
  , "c1" : "__struct__"
  , "c2" : "copy()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/h/ST_BestPos_t.java.html#22"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/h/ST_BestPos_t.java.html#66"
  , "c1" : "void"
  , "c2" : "___(__struct__)"
  , "c3" : "1"
@@ -84,24 +84,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/h/ST_BestPos_t.java.html#9"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/h/ST_BestPos_t.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00009] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00053] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/h/ST_BestPos_t.java.html#10"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/h/ST_BestPos_t.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00010] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00054] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/h/ST_BestPos_t.java.html#22"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/h/ST_BestPos_t.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method ___ arguments __struct__  other"
+ , "c3" : "QC-JAV000006[00066] For method ___ arguments __struct__  other"
 }} 
 ]
 , 

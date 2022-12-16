@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.code.StringCompressorNone" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/StringCompressorNone.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/StringCompressorNone.java.html#42"
  , "c1" : "String"
  , "c2" : "compress(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/StringCompressorNone.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/StringCompressorNone.java.html#46"
  , "c1" : "String"
  , "c2" : "decompress(String)"
  , "c3" : "1"
@@ -77,17 +77,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/StringCompressorNone.java.html#8"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/StringCompressorNone.java.html#42"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00008] For method compress arguments String  s"
+ , "c3" : "QC-JAV000006[00042] For method compress arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/StringCompressorNone.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/StringCompressorNone.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method decompress arguments String  stringAnnoted"
+ , "c3" : "QC-JAV000006[00046] For method decompress arguments String  stringAnnoted"
 }} 
 ]
 , 

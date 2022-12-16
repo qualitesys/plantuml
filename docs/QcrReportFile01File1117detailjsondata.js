@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.MagmaList" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/MagmaList.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/MagmaList.java.html#45"
  , "c1" : "void"
  , "c2" : "add(Magma)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/MagmaList.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/MagmaList.java.html#49"
  , "c1" : "MagmaList"
  , "c2" : "getMagmas(IGroup)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/MagmaList.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/MagmaList.java.html#59"
  , "c1" : "int"
  , "c2" : "size()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/MagmaList.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/MagmaList.java.html#63"
  , "c1" : "void"
  , "c2" : "putInSquare()"
  , "c3" : "1"
@@ -95,17 +95,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MagmaList.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MagmaList.java.html#45"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00011] For method add arguments Magma  magma"
+ , "c3" : "QC-JAV000006[00045] For method add arguments Magma  magma"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MagmaList.java.html#15"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MagmaList.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method getMagmas arguments IGroup  group"
+ , "c3" : "QC-JAV000006[00049] For method getMagmas arguments IGroup  group"
 }} 
 ]
 , 

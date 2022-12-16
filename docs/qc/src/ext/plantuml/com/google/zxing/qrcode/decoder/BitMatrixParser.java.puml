@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser"
 class ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser {
-BitMatrixParser(BitMatrix) : BitMatrixParser [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#16]]]
-readFormatInformation() : FormatInformation [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#25]]]
-readVersion() : Version [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#64]]]
--copyBit(int;int;int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#106]]]
-readCodewords() : byte[] [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#111]]]
+BitMatrixParser(BitMatrix) : BitMatrixParser [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#35]]]
+readFormatInformation() : FormatInformation [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#50]]]
+readVersion() : Version [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#95]]]
+-copyBit(int;int;int) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#137]]]
+readCodewords() : byte[] [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#149]]]
 } 
 @enduml

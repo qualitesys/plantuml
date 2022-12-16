@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.code.ByteArray"
 class net.sourceforge.plantuml.code.ByteArray {
--ByteArray(byte[];int) : ByteArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/ByteArray.java.html#14]]]
-+from(byte[]) : ByteArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/ByteArray.java.html#19]]]
-+toUFT8String() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/ByteArray.java.html#23]]]
-+toUPF9String() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/ByteArray.java.html#27]]]
-+getByteAt(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/ByteArray.java.html#31]]]
-+length() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/ByteArray.java.html#35]]]
+-ByteArray(byte[];int) : ByteArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/ByteArray.java.html#48]]]
++from(byte[]) : ByteArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/ByteArray.java.html#53]]]
++toUFT8String() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/ByteArray.java.html#57]]]
++toUPF9String() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/ByteArray.java.html#61]]]
++getByteAt(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/ByteArray.java.html#65]]]
++length() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/ByteArray.java.html#69]]]
 } 
 @enduml

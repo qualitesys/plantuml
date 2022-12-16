@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.TileBuilder"
 class net.sourceforge.plantuml.sequencediagram.teoz.TileBuilder {
-+buildSeveral(Iterator<Event>;TileArguments;Tile;YGauge) : List<Tile> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileBuilder.java.html#31]]]
-+buildOne(Iterator<Event>;TileArguments;Event;Tile;YGauge) : List<Tile> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileBuilder.java.html#48]]]
++buildSeveral(Iterator<Event>;TileArguments;Tile;YGauge) : List<Tile> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileBuilder.java.html#65]]]
++buildOne(Iterator<Event>;TileArguments;Event;Tile;YGauge) : List<Tile> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileBuilder.java.html#82]]]
 } 
 @enduml

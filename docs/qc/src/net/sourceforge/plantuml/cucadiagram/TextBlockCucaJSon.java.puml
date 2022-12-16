@@ -2,14 +2,14 @@
 !pragma layout smetana
 "AbstractTextBlockWithPorts" <|-- "net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon"
 class net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon {
-+TextBlockCucaJSon(FontConfiguration;ISkinParam;JsonValue;LineBreakStrategy) : TextBlockCucaJSon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#32]]]
--getJsonTextBlock() : TextBlockJson [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#40]]]
-+getPorts(StringBounder) : Ports [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#49]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#53]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#57]]]
--getTextBlockValue(JsonValue;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#128]]]
--getTextBlock(String) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#142]]]
--getFontConfiguration() : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#187]]]
-+setTotalWidth(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#191]]]
++TextBlockCucaJSon(FontConfiguration;ISkinParam;JsonValue;LineBreakStrategy) : TextBlockCucaJSon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#66]]]
+-getJsonTextBlock() : TextBlockJson [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#74]]]
++getPorts(StringBounder) : Ports [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#83]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#87]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#91]]]
+-getTextBlockValue(JsonValue;double) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#162]]]
+-getTextBlock(String) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#176]]]
+-getFontConfiguration() : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#221]]]
++setTotalWidth(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#225]]]
 } 
 @enduml

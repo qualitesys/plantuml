@@ -2,16 +2,16 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "ext.plantuml.com.google.zxing.datamatrix.decoder.Version"
 class ext.plantuml.com.google.zxing.datamatrix.decoder.Version {
--Version(int;int;int;int;int;ECBlocks) : Version [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#20]]]
-+getVersionNumber() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#44]]]
-+getSymbolSizeRows() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#48]]]
-+getSymbolSizeColumns() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#52]]]
-+getDataRegionSizeRows() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#56]]]
-+getDataRegionSizeColumns() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#60]]]
-+getTotalCodewords() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#64]]]
-getECBlocks() : ECBlocks [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#68]]]
-+getVersionForDimensions(int;int) : Version [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#73]]]
-+toString() : String [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#135]]]
--buildVersions() : Version[] [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#140]]]
+-Version(int;int;int;int;int;ECBlocks) : Version [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#39]]]
++getVersionNumber() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#63]]]
++getSymbolSizeRows() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#67]]]
++getSymbolSizeColumns() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#71]]]
++getDataRegionSizeRows() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#75]]]
++getDataRegionSizeColumns() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#79]]]
++getTotalCodewords() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#83]]]
+getECBlocks() : ECBlocks [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#87]]]
++getVersionForDimensions(int;int) : Version [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#99]]]
++toString() : String [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#170]]]
+-buildVersions() : Version[] [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html#177]]]
 } 
 @enduml

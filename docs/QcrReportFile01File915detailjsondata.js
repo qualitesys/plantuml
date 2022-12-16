@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.command.BlocLines" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#59"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#69"
  , "c1" : "BlocLines"
  , "c2" : "load(SFile;LineLocation)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#43"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#77"
  , "c1" : "BlocLines"
  , "c2" : "load(InputStream;LineLocation)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#82"
  , "c1" : "BlocLines"
  , "c2" : "from(List<StringLocated>)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#86"
  , "c1" : "BlocLines"
  , "c2" : "loadInternal(BufferedReader;LineLocation)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#64"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#98"
  , "c1" : "BlocLines"
  , "c2" : "BlocLines(List<StringLocated>)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#68"
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#102"
  , "c1" : "Display"
  , "c2" : "toDisplay()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00072"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#72"
+ , "c5" : "00106"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#106"
  , "c1" : "BlocLines"
  , "c2" : "single(StringLocated)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#78"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#112"
  , "c1" : "BlocLines"
  , "c2" : "singleString(String)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#84"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#118"
  , "c1" : "BlocLines"
  , "c2" : "fromArray(String[])"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00092"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#92"
+ , "c5" : "00126"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#126"
  , "c1" : "BlocLines"
  , "c2" : "getWithNewlines(String)"
  , "c3" : "2"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00100"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#100"
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#134"
  , "c1" : "BlocLines"
  , "c2" : "create()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00104"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#104"
+ , "c5" : "00138"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#138"
  , "c1" : "BlocLines"
  , "c2" : "add(StringLocated)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#110"
+ , "c5" : "00144"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#144"
  , "c1" : "BlocLines"
  , "c2" : "addString(String)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00116"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#116"
+ , "c5" : "00150"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#150"
  , "c1" : "List<String>"
  , "c2" : "getLinesAsStringForSprite()"
  , "c3" : "2"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00124"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#124"
+ , "c5" : "00158"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#158"
  , "c1" : "int"
  , "c2" : "size()"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00128"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#128"
+ , "c5" : "00162"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#162"
  , "c1" : "StringLocated"
  , "c2" : "getAt(int)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#132"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#166"
  , "c1" : "StringLocated"
  , "c2" : "getFirst()"
  , "c3" : "2"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00139"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#139"
+ , "c5" : "00173"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#173"
  , "c1" : "StringLocated"
  , "c2" : "getLast()"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00143"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#143"
+ , "c5" : "00177"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#177"
  , "c1" : "BlocLines"
  , "c2" : "cleanList(MultilinesStrategy)"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00149"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#149"
+ , "c5" : "00183"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#183"
  , "c1" : "BlocLines"
  , "c2" : "trim()"
  , "c3" : "2"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00158"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#158"
+ , "c5" : "00192"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#192"
  , "c1" : "BlocLines"
  , "c2" : "removeEmptyLines()"
  , "c3" : "3"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00176"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#176"
+ , "c5" : "00210"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#210"
  , "c1" : "BlocLines"
  , "c2" : "removeEmptyColumns()"
  , "c3" : "6"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00192"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#192"
+ , "c5" : "00226"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#226"
  , "c1" : "boolean"
  , "c2" : "firstColumnRemovable(List<StringLocated>)"
  , "c3" : "4"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00207"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#207"
+ , "c5" : "00241"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#241"
  , "c1" : "char"
  , "c2" : "getLastChar()"
  , "c3" : "1"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00212"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#212"
+ , "c5" : "00246"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#246"
  , "c1" : "BlocLines"
  , "c2" : "removeStartingAndEnding(String;int)"
  , "c3" : "2"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00224"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#224"
+ , "c5" : "00258"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#258"
  , "c1" : "BlocLines"
  , "c2" : "overrideLastLine(String)"
  , "c3" : "2"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00235"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#235"
+ , "c5" : "00269"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#269"
  , "c1" : "BlocLines"
  , "c2" : "toSingleLineWithHiddenNewLine()"
  , "c3" : "2"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00244"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#244"
+ , "c5" : "00278"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#278"
  , "c1" : "BlocLines"
  , "c2" : "trimSmart(int)"
  , "c3" : "3"
@@ -279,8 +279,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00257"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#257"
+ , "c5" : "00291"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#291"
  , "c1" : "int"
  , "c2" : "nbStartingSpace(CharSequence)"
  , "c3" : "2"
@@ -288,8 +288,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00265"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#265"
+ , "c5" : "00299"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#299"
  , "c1" : "boolean"
  , "c2" : "isSpaceOrTab(char)"
  , "c3" : "1"
@@ -297,8 +297,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00269"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#269"
+ , "c5" : "00303"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#303"
  , "c1" : "StringLocated"
  , "c2" : "removeStartingSpaces(StringLocated;int)"
  , "c3" : "4"
@@ -306,8 +306,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00283"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#283"
+ , "c5" : "00317"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#317"
  , "c1" : "BlocLines"
  , "c2" : "subExtract(int;int)"
  , "c3" : "1"
@@ -315,8 +315,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00289"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#289"
+ , "c5" : "00323"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#323"
  , "c1" : "BlocLines"
  , "c2" : "subList(int;int)"
  , "c3" : "1"
@@ -324,8 +324,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00293"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#293"
+ , "c5" : "00327"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#327"
  , "c1" : "Iterator<StringLocated>"
  , "c2" : "iterator()"
  , "c3" : "1"
@@ -333,8 +333,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00297"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#297"
+ , "c5" : "00331"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#331"
  , "c1" : "BlocLines"
  , "c2" : "eventuallyMoveBracket()"
  , "c3" : "3"
@@ -342,8 +342,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00313"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#313"
+ , "c5" : "00347"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#347"
  , "c1" : "BlocLines"
  , "c2" : "eventuallyMoveAllEmptyBracket()"
  , "c3" : "5"
@@ -351,8 +351,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00329"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#329"
+ , "c5" : "00363"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#363"
  , "c1" : "BlocLines"
  , "c2" : "removeFewChars(int)"
  , "c3" : "1"
@@ -436,633 +436,633 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.command.BlocLines.toString@POLYN199937 the MagicNumber/String  '&amp;lt;&amp;lt;&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.BlocLines.toString@POLYN200141 the MagicNumber/String  '&amp;lt;&amp;lt;&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.command.BlocLines.toString@POLYN199937 the MagicNumber/String  '&amp;gt;&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.command.BlocLines.toString@POLYN200141 the MagicNumber/String  '&amp;gt;&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method load arguments SFile  f|LineLocation  location"
+ , "c3" : "QC-JAV000006[00069] For method load arguments SFile  f|LineLocation  location"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.command.BlocLines.load@POLYN200421 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.command.BlocLines.load@POLYN200421 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#43"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method load arguments InputStream  is|LineLocation  location"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#48"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method from arguments List&lt;StringLocated &gt;  lines"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#52"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method loadInternal arguments BufferedReader  br|LineLocation  location"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#52"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00052] The argument br is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00056] Assigning instead of comparing on s=br.readLine() (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.command.BlocLines.loadInternal@POLYN201308 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.command.BlocLines.load@POLYN200625 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#72"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00072] For method single arguments StringLocated  single"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#78"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method singleString arguments String  single"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.command.BlocLines.singleString@POLYN202632 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.command.BlocLines.load@POLYN200625 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#84"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00084] For method fromArray arguments String[]  array"
+ , "c3" : "QC-JAV000006[00077] For method load arguments InputStream  is|LineLocation  location"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#87"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#82"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00082] For method from arguments List&lt;StringLocated &gt;  lines"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#86"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00086] For method loadInternal arguments BufferedReader  br|LineLocation  location"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#86"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00086] The argument br is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.command.BlocLines.fromArray@POLYN203026 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAVCWE481[00090] Assigning instead of comparing on s=br.readLine() (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#92"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00092] For method getWithNewlines arguments String  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#95"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.command.BlocLines.getWithNewlines@POLYN203485 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.command.BlocLines.loadInternal@POLYN201512 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#104"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#106"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00104] For method add arguments StringLocated  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#110"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method addString arguments String  s"
+ , "c3" : "QC-JAV000006[00106] For method single arguments StringLocated  single"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#112"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.command.BlocLines.addString@POLYN204485 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#128"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00128] For method getAt arguments int  i"
+ , "c3" : "QC-JAV000006[00112] For method singleString arguments String  single"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#133"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.command.BlocLines.getFirst@POLYN205513 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.command.BlocLines.singleString@POLYN202836 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#134"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.command.BlocLines.getFirst@POLYN205513 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.command.BlocLines.getFirst@POLYN205513 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.command.BlocLines.getLast@POLYN205753 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#143"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#118"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00143] For method cleanList arguments MultilinesStrategy  strategy"
+ , "c3" : "QC-JAV000006[00118] For method fromArray arguments String[]  array"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#143"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00143] The argument strategy is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#152"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00152] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.command.BlocLines.fromArray@POLYN203230 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#151"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.command.BlocLines.trim@POLYN206268 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#126"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00126] For method getWithNewlines arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#161"
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.command.BlocLines.removeEmptyLines@POLYN206917 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.command.BlocLines.getWithNewlines@POLYN203689 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#183"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00183] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#138"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00138] For method add arguments StringLocated  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#183"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#144"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00144] For method addString arguments String  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00183] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.command.BlocLines.addString@POLYN204689 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#162"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00162] For method getAt arguments int  i"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.command.BlocLines.getFirst@POLYN205717 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.command.BlocLines.getFirst@POLYN205717 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#170"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.command.BlocLines.getFirst@POLYN205717 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.command.BlocLines.getLast@POLYN205957 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#177"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.command.BlocLines.removeEmptyColumns@POLYN207496 the MagicNumber/String  false should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00177] For method cleanList arguments MultilinesStrategy  strategy"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00182"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#182"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.command.BlocLines.removeEmptyColumns@POLYN207496 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#177"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00177] The argument strategy is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#184"
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.command.BlocLines.removeEmptyColumns@POLYN207496 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00186] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.command.BlocLines.removeEmptyColumns@POLYN207496 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#192"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00192] For method firstColumnRemovable arguments List&lt;StringLocated &gt;  data"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.command.BlocLines.firstColumnRemovable@POLYN208540 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.command.BlocLines.trim@POLYN206472 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.command.BlocLines.firstColumnRemovable@POLYN208540 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#198"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.command.BlocLines.firstColumnRemovable@POLYN208540 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00199"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#199"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.command.BlocLines.firstColumnRemovable@POLYN208540 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00200"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#200"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.command.BlocLines.firstColumnRemovable@POLYN208540 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00200"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#200"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.command.BlocLines.firstColumnRemovable@POLYN208540 the MagicNumber/String  '\t' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#201"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.command.BlocLines.firstColumnRemovable@POLYN208540 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00204"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#204"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.command.BlocLines.firstColumnRemovable@POLYN208540 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#208"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.command.BlocLines.getLastChar@POLYN209255 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00209"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#209"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.command.BlocLines.getLastChar@POLYN209255 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00212"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#212"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00212] For method removeStartingAndEnding arguments String  data|int  removeAtEnd"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#213"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.command.BlocLines.removeStartingAndEnding@POLYN209607 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.command.BlocLines.removeEmptyLines@POLYN207121 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00217"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.command.BlocLines.removeStartingAndEnding@POLYN209607 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00217] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00217"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.command.BlocLines.removeStartingAndEnding@POLYN209607 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00217] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#211"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.command.BlocLines.removeEmptyColumns@POLYN207700 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#216"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.command.BlocLines.removeEmptyColumns@POLYN207700 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00218"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.command.BlocLines.removeStartingAndEnding@POLYN209607 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.command.BlocLines.removeEmptyColumns@POLYN207700 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00220"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#220"
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#219"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.command.BlocLines.removeStartingAndEnding@POLYN209607 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.command.BlocLines.removeEmptyColumns@POLYN207700 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00224"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#224"
+ , "c1" : "00226"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#226"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00224] For method overrideLastLine arguments String  last"
+ , "c3" : "QC-JAV000006[00226] For method firstColumnRemovable arguments List&lt;StringLocated &gt;  data"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#225"
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.command.BlocLines.overrideLastLine@POLYN210594 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.command.BlocLines.firstColumnRemovable@POLYN208744 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.command.BlocLines.overrideLastLine@POLYN210594 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.command.BlocLines.firstColumnRemovable@POLYN208744 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00241"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#241"
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.command.BlocLines.toSingleLineWithHiddenNewLine@POLYN211354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.command.BlocLines.firstColumnRemovable@POLYN208744 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00241"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#241"
+ , "c1" : "00233"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#233"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.command.BlocLines.toSingleLineWithHiddenNewLine@POLYN211354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.command.BlocLines.firstColumnRemovable@POLYN208744 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#244"
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#234"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.command.BlocLines.firstColumnRemovable@POLYN208744 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#234"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.command.BlocLines.firstColumnRemovable@POLYN208744 the MagicNumber/String  '\t' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00235"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#235"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.command.BlocLines.firstColumnRemovable@POLYN208744 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00238"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#238"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.command.BlocLines.firstColumnRemovable@POLYN208744 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#242"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.command.BlocLines.getLastChar@POLYN209459 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00243"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#243"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.command.BlocLines.getLastChar@POLYN209459 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00246"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#246"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00244] For method trimSmart arguments int  referenceLine"
+ , "c3" : "QC-JAV000006[00246] For method removeStartingAndEnding arguments String  data|int  removeAtEnd"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00247"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#247"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.command.BlocLines.removeStartingAndEnding@POLYN209811 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00251"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#251"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00251] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.command.BlocLines.removeStartingAndEnding@POLYN209811 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00257"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#257"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00257] For method nbStartingSpace arguments CharSequence  s"
+ , "c1" : "00251"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#251"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.command.BlocLines.removeStartingAndEnding@POLYN209811 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00252"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#252"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.command.BlocLines.removeStartingAndEnding@POLYN209811 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00254"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#254"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.command.BlocLines.removeStartingAndEnding@POLYN209811 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00258"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#258"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.command.BlocLines.nbStartingSpace@POLYN212900 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00265"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#265"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00265] For method isSpaceOrTab arguments char  c"
+ , "c3" : "QC-JAV000006[00258] For method overrideLastLine arguments String  last"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00266"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#266"
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#259"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.command.BlocLines.isSpaceOrTab@POLYN213275 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.command.BlocLines.overrideLastLine@POLYN210798 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00266"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#266"
+ , "c1" : "00263"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#263"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.command.BlocLines.isSpaceOrTab@POLYN213275 the MagicNumber/String  '\t' should be converted to const"
+ , "c3" : "QC-JAV000010[00263] In method net.sourceforge.plantuml.command.BlocLines.overrideLastLine@POLYN210798 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00269"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#269"
+ , "c1" : "00275"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#275"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.command.BlocLines.toSingleLineWithHiddenNewLine@POLYN211558 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00275"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#275"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.command.BlocLines.toSingleLineWithHiddenNewLine@POLYN211558 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00278"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#278"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00269] For method removeStartingSpaces arguments StringLocated  arg|int  nbStartingSpace"
+ , "c3" : "QC-JAV000006[00278] For method trimSmart arguments int  referenceLine"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00269"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#269"
+ , "c1" : "00285"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#285"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00285] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00291"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#291"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00291] For method nbStartingSpace arguments CharSequence  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00292"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#292"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.command.BlocLines.nbStartingSpace@POLYN213104 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00299"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#299"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00299] For method isSpaceOrTab arguments char  c"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00300"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#300"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00300] In method net.sourceforge.plantuml.command.BlocLines.isSpaceOrTab@POLYN213479 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00300"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#300"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00300] In method net.sourceforge.plantuml.command.BlocLines.isSpaceOrTab@POLYN213479 the MagicNumber/String  '\t' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00303"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#303"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00303] For method removeStartingSpaces arguments StringLocated  arg|int  nbStartingSpace"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00303"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#303"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00269] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00303] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00274"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#274"
+ , "c1" : "00308"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#308"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00274] The same method call isSpaceOrTab(arg.getString().charAt(i)) is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00270"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#270"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.command.BlocLines.removeStartingSpaces@POLYN213458 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00273"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#273"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.command.BlocLines.removeStartingSpaces@POLYN213458 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00277"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#277"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.command.BlocLines.removeStartingSpaces@POLYN213458 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#283"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00283] For method subExtract arguments int  margeStart|int  margeEnd"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00289"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#289"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00289] For method subList arguments int  start|int  end"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00298"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#298"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveBracket@POLYN215071 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00302"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#302"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveBracket@POLYN215071 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00303"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#303"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveBracket@POLYN215071 the MagicNumber/String  '{' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00303"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#303"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveBracket@POLYN215071 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00303"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#303"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveBracket@POLYN215071 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000021[00308] The same method call isSpaceOrTab(arg.getString().charAt(i)) is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00304"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#304"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveBracket@POLYN215071 the MagicNumber/String  ' {' should be converted to const"
+ , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.command.BlocLines.removeStartingSpaces@POLYN213662 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00307"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#307"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveBracket@POLYN215071 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.command.BlocLines.removeStartingSpaces@POLYN213662 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00319"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#319"
+ , "c1" : "00311"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#311"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00319] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00316"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#316"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveAllEmptyBracket@POLYN216220 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00311] In method net.sourceforge.plantuml.command.BlocLines.removeStartingSpaces@POLYN213662 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00317"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#317"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveAllEmptyBracket@POLYN216220 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00318"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#318"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00318] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveAllEmptyBracket@POLYN216220 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00320"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#320"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveAllEmptyBracket@POLYN216220 the MagicNumber/String  ' {' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00329"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#329"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00329] For method removeFewChars arguments int  nb"
+ , "c3" : "QC-JAV000006[00317] For method subExtract arguments int  margeStart|int  margeEnd"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00323"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#323"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00323] For method subList arguments int  start|int  end"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00332"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#332"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.command.BlocLines.removeFewChars@POLYN217164 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveBracket@POLYN215275 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00332"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#332"
+ , "c1" : "00336"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#336"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.command.BlocLines.removeFewChars@POLYN217164 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveBracket@POLYN215275 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00334"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#334"
+ , "c1" : "00337"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#337"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00334] In method net.sourceforge.plantuml.command.BlocLines.removeFewChars@POLYN217164 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveBracket@POLYN215275 the MagicNumber/String  '{' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00337"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#337"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveBracket@POLYN215275 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00337"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#337"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveBracket@POLYN215275 the MagicNumber/String  '{' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00338"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#338"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00338] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveBracket@POLYN215275 the MagicNumber/String  ' {' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00341"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#341"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00341] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveBracket@POLYN215275 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00353"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#353"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00353] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00350"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#350"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00350] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveAllEmptyBracket@POLYN216424 the MagicNumber/String  '{' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00351"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#351"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00351] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveAllEmptyBracket@POLYN216424 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00352"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#352"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00352] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveAllEmptyBracket@POLYN216424 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00354"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#354"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00354] In method net.sourceforge.plantuml.command.BlocLines.eventuallyMoveAllEmptyBracket@POLYN216424 the MagicNumber/String  ' {' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00363"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#363"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00363] For method removeFewChars arguments int  nb"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00366"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#366"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00366] In method net.sourceforge.plantuml.command.BlocLines.removeFewChars@POLYN217368 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00366"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#366"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00366] In method net.sourceforge.plantuml.command.BlocLines.removeFewChars@POLYN217368 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00368"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#368"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00368] In method net.sourceforge.plantuml.command.BlocLines.removeFewChars@POLYN217368 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

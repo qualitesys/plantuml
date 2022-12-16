@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#33"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#68"
  , "c1" : "double"
  , "c2" : "getMeanSunLongitude(double)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#54"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#96"
  , "c1" : "double"
  , "c2" : "getSunEclipticLongitude(long)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#65"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#107"
  , "c1" : "double"
  , "c2" : "daysSinceEpoch(long)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#71"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#118"
  , "c1" : "double"
  , "c2" : "doKepler(double)"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00092"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#92"
+ , "c5" : "00149"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#149"
  , "c1" : "double"
  , "c2" : "getJulianDate(int;int;int)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#110"
+ , "c5" : "00173"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#173"
  , "c1" : "double"
  , "c2" : "getGST(long)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00140"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#140"
+ , "c5" : "00212"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#212"
  , "c1" : "Coordinate"
  , "c2" : "getSunPositionOnEarth(long)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00151"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#151"
+ , "c5" : "00232"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#232"
  , "c1" : "Coordinate"
  , "c2" : "getMoonPositionOnEarth(long)"
  , "c3" : "1"
@@ -145,521 +145,521 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#33"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method getMeanSunLongitude arguments double  pDays"
+ , "c3" : "QC-JAV000006[00068] For method getMeanSunLongitude arguments double  pDays"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#33"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00033] For method getMeanSunLongitude list of called methods Object monObjet|double Toolkit_fmodN184099"
+ , "c3" : "QC-JAV000007[00068] For method getMeanSunLongitude list of called methods Object monObjet|double Toolkit_fmodN184585"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#38"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMeanSunLongitude@POLYN183886 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMeanSunLongitude@POLYN184372 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#39"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMeanSunLongitude@POLYN183886 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMeanSunLongitude@POLYN183886 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#54"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00054] For method getSunEclipticLongitude arguments long  pMillis"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#54"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00054] For method getSunEclipticLongitude list of called methods Object monObjet|double daysSinceEpochN184888|double getMeanSunLongitudeN184979|double doKeplerN185070"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getSunEclipticLongitude@POLYN184786 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getSunEclipticLongitude@POLYN184786 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getSunEclipticLongitude@POLYN184786 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getSunEclipticLongitude@POLYN184786 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#65"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00065] For method daysSinceEpoch arguments long  pMillis"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.daysSinceEpoch@POLYN185572 the MagicNumber/String  24 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.daysSinceEpoch@POLYN185572 the MagicNumber/String  3600 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.daysSinceEpoch@POLYN185572 the MagicNumber/String  1000 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#71"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method doKepler arguments double  M"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.doKepler@POLYN185924 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMeanSunLongitude@POLYN184372 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.doKepler@POLYN185924 the MagicNumber/String  1e-10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.doKepler@POLYN185924 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#92"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00092] For method getJulianDate arguments int  pYear|int  pMonth|int  pDay"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN186955 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN186955 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMeanSunLongitude@POLYN184372 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN186955 the MagicNumber/String  1 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00096] For method getSunEclipticLongitude arguments long  pMillis"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN186955 the MagicNumber/String  12 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN186955 the MagicNumber/String  100 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN186955 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN186955 the MagicNumber/String  4 should be converted to const"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#96"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00096] For method getSunEclipticLongitude list of called methods Object monObjet|double daysSinceEpochN185374|double getMeanSunLongitudeN185465|double doKeplerN185556"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN186955 the MagicNumber/String  365.25 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getSunEclipticLongitude@POLYN185272 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#103"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN186955 the MagicNumber/String  30.6001 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getSunEclipticLongitude@POLYN185272 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#103"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN186955 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getSunEclipticLongitude@POLYN185272 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#105"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN186955 the MagicNumber/String  1720994.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getSunEclipticLongitude@POLYN185272 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#110"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#107"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method getGST arguments long  pMillis"
+ , "c3" : "QC-JAV000006[00107] For method daysSinceEpoch arguments long  pMillis"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#110"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#109"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.daysSinceEpoch@POLYN186058 the MagicNumber/String  24 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#109"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.daysSinceEpoch@POLYN186058 the MagicNumber/String  3600 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#109"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.daysSinceEpoch@POLYN186058 the MagicNumber/String  1000 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#118"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00110] For method getGST list of called methods Object monObjet|double getJulianDateN188521|double Toolkit_fmodN189160|double Toolkit_fmodN189826"
+ , "c3" : "QC-JAV000006[00118] For method doKepler arguments double  M"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#112"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  'GMT' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  2451545 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  36525 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  2.5862e-5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  2400.051336 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  6.697374558 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  24.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  24 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.doKepler@POLYN186410 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  60.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#127"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  60.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  1.002737909 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  24.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.doKepler@POLYN186410 the MagicNumber/String  1e-10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.doKepler@POLYN186410 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188170 the MagicNumber/String  24 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#140"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#149"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00140] For method getSunPositionOnEarth arguments long  pMillis"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#140"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00140] For method getSunPositionOnEarth list of called methods Object monObjet|double Toolkit_limitRadsN190651"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getSunPositionOnEarth@POLYN190316 the MagicNumber/String  0.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#145"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getSunPositionOnEarth@POLYN190316 the MagicNumber/String  24 should be converted to const"
+ , "c3" : "QC-JAV000006[00149] For method getJulianDate arguments int  pYear|int  pMonth|int  pDay"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#151"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00151] For method getMoonPositionOnEarth arguments long  pMillis"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN187441 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#151"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00151] For method getMoonPositionOnEarth list of called methods Object monObjet|double daysSinceEpochN191436|double getSunEclipticLongitudeN191522|double getMeanSunLongitudeN191613|double Toolkit_limitRadsN191699|double Toolkit_limitRadsN191954|double Toolkit_limitRadsN192155|double Toolkit_degsToRadsN192339|double Toolkit_degsToRadsN192591|double Toolkit_degsToRadsN192953|double Toolkit_degsToRadsN193355|double Toolkit_degsToRadsN193579|double Toolkit_limitRadsN193789|double Toolkit_limitRadsN194837"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN187441 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN187441 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#154"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00154] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN187441 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#157"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN187441 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  0.1114041 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN187441 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#158"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00158] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN187441 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  0.0529539 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN187441 the MagicNumber/String  365.25 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  1.2739 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN187441 the MagicNumber/String  30.6001 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  2.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#161"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  0.1858 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN187441 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  0.37 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getJulianDate@POLYN187441 the MagicNumber/String  1720994.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#163"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  6.2886 should be converted to const"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#173"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00173] For method getGST arguments long  pMillis"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#164"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  0.214 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#164"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  2.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#165"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  0.6583 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#165"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  2.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#166"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  0.16 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#169"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  1e-12 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#170"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  2 should be converted to const"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#173"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00173] For method getGST list of called methods Object monObjet|double getJulianDateN189007|double Toolkit_fmodN189646|double Toolkit_fmodN190312"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191334 the MagicNumber/String  24 should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  'GMT' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#178"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00178] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#180"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00180] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  2451545 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#180"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00180] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  36525 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#181"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00181] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  2.5862e-5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#181"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00181] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  2400.051336 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#181"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00181] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  6.697374558 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#183"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00183] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#183"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00183] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  24.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#184"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00184] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#186"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00186] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  24 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#190"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00190] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  60.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#190"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00190] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  60.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#192"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00192] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  1.002737909 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#193"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00193] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#193"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00193] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  24.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00194] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#196"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00196] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getGST@POLYN188656 the MagicNumber/String  24 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#212"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00212] For method getSunPositionOnEarth arguments long  pMillis"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#212"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00212] For method getSunPositionOnEarth list of called methods Object monObjet|double Toolkit_limitRadsN191137"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00214"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#214"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00214] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getSunPositionOnEarth@POLYN190802 the MagicNumber/String  0.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#217"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00217] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getSunPositionOnEarth@POLYN190802 the MagicNumber/String  24 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#232"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00232] For method getMoonPositionOnEarth arguments long  pMillis"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#232"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00232] For method getMoonPositionOnEarth list of called methods Object monObjet|double daysSinceEpochN191922|double getSunEclipticLongitudeN192008|double getMeanSunLongitudeN192099|double Toolkit_limitRadsN192185|double Toolkit_limitRadsN192440|double Toolkit_limitRadsN192641|double Toolkit_degsToRadsN192825|double Toolkit_degsToRadsN193077|double Toolkit_degsToRadsN193439|double Toolkit_degsToRadsN193841|double Toolkit_degsToRadsN194065|double Toolkit_limitRadsN194275|double Toolkit_limitRadsN195323"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00238"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#238"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00238] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00238"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#238"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00238] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  1.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00239"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#239"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00239] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  0.1114041 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00240"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#240"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00240] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  0.0529539 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#241"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00241] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  1.2739 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#241"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00241] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  2.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#242"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00242] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  0.1858 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00243"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#243"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00243] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  0.37 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00244"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#244"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00244] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  6.2886 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#245"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00245] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  0.214 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#245"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00245] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  2.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00246"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#246"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00246] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  0.6583 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00246"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#246"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00246] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  2.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00247"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#247"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00247] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  0.16 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#250"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00250] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  1e-12 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00251"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#251"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00251] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#256"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00256] In method ext.plantuml.com.ctreber.acearth.util.SunPositionCalculator.getMoonPositionOnEarth@POLYN191820 the MagicNumber/String  24 should be converted to const"
 }} 
 ]
 , 

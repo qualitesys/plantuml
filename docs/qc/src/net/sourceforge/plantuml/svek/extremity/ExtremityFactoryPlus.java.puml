@@ -2,8 +2,8 @@
 !pragma layout smetana
 "AbstractExtremityFactoryExtremityFactory" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryPlus"
 class net.sourceforge.plantuml.svek.extremity.ExtremityFactoryPlus {
-+ExtremityFactoryPlus(HColor) : ExtremityFactoryPlus [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryPlus.java.html#14]]]
-+createUDrawable(XPoint2D;double;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryPlus.java.html#19]]]
-+createUDrawable(XPoint2D;XPoint2D;XPoint2D;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryPlus.java.html#24]]]
++ExtremityFactoryPlus(HColor) : ExtremityFactoryPlus [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryPlus.java.html#48]]]
++createUDrawable(XPoint2D;double;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryPlus.java.html#53]]]
++createUDrawable(XPoint2D;XPoint2D;XPoint2D;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryPlus.java.html#58]]]
 } 
 @enduml

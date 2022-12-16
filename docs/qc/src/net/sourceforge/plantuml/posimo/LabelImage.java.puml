@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.posimo.LabelImage"
 class net.sourceforge.plantuml.posimo.LabelImage {
-+LabelImage(Link;Rose;ISkinParam) : LabelImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#22]]]
-+getDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#34]]]
-+drawU(UGraphic;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#40]]]
++LabelImage(Link;Rose;ISkinParam) : LabelImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#56]]]
++getDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#68]]]
++drawU(UGraphic;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/LabelImage.java.html#74]]]
 } 
 @enduml

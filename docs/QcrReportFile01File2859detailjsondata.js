@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "smetana.core.size_t" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/smetana/core/size_t.java.html#11"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/smetana/core/size_t.java.html#51"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/smetana/core/size_t.java.html#15"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/smetana/core/size_t.java.html#55"
  , "c1" : "size_t"
  , "c2" : "size_t(Class)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/smetana/core/size_t.java.html#20"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/smetana/core/size_t.java.html#60"
  , "c1" : "size_t"
  , "c2" : "negate()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/smetana/core/size_t.java.html#25"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/smetana/core/size_t.java.html#65"
  , "c1" : "size_t"
  , "c2" : "multiply(int)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/smetana/core/size_t.java.html#29"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/smetana/core/size_t.java.html#69"
  , "c1" : "boolean"
  , "c2" : "isStrictPositive()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/smetana/core/size_t.java.html#33"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/smetana/core/size_t.java.html#73"
  , "c1" : "boolean"
  , "c2" : "isStrictNegative()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/smetana/core/size_t.java.html#39"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/smetana/core/size_t.java.html#79"
  , "c1" : "Class"
  , "c2" : "getTobeAllocated()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/smetana/core/size_t.java.html#43"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/smetana/core/size_t.java.html#83"
  , "c1" : "__ptr__"
  , "c2" : "malloc()"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/smetana/core/size_t.java.html#50"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/smetana/core/size_t.java.html#90"
  , "c1" : "size_t"
  , "c2" : "plus(int)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/smetana/core/size_t.java.html#54"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/smetana/core/size_t.java.html#94"
  , "c1" : "boolean"
  , "c2" : "isZero()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/smetana/core/size_t.java.html#59"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/smetana/core/size_t.java.html#99"
  , "c1" : "__ptr__"
  , "c2" : "realloc(Object)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/smetana/core/size_t.java.html#64"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/smetana/core/size_t.java.html#104"
  , "c1" : "int"
  , "c2" : "getInternalNb()"
  , "c3" : "1"
@@ -181,108 +181,108 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/smetana/core/size_t.java.html#12"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/smetana/core/size_t.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method smetana.core.size_t.toString@POLYN150480 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method smetana.core.size_t.toString@POLYN150720 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/smetana/core/size_t.java.html#25"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/smetana/core/size_t.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method multiply arguments int  sz"
+ , "c3" : "QC-JAV000006[00065] For method multiply arguments int  sz"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/smetana/core/size_t.java.html#30"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/smetana/core/size_t.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method smetana.core.size_t.isStrictPositive@POLYN150986 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method smetana.core.size_t.isStrictPositive@POLYN151226 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/smetana/core/size_t.java.html#44"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/smetana/core/size_t.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method smetana.core.size_t.malloc@POLYN151270 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method smetana.core.size_t.malloc@POLYN151510 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/smetana/core/size_t.java.html#50"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/smetana/core/size_t.java.html#90"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method plus arguments int  strlen"
+ , "c3" : "QC-JAV000006[00090] For method plus arguments int  strlen"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/smetana/core/size_t.java.html#55"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/smetana/core/size_t.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method smetana.core.size_t.isZero@POLYN151650 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method smetana.core.size_t.isZero@POLYN151890 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/smetana/core/size_t.java.html#59"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/smetana/core/size_t.java.html#99"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method realloc arguments Object  old"
+ , "c3" : "QC-JAV000006[00099] For method realloc arguments Object  old"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/smetana/core/size_t.java.html#20"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/smetana/core/size_t.java.html#60"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00020] Public method negate is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00060] Public method negate is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/smetana/core/size_t.java.html#25"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/smetana/core/size_t.java.html#65"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00025] Public method multiply is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00065] Public method multiply is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/smetana/core/size_t.java.html#29"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/smetana/core/size_t.java.html#69"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00029] Public method isStrictPositive is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00069] Public method isStrictPositive is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/smetana/core/size_t.java.html#33"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/smetana/core/size_t.java.html#73"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00033] Public method isStrictNegative is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00073] Public method isStrictNegative is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/smetana/core/size_t.java.html#50"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/smetana/core/size_t.java.html#90"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00050] Public method plus is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00090] Public method plus is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/smetana/core/size_t.java.html#54"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/smetana/core/size_t.java.html#94"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00054] Public method isZero is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00094] Public method isZero is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/smetana/core/size_t.java.html#59"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/smetana/core/size_t.java.html#99"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00059] Public method realloc is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00099] Public method realloc is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/smetana/core/size_t.java.html#64"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/smetana/core/size_t.java.html#104"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00064] Public method getInternalNb is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00104] Public method getInternalNb is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

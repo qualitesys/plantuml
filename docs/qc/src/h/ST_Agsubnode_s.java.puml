@@ -2,12 +2,12 @@
 !pragma layout smetana
 "UnsupportedStarStruct" <|-- "h.ST_Agsubnode_s"
 class h.ST_Agsubnode_s {
-+in_id_AMP() : CStarStar<ST_dtlink_s> [[[./../../.././qc/src/h/ST_Agsubnode_s.java.html#17]]]
-+out_id_AMP() : CStarStar<ST_dtlink_s> [[[./../../.././qc/src/h/ST_Agsubnode_s.java.html#30]]]
-+in_seq_AMP() : CStarStar<ST_dtlink_s> [[[./../../.././qc/src/h/ST_Agsubnode_s.java.html#43]]]
-+out_seq_AMP() : CStarStar<ST_dtlink_s> [[[./../../.././qc/src/h/ST_Agsubnode_s.java.html#56]]]
-+isSameThan(__ptr__) : boolean [[[./../../.././qc/src/h/ST_Agsubnode_s.java.html#70]]]
-+getTheField(OFFSET) : Object [[[./../../.././qc/src/h/ST_Agsubnode_s.java.html#75]]]
-+castTo(Class) : __ptr__ [[[./../../.././qc/src/h/ST_Agsubnode_s.java.html#89]]]
++in_id_AMP() : CStarStar<ST_dtlink_s> [[[./../../.././qc/src/h/ST_Agsubnode_s.java.html#61]]]
++out_id_AMP() : CStarStar<ST_dtlink_s> [[[./../../.././qc/src/h/ST_Agsubnode_s.java.html#74]]]
++in_seq_AMP() : CStarStar<ST_dtlink_s> [[[./../../.././qc/src/h/ST_Agsubnode_s.java.html#87]]]
++out_seq_AMP() : CStarStar<ST_dtlink_s> [[[./../../.././qc/src/h/ST_Agsubnode_s.java.html#100]]]
++isSameThan(__ptr__) : boolean [[[./../../.././qc/src/h/ST_Agsubnode_s.java.html#114]]]
++getTheField(OFFSET) : Object [[[./../../.././qc/src/h/ST_Agsubnode_s.java.html#119]]]
++castTo(Class) : __ptr__ [[[./../../.././qc/src/h/ST_Agsubnode_s.java.html#133]]]
 } 
 @enduml

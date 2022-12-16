@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#60"
  , "c1" : "IRegex"
  , "c2" : "toRegex(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#67"
  , "c1" : "Failable<TaskInstant>"
  , "c2" : "getMe(GanttDiagram;RegexResult;String)"
  , "c3" : "5"
@@ -91,213 +91,213 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#26"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method toRegex arguments String  suffix"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.toRegex@POLYN158680 the MagicNumber/String  'COMPLEMENT' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.toRegex@POLYN158680 the MagicNumber/String  '(?:at|with|after|' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#28"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.toRegex@POLYN158680 the MagicNumber/String  '(\\d+)[%s]+(working[%s]+)?(day|week)s?' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.toRegex@POLYN158680 the MagicNumber/String  '(?:[%s]+and[%s]+(\\d+)[%s]+(working[%s]+)?(day|week)s?)?' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.toRegex@POLYN158680 the MagicNumber/String  '[%s]+(before|after))[%s]+\\[([^\\[\\]]+?)\\].?s[%s]+(start|end)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#33"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method getMe arguments GanttDiagram  system|RegexResult  arg|String  suffix"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#33"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument system is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#33"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00033] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  'COMPLEMENT' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  'COMPLEMENT' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#38"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  'No such task ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  'COMPLEMENT' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  'COMPLEMENT' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  'w' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  'COMPLEMENT' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#48"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  'COMPLEMENT' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#50"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  'w' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  'before' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  'COMPLEMENT' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  'COMPLEMENT' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  null should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00060] For method toRegex arguments String  suffix"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.toRegex@POLYN158884 the MagicNumber/String  'COMPLEMENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN158967 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.toRegex@POLYN158884 the MagicNumber/String  '(?:at|with|after|' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.toRegex@POLYN158884 the MagicNumber/String  '(\\d+)[%s]+(working[%s]+)?(day|week)s?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.toRegex@POLYN158884 the MagicNumber/String  '(?:[%s]+and[%s]+(\\d+)[%s]+(working[%s]+)?(day|week)s?)?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#64"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.toRegex@POLYN158884 the MagicNumber/String  '[%s]+(before|after))[%s]+\\[([^\\[\\]]+?)\\].?s[%s]+(start|end)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#67"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00067] For method getMe arguments GanttDiagram  system|RegexResult  arg|String  suffix"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#67"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00067] The argument system is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#67"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00067] The argument arg is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#68"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#69"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#71"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#72"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  'No such task ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#77"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#77"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  'w' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#78"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#82"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#83"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#84"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#84"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  'w' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  'before' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#94"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#94"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementBeforeOrAfterOrAtTaskStartOrEnd.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.project.lang.ComplementBeforeOrAfterOrAtTaskStartOrEnd.getMe@POLYN159171 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

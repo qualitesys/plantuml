@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.project.lang.SentenceSimple" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#52"
  , "c1" : "SentenceSimple"
  , "c2" : "SentenceSimple(Subject;IRegex;Something)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#58"
  , "c1" : "IRegex"
  , "c2" : "toRegex()"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#43"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#77"
  , "c1" : "CommandExecutionResult"
  , "c2" : "execute(GanttDiagram;RegexResult)"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#56"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#90"
  , "c1" : "CommandExecutionResult"
  , "c2" : "execute(GanttDiagram;Object;Object)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#58"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#92"
  , "c1" : "String"
  , "c2" : "getVerbPattern()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#62"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#96"
  , "c1" : "IRegex"
  , "c2" : "getVerbRegex()"
  , "c3" : "1"
@@ -120,31 +120,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.project.lang.SentenceSimple.toRegex@POLYN154317 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.project.lang.SentenceSimple.toRegex@POLYN154521 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method execute arguments GanttDiagram  project|RegexResult  arg"
+ , "c3" : "QC-JAV000006[00077] For method execute arguments GanttDiagram  project|RegexResult  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#48"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.project.lang.SentenceSimple.execute@POLYN155008 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.project.lang.SentenceSimple.execute@POLYN155212 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#56"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceSimple.java.html#90"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
+ , "c3" : "QC-JAV000006[00090] For method execute arguments GanttDiagram  project|Object  subject|Object  complement"
 }} 
 ]
 , 

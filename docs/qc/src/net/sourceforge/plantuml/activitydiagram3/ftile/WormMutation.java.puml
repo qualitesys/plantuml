@@ -2,18 +2,18 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.WormMutation"
 class net.sourceforge.plantuml.activitydiagram3.ftile.WormMutation {
--WormMutation() : WormMutation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#14]]]
-+create(Worm;double) : WormMutation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#18]]]
--createFromLongSignature(String;double) : WormMutation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#27]]]
--reverse() : WormMutation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#47]]]
-+getLast() : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#55]]]
-+getFirst() : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#59]]]
-+size() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#63]]]
--getDefinition(String) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#67]]]
--WormMutation(String;double) : WormMutation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#92]]]
--translation(int;double) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#99]]]
-+getTextTranslate(int) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#144]]]
-+isDxNegative() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#152]]]
-+mute(Worm) : Worm [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#156]]]
+-WormMutation() : WormMutation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#48]]]
++create(Worm;double) : WormMutation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#52]]]
+-createFromLongSignature(String;double) : WormMutation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#61]]]
+-reverse() : WormMutation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#81]]]
++getLast() : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#89]]]
++getFirst() : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#93]]]
++size() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#97]]]
+-getDefinition(String) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#101]]]
+-WormMutation(String;double) : WormMutation [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#126]]]
+-translation(int;double) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#133]]]
++getTextTranslate(int) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#178]]]
++isDxNegative() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#186]]]
++mute(Worm) : Worm [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormMutation.java.html#190]]]
 } 
 @enduml

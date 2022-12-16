@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.SuperGroup"
 class net.sourceforge.plantuml.cucadiagram.SuperGroup {
-+SuperGroup(IGroup) : SuperGroup [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/SuperGroup.java.html#11]]]
-+getFirstGroup() : IGroup [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/SuperGroup.java.html#15]]]
++SuperGroup(IGroup) : SuperGroup [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/SuperGroup.java.html#45]]]
++getFirstGroup() : IGroup [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/SuperGroup.java.html#49]]]
 } 
 @enduml

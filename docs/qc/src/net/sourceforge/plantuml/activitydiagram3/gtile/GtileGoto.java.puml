@@ -2,7 +2,7 @@
 !pragma layout smetana
 "GtileEmpty" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GtileGoto"
 class net.sourceforge.plantuml.activitydiagram3.gtile.GtileGoto {
-+GtileGoto(StringBounder;ISkinParam;Swimlane;String) : GtileGoto [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileGoto.java.html#12]]]
-+getName() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileGoto.java.html#17]]]
++GtileGoto(StringBounder;ISkinParam;Swimlane;String) : GtileGoto [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileGoto.java.html#46]]]
++getName() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileGoto.java.html#51]]]
 } 
 @enduml

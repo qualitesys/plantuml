@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "h.ST_Agnode_s" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/h/ST_Agnode_s.java.html#19"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/h/ST_Agnode_s.java.html#63"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/h/ST_Agnode_s.java.html#28"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/h/ST_Agnode_s.java.html#72"
  , "c1" : "void"
  , "c2" : "___(__struct__)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/h/ST_Agnode_s.java.html#33"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/h/ST_Agnode_s.java.html#77"
  , "c1" : "boolean"
  , "c2" : "isSameThan(__ptr__)"
  , "c3" : "1"
@@ -100,45 +100,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/h/ST_Agnode_s.java.html#13"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/h/ST_Agnode_s.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00013] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00057] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/h/ST_Agnode_s.java.html#16"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/h/ST_Agnode_s.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00016] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00060] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/h/ST_Agnode_s.java.html#21"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/h/ST_Agnode_s.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method h.ST_Agnode_s.toString@POLYN154707 the MagicNumber/String  ' rank=' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method h.ST_Agnode_s.toString@POLYN154971 the MagicNumber/String  ' rank=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/h/ST_Agnode_s.java.html#21"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/h/ST_Agnode_s.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method h.ST_Agnode_s.toString@POLYN154707 the MagicNumber/String  ' order=' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method h.ST_Agnode_s.toString@POLYN154971 the MagicNumber/String  ' order=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/h/ST_Agnode_s.java.html#28"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/h/ST_Agnode_s.java.html#72"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method ___ arguments __struct__  arg"
+ , "c3" : "QC-JAV000006[00072] For method ___ arguments __struct__  arg"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/h/ST_Agnode_s.java.html#33"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/h/ST_Agnode_s.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method isSameThan arguments __ptr__  other"
+ , "c3" : "QC-JAV000006[00077] For method isSameThan arguments __ptr__  other"
 }} 
 ]
 , 

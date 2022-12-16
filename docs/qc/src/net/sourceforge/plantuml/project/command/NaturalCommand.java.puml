@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<GanttDiagram>" <|-- "net.sourceforge.plantuml.project.command.NaturalCommand"
 class net.sourceforge.plantuml.project.command.NaturalCommand {
-+NaturalCommand(Sentence) : NaturalCommand [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/NaturalCommand.java.html#15]]]
-executeArg(GanttDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/NaturalCommand.java.html#21]]]
-+create(Sentence) : NaturalCommand [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/NaturalCommand.java.html#25]]]
++NaturalCommand(Sentence) : NaturalCommand [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/NaturalCommand.java.html#49]]]
+executeArg(GanttDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/NaturalCommand.java.html#55]]]
++create(Sentence) : NaturalCommand [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/NaturalCommand.java.html#59]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "gen.lib.gvc.gvlayout__c" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/gen/lib/gvc/gvlayout__c.java.html#46"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/gen/lib/gvc/gvlayout__c.java.html#90"
  , "c1" : "int"
  , "c2" : "gvlayout_select(ST_GVC_s;CString)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/gen/lib/gvc/gvlayout__c.java.html#78"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/gen/lib/gvc/gvlayout__c.java.html#122"
  , "c1" : "int"
  , "c2" : "gvLayoutJobs(ST_GVC_s;ST_Agraph_s)"
  , "c3" : "7"
@@ -114,339 +114,339 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#46"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#90"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method gvlayout_select arguments ST_GVC_s  gvc|CString  layout"
+ , "c3" : "QC-JAV000006[00090] For method gvlayout_select arguments ST_GVC_s  gvc|CString  layout"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#46"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#90"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00046] The argument gvc is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00090] The argument gvc is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#46"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#90"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00046] The argument layout is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00090] The argument layout is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#47"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method gen.lib.gvc.gvlayout__c.gvlayout_select@POLYN172759 the MagicNumber/String  '2g20jitdi8afuoei8p1mcfg9l' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method gen.lib.gvc.gvlayout__c.gvlayout_select@POLYN173071 the MagicNumber/String  '2g20jitdi8afuoei8p1mcfg9l' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#47"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method gen.lib.gvc.gvlayout__c.gvlayout_select@POLYN172759 the MagicNumber/String  'gvlayout_select' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method gen.lib.gvc.gvlayout__c.gvlayout_select@POLYN173071 the MagicNumber/String  'gvlayout_select' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#51"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method gen.lib.gvc.gvlayout__c.gvlayout_select@POLYN172759 the MagicNumber/String  'dot' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method gen.lib.gvc.gvlayout__c.gvlayout_select@POLYN173071 the MagicNumber/String  'dot' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#52"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method gen.lib.gvc.gvlayout__c.gvlayout_select@POLYN172759 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method gen.lib.gvc.gvlayout__c.gvlayout_select@POLYN172759 the MagicNumber/String  '2g20jitdi8afuoei8p1mcfg9l' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method gen.lib.gvc.gvlayout__c.gvlayout_select@POLYN172759 the MagicNumber/String  'gvlayout_select' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#78"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method gvLayoutJobs arguments ST_GVC_s  gvc|ST_Agraph_s  g"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#78"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00078] The argument gvc is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  '991b7t7n0x8ifkp49zotjs78x' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  'gvLayoutJobs' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  'Agraphinfo_t' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  'ah9ygbaap1fyxr97z734juk0j' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  'return -1;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#105"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#106"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#107"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  'WARNING WE CHEAT GD_cleanup(g) is NULL' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#110"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method gen.lib.gvc.gvlayout__c.gvlayout_select@POLYN173071 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  '991b7t7n0x8ifkp49zotjs78x' should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method gen.lib.gvc.gvlayout__c.gvlayout_select@POLYN173071 the MagicNumber/String  '2g20jitdi8afuoei8p1mcfg9l' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String  'gvLayoutJobs' should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method gen.lib.gvc.gvlayout__c.gvlayout_select@POLYN173071 the MagicNumber/String  'gvlayout_select' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#122"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00122] For method gvLayoutJobs arguments ST_GVC_s  gvc|ST_Agraph_s  g"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#122"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00122] The argument gvc is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  '991b7t7n0x8ifkp49zotjs78x' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  'gvLayoutJobs' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#126"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00126] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00128] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  'Agraphinfo_t' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#128"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00128] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  'ah9ygbaap1fyxr97z734juk0j' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#146"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00146] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  'return -1;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#149"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00149] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#150"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00150] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#152"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00152] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#152"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00152] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#158"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00158] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00159] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  'WARNING WE CHEAT GD_cleanup(g) is NULL' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#162"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00162] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00163] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  '991b7t7n0x8ifkp49zotjs78x' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String  'gvLayoutJobs' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#79"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#123"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00079] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String '991b7t7n0x8ifkp49zotjs78x' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00123] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String '991b7t7n0x8ifkp49zotjs78x' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#79"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#123"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00079] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String 'gvLayoutJobs' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00123] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String 'gvLayoutJobs' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#82"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#126"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00082] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00126] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#84"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#128"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00084] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String 'Agraphinfo_t' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00128] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String 'Agraphinfo_t' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#84"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#128"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00084] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String true MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00128] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String true MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#87"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#131"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00087] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String 'ah9ygbaap1fyxr97z734juk0j' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00131] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String 'ah9ygbaap1fyxr97z734juk0j' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#94"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#146"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00094] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String 'return -1;' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00146] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String 'return -1;' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#97"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#149"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00097] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00149] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#98"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#150"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00098] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00150] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#100"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#152"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00100] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00152] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#100"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#152"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00100] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00152] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#105"
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#157"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00105] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00157] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#106"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#158"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00106] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00158] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#107"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#159"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00107] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String 'WARNING WE CHEAT GD_cleanup-g- is NULL' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00159] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String 'WARNING WE CHEAT GD_cleanup-g- is NULL' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#110"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#162"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00110] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00162] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#111"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#163"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00111] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00163] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#113"
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#165"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00113] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String '991b7t7n0x8ifkp49zotjs78x' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00165] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String '991b7t7n0x8ifkp49zotjs78x' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#113"
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#165"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00113] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174174 the MagicNumber/String 'gvLayoutJobs' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00165] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN174486 the MagicNumber/String 'gvLayoutJobs' MUST BE CONVERTED to const"
 }} 
 ]
 , 

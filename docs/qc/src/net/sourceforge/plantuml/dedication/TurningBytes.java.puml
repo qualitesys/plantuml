@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.dedication.TurningBytes"
 class net.sourceforge.plantuml.dedication.TurningBytes {
-+TurningBytes(byte[]) : TurningBytes [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#9]]]
-+nextByte() : byte [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#13]]]
++TurningBytes(byte[]) : TurningBytes [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#43]]]
++nextByte() : byte [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#47]]]
 } 
 @enduml

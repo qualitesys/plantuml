@@ -2,12 +2,12 @@
 !pragma layout smetana
 "AbstractTextBlockLine" <|-- "net.sourceforge.plantuml.graphic.SingleLine"
 class net.sourceforge.plantuml.graphic.SingleLine {
-+withSomeHtmlTag(String;FontConfiguration;HorizontalAlignment;SpriteContainer) : SingleLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#19]]]
-+rawText(String;FontConfiguration) : SingleLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#52]]]
--SingleLine(HorizontalAlignment) : SingleLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#61]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#65]]]
--maxDeltaY(UGraphic) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#76]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#107]]]
-+getHorizontalAlignment() : HorizontalAlignment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#123]]]
++withSomeHtmlTag(String;FontConfiguration;HorizontalAlignment;SpriteContainer) : SingleLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#53]]]
++rawText(String;FontConfiguration) : SingleLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#86]]]
+-SingleLine(HorizontalAlignment) : SingleLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#95]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#99]]]
+-maxDeltaY(UGraphic) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#110]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#141]]]
++getHorizontalAlignment() : HorizontalAlignment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#157]]]
 } 
 @enduml

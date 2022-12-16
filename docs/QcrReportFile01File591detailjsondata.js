@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ftile.Snake" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#59"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#93"
  , "c1" : "Snake"
  , "c2" : "transformX(PiecewiseAffineTransform)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#69"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#103"
  , "c1" : "Snake"
  , "c2" : "move(double;double)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#77"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#111"
  , "c1" : "Snake"
  , "c2" : "cloneEmpty()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00082"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#82"
+ , "c5" : "00116"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#116"
  , "c1" : "Snake"
  , "c2" : "ignoreForCompression()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#87"
+ , "c5" : "00121"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#121"
  , "c1" : "Snake"
  , "c2" : "emphasizeDirection(Direction)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#91"
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#125"
  , "c1" : "Snake"
  , "c2" : "withoutEndDecoration()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#95"
+ , "c5" : "00129"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#129"
  , "c1" : "Snake"
  , "c2" : "withMerge(MergeStrategy)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00099"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#99"
+ , "c5" : "00133"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#133"
  , "c1" : "Snake"
  , "c2" : "withLabel(TextBlock;HorizontalAlignment)"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00106"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#106"
+ , "c5" : "00140"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#140"
  , "c1" : "Snake"
  , "c2" : "withLabel(TextBlock;VerticalAlignment)"
  , "c3" : "3"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00116"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#116"
+ , "c5" : "00150"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#150"
  , "c1" : "Snake"
  , "c2" : "create(ISkinParam;Rainbow)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00122"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#122"
+ , "c5" : "00156"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#156"
  , "c1" : "Snake"
  , "c2" : "create(ISkinParam;Rainbow;UPolygon)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00128"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#128"
+ , "c5" : "00162"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#162"
  , "c1" : "Snake"
  , "c2" : "create(ISkinParam;UPolygon;Rainbow;UPolygon)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00134"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#134"
+ , "c5" : "00168"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#168"
  , "c1" : "Snake"
  , "c2" : "Snake(ISkinParam;UPolygon;Rainbow;UPolygon;Worm;MergeStrategy;Direction;List<Text>)"
  , "c3" : "2"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00150"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#150"
+ , "c5" : "00184"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#184"
  , "c1" : "Snake"
  , "c2" : "translate(UTranslate)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00155"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#155"
+ , "c5" : "00189"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#189"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00159"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#159"
+ , "c5" : "00193"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#193"
  , "c1" : "void"
  , "c2" : "addPoint(double;double)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00163"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#163"
+ , "c5" : "00197"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#197"
  , "c1" : "void"
  , "c2" : "addPoint(XPoint2D)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00167"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#167"
+ , "c5" : "00201"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#201"
  , "c1" : "void"
  , "c2" : "drawInternal(UGraphic)"
  , "c3" : "3"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00178"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#178"
+ , "c5" : "00212"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#212"
  , "c1" : "void"
  , "c2" : "drawRainbow(UGraphic)"
  , "c3" : "5"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00204"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#204"
+ , "c5" : "00238"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#238"
  , "c1" : "void"
  , "c2" : "drawInternalLabel(UGraphic)"
  , "c3" : "3"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00212"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#212"
+ , "c5" : "00246"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#246"
  , "c1" : "double"
  , "c2" : "getMaxX(StringBounder)"
  , "c3" : "3"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00225"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#225"
+ , "c5" : "00259"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#259"
  , "c1" : "XPoint2D"
  , "c2" : "getTextBlockPosition(StringBounder;Text)"
  , "c3" : "12"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00253"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#253"
+ , "c5" : "00287"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#287"
  , "c1" : "List<XLine2D>"
  , "c2" : "getHorizontalLines()"
  , "c3" : "3"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00267"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#267"
+ , "c5" : "00301"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#301"
  , "c1" : "XPoint2D"
  , "c2" : "getFirst()"
  , "c3" : "1"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00271"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#271"
+ , "c5" : "00305"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#305"
  , "c1" : "XPoint2D"
  , "c2" : "getLast()"
  , "c3" : "1"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00275"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#275"
+ , "c5" : "00309"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#309"
  , "c1" : "boolean"
  , "c2" : "same(XPoint2D;XPoint2D)"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00279"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#279"
+ , "c5" : "00313"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#313"
  , "c1" : "Snake"
  , "c2" : "merge(Snake;StringBounder)"
  , "c3" : "7"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00305"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#305"
+ , "c5" : "00339"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#339"
  , "c1" : "boolean"
  , "c2" : "touches(Snake)"
  , "c3" : "3"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00315"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#315"
+ , "c5" : "00349"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#349"
  , "c1" : "boolean"
  , "c2" : "doesHorizontalCross(MinMax)"
  , "c3" : "1"
@@ -341,738 +341,738 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#43"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method hasText arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00077] For method hasText arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.Text.hasText@POLYN206916 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.Text.hasText@POLYN207120 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method transformX arguments PiecewiseAffineTransform  compressionTransform"
+ , "c3" : "QC-JAV000006[00093] For method transformX arguments PiecewiseAffineTransform  compressionTransform"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#93"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00059] The argument compressionTransform is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00093] The argument compressionTransform is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#69"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#103"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method move arguments double  dx|double  dy"
+ , "c3" : "QC-JAV000006[00103] For method move arguments double  dx|double  dy"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#87"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#121"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00087] For method emphasizeDirection arguments Direction  emphasizeDirection"
+ , "c3" : "QC-JAV000006[00121] For method emphasizeDirection arguments Direction  emphasizeDirection"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#92"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.withoutEndDecoration@POLYN209218 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.withoutEndDecoration@POLYN209422 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#95"
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#129"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00095] For method withMerge arguments MergeStrategy  mergeable"
+ , "c3" : "QC-JAV000006[00129] For method withMerge arguments MergeStrategy  mergeable"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#99"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#133"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00099] For method withLabel arguments TextBlock  textBlock|HorizontalAlignment  horizontalAlignment"
+ , "c3" : "QC-JAV000006[00133] For method withLabel arguments TextBlock  textBlock|HorizontalAlignment  horizontalAlignment"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#100"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.withLabel@POLYN209798 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.withLabel@POLYN210002 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#101"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.withLabel@POLYN209798 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.withLabel@POLYN210002 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#106"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#140"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00106] For method withLabel arguments TextBlock  textBlock|VerticalAlignment  verticalAlignment"
+ , "c3" : "QC-JAV000006[00140] For method withLabel arguments TextBlock  textBlock|VerticalAlignment  verticalAlignment"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#107"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.withLabel@POLYN210152 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.withLabel@POLYN210356 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#108"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.withLabel@POLYN210152 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#116"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00116] For method create arguments ISkinParam  skinParam|Rainbow  color"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#116"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00116] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.create@POLYN210679 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.create@POLYN210679 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.create@POLYN210679 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#122"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00122] For method create arguments ISkinParam  skinParam|Rainbow  color|UPolygon  endDecoration"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#122"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00122] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.create@POLYN211238 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.create@POLYN211238 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#128"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00128] For method create arguments ISkinParam  skinParam|UPolygon  startDecoration|Rainbow  color|UPolygon  endDecoration"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#128"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00128] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.create@POLYN211820 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.Snake@POLYN212409 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.withLabel@POLYN210356 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#150"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00150] For method translate arguments UTranslate  translate"
+ , "c3" : "QC-JAV000006[00150] For method create arguments ISkinParam  skinParam|Rainbow  color"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#150"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00150] The argument translate is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00150] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#159"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00159] For method addPoint arguments double  x|double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#163"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00163] For method addPoint arguments XPoint2D  p"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#167"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00167] For method drawInternal arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#168"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawInternal@POLYN214078 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.create@POLYN210883 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00171"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#171"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawInternal@POLYN214078 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.create@POLYN210883 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00171"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#171"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawInternal@POLYN214078 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.create@POLYN210883 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#178"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#156"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00178] For method drawRainbow arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00156] For method create arguments ISkinParam  skinParam|Rainbow  color|UPolygon  endDecoration"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#178"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#156"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00178] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00156] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#181"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214626 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.create@POLYN211442 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#187"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214626 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.create@POLYN211442 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#187"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214626 the MagicNumber/String  1 should be converted to const"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#162"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00162] For method create arguments ISkinParam  skinParam|UPolygon  startDecoration|Rainbow  color|UPolygon  endDecoration"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#187"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214626 the MagicNumber/String  2.0 should be converted to const"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#162"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00162] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#189"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214626 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.create@POLYN212024 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#192"
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214626 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.Snake@POLYN212613 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#184"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00184] For method translate arguments UTranslate  translate"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#184"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00184] The argument translate is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214626 the MagicNumber/String  1.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#194"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214626 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#195"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214626 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#195"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214626 the MagicNumber/String  2.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#195"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214626 the MagicNumber/String  3.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00204"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#204"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00204] For method drawInternalLabel arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00193] For method addPoint arguments double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00204"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#204"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00204] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#197"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00197] For method addPoint arguments XPoint2D  p"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#207"
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#201"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00201] For method drawInternal arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00207] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawInternal@POLYN214282 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#205"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawInternal@POLYN214282 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#205"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawInternal@POLYN214282 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00212"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#212"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00212] For method getMaxX arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00212] For method drawRainbow arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00218"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#218"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00218] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00219"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#219"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00219] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#225"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00225] For method getTextBlockPosition arguments StringBounder  stringBounder|Text  text"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#225"
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#212"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00225] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00212] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#215"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214830 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#221"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214830 the MagicNumber/String  1.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#221"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214830 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#221"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214830 the MagicNumber/String  2.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00223"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#223"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214830 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214830 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214830 the MagicNumber/String  1.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#228"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214830 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214830 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00230"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#230"
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  'DLD' should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214830 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00230"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#230"
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  'DRD' should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.drawRainbow@POLYN214830 the MagicNumber/String  3.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#231"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  2 should be converted to const"
+ , "c1" : "00238"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#238"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00238] For method drawInternalLabel arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#231"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  2 should be converted to const"
+ , "c1" : "00238"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#238"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00238] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00237"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#237"
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00237"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#237"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00237"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#237"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00239"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#239"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00240"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#240"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00240"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#240"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00242"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#242"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00243"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#243"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  'RD' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00245"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#245"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00245"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#245"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00245"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#245"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000001[00241] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00246"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#246"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  'LD' should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00246] For method getMaxX arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00248"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#248"
+ , "c1" : "00252"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#252"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000001[00252] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00248"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#248"
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00248"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#248"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218260 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00256"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#256"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00256] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00257"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#257"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00257] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00253] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00259"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#259"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00259] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00255"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#255"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getHorizontalLines@POLYN221921 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00255"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#255"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getHorizontalLines@POLYN221921 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00257"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#257"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getHorizontalLines@POLYN221921 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00268"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#268"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getFirst@POLYN222852 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00272"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#272"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getLast@POLYN222979 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00275"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#275"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00275] For method same arguments XPoint2D  pt1|XPoint2D  pt2"
+ , "c3" : "QC-JAV000006[00259] For method getTextBlockPosition arguments StringBounder  stringBounder|Text  text"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00275"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#275"
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#259"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00275] The argument pt1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00259] The argument text is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#260"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00261"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#261"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00263"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#263"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00263] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00264"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#264"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  'DLD' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00264"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#264"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  'DRD' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00265"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#265"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00265"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#265"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00271"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#271"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00271"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#271"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00271"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#271"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00273"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#273"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00274"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#274"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00274] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00274"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#274"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00274] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00276"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#276"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.same@POLYN223148 the MagicNumber/String  0.001 should be converted to const"
+ , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00277"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#277"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  'RD' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00279"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#279"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00279] For method merge arguments Snake  other|StringBounder  stringBounder"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00279"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#279"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00279] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00279"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#279"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00280"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#280"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  'LD' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00282"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#282"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00282] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223344 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00282] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00286"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#286"
+ , "c1" : "00282"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#282"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223344 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00282] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00289"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#289"
+ , "c1" : "00282"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#282"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223344 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00290"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#290"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223344 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00282] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getTextBlockPosition@POLYN218464 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00290"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#290"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223344 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00290] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00291"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#291"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223344 the MagicNumber/String  'Not yet coded: to be done' should be converted to const"
+ , "c3" : "QC-JAV000001[00291] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00295"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#295"
+ , "c1" : "00293"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#293"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223344 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00293] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00296"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#296"
+ , "c1" : "00289"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#289"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00296] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223344 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getHorizontalLines@POLYN222125 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00289"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#289"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getHorizontalLines@POLYN222125 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00291"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#291"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getHorizontalLines@POLYN222125 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00302"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#302"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223344 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getFirst@POLYN223056 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00305"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#305"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00305] For method touches arguments Snake  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00305"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#305"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00305] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00307"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#307"
+ , "c1" : "00306"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#306"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.touches@POLYN225238 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00306] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.getLast@POLYN223183 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00309"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#309"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00309] For method same arguments XPoint2D  pt1|XPoint2D  pt2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00309"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#309"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00309] The argument pt1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00310"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#310"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.touches@POLYN225238 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.same@POLYN223352 the MagicNumber/String  0.001 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00315"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#315"
+ , "c1" : "00313"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#313"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00315] For method doesHorizontalCross arguments MinMax  minMax"
+ , "c3" : "QC-JAV000006[00313] For method merge arguments Snake  other|StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00313"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#313"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00313] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00316"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#316"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223548 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00320"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#320"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223548 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00323"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#323"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00323] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223548 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00324"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#324"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00324] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223548 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00324"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#324"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00324] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223548 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00325"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#325"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00325] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223548 the MagicNumber/String  'Not yet coded: to be done' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00329"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#329"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00329] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223548 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00330"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#330"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00330] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223548 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00336"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#336"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.merge@POLYN223548 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00339"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#339"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00339] For method touches arguments Snake  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00339"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#339"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00339] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00341"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#341"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00341] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.touches@POLYN225442 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00344"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#344"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00344] In method net.sourceforge.plantuml.activitydiagram3.ftile.Snake.touches@POLYN225442 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00349"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#349"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00349] For method doesHorizontalCross arguments MinMax  minMax"
 }} 
 ]
 , 

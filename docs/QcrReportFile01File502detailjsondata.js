@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.InstructionSwitch" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#75"
  , "c1" : "boolean"
  , "c2" : "containsBreak()"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#49"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#83"
  , "c1" : "InstructionSwitch"
  , "c2" : "InstructionSwitch(Swimlane;Instruction;Display;LinkRendering;HColor;ISkinParam)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#59"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#93"
  , "c1" : "CommandExecutionResult"
  , "c2" : "add(Instruction)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#67"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#101"
  , "c1" : "Gtile"
  , "c2" : "createGtile(ISkinParam;StringBounder)"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#81"
+ , "c5" : "00115"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#115"
  , "c1" : "Ftile"
  , "c2" : "createFtile(FtileFactory)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#91"
+ , "c5" : "00125"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#125"
  , "c1" : "boolean"
  , "c2" : "kill()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#96"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#130"
  , "c1" : "LinkRendering"
  , "c2" : "getInLinkRendering()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#101"
+ , "c5" : "00135"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#135"
  , "c1" : "Set<Swimlane>"
  , "c2" : "getSwimlanes()"
  , "c3" : "3"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#113"
+ , "c5" : "00147"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#147"
  , "c1" : "Swimlane"
  , "c2" : "getSwimlaneIn()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00118"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#118"
+ , "c5" : "00152"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#152"
  , "c1" : "Swimlane"
  , "c2" : "getSwimlaneOut()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00123"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#123"
+ , "c5" : "00157"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#157"
  , "c1" : "Instruction"
  , "c2" : "getLast()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00127"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#127"
+ , "c5" : "00161"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#161"
  , "c1" : "boolean"
  , "c2" : "switchCase(Display;LinkRendering)"
  , "c3" : "2"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00137"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#137"
+ , "c5" : "00171"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#171"
  , "c1" : "Instruction"
  , "c2" : "getParent()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00141"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#141"
+ , "c5" : "00175"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#175"
  , "c1" : "void"
  , "c2" : "endSwitch(LinkRendering)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00147"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#147"
+ , "c5" : "00181"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#181"
  , "c1" : "boolean"
  , "c2" : "addNote(Display;NotePosition;NoteType;Colors;Swimlane)"
  , "c3" : "3"
@@ -222,136 +222,136 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.containsBreak@POLYN167033 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.containsBreak@POLYN167237 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.containsBreak@POLYN167033 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.containsBreak@POLYN167237 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method add arguments Instruction  ins"
+ , "c3" : "QC-JAV000006[00093] For method add arguments Instruction  ins"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.add@POLYN167827 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.add@POLYN168031 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.add@POLYN167827 the MagicNumber/String  'No 'case' in this switch' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.add@POLYN168031 the MagicNumber/String  'No 'case' in this switch' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#67"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#101"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00067] For method createGtile arguments ISkinParam  skinParam|StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00101] For method createGtile arguments ISkinParam  skinParam|StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#81"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#115"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00081] For method createFtile arguments FtileFactory  factory"
+ , "c3" : "QC-JAV000006[00115] For method createFtile arguments FtileFactory  factory"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#81"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#115"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00081] The argument factory is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00115] The argument factory is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#103"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.getSwimlanes@POLYN169798 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.getSwimlanes@POLYN170002 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#124"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.getLast@POLYN170526 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.getLast@POLYN170730 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#127"
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#161"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00127] For method switchCase arguments Display  labelCase|LinkRendering  nextLinkRenderer"
+ , "c3" : "QC-JAV000006[00161] For method switchCase arguments Display  labelCase|LinkRendering  nextLinkRenderer"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#128"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.switchCase@POLYN170715 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.switchCase@POLYN170919 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#131"
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.switchCase@POLYN170715 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.switchCase@POLYN170919 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#134"
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.switchCase@POLYN170715 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.switchCase@POLYN170919 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#141"
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#175"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00141] For method endSwitch arguments LinkRendering  nextLinkRenderer"
+ , "c3" : "QC-JAV000006[00175] For method endSwitch arguments LinkRendering  nextLinkRenderer"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#147"
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#181"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00147] For method addNote arguments Display  note|NotePosition  position|NoteType  type|Colors  colors|Swimlane  swimlaneNote"
+ , "c3" : "QC-JAV000006[00181] For method addNote arguments Display  note|NotePosition  position|NoteType  type|Colors  colors|Swimlane  swimlaneNote"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#148"
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.addNote@POLYN171605 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.addNote@POLYN171809 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#141"
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#175"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00141] Void method endSwitch is empty or contains only a return."
+ , "c3" : "QC-JAV000005[00175] Void method endSwitch is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#141"
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#175"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00141] Void method endSwitch is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00175] Void method endSwitch is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

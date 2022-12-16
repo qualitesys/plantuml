@@ -2,13 +2,13 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.Stairs"
 class net.sourceforge.plantuml.sequencediagram.graphic.Stairs {
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#17]]]
-+addStep(double;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#28]]]
-+getMaxValue() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#46]]]
-+getYs() : List<Double> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#56]]]
--getLastY() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#60]]]
-+getValue(double) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#67]]]
--getValueSlow(double) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#76]]]
-+getLastValue() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#88]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#51]]]
++addStep(double;int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#62]]]
++getMaxValue() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#80]]]
++getYs() : List<Double> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#90]]]
+-getLastY() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#94]]]
++getValue(double) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#101]]]
+-getValueSlow(double) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#110]]]
++getLastValue() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#122]]]
 } 
 @enduml

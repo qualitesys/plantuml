@@ -2,7 +2,7 @@
 !pragma layout smetana
 "AbstractExtremityFactoryExtremityFactory" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryArrowAndCircle"
 class net.sourceforge.plantuml.svek.extremity.ExtremityFactoryArrowAndCircle {
-+ExtremityFactoryArrowAndCircle(HColor) : ExtremityFactoryArrowAndCircle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryArrowAndCircle.java.html#13]]]
-+createUDrawable(XPoint2D;XPoint2D;XPoint2D;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryArrowAndCircle.java.html#18]]]
++ExtremityFactoryArrowAndCircle(HColor) : ExtremityFactoryArrowAndCircle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryArrowAndCircle.java.html#47]]]
++createUDrawable(XPoint2D;XPoint2D;XPoint2D;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryArrowAndCircle.java.html#52]]]
 } 
 @enduml

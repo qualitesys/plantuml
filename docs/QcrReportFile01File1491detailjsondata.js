@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.mda.MDAEntityImpl" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mda/MDAEntityImpl.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mda/MDAEntityImpl.java.html#45"
  , "c1" : "MDAEntityImpl"
  , "c2" : "MDAEntityImpl(ILeaf)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/mda/MDAEntityImpl.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/mda/MDAEntityImpl.java.html#49"
  , "c1" : "String"
  , "c2" : "getName()"
  , "c3" : "1"

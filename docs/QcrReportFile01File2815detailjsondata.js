@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "org.stathissideris.ascii2image.core.ConversionOptions" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#13"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#35"
  , "c1" : "void"
  , "c2" : "setDebug(boolean)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#18"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#40"
  , "c1" : "ConversionOptions"
  , "c2" : "ConversionOptions()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#20"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#42"
  , "c1" : "void"
  , "c2" : "setDropShadows(boolean)"
  , "c3" : "1"
@@ -93,24 +93,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#10"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00010] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00032] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#13"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#35"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method setDebug arguments boolean  value"
+ , "c3" : "QC-JAV000006[00035] For method setDebug arguments boolean  value"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#20"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#42"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method setDropShadows arguments boolean  dropShadows"
+ , "c3" : "QC-JAV000006[00042] For method setDropShadows arguments boolean  dropShadows"
 }} 
 ]
 , 

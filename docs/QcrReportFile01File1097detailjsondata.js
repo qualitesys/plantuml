@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.GroupHierarchy" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupHierarchy.java.html#9"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupHierarchy.java.html#43"
  , "c1" : "IGroup"
  , "c2" : "getRootGroup()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupHierarchy.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupHierarchy.java.html#45"
  , "c1" : "SuperGroup"
  , "c2" : "getRootSuperGroup()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupHierarchy.java.html#13"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupHierarchy.java.html#47"
  , "c1" : "Collection<IGroup>"
  , "c2" : "getChildrenGroups(IGroup)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupHierarchy.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupHierarchy.java.html#49"
  , "c1" : "Set<SuperGroup>"
  , "c2" : "getAllSuperGroups()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupHierarchy.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/GroupHierarchy.java.html#51"
  , "c1" : "boolean"
  , "c2" : "isEmpty(IGroup)"
  , "c3" : "1"

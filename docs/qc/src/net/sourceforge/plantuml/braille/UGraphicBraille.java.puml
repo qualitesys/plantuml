@@ -2,10 +2,10 @@
 !pragma layout smetana
 "AbstractUGraphic<BrailleGrid>ClipContainer" <|-- "net.sourceforge.plantuml.braille.UGraphicBraille"
 class net.sourceforge.plantuml.braille.UGraphicBraille {
-copyUGraphic() : AbstractCommonUGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#31]]]
-+UGraphicBraille(HColor;ColorMapper;StringBounder) : UGraphicBraille [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#35]]]
--UGraphicBraille(UGraphicBraille) : UGraphicBraille [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#40]]]
--register() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#61]]]
-+writeToStream(OutputStream;String;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#79]]]
+copyUGraphic() : AbstractCommonUGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#64]]]
++UGraphicBraille(HColor;ColorMapper;StringBounder) : UGraphicBraille [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#68]]]
+-UGraphicBraille(UGraphicBraille) : UGraphicBraille [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#73]]]
+-register() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#94]]]
++writeToStream(OutputStream;String;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/UGraphicBraille.java.html#112]]]
 } 
 @enduml

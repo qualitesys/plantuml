@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.ebnf.Token"
 class net.sourceforge.plantuml.ebnf.Token {
-+Token(Symbol;String) : Token [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/Token.java.html#9]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/Token.java.html#17]]]
-+getSymbol() : Symbol [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/Token.java.html#23]]]
-+getData() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/Token.java.html#27]]]
++Token(Symbol;String) : Token [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/Token.java.html#43]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/Token.java.html#51]]]
++getSymbol() : Symbol [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/Token.java.html#57]]]
++getData() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/Token.java.html#61]]]
 } 
 @enduml

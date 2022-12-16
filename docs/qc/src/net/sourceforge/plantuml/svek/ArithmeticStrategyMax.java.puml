@@ -2,7 +2,7 @@
 !pragma layout smetana
 "ArithmeticStrategy" <|-- "net.sourceforge.plantuml.svek.ArithmeticStrategyMax"
 class net.sourceforge.plantuml.svek.ArithmeticStrategyMax {
-+eat(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategyMax.java.html#8]]]
-+getResult() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategyMax.java.html#14]]]
++eat(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategyMax.java.html#42]]]
++getResult() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ArithmeticStrategyMax.java.html#48]]]
 } 
 @enduml

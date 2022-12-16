@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "h.ST_HDict_t" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/h/ST_HDict_t.java.html#14"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/h/ST_HDict_t.java.html#58"
  , "c1" : "Object"
  , "c2" : "getTheField(OFFSET)"
  , "c3" : "3"
@@ -82,38 +82,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/h/ST_HDict_t.java.html#10"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/h/ST_HDict_t.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00010] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00054] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/h/ST_HDict_t.java.html#14"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/h/ST_HDict_t.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method getTheField arguments OFFSET  offset"
+ , "c3" : "QC-JAV000006[00058] For method getTheField arguments OFFSET  offset"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/h/ST_HDict_t.java.html#15"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/h/ST_HDict_t.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method h.ST_HDict_t.getTheField@POLYN153461 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method h.ST_HDict_t.getTheField@POLYN153725 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/h/ST_HDict_t.java.html#15"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/h/ST_HDict_t.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method h.ST_HDict_t.getTheField@POLYN153461 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method h.ST_HDict_t.getTheField@POLYN153725 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/h/ST_HDict_t.java.html#18"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/h/ST_HDict_t.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method h.ST_HDict_t.getTheField@POLYN153461 the MagicNumber/String  'key' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method h.ST_HDict_t.getTheField@POLYN153725 the MagicNumber/String  'key' should be converted to const"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.stdlib.LoadJson" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00034"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#34"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#101"
  , "c1" : "TFunctionSignature"
  , "c2" : "getSignature()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#38"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#105"
  , "c1" : "boolean"
  , "c2" : "canCover(int;Set<String>)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#42"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#109"
  , "c1" : "TValue"
  , "c2" : "executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#62"
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#134"
  , "c1" : "String"
  , "c2" : "getDefaultJson(List<TValue>)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#70"
+ , "c5" : "00147"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#147"
  , "c1" : "String"
  , "c2" : "getCharset(List<TValue>)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#78"
+ , "c5" : "00163"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#163"
  , "c1" : "String"
  , "c2" : "loadStringData(String;String)"
  , "c3" : "6"
@@ -127,262 +127,262 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#35"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.getSignature@POLYN174456 the MagicNumber/String  '%load_json' should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.getSignature@POLYN174966 the MagicNumber/String  '%load_json' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#35"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.getSignature@POLYN174456 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.getSignature@POLYN174966 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#38"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#105"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArgument"
+ , "c3" : "QC-JAV000006[00105] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArgument"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#39"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.canCover@POLYN174606 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.canCover@POLYN175116 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#39"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.canCover@POLYN174606 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.canCover@POLYN175116 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#39"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.canCover@POLYN174606 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.canCover@POLYN175116 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#42"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#109"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  named"
+ , "c3" : "QC-JAV000006[00109] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  named"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#42"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#109"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00042] The argument values is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00109] The argument values is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#44"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.executeReturnFunction@POLYN174876 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.executeReturnFunction@POLYN175386 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#47"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.executeReturnFunction@POLYN174876 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.executeReturnFunction@POLYN175386 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#54"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.executeReturnFunction@POLYN174876 the MagicNumber/String  'JSON parse issue in source ' should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.executeReturnFunction@POLYN175386 the MagicNumber/String  'JSON parse issue in source ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#54"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.executeReturnFunction@POLYN174876 the MagicNumber/String  ' on location ' should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.executeReturnFunction@POLYN175386 the MagicNumber/String  ' on location ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#57"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.executeReturnFunction@POLYN174876 the MagicNumber/String  'JSON encoding issue in source ' should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.executeReturnFunction@POLYN175386 the MagicNumber/String  'JSON encoding issue in source ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#57"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.executeReturnFunction@POLYN174876 the MagicNumber/String  ': ' should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.executeReturnFunction@POLYN175386 the MagicNumber/String  ': ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#62"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#134"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method getDefaultJson arguments List&lt;TValue &gt;  values"
+ , "c3" : "QC-JAV000006[00134] For method getDefaultJson arguments List&lt;TValue &gt;  values"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#62"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#134"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00062] The argument values is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00134] The argument values is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#63"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.getDefaultJson@POLYN176405 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.getDefaultJson@POLYN176915 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#64"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.getDefaultJson@POLYN176405 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.getDefaultJson@POLYN176915 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#70"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#147"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00070] For method getCharset arguments List&lt;TValue &gt;  values"
+ , "c3" : "QC-JAV000006[00147] For method getCharset arguments List&lt;TValue &gt;  values"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#70"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#147"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00070] The argument values is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00147] The argument values is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#71"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.getCharset@POLYN176813 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.getCharset@POLYN177323 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#72"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.getCharset@POLYN176813 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.getCharset@POLYN177323 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#78"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#163"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method loadStringData arguments String  path|String  charset"
+ , "c3" : "QC-JAV000006[00163] For method loadStringData arguments String  path|String  charset"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#78"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#163"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00078] The argument path is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00163] The argument path is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#80"
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177398 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177908 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#81"
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177398 the MagicNumber/String  'http://' should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177908 the MagicNumber/String  'http://' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#81"
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177398 the MagicNumber/String  'https://' should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177908 the MagicNumber/String  'https://' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#83"
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177398 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177908 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#84"
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177398 the MagicNumber/String  'load JSON: Invalid URL ' should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177908 the MagicNumber/String  'load JSON: Invalid URL ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#89"
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177398 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177908 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#90"
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177398 the MagicNumber/String  1024 should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177908 the MagicNumber/String  1024 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#90"
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177398 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177908 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#96"
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177398 the MagicNumber/String  'load JSON: Cannot read file ' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177908 the MagicNumber/String  'load JSON: Cannot read file ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#96"
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177398 the MagicNumber/String  '. ' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177908 the MagicNumber/String  '. ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#100"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177398 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177908 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#100"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177398 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177908 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#101"
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177398 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.tim.stdlib.LoadJson.loadStringData@POLYN177908 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

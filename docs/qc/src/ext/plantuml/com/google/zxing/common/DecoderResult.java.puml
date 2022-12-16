@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "ext.plantuml.com.google.zxing.common.DecoderResult"
 class ext.plantuml.com.google.zxing.common.DecoderResult {
-+DecoderResult(byte[];String;Vector;ErrorCorrectionLevel) : DecoderResult [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/DecoderResult.java.html#17]]]
-+getRawBytes() : byte[] [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/DecoderResult.java.html#27]]]
-+getText() : String [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/DecoderResult.java.html#31]]]
-+getByteSegments() : Vector [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/DecoderResult.java.html#35]]]
-+getECLevel() : ErrorCorrectionLevel [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/DecoderResult.java.html#39]]]
++DecoderResult(byte[];String;Vector;ErrorCorrectionLevel) : DecoderResult [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/DecoderResult.java.html#37]]]
++getRawBytes() : byte[] [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/DecoderResult.java.html#47]]]
++getText() : String [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/DecoderResult.java.html#51]]]
++getByteSegments() : Vector [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/DecoderResult.java.html#55]]]
++getECLevel() : ErrorCorrectionLevel [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/DecoderResult.java.html#59]]]
 } 
 @enduml

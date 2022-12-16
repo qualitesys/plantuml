@@ -2,10 +2,10 @@
 !pragma layout smetana
 "SingleMultiFactoryCommand<ActivityDiagram>" <|-- "net.sourceforge.plantuml.command.note.CommandFactoryNoteActivity"
 class net.sourceforge.plantuml.command.note.CommandFactoryNoteActivity {
--getRegexConcatMultiLine() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteActivity.java.html#37]]]
--getRegexConcatSingleLine() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteActivity.java.html#47]]]
-+createMultiLine(boolean) : Command<ActivityDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteActivity.java.html#60]]]
-+createSingleLine() : Command<ActivityDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteActivity.java.html#102]]]
--executeInternal(ActivityDiagram;RegexResult;IEntity) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteActivity.java.html#117]]]
+-getRegexConcatMultiLine() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteActivity.java.html#71]]]
+-getRegexConcatSingleLine() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteActivity.java.html#81]]]
++createMultiLine(boolean) : Command<ActivityDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteActivity.java.html#94]]]
++createSingleLine() : Command<ActivityDiagram> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteActivity.java.html#136]]]
+-executeInternal(ActivityDiagram;RegexResult;IEntity) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/CommandFactoryNoteActivity.java.html#151]]]
 } 
 @enduml

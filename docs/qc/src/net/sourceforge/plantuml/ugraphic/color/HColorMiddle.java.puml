@@ -2,9 +2,9 @@
 !pragma layout smetana
 "HColor" <|-- "net.sourceforge.plantuml.ugraphic.color.HColorMiddle"
 class net.sourceforge.plantuml.ugraphic.color.HColorMiddle {
-HColorMiddle(HColor;HColor) : HColorMiddle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorMiddle.java.html#11]]]
-+getColor1() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorMiddle.java.html#16]]]
-+getColor2() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorMiddle.java.html#20]]]
-+toColor(ColorMapper) : Color [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorMiddle.java.html#25]]]
+HColorMiddle(HColor;HColor) : HColorMiddle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorMiddle.java.html#45]]]
++getColor1() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorMiddle.java.html#50]]]
++getColor2() : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorMiddle.java.html#54]]]
++toColor(ColorMapper) : Color [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorMiddle.java.html#59]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.style.Style" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#65"
  , "c1" : "Style"
  , "c2" : "Style(StyleSignatureBasic;Map<PName,Value>)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#70"
  , "c1" : "Style"
  , "c2" : "deltaPriority(int)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#82"
  , "c1" : "void"
  , "c2" : "printMe()"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#61"
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#95"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#65"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#99"
  , "c1" : "Value"
  , "c2" : "value(PName)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#73"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#107"
  , "c1" : "boolean"
  , "c2" : "hasValue(PName)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#77"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#111"
  , "c1" : "Style"
  , "c2" : "mergeWith(Style;MergeStrategy)"
  , "c3" : "4"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#93"
+ , "c5" : "00127"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#127"
  , "c1" : "Style"
  , "c2" : "eventuallyOverride(PName;HColor)"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00103"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#103"
+ , "c5" : "00137"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#137"
  , "c1" : "Style"
  , "c2" : "eventuallyOverride(PName;double)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#107"
+ , "c5" : "00141"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#141"
  , "c1" : "Style"
  , "c2" : "eventuallyOverride(PName;String)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#113"
+ , "c5" : "00147"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#147"
  , "c1" : "Style"
  , "c2" : "eventuallyOverride(Colors)"
  , "c3" : "5"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#132"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#166"
  , "c1" : "Style"
  , "c2" : "eventuallyOverride(SymbolContext)"
  , "c3" : "3"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00143"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#143"
+ , "c5" : "00177"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#177"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "getSignature()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00147"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#147"
+ , "c5" : "00181"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#181"
  , "c1" : "UFont"
  , "c2" : "getUFont()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00154"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#154"
+ , "c5" : "00188"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#188"
  , "c1" : "FontConfiguration"
  , "c2" : "getFontConfiguration(HColorSet)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00158"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#158"
+ , "c5" : "00192"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#192"
  , "c1" : "FontConfiguration"
  , "c2" : "getFontConfiguration(HColorSet;Colors)"
  , "c3" : "2"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00169"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#169"
+ , "c5" : "00203"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#203"
  , "c1" : "SymbolContext"
  , "c2" : "getSymbolContext(HColorSet;Colors)"
  , "c3" : "3"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00183"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#183"
+ , "c5" : "00217"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#217"
  , "c1" : "SymbolContext"
  , "c2" : "getSymbolContext(HColorSet)"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00187"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#187"
+ , "c5" : "00221"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#221"
  , "c1" : "Style"
  , "c2" : "eventuallyOverride(UStroke)"
  , "c3" : "2"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00198"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#198"
+ , "c5" : "00232"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#232"
  , "c1" : "UStroke"
  , "c2" : "getStroke()"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00202"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#202"
+ , "c5" : "00236"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#236"
  , "c1" : "UStroke"
  , "c2" : "getStroke(PName;PName)"
  , "c3" : "3"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00221"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#221"
+ , "c5" : "00255"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#255"
  , "c1" : "UStroke"
  , "c2" : "getStroke(Colors)"
  , "c3" : "2"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00229"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#229"
+ , "c5" : "00263"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#263"
  , "c1" : "LineBreakStrategy"
  , "c2" : "wrapWidth()"
  , "c3" : "1"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00234"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#234"
+ , "c5" : "00268"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#268"
  , "c1" : "ClockwiseTopRightBottomLeft"
  , "c2" : "getPadding()"
  , "c3" : "1"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00239"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#239"
+ , "c5" : "00273"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#273"
  , "c1" : "ClockwiseTopRightBottomLeft"
  , "c2" : "getMargin()"
  , "c3" : "1"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00244"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#244"
+ , "c5" : "00278"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#278"
  , "c1" : "HorizontalAlignment"
  , "c2" : "getHorizontalAlignment()"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00248"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#248"
+ , "c5" : "00282"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#282"
  , "c1" : "TextBlock"
  , "c2" : "createTextBlockInternal(Display;HColorSet;ISkinSimple;HorizontalAlignment)"
  , "c3" : "1"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00258"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#258"
+ , "c5" : "00292"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#292"
  , "c1" : "TextBlock"
  , "c2" : "createTextBlockBordered(Display;HColorSet;ISkinSimple;String)"
  , "c3" : "1"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00273"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#273"
+ , "c5" : "00307"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#307"
  , "c1" : "UGraphic"
  , "c2" : "applyStrokeAndLineColor(UGraphic;HColorSet)"
  , "c3" : "3"
@@ -348,556 +348,556 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method deltaPriority arguments int  delta"
+ , "c3" : "QC-JAV000006[00070] For method deltaPriority arguments int  delta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00042] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00076] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.style.Style.deltaPriority@POLYN196200 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.style.Style.printMe@POLYN197015 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.style.Style.printMe@POLYN197015 the MagicNumber/String  ' {' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.style.Style.printMe@POLYN197015 the MagicNumber/String  '  ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.style.Style.printMe@POLYN197015 the MagicNumber/String  ': ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.style.Style.printMe@POLYN197015 the MagicNumber/String  '}' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.style.Style.toString@POLYN197679 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#65"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00065] For method value arguments PName  name"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.style.Style.value@POLYN197811 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#73"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method hasValue arguments PName  name"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#77"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00077] For method mergeWith arguments Style  other|MergeStrategy  strategy"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.style.Style.deltaPriority@POLYN196404 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00083] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.style.Style.printMe@POLYN197219 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#87"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00087] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.style.Style.printMe@POLYN197219 the MagicNumber/String  ' {' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00088] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.style.Style.printMe@POLYN197219 the MagicNumber/String  '  ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#78"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.style.Style.mergeWith@POLYN198264 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.style.Style.printMe@POLYN197219 the MagicNumber/String  ': ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#84"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.style.Style.mergeWith@POLYN198264 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.style.Style.printMe@POLYN197219 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#93"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#96"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.style.Style.toString@POLYN197883 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#99"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00093] For method eventuallyOverride arguments PName  param|HColor  color"
+ , "c3" : "QC-JAV000006[00099] For method value arguments PName  name"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#94"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN199531 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#103"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00103] For method eventuallyOverride arguments PName  param|double  value"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN200271 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.style.Style.value@POLYN198015 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#107"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00107] For method eventuallyOverride arguments PName  param|String  value"
+ , "c3" : "QC-JAV000006[00107] For method hasValue arguments PName  name"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#113"
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#111"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method eventuallyOverride arguments Colors  colors"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN201022 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000006[00111] For method mergeWith arguments Style  other|MergeStrategy  strategy"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN201022 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00117] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN201022 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00121] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#125"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN201022 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00122] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#132"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#112"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.style.Style.mergeWith@POLYN198468 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.style.Style.mergeWith@POLYN198468 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#127"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00132] For method eventuallyOverride arguments SymbolContext  symbolContext"
+ , "c3" : "QC-JAV000006[00127] For method eventuallyOverride arguments PName  param|HColor  color"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#134"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN202123 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN199735 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN202123 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#154"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#137"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00154] For method getFontConfiguration arguments HColorSet  set"
+ , "c3" : "QC-JAV000006[00137] For method eventuallyOverride arguments PName  param|double  value"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#138"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN200475 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#141"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00141] For method eventuallyOverride arguments PName  param|String  value"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#147"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00147] For method eventuallyOverride arguments Colors  colors"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#149"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN201226 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN201226 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.style.Style.getFontConfiguration@POLYN203232 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN201226 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#158"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN201226 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#166"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00158] For method getFontConfiguration arguments HColorSet  set|Colors  colors"
+ , "c3" : "QC-JAV000006[00166] For method eventuallyOverride arguments SymbolContext  symbolContext"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#160"
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.style.Style.getFontConfiguration@POLYN203395 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#160"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.style.Style.getFontConfiguration@POLYN203395 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#161"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.style.Style.getFontConfiguration@POLYN203395 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#169"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00169] For method getSymbolContext arguments HColorSet  set|Colors  colors"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN202327 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.style.Style.getSymbolContext@POLYN204334 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#170"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.style.Style.getSymbolContext@POLYN204334 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00171"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#171"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.style.Style.getSymbolContext@POLYN204334 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00173"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#173"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.style.Style.getSymbolContext@POLYN204334 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00173"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#173"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.style.Style.getSymbolContext@POLYN204334 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#174"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.style.Style.getSymbolContext@POLYN204334 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#183"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00183] For method getSymbolContext arguments HColorSet  set"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#184"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.style.Style.getSymbolContext@POLYN205759 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#187"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00187] For method eventuallyOverride arguments UStroke  stroke"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN202327 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#188"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN205922 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#194"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN205922 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#194"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN205922 the MagicNumber/String  ';' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#202"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00202] For method getStroke arguments PName  thicknessParam|PName  styleParam"
+ , "c3" : "QC-JAV000006[00188] For method getFontConfiguration arguments HColorSet  set"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#189"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.style.Style.getFontConfiguration@POLYN203436 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#192"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00192] For method getFontConfiguration arguments HColorSet  set|Colors  colors"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.style.Style.getFontConfiguration@POLYN203599 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#194"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.style.Style.getFontConfiguration@POLYN203599 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00195"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#195"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.style.Style.getFontConfiguration@POLYN203599 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#203"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00203] For method getSymbolContext arguments HColorSet  set|Colors  colors"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#204"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.style.Style.getSymbolContext@POLYN204538 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#204"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.style.Style.getSymbolContext@POLYN204538 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.style.Style.getStroke@POLYN206769 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.style.Style.getSymbolContext@POLYN204538 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00209"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#209"
+ , "c1" : "00207"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.style.Style.getStroke@POLYN206769 the MagicNumber/String  '-;,' should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.style.Style.getSymbolContext@POLYN204538 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00207"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#207"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.style.Style.getSymbolContext@POLYN204538 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#208"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.style.Style.getSymbolContext@POLYN204538 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#217"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00217] For method getSymbolContext arguments HColorSet  set"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00218"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#218"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.style.Style.getSymbolContext@POLYN205963 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00221"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#221"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00221] For method getStroke arguments Colors  colors"
+ , "c3" : "QC-JAV000006[00221] For method eventuallyOverride arguments UStroke  stroke"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00221"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#221"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00221] The argument colors is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#223"
+ , "c1" : "00222"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.style.Style.getStroke@POLYN208003 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN206126 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00248"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#248"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00248] For method createTextBlockInternal arguments Display  display|HColorSet  set|ISkinSimple  spriteContainer|HorizontalAlignment  alignment"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00248"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#248"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00248] The argument display is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00258"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#258"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00258] For method createTextBlockBordered arguments Display  note|HColorSet  set|ISkinSimple  spriteContainer|String  id"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00273"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#273"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00273] For method applyStrokeAndLineColor arguments UGraphic  ug|HColorSet  colorSet"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00273"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#273"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00273] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00275"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#275"
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.style.Style.applyStrokeAndLineColor@POLYN211124 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN206126 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#103"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00103] Public method eventuallyOverride is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#228"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.style.Style.eventuallyOverride@POLYN206126 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#113"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00113] Public method eventuallyOverride is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#236"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00236] For method getStroke arguments PName  thicknessParam|PName  styleParam"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#132"
+ , "c1" : "00239"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#239"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.style.Style.getStroke@POLYN206973 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00243"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#243"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.style.Style.getStroke@POLYN206973 the MagicNumber/String  '-;,' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#255"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00255] For method getStroke arguments Colors  colors"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#255"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00255] The argument colors is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#257"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.style.Style.getStroke@POLYN208207 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00282"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#282"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00282] For method createTextBlockInternal arguments Display  display|HColorSet  set|ISkinSimple  spriteContainer|HorizontalAlignment  alignment"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00282"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#282"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00282] The argument display is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00292"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#292"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00292] For method createTextBlockBordered arguments Display  note|HColorSet  set|ISkinSimple  spriteContainer|String  id"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#307"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00307] For method applyStrokeAndLineColor arguments UGraphic  ug|HColorSet  colorSet"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#307"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00307] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00309"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#309"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00309] In method net.sourceforge.plantuml.style.Style.applyStrokeAndLineColor@POLYN211328 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#137"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00132] Public method eventuallyOverride is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00137] Public method eventuallyOverride is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#147"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00147] Public method getUFont is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00147] Public method eventuallyOverride is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#154"
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#166"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00154] Public method getFontConfiguration is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00166] Public method eventuallyOverride is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#158"
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#181"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00158] Public method getFontConfiguration is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00181] Public method getUFont is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#169"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#188"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00169] Public method getSymbolContext is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00188] Public method getFontConfiguration is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#183"
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#192"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00183] Public method getSymbolContext is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00192] Public method getFontConfiguration is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#187"
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#203"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00187] Public method eventuallyOverride is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00203] Public method getSymbolContext is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#198"
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#217"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00198] Public method getStroke is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00217] Public method getSymbolContext is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00221"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#221"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00221] Public method getStroke is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00221] Public method eventuallyOverride is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00229"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#229"
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#232"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00229] Public method wrapWidth is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00232] Public method getStroke is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00234"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#234"
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#255"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00234] Public method getPadding is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00255] Public method getStroke is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00239"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#239"
+ , "c1" : "00263"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#263"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00239] Public method getMargin is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00263] Public method wrapWidth is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#244"
+ , "c1" : "00268"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#268"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00244] Public method getHorizontalAlignment is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00258"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#258"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00258] Public method createTextBlockBordered is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00268] Public method getPadding is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00273"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#273"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00273] Public method applyStrokeAndLineColor is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00273] Public method getMargin is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00278"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#278"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00278] Public method getHorizontalAlignment is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00292"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#292"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00292] Public method createTextBlockBordered is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/Style.java.html#307"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00307] Public method applyStrokeAndLineColor is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

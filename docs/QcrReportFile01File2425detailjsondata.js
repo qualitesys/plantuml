@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.expression.ShuntingYard" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#19"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#52"
  , "c1" : "void"
  , "c2" : "traceMe()"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#28"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#61"
  , "c1" : "ShuntingYard"
  , "c2" : "ShuntingYard(TokenIterator;Knowledge)"
  , "c3" : "29"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#91"
+ , "c5" : "00124"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#124"
  , "c1" : "boolean"
  , "c2" : "isVariableName(String)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#95"
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#128"
  , "c1" : "boolean"
  , "c2" : "thereIsAFunctionAtTheTopOfTheOperatorStack()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00100"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#100"
+ , "c5" : "00133"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#133"
  , "c1" : "boolean"
  , "c2" : "thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence(Token)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#109"
+ , "c5" : "00142"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#142"
  , "c1" : "boolean"
  , "c2" : "theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative(Token)"
  , "c3" : "2"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00118"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#118"
+ , "c5" : "00151"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#151"
  , "c1" : "boolean"
  , "c2" : "theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis(Token)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00126"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#126"
+ , "c5" : "00159"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#159"
  , "c1" : "TokenStack"
  , "c2" : "getQueue()"
  , "c3" : "1"
@@ -159,73 +159,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#20"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN165578 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN165776 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#22"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN165578 the MagicNumber/String  '-------------------' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN165776 the MagicNumber/String  '-------------------' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#23"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN165578 the MagicNumber/String  'operatorStack=' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN165776 the MagicNumber/String  'operatorStack=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#24"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN165578 the MagicNumber/String  'ouputQueue=' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN165776 the MagicNumber/String  'ouputQueue=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#25"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN165578 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN165776 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#28"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#61"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00061] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#28"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#61"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument knowledge is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#31"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00031] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#40"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00040] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00041] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAVCWE476[00061] The argument knowledge is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -236,206 +215,227 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#35"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00035] The same method call token.getTokenType() is used several times, should be optimized "
+ , "c3" : "QC-JAV000001[00073] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00074] The same method call operatorStack.peekFirst() is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00084] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN166056 the MagicNumber/String  'token=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN166056 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN166056 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN166056 the MagicNumber/String  'Parsing syntax error about ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN166056 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN166056 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN166056 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#91"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00091] For method isVariableName arguments String  name"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#91"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00091] The argument name is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.isVariableName@POLYN169979 the MagicNumber/String  '[a-zA-Z0-9.$_]+' should be converted to const"
+ , "c3" : "QC-JAV000001[00074] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.thereIsAFunctionAtTheTopOfTheOperatorStack@POLYN170128 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00097] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#100"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#68"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00068] The same method call token.getTokenType() is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00107] The same method call operatorStack.peekFirst() is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00117] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#67"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN166254 the MagicNumber/String  'token=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN166254 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN166254 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#77"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN166254 the MagicNumber/String  'Parsing syntax error about ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#79"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN166254 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN166254 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#116"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN166254 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#124"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00100] For method thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence arguments Token  token"
+ , "c3" : "QC-JAV000006[00124] For method isVariableName arguments String  name"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#100"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#124"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00100] The argument token is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00124] The argument name is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#102"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence@POLYN170390 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.isVariableName@POLYN170177 the MagicNumber/String  '[a-zA-Z0-9.$_]+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#104"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence@POLYN170390 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.thereIsAFunctionAtTheTopOfTheOperatorStack@POLYN170326 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#106"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence@POLYN170390 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#109"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#133"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00109] For method theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative arguments Token  token"
+ , "c3" : "QC-JAV000006[00133] For method thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence arguments Token  token"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#109"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#133"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00109] The argument token is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00133] The argument token is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#111"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00111] The same method call top.getTokenOperator()token.getTokenOperator() is used several times, should be optimized "
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence@POLYN170588 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#111"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative@POLYN170869 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence@POLYN170588 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#113"
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative@POLYN170869 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence@POLYN170588 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative@POLYN170869 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#118"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#142"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00118] For method theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis arguments Token  token"
+ , "c3" : "QC-JAV000006[00142] For method theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative arguments Token  token"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis@POLYN171410 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#142"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00142] The argument token is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#121"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis@POLYN171410 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000021[00144] The same method call top.getTokenOperator()token.getTokenOperator() is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#123"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis@POLYN171410 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative@POLYN171067 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#146"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative@POLYN171067 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#148"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative@POLYN171067 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#151"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00151] For method theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis arguments Token  token"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis@POLYN171608 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#154"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis@POLYN171608 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#156"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis@POLYN171608 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

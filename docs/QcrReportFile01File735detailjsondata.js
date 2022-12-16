@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.argon2.Validation" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/Validation.java.html#30"
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/Validation.java.html#34"
  , "c1" : "void"
  , "c2" : "validateInput(Argon2)"
  , "c3" : "23"
@@ -89,45 +89,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Validation.java.html#28"
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Validation.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00028] The class Validation contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00032] The class Validation contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Validation.java.html#30"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Validation.java.html#34"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method validateInput arguments Argon2  argon2"
+ , "c3" : "QC-JAV000006[00034] For method validateInput arguments Argon2  argon2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Validation.java.html#30"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Validation.java.html#34"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00030] The argument argon2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00034] The argument argon2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Validation.java.html#31"
+ , "c1" : "00035"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Validation.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.argon2.Validation.validateInput@POLYN151006 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.argon2.Validation.validateInput@POLYN151030 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Validation.java.html#37"
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Validation.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.argon2.Validation.validateInput@POLYN151006 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.argon2.Validation.validateInput@POLYN151030 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Validation.java.html#56"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/Validation.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.argon2.Validation.validateInput@POLYN151006 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.argon2.Validation.validateInput@POLYN151030 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

@@ -2,13 +2,13 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpaceWithParticipants"
 class net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpaceWithParticipants {
-+PlayingSpaceWithParticipants(PlayingSpace) : PlayingSpaceWithParticipants [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#28]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#32]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#46]]]
-+getMinX(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#79]]]
-+getNbPages() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#83]]]
-+setIndex(int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#87]]]
--yNewPages() : List<Double> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#93]]]
--drawNewPages(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#97]]]
++PlayingSpaceWithParticipants(PlayingSpace) : PlayingSpaceWithParticipants [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#62]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#66]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#80]]]
++getMinX(StringBounder) : Real [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#113]]]
++getNbPages() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#117]]]
++setIndex(int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#121]]]
+-yNewPages() : List<Double> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#127]]]
+-drawNewPages(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#131]]]
 } 
 @enduml

@@ -2,18 +2,18 @@
 !pragma layout smetana
 "Comparable<ChangeState>" <|-- "net.sourceforge.plantuml.timingdiagram.ChangeState"
 class net.sourceforge.plantuml.timingdiagram.ChangeState {
-+ChangeState(TimeTick;String;Colors;String...) : ChangeState [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#23]]]
-+compareTo(ChangeState) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#33]]]
-+getWhen() : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#37]]]
-+getState() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#41]]]
-+getStates() : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#45]]]
-+getComment() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#49]]]
-+getBackColor(ISkinParam;Style) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#53]]]
--getLineColor(ISkinParam;Style) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#60]]]
--getStroke(Style) : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#67]]]
-+getContext(ISkinParam;Style) : SymbolContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#71]]]
-+isBlank() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#76]]]
-+isCompletelyHidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#80]]]
-+isFlat() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#84]]]
++ChangeState(TimeTick;String;Colors;String...) : ChangeState [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#57]]]
++compareTo(ChangeState) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#67]]]
++getWhen() : TimeTick [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#71]]]
++getState() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#75]]]
++getStates() : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#79]]]
++getComment() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#83]]]
++getBackColor(ISkinParam;Style) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#87]]]
+-getLineColor(ISkinParam;Style) : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#94]]]
+-getStroke(Style) : UStroke [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#101]]]
++getContext(ISkinParam;Style) : SymbolContext [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#105]]]
++isBlank() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#110]]]
++isCompletelyHidden() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#114]]]
++isFlat() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/ChangeState.java.html#118]]]
 } 
 @enduml

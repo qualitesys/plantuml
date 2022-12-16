@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.dot.GraphvizVersionFinder"
 class net.sourceforge.plantuml.cucadiagram.dot.GraphvizVersionFinder {
-+GraphvizVersionFinder(File) : GraphvizVersionFinder [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersionFinder.java.html#35]]]
-+getVersion() : GraphvizVersion [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersionFinder.java.html#39]]]
-+dotVersion() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersionFinder.java.html#81]]]
--getCommandLine() : String[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersionFinder.java.html#102]]]
++GraphvizVersionFinder(File) : GraphvizVersionFinder [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersionFinder.java.html#69]]]
++getVersion() : GraphvizVersion [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersionFinder.java.html#73]]]
++dotVersion() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersionFinder.java.html#115]]]
+-getCommandLine() : String[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizVersionFinder.java.html#136]]]
 } 
 @enduml

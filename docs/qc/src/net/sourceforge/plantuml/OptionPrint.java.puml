@@ -2,17 +2,17 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.OptionPrint"
 class net.sourceforge.plantuml.OptionPrint {
-+printTestDot() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#26]]]
-+printHelp() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#39]]]
--exit(int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#134]]]
-+printLicense() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#141]]]
-+printVersion() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#148]]]
-+interestingProperties() : Collection<String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#166]]]
-+interestingValues() : Collection<String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#191]]]
-+getHostName() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#223]]]
--getHostNameSlow() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#230]]]
--format(long) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#245]]]
-+printAbout() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#249]]]
-+printLanguage() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#256]]]
++printTestDot() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#60]]]
++printHelp() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#73]]]
+-exit(int) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#168]]]
++printLicense() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#175]]]
++printVersion() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#182]]]
++interestingProperties() : Collection<String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#200]]]
++interestingValues() : Collection<String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#225]]]
++getHostName() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#257]]]
+-getHostNameSlow() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#264]]]
+-format(long) : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#279]]]
++printAbout() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#283]]]
++printLanguage() : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/OptionPrint.java.html#290]]]
 } 
 @enduml

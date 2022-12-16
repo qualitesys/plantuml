@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.timingdiagram.graphic.PDrawing" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#14"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#47"
  , "c1" : "double"
  , "c2" : "getFullHeight(StringBounder)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#16"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#49"
  , "c1" : "void"
  , "c2" : "addChange(ChangeState)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#18"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#51"
  , "c1" : "TextBlock"
  , "c2" : "getPart1(double)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#20"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#53"
  , "c1" : "UDrawable"
  , "c2" : "getPart2()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#22"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#55"
  , "c1" : "void"
  , "c2" : "setInitialState(String;Colors)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#24"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PDrawing.java.html#57"
  , "c1" : "void"
  , "c2" : "addConstraint(TimeConstraint)"
  , "c3" : "1"

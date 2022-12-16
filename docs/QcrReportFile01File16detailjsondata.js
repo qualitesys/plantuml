@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.renderer.RenderTarget" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RenderTarget.java.html#8"
+ , "c5" : "00016"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RenderTarget.java.html#16"
  , "c1" : "void"
  , "c2" : "setPixel(int;int;int;int;int;int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RenderTarget.java.html#10"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RenderTarget.java.html#18"
  , "c1" : "void"
  , "c2" : "setPixel(int;int;Color)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RenderTarget.java.html#12"
+ , "c5" : "00020"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RenderTarget.java.html#20"
  , "c1" : "int"
  , "c2" : "getImageWidth()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RenderTarget.java.html#14"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RenderTarget.java.html#22"
  , "c1" : "int"
  , "c2" : "getImageHeight()"
  , "c3" : "1"

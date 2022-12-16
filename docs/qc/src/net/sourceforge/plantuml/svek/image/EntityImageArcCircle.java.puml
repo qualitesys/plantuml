@@ -2,10 +2,10 @@
 !pragma layout smetana
 "AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageArcCircle"
 class net.sourceforge.plantuml.svek.image.EntityImageArcCircle {
-+EntityImageArcCircle(ILeaf;ISkinParam) : EntityImageArcCircle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageArcCircle.java.html#27]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageArcCircle.java.html#45]]]
--getStereoDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageArcCircle.java.html#52]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageArcCircle.java.html#59]]]
-+getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageArcCircle.java.html#75]]]
++EntityImageArcCircle(ILeaf;ISkinParam) : EntityImageArcCircle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageArcCircle.java.html#61]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageArcCircle.java.html#79]]]
+-getStereoDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageArcCircle.java.html#86]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageArcCircle.java.html#93]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageArcCircle.java.html#109]]]
 } 
 @enduml

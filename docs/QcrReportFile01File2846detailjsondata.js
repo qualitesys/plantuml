@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "smetana.core.CString" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#54"
  , "c1" : "boolean"
  , "c2" : "isSameThan(CString)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#62"
  , "c1" : "CString"
  , "c2" : "CString(String)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#70"
  , "c1" : "CString"
  , "c2" : "duplicate()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#82"
  , "c1" : "CString"
  , "c2" : "strdup()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#86"
  , "c1" : "CString"
  , "c2" : "gmalloc(int)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#56"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#90"
  , "c1" : "CString"
  , "c2" : "CString(int)"
  , "c3" : "2"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#63"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#97"
  , "c1" : "CString"
  , "c2" : "CString(List<Character>;int)"
  , "c3" : "3"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#74"
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#108"
  , "c1" : "__ptr__"
  , "c2" : "getTheField(OFFSET)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00082"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#82"
+ , "c5" : "00116"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#116"
  , "c1" : "ST_refstr_t"
  , "c2" : "getParent()"
  , "c3" : "2"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00089"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#89"
+ , "c5" : "00123"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#123"
  , "c1" : "void"
  , "c2" : "setParent(ST_refstr_t)"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00099"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#99"
+ , "c5" : "00133"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#133"
  , "c1" : "CString"
  , "c2" : "plus_(int)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00103"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#103"
+ , "c5" : "00137"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#137"
  , "c1" : "int"
  , "c2" : "comparePointer(__ptr__)"
  , "c3" : "2"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00112"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#112"
+ , "c5" : "00146"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#146"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "4"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00124"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#124"
+ , "c5" : "00158"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#158"
  , "c1" : "List<Character>"
  , "c2" : "getData()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00128"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#128"
+ , "c5" : "00162"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#162"
  , "c1" : "String"
  , "c2" : "getContent()"
  , "c3" : "4"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00140"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#140"
+ , "c5" : "00174"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#174"
  , "c1" : "char"
  , "c2" : "charAt(int)"
  , "c3" : "2"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00150"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#150"
+ , "c5" : "00184"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#184"
  , "c1" : "char"
  , "c2" : "setCharAt(int;char)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00155"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#155"
+ , "c5" : "00189"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#189"
  , "c1" : "int"
  , "c2" : "length()"
  , "c3" : "3"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00166"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#166"
+ , "c5" : "00200"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#200"
  , "c1" : "int"
  , "c2" : "strcmp(CString)"
  , "c3" : "3"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00176"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#176"
+ , "c5" : "00210"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#210"
  , "c1" : "int"
  , "c2" : "strcmp(CString;int)"
  , "c3" : "3"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00186"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#186"
+ , "c5" : "00220"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#220"
  , "c1" : "void"
  , "c2" : "copyFrom(CString;int)"
  , "c3" : "2"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00192"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#192"
+ , "c5" : "00226"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#226"
  , "c1" : "CString"
  , "c2" : "strchr(char)"
  , "c3" : "3"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00201"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#201"
+ , "c5" : "00235"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#235"
  , "c1" : "boolean"
  , "c2" : "isSame(CString)"
  , "c3" : "1"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00205"
- , "c5link" : "././qc/src/smetana/core/CString.java.html#205"
+ , "c5" : "00239"
+ , "c5link" : "././qc/src/smetana/core/CString.java.html#239"
  , "c1" : "int"
  , "c2" : "getUid()"
  , "c3" : "1"
@@ -289,346 +289,346 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method isSameThan arguments CString  other"
+ , "c3" : "QC-JAV000006[00054] For method isSameThan arguments CString  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#54"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00054] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#62"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument string is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00062] The argument string is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method smetana.core.CString.CString@POLYN169859 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method smetana.core.CString.CString@POLYN170063 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method smetana.core.CString.CString@POLYN169859 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method smetana.core.CString.CString@POLYN169859 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method smetana.core.CString.CString@POLYN169859 the MagicNumber/String  '\0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#52"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method gmalloc arguments int  nbytes"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method smetana.core.CString.CString@POLYN170822 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method smetana.core.CString.CString@POLYN170822 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method smetana.core.CString.CString@POLYN170822 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method smetana.core.CString.CString@POLYN170822 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method smetana.core.CString.CString@POLYN170063 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method smetana.core.CString.CString@POLYN171202 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method smetana.core.CString.CString@POLYN170063 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#70"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method smetana.core.CString.CString@POLYN171202 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method smetana.core.CString.CString@POLYN170063 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#74"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#86"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00074] For method getTheField arguments OFFSET  bytes"
+ , "c3" : "QC-JAV000006[00086] For method gmalloc arguments int  nbytes"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#75"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method smetana.core.CString.getTheField@POLYN171771 the MagicNumber/String  'CString::addVirtualBytes ' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method smetana.core.CString.CString@POLYN171026 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#76"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method smetana.core.CString.getTheField@POLYN171771 the MagicNumber/String  'AM ' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method smetana.core.CString.CString@POLYN171026 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#83"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method smetana.core.CString.getParent@POLYN172126 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#89"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00089] For method setParent arguments ST_refstr_t  struct"
+ , "c3" : "QC-JAV000010[00092] In method smetana.core.CString.CString@POLYN171026 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method smetana.core.CString.setParent@POLYN172332 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method smetana.core.CString.CString@POLYN171026 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#99"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method smetana.core.CString.CString@POLYN171406 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#104"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00104] In method smetana.core.CString.CString@POLYN171406 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#108"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00099] For method plus_ arguments int  pointerMove"
+ , "c3" : "QC-JAV000006[00108] For method getTheField arguments OFFSET  bytes"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#103"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#109"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00109] In method smetana.core.CString.getTheField@POLYN171975 the MagicNumber/String  'CString::addVirtualBytes ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#110"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00110] In method smetana.core.CString.getTheField@POLYN171975 the MagicNumber/String  'AM ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#117"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00117] In method smetana.core.CString.getParent@POLYN172330 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#123"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00103] For method comparePointer arguments __ptr__  other"
+ , "c3" : "QC-JAV000006[00123] For method setParent arguments ST_refstr_t  struct"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#115"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method smetana.core.CString.toString@POLYN173170 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method smetana.core.CString.setParent@POLYN172536 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#116"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method smetana.core.CString.toString@POLYN173170 the MagicNumber/String  '(0)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method smetana.core.CString.toString@POLYN173170 the MagicNumber/String  'CString:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method smetana.core.CString.getContent@POLYN173875 the MagicNumber/String  '\0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#140"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#133"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00140] For method charAt arguments int  i"
+ , "c3" : "QC-JAV000006[00133] For method plus_ arguments int  pointerMove"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#137"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00137] For method comparePointer arguments __ptr__  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#149"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00149] In method smetana.core.CString.toString@POLYN173374 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#150"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00150] In method smetana.core.CString.toString@POLYN173374 the MagicNumber/String  '(0)' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#155"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00155] In method smetana.core.CString.toString@POLYN173374 the MagicNumber/String  'CString:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method smetana.core.CString.getContent@POLYN174079 the MagicNumber/String  '\0' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#174"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00150] For method setCharAt arguments int  i|char  c"
+ , "c3" : "QC-JAV000006[00174] For method charAt arguments int  i"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#156"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method smetana.core.CString.length@POLYN174932 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#158"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method smetana.core.CString.length@POLYN174932 the MagicNumber/String  '\0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#166"
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#184"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00166] For method strcmp arguments CString  other"
+ , "c3" : "QC-JAV000006[00184] For method setCharAt arguments int  i|char  c"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#166"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00166] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#167"
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method smetana.core.CString.strcmp@POLYN175329 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#169"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method smetana.core.CString.strcmp@POLYN175329 the MagicNumber/String  '\0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#169"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method smetana.core.CString.strcmp@POLYN175329 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#176"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00176] For method strcmp arguments CString  other|int  num"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#176"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00176] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00177"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#177"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method smetana.core.CString.strcmp@POLYN176012 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#179"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method smetana.core.CString.strcmp@POLYN176012 the MagicNumber/String  '\0' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#179"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method smetana.core.CString.strcmp@POLYN176012 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#183"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method smetana.core.CString.strcmp@POLYN176012 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00186"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#186"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00186] For method copyFrom arguments CString  source|int  nb"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00186"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#186"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00186] The argument source is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#187"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method smetana.core.CString.copyFrom@POLYN176739 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#187"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method smetana.core.CString.copyFrom@POLYN176739 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method smetana.core.CString.length@POLYN175136 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#192"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00192] For method strchr arguments char  c"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method smetana.core.CString.strchr@POLYN177211 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method smetana.core.CString.length@POLYN175136 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/smetana/core/CString.java.html#201"
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#200"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00201] For method isSame arguments CString  other"
+ , "c3" : "QC-JAV000006[00200] For method strcmp arguments CString  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#200"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00200] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#201"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00201] In method smetana.core.CString.strcmp@POLYN175533 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method smetana.core.CString.strcmp@POLYN175533 the MagicNumber/String  '\0' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method smetana.core.CString.strcmp@POLYN175533 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#210"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00210] For method strcmp arguments CString  other|int  num"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#210"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00201] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00210] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#211"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00211] In method smetana.core.CString.strcmp@POLYN176216 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00213"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#213"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00213] In method smetana.core.CString.strcmp@POLYN176216 the MagicNumber/String  '\0' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00213"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#213"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00213] In method smetana.core.CString.strcmp@POLYN176216 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#217"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00217] In method smetana.core.CString.strcmp@POLYN176216 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00220"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#220"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00220] For method copyFrom arguments CString  source|int  nb"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00220"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#220"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00220] The argument source is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#221"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00221] In method smetana.core.CString.copyFrom@POLYN176943 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#221"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00221] In method smetana.core.CString.copyFrom@POLYN176943 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00226"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#226"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00226] For method strchr arguments char  c"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#232"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00232] In method smetana.core.CString.strchr@POLYN177415 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00235"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#235"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00235] For method isSame arguments CString  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00235"
+ , "c1link" : "./qc/src/smetana/core/CString.java.html#235"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00235] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

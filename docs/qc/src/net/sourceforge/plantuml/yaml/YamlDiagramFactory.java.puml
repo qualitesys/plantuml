@@ -2,7 +2,7 @@
 !pragma layout smetana
 "PSystemAbstractFactory" <|-- "net.sourceforge.plantuml.yaml.YamlDiagramFactory"
 class net.sourceforge.plantuml.yaml.YamlDiagramFactory {
-+YamlDiagramFactory() : YamlDiagramFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/yaml/YamlDiagramFactory.java.html#25]]]
-+createSystem(UmlSource;Map<String,String>) : Diagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/yaml/YamlDiagramFactory.java.html#30]]]
++YamlDiagramFactory() : YamlDiagramFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/yaml/YamlDiagramFactory.java.html#59]]]
++createSystem(UmlSource;Map<String,String>) : Diagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/yaml/YamlDiagramFactory.java.html#64]]]
 } 
 @enduml

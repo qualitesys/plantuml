@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<WireDiagram>" <|-- "net.sourceforge.plantuml.wire.CommandSpot"
 class net.sourceforge.plantuml.wire.CommandSpot {
-+CommandSpot() : CommandSpot [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#18]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#22]]]
-executeArg(WireDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#47]]]
++CommandSpot() : CommandSpot [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#52]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#56]]]
+executeArg(WireDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/CommandSpot.java.html#81]]]
 } 
 @enduml

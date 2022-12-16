@@ -2,7 +2,7 @@
 !pragma layout smetana
 "UnsupportedStarStruct" <|-- "h.ST_rank_t"
 class h.ST_rank_t {
-+toString() : String [[[./../../.././qc/src/h/ST_rank_t.java.html#37]]]
-+___(__struct__) : void [[[./../../.././qc/src/h/ST_rank_t.java.html#42]]]
++toString() : String [[[./../../.././qc/src/h/ST_rank_t.java.html#81]]]
++___(__struct__) : void [[[./../../.././qc/src/h/ST_rank_t.java.html#86]]]
 } 
 @enduml

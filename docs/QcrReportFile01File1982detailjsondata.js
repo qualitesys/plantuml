@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.LifeLine" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#86"
  , "c1" : "LifeLine"
  , "c2" : "LifeLine(Pushable;double;boolean)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#58"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#92"
  , "c1" : "void"
  , "c2" : "addSegmentVariation(LifeSegmentVariation;double;SymbolContext)"
  , "c3" : "4"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00079"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#79"
+ , "c5" : "00113"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#113"
  , "c1" : "void"
  , "c2" : "finish(double)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#86"
+ , "c5" : "00120"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#120"
  , "c1" : "int"
  , "c2" : "getMissingClose()"
  , "c3" : "4"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00098"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#98"
+ , "c5" : "00132"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#132"
  , "c1" : "int"
  , "c2" : "getLevel(double)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00102"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#102"
+ , "c5" : "00136"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#136"
  , "c1" : "int"
  , "c2" : "getMaxLevel()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00106"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#106"
+ , "c5" : "00140"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#140"
  , "c1" : "double"
  , "c2" : "getRightShift(double)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00110"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#110"
+ , "c5" : "00144"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#144"
  , "c1" : "double"
  , "c2" : "getLeftShift(double)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00114"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#114"
+ , "c5" : "00148"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#148"
  , "c1" : "double"
  , "c2" : "getMaxRightShift()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00118"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#118"
+ , "c5" : "00152"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#152"
  , "c1" : "double"
  , "c2" : "getMaxLeftShift()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00122"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#122"
+ , "c5" : "00156"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#156"
  , "c1" : "double"
  , "c2" : "getRightShiftAtLevel(int)"
  , "c3" : "2"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00129"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#129"
+ , "c5" : "00163"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#163"
  , "c1" : "double"
  , "c2" : "getLeftShiftAtLevel(int)"
  , "c3" : "2"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00136"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#136"
+ , "c5" : "00170"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#170"
  , "c1" : "double"
  , "c2" : "getStartingX(StringBounder)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00141"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#141"
+ , "c5" : "00175"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#175"
  , "c1" : "SegmentColored"
  , "c2" : "getSegment(int)"
  , "c3" : "6"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00161"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#161"
+ , "c5" : "00195"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#195"
  , "c1" : "Collection<SegmentColored>"
  , "c2" : "getSegmentsCutted(StringBounder;int)"
  , "c3" : "2"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00169"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#169"
+ , "c5" : "00203"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#203"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic;Rose;ISkinParam)"
  , "c3" : "6"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00207"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#207"
+ , "c5" : "00241"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#241"
  , "c1" : "void"
  , "c2" : "setCreate(double)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00211"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#211"
+ , "c5" : "00245"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#245"
  , "c1" : "double"
  , "c2" : "getCreate()"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00215"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#215"
+ , "c5" : "00249"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#249"
  , "c1" : "double"
  , "c2" : "getDestroy()"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00223"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#223"
+ , "c5" : "00257"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#257"
  , "c1" : "boolean"
  , "c2" : "shadowing()"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00227"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#227"
+ , "c5" : "00261"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#261"
  , "c1" : "SymbolContext"
  , "c2" : "getColors()"
  , "c3" : "2"
@@ -276,493 +276,493 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.Variation.toString@POLYN179478 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.Variation.toString@POLYN179682 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#58"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#92"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method addSegmentVariation arguments LifeSegmentVariation  type|double  y|SymbolContext  colors"
+ , "c3" : "QC-JAV000006[00092] For method addSegmentVariation arguments LifeSegmentVariation  type|double  y|SymbolContext  colors"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#58"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#92"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00058] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00092] The argument type is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#59"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.addSegmentVariation@POLYN180321 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.addSegmentVariation@POLYN180525 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#60"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.addSegmentVariation@POLYN180321 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.addSegmentVariation@POLYN180525 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#79"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#113"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00079] For method finish arguments double  y"
+ , "c3" : "QC-JAV000006[00113] For method finish arguments double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#81"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.finish@POLYN181733 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.finish@POLYN181937 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#82"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.finish@POLYN181733 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.finish@POLYN181937 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#87"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getMissingClose@POLYN182152 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getMissingClose@POLYN182356 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#98"
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#132"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00098] For method getLevel arguments double  y"
+ , "c3" : "QC-JAV000006[00132] For method getLevel arguments double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#106"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#140"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00106] For method getRightShift arguments double  y"
+ , "c3" : "QC-JAV000006[00140] For method getRightShift arguments double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#110"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#144"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method getLeftShift arguments double  y"
+ , "c3" : "QC-JAV000006[00144] For method getLeftShift arguments double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#122"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#156"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00122] For method getRightShiftAtLevel arguments int  level"
+ , "c3" : "QC-JAV000006[00156] For method getRightShiftAtLevel arguments int  level"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#123"
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getRightShiftAtLevel@POLYN183381 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getRightShiftAtLevel@POLYN183381 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#126"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getRightShiftAtLevel@POLYN183381 the MagicNumber/String  2.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#129"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00129] For method getLeftShiftAtLevel arguments int  level"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getLeftShiftAtLevel@POLYN183668 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#131"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getLeftShiftAtLevel@POLYN183668 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getLeftShiftAtLevel@POLYN183668 the MagicNumber/String  2.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#136"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00136] For method getStartingX arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getStartingX@POLYN183911 the MagicNumber/String  2.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#141"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00141] For method getSegment arguments int  i"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#143"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184164 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#145"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184164 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#146"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184164 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#152"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184164 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getRightShiftAtLevel@POLYN183585 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184164 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getRightShiftAtLevel@POLYN183585 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#161"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00161] For method getSegmentsCutted arguments StringBounder  stringBounder|int  i"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getRightShiftAtLevel@POLYN183585 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#163"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegmentsCutted@POLYN185739 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#169"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00169] For method drawU arguments UGraphic  ug|Rose  skin|ISkinParam  skinParam"
+ , "c3" : "QC-JAV000006[00163] For method getLeftShiftAtLevel arguments int  level"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#169"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00169] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getLeftShiftAtLevel@POLYN183872 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#169"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00169] The argument skin is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getLeftShiftAtLevel@POLYN183872 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getLeftShiftAtLevel@POLYN183872 the MagicNumber/String  2.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#170"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00170] For method getStartingX arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getStartingX@POLYN184115 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#175"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00175] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#176"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00176] Avoid declaring class instance within loop, performance impact"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00175] For method getSegment arguments int  i"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00177] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#178"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00178] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184368 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00179] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184368 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00180] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184368 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#189"
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00189] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184368 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#194"
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00194] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00177"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#177"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00177] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#178"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00178] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#179"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00179] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00180"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#180"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00180] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#189"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00189] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#194"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00194] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#174"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186162 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#181"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186162 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#185"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186162 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#190"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186162 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#194"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186162 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184368 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#195"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186162 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#207"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00207] For method setCreate arguments double  create"
+ , "c3" : "QC-JAV000006[00195] For method getSegmentsCutted arguments StringBounder  stringBounder|int  i"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00216"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#216"
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getDestroy@POLYN189094 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegmentsCutted@POLYN185943 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#203"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00203] For method drawU arguments UGraphic  ug|Rose  skin|ISkinParam  skinParam"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#203"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00203] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#203"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00203] The argument skin is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#209"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00209] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#210"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00210] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#211"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00211] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#212"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00212] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00213"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#213"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00213] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00214"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#214"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00214] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00223"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#223"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00223] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00228"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getColors@POLYN189273 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00228] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#211"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00211] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#212"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00212] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00213"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#213"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00213] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00214"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#214"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00214] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00223"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#223"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00223] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#228"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00228] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#208"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186366 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#215"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186366 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#219"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186366 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#224"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186366 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00228"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#228"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186366 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getColors@POLYN189273 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186366 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#231"
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#241"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00241] For method setCreate arguments double  create"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getColors@POLYN189273 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getDestroy@POLYN189298 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#102"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00102] Public method getMaxLevel is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00262"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#262"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getColors@POLYN189477 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#106"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00106] Public method getRightShift is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00263"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#263"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00263] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getColors@POLYN189477 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#110"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00110] Public method getLeftShift is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00265"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#265"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getColors@POLYN189477 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#114"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#136"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00114] Public method getMaxRightShift is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00136] Public method getMaxLevel is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#118"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#140"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00118] Public method getMaxLeftShift is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00140] Public method getRightShift is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#211"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#144"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00211] Public method getCreate is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00144] Public method getLeftShift is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00215"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#215"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#148"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00215] Public method getDestroy is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00148] Public method getMaxRightShift is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00227"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#227"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#152"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00227] Public method getColors is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00152] Public method getMaxLeftShift is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#58"
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#245"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00058] Public method addSegmentVariation is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00245] Public method getCreate is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#79"
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#249"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00079] Public method finish is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00249] Public method getDestroy is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#169"
+ , "c1" : "00261"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#261"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00169] Public method drawU is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00261] Public method getColors is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#207"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#92"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00207] Public method setCreate is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00092] Public method addSegmentVariation is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#113"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00113] Public method finish is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#203"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00203] Public method drawU is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#241"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00241] Public method setCreate is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

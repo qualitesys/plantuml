@@ -2,15 +2,15 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.oregon.MagicTable"
 class net.sourceforge.plantuml.oregon.MagicTable {
-+getNeighbours(int) : int[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#28]]]
-+getNeighboursSlow(int) : int[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#35]]]
-+getAllFree() : List<Integer> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#78]]]
-+getAllUsed() : List<Integer> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#88]]]
-+isUsuable(int) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#98]]]
-+burnNumber(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#110]]]
-+getRandomFree(Random) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#120]]]
-+size(Random;MagicTable) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#141]]]
-+main(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#154]]]
-+main2(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#179]]]
++getNeighbours(int) : int[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#62]]]
++getNeighboursSlow(int) : int[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#69]]]
++getAllFree() : List<Integer> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#112]]]
++getAllUsed() : List<Integer> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#122]]]
++isUsuable(int) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#132]]]
++burnNumber(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#144]]]
++getRandomFree(Random) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#154]]]
++size(Random;MagicTable) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#175]]]
++main(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#188]]]
++main2(String[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/MagicTable.java.html#213]]]
 } 
 @enduml

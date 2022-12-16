@@ -2,10 +2,10 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.ugraphic.TextBlockInEllipse"
 class net.sourceforge.plantuml.ugraphic.TextBlockInEllipse {
-+TextBlockInEllipse(TextBlock;StringBounder) : TextBlockInEllipse [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextBlockInEllipse.java.html#17]]]
-+getUEllipse() : UEllipse [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextBlockInEllipse.java.html#31]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextBlockInEllipse.java.html#35]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextBlockInEllipse.java.html#47]]]
-+setDeltaShadow(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextBlockInEllipse.java.html#51]]]
++TextBlockInEllipse(TextBlock;StringBounder) : TextBlockInEllipse [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextBlockInEllipse.java.html#51]]]
++getUEllipse() : UEllipse [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextBlockInEllipse.java.html#65]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextBlockInEllipse.java.html#69]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextBlockInEllipse.java.html#81]]]
++setDeltaShadow(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/TextBlockInEllipse.java.html#85]]]
 } 
 @enduml

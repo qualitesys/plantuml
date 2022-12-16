@@ -2,9 +2,9 @@
 !pragma layout smetana
 "Keyboard" <|-- "net.sourceforge.plantuml.oregon.KeyboardList"
 class net.sourceforge.plantuml.oregon.KeyboardList {
-+KeyboardList(String...) : KeyboardList [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/KeyboardList.java.html#12]]]
-+KeyboardList(Collection<String>) : KeyboardList [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/KeyboardList.java.html#16]]]
-+input() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/KeyboardList.java.html#21]]]
-+hasMore() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/KeyboardList.java.html#28]]]
++KeyboardList(String...) : KeyboardList [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/KeyboardList.java.html#46]]]
++KeyboardList(Collection<String>) : KeyboardList [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/KeyboardList.java.html#50]]]
++input() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/KeyboardList.java.html#55]]]
++hasMore() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/KeyboardList.java.html#62]]]
 } 
 @enduml

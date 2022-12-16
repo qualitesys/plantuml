@@ -2,11 +2,11 @@
 !pragma layout smetana
 "AbstractAtomAtom" <|-- "net.sourceforge.plantuml.creole.atom.AtomMath"
 class net.sourceforge.plantuml.creole.atom.AtomMath {
-+AtomMath(ScientificEquationSafe;HColor;HColor) : AtomMath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#23]]]
--calculateDimensionSlow(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#29]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#36]]]
-+getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#43]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#47]]]
--getColor(ColorMapper;HColor;Color) : Color [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#67]]]
++AtomMath(ScientificEquationSafe;HColor;HColor) : AtomMath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#57]]]
+-calculateDimensionSlow(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#63]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#70]]]
++getStartingAltitude(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#77]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#81]]]
+-getColor(ColorMapper;HColor;Color) : Color [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/atom/AtomMath.java.html#101]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.google.zxing.common.DetectorResult" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/DetectorResult.java.html#13"
+ , "c5" : "00033"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/DetectorResult.java.html#33"
  , "c1" : "DetectorResult"
  , "c2" : "DetectorResult(BitMatrix;ResultPoint[])"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/DetectorResult.java.html#18"
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/DetectorResult.java.html#38"
  , "c1" : "BitMatrix"
  , "c2" : "getBits()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/DetectorResult.java.html#22"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/common/DetectorResult.java.html#42"
  , "c1" : "ResultPoint[]"
  , "c2" : "getPoints()"
  , "c3" : "1"

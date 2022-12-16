@@ -2,7 +2,7 @@
 !pragma layout smetana
 "UnsupportedCCFunction" <|-- "smetana.core.CFunctionAbstract"
 class smetana.core.CFunctionAbstract {
-+CFunctionAbstract(String) : CFunctionAbstract [[[./../../../.././qc/src/smetana/core/CFunctionAbstract.java.html#9]]]
-+getName() : String [[[./../../../.././qc/src/smetana/core/CFunctionAbstract.java.html#13]]]
++CFunctionAbstract(String) : CFunctionAbstract [[[./../../../.././qc/src/smetana/core/CFunctionAbstract.java.html#43]]]
++getName() : String [[[./../../../.././qc/src/smetana/core/CFunctionAbstract.java.html#47]]]
 } 
 @enduml

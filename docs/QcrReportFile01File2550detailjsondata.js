@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.ClipContainer" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00005"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ClipContainer.java.html#5"
+ , "c5" : "00038"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ClipContainer.java.html#38"
  , "c1" : "UClip"
  , "c2" : "getClip()"
  , "c3" : "1"

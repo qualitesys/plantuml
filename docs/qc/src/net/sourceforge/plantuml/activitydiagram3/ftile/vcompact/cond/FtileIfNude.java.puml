@@ -2,18 +2,18 @@
 !pragma layout smetana
 "FtileDimensionMemoize" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileIfNude"
 class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileIfNude {
-FtileIfNude(Ftile;Ftile;Swimlane) : FtileIfNude [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#24]]]
-+getMyChildren() : Collection<Ftile> [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#32]]]
-+hasTwoBranches(StringBounder) : boolean [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#36]]]
-+getSwimlanes() : Set<Swimlane> [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#41]]]
-+getSwimlaneIn() : Swimlane [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#51]]]
-+getSwimlaneOut() : Swimlane [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#55]]]
-getTranslate1(StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#59]]]
-getTranslate2(StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#68]]]
-+getTranslateFor(Ftile;StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#79]]]
-+drawU(UGraphic) : void [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#89]]]
-calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#97]]]
-calculateDimensionInternalSlow(StringBounder) : FtileGeometry [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#107]]]
-widthInner(StringBounder) : double [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#119]]]
+FtileIfNude(Ftile;Ftile;Swimlane) : FtileIfNude [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#58]]]
++getMyChildren() : Collection<Ftile> [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#66]]]
++hasTwoBranches(StringBounder) : boolean [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#70]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#75]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#85]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#89]]]
+getTranslate1(StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#93]]]
+getTranslate2(StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#102]]]
++getTranslateFor(Ftile;StringBounder) : UTranslate [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#113]]]
++drawU(UGraphic) : void [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#123]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#131]]]
+calculateDimensionInternalSlow(StringBounder) : FtileGeometry [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#141]]]
+widthInner(StringBounder) : double [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfNude.java.html#153]]]
 } 
 @enduml

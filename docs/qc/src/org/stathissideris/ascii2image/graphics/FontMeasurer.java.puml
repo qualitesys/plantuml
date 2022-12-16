@@ -2,16 +2,16 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "org.stathissideris.ascii2image.graphics.FontMeasurer"
 class org.stathissideris.ascii2image.graphics.FontMeasurer {
-+FontMeasurer(Font;boolean) : FontMeasurer [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#19]]]
-+getWidthFor(String;int) : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#29]]]
-+getHeightFor(String;int) : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#35]]]
-+getWidthFor(String;Font) : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#41]]]
-+getHeightFor(String;Font) : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#46]]]
-+getBoundsFor(String;Font) : Rectangle2D [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#51]]]
-+getAscent(Font) : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#55]]]
-+getZHeight(Font) : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#61]]]
-+getFontFor(int;String) : Font [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#65]]]
-+getFontFor(int) : Font [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#84]]]
--deriveFont(FontPredicate;float) : Font [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#104]]]
++FontMeasurer(Font;boolean) : FontMeasurer [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#41]]]
++getWidthFor(String;int) : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#51]]]
++getHeightFor(String;int) : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#57]]]
++getWidthFor(String;Font) : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#63]]]
++getHeightFor(String;Font) : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#68]]]
++getBoundsFor(String;Font) : Rectangle2D [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#73]]]
++getAscent(Font) : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#77]]]
++getZHeight(Font) : int [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#83]]]
++getFontFor(int;String) : Font [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#87]]]
++getFontFor(int) : Font [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#106]]]
+-deriveFont(FontPredicate;float) : Font [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#126]]]
 } 
 @enduml

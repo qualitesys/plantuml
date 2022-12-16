@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.flashcode.FlashCodeUtilsNone" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/flashcode/FlashCodeUtilsNone.java.html#9"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/flashcode/FlashCodeUtilsNone.java.html#43"
  , "c1" : "BufferedImage"
  , "c2" : "exportFlashcode(String;Color;Color)"
  , "c3" : "1"
@@ -75,17 +75,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flashcode/FlashCodeUtilsNone.java.html#9"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flashcode/FlashCodeUtilsNone.java.html#43"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00009] For method exportFlashcode arguments String  s|Color  fore|Color  back"
+ , "c3" : "QC-JAV000006[00043] For method exportFlashcode arguments String  s|Color  fore|Color  back"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flashcode/FlashCodeUtilsNone.java.html#10"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/flashcode/FlashCodeUtilsNone.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.flashcode.FlashCodeUtilsNone.exportFlashcode@POLYN145187 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.flashcode.FlashCodeUtilsNone.exportFlashcode@POLYN145391 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

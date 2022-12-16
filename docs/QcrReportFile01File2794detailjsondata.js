@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.xmi.XmlDiagramTransformer" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmlDiagramTransformer.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmlDiagramTransformer.java.html#45"
  , "c1" : "void"
  , "c2" : "transformerXml(OutputStream)"
  , "c3" : "1"

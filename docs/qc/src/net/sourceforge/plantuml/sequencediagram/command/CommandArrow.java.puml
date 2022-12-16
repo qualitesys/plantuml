@@ -2,17 +2,17 @@
 !pragma layout smetana
 "SingleLineCommand2<SequenceDiagram>" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandArrow"
 class net.sourceforge.plantuml.sequencediagram.command.CommandArrow {
-+CommandArrow() : CommandArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#43]]]
-+getColorOrStylePattern() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#47]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#51]]]
--getMulticasts(SequenceDiagram;RegexResult) : List<Participant> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#101]]]
--getOrCreateParticipant(SequenceDiagram;RegexResult;String) : Participant [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#120]]]
--contains(String;String...) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#142]]]
--getDressing(RegexResult;String) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#150]]]
--getInclination(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#157]]]
-executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#170]]]
--manageActivations(String;SequenceDiagram;Participant;Participant;HColor) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#309]]]
--getLength(RegexResult) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#335]]]
-+applyStyle(String;ArrowConfiguration) : ArrowConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#347]]]
++CommandArrow() : CommandArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#77]]]
++getColorOrStylePattern() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#81]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#85]]]
+-getMulticasts(SequenceDiagram;RegexResult) : List<Participant> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#135]]]
+-getOrCreateParticipant(SequenceDiagram;RegexResult;String) : Participant [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#154]]]
+-contains(String;String...) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#176]]]
+-getDressing(RegexResult;String) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#184]]]
+-getInclination(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#191]]]
+executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#204]]]
+-manageActivations(String;SequenceDiagram;Participant;Participant;HColor) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#343]]]
+-getLength(RegexResult) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#369]]]
++applyStyle(String;ArrowConfiguration) : ArrowConfiguration [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#381]]]
 } 
 @enduml

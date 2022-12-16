@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.real.RealUtils"
 class net.sourceforge.plantuml.real.RealUtils {
-+createOrigin() : RealOrigin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#9]]]
-+middle(Real;Real) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#15]]]
-+max(Real...) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#19]]]
-+max(Collection<Real>) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#23]]]
-+min(Real...) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#27]]]
-+min(Collection<Real>) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#31]]]
++createOrigin() : RealOrigin [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#43]]]
++middle(Real;Real) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#49]]]
++max(Real...) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#53]]]
++max(Collection<Real>) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#57]]]
++min(Real...) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#61]]]
++min(Collection<Real>) : Real [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#65]]]
 } 
 @enduml

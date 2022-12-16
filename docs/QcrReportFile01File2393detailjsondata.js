@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.EaterLegacyDefineLong" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#10"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#43"
  , "c1" : "EaterLegacyDefineLong"
  , "c2" : "EaterLegacyDefineLong(StringLocated)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#15"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#48"
  , "c1" : "void"
  , "c2" : "analyze(TContext;TMemory)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00023"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#23"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#56"
  , "c1" : "TFunctionImpl"
  , "c2" : "getFunction()"
  , "c3" : "1"
@@ -93,31 +93,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#15"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00015] For method analyze arguments TContext  context|TMemory  memory"
+ , "c3" : "QC-JAV000006[00048] For method analyze arguments TContext  context|TMemory  memory"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#17"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.tim.EaterLegacyDefineLong.analyze@POLYN146741 the MagicNumber/String  '!definelong' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.EaterLegacyDefineLong.analyze@POLYN146939 the MagicNumber/String  '!definelong' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#19"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.tim.EaterLegacyDefineLong.analyze@POLYN146741 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.EaterLegacyDefineLong.analyze@POLYN146939 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#19"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.tim.EaterLegacyDefineLong.analyze@POLYN146741 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.EaterLegacyDefineLong.analyze@POLYN146939 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

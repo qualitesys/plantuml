@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.gitlog.MagicBox"
 class net.sourceforge.plantuml.gitlog.MagicBox {
-+MagicBox(ISkinParam;GNode) : MagicBox [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#29]]]
--getSmallBlock() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#37]]]
--getCommentBlock() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#42]]]
-+getBigDim(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#51]]]
-+drawBorder(UGraphic;XDimension2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#58]]]
++MagicBox(ISkinParam;GNode) : MagicBox [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#62]]]
+-getSmallBlock() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#70]]]
+-getCommentBlock() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#75]]]
++getBigDim(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#84]]]
++drawBorder(UGraphic;XDimension2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#91]]]
 } 
 @enduml

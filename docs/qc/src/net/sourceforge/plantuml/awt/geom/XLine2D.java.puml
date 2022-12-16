@@ -14,6 +14,6 @@ class net.sourceforge.plantuml.awt.geom.XLine2D {
 +getP2() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#54]]]
 +withPoint1(XPoint2D) : XLine2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#58]]]
 +withPoint2(XPoint2D) : XLine2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#62]]]
-+ptSegDistSq(double;double;double;double;double;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#67]]]
++ptSegDistSq(double;double;double;double;double;double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#85]]]
 } 
 @enduml

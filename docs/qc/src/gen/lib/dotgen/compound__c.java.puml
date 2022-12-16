@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.dotgen.compound__c"
 class gen.lib.dotgen.compound__c {
-+dot_compoundEdges(Object...) : Object [[[./../../../../.././qc/src/gen/lib/dotgen/compound__c.java.html#15]]]
++dot_compoundEdges(Object...) : Object [[[./../../../../.././qc/src/gen/lib/dotgen/compound__c.java.html#59]]]
 } 
 @enduml

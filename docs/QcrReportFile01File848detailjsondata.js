@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.brotli.Context" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c1" : "void"
  , "c2" : "unpackLookupTable(int[];String;String)"
  , "c3" : "8"
@@ -82,311 +82,311 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method unpackLookupTable arguments int[]  lookup|String  map|String  rle"
+ , "c3" : "QC-JAV000006[00055] For method unpackLookupTable arguments int[]  lookup|String  map|String  rle"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00053] The argument map is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00055] The argument map is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00053] The argument rle is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00055] The argument rle is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  0x3F should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  0x3F should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  512 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  512 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  1792 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  1792 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  128 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  128 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  1024 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  1024 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  1152 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  1152 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  1216 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  1216 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  1280 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  1280 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  19 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  19 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  1792 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  1792 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  2032 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  2032 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  1792 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  1792 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  2047 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  2047 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  1536 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  1536 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  1792 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  1792 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#53"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Context.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145437 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.brotli.Context.unpackLookupTable@POLYN145449 the MagicNumber/String  3 should be converted to const"
 }} 
 ]
 , 

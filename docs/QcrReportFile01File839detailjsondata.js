@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.braille.DriverDotPathBraille" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverDotPathBraille.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/DriverDotPathBraille.java.html#45"
  , "c1" : "void"
  , "c2" : "draw(DotPath;double;double;ColorMapper;UParam;BrailleGrid)"
  , "c3" : "2"
@@ -82,31 +82,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverDotPathBraille.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverDotPathBraille.java.html#45"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00011] For method draw arguments DotPath  shape|double  x|double  y|ColorMapper  mapper|UParam  param|BrailleGrid  grid"
+ , "c3" : "QC-JAV000006[00045] For method draw arguments DotPath  shape|double  x|double  y|ColorMapper  mapper|UParam  param|BrailleGrid  grid"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverDotPathBraille.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverDotPathBraille.java.html#45"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00011] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00045] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverDotPathBraille.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverDotPathBraille.java.html#45"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00011] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00045] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverDotPathBraille.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/DriverDotPathBraille.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.braille.DriverDotPathBraille.draw@POLYN146940 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.braille.DriverDotPathBraille.draw@POLYN147144 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

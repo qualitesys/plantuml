@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.SpecificBackcolorable"
 class net.sourceforge.plantuml.SpecificBackcolorable {
-+getColors() : Colors [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpecificBackcolorable.java.html#8]]]
-+setColors(Colors) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpecificBackcolorable.java.html#12]]]
++getColors() : Colors [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpecificBackcolorable.java.html#42]]]
++setColors(Colors) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/SpecificBackcolorable.java.html#46]]]
 } 
 @enduml

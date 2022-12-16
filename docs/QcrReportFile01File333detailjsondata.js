@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.renderer.Transformation" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#14"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#41"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#19"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#55"
  , "c1" : "Transformation"
  , "c2" : "Transformation(int;int;ClippingRectangle;Anchor;Anchor)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#31"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#67"
  , "c1" : "int"
  , "c2" : "transformX(double)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#36"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#72"
  , "c1" : "int"
  , "c2" : "transformY(double)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#41"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#77"
  , "c1" : "int"
  , "c2" : "transformWidth(double)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#46"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#82"
  , "c1" : "int"
  , "c2" : "transformHeight(double)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#50"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#86"
  , "c1" : "int"
  , "c2" : "trim(double)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#58"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#97"
  , "c1" : "GraphPoint"
  , "c2" : "transformBack(int;int)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#62"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/jcckit/renderer/Transformation.java.html#101"
  , "c1" : "void"
  , "c2" : "apply(Graphics2D)"
  , "c3" : "1"
@@ -154,122 +154,122 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#15"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method jcckit.renderer.Transformation.toString@POLYN155049 the MagicNumber/String  '_scale=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#15"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method jcckit.renderer.Transformation.toString@POLYN155049 the MagicNumber/String  ' _x0=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00015"
- , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#15"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method jcckit.renderer.Transformation.toString@POLYN155049 the MagicNumber/String  ' _y0=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#19"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00019] The argument paper is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#20"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument horizontalAnchor is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#20"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument verticalAnchor is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method jcckit.renderer.Transformation.Transformation@POLYN155518 the MagicNumber/String  0.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method jcckit.renderer.Transformation.Transformation@POLYN155518 the MagicNumber/String  0.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#31"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method transformX arguments double  x"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#36"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00036] For method transformY arguments double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#41"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method transformWidth arguments double  width"
+ , "c3" : "QC-JAV000010[00042] In method jcckit.renderer.Transformation.toString@POLYN155283 the MagicNumber/String  '_scale=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
  , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method jcckit.renderer.Transformation.transformWidth@POLYN156979 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method jcckit.renderer.Transformation.toString@POLYN155283 the MagicNumber/String  ' _x0=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#46"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method transformHeight arguments double  height"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#47"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method jcckit.renderer.Transformation.transformHeight@POLYN157164 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method jcckit.renderer.Transformation.toString@POLYN155283 the MagicNumber/String  ' _y0=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#50"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method trim arguments double  number"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#55"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00055] The argument paper is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#58"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method transformBack arguments int  x|int  y"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#56"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00056] The argument horizontalAnchor is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#56"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00056] The argument verticalAnchor is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#60"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00060] In method jcckit.renderer.Transformation.Transformation@POLYN155752 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#62"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00062] In method jcckit.renderer.Transformation.Transformation@POLYN155752 the MagicNumber/String  0.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method apply arguments Graphics2D  g"
+ , "c3" : "QC-JAV000006[00067] For method transformX arguments double  x"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#72"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00072] For method transformY arguments double  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#77"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00077] For method transformWidth arguments double  width"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#78"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00078] In method jcckit.renderer.Transformation.transformWidth@POLYN157213 the MagicNumber/String  0.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#82"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00082] For method transformHeight arguments double  height"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#83"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00083] In method jcckit.renderer.Transformation.transformHeight@POLYN157398 the MagicNumber/String  0.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#86"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00086] For method trim arguments double  number"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#97"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00097] For method transformBack arguments int  x|int  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#101"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00101] For method apply arguments Graphics2D  g"
 }} 
 ]
 , 

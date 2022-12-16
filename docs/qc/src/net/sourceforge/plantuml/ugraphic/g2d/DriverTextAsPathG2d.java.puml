@@ -2,8 +2,8 @@
 !pragma layout smetana
 "UDriver<UText,Graphics2D>" <|-- "net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d"
 class net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d {
-+DriverTextAsPathG2d(EnsureVisible;StringBounder) : DriverTextAsPathG2d [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#33]]]
--printFont() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#38]]]
-+draw(UText;double;double;ColorMapper;UParam;Graphics2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#47]]]
++DriverTextAsPathG2d(EnsureVisible;StringBounder) : DriverTextAsPathG2d [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#67]]]
+-printFont() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#72]]]
++draw(UText;double;double;ColorMapper;UParam;Graphics2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextAsPathG2d.java.html#81]]]
 } 
 @enduml

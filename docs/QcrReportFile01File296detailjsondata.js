@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.graphic.Oval" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00007"
- , "c5link" : "././qc/src/jcckit/graphic/Oval.java.html#7"
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/jcckit/graphic/Oval.java.html#34"
  , "c1" : "Oval"
  , "c2" : "Oval(GraphPoint;double;double;GraphicAttributes)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/jcckit/graphic/Oval.java.html#13"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/jcckit/graphic/Oval.java.html#45"
  , "c1" : "void"
  , "c2" : "renderWith(Renderer)"
  , "c3" : "3"
@@ -84,17 +84,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/jcckit/graphic/Oval.java.html#13"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/jcckit/graphic/Oval.java.html#45"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method renderWith arguments Renderer  renderer"
+ , "c3" : "QC-JAV000006[00045] For method renderWith arguments Renderer  renderer"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/jcckit/graphic/Oval.java.html#18"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/jcckit/graphic/Oval.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method jcckit.graphic.Oval.renderWith@POLYN146734 the MagicNumber/String  ' does not implements OvalRenderer.' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method jcckit.graphic.Oval.renderWith@POLYN146926 the MagicNumber/String  ' does not implements OvalRenderer.' should be converted to const"
 }} 
 ]
 , 

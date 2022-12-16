@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.real.RealDelta" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#9"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#43"
  , "c1" : "RealDelta"
  , "c2" : "RealDelta(Real;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#50"
  , "c1" : "double"
  , "c2" : "getCurrentValueInternal()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#54"
  , "c1" : "Real"
  , "c2" : "addAtLeast(double)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#58"
  , "c1" : "void"
  , "c2" : "ensureBiggerThan(Real)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#62"
  , "c1" : "void"
  , "c2" : "move(double)"
  , "c3" : "1"
@@ -118,52 +118,52 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#9"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#43"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00009] The argument delegated is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00043] The argument delegated is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#10"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN147870 the MagicNumber/String  '[Delegated {' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN148074 the MagicNumber/String  '[Delegated {' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#10"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN147870 the MagicNumber/String  '} d=' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN148074 the MagicNumber/String  '} d=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#10"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN147870 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN148074 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method addAtLeast arguments double  delta"
+ , "c3" : "QC-JAV000006[00054] For method addAtLeast arguments double  delta"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method ensureBiggerThan arguments Real  other"
+ , "c3" : "QC-JAV000006[00058] For method ensureBiggerThan arguments Real  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method move arguments double  delta"
+ , "c3" : "QC-JAV000006[00062] For method move arguments double  delta"
 }} 
 ]
 , 

@@ -2,10 +2,10 @@
 !pragma layout smetana
 "CommandMultilines2<PSystemEbnf>" <|-- "net.sourceforge.plantuml.ebnf.CommandNoteMultilines"
 class net.sourceforge.plantuml.ebnf.CommandNoteMultilines {
-+CommandNoteMultilines() : CommandNoteMultilines [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#21]]]
--color() : ColorParser [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#25]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#29]]]
-+getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#38]]]
-executeNow(PSystemEbnf;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#43]]]
++CommandNoteMultilines() : CommandNoteMultilines [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#55]]]
+-color() : ColorParser [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#59]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#63]]]
++getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#72]]]
+executeNow(PSystemEbnf;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandNoteMultilines.java.html#77]]]
 } 
 @enduml

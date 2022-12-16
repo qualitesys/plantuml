@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.CoordinateSystem" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/jcckit/plot/CoordinateSystem.java.html#11"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/jcckit/plot/CoordinateSystem.java.html#40"
  , "c1" : "GraphicalElement"
  , "c2" : "getView()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/jcckit/plot/CoordinateSystem.java.html#14"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/jcckit/plot/CoordinateSystem.java.html#47"
  , "c1" : "ClippingShape"
  , "c2" : "getClippingShape()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/jcckit/plot/CoordinateSystem.java.html#17"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/jcckit/plot/CoordinateSystem.java.html#54"
  , "c1" : "Transformation"
  , "c2" : "getTransformation()"
  , "c3" : "1"

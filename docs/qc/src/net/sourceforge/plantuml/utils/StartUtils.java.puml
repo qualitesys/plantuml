@@ -2,15 +2,15 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.utils.StartUtils"
 class net.sourceforge.plantuml.utils.StartUtils {
-+beforeStartUml(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#19]]]
-+isArobaseStartDiagram(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#47]]]
-+startsWithSymbolAnd(String;StringLocated) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#55]]]
-+startsWithSymbolAnd(String;String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#59]]]
-+startOrEnd(StringLocated) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#63]]]
-+isArobaseEndDiagram(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#71]]]
-+isArobasePauseDiagram(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#76]]]
-+isArobaseUnpauseDiagram(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#81]]]
-+isExit(CharSequence) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#86]]]
-+getPossibleAppend(StringLocated) : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#93]]]
++beforeStartUml(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#53]]]
++isArobaseStartDiagram(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#81]]]
++startsWithSymbolAnd(String;StringLocated) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#89]]]
++startsWithSymbolAnd(String;String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#93]]]
++startOrEnd(StringLocated) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#97]]]
++isArobaseEndDiagram(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#105]]]
++isArobasePauseDiagram(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#110]]]
++isArobaseUnpauseDiagram(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#115]]]
++isExit(CharSequence) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#120]]]
++getPossibleAppend(StringLocated) : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#127]]]
 } 
 @enduml

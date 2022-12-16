@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "smetana.core.__struct__"
 class smetana.core.__struct__ {
-+copy() : __struct__<C> [[[./../../../.././qc/src/smetana/core/__struct__.java.html#7]]]
-+___(__struct__<C>) : void [[[./../../../.././qc/src/smetana/core/__struct__.java.html#9]]]
++copy() : __struct__<C> [[[./../../../.././qc/src/smetana/core/__struct__.java.html#41]]]
++___(__struct__<C>) : void [[[./../../../.././qc/src/smetana/core/__struct__.java.html#43]]]
 } 
 @enduml

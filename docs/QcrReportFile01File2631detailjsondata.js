@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.comp.ExpandTransform" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#46"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#16"
+ , "c5" : "00050"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#50"
  , "c1" : "void"
  , "c2" : "addExpandIncludingLimit(double;double)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#54"
  , "c1" : "void"
  , "c2" : "addExpandExcludingLimit(double;double)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#58"
  , "c1" : "double"
  , "c2" : "transform(double)"
  , "c3" : "4"
@@ -95,24 +95,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method addExpandIncludingLimit arguments double  position|double  extend"
+ , "c3" : "QC-JAV000006[00050] For method addExpandIncludingLimit arguments double  position|double  extend"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method addExpandExcludingLimit arguments double  position|double  extend"
+ , "c3" : "QC-JAV000006[00054] For method addExpandExcludingLimit arguments double  position|double  extend"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/ExpandTransform.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method transform arguments double  init"
+ , "c3" : "QC-JAV000006[00058] For method transform arguments double  init"
 }} 
 ]
 , 

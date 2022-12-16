@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.json.WriterConfig"
 class net.sourceforge.plantuml.json.WriterConfig {
-createWriter(Writer) : JsonWriter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24]]]
+createWriter(Writer) : JsonWriter [[[./../../../../../.././qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#28]]]
 } 
 @enduml

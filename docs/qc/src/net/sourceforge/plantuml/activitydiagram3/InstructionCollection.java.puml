@@ -2,6 +2,6 @@
 !pragma layout smetana
 "Instruction" <|-- "net.sourceforge.plantuml.activitydiagram3.InstructionCollection"
 class net.sourceforge.plantuml.activitydiagram3.InstructionCollection {
-+getLast() : Instruction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionCollection.java.html#6]]]
++getLast() : Instruction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionCollection.java.html#40]]]
 } 
 @enduml

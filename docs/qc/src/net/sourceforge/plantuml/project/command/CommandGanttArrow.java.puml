@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<GanttDiagram>" <|-- "net.sourceforge.plantuml.project.command.CommandGanttArrow"
 class net.sourceforge.plantuml.project.command.CommandGanttArrow {
-+CommandGanttArrow() : CommandGanttArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow.java.html#18]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow.java.html#22]]]
-executeArg(GanttDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow.java.html#36]]]
++CommandGanttArrow() : CommandGanttArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow.java.html#52]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow.java.html#56]]]
+executeArg(GanttDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow.java.html#70]]]
 } 
 @enduml

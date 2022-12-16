@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.swing.ImageHelper" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#14"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#66"
  , "c1" : "BufferedImage"
  , "c2" : "getScaledInstance(BufferedImage;Dimension;RenderingHints;boolean)"
  , "c3" : "9"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#64"
+ , "c5" : "00120"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#120"
  , "c1" : "BufferedImage"
  , "c2" : "toBufferedImage(Image)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#81"
+ , "c5" : "00147"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#147"
  , "c1" : "Dimension"
  , "c2" : "getScaledDimension(Dimension;Dimension)"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00108"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#108"
+ , "c5" : "00174"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#174"
  , "c1" : "Dimension"
  , "c2" : "getScaledDimensionWidthFit(Dimension;Dimension)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00127"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#127"
+ , "c5" : "00193"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#193"
  , "c1" : "Dimension"
  , "c2" : "getScaledDimension(Dimension;double)"
  , "c3" : "1"
@@ -125,178 +125,178 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#14"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method getScaledInstance arguments BufferedImage  img|Dimension  targetDim|RenderingHints  hints|boolean  higherQuality"
+ , "c3" : "QC-JAV000006[00066] For method getScaledInstance arguments BufferedImage  img|Dimension  targetDim|RenderingHints  hints|boolean  higherQuality"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#14"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#66"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument img is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00066] The argument img is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#14"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#66"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument targetDim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00066] The argument targetDim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#51"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00051] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00103] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#52"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00052] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00104] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#38"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.swing.ImageHelper.getScaledInstance@POLYN168242 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.swing.ImageHelper.getScaledInstance@POLYN168638 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#45"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.swing.ImageHelper.getScaledInstance@POLYN168242 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.swing.ImageHelper.getScaledInstance@POLYN168638 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#54"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.swing.ImageHelper.getScaledInstance@POLYN168242 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.swing.ImageHelper.getScaledInstance@POLYN168638 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#54"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.swing.ImageHelper.getScaledInstance@POLYN168242 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.swing.ImageHelper.getScaledInstance@POLYN168638 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#54"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.swing.ImageHelper.getScaledInstance@POLYN168242 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.swing.ImageHelper.getScaledInstance@POLYN168638 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#64"
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#120"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method toBufferedImage arguments Image  img"
+ , "c3" : "QC-JAV000006[00120] For method toBufferedImage arguments Image  img"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#64"
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#120"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00064] The argument img is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00120] The argument img is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#69"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.swing.ImageHelper.toBufferedImage@POLYN170609 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.swing.ImageHelper.toBufferedImage@POLYN171005 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#69"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.swing.ImageHelper.toBufferedImage@POLYN170609 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.swing.ImageHelper.toBufferedImage@POLYN171005 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#74"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.swing.ImageHelper.toBufferedImage@POLYN170609 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.swing.ImageHelper.toBufferedImage@POLYN171005 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#74"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.swing.ImageHelper.toBufferedImage@POLYN170609 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.swing.ImageHelper.toBufferedImage@POLYN171005 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#74"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.swing.ImageHelper.toBufferedImage@POLYN170609 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.swing.ImageHelper.toBufferedImage@POLYN171005 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#81"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#147"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00081] For method getScaledDimension arguments Dimension  imgSize|Dimension  boundary"
+ , "c3" : "QC-JAV000006[00147] For method getScaledDimension arguments Dimension  imgSize|Dimension  boundary"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#81"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#147"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00081] The argument imgSize is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00147] The argument imgSize is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#81"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#147"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00081] The argument boundary is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00147] The argument boundary is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#108"
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#174"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00108] For method getScaledDimensionWidthFit arguments Dimension  imgSize|Dimension  boundary"
+ , "c3" : "QC-JAV000006[00174] For method getScaledDimensionWidthFit arguments Dimension  imgSize|Dimension  boundary"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#108"
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#174"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00108] The argument imgSize is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00174] The argument imgSize is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#108"
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#174"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00108] The argument boundary is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00174] The argument boundary is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#127"
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#193"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00127] For method getScaledDimension arguments Dimension  dim|double  zoom"
+ , "c3" : "QC-JAV000006[00193] For method getScaledDimension arguments Dimension  dim|double  zoom"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#127"
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageHelper.java.html#193"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00127] The argument dim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00193] The argument dim is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

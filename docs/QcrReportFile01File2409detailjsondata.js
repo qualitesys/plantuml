@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.tim.TFunctionImpl" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#26"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#59"
  , "c1" : "TFunctionImpl"
  , "c2" : "TFunctionImpl(String;List<TFunctionArgument>;boolean;TFunctionType)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#38"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#71"
  , "c1" : "boolean"
  , "c2" : "canCover(int;Set<String>)"
  , "c3" : "8"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#64"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#97"
  , "c1" : "TMemory"
  , "c2" : "getNewMemory(TMemory;List<TValue>;Map<String,TValue>)"
  , "c3" : "7"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#86"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#119"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#90"
+ , "c5" : "00123"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#123"
  , "c1" : "void"
  , "c2" : "addBody(StringLocated)"
  , "c3" : "3"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00102"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#102"
+ , "c5" : "00135"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#135"
  , "c1" : "void"
  , "c2" : "executeProcedure(TContext;TMemory;LineLocation;String)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00114"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#114"
+ , "c5" : "00147"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#147"
  , "c1" : "void"
  , "c2" : "executeProcedureInternal(TContext;TMemory;List<TValue>;Map<String,TValue>)"
  , "c3" : "2"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00123"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#123"
+ , "c5" : "00156"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#156"
  , "c1" : "TValue"
  , "c2" : "executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>)"
  , "c3" : "4"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00139"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#139"
+ , "c5" : "00172"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#172"
  , "c1" : "TValue"
  , "c2" : "executeReturnLegacyDefine(LineLocation;TContext;TMemory;List<TValue>)"
  , "c3" : "3"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00155"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#155"
+ , "c5" : "00188"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#188"
  , "c1" : "TFunctionType"
  , "c2" : "getFunctionType()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00159"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#159"
+ , "c5" : "00192"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#192"
  , "c1" : "TFunctionSignature"
  , "c2" : "getSignature()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00167"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#167"
+ , "c5" : "00200"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#200"
  , "c1" : "void"
  , "c2" : "setLegacyDefinition(String)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00171"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#171"
+ , "c5" : "00204"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#204"
  , "c1" : "boolean"
  , "c2" : "isUnquoted()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00175"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#175"
+ , "c5" : "00208"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#208"
  , "c1" : "boolean"
  , "c2" : "hasBody()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00179"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#179"
+ , "c5" : "00212"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#212"
  , "c1" : "void"
  , "c2" : "finalizeEnddefinelong()"
  , "c3" : "3"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00189"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#189"
+ , "c5" : "00222"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#222"
  , "c1" : "boolean"
  , "c2" : "doesContainReturn()"
  , "c3" : "1"
@@ -224,297 +224,297 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#26"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#59"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00026] The argument args is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00059] The argument args is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#38"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#71"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArguments"
+ , "c3" : "QC-JAV000006[00071] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArguments"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#38"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#71"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00038] The argument namedArguments is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00071] The argument namedArguments is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#40"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN173946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN174144 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#41"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN173946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN174144 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#45"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN173946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN174144 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#48"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN173946 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN174144 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#53"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN173946 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN174144 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#58"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN173946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN174144 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#61"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN173946 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN174144 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#64"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#97"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method getNewMemory arguments TMemory  memory|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  namedArguments"
+ , "c3" : "QC-JAV000006[00097] For method getNewMemory arguments TMemory  memory|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  namedArguments"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#64"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#97"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00064] The argument memory is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00097] The argument memory is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#64"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#97"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00064] The argument values is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00097] The argument values is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#64"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#97"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00064] The argument namedArguments is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00097] The argument namedArguments is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#68"
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00068] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00101] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#66"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.tim.TFunctionImpl.getNewMemory@POLYN175109 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.tim.TFunctionImpl.getNewMemory@POLYN175307 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#77"
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.tim.TFunctionImpl.getNewMemory@POLYN175109 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.tim.TFunctionImpl.toString@POLYN176472 the MagicNumber/String  'FUNCTION ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.tim.TFunctionImpl.toString@POLYN176472 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#90"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00090] For method addBody arguments StringLocated  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.tim.TFunctionImpl.addBody@POLYN176620 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.tim.TFunctionImpl.addBody@POLYN176620 the MagicNumber/String  'A procedure cannot have !return directive. Declare it as a function instead ?' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#102"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00102] For method executeProcedure arguments TContext  context|TMemory  memory|LineLocation  location|String  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#102"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00102] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#114"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00114] For method executeProcedureInternal arguments TContext  context|TMemory  memory|List&lt;TValue &gt;  args|Map&lt;String ,TValue &gt;  named"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#114"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00114] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.tim.TFunctionImpl.getNewMemory@POLYN175307 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeProcedureInternal@POLYN178124 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.tim.TFunctionImpl.toString@POLYN176670 the MagicNumber/String  'FUNCTION ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#120"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.tim.TFunctionImpl.toString@POLYN176670 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#123"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00123] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  args|Map&lt;String ,TValue &gt;  named"
+ , "c3" : "QC-JAV000006[00123] For method addBody arguments StringLocated  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#123"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00123] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#126"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.tim.TFunctionImpl.addBody@POLYN176818 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnFunction@POLYN178818 the MagicNumber/String  'Illegal call here. Is there a return directive in your function?' should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.tim.TFunctionImpl.addBody@POLYN176818 the MagicNumber/String  'A procedure cannot have !return directive. Declare it as a function instead ?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnFunction@POLYN178818 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnFunction@POLYN178818 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#134"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnFunction@POLYN178818 the MagicNumber/String  'No return directive found in your function' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#139"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#135"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00139] For method executeReturnLegacyDefine arguments LineLocation  location|TContext  context|TMemory  memory|List&lt;TValue &gt;  args"
+ , "c3" : "QC-JAV000006[00135] For method executeProcedure arguments TContext  context|TMemory  memory|LineLocation  location|String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#139"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#135"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00139] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnLegacyDefine@POLYN179934 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#146"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnLegacyDefine@POLYN179934 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAVCWE476[00135] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#147"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnLegacyDefine@POLYN179934 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#163"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00163] For method setLegacyDefinition arguments String  legacyDefinition"
+ , "c3" : "QC-JAV000006[00147] For method executeProcedureInternal arguments TContext  context|TMemory  memory|List&lt;TValue &gt;  args|Map&lt;String ,TValue &gt;  named"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#176"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.tim.TFunctionImpl.hasBody@POLYN181207 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#147"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00147] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#183"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.tim.TFunctionImpl.finalizeEnddefinelong@POLYN181329 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeProcedureInternal@POLYN178322 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#185"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#156"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00156] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  args|Map&lt;String ,TValue &gt;  named"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#156"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00156] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.tim.TFunctionImpl.finalizeEnddefinelong@POLYN181329 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnFunction@POLYN179016 the MagicNumber/String  'Illegal call here. Is there a return directive in your function?' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnFunction@POLYN179016 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#166"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnFunction@POLYN179016 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnFunction@POLYN179016 the MagicNumber/String  'No return directive found in your function' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#172"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00172] For method executeReturnLegacyDefine arguments LineLocation  location|TContext  context|TMemory  memory|List&lt;TValue &gt;  args"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#172"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00172] The argument context is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnLegacyDefine@POLYN180132 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#179"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnLegacyDefine@POLYN180132 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#180"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnLegacyDefine@POLYN180132 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#196"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00196] For method setLegacyDefinition arguments String  legacyDefinition"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#209"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.tim.TFunctionImpl.hasBody@POLYN181405 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#216"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.tim.TFunctionImpl.finalizeEnddefinelong@POLYN181527 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00218"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#218"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.tim.TFunctionImpl.finalizeEnddefinelong@POLYN181527 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

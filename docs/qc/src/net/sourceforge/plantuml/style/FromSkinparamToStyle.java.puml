@@ -2,15 +2,15 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.style.FromSkinparamToStyle"
 class net.sourceforge.plantuml.style.FromSkinparamToStyle {
--addMagic(SName) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#201]]]
-+FromSkinparamToStyle(String) : FromSkinparamToStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#223]]]
-+convertNow(String;AutomaticCounter) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#236]]]
--readValue(String;List<Data>;AutomaticCounter) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#283]]]
--isComplexValue(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#300]]]
--getShadowingValue(String;AutomaticCounter) : ValueImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#308]]]
--addStyle(PName;Value;SName...) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#318]]]
-+getStyles() : List<Style> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#332]]]
--addConvert(String;PName;SName...) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#336]]]
--addConFont(String;SName...) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#346]]]
+-addMagic(SName) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#235]]]
++FromSkinparamToStyle(String) : FromSkinparamToStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#257]]]
++convertNow(String;AutomaticCounter) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#270]]]
+-readValue(String;List<Data>;AutomaticCounter) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#317]]]
+-isComplexValue(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#334]]]
+-getShadowingValue(String;AutomaticCounter) : ValueImpl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#342]]]
+-addStyle(PName;Value;SName...) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#352]]]
++getStyles() : List<Style> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#366]]]
+-addConvert(String;PName;SName...) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#370]]]
+-addConFont(String;SName...) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#380]]]
 } 
 @enduml

@@ -2,13 +2,13 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.tim.expression.ShuntingYard"
 class net.sourceforge.plantuml.tim.expression.ShuntingYard {
--traceMe() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#19]]]
-+ShuntingYard(TokenIterator;Knowledge) : ShuntingYard [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#28]]]
--isVariableName(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#91]]]
--thereIsAFunctionAtTheTopOfTheOperatorStack() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#95]]]
--thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence(Token) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#100]]]
--theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative(Token) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#109]]]
--theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis(Token) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#118]]]
-+getQueue() : TokenStack [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#126]]]
+-traceMe() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#52]]]
++ShuntingYard(TokenIterator;Knowledge) : ShuntingYard [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#61]]]
+-isVariableName(String) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#124]]]
+-thereIsAFunctionAtTheTopOfTheOperatorStack() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#128]]]
+-thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence(Token) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#133]]]
+-theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative(Token) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#142]]]
+-theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis(Token) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#151]]]
++getQueue() : TokenStack [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#159]]]
 } 
 @enduml

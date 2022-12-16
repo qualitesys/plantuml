@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.svek.Oscillator"
 class net.sourceforge.plantuml.svek.Oscillator {
-+nextPosition() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Oscillator.java.html#15]]]
++nextPosition() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Oscillator.java.html#49]]]
 } 
 @enduml

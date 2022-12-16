@@ -2,8 +2,8 @@
 !pragma layout smetana
 "PSystemBasicFactory<PSystemMath>" <|-- "net.sourceforge.plantuml.math.PSystemMathFactory"
 class net.sourceforge.plantuml.math.PSystemMathFactory {
-+PSystemMathFactory(DiagramType) : PSystemMathFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.html#10]]]
-+initDiagram(UmlSource;String) : PSystemMath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.html#15]]]
-+executeLine(UmlSource;PSystemMath;String) : PSystemMath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.html#23]]]
++PSystemMathFactory(DiagramType) : PSystemMathFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.html#44]]]
++initDiagram(UmlSource;String) : PSystemMath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.html#49]]]
++executeLine(UmlSource;PSystemMath;String) : PSystemMath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/PSystemMathFactory.java.html#57]]]
 } 
 @enduml

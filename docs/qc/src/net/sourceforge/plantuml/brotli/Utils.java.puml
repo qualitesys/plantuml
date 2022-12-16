@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.brotli.Utils"
 class net.sourceforge.plantuml.brotli.Utils {
-fillBytesWithZeroes(byte[];int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51]]]
-fillIntsWithZeroes(int[];int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51]]]
-copyBytesWithin(byte[];int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51]]]
-readInput(InputStream;byte[];int;int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51]]]
-closeInput(InputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#51]]]
+fillBytesWithZeroes(byte[];int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53]]]
+fillIntsWithZeroes(int[];int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53]]]
+copyBytesWithin(byte[];int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53]]]
+readInput(InputStream;byte[];int;int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53]]]
+closeInput(InputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/Utils.java.html#53]]]
 } 
 @enduml

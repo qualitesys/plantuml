@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.jsondiagram.Arrow" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#15"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#44"
  , "c1" : "Arrow"
  , "c2" : "Arrow(XPoint2D;XPoint2D)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#20"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#49"
  , "c1" : "void"
  , "c2" : "drawArrow(UGraphic)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#48"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#77"
  , "c1" : "XPoint2D"
  , "c2" : "getPoint(XPoint2D;double;double)"
  , "c3" : "1"
@@ -100,59 +100,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#20"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method drawArrow arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00049] For method drawArrow arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#20"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#49"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00049] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#28"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.jsondiagram.Arrow.drawArrow@POLYN151995 the MagicNumber/String  .4 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.jsondiagram.Arrow.drawArrow@POLYN152169 the MagicNumber/String  .4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#29"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.jsondiagram.Arrow.drawArrow@POLYN151995 the MagicNumber/String  .3 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.jsondiagram.Arrow.drawArrow@POLYN152169 the MagicNumber/String  .3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#31"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.jsondiagram.Arrow.drawArrow@POLYN151995 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.jsondiagram.Arrow.drawArrow@POLYN152169 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#32"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.jsondiagram.Arrow.drawArrow@POLYN151995 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.jsondiagram.Arrow.drawArrow@POLYN152169 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#48"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#77"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method getPoint arguments XPoint2D  center|double  alpha|double  len"
+ , "c3" : "QC-JAV000006[00077] For method getPoint arguments XPoint2D  center|double  alpha|double  len"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#48"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#77"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00048] The argument center is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00077] The argument center is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

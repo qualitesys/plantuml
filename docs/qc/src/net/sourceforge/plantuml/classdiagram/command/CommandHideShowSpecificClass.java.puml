@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<CucaDiagram>" <|-- "net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass"
 class net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass {
-+CommandHideShowSpecificClass() : CommandHideShowSpecificClass [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#15]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#19]]]
-executeArg(CucaDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#27]]]
++CommandHideShowSpecificClass() : CommandHideShowSpecificClass [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#49]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#53]]]
+executeArg(CucaDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#61]]]
 } 
 @enduml

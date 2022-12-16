@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#11"
+ , "c5" : "00022"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#22"
  , "c1" : "boolean"
  , "c2" : "isVisible(Point3D)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#16"
+ , "c5" : "00027"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#27"
  , "c1" : "Coordinate"
  , "c2" : "getLocation(int;int)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#27"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#40"
  , "c1" : "double"
  , "c2" : "projectX(double;double)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#32"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#45"
  , "c1" : "double"
  , "c2" : "inverseProjectX(double)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#38"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#53"
  , "c1" : "double"
  , "c2" : "projectY(double)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#43"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#58"
  , "c1" : "double"
  , "c2" : "inverseProjectY(double)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#49"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#67"
  , "c1" : "void"
  , "c2" : "setScale()"
  , "c3" : "1"
@@ -143,87 +143,87 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#11"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#22"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00011] For method isVisible arguments Point3D  pPoint"
+ , "c3" : "QC-JAV000006[00022] For method isVisible arguments Point3D  pPoint"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#11"
+ , "c1" : "00022"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#22"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00011] The argument pPoint is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00022] The argument pPoint is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#13"
+ , "c1" : "00024"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.isVisible@POLYN144479 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#16"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method getLocation arguments int  pX|int  pY"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#16"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00016] For method getLocation list of called methods Object monObjet|double inverseFinalizeXN144758|double inverseFinalizeYN144849"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.getLocation@POLYN144631 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.isVisible@POLYN144587 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00027"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#27"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method projectX arguments double  pX|double  pZ"
+ , "c3" : "QC-JAV000006[00027] For method getLocation arguments int  pX|int  pY"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#32"
+ , "c1" : "00027"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#27"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00032] For method inverseProjectX arguments double  pX"
+ , "c3" : "QC-JAV000007[00027] For method getLocation list of called methods Object monObjet|double inverseFinalizeXN144866|double inverseFinalizeYN144957"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#38"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method projectY arguments double  pY"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#43"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00043] For method inverseProjectY arguments double  pY"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#51"
+ , "c1" : "00031"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.setScale@POLYN146026 the MagicNumber/String  0.99 should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.getLocation@POLYN144739 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#51"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#40"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00040] For method projectX arguments double  pX|double  pZ"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#45"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00045] For method inverseProjectX arguments double  pX"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#53"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00053] For method projectY arguments double  pY"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#58"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00058] For method inverseProjectY arguments double  pY"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.setScale@POLYN146026 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.setScale@POLYN146134 the MagicNumber/String  0.99 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#69"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.setScale@POLYN146134 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.FtileGeometryMerger"
 class net.sourceforge.plantuml.activitydiagram3.ftile.FtileGeometryMerger {
-+FtileGeometryMerger(FtileGeometry;FtileGeometry) : FtileGeometryMerger [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometryMerger.java.html#8]]]
-+getResult() : FtileGeometry [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometryMerger.java.html#22]]]
++FtileGeometryMerger(FtileGeometry;FtileGeometry) : FtileGeometryMerger [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometryMerger.java.html#42]]]
++getResult() : FtileGeometry [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGeometryMerger.java.html#56]]]
 } 
 @enduml

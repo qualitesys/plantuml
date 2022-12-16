@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.posimo.Mirror" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/Mirror.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/Mirror.java.html#42"
  , "c1" : "Mirror"
  , "c2" : "Mirror(double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/Mirror.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/Mirror.java.html#46"
  , "c1" : "double"
  , "c2" : "getMirrored(double)"
  , "c3" : "2"
@@ -84,17 +84,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Mirror.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Mirror.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method getMirrored arguments double  v"
+ , "c3" : "QC-JAV000006[00046] For method getMirrored arguments double  v"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Mirror.java.html#13"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Mirror.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.posimo.Mirror.getMirrored@POLYN145672 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.posimo.Mirror.getMirrored@POLYN145876 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ftp.FtpLoop" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#75"
  , "c1" : "FtpLoop"
  , "c2" : "FtpLoop(Socket;FtpServer)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#56"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#90"
  , "c1" : "void"
  , "c2" : "runInternal()"
  , "c3" : "4"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#74"
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#108"
  , "c1" : "boolean"
  , "c2" : "manage(String)"
  , "c3" : "33"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00146"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#146"
+ , "c5" : "00180"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#180"
  , "c1" : "void"
  , "c2" : "localLog(String)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00149"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#149"
+ , "c5" : "00183"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#183"
  , "c1" : "void"
  , "c2" : "retr(String;Socket)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00163"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#163"
+ , "c5" : "00197"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#197"
  , "c1" : "void"
  , "c2" : "retrPassif(String)"
  , "c3" : "2"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00178"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#178"
+ , "c5" : "00212"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#212"
  , "c1" : "void"
  , "c2" : "waitForMe(String)"
  , "c3" : "4"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00187"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#187"
+ , "c5" : "00221"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#221"
  , "c1" : "void"
  , "c2" : "retrActif(String)"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00200"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#200"
+ , "c5" : "00234"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#234"
  , "c1" : "void"
  , "c2" : "storActif(String)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00207"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#207"
+ , "c5" : "00241"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#241"
  , "c1" : "void"
  , "c2" : "storPassif(String)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00216"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#216"
+ , "c5" : "00250"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#250"
  , "c1" : "String"
  , "c2" : "removeStartingsSlash(String)"
  , "c3" : "2"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00223"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#223"
+ , "c5" : "00257"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#257"
  , "c1" : "void"
  , "c2" : "stor(String;Socket)"
  , "c3" : "7"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00248"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#248"
+ , "c5" : "00282"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#282"
  , "c1" : "void"
  , "c2" : "listActif()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00254"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#254"
+ , "c5" : "00288"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#288"
  , "c1" : "void"
  , "c2" : "listPassif()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00262"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#262"
+ , "c5" : "00296"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#296"
  , "c1" : "void"
  , "c2" : "list(Socket)"
  , "c3" : "4"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00285"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#285"
+ , "c5" : "00319"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#319"
  , "c1" : "void"
  , "c2" : "myOut(String)"
  , "c3" : "2"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00293"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#293"
+ , "c5" : "00327"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#327"
  , "c1" : "void"
  , "c2" : "run()"
  , "c3" : "1"
@@ -247,815 +247,815 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#41"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#75"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00041] The argument ftpServer is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00075] The argument ftpServer is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#45"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.ftp.FtpLoop.FtpLoop@POLYN192617 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00060] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ftp.FtpLoop.runInternal@POLYN193194 the MagicNumber/String  'Starting Loop' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.ftp.FtpLoop.runInternal@POLYN193194 the MagicNumber/String  '220 PlantUML' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ftp.FtpLoop.runInternal@POLYN193194 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.ftp.FtpLoop.runInternal@POLYN193194 the MagicNumber/String  's=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ftp.FtpLoop.runInternal@POLYN193194 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#74"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00074] For method manage arguments String  cmd"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#74"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00074] The argument cmd is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00076"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'USER' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  '331 Password required' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'USER ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'PASS' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  '230 Logged in.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#82"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'PWD' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  '257 \'/\' is current directory.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#86"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'CWD' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#87"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'CWD ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  '250 \'' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  '\' is new working directory..' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#89"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'TYPE' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#90"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  '200 Command okay.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'PORT' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.ftp.FtpLoop.FtpLoop@POLYN192821 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  ' ,' should be converted to const"
+ , "c3" : "QC-JAV000001[00094] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ftp.FtpLoop.runInternal@POLYN193398 the MagicNumber/String  'Starting Loop' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#92"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.ftp.FtpLoop.runInternal@POLYN193398 the MagicNumber/String  '220 PlantUML' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.ftp.FtpLoop.runInternal@POLYN193398 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.ftp.FtpLoop.runInternal@POLYN193398 the MagicNumber/String  's=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  '.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  '.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  '.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  256 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  '200 Command okay.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'LIST' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ftp.FtpLoop.runInternal@POLYN193398 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#108"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00108] For method manage arguments String  cmd"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#108"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00108] The argument cmd is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'STOR' should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'USER' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#111"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  '331 Password required' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#112"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'USER ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'PASV' should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'PASS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#117"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  '230 Logged in.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#118"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'PWD' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  '257 \'/\' is current directory.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'adr=' should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'CWD' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#121"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'CWD ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'server=' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  '250 \'' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#122"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  '\' is new working directory..' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  '227 Entering Passive Mode (' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'TYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#123"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  '200 Command okay.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#123"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'PORT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#123"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  ' ,' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#123"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#123"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  ').' should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#125"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'RETR' should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'DELE' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'DELE ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#134"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  '200 Command okay.' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'QUIT' should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  '200 Command okay.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  '221 Goodbye.' should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'LIST' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#137"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'STOR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#138"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  'SYST' should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'PASV' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#139"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  '215 UNIX Type: L8.' should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#141"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  '502 Command not implemented.' should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#143"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN193967 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#146"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00146] For method localLog arguments String  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#149"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00149] For method retr arguments String  fileName|Socket  soc"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#149"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00149] The argument soc is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.ftp.FtpLoop.retr@POLYN199223 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'adr=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#160"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.ftp.FtpLoop.retr@POLYN199223 the MagicNumber/String  '226 Transfer complete.' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'server=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#163"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00163] For method retrPassif arguments String  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#164"
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.ftp.FtpLoop.retrPassif@POLYN199899 the MagicNumber/String  'STOR ' should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  '227 Entering Passive Mode (' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  '.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  ',' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  ',' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  ',' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#157"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  ').' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#159"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'RETR' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'DELE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.ftp.FtpLoop.retrPassif@POLYN199899 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'DELE ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#167"
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.ftp.FtpLoop.retrPassif@POLYN199899 the MagicNumber/String  '550 No such file.' should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  '200 Command okay.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#169"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'QUIT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.ftp.FtpLoop.retrPassif@POLYN199899 the MagicNumber/String  '150 Opening' should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  '221 Goodbye.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#178"
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#172"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  'SYST' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#173"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  '215 UNIX Type: L8.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  '502 Command not implemented.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.ftp.FtpLoop.manage@POLYN194171 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#180"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00178] For method waitForMe arguments String  fileName"
+ , "c3" : "QC-JAV000006[00180] For method localLog arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#183"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.ftp.FtpLoop.waitForMe@POLYN200874 the MagicNumber/String  200L should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00184"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#184"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.ftp.FtpLoop.waitForMe@POLYN200874 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#187"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00187] For method retrActif arguments String  s"
+ , "c3" : "QC-JAV000006[00183] For method retr arguments String  fileName|Socket  soc"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#183"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00183] The argument soc is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.ftp.FtpLoop.retrActif@POLYN201187 the MagicNumber/String  'STOR ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#190"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.ftp.FtpLoop.retrActif@POLYN201187 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00191"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#191"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.ftp.FtpLoop.retrActif@POLYN201187 the MagicNumber/String  '550 No such file.' should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.ftp.FtpLoop.retr@POLYN199427 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.ftp.FtpLoop.retrActif@POLYN201187 the MagicNumber/String  '150 Opening' should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.ftp.FtpLoop.retr@POLYN199427 the MagicNumber/String  '226 Transfer complete.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#197"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00197] For method retrPassif arguments String  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#198"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.ftp.FtpLoop.retrPassif@POLYN200103 the MagicNumber/String  'STOR ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#200"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00200] For method storActif arguments String  s"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.ftp.FtpLoop.retrPassif@POLYN200103 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.ftp.FtpLoop.storActif@POLYN202052 the MagicNumber/String  'STOR ' should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.ftp.FtpLoop.retrPassif@POLYN200103 the MagicNumber/String  '550 No such file.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#202"
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.ftp.FtpLoop.storActif@POLYN202052 the MagicNumber/String  '150 FILE: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.ftp.FtpLoop.retrPassif@POLYN200103 the MagicNumber/String  '150 Opening' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#207"
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#212"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00207] For method storPassif arguments String  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#208"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.ftp.FtpLoop.storPassif@POLYN202613 the MagicNumber/String  'STOR ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00209"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#209"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.ftp.FtpLoop.storPassif@POLYN202613 the MagicNumber/String  '150 FILE: ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00216"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#216"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00216] For method removeStartingsSlash arguments String  fileName"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00216"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#216"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00216] The argument fileName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000006[00212] For method waitForMe arguments String  fileName"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00217"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.ftp.FtpLoop.removeStartingsSlash@POLYN203292 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.ftp.FtpLoop.waitForMe@POLYN201078 the MagicNumber/String  200L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00218"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.ftp.FtpLoop.removeStartingsSlash@POLYN203292 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.ftp.FtpLoop.waitForMe@POLYN201078 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#223"
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#221"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00223] For method stor arguments String  fileName|Socket  socket"
+ , "c3" : "QC-JAV000006[00221] For method retrActif arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#223"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00223] The argument fileName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00222"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#222"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.ftp.FtpLoop.retrActif@POLYN201391 the MagicNumber/String  'STOR ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#223"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00223] The argument socket is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#224"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.ftp.FtpLoop.retrActif@POLYN201391 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00225"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#225"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.ftp.FtpLoop.retrActif@POLYN201391 the MagicNumber/String  '550 No such file.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00228"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.ftp.FtpLoop.stor@POLYN203580 the MagicNumber/String  '226 Transfer complete.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00230"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#230"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.ftp.FtpLoop.stor@POLYN203580 the MagicNumber/String  'png' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00232"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#232"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.ftp.FtpLoop.stor@POLYN203580 the MagicNumber/String  'svg' should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.ftp.FtpLoop.retrActif@POLYN201391 the MagicNumber/String  '150 Opening' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00234"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#234"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.ftp.FtpLoop.stor@POLYN203580 the MagicNumber/String  'eps' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00238"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#238"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.ftp.FtpLoop.stor@POLYN203580 the MagicNumber/String  3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00249"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#249"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.ftp.FtpLoop.listActif@POLYN205246 the MagicNumber/String  '150 Opening ASCII mode data' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00255"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#255"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.ftp.FtpLoop.listPassif@POLYN205557 the MagicNumber/String  '150 Opening ASCII mode data' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00262"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#262"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00262] For method list arguments Socket  soc"
+ , "c3" : "QC-JAV000006[00234] For method storActif arguments String  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00235"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#235"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.ftp.FtpLoop.storActif@POLYN202256 the MagicNumber/String  'STOR ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#236"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.ftp.FtpLoop.storActif@POLYN202256 the MagicNumber/String  '150 FILE: ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#241"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00241] For method storPassif arguments String  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#242"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.ftp.FtpLoop.storPassif@POLYN202817 the MagicNumber/String  'STOR ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00243"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#243"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.ftp.FtpLoop.storPassif@POLYN202817 the MagicNumber/String  '150 FILE: ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#250"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00250] For method removeStartingsSlash arguments String  fileName"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#250"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00250] The argument fileName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00251"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#251"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.ftp.FtpLoop.removeStartingsSlash@POLYN203496 the MagicNumber/String  '/' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00252"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#252"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.ftp.FtpLoop.removeStartingsSlash@POLYN203496 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#257"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00257] For method stor arguments String  fileName|Socket  socket"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#257"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00257] The argument fileName is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#257"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00257] The argument socket is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00262"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#262"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00262] The argument soc is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.ftp.FtpLoop.stor@POLYN203784 the MagicNumber/String  '226 Transfer complete.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00273"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#273"
+ , "c1" : "00264"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#264"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00273] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00263"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#263"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00263] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN205978 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00265"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#265"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN205978 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.ftp.FtpLoop.stor@POLYN203784 the MagicNumber/String  'png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00266"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#266"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN205978 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.ftp.FtpLoop.stor@POLYN203784 the MagicNumber/String  'svg' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00268"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#268"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN205978 the MagicNumber/String  511 should be converted to const"
+ , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.ftp.FtpLoop.stor@POLYN203784 the MagicNumber/String  'eps' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00268"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#268"
+ , "c1" : "00272"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#272"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN205978 the MagicNumber/String  512 should be converted to const"
+ , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.ftp.FtpLoop.stor@POLYN203784 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00270"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#270"
+ , "c1" : "00283"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#283"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN205978 the MagicNumber/String  'total ' should be converted to const"
+ , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.ftp.FtpLoop.listActif@POLYN205450 the MagicNumber/String  '150 Opening ASCII mode data' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00273"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#273"
+ , "c1" : "00289"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#289"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN205978 the MagicNumber/String  '%10s %4d %-8s %-8s %8d %3s %2s %5s %s' should be converted to const"
+ , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.ftp.FtpLoop.listPassif@POLYN205761 the MagicNumber/String  '150 Opening ASCII mode data' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00273"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#273"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN205978 the MagicNumber/String  '-rw-rw-r--' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00273"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#273"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN205978 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00273"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#273"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN205978 the MagicNumber/String  'plantuml' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00274"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#274"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00274] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN205978 the MagicNumber/String  'plantuml' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00274"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#274"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00274] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN205978 the MagicNumber/String  'Sep' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00274"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#274"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00274] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN205978 the MagicNumber/String  28 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00274"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#274"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00274] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN205978 the MagicNumber/String  2006 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00282"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#282"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00282] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN205978 the MagicNumber/String  '226 Listing completed.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00285"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#285"
+ , "c1" : "00296"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#296"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00285] For method myOut arguments String  s"
+ , "c3" : "QC-JAV000006[00296] For method list arguments Socket  soc"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00286"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#286"
+ , "c1" : "00296"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#296"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00296] The argument soc is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#307"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.ftp.FtpLoop.myOut@POLYN207509 the MagicNumber/String  '\t' should be converted to const"
+ , "c3" : "QC-JAV000001[00307] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00286"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#286"
+ , "c1" : "00297"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#297"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.ftp.FtpLoop.myOut@POLYN207509 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00297] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN206182 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#146"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00146] Void method localLog is empty or contains only a return."
+ , "c1" : "00299"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#299"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00299] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN206182 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#146"
+ , "c1" : "00300"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#300"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00300] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN206182 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00302"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#302"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN206182 the MagicNumber/String  511 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00302"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#302"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN206182 the MagicNumber/String  512 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00304"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#304"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN206182 the MagicNumber/String  'total ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#307"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN206182 the MagicNumber/String  '%10s %4d %-8s %-8s %8d %3s %2s %5s %s' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#307"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN206182 the MagicNumber/String  '-rw-rw-r--' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#307"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN206182 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#307"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN206182 the MagicNumber/String  'plantuml' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00308"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#308"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN206182 the MagicNumber/String  'plantuml' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00308"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#308"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN206182 the MagicNumber/String  'Sep' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00308"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#308"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN206182 the MagicNumber/String  28 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00308"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#308"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN206182 the MagicNumber/String  2006 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00316"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#316"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.ftp.FtpLoop.list@POLYN206182 the MagicNumber/String  '226 Listing completed.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00319"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#319"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00319] For method myOut arguments String  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00320"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#320"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.ftp.FtpLoop.myOut@POLYN207713 the MagicNumber/String  '\t' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00320"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#320"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.ftp.FtpLoop.myOut@POLYN207713 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#180"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00146] Void method localLog is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000005[00180] Void method localLog is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ftp/FtpLoop.java.html#180"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00180] Void method localLog is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

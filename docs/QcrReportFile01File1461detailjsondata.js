@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.json.WriterConfig" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
+ , "c5" : "00028"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#28"
  , "c1" : "JsonWriter"
  , "c2" : "createWriter(Writer)"
  , "c3" : "1"
@@ -82,38 +82,38 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00024] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00028] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#28"
  , "c2" : "MINOR"
- , "c3" : "QC-JAVCWE500[00024] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
+ , "c3" : "QC-JAVCWE500[00028] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00024] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00028] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#28"
  , "c2" : "MINOR"
- , "c3" : "QC-JAVCWE500[00024] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
+ , "c3" : "QC-JAVCWE500[00028] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#24"
+ , "c1" : "00028"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/WriterConfig.java.html#28"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method createWriter arguments Writer  writer"
+ , "c3" : "QC-JAV000006[00028] For method createWriter arguments Writer  writer"
 }} 
 ]
 , 

@@ -2,9 +2,9 @@
 !pragma layout smetana
 "DataContainer" <|-- "jcckit.data.DataPlot"
 class jcckit.data.DataPlot {
-+DataPlot() : DataPlot [[[./../../../.././qc/src/jcckit/data/DataPlot.java.html#15]]]
-+DataPlot(ConfigParameters) : DataPlot [[[./../../../.././qc/src/jcckit/data/DataPlot.java.html#18]]]
-+create(ConfigParameters) : DataPlot [[[./../../../.././qc/src/jcckit/data/DataPlot.java.html#26]]]
-isValid(DataElement) : boolean [[[./../../../.././qc/src/jcckit/data/DataPlot.java.html#31]]]
++DataPlot() : DataPlot [[[./../../../.././qc/src/jcckit/data/DataPlot.java.html#36]]]
++DataPlot(ConfigParameters) : DataPlot [[[./../../../.././qc/src/jcckit/data/DataPlot.java.html#50]]]
++create(ConfigParameters) : DataPlot [[[./../../../.././qc/src/jcckit/data/DataPlot.java.html#62]]]
+isValid(DataElement) : boolean [[[./../../../.././qc/src/jcckit/data/DataPlot.java.html#70]]]
 } 
 @enduml

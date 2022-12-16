@@ -2,9 +2,9 @@
 !pragma layout smetana
 "SimpleReturnFunction" <|-- "net.sourceforge.plantuml.tim.stdlib.Dirpath"
 class net.sourceforge.plantuml.tim.stdlib.Dirpath {
-+Dirpath(Defines) : Dirpath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/Dirpath.java.html#21]]]
-+getSignature() : TFunctionSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/Dirpath.java.html#25]]]
-+canCover(int;Set<String>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/Dirpath.java.html#29]]]
-+executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/Dirpath.java.html#33]]]
++Dirpath(Defines) : Dirpath [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/Dirpath.java.html#54]]]
++getSignature() : TFunctionSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/Dirpath.java.html#58]]]
++canCover(int;Set<String>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/Dirpath.java.html#62]]]
++executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/Dirpath.java.html#66]]]
 } 
 @enduml

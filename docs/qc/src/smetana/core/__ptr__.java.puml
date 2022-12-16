@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "smetana.core.__ptr__"
 class smetana.core.__ptr__ {
-+isSameThan(__ptr__) : boolean [[[./../../../.././qc/src/smetana/core/__ptr__.java.html#7]]]
-+castTo(Class) : __ptr__ [[[./../../../.././qc/src/smetana/core/__ptr__.java.html#9]]]
-+getTheField(OFFSET) : Object [[[./../../../.././qc/src/smetana/core/__ptr__.java.html#11]]]
-+unsupported() : __ptr__ [[[./../../../.././qc/src/smetana/core/__ptr__.java.html#13]]]
++isSameThan(__ptr__) : boolean [[[./../../../.././qc/src/smetana/core/__ptr__.java.html#41]]]
++castTo(Class) : __ptr__ [[[./../../../.././qc/src/smetana/core/__ptr__.java.html#43]]]
++getTheField(OFFSET) : Object [[[./../../../.././qc/src/smetana/core/__ptr__.java.html#45]]]
++unsupported() : __ptr__ [[[./../../../.././qc/src/smetana/core/__ptr__.java.html#47]]]
 } 
 @enduml

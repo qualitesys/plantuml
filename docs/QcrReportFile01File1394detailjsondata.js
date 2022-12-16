@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.graphic.USymbolActor" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.html#45"
  , "c1" : "USymbolActor"
  , "c2" : "USymbolActor(ActorStyle)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.html#17"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.html#51"
  , "c1" : "SName"
  , "c2" : "getSName()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.html#22"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.html#56"
  , "c1" : "TextBlock"
  , "c2" : "getDrawing(SymbolContext)"
  , "c3" : "1"
@@ -86,10 +86,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.html#22"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolActor.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method getDrawing arguments SymbolContext  symbolContext"
+ , "c3" : "QC-JAV000006[00056] For method getDrawing arguments SymbolContext  symbolContext"
 }} 
 ]
 , 

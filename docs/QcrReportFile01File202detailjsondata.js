@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "h.ST_Agtag_s" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/h/ST_Agtag_s.java.html#15"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/h/ST_Agtag_s.java.html#59"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/h/ST_Agtag_s.java.html#20"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/h/ST_Agtag_s.java.html#64"
  , "c1" : "ST_Agtag_s"
  , "c2" : "copy()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/h/ST_Agtag_s.java.html#31"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/h/ST_Agtag_s.java.html#75"
  , "c1" : "void"
  , "c2" : "___(__struct__)"
  , "c3" : "1"
@@ -100,59 +100,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#8"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00008] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00052] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#9"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00009] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00053] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#10"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00010] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00054] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#11"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00011] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00055] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#12"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00012] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00056] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#16"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method h.ST_Agtag_s.toString@POLYN155050 the MagicNumber/String  'id=' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method h.ST_Agtag_s.toString@POLYN155314 the MagicNumber/String  'id=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#16"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method h.ST_Agtag_s.toString@POLYN155050 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method h.ST_Agtag_s.toString@POLYN155314 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#31"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/h/ST_Agtag_s.java.html#75"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method ___ arguments __struct__  other"
+ , "c3" : "QC-JAV000006[00075] For method ___ arguments __struct__  other"
 }} 
 ]
 , 

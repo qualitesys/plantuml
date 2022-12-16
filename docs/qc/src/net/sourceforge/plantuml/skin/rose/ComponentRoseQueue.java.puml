@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractTextualComponent" <|-- "net.sourceforge.plantuml.skin.rose.ComponentRoseQueue"
 class net.sourceforge.plantuml.skin.rose.ComponentRoseQueue {
-+ComponentRoseQueue(Style;Style;Display;boolean;ISkinSimple) : ComponentRoseQueue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseQueue.java.html#25]]]
-drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseQueue.java.html#37]]]
-+getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseQueue.java.html#47]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseQueue.java.html#53]]]
++ComponentRoseQueue(Style;Style;Display;boolean;ISkinSimple) : ComponentRoseQueue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseQueue.java.html#59]]]
+drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseQueue.java.html#71]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseQueue.java.html#81]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseQueue.java.html#87]]]
 } 
 @enduml

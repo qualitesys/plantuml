@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#20"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#35"
  , "c1" : "ScanBuf"
  , "c2" : "ScanBuf(int;int)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#37"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#54"
  , "c1" : "void"
  , "c2" : "addLine(double;double;double;double)"
  , "c3" : "11"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00107"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#107"
+ , "c5" : "00128"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#128"
  , "c1" : "boolean"
  , "c2" : "containsPoints()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#113"
+ , "c5" : "00136"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#136"
  , "c1" : "List"
  , "c2" : "getScanbits(int)"
  , "c3" : "6"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00158"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#158"
+ , "c5" : "00184"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#184"
  , "c1" : "int"
  , "c2" : "getYMax()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00163"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#163"
+ , "c5" : "00189"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#189"
  , "c1" : "int"
  , "c2" : "getYMin()"
  , "c3" : "1"
@@ -150,262 +150,262 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#27"
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.ScanBuf@POLYN158817 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.ScanBuf@POLYN158973 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#30"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.ScanBuf@POLYN158817 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.ScanBuf@POLYN158973 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#37"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method addLine arguments double  pXFrom|double  pYFrom|double  pXTo|double  pYTo"
+ , "c3" : "QC-JAV000006[00054] For method addLine arguments double  pXFrom|double  pYFrom|double  pXTo|double  pYTo"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#47"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159610 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159766 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#50"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159610 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159766 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#53"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159610 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159766 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#59"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159610 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159766 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#60"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159610 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159766 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#62"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159610 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159766 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#69"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159610 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159766 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#71"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159610 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159610 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159766 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159610 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159766 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#104"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159610 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159766 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#113"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.addLine@POLYN159766 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#136"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method getScanbits arguments int  pCurveType"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00121] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00121] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#122"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00122] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String  0.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String  0.5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#138"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000006[00136] For method getScanbits arguments int  pCurveType"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00144] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#144"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00144] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#145"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00145] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#144"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00144] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#155"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00155] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String  0.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#158"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00158] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#158"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00158] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String  0.5 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#161"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00161] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00163] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#121"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00121] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#128"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00128] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#128"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00128] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#132"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00132] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#135"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00135] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#135"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00135] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#138"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00138] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#140"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00140] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#144"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00144] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162435 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00144] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#151"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00151] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#151"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00151] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String 2 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#155"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00155] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#158"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00158] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#158"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00158] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#161"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00161] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#163"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00163] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#167"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00167] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN162591 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ]
 , 

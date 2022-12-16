@@ -2,12 +2,12 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.descdiagram.command.Labels"
 class net.sourceforge.plantuml.descdiagram.command.Labels {
-+Labels(RegexResult) : Labels [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/Labels.java.html#18]]]
--init(String) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/Labels.java.html#30]]]
-+getFirstLabel() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/Labels.java.html#60]]]
-+getSecondLabel() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/Labels.java.html#64]]]
-+getLabelLink() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/Labels.java.html#68]]]
-+getLinkArrow() : LinkArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/Labels.java.html#72]]]
-+getDisplay() : Display [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/Labels.java.html#76]]]
++Labels(RegexResult) : Labels [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/Labels.java.html#52]]]
+-init(String) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/Labels.java.html#64]]]
++getFirstLabel() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/Labels.java.html#94]]]
++getSecondLabel() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/Labels.java.html#98]]]
++getLabelLink() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/Labels.java.html#102]]]
++getLinkArrow() : LinkArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/Labels.java.html#106]]]
++getDisplay() : Display [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/descdiagram/command/Labels.java.html#110]]]
 } 
 @enduml

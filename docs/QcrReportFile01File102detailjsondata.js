@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "gen.lib.cdt.dtclose__c" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00086"
- , "c5link" : "././qc/src/gen/lib/cdt/dtclose__c.java.html#86"
+ , "c5" : "00130"
+ , "c5link" : "././qc/src/gen/lib/cdt/dtclose__c.java.html#130"
  , "c1" : "int"
  , "c2" : "dtclose(ST_dt_s)"
  , "c3" : "11"
@@ -112,437 +112,437 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#86"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#130"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00086] For method dtclose arguments ST_dt_s  dt"
+ , "c3" : "QC-JAV000006[00130] For method dtclose arguments ST_dt_s  dt"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#86"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#130"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00086] The argument dt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00130] The argument dt is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#96"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00096] Assigning instead of comparing on ev=(Integer )disc.eventf.exe(dt,2,null ,disc) (see http://cwe.mitre.org/data/definitions/481.html)"
+ , "c3" : "QC-JAVCWE481[00140] Assigning instead of comparing on ev=(Integer )disc.eventf.exe(dt,2,null ,disc) (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#87"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  '7ggbhlblmrfr1wq1k20npwyxb' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  '7ggbhlblmrfr1wq1k20npwyxb' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#87"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  'dtclose' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  'dtclose' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#90"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#91"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#92"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#95"
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#96"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#96"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#96"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#97"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#98"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#99"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  '1xbo7gf92fmqmu2tzpfeuc0wk' should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  '1xbo7gf92fmqmu2tzpfeuc0wk' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#100"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#101"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#101"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  0000100 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  0000100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#102"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#103"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#104"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#105"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  '4ugmcpi8vkb013vuo4wykn0a3' should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  '4ugmcpi8vkb013vuo4wykn0a3' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#106"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#108"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#110"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#110"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#111"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  '6wqxv1f7tzvjk0lwmqdrcq8la' should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  '6wqxv1f7tzvjk0lwmqdrcq8la' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#112"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#113"
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  '8bce06bdd64ypwb17ddloqzu8' should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  '8bce06bdd64ypwb17ddloqzu8' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#114"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#116"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  '7ggbhlblmrfr1wq1k20npwyxb' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  '7ggbhlblmrfr1wq1k20npwyxb' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#116"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String  'dtclose' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String  'dtclose' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dtclose__c.dtclose@POLYN159904"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dtclose__c.dtclose@POLYN160168"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#87"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#131"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00087] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String '7ggbhlblmrfr1wq1k20npwyxb' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00131] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String '7ggbhlblmrfr1wq1k20npwyxb' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#87"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#131"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00087] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 'dtclose' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00131] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 'dtclose' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#90"
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#134"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00090] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00134] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#91"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#135"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00091] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00135] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#92"
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#136"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00092] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00136] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#95"
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#139"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00095] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00139] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#96"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#140"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00096] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00140] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#96"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#140"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00096] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 2 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00140] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 2 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#96"
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#140"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00096] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00140] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#97"
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#141"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00097] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00141] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#98"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#142"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00098] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00142] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#99"
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#143"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00099] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String '1xbo7gf92fmqmu2tzpfeuc0wk' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00143] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String '1xbo7gf92fmqmu2tzpfeuc0wk' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#100"
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#144"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00100] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00144] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#101"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#145"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00101] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 0000100 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00145] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 0000100 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#101"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#145"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00101] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00145] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#102"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#146"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00102] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00146] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#103"
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#147"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00103] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00147] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#104"
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#148"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00104] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00148] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#105"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#149"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00105] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String '4ugmcpi8vkb013vuo4wykn0a3' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00149] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String '4ugmcpi8vkb013vuo4wykn0a3' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#106"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#150"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00106] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00150] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#108"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#152"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00108] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00152] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#110"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#154"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00110] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00154] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00110"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#110"
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#154"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00110] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00154] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#111"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#155"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00111] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String '6wqxv1f7tzvjk0lwmqdrcq8la' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00155] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String '6wqxv1f7tzvjk0lwmqdrcq8la' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#112"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#156"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00112] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00156] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#113"
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#157"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00113] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String '8bce06bdd64ypwb17ddloqzu8' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00157] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String '8bce06bdd64ypwb17ddloqzu8' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#114"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#158"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00114] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00158] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#116"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#160"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00116] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String '7ggbhlblmrfr1wq1k20npwyxb' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00160] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String '7ggbhlblmrfr1wq1k20npwyxb' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#116"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtclose__c.java.html#160"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00116] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN159904 the MagicNumber/String 'dtclose' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00160] In the recursive method gen.lib.cdt.dtclose__c.dtclose@POLYN160168 the MagicNumber/String 'dtclose' MUST BE CONVERTED to const"
 }} 
 ]
 , 

@@ -2,15 +2,15 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract"
 class net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract {
-BodyEnhancedAbstract(HorizontalAlignment;FontConfiguration;Style) : BodyEnhancedAbstract [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#25]]]
-+isBlockSeparator(CharSequence) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#31]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#48]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#52]]]
-getTitle(String;ISkinSimple) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#56]]]
-getArea(StringBounder) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#64]]]
-getMarginX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#66]]]
-decorate(TextBlock;char;TextBlock;StringBounder) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#68]]]
-getDefaultThickness() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#82]]]
-+getStyle() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#86]]]
+BodyEnhancedAbstract(HorizontalAlignment;FontConfiguration;Style) : BodyEnhancedAbstract [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#59]]]
++isBlockSeparator(CharSequence) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#65]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#82]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#86]]]
+getTitle(String;ISkinSimple) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#90]]]
+getArea(StringBounder) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#98]]]
+getMarginX() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#100]]]
+decorate(TextBlock;char;TextBlock;StringBounder) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#102]]]
+getDefaultThickness() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#116]]]
++getStyle() : Style [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#120]]]
 } 
 @enduml

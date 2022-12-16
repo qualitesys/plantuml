@@ -2,14 +2,14 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.mindmap.StripeFrontier"
 class net.sourceforge.plantuml.mindmap.StripeFrontier {
-+StripeFrontier() : StripeFrontier [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#12]]]
-+isEmpty() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#16]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#21]]]
-+contains(double;double) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#25]]]
-+getContact(double;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#33]]]
-+addSegment(double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#43]]]
--addSingleInternal(double;double;double;Stripe) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#71]]]
--checkConsistent() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#87]]]
--collisionning(double;double) : SortedSet<Stripe> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#104]]]
++StripeFrontier() : StripeFrontier [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#46]]]
++isEmpty() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#50]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#55]]]
++contains(double;double) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#59]]]
++getContact(double;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#67]]]
++addSegment(double;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#77]]]
+-addSingleInternal(double;double;double;Stripe) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#105]]]
+-checkConsistent() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#121]]]
+-collisionning(double;double) : SortedSet<Stripe> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#138]]]
 } 
 @enduml

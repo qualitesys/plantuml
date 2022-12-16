@@ -2,8 +2,8 @@
 !pragma layout smetana
 "ElementFactory" <|-- "net.sourceforge.plantuml.salt.factory.ElementFactoryText"
 class net.sourceforge.plantuml.salt.factory.ElementFactoryText {
-+ElementFactoryText(DataSource;ISkinSimple) : ElementFactoryText [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryText.java.html#19]]]
-+create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryText.java.html#24]]]
-+ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryText.java.html#35]]]
++ElementFactoryText(DataSource;ISkinSimple) : ElementFactoryText [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryText.java.html#53]]]
++create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryText.java.html#58]]]
++ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryText.java.html#69]]]
 } 
 @enduml

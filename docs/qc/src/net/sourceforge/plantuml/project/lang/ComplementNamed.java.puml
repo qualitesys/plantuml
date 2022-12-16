@@ -2,7 +2,7 @@
 !pragma layout smetana
 "Something" <|-- "net.sourceforge.plantuml.project.lang.ComplementNamed"
 class net.sourceforge.plantuml.project.lang.ComplementNamed {
-+toRegex(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementNamed.java.html#12]]]
-+getMe(GanttDiagram;RegexResult;String) : Failable<String> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementNamed.java.html#16]]]
++toRegex(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementNamed.java.html#46]]]
++getMe(GanttDiagram;RegexResult;String) : Failable<String> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementNamed.java.html#50]]]
 } 
 @enduml

@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.ULayoutGroup"
 class net.sourceforge.plantuml.ugraphic.ULayoutGroup {
-+ULayoutGroup(PlacementStrategy) : ULayoutGroup [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULayoutGroup.java.html#18]]]
-+drawU(UGraphic;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULayoutGroup.java.html#22]]]
-+add(TextBlock) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULayoutGroup.java.html#30]]]
-+getInnerPosition(String;double;double;StringBounder) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULayoutGroup.java.html#35]]]
--tryOne(Set<Entry<TextBlock,XPoint2D>>;String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULayoutGroup.java.html#44]]]
++ULayoutGroup(PlacementStrategy) : ULayoutGroup [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULayoutGroup.java.html#52]]]
++drawU(UGraphic;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULayoutGroup.java.html#56]]]
++add(TextBlock) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULayoutGroup.java.html#64]]]
++getInnerPosition(String;double;double;StringBounder) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULayoutGroup.java.html#69]]]
+-tryOne(Set<Entry<TextBlock,XPoint2D>>;String;StringBounder;InnerStrategy) : XRectangle2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ULayoutGroup.java.html#78]]]
 } 
 @enduml

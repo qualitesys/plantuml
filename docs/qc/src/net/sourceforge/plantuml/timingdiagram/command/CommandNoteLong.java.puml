@@ -2,9 +2,9 @@
 !pragma layout smetana
 "CommandMultilines2<TimingDiagram>" <|-- "net.sourceforge.plantuml.timingdiagram.command.CommandNoteLong"
 class net.sourceforge.plantuml.timingdiagram.command.CommandNoteLong {
-+CommandNoteLong() : CommandNoteLong [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandNoteLong.java.html#22]]]
-+getPatternEnd() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandNoteLong.java.html#27]]]
-executeNow(TimingDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandNoteLong.java.html#32]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandNoteLong.java.html#49]]]
++CommandNoteLong() : CommandNoteLong [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandNoteLong.java.html#56]]]
++getPatternEnd() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandNoteLong.java.html#61]]]
+executeNow(TimingDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandNoteLong.java.html#66]]]
+-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandNoteLong.java.html#83]]]
 } 
 @enduml

@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.bpm.Coord"
 class net.sourceforge.plantuml.bpm.Coord {
-+Coord(Line;Col) : Coord [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Coord.java.html#11]]]
-+getCol() : Col [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Coord.java.html#16]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Coord.java.html#21]]]
-+getLine() : Line [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Coord.java.html#25]]]
-+hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Coord.java.html#30]]]
-+equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Coord.java.html#35]]]
++Coord(Line;Col) : Coord [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Coord.java.html#45]]]
++getCol() : Col [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Coord.java.html#50]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Coord.java.html#55]]]
++getLine() : Line [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Coord.java.html#59]]]
++hashCode() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Coord.java.html#64]]]
++equals(Object) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Coord.java.html#69]]]
 } 
 @enduml

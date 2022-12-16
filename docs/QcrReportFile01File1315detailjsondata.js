@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.gitlog.MagicBox" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#29"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#62"
  , "c1" : "MagicBox"
  , "c2" : "MagicBox(ISkinParam;GNode)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#37"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#70"
  , "c1" : "TextBlock"
  , "c2" : "getSmallBlock()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#42"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#75"
  , "c1" : "TextBlock"
  , "c2" : "getCommentBlock()"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#51"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#84"
  , "c1" : "XDimension2D"
  , "c2" : "getBigDim(StringBounder)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#58"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#91"
  , "c1" : "void"
  , "c2" : "drawBorder(UGraphic;XDimension2D)"
  , "c3" : "1"
@@ -125,143 +125,143 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#29"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#62"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00029] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00062] The argument skinParam is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#38"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.gitlog.MagicBox.getSmallBlock@POLYN161945 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.gitlog.MagicBox.getSmallBlock@POLYN162143 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#38"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.gitlog.MagicBox.getSmallBlock@POLYN161945 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.gitlog.MagicBox.getSmallBlock@POLYN162143 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#43"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.gitlog.MagicBox.getCommentBlock@POLYN162370 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.gitlog.MagicBox.getCommentBlock@POLYN162568 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#44"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.gitlog.MagicBox.getCommentBlock@POLYN162370 the MagicNumber/String  13 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.gitlog.MagicBox.getCommentBlock@POLYN162568 the MagicNumber/String  13 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#44"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.gitlog.MagicBox.getCommentBlock@POLYN162370 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.gitlog.MagicBox.getCommentBlock@POLYN162568 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#47"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.gitlog.MagicBox.getCommentBlock@POLYN162370 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.gitlog.MagicBox.getCommentBlock@POLYN162568 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#47"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.gitlog.MagicBox.getCommentBlock@POLYN162370 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.gitlog.MagicBox.getCommentBlock@POLYN162568 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#51"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method getBigDim arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00084] For method getBigDim arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#55"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.gitlog.MagicBox.getBigDim@POLYN163050 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.gitlog.MagicBox.getBigDim@POLYN163248 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#55"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.gitlog.MagicBox.getBigDim@POLYN163050 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.gitlog.MagicBox.getBigDim@POLYN163248 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#58"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#91"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method drawBorder arguments UGraphic  ug|XDimension2D  sizeInDot"
+ , "c3" : "QC-JAV000006[00091] For method drawBorder arguments UGraphic  ug|XDimension2D  sizeInDot"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#58"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#91"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00058] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00091] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#58"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#91"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00058] The argument sizeInDot is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00091] The argument sizeInDot is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#65"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.gitlog.MagicBox.drawBorder@POLYN163580 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.gitlog.MagicBox.drawBorder@POLYN163778 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#66"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.gitlog.MagicBox.drawBorder@POLYN163580 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.gitlog.MagicBox.drawBorder@POLYN163778 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#73"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.gitlog.MagicBox.drawBorder@POLYN163580 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.gitlog.MagicBox.drawBorder@POLYN163778 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#73"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.gitlog.MagicBox.drawBorder@POLYN163580 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.gitlog.MagicBox.drawBorder@POLYN163778 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#51"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#84"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00051] Public method getBigDim is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00084] Public method getBigDim is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#58"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/MagicBox.java.html#91"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00058] Public method drawBorder is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00091] Public method drawBorder is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

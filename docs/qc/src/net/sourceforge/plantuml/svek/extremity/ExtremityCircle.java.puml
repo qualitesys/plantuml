@@ -2,9 +2,9 @@
 !pragma layout smetana
 "Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityCircle"
 class net.sourceforge.plantuml.svek.extremity.ExtremityCircle {
-+somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircle.java.html#21]]]
-+create(XPoint2D;boolean;double;HColor) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircle.java.html#25]]]
--ExtremityCircle(double;double;boolean;double;HColor) : ExtremityCircle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircle.java.html#29]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircle.java.html#38]]]
++somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircle.java.html#55]]]
++create(XPoint2D;boolean;double;HColor) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircle.java.html#59]]]
+-ExtremityCircle(double;double;boolean;double;HColor) : ExtremityCircle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircle.java.html#63]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircle.java.html#72]]]
 } 
 @enduml

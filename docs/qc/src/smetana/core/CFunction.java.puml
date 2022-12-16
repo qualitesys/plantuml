@@ -2,7 +2,7 @@
 !pragma layout smetana
 "__ptr__" <|-- "smetana.core.CFunction"
 class smetana.core.CFunction {
-+exe(Object...) : Object [[[./../../../.././qc/src/smetana/core/CFunction.java.html#7]]]
-+getName() : String [[[./../../../.././qc/src/smetana/core/CFunction.java.html#9]]]
++exe(Object...) : Object [[[./../../../.././qc/src/smetana/core/CFunction.java.html#41]]]
++getName() : String [[[./../../../.././qc/src/smetana/core/CFunction.java.html#43]]]
 } 
 @enduml

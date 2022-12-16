@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "org.stathissideris.ascii2image.core.ConversionOptions"
 class org.stathissideris.ascii2image.core.ConversionOptions {
-+setDebug(boolean) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#13]]]
-+ConversionOptions() : ConversionOptions [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#18]]]
-+setDropShadows(boolean) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#20]]]
++setDebug(boolean) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#35]]]
++ConversionOptions() : ConversionOptions [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#40]]]
++setDropShadows(boolean) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/core/ConversionOptions.java.html#42]]]
 } 
 @enduml

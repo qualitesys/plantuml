@@ -2,13 +2,13 @@
 !pragma layout smetana
 "AbstractFtile" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.FtileMargedRight"
 class net.sourceforge.plantuml.activitydiagram3.ftile.FtileMargedRight {
-+FtileMargedRight(Ftile;double) : FtileMargedRight [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#15]]]
-+getInLinkRendering() : LinkRendering [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#22]]]
-+getOutLinkRendering() : LinkRendering [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#27]]]
-+getSwimlanes() : Set<Swimlane> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#31]]]
-+getSwimlaneIn() : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#35]]]
-+getSwimlaneOut() : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#39]]]
-calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#44]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#52]]]
++FtileMargedRight(Ftile;double) : FtileMargedRight [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#49]]]
++getInLinkRendering() : LinkRendering [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#56]]]
++getOutLinkRendering() : LinkRendering [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#61]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#65]]]
++getSwimlaneIn() : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#69]]]
++getSwimlaneOut() : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#73]]]
+calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#78]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#86]]]
 } 
 @enduml

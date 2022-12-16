@@ -2,15 +2,15 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "jcckit.plot.AxisParameters"
 class jcckit.plot.AxisParameters {
-calculateTics() : double[] [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#85]]]
--calculateTicsParameters() : void [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#103]]]
--adjust(double;double) : double [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#128]]]
--createDefaultAxisProperties() : Properties [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#134]]]
--createDefaultXAxisProperties() : Properties [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#167]]]
-+createXAxis(ConfigParameters) : AxisParameters [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#182]]]
--createDefaultYAxisProperties() : Properties [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#187]]]
-+createYAxis(ConfigParameters) : AxisParameters [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#205]]]
--createAxis(ConfigParameters;Properties) : AxisParameters [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#209]]]
--createTicLabelFormat(ConfigParameters) : TicLabelFormat [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#250]]]
+calculateTics() : double[] [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#132]]]
+-calculateTicsParameters() : void [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#150]]]
+-adjust(double;double) : double [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#178]]]
+-createDefaultAxisProperties() : Properties [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#187]]]
+-createDefaultXAxisProperties() : Properties [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#223]]]
++createXAxis(ConfigParameters) : AxisParameters [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#327]]]
+-createDefaultYAxisProperties() : Properties [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#335]]]
++createYAxis(ConfigParameters) : AxisParameters [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#442]]]
+-createAxis(ConfigParameters;Properties) : AxisParameters [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#446]]]
+-createTicLabelFormat(ConfigParameters) : TicLabelFormat [[[./../../../.././qc/src/jcckit/plot/AxisParameters.java.html#487]]]
 } 
 @enduml

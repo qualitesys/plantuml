@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.NullOutputStream" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#12"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#48"
  , "c1" : "void"
  , "c2" : "write(int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#18"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#56"
  , "c1" : "void"
  , "c2" : "write(byte[])"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#24"
+ , "c5" : "00064"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#64"
  , "c1" : "void"
  , "c2" : "write(byte[];int;int)"
  , "c3" : "1"
@@ -86,24 +86,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#12"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method write arguments int  b"
+ , "c3" : "QC-JAV000006[00048] For method write arguments int  b"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#18"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00018] For method write arguments byte[]  b"
+ , "c3" : "QC-JAV000006[00056] For method write arguments byte[]  b"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#24"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method write arguments byte[]  b|int  off|int  len"
+ , "c3" : "QC-JAV000006[00064] For method write arguments byte[]  b|int  off|int  len"
 }} 
 ]
 , 

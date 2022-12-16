@@ -2,17 +2,17 @@
 !pragma layout smetana
 "TimeHeaderCalendar" <|-- "net.sourceforge.plantuml.project.draw.TimeHeaderWeekly"
 class net.sourceforge.plantuml.project.draw.TimeHeaderWeekly {
-+getTimeHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#18]]]
-+getTimeFooterHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#22]]]
-+TimeHeaderWeekly(TimeHeaderParameters;WeekNumberStrategy;boolean) : TimeHeaderWeekly [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#26]]]
-+drawTimeHeader(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#34]]]
-+drawTimeFooter(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#43]]]
--drawCalendar(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#49]]]
--printMonths(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#55]]]
--printSmallVbars(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#76]]]
--printDaysOfMonth(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#85]]]
--printMonth(UGraphic;MonthYear;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#100]]]
--printLeft(UGraphic;TextBlock;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#106]]]
-+getFullHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#111]]]
++getTimeHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#52]]]
++getTimeFooterHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#56]]]
++TimeHeaderWeekly(TimeHeaderParameters;WeekNumberStrategy;boolean) : TimeHeaderWeekly [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#60]]]
++drawTimeHeader(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#68]]]
++drawTimeFooter(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#77]]]
+-drawCalendar(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#83]]]
+-printMonths(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#89]]]
+-printSmallVbars(UGraphic;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#110]]]
+-printDaysOfMonth(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#119]]]
+-printMonth(UGraphic;MonthYear;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#134]]]
+-printLeft(UGraphic;TextBlock;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#140]]]
++getFullHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderWeekly.java.html#145]]]
 } 
 @enduml

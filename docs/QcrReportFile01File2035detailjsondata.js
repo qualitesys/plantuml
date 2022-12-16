@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#69"
  , "c1" : "LiveBoxes"
  , "c2" : "LiveBoxes(Participant;List<Event>;Rose;ISkinParam)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#76"
  , "c1" : "void"
  , "c2" : "addStep(Event;double)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#86"
  , "c1" : "Participant"
  , "c2" : "getParticipant()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#56"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#90"
  , "c1" : "int"
  , "c2" : "getLevelAt(Event;EventsHistoryMode)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00060"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#60"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#94"
  , "c1" : "int"
  , "c2" : "getLevelAtInternal(Event;EventsHistoryMode)"
  , "c3" : "11"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00103"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#103"
+ , "c5" : "00137"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#137"
  , "c1" : "boolean"
  , "c2" : "isNextEventADestroy(Event)"
  , "c3" : "5"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00121"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#121"
+ , "c5" : "00155"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#155"
  , "c1" : "SymbolContext"
  , "c2" : "getActivateColor(Event)"
  , "c3" : "8"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00148"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#148"
+ , "c5" : "00182"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#182"
  , "c1" : "Event"
  , "c2" : "nextButSkippingNotes(Iterator<Event>)"
  , "c3" : "4"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00162"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#162"
+ , "c5" : "00196"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#196"
  , "c1" : "Stairs"
  , "c2" : "getStairs(double;double)"
  , "c3" : "3"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00180"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#180"
+ , "c5" : "00214"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#214"
  , "c1" : "boolean"
  , "c2" : "isActivateAnDeactivate(Event)"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00188"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#188"
+ , "c5" : "00222"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#222"
  , "c1" : "int"
  , "c2" : "getMaxValue()"
  , "c3" : "6"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00208"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#208"
+ , "c5" : "00242"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#242"
  , "c1" : "double"
  , "c2" : "getMaxPosition(StringBounder)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00214"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#214"
+ , "c5" : "00248"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#248"
  , "c1" : "void"
  , "c2" : "drawBoxes(UGraphic;Context2D;double;double)"
  , "c3" : "3"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00225"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#225"
+ , "c5" : "00259"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#259"
  , "c1" : "void"
  , "c2" : "drawDestroys(UGraphic;Stairs;Context2D)"
  , "c3" : "2"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00232"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#232"
+ , "c5" : "00266"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#266"
  , "c1" : "void"
  , "c2" : "drawOneLevel(UGraphic;int;Stairs;Context2D)"
  , "c3" : "5"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00251"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#251"
+ , "c5" : "00285"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#285"
  , "c1" : "void"
  , "c2" : "delayOn(double;double)"
  , "c3" : "1"
@@ -231,150 +231,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method addStep arguments Event  event|double  y"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#42"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00042] The argument event is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.addStep@POLYN186006 the MagicNumber/String  5.0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#56"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method getLevelAt arguments Event  event|EventsHistoryMode  mode"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#60"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method getLevelAtInternal arguments Event  event|EventsHistoryMode  mode"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00064] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00065] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00066] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00066] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00075] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000006[00076] For method addStep arguments Event  event|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#76"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00076] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00077] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00078] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#78"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00078] Avoid declaring class instance within loop, performance impact"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00076] The argument event is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00079] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.addStep@POLYN186210 the MagicNumber/String  5.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00079] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getLevelAtInternal@POLYN186879 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#92"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getLevelAtInternal@POLYN186879 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getLevelAtInternal@POLYN186879 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#103"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#90"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00103] For method isNextEventADestroy arguments Event  event"
+ , "c3" : "QC-JAV000006[00090] For method getLevelAt arguments Event  event|EventsHistoryMode  mode"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#105"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#94"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00094] For method getLevelAtInternal arguments Event  event|EventsHistoryMode  mode"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00105] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00098] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#99"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00099] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00100] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00100] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -413,157 +329,143 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#116"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.isNextEventADestroy@POLYN188937 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000001[00113] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#118"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.isNextEventADestroy@POLYN188937 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000001[00113] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#121"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getLevelAtInternal@POLYN187083 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#126"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getLevelAtInternal@POLYN187083 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#127"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getLevelAtInternal@POLYN187083 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#137"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00121] For method getActivateColor arguments Event  event"
+ , "c3" : "QC-JAV000006[00137] For method isNextEventADestroy arguments Event  event"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#129"
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00129] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00133] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00133] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#134"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00134] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00135] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00136] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00136] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getActivateColor@POLYN189801 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00139] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getActivateColor@POLYN189801 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00143] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#144"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00144] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getActivateColor@POLYN189801 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00145] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#148"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00148] For method nextButSkippingNotes arguments Iterator&lt;Event &gt;  it"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#148"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00148] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#153"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00153] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00146] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#154"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00154] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#149"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.nextButSkippingNotes@POLYN191027 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000001[00146] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.nextButSkippingNotes@POLYN191027 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.isNextEventADestroy@POLYN189141 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#151"
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.nextButSkippingNotes@POLYN191027 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.isNextEventADestroy@POLYN189141 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#162"
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#155"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00162] For method getStairs arguments double  createY|double  totalHeight"
+ , "c3" : "QC-JAV000006[00155] For method getActivateColor arguments Event  event"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00166"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#166"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00166] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00163] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00167] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00167] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00168] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#169"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00169] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -574,262 +476,360 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00171"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#171"
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00171] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00170] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#164"
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN191467 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getActivateColor@POLYN190005 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#167"
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN191467 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getActivateColor@POLYN190005 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#168"
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN191467 the MagicNumber/String  'position=' should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getActivateColor@POLYN190005 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#168"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN191467 the MagicNumber/String  ' totalHeight=' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#176"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN191467 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#176"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN191467 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00180"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#180"
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#182"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00180] For method isActivateAnDeactivate arguments Event  event"
+ , "c3" : "QC-JAV000006[00182] For method nextButSkippingNotes arguments Iterator&lt;Event &gt;  it"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#182"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00182] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00187] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#188"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00188] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#183"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.nextButSkippingNotes@POLYN191231 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#184"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.nextButSkippingNotes@POLYN191231 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.isActivateAnDeactivate@POLYN192886 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.nextButSkippingNotes@POLYN191231 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#192"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00192] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00193] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00193] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#189"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getMaxValue@POLYN193238 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#190"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getMaxValue@POLYN193238 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#208"
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#196"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00208] For method getMaxPosition arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00196] For method getStairs arguments double  createY|double  totalHeight"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00200"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#200"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00200] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#204"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00204] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#205"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00205] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#198"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN191671 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#201"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN191671 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#202"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN191671 the MagicNumber/String  'position=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#202"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN191671 the MagicNumber/String  ' totalHeight=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00210"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getMaxPosition@POLYN194082 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN191671 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#211"
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getMaxPosition@POLYN194082 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN191671 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00214"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#214"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00214] For method drawBoxes arguments UGraphic  ug|Context2D  context|double  createY|double  endY"
+ , "c3" : "QC-JAV000006[00214] For method isActivateAnDeactivate arguments Event  event"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00217"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#217"
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#219"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawBoxes@POLYN194543 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.isActivateAnDeactivate@POLYN193090 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00220"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#220"
+ , "c1" : "00226"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawBoxes@POLYN194543 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00226] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#225"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00225] For method drawDestroys arguments UGraphic  ug|Stairs  stairs|Context2D  context"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#225"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00225] The argument stairs is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00232"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#232"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00232] For method drawOneLevel arguments UGraphic  ug|int  levelToDraw|Stairs  stairs|Context2D  context"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00232"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#232"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00232] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00232"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#232"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00232] The argument stairs is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00238"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#238"
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00238] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00227] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00234"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#234"
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN195763 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00227] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00234"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#234"
+ , "c1" : "00223"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN195763 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getMaxValue@POLYN193442 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00236"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#236"
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN195763 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getMaxValue@POLYN193442 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#242"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN195763 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00243"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#243"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN195763 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00243"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#243"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN195763 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00246"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#246"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN195763 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00251"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#251"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00251] For method delayOn arguments double  y|double  height"
+ , "c3" : "QC-JAV000006[00242] For method getMaxPosition arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#56"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00056] Public method getLevelAt is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00244"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#244"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getMaxPosition@POLYN194286 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#214"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00214] Public method drawBoxes is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#245"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getMaxPosition@POLYN194286 the MagicNumber/String  2.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#248"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00248] For method drawBoxes arguments UGraphic  ug|Context2D  context|double  createY|double  endY"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00251"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#251"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawBoxes@POLYN194747 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00254"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#254"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawBoxes@POLYN194747 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#259"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00259] For method drawDestroys arguments UGraphic  ug|Stairs  stairs|Context2D  context"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#259"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00259] The argument stairs is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00266"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#266"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00266] For method drawOneLevel arguments UGraphic  ug|int  levelToDraw|Stairs  stairs|Context2D  context"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00266"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#266"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00266] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00266"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#266"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00266] The argument stairs is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00272"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#272"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00272] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00268"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#268"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN195967 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00268"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#268"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN195967 the MagicNumber/String  2.0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#270"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN195967 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00276"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#276"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN195967 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00277"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#277"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN195967 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00277"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#277"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN195967 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00280"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#280"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN195967 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00285"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#285"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00285] For method delayOn arguments double  y|double  height"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#90"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00251] Public method delayOn is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00090] Public method getLevelAt is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#248"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00248] Public method drawBoxes is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00285"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#285"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00285] Public method delayOn is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

@@ -2,16 +2,16 @@
 !pragma layout smetana
 "UGraphicNo" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector"
 class net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector {
-+apply(UChange) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#30]]]
--create(StringBounder) : CollisionDetector [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#36]]]
--CollisionDetector(StringBounder;UTranslate;Context) : CollisionDetector [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#40]]]
--CollisionDetector(CollisionDetector;UChange) : CollisionDetector [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#45]]]
--collisionCheck(MinMax;XLine2D) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#102]]]
-+draw(UShape) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#123]]]
--drawSnake(Snake) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#133]]]
--drawRectangle(URectangle) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#139]]]
--drawPolygone(UPolygon) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#143]]]
-+drawDebug(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#147]]]
-+setManageSnakes(boolean) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#151]]]
++apply(UChange) : UGraphic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#64]]]
+-create(StringBounder) : CollisionDetector [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#70]]]
+-CollisionDetector(StringBounder;UTranslate;Context) : CollisionDetector [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#74]]]
+-CollisionDetector(CollisionDetector;UChange) : CollisionDetector [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#79]]]
+-collisionCheck(MinMax;XLine2D) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#136]]]
++draw(UShape) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#157]]]
+-drawSnake(Snake) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#169]]]
+-drawRectangle(URectangle) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#175]]]
+-drawPolygone(UPolygon) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#179]]]
++drawDebug(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#183]]]
++setManageSnakes(boolean) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#187]]]
 } 
 @enduml

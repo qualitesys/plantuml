@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.eggs.EggUtils"
 class net.sourceforge.plantuml.eggs.EggUtils {
-+fromByteArrays(byte[]) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/EggUtils.java.html#10]]]
-+toByteArrays(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/EggUtils.java.html#22]]]
-+fromSecretSentence(String) : BigInteger [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/EggUtils.java.html#30]]]
--convertChar(char) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/EggUtils.java.html#47]]]
-+xor(byte[];byte[]) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/EggUtils.java.html#55]]]
++fromByteArrays(byte[]) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/EggUtils.java.html#44]]]
++toByteArrays(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/EggUtils.java.html#56]]]
++fromSecretSentence(String) : BigInteger [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/EggUtils.java.html#64]]]
+-convertChar(char) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/EggUtils.java.html#81]]]
++xor(byte[];byte[]) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/EggUtils.java.html#89]]]
 } 
 @enduml

@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.png.PngFlashcoder"
 class net.sourceforge.plantuml.png.PngFlashcoder {
-+PngFlashcoder(List<BufferedImage>) : PngFlashcoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#15]]]
-+processImage(BufferedImage;Color) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#19]]]
--addImage(BufferedImage;Color) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#27]]]
-+getHeight(List<BufferedImage>) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#49]]]
-+getWidth(List<BufferedImage>) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#57]]]
++PngFlashcoder(List<BufferedImage>) : PngFlashcoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#49]]]
++processImage(BufferedImage;Color) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#53]]]
+-addImage(BufferedImage;Color) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#61]]]
++getHeight(List<BufferedImage>) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#83]]]
++getWidth(List<BufferedImage>) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#91]]]
 } 
 @enduml

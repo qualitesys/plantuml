@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.google.zxing.qrcode.decoder.Mode" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#24"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#43"
  , "c1" : "Mode"
  , "c2" : "Mode(int[];int;String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#31"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#54"
  , "c1" : "Mode"
  , "c2" : "forBits(int)"
  , "c3" : "10"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#57"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#84"
  , "c1" : "int"
  , "c2" : "getCharacterCountBits(Version)"
  , "c3" : "6"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#73"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#100"
  , "c1" : "int"
  , "c2" : "getBits()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#77"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#104"
  , "c1" : "String"
  , "c2" : "getName()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#81"
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#108"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -134,143 +134,143 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#31"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method forBits arguments int  bits"
+ , "c3" : "QC-JAV000006[00054] For method forBits arguments int  bits"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#33"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156388 the MagicNumber/String  0x0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156388 the MagicNumber/String  0x1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#37"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156388 the MagicNumber/String  0x2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#39"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156388 the MagicNumber/String  0x3 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156388 the MagicNumber/String  0x4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#43"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156388 the MagicNumber/String  0x5 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156388 the MagicNumber/String  0x7 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156388 the MagicNumber/String  0x8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#49"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156388 the MagicNumber/String  0x9 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#57"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00057] For method getCharacterCountBits arguments Version  version"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#57"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00057] For method getCharacterCountBits list of called methods Object monObjet|int version_getVersionNumberN157606"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#57"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00057] The argument version is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00056] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156550 the MagicNumber/String  0x0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.getCharacterCountBits@POLYN157360 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156550 the MagicNumber/String  0x1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#59"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.getCharacterCountBits@POLYN157360 the MagicNumber/String  'Character count doesn't apply to this mode' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156550 the MagicNumber/String  0x2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#63"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.getCharacterCountBits@POLYN157360 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156550 the MagicNumber/String  0x3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.getCharacterCountBits@POLYN157360 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.getCharacterCountBits@POLYN157360 the MagicNumber/String  26 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156550 the MagicNumber/String  0x4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.getCharacterCountBits@POLYN157360 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156550 the MagicNumber/String  0x5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.getCharacterCountBits@POLYN157360 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156550 the MagicNumber/String  0x7 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156550 the MagicNumber/String  0x8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#72"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.forBits@POLYN156550 the MagicNumber/String  0x9 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#84"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00084] For method getCharacterCountBits arguments Version  version"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#84"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00084] For method getCharacterCountBits list of called methods Object monObjet|int version_getVersionNumberN157768"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#84"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00084] The argument version is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.getCharacterCountBits@POLYN157522 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.getCharacterCountBits@POLYN157522 the MagicNumber/String  'Character count doesn't apply to this mode' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.getCharacterCountBits@POLYN157522 the MagicNumber/String  9 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#91"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00091] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.getCharacterCountBits@POLYN157522 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#92"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00092] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.getCharacterCountBits@POLYN157522 the MagicNumber/String  26 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.getCharacterCountBits@POLYN157522 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method ext.plantuml.com.google.zxing.qrcode.decoder.Mode.getCharacterCountBits@POLYN157522 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

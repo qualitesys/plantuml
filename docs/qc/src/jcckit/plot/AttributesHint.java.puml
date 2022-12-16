@@ -2,7 +2,7 @@
 !pragma layout smetana
 "Hint" <|-- "jcckit.plot.AttributesHint"
 class jcckit.plot.AttributesHint {
-+getNextHint() : AttributesHint [[[./../../../.././qc/src/jcckit/plot/AttributesHint.java.html#9]]]
-+getAttributes() : GraphicAttributes [[[./../../../.././qc/src/jcckit/plot/AttributesHint.java.html#12]]]
++getNextHint() : AttributesHint [[[./../../../.././qc/src/jcckit/plot/AttributesHint.java.html#35]]]
++getAttributes() : GraphicAttributes [[[./../../../.././qc/src/jcckit/plot/AttributesHint.java.html#38]]]
 } 
 @enduml

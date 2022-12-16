@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.hand.UGraphicHandwritten" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#22"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#55"
  , "c1" : "UGraphicHandwritten"
  , "c2" : "UGraphicHandwritten(UGraphic)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#29"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#62"
  , "c1" : "void"
  , "c2" : "draw(UShape)"
  , "c3" : "13"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#49"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#82"
  , "c1" : "void"
  , "c2" : "drawHand(UPath)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#54"
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#87"
  , "c1" : "void"
  , "c2" : "drawHand(DotPath)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#59"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#92"
  , "c1" : "void"
  , "c2" : "drawHand(UPolygon)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#64"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#97"
  , "c1" : "void"
  , "c2" : "drawHand(URectangle)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#69"
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#102"
  , "c1" : "void"
  , "c2" : "drawHand(ULine)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#74"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#107"
  , "c1" : "void"
  , "c2" : "drawHand(UEllipse)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00079"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#79"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#112"
  , "c1" : "UGraphic"
  , "c2" : "apply(UChange)"
  , "c3" : "1"
@@ -140,59 +140,59 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#29"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method draw arguments UShape  shape"
+ , "c3" : "QC-JAV000006[00062] For method draw arguments UShape  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#49"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method drawHand arguments UPath  shape"
+ , "c3" : "QC-JAV000006[00082] For method drawHand arguments UPath  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#54"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#87"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00054] For method drawHand arguments DotPath  shape"
+ , "c3" : "QC-JAV000006[00087] For method drawHand arguments DotPath  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#59"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#92"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method drawHand arguments UPolygon  shape"
+ , "c3" : "QC-JAV000006[00092] For method drawHand arguments UPolygon  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#64"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#97"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method drawHand arguments URectangle  shape"
+ , "c3" : "QC-JAV000006[00097] For method drawHand arguments URectangle  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#69"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#102"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method drawHand arguments ULine  shape"
+ , "c3" : "QC-JAV000006[00102] For method drawHand arguments ULine  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#74"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#107"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00074] For method drawHand arguments UEllipse  shape"
+ , "c3" : "QC-JAV000006[00107] For method drawHand arguments UEllipse  shape"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#79"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UGraphicHandwritten.java.html#112"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00079] For method apply arguments UChange  change"
+ , "c3" : "QC-JAV000006[00112] For method apply arguments UChange  change"
 }} 
 ]
 , 

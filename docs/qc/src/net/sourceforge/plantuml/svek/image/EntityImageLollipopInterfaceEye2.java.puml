@@ -2,10 +2,10 @@
 !pragma layout smetana
 "AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2"
 class net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2 {
-+EntityImageLollipopInterfaceEye2(ILeaf;ISkinParam;PortionShower) : EntityImageLollipopInterfaceEye2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#39]]]
--getStyle(FontParam) : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#77]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#82]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#86]]]
-+getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#111]]]
++EntityImageLollipopInterfaceEye2(ILeaf;ISkinParam;PortionShower) : EntityImageLollipopInterfaceEye2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#73]]]
+-getStyle(FontParam) : Style [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#111]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#116]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#120]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#145]]]
 } 
 @enduml

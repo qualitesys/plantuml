@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.preproc.DefineSignature"
 class net.sourceforge.plantuml.preproc.DefineSignature {
-+DefineSignature(String;String) : DefineSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineSignature.java.html#16]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineSignature.java.html#36]]]
-+isMethod() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineSignature.java.html#40]]]
-+getKey() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineSignature.java.html#44]]]
-+getVariationVariables() : List<Variables> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineSignature.java.html#48]]]
-+getFonctionName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineSignature.java.html#52]]]
++DefineSignature(String;String) : DefineSignature [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineSignature.java.html#50]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineSignature.java.html#70]]]
++isMethod() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineSignature.java.html#74]]]
++getKey() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineSignature.java.html#78]]]
++getVariationVariables() : List<Variables> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineSignature.java.html#82]]]
++getFonctionName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineSignature.java.html#86]]]
 } 
 @enduml

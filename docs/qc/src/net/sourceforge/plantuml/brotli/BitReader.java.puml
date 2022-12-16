@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.brotli.BitReader"
 class net.sourceforge.plantuml.brotli.BitReader {
-readMoreInput(State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#255]]]
-doReadMoreInput(State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#255]]]
-checkHealth(State;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#255]]]
+readMoreInput(State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#257]]]
+doReadMoreInput(State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#257]]]
+checkHealth(State;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#257]]]
 fillBitWindow(State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1]]]
 -doFillBitWindow(State) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1]]]
 peekBits(State) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1]]]

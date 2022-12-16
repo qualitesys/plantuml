@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.AbstractSymbolFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#19"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#55"
  , "c1" : "AbstractSymbolFactory"
  , "c2" : "AbstractSymbolFactory(ConfigParameters)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#26"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#69"
  , "c1" : "Symbol"
  , "c2" : "createSymbol(GraphPoint;Hint;Hint)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#40"
+ , "c5" : "00093"
+ , "c5link" : "././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#93"
  , "c1" : "Symbol"
  , "c2" : "createSymbol(GraphPoint;GraphicAttributes;Hint;Hint)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#48"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#107"
  , "c1" : "GraphicalElement"
  , "c2" : "createLegendSymbol(GraphPoint;double)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#54"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/jcckit/plot/AbstractSymbolFactory.java.html#118"
  , "c1" : "GraphicalElement"
  , "c2" : "createPlainSymbol(GraphPoint;double;GraphicAttributes)"
  , "c3" : "1"
@@ -118,45 +118,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/jcckit/plot/AbstractSymbolFactory.java.html#19"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/jcckit/plot/AbstractSymbolFactory.java.html#55"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00019] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00055] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/jcckit/plot/AbstractSymbolFactory.java.html#22"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/jcckit/plot/AbstractSymbolFactory.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method jcckit.plot.AbstractSymbolFactory.AbstractSymbolFactory@POLYN161508 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method jcckit.plot.AbstractSymbolFactory.AbstractSymbolFactory@POLYN161892 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/jcckit/plot/AbstractSymbolFactory.java.html#26"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/jcckit/plot/AbstractSymbolFactory.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method createSymbol arguments GraphPoint  point|Hint  hintFromPreviousPoint|Hint  hintFromPreviousCurve"
+ , "c3" : "QC-JAV000006[00069] For method createSymbol arguments GraphPoint  point|Hint  hintFromPreviousPoint|Hint  hintFromPreviousCurve"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/jcckit/plot/AbstractSymbolFactory.java.html#40"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/jcckit/plot/AbstractSymbolFactory.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method createSymbol arguments GraphPoint  point|GraphicAttributes  attributes|Hint  hintForNextPoint|Hint  hintFromPreviousCurve"
+ , "c3" : "QC-JAV000006[00093] For method createSymbol arguments GraphPoint  point|GraphicAttributes  attributes|Hint  hintForNextPoint|Hint  hintFromPreviousCurve"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/jcckit/plot/AbstractSymbolFactory.java.html#48"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/jcckit/plot/AbstractSymbolFactory.java.html#107"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method createLegendSymbol arguments GraphPoint  centerPosition|double  size"
+ , "c3" : "QC-JAV000006[00107] For method createLegendSymbol arguments GraphPoint  centerPosition|double  size"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/jcckit/plot/AbstractSymbolFactory.java.html#54"
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/jcckit/plot/AbstractSymbolFactory.java.html#118"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00054] For method createPlainSymbol arguments GraphPoint  centerPosition|double  size|GraphicAttributes  attributes"
+ , "c3" : "QC-JAV000006[00118] For method createPlainSymbol arguments GraphPoint  centerPosition|double  size|GraphicAttributes  attributes"
 }} 
 ]
 , 

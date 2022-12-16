@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.ErrorBarFactory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/jcckit/plot/ErrorBarFactory.java.html#22"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/jcckit/plot/ErrorBarFactory.java.html#76"
  , "c1" : "ErrorBarFactory"
  , "c2" : "ErrorBarFactory(ConfigParameters)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/jcckit/plot/ErrorBarFactory.java.html#31"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/jcckit/plot/ErrorBarFactory.java.html#88"
  , "c1" : "GraphicalElement"
  , "c2" : "createLegendSymbol(GraphPoint;double)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/jcckit/plot/ErrorBarFactory.java.html#38"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/jcckit/plot/ErrorBarFactory.java.html#104"
  , "c1" : "Symbol"
  , "c2" : "createSymbol(GraphPoint;Hint;Hint)"
  , "c3" : "8"
@@ -107,150 +107,150 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#22"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#76"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00022] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00076] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#24"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method jcckit.plot.ErrorBarFactory.ErrorBarFactory@POLYN169793 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method jcckit.plot.ErrorBarFactory.ErrorBarFactory@POLYN170189 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#25"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method jcckit.plot.ErrorBarFactory.ErrorBarFactory@POLYN169793 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method jcckit.plot.ErrorBarFactory.ErrorBarFactory@POLYN170189 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#27"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method jcckit.plot.ErrorBarFactory.ErrorBarFactory@POLYN169793 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method jcckit.plot.ErrorBarFactory.ErrorBarFactory@POLYN170189 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#31"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#88"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00031] For method createLegendSymbol arguments GraphPoint  centerPosition|double  size"
+ , "c3" : "QC-JAV000006[00088] For method createLegendSymbol arguments GraphPoint  centerPosition|double  size"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#33"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method jcckit.plot.ErrorBarFactory.createLegendSymbol@POLYN170438 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method jcckit.plot.ErrorBarFactory.createLegendSymbol@POLYN170834 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#33"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method jcckit.plot.ErrorBarFactory.createLegendSymbol@POLYN170438 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method jcckit.plot.ErrorBarFactory.createLegendSymbol@POLYN170834 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#38"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#104"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method createSymbol arguments GraphPoint  point|Hint  hintFromPreviousPoint|Hint  hintFromPreviousCurve"
+ , "c3" : "QC-JAV000006[00104] For method createSymbol arguments GraphPoint  point|Hint  hintFromPreviousPoint|Hint  hintFromPreviousCurve"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#38"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#104"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00038] For method createSymbol list of called methods Object monObjet|double point_getXN172328|double point_getYN172445"
+ , "c3" : "QC-JAV000007[00104] For method createSymbol list of called methods Object monObjet|double point_getXN172724|double point_getYN172841"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#38"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#104"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00038] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00104] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#40"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171153 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171549 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#41"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171153 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171549 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#46"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171153 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171549 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#47"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171153 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171549 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#48"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171153 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171549 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#57"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171153 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171549 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#58"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171153 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171549 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#59"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171153 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171549 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#62"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171153 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171549 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#63"
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171153 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171549 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#67"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/jcckit/plot/ErrorBarFactory.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171153 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method jcckit.plot.ErrorBarFactory.createSymbol@POLYN171549 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

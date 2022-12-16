@@ -2,10 +2,10 @@
 !pragma layout smetana
 "AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageCircleEnd"
 class net.sourceforge.plantuml.svek.image.EntityImageCircleEnd {
-+getDefaultStyleDefinitionCircle() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageCircleEnd.java.html#26]]]
-+EntityImageCircleEnd(ILeaf;ISkinParam) : EntityImageCircleEnd [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageCircleEnd.java.html#30]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageCircleEnd.java.html#34]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageCircleEnd.java.html#38]]]
-+getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageCircleEnd.java.html#55]]]
++getDefaultStyleDefinitionCircle() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageCircleEnd.java.html#60]]]
++EntityImageCircleEnd(ILeaf;ISkinParam) : EntityImageCircleEnd [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageCircleEnd.java.html#64]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageCircleEnd.java.html#68]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageCircleEnd.java.html#72]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageCircleEnd.java.html#89]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "gen.lib.dotgen.fastgr__c" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#67"
+ , "c5" : "00113"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#113"
  , "c1" : "ST_Agedge_s"
  , "c2" : "ffe(ST_Agnode_s;ST_elist;ST_Agnode_s;ST_elist)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#71"
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#117"
  , "c1" : "ST_Agedge_s"
  , "c2" : "ffe_w_(ST_Agnode_s;ST_elist;ST_Agnode_s;ST_elist)"
  , "c3" : "9"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00099"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#99"
+ , "c5" : "00145"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#145"
  , "c1" : "ST_Agedge_s"
  , "c2" : "find_fast_edge(ST_Agnode_s;ST_Agnode_s)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#113"
+ , "c5" : "00159"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#159"
  , "c1" : "ST_Agnode_s"
  , "c2" : "find_fast_node(ST_Agraph_s;ST_Agnode_s)"
  , "c3" : "3"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00131"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#131"
+ , "c5" : "00177"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#177"
  , "c1" : "ST_Agedge_s"
  , "c2" : "find_flat_edge(ST_Agnode_s;ST_Agnode_s)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00145"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#145"
+ , "c5" : "00191"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#191"
  , "c1" : "void"
  , "c2" : "safe_list_append(ST_Agedge_s;ST_elist)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00164"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#164"
+ , "c5" : "00210"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#210"
  , "c1" : "ST_Agedge_s"
  , "c2" : "fast_edge(ST_Agedge_s)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00182"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#182"
+ , "c5" : "00228"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#228"
  , "c1" : "void"
  , "c2" : "zapinlist(ST_elist;ST_Agedge_s)"
  , "c3" : "3"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00206"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#206"
+ , "c5" : "00252"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#252"
  , "c1" : "void"
  , "c2" : "delete_fast_edge(ST_Agedge_s)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00223"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#223"
+ , "c5" : "00269"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#269"
  , "c1" : "void"
  , "c2" : "other_edge(ST_Agedge_s)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00239"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#239"
+ , "c5" : "00285"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#285"
  , "c1" : "void"
  , "c2" : "safe_other_edge(ST_Agedge_s)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00256"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#256"
+ , "c5" : "00307"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#307"
  , "c1" : "ST_Agedge_s"
  , "c2" : "new_virtual_edge(ST_Agnode_s;ST_Agnode_s;ST_Agedge_s)"
  , "c3" : "10"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00308"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#308"
+ , "c5" : "00359"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#359"
  , "c1" : "ST_Agedge_s"
  , "c2" : "virtual_edge(ST_Agnode_s;ST_Agnode_s;ST_Agedge_s)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00322"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#322"
+ , "c5" : "00373"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#373"
  , "c1" : "void"
  , "c2" : "fast_node(ST_Agraph_s;ST_Agnode_s)"
  , "c3" : "2"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00341"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#341"
+ , "c5" : "00392"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#392"
  , "c1" : "void"
  , "c2" : "delete_fast_node(ST_Agraph_s;ST_Agnode_s)"
  , "c3" : "4"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00361"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#361"
+ , "c5" : "00412"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#412"
  , "c1" : "ST_Agnode_s"
  , "c2" : "virtual_node(ST_Agraph_s)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00391"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#391"
+ , "c5" : "00442"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#442"
  , "c1" : "void"
  , "c2" : "flat_edge(ST_Agraph_s;ST_Agedge_s)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00410"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#410"
+ , "c5" : "00461"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#461"
  , "c1" : "void"
  , "c2" : "delete_flat_edge(ST_Agedge_s)"
  , "c3" : "2"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00428"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#428"
+ , "c5" : "00479"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#479"
  , "c1" : "void"
  , "c2" : "basic_merge(ST_Agedge_s;ST_Agedge_s)"
  , "c3" : "3"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00449"
- , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#449"
+ , "c5" : "00500"
+ , "c5link" : "././qc/src/gen/lib/dotgen/fastgr__c.java.html#500"
  , "c1" : "void"
  , "c2" : "merge_oneway(ST_Agedge_s;ST_Agedge_s)"
  , "c3" : "2"
@@ -267,997 +267,997 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#67"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#113"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00067] For method ffe arguments ST_Agnode_s  u|ST_elist  uL|ST_Agnode_s  v|ST_elist  vL"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#67"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00067] The argument uL is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#67"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00067] The argument vL is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#71"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method ffe_w_ arguments ST_Agnode_s  u|ST_elist  uL|ST_Agnode_s  v|ST_elist  vL"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#71"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00071] The argument uL is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#71"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00071] The argument vL is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00079] Assigning instead of comparing on e=(ST_Agedge_s )uL.list.get_(i) (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE481[00083] Assigning instead of comparing on e=(ST_Agedge_s )vL.list.get_(i) (see http://cwe.mitre.org/data/definitions/481.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228631 the MagicNumber/String  'econbrl314rr46qnvvw5e32j7' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#72"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228631 the MagicNumber/String  'ffe' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228631 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228631 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228631 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228631 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#79"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228631 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228631 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228631 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#88"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228631 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228631 the MagicNumber/String  'econbrl314rr46qnvvw5e32j7' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228631 the MagicNumber/String  'ffe' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00099"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#99"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00099] For method find_fast_edge arguments ST_Agnode_s  u|ST_Agnode_s  v"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method gen.lib.dotgen.fastgr__c.find_fast_edge@POLYN230509 the MagicNumber/String  '1uygfrgur73lfy9vsjozwwupm' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method gen.lib.dotgen.fastgr__c.find_fast_edge@POLYN230509 the MagicNumber/String  'find_fast_edge' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method gen.lib.dotgen.fastgr__c.find_fast_edge@POLYN230509 the MagicNumber/String  '1uygfrgur73lfy9vsjozwwupm' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method gen.lib.dotgen.fastgr__c.find_fast_edge@POLYN230509 the MagicNumber/String  'find_fast_edge' should be converted to const"
+ , "c3" : "QC-JAV000006[00113] For method ffe arguments ST_Agnode_s  u|ST_elist  uL|ST_Agnode_s  v|ST_elist  vL"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#113"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method find_fast_node arguments ST_Agraph_s  g|ST_Agnode_s  n"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00113] The argument uL is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method gen.lib.dotgen.fastgr__c.find_fast_node@POLYN231282 the MagicNumber/String  '1yw7ahdnxnexnicj552zqyyej' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method gen.lib.dotgen.fastgr__c.find_fast_node@POLYN231282 the MagicNumber/String  'find_fast_node' should be converted to const"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#113"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00113] The argument vL is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method gen.lib.dotgen.fastgr__c.find_fast_node@POLYN231282 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#122"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method gen.lib.dotgen.fastgr__c.find_fast_node@POLYN231282 the MagicNumber/String  '1yw7ahdnxnexnicj552zqyyej' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#122"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method gen.lib.dotgen.fastgr__c.find_fast_node@POLYN231282 the MagicNumber/String  'find_fast_node' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#131"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00131] For method find_flat_edge arguments ST_Agnode_s  u|ST_Agnode_s  v"
+ , "c3" : "QC-JAV000006[00117] For method ffe_w_ arguments ST_Agnode_s  u|ST_elist  uL|ST_Agnode_s  v|ST_elist  vL"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method gen.lib.dotgen.fastgr__c.find_flat_edge@POLYN232248 the MagicNumber/String  'bf1j97keudu416avridkj9fpb' should be converted to const"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#117"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00117] The argument uL is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method gen.lib.dotgen.fastgr__c.find_flat_edge@POLYN232248 the MagicNumber/String  'find_flat_edge' should be converted to const"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#117"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00117] The argument vL is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#136"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method gen.lib.dotgen.fastgr__c.find_flat_edge@POLYN232248 the MagicNumber/String  'bf1j97keudu416avridkj9fpb' should be converted to const"
+ , "c3" : "QC-JAVCWE481[00125] Assigning instead of comparing on e=(ST_Agedge_s )uL.list.get_(i) (see http://cwe.mitre.org/data/definitions/481.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#136"
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method gen.lib.dotgen.fastgr__c.find_flat_edge@POLYN232248 the MagicNumber/String  'find_flat_edge' should be converted to const"
+ , "c3" : "QC-JAVCWE481[00129] Assigning instead of comparing on e=(ST_Agedge_s )vL.list.get_(i) (see http://cwe.mitre.org/data/definitions/481.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228937 the MagicNumber/String  'econbrl314rr46qnvvw5e32j7' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#118"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00118] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228937 the MagicNumber/String  'ffe' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#121"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00121] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228937 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228937 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#123"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00123] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228937 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228937 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#125"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00125] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228937 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#129"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00129] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228937 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#129"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00129] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228937 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#134"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00134] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228937 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#137"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228937 the MagicNumber/String  'econbrl314rr46qnvvw5e32j7' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#137"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00137] In method gen.lib.dotgen.fastgr__c.ffe_w_@POLYN228937 the MagicNumber/String  'ffe' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#145"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00145] For method safe_list_append arguments ST_Agedge_s  e|ST_elist  L"
+ , "c3" : "QC-JAV000006[00145] For method find_fast_edge arguments ST_Agnode_s  u|ST_Agnode_s  v"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method gen.lib.dotgen.fastgr__c.safe_list_append@POLYN233068 the MagicNumber/String  'cttswsffgmw1g710jzvdd3wzn' should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method gen.lib.dotgen.fastgr__c.find_fast_edge@POLYN230815 the MagicNumber/String  '1uygfrgur73lfy9vsjozwwupm' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method gen.lib.dotgen.fastgr__c.safe_list_append@POLYN233068 the MagicNumber/String  'safe_list_append' should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method gen.lib.dotgen.fastgr__c.find_fast_edge@POLYN230815 the MagicNumber/String  'find_fast_edge' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method gen.lib.dotgen.fastgr__c.safe_list_append@POLYN233068 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method gen.lib.dotgen.fastgr__c.find_fast_edge@POLYN230815 the MagicNumber/String  '1uygfrgur73lfy9vsjozwwupm' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#155"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method gen.lib.dotgen.fastgr__c.safe_list_append@POLYN233068 the MagicNumber/String  'cttswsffgmw1g710jzvdd3wzn' should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method gen.lib.dotgen.fastgr__c.find_fast_edge@POLYN230815 the MagicNumber/String  'find_fast_edge' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#155"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method gen.lib.dotgen.fastgr__c.safe_list_append@POLYN233068 the MagicNumber/String  'safe_list_append' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#164"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#159"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00164] For method fast_edge arguments ST_Agedge_s  e"
+ , "c3" : "QC-JAV000006[00159] For method find_fast_node arguments ST_Agraph_s  g|ST_Agnode_s  n"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#165"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method gen.lib.dotgen.fastgr__c.fast_edge@POLYN234058 the MagicNumber/String  '8t6gpubo908pz1pqnt1s88lnt' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method gen.lib.dotgen.fastgr__c.find_fast_node@POLYN231588 the MagicNumber/String  '1yw7ahdnxnexnicj552zqyyej' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#165"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method gen.lib.dotgen.fastgr__c.fast_edge@POLYN234058 the MagicNumber/String  'fast_edge' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method gen.lib.dotgen.fastgr__c.find_fast_node@POLYN231588 the MagicNumber/String  'find_fast_node' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00171"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#171"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method gen.lib.dotgen.fastgr__c.fast_edge@POLYN234058 the MagicNumber/String  '8t6gpubo908pz1pqnt1s88lnt' should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method gen.lib.dotgen.fastgr__c.find_fast_node@POLYN231588 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00171"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#171"
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method gen.lib.dotgen.fastgr__c.fast_edge@POLYN234058 the MagicNumber/String  'fast_edge' should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method gen.lib.dotgen.fastgr__c.find_fast_node@POLYN231588 the MagicNumber/String  '1yw7ahdnxnexnicj552zqyyej' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00168] In method gen.lib.dotgen.fastgr__c.find_fast_node@POLYN231588 the MagicNumber/String  'find_fast_node' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#177"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00177] For method find_flat_edge arguments ST_Agnode_s  u|ST_Agnode_s  v"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#178"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00178] In method gen.lib.dotgen.fastgr__c.find_flat_edge@POLYN232554 the MagicNumber/String  'bf1j97keudu416avridkj9fpb' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#178"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00178] In method gen.lib.dotgen.fastgr__c.find_flat_edge@POLYN232554 the MagicNumber/String  'find_flat_edge' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#182"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00182] In method gen.lib.dotgen.fastgr__c.find_flat_edge@POLYN232554 the MagicNumber/String  'bf1j97keudu416avridkj9fpb' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#182"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00182] In method gen.lib.dotgen.fastgr__c.find_flat_edge@POLYN232554 the MagicNumber/String  'find_flat_edge' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#191"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00182] For method zapinlist arguments ST_elist  L|ST_Agedge_s  e"
+ , "c3" : "QC-JAV000006[00191] For method safe_list_append arguments ST_Agedge_s  e|ST_elist  L"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#183"
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method gen.lib.dotgen.fastgr__c.zapinlist@POLYN234892 the MagicNumber/String  'dxb0q8ajb7iv25aj6zdqnbwh5' should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method gen.lib.dotgen.fastgr__c.safe_list_append@POLYN233374 the MagicNumber/String  'cttswsffgmw1g710jzvdd3wzn' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#183"
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method gen.lib.dotgen.fastgr__c.zapinlist@POLYN234892 the MagicNumber/String  'zapinlist' should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method gen.lib.dotgen.fastgr__c.safe_list_append@POLYN233374 the MagicNumber/String  'safe_list_append' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00186"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#186"
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method gen.lib.dotgen.fastgr__c.zapinlist@POLYN234892 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method gen.lib.dotgen.fastgr__c.safe_list_append@POLYN233374 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#190"
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method gen.lib.dotgen.fastgr__c.zapinlist@POLYN234892 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method gen.lib.dotgen.fastgr__c.safe_list_append@POLYN233374 the MagicNumber/String  'cttswsffgmw1g710jzvdd3wzn' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#195"
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method gen.lib.dotgen.fastgr__c.zapinlist@POLYN234892 the MagicNumber/String  'dxb0q8ajb7iv25aj6zdqnbwh5' should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method gen.lib.dotgen.fastgr__c.safe_list_append@POLYN233374 the MagicNumber/String  'safe_list_append' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#195"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method gen.lib.dotgen.fastgr__c.zapinlist@POLYN234892 the MagicNumber/String  'zapinlist' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#206"
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#210"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00206] For method delete_fast_edge arguments ST_Agedge_s  e"
+ , "c3" : "QC-JAV000006[00210] For method fast_edge arguments ST_Agedge_s  e"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#207"
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#211"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method gen.lib.dotgen.fastgr__c.delete_fast_edge@POLYN236121 the MagicNumber/String  'dkv97rr4ytpehp291etaxe9gc' should be converted to const"
+ , "c3" : "QC-JAV000010[00211] In method gen.lib.dotgen.fastgr__c.fast_edge@POLYN234364 the MagicNumber/String  '8t6gpubo908pz1pqnt1s88lnt' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#207"
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#211"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method gen.lib.dotgen.fastgr__c.delete_fast_edge@POLYN236121 the MagicNumber/String  'delete_fast_edge' should be converted to const"
+ , "c3" : "QC-JAV000010[00211] In method gen.lib.dotgen.fastgr__c.fast_edge@POLYN234364 the MagicNumber/String  'fast_edge' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#213"
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method gen.lib.dotgen.fastgr__c.delete_fast_edge@POLYN236121 the MagicNumber/String  'dkv97rr4ytpehp291etaxe9gc' should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method gen.lib.dotgen.fastgr__c.fast_edge@POLYN234364 the MagicNumber/String  '8t6gpubo908pz1pqnt1s88lnt' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#213"
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method gen.lib.dotgen.fastgr__c.delete_fast_edge@POLYN236121 the MagicNumber/String  'delete_fast_edge' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#223"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00223] For method other_edge arguments ST_Agedge_s  e"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00224"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#224"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method gen.lib.dotgen.fastgr__c.other_edge@POLYN237003 the MagicNumber/String  '73oebfcfiescklohgt8mddswc' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00224"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#224"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method gen.lib.dotgen.fastgr__c.other_edge@POLYN237003 the MagicNumber/String  'other_edge' should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method gen.lib.dotgen.fastgr__c.fast_edge@POLYN234364 the MagicNumber/String  'fast_edge' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00228"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#228"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method gen.lib.dotgen.fastgr__c.other_edge@POLYN237003 the MagicNumber/String  '73oebfcfiescklohgt8mddswc' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#228"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method gen.lib.dotgen.fastgr__c.other_edge@POLYN237003 the MagicNumber/String  'other_edge' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00239"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#239"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00239] For method safe_other_edge arguments ST_Agedge_s  e"
+ , "c3" : "QC-JAV000006[00228] For method zapinlist arguments ST_elist  L|ST_Agedge_s  e"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00240"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#240"
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method gen.lib.dotgen.fastgr__c.safe_other_edge@POLYN237763 the MagicNumber/String  '4zg1fp1b7bhnx2tbeaij8yeel' should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method gen.lib.dotgen.fastgr__c.zapinlist@POLYN235198 the MagicNumber/String  'dxb0q8ajb7iv25aj6zdqnbwh5' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00240"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#240"
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method gen.lib.dotgen.fastgr__c.safe_other_edge@POLYN237763 the MagicNumber/String  'safe_other_edge' should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method gen.lib.dotgen.fastgr__c.zapinlist@POLYN235198 the MagicNumber/String  'zapinlist' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00242"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#242"
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method gen.lib.dotgen.fastgr__c.safe_other_edge@POLYN237763 the MagicNumber/String  'safe_list_append(e, &amp;(ND_other(agtail(e))));' should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method gen.lib.dotgen.fastgr__c.zapinlist@POLYN235198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00246"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#246"
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method gen.lib.dotgen.fastgr__c.safe_other_edge@POLYN237763 the MagicNumber/String  '4zg1fp1b7bhnx2tbeaij8yeel' should be converted to const"
+ , "c3" : "QC-JAV000010[00236] In method gen.lib.dotgen.fastgr__c.zapinlist@POLYN235198 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00246"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#246"
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method gen.lib.dotgen.fastgr__c.safe_other_edge@POLYN237763 the MagicNumber/String  'safe_other_edge' should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method gen.lib.dotgen.fastgr__c.zapinlist@POLYN235198 the MagicNumber/String  'dxb0q8ajb7iv25aj6zdqnbwh5' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00256"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#256"
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#241"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00241] In method gen.lib.dotgen.fastgr__c.zapinlist@POLYN235198 the MagicNumber/String  'zapinlist' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00252"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#252"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00256] For method new_virtual_edge arguments ST_Agnode_s  u|ST_Agnode_s  v|ST_Agedge_s  orig"
+ , "c3" : "QC-JAV000006[00252] For method delete_fast_edge arguments ST_Agedge_s  e"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00257"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#257"
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN238729 the MagicNumber/String  '4gd9tmpq70q0rij5otj0k6sn2' should be converted to const"
+ , "c3" : "QC-JAV000010[00253] In method gen.lib.dotgen.fastgr__c.delete_fast_edge@POLYN236427 the MagicNumber/String  'dkv97rr4ytpehp291etaxe9gc' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00257"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#257"
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN238729 the MagicNumber/String  'new_virtual_edge' should be converted to const"
+ , "c3" : "QC-JAV000010[00253] In method gen.lib.dotgen.fastgr__c.delete_fast_edge@POLYN236427 the MagicNumber/String  'delete_fast_edge' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00271"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#271"
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#259"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00271] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN238729 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00259] In method gen.lib.dotgen.fastgr__c.delete_fast_edge@POLYN236427 the MagicNumber/String  'dkv97rr4ytpehp291etaxe9gc' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#259"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00259] In method gen.lib.dotgen.fastgr__c.delete_fast_edge@POLYN236427 the MagicNumber/String  'delete_fast_edge' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00269"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#269"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00269] For method other_edge arguments ST_Agedge_s  e"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#270"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00270] In method gen.lib.dotgen.fastgr__c.other_edge@POLYN237309 the MagicNumber/String  '73oebfcfiescklohgt8mddswc' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#270"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00270] In method gen.lib.dotgen.fastgr__c.other_edge@POLYN237309 the MagicNumber/String  'other_edge' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00274"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#274"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00274] In method gen.lib.dotgen.fastgr__c.other_edge@POLYN237309 the MagicNumber/String  '73oebfcfiescklohgt8mddswc' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00274"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#274"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00274] In method gen.lib.dotgen.fastgr__c.other_edge@POLYN237309 the MagicNumber/String  'other_edge' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00285"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#285"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00285] For method safe_other_edge arguments ST_Agedge_s  e"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00286"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#286"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00286] In method gen.lib.dotgen.fastgr__c.safe_other_edge@POLYN238069 the MagicNumber/String  '4zg1fp1b7bhnx2tbeaij8yeel' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00286"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#286"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00286] In method gen.lib.dotgen.fastgr__c.safe_other_edge@POLYN238069 the MagicNumber/String  'safe_other_edge' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00288"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#288"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00288] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN238729 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00288] In method gen.lib.dotgen.fastgr__c.safe_other_edge@POLYN238069 the MagicNumber/String  'safe_list_append(e, &amp;(ND_other(agtail(e))));' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00292"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#292"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00292] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN238729 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00292] In method gen.lib.dotgen.fastgr__c.safe_other_edge@POLYN238069 the MagicNumber/String  '4zg1fp1b7bhnx2tbeaij8yeel' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00293"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#293"
+ , "c1" : "00292"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#292"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00293] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN238729 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00292] In method gen.lib.dotgen.fastgr__c.safe_other_edge@POLYN238069 the MagicNumber/String  'safe_other_edge' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00294"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#294"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN238729 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00295"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#295"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN238729 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00299"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#299"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00299] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN238729 the MagicNumber/String  '4gd9tmpq70q0rij5otj0k6sn2' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00299"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#299"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00299] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN238729 the MagicNumber/String  'new_virtual_edge' should be converted to const"
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#307"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00307] For method new_virtual_edge arguments ST_Agnode_s  u|ST_Agnode_s  v|ST_Agedge_s  orig"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00308"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#308"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00308] For method virtual_edge arguments ST_Agnode_s  u|ST_Agnode_s  v|ST_Agedge_s  orig"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00308] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN239035 the MagicNumber/String  '4gd9tmpq70q0rij5otj0k6sn2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00309"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#309"
+ , "c1" : "00308"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#308"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00309] In method gen.lib.dotgen.fastgr__c.virtual_edge@POLYN242531 the MagicNumber/String  '9obdfflzw4cs2z9r0dng26mvw' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00309"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#309"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00309] In method gen.lib.dotgen.fastgr__c.virtual_edge@POLYN242531 the MagicNumber/String  'virtual_edge' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00313"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#313"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00313] In method gen.lib.dotgen.fastgr__c.virtual_edge@POLYN242531 the MagicNumber/String  '9obdfflzw4cs2z9r0dng26mvw' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00313"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#313"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00313] In method gen.lib.dotgen.fastgr__c.virtual_edge@POLYN242531 the MagicNumber/String  'virtual_edge' should be converted to const"
+ , "c3" : "QC-JAV000010[00308] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN239035 the MagicNumber/String  'new_virtual_edge' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00322"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#322"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00322] For method fast_node arguments ST_Agraph_s  g|ST_Agnode_s  n"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00323"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#323"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00323] In method gen.lib.dotgen.fastgr__c.fast_node@POLYN243268 the MagicNumber/String  '98hkec8t6fjk10bjpstumw0ey' should be converted to const"
+ , "c3" : "QC-JAV000010[00322] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN239035 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00323"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#323"
+ , "c1" : "00339"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#339"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00323] In method gen.lib.dotgen.fastgr__c.fast_node@POLYN243268 the MagicNumber/String  'fast_node' should be converted to const"
+ , "c3" : "QC-JAV000010[00339] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN239035 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00326"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#326"
+ , "c1" : "00343"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#343"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00326] In method gen.lib.dotgen.fastgr__c.fast_node@POLYN243268 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00329"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#329"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00329] In method gen.lib.dotgen.fastgr__c.fast_node@POLYN243268 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00332"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#332"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00332] In method gen.lib.dotgen.fastgr__c.fast_node@POLYN243268 the MagicNumber/String  '98hkec8t6fjk10bjpstumw0ey' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00332"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#332"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00332] In method gen.lib.dotgen.fastgr__c.fast_node@POLYN243268 the MagicNumber/String  'fast_node' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00341"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#341"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00341] For method delete_fast_node arguments ST_Agraph_s  g|ST_Agnode_s  n"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00342"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#342"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00342] In method gen.lib.dotgen.fastgr__c.delete_fast_node@POLYN244469 the MagicNumber/String  'emsq7b6s5100lscckzy3ileqd' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00342"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#342"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00342] In method gen.lib.dotgen.fastgr__c.delete_fast_node@POLYN244469 the MagicNumber/String  'delete_fast_node' should be converted to const"
+ , "c3" : "QC-JAV000010[00343] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN239035 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00344"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#344"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00344] In method gen.lib.dotgen.fastgr__c.delete_fast_node@POLYN244469 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00344] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN239035 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00345"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#345"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00345] In method gen.lib.dotgen.fastgr__c.delete_fast_node@POLYN244469 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00345] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN239035 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00347"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#347"
+ , "c1" : "00346"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#346"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00347] In method gen.lib.dotgen.fastgr__c.delete_fast_node@POLYN244469 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00346] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN239035 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00352"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#352"
+ , "c1" : "00350"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#350"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00352] In method gen.lib.dotgen.fastgr__c.delete_fast_node@POLYN244469 the MagicNumber/String  'emsq7b6s5100lscckzy3ileqd' should be converted to const"
+ , "c3" : "QC-JAV000010[00350] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN239035 the MagicNumber/String  '4gd9tmpq70q0rij5otj0k6sn2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00352"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#352"
+ , "c1" : "00350"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#350"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00352] In method gen.lib.dotgen.fastgr__c.delete_fast_node@POLYN244469 the MagicNumber/String  'delete_fast_node' should be converted to const"
+ , "c3" : "QC-JAV000010[00350] In method gen.lib.dotgen.fastgr__c.new_virtual_edge@POLYN239035 the MagicNumber/String  'new_virtual_edge' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00361"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#361"
+ , "c1" : "00359"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#359"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00361] For method virtual_node arguments ST_Agraph_s  g"
+ , "c3" : "QC-JAV000006[00359] For method virtual_edge arguments ST_Agnode_s  u|ST_Agnode_s  v|ST_Agedge_s  orig"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00362"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#362"
+ , "c1" : "00360"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#360"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00362] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN245767 the MagicNumber/String  'eg08ajzojsm0224btmfi7kdxt' should be converted to const"
+ , "c3" : "QC-JAV000010[00360] In method gen.lib.dotgen.fastgr__c.virtual_edge@POLYN242837 the MagicNumber/String  '9obdfflzw4cs2z9r0dng26mvw' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00362"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#362"
+ , "c1" : "00360"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#360"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00362] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN245767 the MagicNumber/String  'virtual_node' should be converted to const"
+ , "c3" : "QC-JAV000010[00360] In method gen.lib.dotgen.fastgr__c.virtual_edge@POLYN242837 the MagicNumber/String  'virtual_edge' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00372"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#372"
+ , "c1" : "00364"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#364"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00372] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN245767 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00364] In method gen.lib.dotgen.fastgr__c.virtual_edge@POLYN242837 the MagicNumber/String  '9obdfflzw4cs2z9r0dng26mvw' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00372"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#372"
+ , "c1" : "00364"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#364"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00372] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN245767 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00364] In method gen.lib.dotgen.fastgr__c.virtual_edge@POLYN242837 the MagicNumber/String  'virtual_edge' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00373"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#373"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00373] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN245767 the MagicNumber/String  1 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00373] For method fast_node arguments ST_Agraph_s  g|ST_Agnode_s  n"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00374"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#374"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00374] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN245767 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00374] In method gen.lib.dotgen.fastgr__c.fast_node@POLYN243574 the MagicNumber/String  '98hkec8t6fjk10bjpstumw0ey' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00375"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#375"
+ , "c1" : "00374"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#374"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00375] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN245767 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00374] In method gen.lib.dotgen.fastgr__c.fast_node@POLYN243574 the MagicNumber/String  'fast_node' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00376"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#376"
+ , "c1" : "00377"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#377"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00376] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN245767 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00377] In method gen.lib.dotgen.fastgr__c.fast_node@POLYN243574 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00378"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#378"
+ , "c1" : "00380"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#380"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00378] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN245767 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00380] In method gen.lib.dotgen.fastgr__c.fast_node@POLYN243574 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00381"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#381"
+ , "c1" : "00383"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#383"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00381] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN245767 the MagicNumber/String  'eg08ajzojsm0224btmfi7kdxt' should be converted to const"
+ , "c3" : "QC-JAV000010[00383] In method gen.lib.dotgen.fastgr__c.fast_node@POLYN243574 the MagicNumber/String  '98hkec8t6fjk10bjpstumw0ey' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00381"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#381"
+ , "c1" : "00383"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#383"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00381] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN245767 the MagicNumber/String  'virtual_node' should be converted to const"
+ , "c3" : "QC-JAV000010[00383] In method gen.lib.dotgen.fastgr__c.fast_node@POLYN243574 the MagicNumber/String  'fast_node' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00391"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#391"
+ , "c1" : "00392"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#392"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00391] For method flat_edge arguments ST_Agraph_s  g|ST_Agedge_s  e"
+ , "c3" : "QC-JAV000006[00392] For method delete_fast_node arguments ST_Agraph_s  g|ST_Agnode_s  n"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00392"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#392"
+ , "c1" : "00393"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#393"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00392] In method gen.lib.dotgen.fastgr__c.flat_edge@POLYN247625 the MagicNumber/String  '8dvukicq96g5t3xgdl0ue35mj' should be converted to const"
+ , "c3" : "QC-JAV000010[00393] In method gen.lib.dotgen.fastgr__c.delete_fast_node@POLYN244775 the MagicNumber/String  'emsq7b6s5100lscckzy3ileqd' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00392"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#392"
+ , "c1" : "00393"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#393"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00392] In method gen.lib.dotgen.fastgr__c.flat_edge@POLYN247625 the MagicNumber/String  'flat_edge' should be converted to const"
+ , "c3" : "QC-JAV000010[00393] In method gen.lib.dotgen.fastgr__c.delete_fast_node@POLYN244775 the MagicNumber/String  'delete_fast_node' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00395"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#395"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00395] In method gen.lib.dotgen.fastgr__c.delete_fast_node@POLYN244775 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00396"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#396"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00396] In method gen.lib.dotgen.fastgr__c.flat_edge@POLYN247625 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00396] In method gen.lib.dotgen.fastgr__c.delete_fast_node@POLYN244775 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00397"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#397"
+ , "c1" : "00398"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#398"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00397] In method gen.lib.dotgen.fastgr__c.flat_edge@POLYN247625 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00398] In method gen.lib.dotgen.fastgr__c.delete_fast_node@POLYN244775 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00399"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#399"
+ , "c1" : "00403"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#403"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00399] In method gen.lib.dotgen.fastgr__c.flat_edge@POLYN247625 the MagicNumber/String  '8dvukicq96g5t3xgdl0ue35mj' should be converted to const"
+ , "c3" : "QC-JAV000010[00403] In method gen.lib.dotgen.fastgr__c.delete_fast_node@POLYN244775 the MagicNumber/String  'emsq7b6s5100lscckzy3ileqd' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00399"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#399"
+ , "c1" : "00403"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#403"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00399] In method gen.lib.dotgen.fastgr__c.flat_edge@POLYN247625 the MagicNumber/String  'flat_edge' should be converted to const"
+ , "c3" : "QC-JAV000010[00403] In method gen.lib.dotgen.fastgr__c.delete_fast_node@POLYN244775 the MagicNumber/String  'delete_fast_node' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00410"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#410"
+ , "c1" : "00412"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#412"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00410] For method delete_flat_edge arguments ST_Agedge_s  e"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00414"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#414"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00414] The same method call EQ(ED_to_virt(ED_to_orig(e)),e) is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00411"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#411"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00411] In method gen.lib.dotgen.fastgr__c.delete_flat_edge@POLYN248652 the MagicNumber/String  'clspalhiuedfnk9g9rlvfqpg7' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00411"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#411"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00411] In method gen.lib.dotgen.fastgr__c.delete_flat_edge@POLYN248652 the MagicNumber/String  'delete_flat_edge' should be converted to const"
+ , "c3" : "QC-JAV000006[00412] For method virtual_node arguments ST_Agraph_s  g"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00413"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#413"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00413] In method gen.lib.dotgen.fastgr__c.delete_flat_edge@POLYN248652 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00413] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN246073 the MagicNumber/String  'eg08ajzojsm0224btmfi7kdxt' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00414"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#414"
+ , "c1" : "00413"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#413"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00414] In method gen.lib.dotgen.fastgr__c.delete_flat_edge@POLYN248652 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00413] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN246073 the MagicNumber/String  'virtual_node' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00415"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#415"
+ , "c1" : "00423"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#423"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00415] In method gen.lib.dotgen.fastgr__c.delete_flat_edge@POLYN248652 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00423] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN246073 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00419"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#419"
+ , "c1" : "00423"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#423"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00419] In method gen.lib.dotgen.fastgr__c.delete_flat_edge@POLYN248652 the MagicNumber/String  'clspalhiuedfnk9g9rlvfqpg7' should be converted to const"
+ , "c3" : "QC-JAV000010[00423] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN246073 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00419"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#419"
+ , "c1" : "00424"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#424"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00419] In method gen.lib.dotgen.fastgr__c.delete_flat_edge@POLYN248652 the MagicNumber/String  'delete_flat_edge' should be converted to const"
+ , "c3" : "QC-JAV000010[00424] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN246073 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00428"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#428"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00428] For method basic_merge arguments ST_Agedge_s  e|ST_Agedge_s  rep"
+ , "c1" : "00425"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#425"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00425] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN246073 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00426"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#426"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00426] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN246073 the MagicNumber/String  4 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00427"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#427"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00427] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN246073 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00429"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#429"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00429] In method gen.lib.dotgen.fastgr__c.basic_merge@POLYN249957 the MagicNumber/String  'dcfpol11cvlt6aaa6phqbp6fo' should be converted to const"
+ , "c3" : "QC-JAV000010[00429] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN246073 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00429"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#429"
+ , "c1" : "00432"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#432"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00429] In method gen.lib.dotgen.fastgr__c.basic_merge@POLYN249957 the MagicNumber/String  'basic_merge' should be converted to const"
+ , "c3" : "QC-JAV000010[00432] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN246073 the MagicNumber/String  'eg08ajzojsm0224btmfi7kdxt' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00433"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#433"
+ , "c1" : "00432"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#432"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00433] In method gen.lib.dotgen.fastgr__c.basic_merge@POLYN249957 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00432] In method gen.lib.dotgen.fastgr__c.virtual_node@POLYN246073 the MagicNumber/String  'virtual_node' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00440"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#440"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00440] In method gen.lib.dotgen.fastgr__c.basic_merge@POLYN249957 the MagicNumber/String  'dcfpol11cvlt6aaa6phqbp6fo' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00440"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#440"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00440] In method gen.lib.dotgen.fastgr__c.basic_merge@POLYN249957 the MagicNumber/String  'basic_merge' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00449"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#449"
+ , "c1" : "00442"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#442"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00449] For method merge_oneway arguments ST_Agedge_s  e|ST_Agedge_s  rep"
+ , "c3" : "QC-JAV000006[00442] For method flat_edge arguments ST_Agraph_s  g|ST_Agedge_s  e"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00443"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#443"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00443] In method gen.lib.dotgen.fastgr__c.flat_edge@POLYN247931 the MagicNumber/String  '8dvukicq96g5t3xgdl0ue35mj' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00443"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#443"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00443] In method gen.lib.dotgen.fastgr__c.flat_edge@POLYN247931 the MagicNumber/String  'flat_edge' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00447"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#447"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00447] In method gen.lib.dotgen.fastgr__c.flat_edge@POLYN247931 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00448"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#448"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00448] In method gen.lib.dotgen.fastgr__c.flat_edge@POLYN247931 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00450"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#450"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00450] In method gen.lib.dotgen.fastgr__c.merge_oneway@POLYN251428 the MagicNumber/String  '6dxgtoii76tmonlnvz4rmiytd' should be converted to const"
+ , "c3" : "QC-JAV000010[00450] In method gen.lib.dotgen.fastgr__c.flat_edge@POLYN247931 the MagicNumber/String  '8dvukicq96g5t3xgdl0ue35mj' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00450"
  , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#450"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00450] In method gen.lib.dotgen.fastgr__c.merge_oneway@POLYN251428 the MagicNumber/String  'merge_oneway' should be converted to const"
+ , "c3" : "QC-JAV000010[00450] In method gen.lib.dotgen.fastgr__c.flat_edge@POLYN247931 the MagicNumber/String  'flat_edge' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00453"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#453"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00453] In method gen.lib.dotgen.fastgr__c.merge_oneway@POLYN251428 the MagicNumber/String  '84xxsh1cgsif42hgizyxw36ul' should be converted to const"
+ , "c1" : "00461"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#461"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00461] For method delete_flat_edge arguments ST_Agedge_s  e"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00454"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#454"
+ , "c1" : "00465"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#465"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00454] In method gen.lib.dotgen.fastgr__c.merge_oneway@POLYN251428 the MagicNumber/String  'a7fgam0j0jm7bar0mblsv3no4' should be converted to const"
+ , "c3" : "QC-JAV000021[00465] The same method call EQ(ED_to_virt(ED_to_orig(e)),e) is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00460"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#460"
+ , "c1" : "00462"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#462"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00460] In method gen.lib.dotgen.fastgr__c.merge_oneway@POLYN251428 the MagicNumber/String  '6dxgtoii76tmonlnvz4rmiytd' should be converted to const"
+ , "c3" : "QC-JAV000010[00462] In method gen.lib.dotgen.fastgr__c.delete_flat_edge@POLYN248958 the MagicNumber/String  'clspalhiuedfnk9g9rlvfqpg7' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00460"
- , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#460"
+ , "c1" : "00462"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#462"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00460] In method gen.lib.dotgen.fastgr__c.merge_oneway@POLYN251428 the MagicNumber/String  'merge_oneway' should be converted to const"
+ , "c3" : "QC-JAV000010[00462] In method gen.lib.dotgen.fastgr__c.delete_flat_edge@POLYN248958 the MagicNumber/String  'delete_flat_edge' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00464"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#464"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00464] In method gen.lib.dotgen.fastgr__c.delete_flat_edge@POLYN248958 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00465"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#465"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00465] In method gen.lib.dotgen.fastgr__c.delete_flat_edge@POLYN248958 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00466"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#466"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00466] In method gen.lib.dotgen.fastgr__c.delete_flat_edge@POLYN248958 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00470"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#470"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00470] In method gen.lib.dotgen.fastgr__c.delete_flat_edge@POLYN248958 the MagicNumber/String  'clspalhiuedfnk9g9rlvfqpg7' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00470"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#470"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00470] In method gen.lib.dotgen.fastgr__c.delete_flat_edge@POLYN248958 the MagicNumber/String  'delete_flat_edge' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00479"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#479"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00479] For method basic_merge arguments ST_Agedge_s  e|ST_Agedge_s  rep"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00480"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#480"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00480] In method gen.lib.dotgen.fastgr__c.basic_merge@POLYN250263 the MagicNumber/String  'dcfpol11cvlt6aaa6phqbp6fo' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00480"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#480"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00480] In method gen.lib.dotgen.fastgr__c.basic_merge@POLYN250263 the MagicNumber/String  'basic_merge' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00484"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#484"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00484] In method gen.lib.dotgen.fastgr__c.basic_merge@POLYN250263 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00491"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#491"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00491] In method gen.lib.dotgen.fastgr__c.basic_merge@POLYN250263 the MagicNumber/String  'dcfpol11cvlt6aaa6phqbp6fo' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00491"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#491"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00491] In method gen.lib.dotgen.fastgr__c.basic_merge@POLYN250263 the MagicNumber/String  'basic_merge' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00500"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#500"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00500] For method merge_oneway arguments ST_Agedge_s  e|ST_Agedge_s  rep"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00501"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#501"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00501] In method gen.lib.dotgen.fastgr__c.merge_oneway@POLYN251734 the MagicNumber/String  '6dxgtoii76tmonlnvz4rmiytd' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00501"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#501"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00501] In method gen.lib.dotgen.fastgr__c.merge_oneway@POLYN251734 the MagicNumber/String  'merge_oneway' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00504"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#504"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00504] In method gen.lib.dotgen.fastgr__c.merge_oneway@POLYN251734 the MagicNumber/String  '84xxsh1cgsif42hgizyxw36ul' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00505"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#505"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00505] In method gen.lib.dotgen.fastgr__c.merge_oneway@POLYN251734 the MagicNumber/String  'a7fgam0j0jm7bar0mblsv3no4' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00511"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#511"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00511] In method gen.lib.dotgen.fastgr__c.merge_oneway@POLYN251734 the MagicNumber/String  '6dxgtoii76tmonlnvz4rmiytd' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00511"
+ , "c1link" : "./qc/src/gen/lib/dotgen/fastgr__c.java.html#511"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00511] In method gen.lib.dotgen.fastgr__c.merge_oneway@POLYN251734 the MagicNumber/String  'merge_oneway' should be converted to const"
 }} 
 ]
 , 

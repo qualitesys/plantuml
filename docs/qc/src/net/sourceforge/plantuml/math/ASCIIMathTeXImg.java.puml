@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.math.ASCIIMathTeXImg"
 class net.sourceforge.plantuml.math.ASCIIMathTeXImg {
--slice(String;int;int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#914]]]
--slice(String;int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#914]]]
--substr(String;int;int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#914]]]
+-slice(String;int;int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#949]]]
+-slice(String;int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#949]]]
+-substr(String;int;int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#949]]]
 -AMinitSymbols() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1]]]
 -refreshSymbols() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1]]]
 -AMremoveCharsAndBlanks(String;int) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1]]]

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ditaa.PSystemDitaa" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#40"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#73"
  , "c1" : "PSystemDitaa"
  , "c2" : "PSystemDitaa(UmlSource;String;boolean;boolean;boolean;boolean;float;Font;boolean)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#65"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#98"
  , "c1" : "PSystemDitaa"
  , "c2" : "add(String)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00070"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#70"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#103"
  , "c1" : "DiagramDescription"
  , "c2" : "getDescription()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#75"
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#108"
  , "c1" : "ImageData"
  , "c2" : "exportDiagramNow(OutputStream;int;FileFormatOption)"
  , "c3" : "2"
@@ -109,234 +109,234 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#48"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.PSystemDitaa@POLYN171019 the MagicNumber/String  'org.stathissideris.ascii2image.core.ProcessingOptions' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.PSystemDitaa@POLYN171217 the MagicNumber/String  'org.stathissideris.ascii2image.core.ProcessingOptions' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#51"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.PSystemDitaa@POLYN171019 the MagicNumber/String  'setPerformSeparationOfCommonEdges' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#53"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.PSystemDitaa@POLYN171019 the MagicNumber/String  'setAllCornersAreRound' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#57"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.PSystemDitaa@POLYN171019 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#65"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00065] For method add arguments String  line"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.getDescription@POLYN172978 the MagicNumber/String  '(Ditaa)' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#75"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00075] For method exportDiagramNow arguments OutputStream  os|int  num|FileFormatOption  fileFormat"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#75"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00075] The argument os is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#75"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00075] The argument fileFormat is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.PSystemDitaa@POLYN171217 the MagicNumber/String  'setPerformSeparationOfCommonEdges' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  'org.stathissideris.ascii2image.core.ConversionOptions' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.PSystemDitaa@POLYN171217 the MagicNumber/String  'setAllCornersAreRound' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#89"
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  'renderingOptions' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.PSystemDitaa@POLYN171217 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#93"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  'setBackgroundColor' should be converted to const"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#98"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00098] For method add arguments String  line"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#94"
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.getDescription@POLYN173176 the MagicNumber/String  '(Ditaa)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#108"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00108] For method exportDiagramNow arguments OutputStream  os|int  num|FileFormatOption  fileFormat"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#108"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00108] The argument os is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#94"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#108"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00108] The argument fileFormat is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#97"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  'setFont' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  'org.stathissideris.ascii2image.core.ConversionOptions' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#101"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  'setForceFontSize' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  'renderingOptions' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#105"
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  'setScale' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  'setBackgroundColor' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#109"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  'setDropShadows' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#113"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  'org.stathissideris.ascii2image.text.TextGrid' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#116"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  'initialiseWithText' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#117"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  'org.stathissideris.ascii2image.core.ProcessingOptions' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#118"
+ , "c1" : "00130"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  'org.stathissideris.ascii2image.graphics.Diagram' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  'org.stathissideris.ascii2image.graphics.BitmapRenderer' should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  'setFont' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  'renderToImage' should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  'setForceFontSize' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  'png' should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  'setScale' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#144"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  'DITAA has crashed' should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  'setDropShadows' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#145"
+ , "c1" : "00146"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  'org.stathissideris.ascii2image.text.TextGrid' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#147"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  'initialiseWithText' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#148"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  'org.stathissideris.ascii2image.core.ProcessingOptions' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#148"
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173123 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#154"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  'org.stathissideris.ascii2image.graphics.Diagram' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#162"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  'org.stathissideris.ascii2image.graphics.BitmapRenderer' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  'renderToImage' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  'png' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  'DITAA has crashed' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#178"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#180"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#181"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ditaa/PSystemDitaa.java.html#181"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.ditaa.PSystemDitaa.exportDiagramNow@POLYN173321 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

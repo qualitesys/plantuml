@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.graphic.USymbol"
 class net.sourceforge.plantuml.graphic.USymbol {
-+getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbol.java.html#9]]]
-+asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbol.java.html#11]]]
-+asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbol.java.html#14]]]
-+suppHeightBecauseOfShape() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbol.java.html#51]]]
-+suppWidthBecauseOfShape() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbol.java.html#55]]]
++getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbol.java.html#43]]]
++asSmall(TextBlock;TextBlock;TextBlock;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbol.java.html#45]]]
++asBig(TextBlock;HorizontalAlignment;TextBlock;double;double;SymbolContext;HorizontalAlignment) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbol.java.html#48]]]
++suppHeightBecauseOfShape() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbol.java.html#85]]]
++suppWidthBecauseOfShape() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbol.java.html#89]]]
 } 
 @enduml

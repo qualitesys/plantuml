@@ -2,12 +2,12 @@
 !pragma layout smetana
 "MonoSwimableInstruction" <|-- "net.sourceforge.plantuml.activitydiagram3.InstructionSpot"
 class net.sourceforge.plantuml.activitydiagram3.InstructionSpot {
-+containsBreak() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSpot.java.html#28]]]
-+InstructionSpot(String;HColor;LinkRendering;Swimlane) : InstructionSpot [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSpot.java.html#32]]]
-+createFtile(FtileFactory) : Ftile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSpot.java.html#40]]]
-+createGtile(ISkinParam;StringBounder) : Gtile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSpot.java.html#50]]]
-+add(Instruction) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSpot.java.html#57]]]
-+kill() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSpot.java.html#62]]]
-+getInLinkRendering() : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSpot.java.html#68]]]
++containsBreak() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSpot.java.html#62]]]
++InstructionSpot(String;HColor;LinkRendering;Swimlane) : InstructionSpot [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSpot.java.html#66]]]
++createFtile(FtileFactory) : Ftile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSpot.java.html#74]]]
++createGtile(ISkinParam;StringBounder) : Gtile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSpot.java.html#84]]]
++add(Instruction) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSpot.java.html#91]]]
++kill() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSpot.java.html#96]]]
++getInLinkRendering() : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSpot.java.html#102]]]
 } 
 @enduml

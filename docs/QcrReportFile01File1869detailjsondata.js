@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.security.authentication.SecurityCredentials" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#38"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#99"
  , "c1" : "SecurityCredentials"
  , "c2" : "SecurityCredentials(String;String;String;char[])"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00043"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#43"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#112"
  , "c1" : "SecurityCredentials"
  , "c2" : "SecurityCredentials(String;String;String;char[];Map<String,Object>;Proxy)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#57"
+ , "c5" : "00132"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#132"
  , "c1" : "SecurityCredentials"
  , "c2" : "basicAuth(String;char[])"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#62"
+ , "c5" : "00156"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#156"
  , "c1" : "SecurityCredentials"
  , "c2" : "fromJson(JsonValue)"
  , "c3" : "4"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#90"
+ , "c5" : "00198"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#198"
  , "c1" : "Proxy"
  , "c2" : "proxyFromJson(JsonValue)"
  , "c3" : "5"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#113"
+ , "c5" : "00226"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#226"
  , "c1" : "char[]"
  , "c2" : "extractSecret(JsonValue)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00126"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#126"
+ , "c5" : "00266"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#266"
  , "c1" : "void"
  , "c2" : "buildProperties(String;JsonValue;Map<String,Object>)"
  , "c3" : "11"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00153"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#153"
+ , "c5" : "00298"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#298"
  , "c1" : "boolean"
  , "c2" : "isJsonObjectWithMembers(JsonValue)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00157"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#157"
+ , "c5" : "00302"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#302"
  , "c1" : "String"
  , "c2" : "getName()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00161"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#161"
+ , "c5" : "00306"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#306"
  , "c1" : "String"
  , "c2" : "getType()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00165"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#165"
+ , "c5" : "00310"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#310"
  , "c1" : "String"
  , "c2" : "getIdentifier()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00169"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#169"
+ , "c5" : "00314"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#314"
  , "c1" : "char[]"
  , "c2" : "getSecret()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00173"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#173"
+ , "c5" : "00318"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#318"
  , "c1" : "Map<String,Object>"
  , "c2" : "getProperties()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00178"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#178"
+ , "c5" : "00328"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#328"
  , "c1" : "String"
  , "c2" : "getPropertyStr(String)"
  , "c3" : "2"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00187"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#187"
+ , "c5" : "00342"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#342"
  , "c1" : "char[]"
  , "c2" : "getPropertyChars(String)"
  , "c3" : "2"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00196"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#196"
+ , "c5" : "00356"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#356"
  , "c1" : "boolean"
  , "c2" : "getPropertyBool(String)"
  , "c3" : "5"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00209"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#209"
+ , "c5" : "00374"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#374"
  , "c1" : "Number"
  , "c2" : "getPropertyNum(String)"
  , "c3" : "5"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00221"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#221"
+ , "c5" : "00386"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#386"
  , "c1" : "Proxy"
  , "c2" : "getProxy()"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00226"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#226"
+ , "c5" : "00391"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#391"
  , "c1" : "void"
  , "c2" : "eraseCredentials()"
  , "c3" : "2"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00233"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#233"
+ , "c5" : "00398"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#398"
  , "c1" : "boolean"
  , "c2" : "equals(Object)"
  , "c3" : "3"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00241"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#241"
+ , "c5" : "00406"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#406"
  , "c1" : "int"
  , "c2" : "hashCode()"
  , "c3" : "1"
@@ -276,437 +276,437 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#39"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.SecurityCredentials@POLYN204496 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#44"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00044] The argument properties is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#45"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.SecurityCredentials@POLYN205036 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.SecurityCredentials@POLYN205036 the MagicNumber/String  'Credential name should not be null' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#57"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00057] For method basicAuth arguments String  identifier|char[]  secret"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#58"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.basicAuth@POLYN205937 the MagicNumber/String  'basicauth' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#62"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method fromJson arguments JsonValue  jsonValue"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#62"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00062] The argument jsonValue is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#83"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE390[00083] Detection of error condition without action (see http://cwe.mitre.org/data/definitions/390.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN206561 the MagicNumber/String  'name' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN206561 the MagicNumber/String  'type' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN206561 the MagicNumber/String  'identifier' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN206561 the MagicNumber/String  'secret' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN206561 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#71"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN206561 the MagicNumber/String  'properties' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN206561 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#73"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN206561 the MagicNumber/String  'tokenauth' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN206561 the MagicNumber/String  'tokenauth' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN206561 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN206561 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#75"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN206561 the MagicNumber/String  'proxy' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN206561 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#77"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN206561 the MagicNumber/String  'basicauth' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN206561 the MagicNumber/String  'proxy' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#90"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00090] For method proxyFromJson arguments JsonValue  proxyValue"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#91"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.proxyFromJson@POLYN209041 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#95"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.proxyFromJson@POLYN209041 the MagicNumber/String  'type' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#96"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.proxyFromJson@POLYN209041 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.proxyFromJson@POLYN209041 the MagicNumber/String  'address' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#103"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.proxyFromJson@POLYN209041 the MagicNumber/String  'port' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#104"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.proxyFromJson@POLYN209041 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#109"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.proxyFromJson@POLYN209041 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.SecurityCredentials@POLYN205474 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#113"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method extractSecret arguments JsonValue  pwd"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00113] The argument properties is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.extractSecret@POLYN210747 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.SecurityCredentials@POLYN206014 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.extractSecret@POLYN210747 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#119"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.extractSecret@POLYN210747 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#126"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00126] For method buildProperties arguments String  prefix|JsonValue  fromValue|Map&lt;String ,Object &gt;  toMap"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#126"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00126] The argument fromValue is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#126"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00126] The argument toMap is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.SecurityCredentials@POLYN206014 the MagicNumber/String  'Credential name should not be null' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00132] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00137] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.buildProperties@POLYN211825 the MagicNumber/String  '.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#153"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00153] For method isJsonObjectWithMembers arguments JsonValue  jsonValue"
+ , "c3" : "QC-JAV000006[00132] For method basicAuth arguments String  identifier|char[]  secret"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#154"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.isJsonObjectWithMembers@POLYN213547 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.basicAuth@POLYN206915 the MagicNumber/String  'basicauth' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#178"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#156"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00178] For method getPropertyStr arguments String  key"
+ , "c3" : "QC-JAV000006[00156] For method fromJson arguments JsonValue  jsonValue"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00180"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#180"
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#156"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00156] The argument jsonValue is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.getPropertyStr@POLYN214444 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAVCWE390[00177] Detection of error condition without action (see http://cwe.mitre.org/data/definitions/390.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#183"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.getPropertyStr@POLYN214444 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN207539 the MagicNumber/String  'name' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#187"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00187] For method getPropertyChars arguments String  key"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#189"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.getPropertyChars@POLYN214890 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN207539 the MagicNumber/String  'type' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#192"
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.getPropertyChars@POLYN214890 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN207539 the MagicNumber/String  'identifier' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#196"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00196] For method getPropertyBool arguments String  key"
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#162"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN207539 the MagicNumber/String  'secret' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN207539 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#165"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN207539 the MagicNumber/String  'properties' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN207539 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN207539 the MagicNumber/String  'tokenauth' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#168"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN207539 the MagicNumber/String  'tokenauth' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#169"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN207539 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#169"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN207539 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#169"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN207539 the MagicNumber/String  'proxy' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN207539 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#171"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN207539 the MagicNumber/String  'basicauth' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.fromJson@POLYN207539 the MagicNumber/String  'proxy' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#198"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.getPropertyBool@POLYN215344 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00205"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#205"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.getPropertyBool@POLYN215344 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00209"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#209"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00209] For method getPropertyNum arguments String  key"
+ , "c3" : "QC-JAV000006[00198] For method proxyFromJson arguments JsonValue  proxyValue"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#199"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.proxyFromJson@POLYN210019 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.proxyFromJson@POLYN210019 the MagicNumber/String  'type' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#204"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.proxyFromJson@POLYN210019 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#210"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.proxyFromJson@POLYN210019 the MagicNumber/String  'address' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00211"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#211"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.getPropertyNum@POLYN216001 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.proxyFromJson@POLYN210019 the MagicNumber/String  'port' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00218"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#218"
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.getPropertyNum@POLYN216001 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.proxyFromJson@POLYN210019 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#217"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.proxyFromJson@POLYN210019 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00226"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#226"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00226] For method extractSecret arguments JsonValue  pwd"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.eraseCredentials@POLYN216661 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00227"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#227"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.eraseCredentials@POLYN216661 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.extractSecret@POLYN211725 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00228"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.eraseCredentials@POLYN216661 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.extractSecret@POLYN211725 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#233"
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#232"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.extractSecret@POLYN211725 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00266"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#266"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00233] For method equals arguments Object  o"
+ , "c3" : "QC-JAV000006[00266] For method buildProperties arguments String  prefix|JsonValue  fromValue|Map&lt;String ,Object &gt;  toMap"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00234"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#234"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.equals@POLYN216949 the MagicNumber/String  true should be converted to const"
+ , "c1" : "00266"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#266"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00266] The argument fromValue is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00235"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#235"
+ , "c1" : "00266"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#266"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00266] The argument toMap is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00272"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#272"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.equals@POLYN216949 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000001[00272] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00277"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#277"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00277] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00277"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#277"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.buildProperties@POLYN212803 the MagicNumber/String  '.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00298"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#298"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00298] For method isJsonObjectWithMembers arguments JsonValue  jsonValue"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00299"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#299"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00299] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.isJsonObjectWithMembers@POLYN214525 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00328"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#328"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00328] For method getPropertyStr arguments String  key"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00330"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#330"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00330] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.getPropertyStr@POLYN215422 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00333"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#333"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.getPropertyStr@POLYN215422 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00342"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#342"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00342] For method getPropertyChars arguments String  key"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00344"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#344"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00344] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.getPropertyChars@POLYN215868 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00347"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#347"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00347] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.getPropertyChars@POLYN215868 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00356"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#356"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00356] For method getPropertyBool arguments String  key"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00358"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#358"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00358] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.getPropertyBool@POLYN216322 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00365"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#365"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00365] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.getPropertyBool@POLYN216322 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00374"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#374"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00374] For method getPropertyNum arguments String  key"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00376"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#376"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00376] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.getPropertyNum@POLYN216979 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00383"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#383"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00383] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.getPropertyNum@POLYN216979 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00392"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#392"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00392] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.eraseCredentials@POLYN217639 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00392"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#392"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00392] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.eraseCredentials@POLYN217639 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00393"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#393"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00393] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.eraseCredentials@POLYN217639 the MagicNumber/String  '*' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00398"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#398"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00398] For method equals arguments Object  o"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00399"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#399"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00399] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.equals@POLYN217927 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00400"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#400"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00400] In method net.sourceforge.plantuml.security.authentication.SecurityCredentials.equals@POLYN217927 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

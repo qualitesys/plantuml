@@ -2,13 +2,13 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.DottedNumber"
 class net.sourceforge.plantuml.sequencediagram.DottedNumber {
--DottedNumber(List<Integer>;List<String>) : DottedNumber [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#15]]]
-+create(String) : DottedNumber [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#20]]]
--isDigit(char) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#36]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#41]]]
-+incrementMinor(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#52]]]
-+incrementIntermediate() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#58]]]
-+incrementIntermediate(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#63]]]
-+format(DecimalFormat) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#72]]]
+-DottedNumber(List<Integer>;List<String>) : DottedNumber [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#48]]]
++create(String) : DottedNumber [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#53]]]
+-isDigit(char) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#69]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#74]]]
++incrementMinor(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#85]]]
++incrementIntermediate() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#91]]]
++incrementIntermediate(int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#96]]]
++format(DecimalFormat) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#105]]]
 } 
 @enduml

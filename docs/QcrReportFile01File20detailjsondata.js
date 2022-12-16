@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanDot" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#12"
+ , "c5" : "00018"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#18"
  , "c1" : "void"
  , "c2" : "startNewRun()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#17"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#23"
  , "c1" : "void"
  , "c2" : "getPixelTypes(int;int[])"
  , "c3" : "7"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#50"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#56"
  , "c1" : "void"
  , "c2" : "setScanDots(ScanDot[])"
  , "c3" : "1"
@@ -100,31 +100,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#14"
+ , "c1" : "00020"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#20"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanDot.startNewRun@POLYN142748 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#17"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method getPixelTypes arguments int  pRowNo|int[]  pPixelTypes"
+ , "c3" : "QC-JAV000010[00020] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanDot.startNewRun@POLYN142784 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00023"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#23"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00023] Avoid declaring class instance within loop, performance impact"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00023] For method getPixelTypes arguments int  pRowNo|int[]  pPixelTypes"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#50"
+ , "c1" : "00029"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#29"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00029] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanDot.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method setScanDots arguments ScanDot[]  pScanDots"
+ , "c3" : "QC-JAV000006[00056] For method setScanDots arguments ScanDot[]  pScanDots"
 }} 
 ]
 , 

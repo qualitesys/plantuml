@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.style.StyleSignatureBasic" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#54"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "StyleSignatureBasic(String)"
  , "c3" : "2"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#62"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "empty()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00032"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#32"
+ , "c5" : "00066"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#66"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "StyleSignatureBasic(boolean)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#70"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "StyleSignatureBasic(boolean;Collection<String>)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#75"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "addClickable(Url)"
  , "c3" : "2"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#51"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#85"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "add(String)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#63"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#97"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "add(SName)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#67"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#101"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "addStar()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#73"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#107"
  , "c1" : "boolean"
  , "c2" : "isStarred()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#78"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#112"
  , "c1" : "boolean"
  , "c2" : "equals(Object)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#84"
+ , "c5" : "00118"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#118"
  , "c1" : "int"
  , "c2" : "hashCode()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00089"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#89"
+ , "c5" : "00123"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#123"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "3"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00100"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#100"
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#134"
  , "c1" : "boolean"
  , "c2" : "matchAll(StyleSignatureBasic)"
  , "c3" : "8"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00124"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#124"
+ , "c5" : "00158"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#158"
  , "c1" : "int"
  , "c2" : "depthFromToken(String)"
  , "c3" : "2"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00130"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#130"
+ , "c5" : "00164"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#164"
  , "c1" : "int"
  , "c2" : "depthFromTokens(Collection<String>)"
  , "c3" : "3"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00140"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#140"
+ , "c5" : "00174"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#174"
  , "c1" : "Set<String>"
  , "c2" : "getNames()"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00144"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#144"
+ , "c5" : "00178"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#178"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "of(SName...)"
  , "c3" : "2"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00152"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#152"
+ , "c5" : "00186"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#186"
  , "c1" : "StyleSignature"
  , "c2" : "forStereotypeItself(Stereotype)"
  , "c3" : "3"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00168"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#168"
+ , "c5" : "00202"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#202"
  , "c1" : "StyleSignature"
  , "c2" : "withTOBECHANGED(Stereotype)"
  , "c3" : "3"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00182"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#182"
+ , "c5" : "00216"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#216"
  , "c1" : "StyleSignature"
  , "c2" : "with(Stereostyles)"
  , "c3" : "3"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00192"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#192"
+ , "c5" : "00226"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#226"
  , "c1" : "String"
  , "c2" : "clean(String)"
  , "c3" : "1"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00196"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#196"
+ , "c5" : "00230"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#230"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "mergeWith(List<Style>)"
  , "c3" : "3"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00205"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#205"
+ , "c5" : "00239"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#239"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "mergeWith(StyleSignatureBasic)"
  , "c3" : "1"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00212"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#212"
+ , "c5" : "00246"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#246"
  , "c1" : "Style"
  , "c2" : "getMergedStyle(StyleBuilder)"
  , "c3" : "2"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00219"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#219"
+ , "c5" : "00253"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#253"
  , "c1" : "boolean"
  , "c2" : "match(Stereotype)"
  , "c3" : "3"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00227"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#227"
+ , "c5" : "00261"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#261"
  , "c1" : "boolean"
  , "c2" : "isWithDot()"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00233"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#233"
+ , "c5" : "00267"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#267"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "activity()"
  , "c3" : "1"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00237"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#237"
+ , "c5" : "00271"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#271"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "activityDiamond()"
  , "c3" : "1"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00241"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#241"
+ , "c5" : "00275"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#275"
  , "c1" : "StyleSignatureBasic"
  , "c2" : "activityArrow()"
  , "c3" : "1"
@@ -341,549 +341,549 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.style.StyleSignatureBasic.StyleSignatureBasic@POLYN180113 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.style.StyleSignatureBasic.StyleSignatureBasic@POLYN180113 the MagicNumber/String  '&amp;' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#21"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.style.StyleSignatureBasic.StyleSignatureBasic@POLYN180113 the MagicNumber/String  '-' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#24"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.style.StyleSignatureBasic.StyleSignatureBasic@POLYN180113 the MagicNumber/String  '.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.style.StyleSignatureBasic.empty@POLYN180659 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#41"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00041] For method addClickable arguments Url  url"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#42"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.style.StyleSignatureBasic.addClickable@POLYN181160 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#51"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method add arguments String  s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#52"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN181645 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.style.StyleSignatureBasic.StyleSignatureBasic@POLYN180317 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN181645 the MagicNumber/String  '&amp;' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.style.StyleSignatureBasic.StyleSignatureBasic@POLYN180317 the MagicNumber/String  '&amp;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#60"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN181645 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.style.StyleSignatureBasic.StyleSignatureBasic@POLYN180317 the MagicNumber/String  '-' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#58"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.style.StyleSignatureBasic.StyleSignatureBasic@POLYN180317 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.style.StyleSignatureBasic.empty@POLYN180863 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#75"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00063] For method add arguments SName  name"
+ , "c3" : "QC-JAV000006[00075] For method addClickable arguments Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#63"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00063] The argument name is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#64"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN182323 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.style.StyleSignatureBasic.addClickable@POLYN181364 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN182323 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#69"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.style.StyleSignatureBasic.addStar@POLYN182567 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#74"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.style.StyleSignatureBasic.isStarred@POLYN182915 the MagicNumber/String  '*' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#78"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#85"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method equals arguments Object  arg"
+ , "c3" : "QC-JAV000006[00085] For method add arguments String  s"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#92"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.style.StyleSignatureBasic.toString@POLYN183434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN181849 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#93"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.style.StyleSignatureBasic.toString@POLYN183434 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN181849 the MagicNumber/String  '&amp;' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#94"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN181849 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#97"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.style.StyleSignatureBasic.toString@POLYN183434 the MagicNumber/String  ' ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#100"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00100] For method matchAll arguments StyleSignatureBasic  other"
+ , "c3" : "QC-JAV000006[00097] For method add arguments SName  name"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#100"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#97"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00100] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00097] The argument name is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#101"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN183964 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN182527 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#102"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN183964 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN182527 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN183964 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.style.StyleSignatureBasic.addStar@POLYN182771 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN183964 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.style.StyleSignatureBasic.isStarred@POLYN183119 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN183964 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN183964 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00114"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#114"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN183964 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#116"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN183964 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN183964 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN183964 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#124"
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#112"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00124] For method depthFromToken arguments String  token"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#124"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00124] The argument token is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#125"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromToken@POLYN185054 the MagicNumber/String  'depth(' should be converted to const"
+ , "c3" : "QC-JAV000006[00112] For method equals arguments Object  arg"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromToken@POLYN185054 the MagicNumber/String  'depth(' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#126"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromToken@POLYN185054 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.style.StyleSignatureBasic.toString@POLYN183638 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromToken@POLYN185054 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.style.StyleSignatureBasic.toString@POLYN183638 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#130"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00130] For method depthFromTokens arguments Collection&lt;String &gt;  tokens"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#133"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromTokens@POLYN185491 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.style.StyleSignatureBasic.toString@POLYN183638 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#134"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00134] For method matchAll arguments StyleSignatureBasic  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#134"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00134] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184168 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromTokens@POLYN185491 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184168 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#144"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00144] For method of arguments SName  ...names"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#147"
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.style.StyleSignatureBasic.of@POLYN186055 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184168 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#147"
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.style.StyleSignatureBasic.of@POLYN186055 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184168 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#149"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.style.StyleSignatureBasic.of@POLYN186055 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184168 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#152"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00152] For method forStereotypeItself arguments Stereotype  stereotype"
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#145"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184168 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#148"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184168 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#150"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184168 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184168 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#155"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184168 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#158"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00158] Avoid declaring class instance within loop, performance impact"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00158] For method depthFromToken arguments String  token"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#153"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN186573 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#153"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN186573 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#158"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00158] The argument token is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN186573 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromToken@POLYN185258 the MagicNumber/String  'depth(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#159"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN186573 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromToken@POLYN185258 the MagicNumber/String  'depth(' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromToken@POLYN185258 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN186573 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromToken@POLYN185258 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#168"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#164"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00168] For method withTOBECHANGED arguments Stereotype  stereotype"
+ , "c3" : "QC-JAV000006[00164] For method depthFromTokens arguments Collection&lt;String &gt;  tokens"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00174"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#174"
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00174] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromTokens@POLYN185695 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#169"
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.style.StyleSignatureBasic.withTOBECHANGED@POLYN187594 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromTokens@POLYN185695 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#169"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.style.StyleSignatureBasic.withTOBECHANGED@POLYN187594 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#176"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.style.StyleSignatureBasic.withTOBECHANGED@POLYN187594 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00182"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#182"
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#178"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00182] For method with arguments Stereostyles  stereostyles"
+ , "c3" : "QC-JAV000006[00178] For method of arguments SName  ...names"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00182"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#182"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00182] The argument stereostyles is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#189"
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.style.StyleSignatureBasic.with@POLYN188431 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.style.StyleSignatureBasic.of@POLYN186259 the MagicNumber/String  '_' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#181"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.style.StyleSignatureBasic.of@POLYN186259 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00183"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#183"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.style.StyleSignatureBasic.of@POLYN186259 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#186"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00186] For method forStereotypeItself arguments Stereotype  stereotype"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#192"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00192] For method clean arguments String  name"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00192] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#192"
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN186777 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN186777 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#193"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN186777 the MagicNumber/String  '_' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00193"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#193"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN186777 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00195"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#195"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN186777 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#202"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00202] For method withTOBECHANGED arguments Stereotype  stereotype"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#208"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00208] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.style.StyleSignatureBasic.withTOBECHANGED@POLYN187798 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#203"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.style.StyleSignatureBasic.withTOBECHANGED@POLYN187798 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#210"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.style.StyleSignatureBasic.withTOBECHANGED@POLYN187798 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#216"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00216] For method with arguments Stereostyles  stereostyles"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#216"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00192] The argument name is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00216] The argument stereostyles is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#193"
+ , "c1" : "00223"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.style.StyleSignatureBasic.clean@POLYN188996 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.style.StyleSignatureBasic.with@POLYN188635 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.style.StyleSignatureBasic.clean@POLYN188996 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.style.StyleSignatureBasic.clean@POLYN188996 the MagicNumber/String  '.' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#193"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.style.StyleSignatureBasic.clean@POLYN188996 the MagicNumber/String  '' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#196"
+ , "c1" : "00226"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#226"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00196] For method mergeWith arguments List&lt;Style &gt;  others"
+ , "c3" : "QC-JAV000006[00226] For method clean arguments String  name"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00199"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#199"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00199] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00205"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#205"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00205] For method mergeWith arguments StyleSignatureBasic  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00205"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#205"
+ , "c1" : "00226"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#226"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00205] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00226] The argument name is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00212"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#212"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00212] For method getMergedStyle arguments StyleBuilder  styleBuilder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00213"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#213"
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.style.StyleSignatureBasic.getMergedStyle@POLYN190221 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.style.StyleSignatureBasic.clean@POLYN189200 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#214"
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.style.StyleSignatureBasic.getMergedStyle@POLYN190221 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.style.StyleSignatureBasic.clean@POLYN189200 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00219"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#219"
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#227"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.style.StyleSignatureBasic.clean@POLYN189200 the MagicNumber/String  '.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#227"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.style.StyleSignatureBasic.clean@POLYN189200 the MagicNumber/String  '' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#230"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00219] For method match arguments Stereotype  stereotype"
+ , "c3" : "QC-JAV000006[00230] For method mergeWith arguments List&lt;Style &gt;  others"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00219"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#219"
+ , "c1" : "00233"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#233"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00233] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00239"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#239"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00239] For method mergeWith arguments StyleSignatureBasic  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00239"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#239"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00219] The argument stereotype is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00239] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00222"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#222"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.style.StyleSignatureBasic.match@POLYN190459 the MagicNumber/String  true should be converted to const"
+ , "c1" : "00246"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#246"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00246] For method getMergedStyle arguments StyleBuilder  styleBuilder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00224"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#224"
+ , "c1" : "00247"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.style.StyleSignatureBasic.match@POLYN190459 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.style.StyleSignatureBasic.getMergedStyle@POLYN190425 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#248"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.style.StyleSignatureBasic.getMergedStyle@POLYN190425 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#253"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00253] For method match arguments Stereotype  stereotype"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#253"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00253] The argument stereotype is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#256"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.style.StyleSignatureBasic.match@POLYN190663 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00258"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#258"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.style.StyleSignatureBasic.match@POLYN190663 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

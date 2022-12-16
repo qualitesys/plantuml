@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "ext.plantuml.com.google.zxing.common.BitSource"
 class ext.plantuml.com.google.zxing.common.BitSource {
-+BitSource(byte[]) : BitSource [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#13]]]
-+readBits(int) : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#18]]]
-+available() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#61]]]
++BitSource(byte[]) : BitSource [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#38]]]
++readBits(int) : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#48]]]
++available() : int [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html#93]]]
 } 
 @enduml

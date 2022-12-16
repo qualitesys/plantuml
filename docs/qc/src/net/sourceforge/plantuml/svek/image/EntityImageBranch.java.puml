@@ -2,10 +2,10 @@
 !pragma layout smetana
 "AbstractEntityImage" <|-- "net.sourceforge.plantuml.svek.image.EntityImageBranch"
 class net.sourceforge.plantuml.svek.image.EntityImageBranch {
-+EntityImageBranch(ILeaf;ISkinParam) : EntityImageBranch [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageBranch.java.html#27]]]
-+getDefaultStyleDefinition() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageBranch.java.html#31]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageBranch.java.html#35]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageBranch.java.html#39]]]
-+getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageBranch.java.html#62]]]
++EntityImageBranch(ILeaf;ISkinParam) : EntityImageBranch [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageBranch.java.html#61]]]
++getDefaultStyleDefinition() : StyleSignatureBasic [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageBranch.java.html#65]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageBranch.java.html#69]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageBranch.java.html#73]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageBranch.java.html#96]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.OptionFlags" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#58"
  , "c1" : "void"
  , "c2" : "setAllowIncludeFalse()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#28"
+ , "c5" : "00062"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#62"
  , "c1" : "void"
  , "c2" : "setMaxPixel(int)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#45"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#79"
  , "c1" : "void"
  , "c2" : "reset()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#50"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#84"
  , "c1" : "void"
  , "c2" : "setDotExecutable(String)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#54"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#88"
  , "c1" : "OptionFlags"
  , "c2" : "OptionFlags()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#58"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#92"
  , "c1" : "void"
  , "c2" : "reset(boolean)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00072"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#72"
+ , "c5" : "00106"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#106"
  , "c1" : "boolean"
  , "c2" : "useJavaInsteadOfDot()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00100"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#100"
+ , "c5" : "00134"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#134"
  , "c1" : "OptionFlags"
  , "c2" : "getInstance()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00104"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#104"
+ , "c5" : "00138"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#138"
  , "c1" : "boolean"
  , "c2" : "isVerbose()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00108"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#108"
+ , "c5" : "00142"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#142"
  , "c1" : "void"
  , "c2" : "setVerbose(boolean)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00112"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#112"
+ , "c5" : "00146"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#146"
  , "c1" : "boolean"
  , "c2" : "isExtractFromMetadata()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00116"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#116"
+ , "c5" : "00150"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#150"
  , "c1" : "void"
  , "c2" : "setExtractFromMetadata(boolean)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00120"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#120"
+ , "c5" : "00154"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#154"
  , "c1" : "boolean"
  , "c2" : "isWord()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00124"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#124"
+ , "c5" : "00158"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#158"
  , "c1" : "void"
  , "c2" : "setWord(boolean)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00128"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#128"
+ , "c5" : "00162"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#162"
  , "c1" : "boolean"
  , "c2" : "isSystemExit()"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00132"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#132"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#166"
  , "c1" : "void"
  , "c2" : "setSystemExit(boolean)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00136"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#136"
+ , "c5" : "00170"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#170"
  , "c1" : "boolean"
  , "c2" : "isGui()"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00140"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#140"
+ , "c5" : "00174"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#174"
  , "c1" : "void"
  , "c2" : "setGui(boolean)"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00144"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#144"
+ , "c5" : "00178"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#178"
  , "c1" : "boolean"
  , "c2" : "isQuiet()"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00148"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#148"
+ , "c5" : "00182"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#182"
  , "c1" : "void"
  , "c2" : "setQuiet(boolean)"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00152"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#152"
+ , "c5" : "00186"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#186"
  , "c1" : "boolean"
  , "c2" : "isCheckDotError()"
  , "c3" : "1"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00156"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#156"
+ , "c5" : "00190"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#190"
  , "c1" : "void"
  , "c2" : "setCheckDotError(boolean)"
  , "c3" : "1"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00162"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#162"
+ , "c5" : "00196"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#196"
  , "c1" : "void"
  , "c2" : "logData(SFile;Diagram)"
  , "c3" : "5"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00192"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#192"
+ , "c5" : "00226"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#226"
  , "c1" : "void"
  , "c2" : "setLogData(SFile)"
  , "c3" : "1"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00203"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#203"
+ , "c5" : "00237"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#237"
  , "c1" : "boolean"
  , "c2" : "isPrintFonts()"
  , "c3" : "1"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00207"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#207"
+ , "c5" : "00241"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#241"
  , "c1" : "void"
  , "c2" : "setPrintFonts(boolean)"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00211"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#211"
+ , "c5" : "00245"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#245"
  , "c1" : "boolean"
  , "c2" : "isUseSuggestEngine2()"
  , "c3" : "1"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00215"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#215"
+ , "c5" : "00249"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#249"
  , "c1" : "boolean"
  , "c2" : "isEncodesprite()"
  , "c3" : "1"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00219"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#219"
+ , "c5" : "00253"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#253"
  , "c1" : "void"
  , "c2" : "setEncodesprite(boolean)"
  , "c3" : "1"
@@ -279,8 +279,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00223"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#223"
+ , "c5" : "00257"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#257"
  , "c1" : "boolean"
  , "c2" : "isOverwrite()"
  , "c3" : "1"
@@ -288,8 +288,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00227"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#227"
+ , "c5" : "00261"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#261"
  , "c1" : "void"
  , "c2" : "setOverwrite(boolean)"
  , "c3" : "1"
@@ -297,8 +297,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00231"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#231"
+ , "c5" : "00265"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#265"
  , "c1" : "String"
  , "c2" : "getFileSeparator()"
  , "c3" : "1"
@@ -306,8 +306,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00235"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#235"
+ , "c5" : "00269"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#269"
  , "c1" : "void"
  , "c2" : "setFileSeparator(String)"
  , "c3" : "1"
@@ -315,8 +315,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00239"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#239"
+ , "c5" : "00273"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#273"
  , "c1" : "boolean"
  , "c2" : "isDumpHtmlStats()"
  , "c3" : "1"
@@ -324,8 +324,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00243"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#243"
+ , "c5" : "00277"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#277"
  , "c1" : "void"
  , "c2" : "setDumpHtmlStats(boolean)"
  , "c3" : "1"
@@ -333,8 +333,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00247"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#247"
+ , "c5" : "00281"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#281"
  , "c1" : "boolean"
  , "c2" : "isDumpStats()"
  , "c3" : "1"
@@ -342,8 +342,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00251"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#251"
+ , "c5" : "00285"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#285"
  , "c1" : "void"
  , "c2" : "setDumpStats(boolean)"
  , "c3" : "1"
@@ -351,8 +351,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00255"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#255"
+ , "c5" : "00289"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#289"
  , "c1" : "boolean"
  , "c2" : "isLoopStats()"
  , "c3" : "1"
@@ -360,8 +360,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00259"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#259"
+ , "c5" : "00293"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#293"
  , "c1" : "void"
  , "c2" : "setLoopStats(boolean)"
  , "c3" : "1"
@@ -369,8 +369,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00263"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#263"
+ , "c5" : "00297"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#297"
  , "c1" : "boolean"
  , "c2" : "defaultForStats()"
  , "c3" : "1"
@@ -378,8 +378,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00267"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#267"
+ , "c5" : "00301"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#301"
  , "c1" : "boolean"
  , "c2" : "isTrue(String)"
  , "c3" : "1"
@@ -387,8 +387,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00271"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#271"
+ , "c5" : "00305"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#305"
  , "c1" : "boolean"
  , "c2" : "isEnableStats()"
  , "c3" : "1"
@@ -396,8 +396,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00275"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#275"
+ , "c5" : "00309"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#309"
  , "c1" : "void"
  , "c2" : "setEnableStats(boolean)"
  , "c3" : "1"
@@ -405,8 +405,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00279"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#279"
+ , "c5" : "00313"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#313"
  , "c1" : "long"
  , "c2" : "getTimeoutMs()"
  , "c3" : "1"
@@ -414,8 +414,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00283"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#283"
+ , "c5" : "00317"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#317"
  , "c1" : "void"
  , "c2" : "setTimeoutMs(long)"
  , "c3" : "1"
@@ -423,8 +423,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00287"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#287"
+ , "c5" : "00321"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#321"
  , "c1" : "void"
  , "c2" : "setExtractStdLib(boolean)"
  , "c3" : "1"
@@ -432,8 +432,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00291"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#291"
+ , "c5" : "00325"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#325"
  , "c1" : "boolean"
  , "c2" : "isExtractStdLib()"
  , "c3" : "1"
@@ -441,8 +441,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00295"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#295"
+ , "c5" : "00329"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#329"
  , "c1" : "boolean"
  , "c2" : "isClipboardLoop()"
  , "c3" : "1"
@@ -450,8 +450,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00299"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#299"
+ , "c5" : "00333"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#333"
  , "c1" : "void"
  , "c2" : "setClipboardLoop(boolean)"
  , "c3" : "1"
@@ -459,8 +459,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00303"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#303"
+ , "c5" : "00337"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#337"
  , "c1" : "boolean"
  , "c2" : "isClipboard()"
  , "c3" : "1"
@@ -468,8 +468,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00307"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#307"
+ , "c5" : "00341"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#341"
  , "c1" : "void"
  , "c2" : "setClipboard(boolean)"
  , "c3" : "1"
@@ -477,8 +477,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00311"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#311"
+ , "c5" : "00345"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#345"
  , "c1" : "boolean"
  , "c2" : "isStdLib()"
  , "c3" : "1"
@@ -486,8 +486,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00315"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#315"
+ , "c5" : "00349"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#349"
  , "c1" : "void"
  , "c2" : "setStdLib(boolean)"
  , "c3" : "1"
@@ -495,8 +495,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00319"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#319"
+ , "c5" : "00353"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#353"
  , "c1" : "boolean"
  , "c2" : "isSilentlyCompletelyIgnoreErrors()"
  , "c3" : "1"
@@ -504,8 +504,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00323"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#323"
+ , "c5" : "00357"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#357"
  , "c1" : "void"
  , "c2" : "setSilentlyCompletelyIgnoreErrors(boolean)"
  , "c3" : "1"
@@ -513,8 +513,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00327"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#327"
+ , "c5" : "00361"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#361"
  , "c1" : "boolean"
  , "c2" : "isReplaceWhiteBackgroundByTransparent()"
  , "c3" : "1"
@@ -522,8 +522,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00331"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#331"
+ , "c5" : "00365"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/OptionFlags.java.html#365"
  , "c1" : "void"
  , "c2" : "setReplaceWhiteBackgroundByTransparent(boolean)"
  , "c3" : "1"
@@ -614,549 +614,549 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00018] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00052] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00018"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#18"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#52"
  , "c2" : "MINOR"
- , "c3" : "QC-JAVCWE500[00018] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#25"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.OptionFlags.setAllowIncludeFalse@POLYN177718 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#28"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method setMaxPixel arguments int  max"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00032] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#32"
- , "c2" : "MINOR"
- , "c3" : "QC-JAVCWE500[00032] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#46"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178346 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#47"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178346 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#50"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method setDotExecutable arguments String  dotExecutable"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#55"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.OptionFlags.OptionFlags@POLYN178661 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#58"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method reset arguments boolean  exit"
+ , "c3" : "QC-JAVCWE500[00052] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178767 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.OptionFlags.setAllowIncludeFalse@POLYN177922 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#60"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178767 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#61"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178767 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#63"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178767 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178767 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#65"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178767 the MagicNumber/String  false should be converted to const"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#62"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00062] For method setMaxPixel arguments int  max"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178767 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAVCWE493[00066] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#68"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#66"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAVCWE500[00066] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178767 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178550 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#73"
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.OptionFlags.useJavaInsteadOfDot@POLYN179340 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178550 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00108"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#108"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00108] For method setVerbose arguments boolean  verbose"
+ , "c3" : "QC-JAV000006[00084] For method setDotExecutable arguments String  dotExecutable"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#116"
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.OptionFlags.OptionFlags@POLYN178865 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#92"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00116] For method setExtractFromMetadata arguments boolean  extractFromMetadata"
+ , "c3" : "QC-JAV000006[00092] For method reset arguments boolean  exit"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#124"
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178971 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#94"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178971 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178971 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178971 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178971 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#99"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178971 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178971 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#102"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN178971 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#107"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.OptionFlags.useJavaInsteadOfDot@POLYN179544 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#142"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00124] For method setWord arguments boolean  word"
+ , "c3" : "QC-JAV000006[00142] For method setVerbose arguments boolean  verbose"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#132"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#150"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00132] For method setSystemExit arguments boolean  systemExit"
+ , "c3" : "QC-JAV000006[00150] For method setExtractFromMetadata arguments boolean  extractFromMetadata"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#140"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#158"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00140] For method setGui arguments boolean  gui"
+ , "c3" : "QC-JAV000006[00158] For method setWord arguments boolean  word"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#148"
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#166"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00148] For method setQuiet arguments boolean  quiet"
+ , "c3" : "QC-JAV000006[00166] For method setSystemExit arguments boolean  systemExit"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#156"
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#174"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00156] For method setCheckDotError arguments boolean  checkDotError"
+ , "c3" : "QC-JAV000006[00174] For method setGui arguments boolean  gui"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#162"
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#182"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00162] For method logData arguments SFile  file|Diagram  system"
+ , "c3" : "QC-JAV000006[00182] For method setQuiet arguments boolean  quiet"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#162"
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#190"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00190] For method setCheckDotError arguments boolean  checkDotError"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#196"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00196] For method logData arguments SFile  file|Diagram  system"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#196"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00162] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00196] The argument file is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#162"
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#196"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00162] The argument system is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00196] The argument system is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#167"
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#201"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00167] Lock statement on synchronized resource"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00164"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#164"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182245 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#168"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182245 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00168"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#168"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182245 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#170"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182245 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00173"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#173"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182245 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#176"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182245 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00180"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#180"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182245 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00181"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#181"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182245 the MagicNumber/String  'Start of ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00183"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#183"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182245 the MagicNumber/String  'End of ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00186"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#186"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182245 the MagicNumber/String  'Cannot open ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#192"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00192] For method setLogData arguments SFile  logData"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#192"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00192] The argument logData is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000019[00201] Lock statement on synchronized resource"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.OptionFlags.setLogData@POLYN183844 the MagicNumber/String  'Cannot open ' should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182449 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#202"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182449 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#202"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182449 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#204"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182449 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#207"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00207] For method setPrintFonts arguments boolean  printFonts"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00212"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.OptionFlags.isUseSuggestEngine2@POLYN184660 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182449 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00219"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#219"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00219] For method setEncodesprite arguments boolean  encodesprite"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00227"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#227"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00227] For method setOverwrite arguments boolean  overwrite"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00235"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#235"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00235] For method setFileSeparator arguments String  fileSeparator"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00243"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#243"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00243] For method setDumpHtmlStats arguments boolean  value"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00251"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#251"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00251] For method setDumpStats arguments boolean  dumpStats"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00259"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#259"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00259] For method setLoopStats arguments boolean  loopStats"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00264"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#264"
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.OptionFlags.defaultForStats@POLYN186091 the MagicNumber/String  'PLANTUML_STATS' should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182449 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00264"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#264"
+ , "c1" : "00214"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#214"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.OptionFlags.defaultForStats@POLYN186091 the MagicNumber/String  'PLANTUML_STATS' should be converted to const"
+ , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182449 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00267"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#267"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00267] For method isTrue arguments String  value"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00268"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#268"
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.OptionFlags.isTrue@POLYN186348 the MagicNumber/String  'on' should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182449 the MagicNumber/String  'Start of ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00268"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#268"
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.OptionFlags.isTrue@POLYN186348 the MagicNumber/String  'true' should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182449 the MagicNumber/String  'End of ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00275"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#275"
+ , "c1" : "00220"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#220"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN182449 the MagicNumber/String  'Cannot open ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00226"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#226"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00275] For method setEnableStats arguments boolean  enableStats"
+ , "c3" : "QC-JAV000006[00226] For method setLogData arguments SFile  logData"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#283"
+ , "c1" : "00226"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#226"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00226] The argument logData is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#232"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.OptionFlags.setLogData@POLYN184048 the MagicNumber/String  'Cannot open ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#241"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00283] For method setTimeoutMs arguments long  timeoutMs"
+ , "c3" : "QC-JAV000006[00241] For method setPrintFonts arguments boolean  printFonts"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00287"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#287"
+ , "c1" : "00246"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#246"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.OptionFlags.isUseSuggestEngine2@POLYN184864 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#253"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00287] For method setExtractStdLib arguments boolean  extractStdLib"
+ , "c3" : "QC-JAV000006[00253] For method setEncodesprite arguments boolean  encodesprite"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00299"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#299"
+ , "c1" : "00261"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#261"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00299] For method setClipboardLoop arguments boolean  clipboardLoop"
+ , "c3" : "QC-JAV000006[00261] For method setOverwrite arguments boolean  overwrite"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00307"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#307"
+ , "c1" : "00269"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#269"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00307] For method setClipboard arguments boolean  clipboard"
+ , "c3" : "QC-JAV000006[00269] For method setFileSeparator arguments String  fileSeparator"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00315"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#315"
+ , "c1" : "00277"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#277"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00315] For method setStdLib arguments boolean  stdLib"
+ , "c3" : "QC-JAV000006[00277] For method setDumpHtmlStats arguments boolean  value"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00323"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#323"
+ , "c1" : "00285"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#285"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00323] For method setSilentlyCompletelyIgnoreErrors arguments boolean  silentlyCompletelyIgnoreErrors"
+ , "c3" : "QC-JAV000006[00285] For method setDumpStats arguments boolean  dumpStats"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00331"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#331"
+ , "c1" : "00293"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#293"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00331] For method setReplaceWhiteBackgroundByTransparent arguments boolean  replaceWhiteBackgroundByTransparent"
+ , "c3" : "QC-JAV000006[00293] For method setLoopStats arguments boolean  loopStats"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#72"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00072] Public method useJavaInsteadOfDot is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00298"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#298"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.OptionFlags.defaultForStats@POLYN186295 the MagicNumber/String  'PLANTUML_STATS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#100"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00100] Public method getInstance is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00298"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#298"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.OptionFlags.defaultForStats@POLYN186295 the MagicNumber/String  'PLANTUML_STATS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#211"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00211] Public method isUseSuggestEngine2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00301"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#301"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00301] For method isTrue arguments String  value"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#231"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00231] Public method getFileSeparator is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00302"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#302"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.OptionFlags.isTrue@POLYN186552 the MagicNumber/String  'on' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00271"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#271"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00271] Public method isEnableStats is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00302"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#302"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.OptionFlags.isTrue@POLYN186552 the MagicNumber/String  'true' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00279"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#279"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00279] Public method getTimeoutMs is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00309"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#309"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00309] For method setEnableStats arguments boolean  enableStats"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#24"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00024] Public method setAllowIncludeFalse is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00317"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#317"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00317] For method setTimeoutMs arguments long  timeoutMs"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#28"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00028] Public method setMaxPixel is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00321"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#321"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00321] For method setExtractStdLib arguments boolean  extractStdLib"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#45"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00045] Public method reset is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00333"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#333"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00333] For method setClipboardLoop arguments boolean  clipboardLoop"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#50"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00050] Public method setDotExecutable is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00341"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#341"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00341] For method setClipboard arguments boolean  clipboard"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00235"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#235"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00235] Public method setFileSeparator is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00349"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#349"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00349] For method setStdLib arguments boolean  stdLib"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00275"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#275"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00275] Public method setEnableStats is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c1" : "00357"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#357"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00357] For method setSilentlyCompletelyIgnoreErrors arguments boolean  silentlyCompletelyIgnoreErrors"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#283"
+ , "c1" : "00365"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#365"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00365] For method setReplaceWhiteBackgroundByTransparent arguments boolean  replaceWhiteBackgroundByTransparent"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#106"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00283] Public method setTimeoutMs is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00106] Public method useJavaInsteadOfDot is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#134"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00134] Public method getInstance is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#245"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00245] Public method isUseSuggestEngine2 is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00265"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#265"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00265] Public method getFileSeparator is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00305"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#305"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00305] Public method isEnableStats is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00313"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#313"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00313] Public method getTimeoutMs is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#58"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00058] Public method setAllowIncludeFalse is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#62"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00062] Public method setMaxPixel is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#79"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00079] Public method reset is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#84"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00084] Public method setDotExecutable is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00269"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#269"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00269] Public method setFileSeparator is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00309"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#309"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00309] Public method setEnableStats is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00317"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#317"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000003[00317] Public method setTimeoutMs is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

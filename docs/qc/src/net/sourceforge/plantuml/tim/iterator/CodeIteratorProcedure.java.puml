@@ -2,7 +2,7 @@
 !pragma layout smetana
 "AbstractCodeIterator" <|-- "net.sourceforge.plantuml.tim.iterator.CodeIteratorProcedure"
 class net.sourceforge.plantuml.tim.iterator.CodeIteratorProcedure {
-+CodeIteratorProcedure(CodeIterator;TContext;TMemory;FunctionsSet;List<StringLocated>) : CodeIteratorProcedure [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorProcedure.java.html#23]]]
-+peek() : StringLocated [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorProcedure.java.html#32]]]
++CodeIteratorProcedure(CodeIterator;TContext;TMemory;FunctionsSet;List<StringLocated>) : CodeIteratorProcedure [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorProcedure.java.html#56]]]
++peek() : StringLocated [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorProcedure.java.html#65]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.pdf.PdfConverter" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#45"
  , "c1" : "void"
  , "c2" : "convert(File;File)"
  , "c3" : "4"
@@ -89,115 +89,115 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#9"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00009] The class PdfConverter contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00043] The class PdfConverter contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#45"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00011] For method convert arguments File  svgFile|File  pdfFile"
+ , "c3" : "QC-JAV000006[00045] For method convert arguments File  svgFile|File  pdfFile"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#45"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00011] The argument svgFile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00045] The argument svgFile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#45"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00011] The argument pdfFile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00045] The argument pdfFile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#13"
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN152073 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'log4j.debug' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN152073 the MagicNumber/String  'log4j.debug' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'false' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN152073 the MagicNumber/String  'false' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'org.apache.batik.apps.rasterizer.SVGConverter' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN152073 the MagicNumber/String  'org.apache.batik.apps.rasterizer.SVGConverter' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'org.apache.batik.apps.rasterizer.DestinationType' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN152073 the MagicNumber/String  'org.apache.batik.apps.rasterizer.DestinationType' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'PDF' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN152073 the MagicNumber/String  'PDF' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN152073 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'setDestinationType' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN152073 the MagicNumber/String  'setDestinationType' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'setSources' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN152073 the MagicNumber/String  'setSources' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'setDst' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN152073 the MagicNumber/String  'setDst' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#40"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  'execute' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN152073 the MagicNumber/String  'execute' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN151869 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN152073 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

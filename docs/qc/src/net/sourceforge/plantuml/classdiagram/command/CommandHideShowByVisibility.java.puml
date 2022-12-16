@@ -2,11 +2,11 @@
 !pragma layout smetana
 "SingleLineCommand2<UmlDiagram>" <|-- "net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility"
 class net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility {
-+CommandHideShowByVisibility() : CommandHideShowByVisibility [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#23]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#27]]]
-executeArg(UmlDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#38]]]
--executeArgClass(ClassDiagram;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#46]]]
--addVisibilities(String;EntityPortion;Set<VisibilityModifier>) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#61]]]
--getEntityPortion(String) : EntityPortion [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#88]]]
++CommandHideShowByVisibility() : CommandHideShowByVisibility [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#57]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#61]]]
+executeArg(UmlDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#72]]]
+-executeArgClass(ClassDiagram;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#80]]]
+-addVisibilities(String;EntityPortion;Set<VisibilityModifier>) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#95]]]
+-getEntityPortion(String) : EntityPortion [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#122]]]
 } 
 @enduml

@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "ext.plantuml.com.google.zxing.datamatrix.decoder.DataBlock"
 class ext.plantuml.com.google.zxing.datamatrix.decoder.DataBlock {
--DataBlock(int;byte[]) : DataBlock [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/DataBlock.java.html#11]]]
-getDataBlocks(byte[];Version) : DataBlock[] [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/DataBlock.java.html#17]]]
-getNumDataCodewords() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/DataBlock.java.html#81]]]
-getCodewords() : byte[] [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/DataBlock.java.html#85]]]
+-DataBlock(int;byte[]) : DataBlock [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/DataBlock.java.html#31]]]
+getDataBlocks(byte[];Version) : DataBlock[] [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/DataBlock.java.html#46]]]
+getNumDataCodewords() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/DataBlock.java.html#110]]]
+getCodewords() : byte[] [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/DataBlock.java.html#114]]]
 } 
 @enduml

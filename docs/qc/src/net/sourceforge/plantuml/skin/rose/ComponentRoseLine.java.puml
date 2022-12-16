@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractComponent" <|-- "net.sourceforge.plantuml.skin.rose.ComponentRoseLine"
 class net.sourceforge.plantuml.skin.rose.ComponentRoseLine {
-+ComponentRoseLine(Style;boolean;HColorSet) : ComponentRoseLine [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#23]]]
-drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#31]]]
-+getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#43]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#48]]]
++ComponentRoseLine(Style;boolean;HColorSet) : ComponentRoseLine [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#57]]]
+drawInternalU(UGraphic;Area) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#65]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#77]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseLine.java.html#82]]]
 } 
 @enduml

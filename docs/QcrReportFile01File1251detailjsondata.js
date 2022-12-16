@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.elk.proxy.Reflect" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#13"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#49"
  , "c1" : "Class"
  , "c2" : "clazz(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#22"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#58"
  , "c1" : "Enum"
  , "c2" : "getEnum(String;String)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#37"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#73"
  , "c1" : "Object"
  , "c2" : "opt(String;String)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#48"
+ , "c5" : "00084"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#84"
  , "c1" : "Object"
  , "c2" : "newInstance(String)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#58"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#94"
  , "c1" : "Object"
  , "c2" : "newInstance(String;Object)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#69"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#105"
  , "c1" : "Object"
  , "c2" : "newInstance(String;double;double;double;double)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00080"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#80"
+ , "c5" : "00116"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#116"
  , "c1" : "Object"
  , "c2" : "field(String;String)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00091"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#91"
+ , "c5" : "00127"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#127"
  , "c1" : "Object"
  , "c2" : "callStatic(String;String)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00102"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#102"
+ , "c5" : "00138"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#138"
  , "c1" : "Object"
  , "c2" : "callStatic(String;String;Object)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#113"
+ , "c5" : "00149"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#149"
  , "c1" : "Object"
  , "c2" : "callStatic(String;String;Object;Object)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00124"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#124"
+ , "c5" : "00160"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#160"
  , "c1" : "Object"
  , "c2" : "callStatic2(String;String;Object)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00135"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#135"
+ , "c5" : "00171"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#171"
  , "c1" : "Object"
  , "c2" : "callStatic2(String;String;Object;Object)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00146"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#146"
+ , "c5" : "00182"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#182"
  , "c1" : "Method"
  , "c2" : "getStaticMethod(Class<?>;String;int)"
  , "c3" : "3"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00155"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#155"
+ , "c5" : "00191"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#191"
  , "c1" : "Object"
  , "c2" : "call(Object;String)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00165"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#165"
+ , "c5" : "00201"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#201"
  , "c1" : "Object"
  , "c2" : "call(Object;String;Object)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00175"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#175"
+ , "c5" : "00211"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#211"
  , "c1" : "Object"
  , "c2" : "call(Object;String;Object;Object)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00185"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#185"
+ , "c5" : "00221"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#221"
  , "c1" : "Object"
  , "c2" : "call2(Object;String;Object;Object)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00195"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#195"
+ , "c5" : "00231"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#231"
  , "c1" : "Method"
  , "c2" : "getMethod(Object;String;int)"
  , "c3" : "3"
@@ -242,290 +242,290 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#13"
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method clazz arguments String  className"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#22"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method getEnum arguments String  clazz|String  name"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#27"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00027] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#37"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method opt arguments String  className|String  fieldname"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#41"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.elk.proxy.Reflect.opt@POLYN179464 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#48"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method newInstance arguments String  className"
+ , "c3" : "QC-JAV000006[00049] For method clazz arguments String  className"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method newInstance arguments String  className|Object  arg1"
+ , "c3" : "QC-JAV000006[00058] For method getEnum arguments String  clazz|String  name"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#58"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00058] The argument arg1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#63"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00063] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#69"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#73"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method newInstance arguments String  className|double  arg1|double  arg2|double  arg3|double  arg4"
+ , "c3" : "QC-JAV000006[00073] For method opt arguments String  className|String  fieldname"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#80"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method field arguments String  className|String  fieldName"
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#77"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.elk.proxy.Reflect.opt@POLYN179680 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.elk.proxy.Reflect.field@POLYN182012 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#91"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00091] For method callStatic arguments String  className|String  method"
+ , "c3" : "QC-JAV000006[00084] For method newInstance arguments String  className"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#95"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.elk.proxy.Reflect.callStatic@POLYN182614 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#102"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#94"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00102] For method callStatic arguments String  className|String  method|Object  arg1"
+ , "c3" : "QC-JAV000006[00094] For method newInstance arguments String  className|Object  arg1"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#102"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#94"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00102] The argument arg1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00094] The argument arg1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#106"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.elk.proxy.Reflect.callStatic@POLYN183216 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#113"
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#105"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method callStatic arguments String  className|String  method|Object  arg1|Object  arg2"
+ , "c3" : "QC-JAV000006[00105] For method newInstance arguments String  className|double  arg1|double  arg2|double  arg3|double  arg4"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#113"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00113] The argument arg1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00113"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#113"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00113] The argument arg2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#117"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.elk.proxy.Reflect.callStatic@POLYN183907 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#124"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#116"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00124] For method callStatic2 arguments String  className|String  method|Object  arg1"
+ , "c3" : "QC-JAV000006[00116] For method field arguments String  className|String  fieldName"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#120"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.elk.proxy.Reflect.field@POLYN182228 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#127"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.elk.proxy.Reflect.callStatic2@POLYN184687 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#128"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.elk.proxy.Reflect.callStatic2@POLYN184687 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#135"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00135] For method callStatic2 arguments String  className|String  method|Object  arg1|Object  arg2"
+ , "c3" : "QC-JAV000006[00127] For method callStatic arguments String  className|String  method"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#131"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.elk.proxy.Reflect.callStatic@POLYN182830 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#138"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00138] For method callStatic arguments String  className|String  method|Object  arg1"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#138"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00138] The argument arg1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.elk.proxy.Reflect.callStatic2@POLYN185374 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.elk.proxy.Reflect.callStatic@POLYN183432 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#139"
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#149"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00149] For method callStatic arguments String  className|String  method|Object  arg1|Object  arg2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#149"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00149] The argument arg1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#149"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00149] The argument arg2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.elk.proxy.Reflect.callStatic2@POLYN185374 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.elk.proxy.Reflect.callStatic@POLYN184123 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#146"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#160"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00146] For method getStaticMethod arguments Class&lt;? &gt;  cl|String  method|int  nbArgs"
+ , "c3" : "QC-JAV000006[00160] For method callStatic2 arguments String  className|String  method|Object  arg1"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#146"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00146] The argument cl is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#155"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00155] For method call arguments Object  instance|String  method"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#155"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00155] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#165"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00165] For method call arguments Object  instance|String  method|Object  arg1"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#165"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00165] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#165"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00165] The argument arg1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00175"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#175"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00175] For method call arguments Object  instance|String  method|Object  arg1|Object  arg2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00175"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#175"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00175] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00175"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#175"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00175] The argument arg1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00175"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#175"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00175] The argument arg2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#185"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00185] For method call2 arguments Object  instance|String  method|Object  arg1|Object  arg2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#187"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.elk.proxy.Reflect.call2@POLYN188407 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.elk.proxy.Reflect.callStatic2@POLYN184903 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#195"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#164"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.elk.proxy.Reflect.callStatic2@POLYN184903 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#171"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00195] For method getMethod arguments Object  instance|String  method|int  nbArgs"
+ , "c3" : "QC-JAV000006[00171] For method callStatic2 arguments String  className|String  method|Object  arg1|Object  arg2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#195"
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#174"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.elk.proxy.Reflect.callStatic2@POLYN185590 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#175"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.elk.proxy.Reflect.callStatic2@POLYN185590 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#182"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00182] For method getStaticMethod arguments Class&lt;? &gt;  cl|String  method|int  nbArgs"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#182"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00195] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00182] The argument cl is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#191"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00191] For method call arguments Object  instance|String  method"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#191"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00191] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#201"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00201] For method call arguments Object  instance|String  method|Object  arg1"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#201"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00201] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#201"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00201] The argument arg1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#211"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00211] For method call arguments Object  instance|String  method|Object  arg1|Object  arg2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#211"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00211] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#211"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00211] The argument arg1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#211"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00211] The argument arg2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00221"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#221"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00221] For method call2 arguments Object  instance|String  method|Object  arg1|Object  arg2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00223"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#223"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.elk.proxy.Reflect.call2@POLYN188623 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00231"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#231"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00231] For method getMethod arguments Object  instance|String  method|int  nbArgs"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00231"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#231"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00231] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

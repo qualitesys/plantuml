@@ -2,7 +2,7 @@
 !pragma layout smetana
 "UDriver<UText,VisioGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx"
 class net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx {
-+DriverTextVdx(StringBounder) : DriverTextVdx [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#19]]]
-+draw(UText;double;double;ColorMapper;UParam;VisioGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#23]]]
++DriverTextVdx(StringBounder) : DriverTextVdx [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#52]]]
++draw(UText;double;double;ColorMapper;UParam;VisioGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/DriverTextVdx.java.html#56]]]
 } 
 @enduml

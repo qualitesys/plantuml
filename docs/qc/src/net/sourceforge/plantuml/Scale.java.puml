@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.Scale"
 class net.sourceforge.plantuml.Scale {
-+getScale(double;double) : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/Scale.java.html#6]]]
++getScale(double;double) : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/Scale.java.html#40]]]
 } 
 @enduml

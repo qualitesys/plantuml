@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.CucaNote" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#48"
  , "c1" : "CucaNote"
  , "c2" : "CucaNote(Display;Position;Colors;NoteLinkStrategy)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#55"
  , "c1" : "CucaNote"
  , "c2" : "build(Display;Position;Colors)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#59"
  , "c1" : "CucaNote"
  , "c2" : "withStrategy(NoteLinkStrategy)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#63"
  , "c1" : "Display"
  , "c2" : "getDisplay()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#67"
  , "c1" : "NoteLinkStrategy"
  , "c2" : "getStrategy()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#37"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#71"
  , "c1" : "Colors"
  , "c2" : "getColors()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#75"
  , "c1" : "Position"
  , "c2" : "getPosition()"
  , "c3" : "1"
@@ -122,17 +122,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#21"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00021] For method build arguments Display  display|Position  position|Colors  colors"
+ , "c3" : "QC-JAV000006[00055] For method build arguments Display  display|Position  position|Colors  colors"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/CucaNote.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method withStrategy arguments NoteLinkStrategy  strategy"
+ , "c3" : "QC-JAV000006[00059] For method withStrategy arguments NoteLinkStrategy  strategy"
 }} 
 ]
 , 

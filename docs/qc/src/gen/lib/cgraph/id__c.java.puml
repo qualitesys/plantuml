@@ -2,15 +2,15 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.cgraph.id__c"
 class gen.lib.cgraph.id__c {
-+idopen(ST_Agraph_s;ST_Agdisc_s) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#48]]]
-+idmap(Object;int;CString;int[];boolean) : int [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#70]]]
-+idalloc(Object...) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#104]]]
-+idfree(Object...) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#128]]]
-+idprint(__ptr__;int;int) : CString [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#150]]]
-+idclose(Object...) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#174]]]
-+idregister(Object;int;Object) : void [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#196]]]
-+agmapnametoid(ST_Agraph_s;int;CString;int[];boolean) : int [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#294]]]
-+agnameof(ST_Agobj_s) : CString [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#294]]]
-+agregister(ST_Agraph_s;int;Object) : void [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#294]]]
++idopen(ST_Agraph_s;ST_Agdisc_s) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#92]]]
++idmap(Object;int;CString;int[];boolean) : int [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#114]]]
++idalloc(Object...) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#148]]]
++idfree(Object...) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#172]]]
++idprint(__ptr__;int;int) : CString [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#194]]]
++idclose(Object...) : Object [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#218]]]
++idregister(Object;int;Object) : void [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#240]]]
++agmapnametoid(ST_Agraph_s;int;CString;int[];boolean) : int [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#338]]]
++agnameof(ST_Agobj_s) : CString [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#338]]]
++agregister(ST_Agraph_s;int;Object) : void [[[./../../../../.././qc/src/gen/lib/cgraph/id__c.java.html#338]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.code.CompressionNone" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/CompressionNone.java.html#6"
+ , "c5" : "00040"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/CompressionNone.java.html#40"
  , "c1" : "byte[]"
  , "c2" : "compress(byte[])"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/CompressionNone.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/CompressionNone.java.html#44"
  , "c1" : "ByteArray"
  , "c2" : "decompress(byte[])"
  , "c3" : "1"
@@ -77,17 +77,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00006"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionNone.java.html#6"
+ , "c1" : "00040"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionNone.java.html#40"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00006] For method compress arguments byte[]  in"
+ , "c3" : "QC-JAV000006[00040] For method compress arguments byte[]  in"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionNone.java.html#10"
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionNone.java.html#44"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00010] For method decompress arguments byte[]  in"
+ , "c3" : "QC-JAV000006[00044] For method decompress arguments byte[]  in"
 }} 
 ]
 , 

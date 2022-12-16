@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.timingdiagram.TimingFormat" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#20"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#53"
  , "c1" : "TimingFormat"
  , "c2" : "TimingFormat(SimpleDateFormat)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#24"
+ , "c5" : "00057"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#57"
  , "c1" : "TimingFormat"
  , "c2" : "create(SimpleDateFormat)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#28"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#61"
  , "c1" : "String"
  , "c2" : "formatTime(BigDecimal)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#35"
+ , "c5" : "00068"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#68"
  , "c1" : "String"
  , "c2" : "formatTime(long)"
  , "c3" : "4"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#61"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#94"
  , "c1" : "TimeTick"
  , "c2" : "createDate(int;int;int;TimingFormat)"
  , "c3" : "1"
@@ -132,164 +132,164 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#24"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00024] For method create arguments SimpleDateFormat  sdf"
+ , "c3" : "QC-JAV000006[00057] For method create arguments SimpleDateFormat  sdf"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#28"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method formatTime arguments BigDecimal  time"
+ , "c3" : "QC-JAV000006[00061] For method formatTime arguments BigDecimal  time"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#28"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#61"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00028] The argument time is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00061] The argument time is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#29"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN155620 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN155818 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#35"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method formatTime arguments long  time"
+ , "c3" : "QC-JAV000006[00068] For method formatTime arguments long  time"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#49"
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#82"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00049] Lock statement on synchronized resource"
+ , "c3" : "QC-JAV000019[00082] Lock statement on synchronized resource"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#36"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN155974 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN156172 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#37"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN155974 the MagicNumber/String  1000L should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN156172 the MagicNumber/String  1000L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#40"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN155974 the MagicNumber/String  60 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN156172 the MagicNumber/String  60 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#41"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN155974 the MagicNumber/String  60 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN156172 the MagicNumber/String  60 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#41"
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN155974 the MagicNumber/String  60 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN156172 the MagicNumber/String  60 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#42"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN155974 the MagicNumber/String  3600 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN156172 the MagicNumber/String  3600 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00043"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#43"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN155974 the MagicNumber/String  '%d:%02d:%02d' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN156172 the MagicNumber/String  '%d:%02d:%02d' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#50"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN155974 the MagicNumber/String  1000L should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN156172 the MagicNumber/String  1000L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#52"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN155974 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN156172 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#55"
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN155974 the MagicNumber/String  '%02d/%02d' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN156172 the MagicNumber/String  '%02d/%02d' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#58"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN155974 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.formatTime@POLYN156172 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#61"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#94"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method createDate arguments int  yyyy|int  mm|int  dd|TimingFormat  format"
+ , "c3" : "QC-JAV000006[00094] For method createDate arguments int  yyyy|int  mm|int  dd|TimingFormat  format"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#63"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#96"
  , "c2" : "INFO"
- , "c3" : "QC-JAV000019[00063] Lock statement on synchronized resource"
+ , "c3" : "QC-JAV000019[00096] Lock statement on synchronized resource"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#64"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.createDate@POLYN157616 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.createDate@POLYN157814 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#65"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.createDate@POLYN157616 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.createDate@POLYN157814 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#66"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.createDate@POLYN157616 the MagicNumber/String  1000L should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.timingdiagram.TimingFormat.createDate@POLYN157814 the MagicNumber/String  1000L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#61"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingFormat.java.html#94"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00061] Public method createDate is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00094] Public method createDate is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

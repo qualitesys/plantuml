@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.graphic.ShapeAttributes" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/jcckit/graphic/ShapeAttributes.java.html#22"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/jcckit/graphic/ShapeAttributes.java.html#65"
  , "c1" : "ShapeAttributes"
  , "c2" : "ShapeAttributes(ConfigParameters)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/jcckit/graphic/ShapeAttributes.java.html#30"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/jcckit/graphic/ShapeAttributes.java.html#80"
  , "c1" : "ShapeAttributes"
  , "c2" : "ShapeAttributes(Color;Color;double;double[])"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/jcckit/graphic/ShapeAttributes.java.html#38"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/jcckit/graphic/ShapeAttributes.java.html#88"
  , "c1" : "Color"
  , "c2" : "getFillColor()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/jcckit/graphic/ShapeAttributes.java.html#42"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/jcckit/graphic/ShapeAttributes.java.html#92"
  , "c1" : "Color"
  , "c2" : "getLineColor()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/jcckit/graphic/ShapeAttributes.java.html#46"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/jcckit/graphic/ShapeAttributes.java.html#96"
  , "c1" : "double"
  , "c2" : "getLineThickness()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/jcckit/graphic/ShapeAttributes.java.html#50"
+ , "c5" : "00100"
+ , "c5link" : "././qc/src/jcckit/graphic/ShapeAttributes.java.html#100"
  , "c1" : "double[]"
  , "c2" : "getLinePattern()"
  , "c3" : "1"
@@ -120,45 +120,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/jcckit/graphic/ShapeAttributes.java.html#22"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/jcckit/graphic/ShapeAttributes.java.html#65"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00022] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00065] The argument config is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/jcckit/graphic/ShapeAttributes.java.html#23"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/jcckit/graphic/ShapeAttributes.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method jcckit.graphic.ShapeAttributes.ShapeAttributes@POLYN161173 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method jcckit.graphic.ShapeAttributes.ShapeAttributes@POLYN161473 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/jcckit/graphic/ShapeAttributes.java.html#24"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/jcckit/graphic/ShapeAttributes.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method jcckit.graphic.ShapeAttributes.ShapeAttributes@POLYN161173 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method jcckit.graphic.ShapeAttributes.ShapeAttributes@POLYN161473 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/jcckit/graphic/ShapeAttributes.java.html#25"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/jcckit/graphic/ShapeAttributes.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method jcckit.graphic.ShapeAttributes.ShapeAttributes@POLYN161173 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method jcckit.graphic.ShapeAttributes.ShapeAttributes@POLYN161473 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/jcckit/graphic/ShapeAttributes.java.html#26"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/jcckit/graphic/ShapeAttributes.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method jcckit.graphic.ShapeAttributes.ShapeAttributes@POLYN161173 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method jcckit.graphic.ShapeAttributes.ShapeAttributes@POLYN161473 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/jcckit/graphic/ShapeAttributes.java.html#34"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/jcckit/graphic/ShapeAttributes.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method jcckit.graphic.ShapeAttributes.ShapeAttributes@POLYN161880 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method jcckit.graphic.ShapeAttributes.ShapeAttributes@POLYN162180 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

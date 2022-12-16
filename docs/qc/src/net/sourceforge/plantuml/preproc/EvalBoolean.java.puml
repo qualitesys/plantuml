@@ -2,13 +2,13 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.preproc.EvalBoolean"
 class net.sourceforge.plantuml.preproc.EvalBoolean {
-+EvalBoolean(String;Truth) : EvalBoolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#12]]]
--nextChar() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#17]]]
--eat(char) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#26]]]
--parseExpression() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#37]]]
--parseTerm() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#49]]]
--parseFactor() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#61]]]
--isIdentifier() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#84]]]
-+eval() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#88]]]
++EvalBoolean(String;Truth) : EvalBoolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#46]]]
+-nextChar() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#51]]]
+-eat(char) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#60]]]
+-parseExpression() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#71]]]
+-parseTerm() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#83]]]
+-parseFactor() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#95]]]
+-isIdentifier() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#118]]]
++eval() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#122]]]
 } 
 @enduml

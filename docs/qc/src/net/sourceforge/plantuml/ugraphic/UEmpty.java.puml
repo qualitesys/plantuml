@@ -2,9 +2,9 @@
 !pragma layout smetana
 "UShape" <|-- "net.sourceforge.plantuml.ugraphic.UEmpty"
 class net.sourceforge.plantuml.ugraphic.UEmpty {
-+UEmpty(double;double) : UEmpty [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEmpty.java.html#11]]]
-+UEmpty(XDimension2D) : UEmpty [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEmpty.java.html#19]]]
-+getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEmpty.java.html#23]]]
-+getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEmpty.java.html#27]]]
++UEmpty(double;double) : UEmpty [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEmpty.java.html#44]]]
++UEmpty(XDimension2D) : UEmpty [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEmpty.java.html#52]]]
++getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEmpty.java.html#56]]]
++getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UEmpty.java.html#60]]]
 } 
 @enduml

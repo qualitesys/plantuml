@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.BodyFactory"
 class net.sourceforge.plantuml.cucadiagram.BodyFactory {
-+createLeaf(LeafType;Set<VisibilityModifier>) : Bodier [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#20]]]
-+createGroup(Set<VisibilityModifier>) : Bodier [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#27]]]
-+create1(HorizontalAlignment;List<CharSequence>;ISkinParam;Stereotype;ILeaf;Style) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#31]]]
-+create2(HorizontalAlignment;Display;ISkinParam;Stereotype;ILeaf;Style) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#36]]]
-+create3(Display;ISkinSimple;HorizontalAlignment;FontConfiguration;LineBreakStrategy;Style) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#41]]]
++createLeaf(LeafType;Set<VisibilityModifier>) : Bodier [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#54]]]
++createGroup(Set<VisibilityModifier>) : Bodier [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#61]]]
++create1(HorizontalAlignment;List<CharSequence>;ISkinParam;Stereotype;ILeaf;Style) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#65]]]
++create2(HorizontalAlignment;Display;ISkinParam;Stereotype;ILeaf;Style) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#70]]]
++create3(Display;ISkinSimple;HorizontalAlignment;FontConfiguration;LineBreakStrategy;Style) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#75]]]
 } 
 @enduml

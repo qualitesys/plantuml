@@ -2,12 +2,12 @@
 !pragma layout smetana
 "ReadLine" <|-- "net.sourceforge.plantuml.preproc.ReadLineReader"
 class net.sourceforge.plantuml.preproc.ReadLineReader {
--ReadLineReader(Reader;String;LineLocation) : ReadLineReader [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineReader.java.html#19]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineReader.java.html#30]]]
--ReadLineReader(Reader;String) : ReadLineReader [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineReader.java.html#34]]]
-+create(Reader;String) : ReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineReader.java.html#38]]]
-+create(Reader;String;LineLocation) : ReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineReader.java.html#42]]]
-+readLine() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineReader.java.html#46]]]
-+close() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineReader.java.html#75]]]
+-ReadLineReader(Reader;String;LineLocation) : ReadLineReader [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineReader.java.html#53]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineReader.java.html#64]]]
+-ReadLineReader(Reader;String) : ReadLineReader [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineReader.java.html#68]]]
++create(Reader;String) : ReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineReader.java.html#72]]]
++create(Reader;String;LineLocation) : ReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineReader.java.html#76]]]
++readLine() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineReader.java.html#80]]]
++close() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineReader.java.html#109]]]
 } 
 @enduml

@@ -2,13 +2,13 @@
 !pragma layout smetana
 "ClippingShape" <|-- "jcckit.graphic.ClippingRectangle"
 class jcckit.graphic.ClippingRectangle {
-+ClippingRectangle(double;double;double;double) : ClippingRectangle [[[./../../../.././qc/src/jcckit/graphic/ClippingRectangle.java.html#9]]]
-+isInside(GraphPoint) : boolean [[[./../../../.././qc/src/jcckit/graphic/ClippingRectangle.java.html#17]]]
-+getMinX() : double [[[./../../../.././qc/src/jcckit/graphic/ClippingRectangle.java.html#24]]]
-+getMaxX() : double [[[./../../../.././qc/src/jcckit/graphic/ClippingRectangle.java.html#29]]]
-+getMinY() : double [[[./../../../.././qc/src/jcckit/graphic/ClippingRectangle.java.html#34]]]
-+getMaxY() : double [[[./../../../.././qc/src/jcckit/graphic/ClippingRectangle.java.html#39]]]
-+getBoundingBox() : ClippingRectangle [[[./../../../.././qc/src/jcckit/graphic/ClippingRectangle.java.html#44]]]
-+getGraphicalElement() : BasicGraphicalElement [[[./../../../.././qc/src/jcckit/graphic/ClippingRectangle.java.html#49]]]
++ClippingRectangle(double;double;double;double) : ClippingRectangle [[[./../../../.././qc/src/jcckit/graphic/ClippingRectangle.java.html#33]]]
++isInside(GraphPoint) : boolean [[[./../../../.././qc/src/jcckit/graphic/ClippingRectangle.java.html#44]]]
++getMinX() : double [[[./../../../.././qc/src/jcckit/graphic/ClippingRectangle.java.html#51]]]
++getMaxX() : double [[[./../../../.././qc/src/jcckit/graphic/ClippingRectangle.java.html#56]]]
++getMinY() : double [[[./../../../.././qc/src/jcckit/graphic/ClippingRectangle.java.html#61]]]
++getMaxY() : double [[[./../../../.././qc/src/jcckit/graphic/ClippingRectangle.java.html#66]]]
++getBoundingBox() : ClippingRectangle [[[./../../../.././qc/src/jcckit/graphic/ClippingRectangle.java.html#71]]]
++getGraphicalElement() : BasicGraphicalElement [[[./../../../.././qc/src/jcckit/graphic/ClippingRectangle.java.html#76]]]
 } 
 @enduml

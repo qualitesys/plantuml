@@ -2,16 +2,16 @@
 !pragma layout smetana
 "AbstractTextBlockWithPorts" <|-- "net.sourceforge.plantuml.cucadiagram.TextBlockMap"
 class net.sourceforge.plantuml.cucadiagram.TextBlockMap {
-+TextBlockMap(FontConfiguration;ISkinParam;Map<String,String>;LineBreakStrategy) : TextBlockMap [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#38]]]
-+getPorts(StringBounder) : Ports [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#55]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#70]]]
--getWidthColA(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#75]]]
--getWidthColB(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#79]]]
--getMaxWidth(StringBounder;Collection<TextBlock>) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#83]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#91]]]
--getTotalHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#117]]]
--getHeightOfRow(StringBounder;TextBlock;TextBlock) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#127]]]
--getTextBlock(String;LineBreakStrategy) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#132]]]
-+setTotalWidth(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#167]]]
++TextBlockMap(FontConfiguration;ISkinParam;Map<String,String>;LineBreakStrategy) : TextBlockMap [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#72]]]
++getPorts(StringBounder) : Ports [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#89]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#104]]]
+-getWidthColA(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#109]]]
+-getWidthColB(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#113]]]
+-getMaxWidth(StringBounder;Collection<TextBlock>) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#117]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#125]]]
+-getTotalHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#151]]]
+-getHeightOfRow(StringBounder;TextBlock;TextBlock) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#161]]]
+-getTextBlock(String;LineBreakStrategy) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#166]]]
++setTotalWidth(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#201]]]
 } 
 @enduml

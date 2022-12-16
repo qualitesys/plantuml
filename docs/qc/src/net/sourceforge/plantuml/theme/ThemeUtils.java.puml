@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.theme.ThemeUtils"
 class net.sourceforge.plantuml.theme.ThemeUtils {
-+getAllThemeNames() : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#27]]]
-+getReaderTheme(String) : ReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#39]]]
-+getFullPath(String;String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#50]]]
-+getFilename(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#58]]]
++getAllThemeNames() : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#61]]]
++getReaderTheme(String) : ReadLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#73]]]
++getFullPath(String;String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#84]]]
++getFilename(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#92]]]
 } 
 @enduml

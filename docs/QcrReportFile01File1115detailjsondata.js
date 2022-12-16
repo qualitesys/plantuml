@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.LinkType" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#17"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#52"
  , "c1" : "boolean"
  , "c2" : "isDoubleDecorated()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#21"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#56"
  , "c1" : "boolean"
  , "c2" : "looksLikeRevertedForSvg()"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#28"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#63"
  , "c1" : "boolean"
  , "c2" : "looksLikeNoDecorAtAllSvg()"
  , "c3" : "3"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#38"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#73"
  , "c1" : "LinkType"
  , "c2" : "LinkType(LinkDecor;LinkDecor)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#42"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#77"
  , "c1" : "LinkType"
  , "c2" : "LinkType(LinkHat;LinkDecor;LinkDecor;LinkHat)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#46"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#81"
  , "c1" : "LinkType"
  , "c2" : "withoutDecors1()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#50"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#85"
  , "c1" : "LinkType"
  , "c2" : "withoutDecors2()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#59"
+ , "c5" : "00094"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#94"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#64"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#99"
  , "c1" : "int"
  , "c2" : "hashCode()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#69"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#104"
  , "c1" : "boolean"
  , "c2" : "equals(Object)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00074"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#74"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#109"
  , "c1" : "LinkType"
  , "c2" : "LinkType(LinkHat;LinkDecor;LinkStyle;LinkMiddleDecor;LinkDecor;LinkHat)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#84"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#119"
  , "c1" : "boolean"
  , "c2" : "isInvisible()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#88"
+ , "c5" : "00123"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#123"
  , "c1" : "LinkType"
  , "c2" : "goDashed()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00092"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#92"
+ , "c5" : "00127"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#127"
  , "c1" : "LinkType"
  , "c2" : "goDotted()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00096"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#96"
+ , "c5" : "00131"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#131"
  , "c1" : "LinkType"
  , "c2" : "goThickness(double)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00100"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#100"
+ , "c5" : "00135"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#135"
  , "c1" : "LinkType"
  , "c2" : "goBold()"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00104"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#104"
+ , "c5" : "00139"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#139"
  , "c1" : "LinkType"
  , "c2" : "getInversed()"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00108"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#108"
+ , "c5" : "00143"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#143"
  , "c1" : "LinkType"
  , "c2" : "withMiddleCircle()"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00112"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#112"
+ , "c5" : "00147"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#147"
  , "c1" : "LinkType"
  , "c2" : "withMiddleCircleCircled()"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00116"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#116"
+ , "c5" : "00151"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#151"
  , "c1" : "LinkType"
  , "c2" : "withMiddleCircleCircled1()"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00120"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#120"
+ , "c5" : "00155"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#155"
  , "c1" : "LinkType"
  , "c2" : "withMiddleCircleCircled2()"
  , "c3" : "1"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00124"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#124"
+ , "c5" : "00159"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#159"
  , "c1" : "LinkType"
  , "c2" : "getInvisible()"
  , "c3" : "1"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00128"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#128"
+ , "c5" : "00163"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#163"
  , "c1" : "String"
  , "c2" : "getSpecificDecorationSvek()"
  , "c3" : "8"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00160"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#160"
+ , "c5" : "00195"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#195"
  , "c1" : "LinkDecor"
  , "c2" : "getDecor1()"
  , "c3" : "1"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00164"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#164"
+ , "c5" : "00199"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#199"
  , "c1" : "LinkStyle"
  , "c2" : "getStyle()"
  , "c3" : "1"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00168"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#168"
+ , "c5" : "00203"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#203"
  , "c1" : "LinkDecor"
  , "c2" : "getDecor2()"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00172"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#172"
+ , "c5" : "00207"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#207"
  , "c1" : "boolean"
  , "c2" : "isExtendsOrAggregationOrCompositionOrPlus()"
  , "c3" : "1"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00177"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#177"
+ , "c5" : "00212"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#212"
  , "c1" : "boolean"
  , "c2" : "isOf(LinkDecor)"
  , "c3" : "1"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00181"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#181"
+ , "c5" : "00216"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#216"
  , "c1" : "boolean"
  , "c2" : "isExtends()"
  , "c3" : "1"
@@ -279,8 +279,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00185"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#185"
+ , "c5" : "00220"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#220"
  , "c1" : "boolean"
  , "c2" : "isPlus()"
  , "c3" : "1"
@@ -288,8 +288,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00189"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#189"
+ , "c5" : "00224"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#224"
  , "c1" : "boolean"
  , "c2" : "isAggregationOrComposition()"
  , "c3" : "1"
@@ -297,8 +297,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00194"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#194"
+ , "c5" : "00229"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#229"
  , "c1" : "LinkType"
  , "c2" : "getPart1()"
  , "c3" : "1"
@@ -306,8 +306,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00198"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#198"
+ , "c5" : "00233"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#233"
  , "c1" : "LinkType"
  , "c2" : "getPart2()"
  , "c3" : "1"
@@ -315,8 +315,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00202"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#202"
+ , "c5" : "00237"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#237"
  , "c1" : "UStroke"
  , "c2" : "getStroke3(UStroke)"
  , "c3" : "4"
@@ -324,8 +324,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00215"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#215"
+ , "c5" : "00250"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#250"
  , "c1" : "LinkMiddleDecor"
  , "c2" : "getMiddleDecor()"
  , "c3" : "1"
@@ -333,8 +333,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00219"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#219"
+ , "c5" : "00254"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#254"
  , "c1" : "LinkHat"
  , "c2" : "getHat1()"
  , "c3" : "1"
@@ -342,8 +342,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00223"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#223"
+ , "c5" : "00258"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#258"
  , "c1" : "LinkHat"
  , "c2" : "getHat2()"
  , "c3" : "1"
@@ -351,8 +351,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00227"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#227"
+ , "c5" : "00262"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#262"
  , "c1" : "LinkType"
  , "c2" : "withLollipopInterfaceEye2()"
  , "c3" : "1"
@@ -360,8 +360,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00231"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#231"
+ , "c5" : "00266"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#266"
  , "c1" : "LinkType"
  , "c2" : "withLollipopInterfaceEye1()"
  , "c3" : "1"
@@ -424,213 +424,213 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#23"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.cucadiagram.LinkType.looksLikeRevertedForSvg@POLYN176393 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#25"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.cucadiagram.LinkType.looksLikeRevertedForSvg@POLYN176393 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.cucadiagram.LinkType.looksLikeNoDecorAtAllSvg@POLYN176652 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.cucadiagram.LinkType.looksLikeNoDecorAtAllSvg@POLYN176652 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#35"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.cucadiagram.LinkType.looksLikeNoDecorAtAllSvg@POLYN176652 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.cucadiagram.LinkType.looksLikeRevertedForSvg@POLYN176603 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.cucadiagram.LinkType.toString@POLYN178134 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.cucadiagram.LinkType.looksLikeRevertedForSvg@POLYN176603 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#60"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.cucadiagram.LinkType.toString@POLYN178134 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.cucadiagram.LinkType.looksLikeNoDecorAtAllSvg@POLYN176862 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#69"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#68"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.cucadiagram.LinkType.looksLikeNoDecorAtAllSvg@POLYN176862 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#70"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.cucadiagram.LinkType.looksLikeNoDecorAtAllSvg@POLYN176862 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.cucadiagram.LinkType.toString@POLYN178344 the MagicNumber/String  '-' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.cucadiagram.LinkType.toString@POLYN178344 the MagicNumber/String  '-' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#104"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method equals arguments Object  obj"
+ , "c3" : "QC-JAV000006[00104] For method equals arguments Object  obj"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#96"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#131"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00096] For method goThickness arguments double  thickness"
+ , "c3" : "QC-JAV000006[00131] For method goThickness arguments double  thickness"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#135"
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182056 the MagicNumber/String  'arrowtail=none' should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182266 the MagicNumber/String  'arrowtail=none' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#136"
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182056 the MagicNumber/String  ',arrowhead=none' should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182266 the MagicNumber/String  ',arrowhead=none' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#137"
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182056 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182266 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#137"
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182056 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182266 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#138"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182056 the MagicNumber/String  'dir=both,' should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182266 the MagicNumber/String  'dir=both,' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#139"
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182056 the MagicNumber/String  'arrowtail=empty' should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182266 the MagicNumber/String  'arrowtail=empty' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#140"
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182056 the MagicNumber/String  ',arrowhead=empty' should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182266 the MagicNumber/String  ',arrowhead=empty' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#141"
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182056 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182056 the MagicNumber/String  'arrowtail=empty' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#143"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182056 the MagicNumber/String  ',arrowhead=none' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#144"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182056 the MagicNumber/String  ',dir=back' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#151"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182056 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#152"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182056 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#153"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182056 the MagicNumber/String  ',' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#155"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182056 the MagicNumber/String  'arrowsize=' should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182266 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182266 the MagicNumber/String  'arrowtail=empty' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#178"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182266 the MagicNumber/String  ',arrowhead=none' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#179"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182266 the MagicNumber/String  ',dir=back' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00186"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#186"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182266 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182266 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#188"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182266 the MagicNumber/String  ',' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#190"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.cucadiagram.LinkType.getSpecificDecorationSvek@POLYN182266 the MagicNumber/String  'arrowsize=' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#212"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00177] For method isOf arguments LinkDecor  ld"
+ , "c3" : "QC-JAV000006[00212] For method isOf arguments LinkDecor  ld"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#202"
+ , "c1" : "00237"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#237"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00202] For method getStroke3 arguments UStroke  defaultThickness"
+ , "c3" : "QC-JAV000006[00237] For method getStroke3 arguments UStroke  defaultThickness"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#206"
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.cucadiagram.LinkType.getStroke3@POLYN185723 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.cucadiagram.LinkType.getStroke3@POLYN185933 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00209"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#209"
+ , "c1" : "00244"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.cucadiagram.LinkType.getStroke3@POLYN185723 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.cucadiagram.LinkType.getStroke3@POLYN185933 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00209"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#209"
+ , "c1" : "00244"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.cucadiagram.LinkType.getStroke3@POLYN185723 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.cucadiagram.LinkType.getStroke3@POLYN185933 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#64"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkType.java.html#99"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00064] Public method hashCode is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00099] Public method hashCode is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

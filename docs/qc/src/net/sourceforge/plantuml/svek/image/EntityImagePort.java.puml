@@ -2,14 +2,14 @@
 !pragma layout smetana
 "AbstractEntityImageBorder" <|-- "net.sourceforge.plantuml.svek.image.EntityImagePort"
 class net.sourceforge.plantuml.svek.image.EntityImagePort {
-+EntityImagePort(ILeaf;ISkinParam;Cluster;Bibliotekon;SName) : EntityImagePort [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#33]]]
--getSignature() : StyleSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#38]]]
--upPosition() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#42]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#48]]]
-+getMaxWidthFromLabelForEntryExit(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#53]]]
--drawSymbol(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#58]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#63]]]
--getUStroke() : UStroke [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#92]]]
-+getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#96]]]
++EntityImagePort(ILeaf;ISkinParam;Cluster;Bibliotekon;SName) : EntityImagePort [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#67]]]
+-getSignature() : StyleSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#72]]]
+-upPosition() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#76]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#82]]]
++getMaxWidthFromLabelForEntryExit(StringBounder) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#87]]]
+-drawSymbol(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#92]]]
++drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#97]]]
+-getUStroke() : UStroke [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#126]]]
++getShapeType() : ShapeType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImagePort.java.html#130]]]
 } 
 @enduml

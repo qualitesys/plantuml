@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.AnnotatedWorker" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#52"
  , "c1" : "AnnotatedWorker"
  , "c2" : "AnnotatedWorker(Annotated;ISkinParam;StringBounder;AnnotatedBuilder)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#26"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#60"
  , "c1" : "TextBlockBackcolored"
  , "c2" : "addAdd(TextBlock)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#69"
  , "c1" : "TextBlock"
  , "c2" : "addLegend(TextBlock)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#78"
  , "c1" : "TextBlock"
  , "c2" : "addTitle(TextBlock)"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00052"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#52"
+ , "c5" : "00086"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#86"
  , "c1" : "TextBlock"
  , "c2" : "addCaption(TextBlock)"
  , "c3" : "2"
@@ -104,31 +104,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00026] For method addAdd arguments TextBlock  result"
+ , "c3" : "QC-JAV000006[00060] For method addAdd arguments TextBlock  result"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00035] For method addLegend arguments TextBlock  original"
+ , "c3" : "QC-JAV000006[00069] For method addLegend arguments TextBlock  original"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#44"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00044] For method addTitle arguments TextBlock  original"
+ , "c3" : "QC-JAV000006[00078] For method addTitle arguments TextBlock  original"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#52"
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnnotatedWorker.java.html#86"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method addCaption arguments TextBlock  original"
+ , "c3" : "QC-JAV000006[00086] For method addCaption arguments TextBlock  original"
 }} 
 ]
 , 

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.bpm.BpmEventAdd" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.html#8"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.html#41"
  , "c1" : "BpmEventAdd"
  , "c2" : "BpmEventAdd(BpmElement)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.html#12"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/BpmEventAdd.java.html#45"
  , "c1" : "BpmElement"
  , "c2" : "getElement()"
  , "c3" : "1"

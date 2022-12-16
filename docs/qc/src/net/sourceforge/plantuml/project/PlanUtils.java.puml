@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.project.PlanUtils"
 class net.sourceforge.plantuml.project.PlanUtils {
--PlanUtils() : PlanUtils [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/PlanUtils.java.html#8]]]
-+minOf(LoadPlanable;LoadPlanable) : LoadPlanable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/PlanUtils.java.html#12]]]
-+multiply(LoadPlanable;LoadPlanable) : LoadPlanable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/PlanUtils.java.html#20]]]
+-PlanUtils() : PlanUtils [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/PlanUtils.java.html#42]]]
++minOf(LoadPlanable;LoadPlanable) : LoadPlanable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/PlanUtils.java.html#46]]]
++multiply(LoadPlanable;LoadPlanable) : LoadPlanable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/PlanUtils.java.html#54]]]
 } 
 @enduml

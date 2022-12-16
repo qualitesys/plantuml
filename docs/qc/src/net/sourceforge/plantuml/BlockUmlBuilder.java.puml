@@ -2,14 +2,14 @@
 !pragma layout smetana
 "DefinitionsContainer" <|-- "net.sourceforge.plantuml.BlockUmlBuilder"
 class net.sourceforge.plantuml.BlockUmlBuilder {
-+BlockUmlBuilder(List<String>;String;Defines;Reader;SFile;String) : BlockUmlBuilder [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#37]]]
-+BlockUmlBuilder(List<String>;String;Defines;Reader) : BlockUmlBuilder [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#44]]]
-+BlockUmlBuilder(List<String>;Charset;Defines;Reader;SFile;String) : BlockUmlBuilder [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#48]]]
--init(ReadLineNumbered) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#63]]]
-+getBlockUmls() : List<BlockUml> [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#107]]]
-+getIncludedFiles() : Set<FileWithSuffix> [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#111]]]
-+getDefinition(String) : List<String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#115]]]
-+getImportedFiles() : ImportedFiles [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#123]]]
-+getCharset() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#129]]]
++BlockUmlBuilder(List<String>;String;Defines;Reader;SFile;String) : BlockUmlBuilder [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#74]]]
++BlockUmlBuilder(List<String>;String;Defines;Reader) : BlockUmlBuilder [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#84]]]
++BlockUmlBuilder(List<String>;Charset;Defines;Reader;SFile;String) : BlockUmlBuilder [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#88]]]
+-init(ReadLineNumbered) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#103]]]
++getBlockUmls() : List<BlockUml> [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#147]]]
++getIncludedFiles() : Set<FileWithSuffix> [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#151]]]
++getDefinition(String) : List<String> [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#155]]]
++getImportedFiles() : ImportedFiles [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#163]]]
++getCharset() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/BlockUmlBuilder.java.html#172]]]
 } 
 @enduml

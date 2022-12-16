@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.preproc.DefineVariable"
 class net.sourceforge.plantuml.preproc.DefineVariable {
-+DefineVariable(String) : DefineVariable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineVariable.java.html#9]]]
-+getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineVariable.java.html#22]]]
-+getDefaultValue() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineVariable.java.html#26]]]
-+removeDefault() : DefineVariable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineVariable.java.html#30]]]
++DefineVariable(String) : DefineVariable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineVariable.java.html#43]]]
++getName() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineVariable.java.html#56]]]
++getDefaultValue() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineVariable.java.html#60]]]
++removeDefault() : DefineVariable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/DefineVariable.java.html#64]]]
 } 
 @enduml

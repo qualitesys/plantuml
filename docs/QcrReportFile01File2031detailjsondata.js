@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#48"
+ , "c5" : "00082"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#82"
  , "c1" : "Event"
  , "c2" : "getEvent()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#53"
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#87"
  , "c1" : "double"
  , "c2" : "getContactPointRelative()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#58"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#92"
  , "c1" : "YGauge"
  , "c2" : "getYGauge()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00062"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#62"
+ , "c5" : "00096"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#96"
  , "c1" : "GroupingTile"
  , "c2" : "GroupingTile(Iterator<Event>;GroupingStart;TileArguments;TileArguments;YGauge)"
  , "c3" : "9"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00124"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#124"
+ , "c5" : "00158"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#158"
  , "c1" : "Component"
  , "c2" : "getComponent(StringBounder)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00130"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#130"
+ , "c5" : "00164"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#164"
  , "c1" : "XDimension2D"
  , "c2" : "getPreferredDimensionIfEmpty(StringBounder)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00134"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#134"
+ , "c5" : "00168"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#168"
  , "c1" : "void"
  , "c2" : "drawU(UGraphic)"
  , "c3" : "6"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00160"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#160"
+ , "c5" : "00194"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#194"
  , "c1" : "double"
  , "c2" : "getTotalHeight(StringBounder)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00165"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#165"
+ , "c5" : "00199"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#199"
  , "c1" : "void"
  , "c2" : "drawAllElses(UGraphic)"
  , "c3" : "7"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00196"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#196"
+ , "c5" : "00230"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#230"
  , "c1" : "double"
  , "c2" : "getPreferredHeight()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00201"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#201"
+ , "c5" : "00235"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#235"
  , "c1" : "void"
  , "c2" : "addConstraints()"
  , "c3" : "2"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00207"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#207"
+ , "c5" : "00241"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#241"
  , "c1" : "Real"
  , "c2" : "getMinX()"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00211"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#211"
+ , "c5" : "00245"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#245"
  , "c1" : "Real"
  , "c2" : "getMaxX()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00215"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#215"
+ , "c5" : "00249"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#249"
  , "c1" : "TimeHook"
  , "c2" : "fillPositionelTiles(StringBounder;TimeHook;List<Tile>;List<CommonTile>;List<CommonTile>)"
  , "c3" : "3"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00234"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#234"
+ , "c5" : "00268"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#268"
  , "c1" : "double"
  , "c2" : "getHeaderHeight(StringBounder)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00238"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#238"
+ , "c5" : "00272"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#272"
  , "c1" : "List<Tile>"
  , "c2" : "mergeParallel(StringBounder;List<Tile>)"
  , "c3" : "8"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00270"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#270"
+ , "c5" : "00304"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#304"
  , "c1" : "List<Tile>"
  , "c2" : "removeEmptyCloseToParallel(List<Tile>)"
  , "c3" : "3"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00282"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#282"
+ , "c5" : "00316"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#316"
  , "c1" : "void"
  , "c2" : "removeHeadEmpty(List<Tile>)"
  , "c3" : "2"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00288"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#288"
+ , "c5" : "00322"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#322"
  , "c1" : "boolean"
  , "c2" : "isParallel(Tile)"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00292"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#292"
+ , "c5" : "00326"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#326"
  , "c1" : "void"
  , "c2" : "addYNewPages(Collection<Double>)"
  , "c3" : "4"
@@ -267,248 +267,171 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#54"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.getContactPointRelative@POLYN199027 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#62"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00062] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#62"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00062] The argument start is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#62"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00062] The argument tileArgumentsBackColorChanged is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#63"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00063] The argument tileArgumentsOriginal is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#63"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00063] The argument currentY is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#84"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00084] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00085] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#85"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00085] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00088] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.getContactPointRelative@POLYN199231 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00100"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#100"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00100] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#96"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00096] The argument it is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00101] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#96"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00096] The argument start is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00101"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#101"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00101] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#96"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00096] The argument tileArgumentsBackColorChanged is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00106"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#106"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00106] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#97"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00097] The argument tileArgumentsOriginal is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.GroupingTile@POLYN199204 the MagicNumber/String  'group' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#80"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.GroupingTile@POLYN199204 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#81"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.GroupingTile@POLYN199204 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#111"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.GroupingTile@POLYN199204 the MagicNumber/String  0 should be converted to const"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#97"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00097] The argument currentY is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.GroupingTile@POLYN199204 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000001[00118] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#124"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00124] For method getComponent arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00125"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#125"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.getComponent@POLYN203492 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00119] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#130"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00130] For method getPreferredDimensionIfEmpty arguments StringBounder  stringBounder"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#119"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00119] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#122"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00122] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#134"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00134] For method drawU arguments UGraphic  ug"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00134] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00134"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#134"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00134] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00135] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#135"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00135] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#140"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00140] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#102"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.GroupingTile@POLYN199408 the MagicNumber/String  'group' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#114"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.GroupingTile@POLYN199408 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#115"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.GroupingTile@POLYN199408 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00145"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#145"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.GroupingTile@POLYN199408 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00152] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.GroupingTile@POLYN199408 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#154"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00154] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#149"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.drawU@POLYN203987 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#160"
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#158"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00160] For method getTotalHeight arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00158] For method getComponent arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#162"
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.getTotalHeight@POLYN205890 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.getComponent@POLYN203696 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#165"
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#164"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00165] For method drawAllElses arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00164] For method getPreferredDimensionIfEmpty arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#165"
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#168"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00168] For method drawU arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#168"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00165] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00171"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#171"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00171] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#172"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00172] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00172"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#172"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00172] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#185"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00185] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAVCWE476[00168] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -516,20 +439,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#186"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000001[00186] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00186"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#186"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00186] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#187"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00187] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -540,59 +449,59 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#189"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00189] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00176"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#176"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.drawAllElses@POLYN206169 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00178"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#178"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.drawAllElses@POLYN206169 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.drawAllElses@POLYN206169 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.drawU@POLYN204191 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00188"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#188"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.drawAllElses@POLYN206169 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00215"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#215"
+ , "c1" : "00194"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#194"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00215] For method fillPositionelTiles arguments StringBounder  stringBounder|TimeHook  y|List&lt;Tile &gt;  tiles|List&lt;CommonTile &gt;  local|List&lt;CommonTile &gt;  full"
+ , "c3" : "QC-JAV000006[00194] For method getTotalHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00216"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#216"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00216] The argument local is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#196"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.getTotalHeight@POLYN206094 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00216"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#216"
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#199"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00199] For method drawAllElses arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#199"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00216] The argument full is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00199] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#205"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00205] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00206"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#206"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00206] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00206"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#206"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00206] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -600,6 +509,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#219"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000001[00219] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00220"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#220"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00220] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -624,234 +540,318 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00223"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#223"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00223] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00210"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#210"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.drawAllElses@POLYN206373 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00212"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#212"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.drawAllElses@POLYN206373 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#217"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.drawAllElses@POLYN206373 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00222"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00222] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00224"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#224"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00224] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00234"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#234"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00234] For method getHeaderHeight arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00235"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#235"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.getHeaderHeight@POLYN210495 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00238"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#238"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00238] For method mergeParallel arguments StringBounder  stringBounder|List&lt;Tile &gt;  tiles"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.drawAllElses@POLYN206373 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00249"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#249"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00249] Avoid declaring class instance within loop, performance impact"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00249] For method fillPositionelTiles arguments StringBounder  stringBounder|TimeHook  y|List&lt;Tile &gt;  tiles|List&lt;CommonTile &gt;  local|List&lt;CommonTile &gt;  full"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00250"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#250"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00250] Avoid declaring class instance within loop, performance impact"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00250] The argument local is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00242"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#242"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210704 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#250"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00250] The argument full is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00246"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#246"
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210704 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00247"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#247"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210704 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00248"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#248"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210704 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00249"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#249"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210704 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00251"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#251"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210704 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000001[00253] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00254"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#254"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210704 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000001[00254] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00255"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#255"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210704 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00255] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#256"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00256] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#256"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00256] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00258"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#258"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210704 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00258] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00264"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#264"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210704 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00270"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#270"
+ , "c1" : "00268"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#268"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00270] For method removeEmptyCloseToParallel arguments List&lt;Tile &gt;  tiles"
+ , "c3" : "QC-JAV000006[00268] For method getHeaderHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00282"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#282"
+ , "c1" : "00269"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#269"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.getHeaderHeight@POLYN210699 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00272"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#272"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00282] For method removeHeadEmpty arguments List&lt;Tile &gt;  tiles"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00282"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#282"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00282] The argument tiles is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000006[00272] For method mergeParallel arguments StringBounder  stringBounder|List&lt;Tile &gt;  tiles"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00283"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#283"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00283] The same method call tiles.get(tiles.size()-1) is used several times, should be optimized "
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#283"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.removeHeadEmpty@POLYN213273 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#283"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.removeHeadEmpty@POLYN213273 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00283] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00284"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#284"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00284] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.removeHeadEmpty@POLYN213273 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000001[00284] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00276"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#276"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210908 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00280"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#280"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210908 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00281"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#281"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00281] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210908 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00282"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#282"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00282] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210908 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00283"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#283"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210908 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00285"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#285"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00285] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210908 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00288"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#288"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00288] For method isParallel arguments Tile  tile"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00288"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#288"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00288] The argument tile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00288] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210908 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00289"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#289"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.isParallel@POLYN213684 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210908 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00292"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#292"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00292] For method addYNewPages arguments Collection&lt;Double &gt;  yNewPages"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00292"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#292"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00292] The argument yNewPages is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00294"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00294] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00295"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#295"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00295] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00297"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#297"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00297] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210908 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00298"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00298] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.mergeParallel@POLYN210908 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00304"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#304"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00304] For method removeEmptyCloseToParallel arguments List&lt;Tile &gt;  tiles"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00316"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#316"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00316] For method removeHeadEmpty arguments List&lt;Tile &gt;  tiles"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00316"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#316"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00316] The argument tiles is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00317"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#317"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00317] The same method call tiles.get(tiles.size()-1) is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00317"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#317"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.removeHeadEmpty@POLYN213477 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00317"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#317"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.removeHeadEmpty@POLYN213477 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00318"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#318"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00318] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.removeHeadEmpty@POLYN213477 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00322"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#322"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00322] For method isParallel arguments Tile  tile"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00322"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#322"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00322] The argument tile is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00323"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#323"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00323] In method net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile.isParallel@POLYN213888 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00326"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#326"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00326] For method addYNewPages arguments Collection&lt;Double &gt;  yNewPages"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00326"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#326"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00326] The argument yNewPages is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00328"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#328"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00328] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00329"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#329"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00329] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00331"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#331"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00331] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00332"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#332"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00332] Avoid declaring class instance within loop, performance impact"
 }} 
 ]
 , 

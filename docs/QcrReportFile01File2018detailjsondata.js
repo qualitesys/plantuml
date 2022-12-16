@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottomTopAbstract" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00036"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#36"
+ , "c5" : "00070"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#70"
  , "c1" : "Event"
  , "c2" : "getEvent()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00041"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#41"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#75"
  , "c1" : "double"
  , "c2" : "getContactPointRelative()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#45"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#79"
  , "c1" : "CommunicationTileNoteBottomTopAbstract"
  , "c2" : "CommunicationTileNoteBottomTopAbstract(Tile;AbstractMessage;Rose;ISkinParam;Note;YGauge)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#57"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#91"
  , "c1" : "YGauge"
  , "c2" : "getYGauge()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#63"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#97"
  , "c1" : "void"
  , "c2" : "callbackY_internal(TimeHook)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#68"
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#102"
  , "c1" : "Component"
  , "c2" : "getComponent(StringBounder)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#75"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#109"
  , "c1" : "Real"
  , "c2" : "getNotePosition(StringBounder)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00082"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#82"
+ , "c5" : "00116"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#116"
  , "c1" : "void"
  , "c2" : "drawLine(UGraphic;double;double;double;double)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00095"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#95"
+ , "c5" : "00129"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#129"
  , "c1" : "double"
  , "c2" : "getPreferredHeight()"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#101"
+ , "c5" : "00135"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#135"
  , "c1" : "void"
  , "c2" : "addConstraints()"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00105"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#105"
+ , "c5" : "00139"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#139"
  , "c1" : "Real"
  , "c2" : "getMinX()"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#109"
+ , "c5" : "00143"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#143"
  , "c1" : "Real"
  , "c2" : "getMaxX()"
  , "c3" : "1"
@@ -181,66 +181,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#80"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00046] The argument currentY is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00080] The argument currentY is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00063"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#63"
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#97"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00063] For method callbackY_internal arguments TimeHook  y"
+ , "c3" : "QC-JAV000006[00097] For method callbackY_internal arguments TimeHook  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#68"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#102"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00068] For method getComponent arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00102] For method getComponent arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#75"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#109"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00075] For method getNotePosition arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00109] For method getNotePosition arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#82"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#116"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method drawLine arguments UGraphic  ug|double  x1|double  y1|double  x2|double  y2"
+ , "c3" : "QC-JAV000006[00116] For method drawLine arguments UGraphic  ug|double  x1|double  y1|double  x2|double  y2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#82"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#116"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00082] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00116] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#91"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottomTopAbstract.drawLine@POLYN165690 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottomTopAbstract.drawLine@POLYN165894 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#91"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottomTopAbstract.drawLine@POLYN165690 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottomTopAbstract.drawLine@POLYN165894 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#91"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottomTopAbstract.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottomTopAbstract.drawLine@POLYN165690 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottomTopAbstract.drawLine@POLYN165894 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

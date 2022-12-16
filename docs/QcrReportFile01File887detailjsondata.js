@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.code.Compression" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00007"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/Compression.java.html#7"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/Compression.java.html#45"
  , "c1" : "byte[]"
  , "c2" : "compress(byte[])"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/code/Compression.java.html#10"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/code/Compression.java.html#53"
  , "c1" : "ByteArray"
  , "c2" : "decompress(byte[])"
  , "c3" : "1"

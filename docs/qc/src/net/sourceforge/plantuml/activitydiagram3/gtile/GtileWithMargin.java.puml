@@ -2,13 +2,13 @@
 !pragma layout smetana
 "AbstractGtileRootGtile" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithMargin"
 class net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithMargin {
-+GtileWithMargin(AbstractGtileRoot;double;double;double) : GtileWithMargin [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#21]]]
-+getSwimlanes() : Set<Swimlane> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#30]]]
-+getSwimlane(String) : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#35]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#40]]]
--getTranslate() : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#45]]]
-drawUInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#50]]]
-getCoordImpl(String) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#55]]]
-+getInnerConnections() : Collection<GConnection> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#60]]]
++GtileWithMargin(AbstractGtileRoot;double;double;double) : GtileWithMargin [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#55]]]
++getSwimlanes() : Set<Swimlane> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#64]]]
++getSwimlane(String) : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#69]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#74]]]
+-getTranslate() : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#79]]]
+drawUInternal(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#84]]]
+getCoordImpl(String) : UTranslate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#89]]]
++getInnerConnections() : Collection<GConnection> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithMargin.java.html#94]]]
 } 
 @enduml

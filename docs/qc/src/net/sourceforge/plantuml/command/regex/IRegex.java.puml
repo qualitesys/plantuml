@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.command.regex.IRegex"
 class net.sourceforge.plantuml.command.regex.IRegex {
-+getPattern() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/IRegex.java.html#11]]]
-+count() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/IRegex.java.html#13]]]
-+createPartialMatch(Iterator<String>) : Map<String,RegexPartialMatch> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/IRegex.java.html#15]]]
-+match(StringLocated) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/IRegex.java.html#17]]]
-+matcher(String) : RegexResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/IRegex.java.html#19]]]
++getPattern() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/IRegex.java.html#45]]]
++count() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/IRegex.java.html#47]]]
++createPartialMatch(Iterator<String>) : Map<String,RegexPartialMatch> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/IRegex.java.html#49]]]
++match(StringLocated) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/IRegex.java.html#51]]]
++matcher(String) : RegexResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/IRegex.java.html#53]]]
 } 
 @enduml

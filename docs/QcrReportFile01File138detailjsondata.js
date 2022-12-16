@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "gen.lib.common.strcasecmp__c" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/gen/lib/common/strcasecmp__c.java.html#16"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/gen/lib/common/strcasecmp__c.java.html#60"
  , "c1" : "int"
  , "c2" : "strcasecmp(CString;CString)"
  , "c3" : "2"
@@ -89,115 +89,115 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#16"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00016] For method strcasecmp arguments CString  s1|CString  s2"
+ , "c3" : "QC-JAV000006[00060] For method strcasecmp arguments CString  s1|CString  s2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#16"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#60"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00016] The argument s1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00060] The argument s1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#16"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#60"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00016] The argument s2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00060] The argument s2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#19"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00019] The same method call tolower(s1.charAt(0))tolower(s2.charAt(0)) is used several times, should be optimized "
+ , "c3" : "QC-JAV000021[00063] The same method call tolower(s1.charAt(0))tolower(s2.charAt(0)) is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#17"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156131 the MagicNumber/String  '22n1uekxezky6gx3cn22ansew' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156395 the MagicNumber/String  '22n1uekxezky6gx3cn22ansew' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#17"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156131 the MagicNumber/String  'strcasecmp' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156395 the MagicNumber/String  'strcasecmp' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#19"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156131 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156395 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#19"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156131 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156395 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#20"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156131 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156395 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#21"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156131 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156395 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#22"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156131 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156395 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#23"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156131 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156395 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#25"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156131 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156395 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#25"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156131 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156395 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#27"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156131 the MagicNumber/String  '22n1uekxezky6gx3cn22ansew' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156395 the MagicNumber/String  '22n1uekxezky6gx3cn22ansew' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#27"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/gen/lib/common/strcasecmp__c.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156131 the MagicNumber/String  'strcasecmp' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method gen.lib.common.strcasecmp__c.strcasecmp@POLYN156395 the MagicNumber/String  'strcasecmp' should be converted to const"
 }} 
 ]
 , 

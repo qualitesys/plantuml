@@ -2,9 +2,9 @@
 !pragma layout smetana
 "CommandMultilines2<PSystemEbnf>" <|-- "net.sourceforge.plantuml.ebnf.CommandEbnfMultilines"
 class net.sourceforge.plantuml.ebnf.CommandEbnfMultilines {
-+CommandEbnfMultilines() : CommandEbnfMultilines [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#16]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#20]]]
-+getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#27]]]
-executeNow(PSystemEbnf;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#32]]]
++CommandEbnfMultilines() : CommandEbnfMultilines [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#50]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#54]]]
++getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#61]]]
+executeNow(PSystemEbnf;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#66]]]
 } 
 @enduml

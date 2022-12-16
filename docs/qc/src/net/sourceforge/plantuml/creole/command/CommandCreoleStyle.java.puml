@@ -2,13 +2,13 @@
 !pragma layout smetana
 "CommandCreoleCacheCommand" <|-- "net.sourceforge.plantuml.creole.command.CommandCreoleStyle"
 class net.sourceforge.plantuml.creole.command.CommandCreoleStyle {
-+startingChars() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleStyle.java.html#14]]]
-+createCreole(FontStyle) : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleStyle.java.html#21]]]
-+createLegacy(FontStyle) : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleStyle.java.html#26]]]
-+createLegacyEol(FontStyle) : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleStyle.java.html#32]]]
--CommandCreoleStyle(String;FontStyle;boolean) : CommandCreoleStyle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleStyle.java.html#37]]]
--getExtendedColor(Matcher2) : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleStyle.java.html#43]]]
-+executeAndGetRemaining(String;StripeSimple) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleStyle.java.html#50]]]
-+matchingSize(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleStyle.java.html#64]]]
++startingChars() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleStyle.java.html#48]]]
++createCreole(FontStyle) : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleStyle.java.html#55]]]
++createLegacy(FontStyle) : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleStyle.java.html#60]]]
++createLegacyEol(FontStyle) : Command [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleStyle.java.html#66]]]
+-CommandCreoleStyle(String;FontStyle;boolean) : CommandCreoleStyle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleStyle.java.html#71]]]
+-getExtendedColor(Matcher2) : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleStyle.java.html#77]]]
++executeAndGetRemaining(String;StripeSimple) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleStyle.java.html#84]]]
++matchingSize(String) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleStyle.java.html#98]]]
 } 
 @enduml

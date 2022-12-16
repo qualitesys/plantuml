@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.posimo.RacorderOrthogonal" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#12"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#46"
  , "c1" : "DotPath"
  , "c2" : "getRacordIn(XRectangle2D;XLine2D)"
  , "c3" : "13"
@@ -89,45 +89,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00012] For method getRacordIn arguments XRectangle2D  rect|XLine2D  tangeante"
+ , "c3" : "QC-JAV000006[00046] For method getRacordIn arguments XRectangle2D  rect|XLine2D  tangeante"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#46"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00046] The argument rect is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#46"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00012] The argument tangeante is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00046] The argument tangeante is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#19"
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00019] The same method call rect.getMinX()in.getX()rect.getMaxX() is used several times, should be optimized "
+ , "c3" : "QC-JAV000021[00053] The same method call rect.getMinX()in.getX()rect.getMaxX() is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00027] The same method call rect.getMinY()in.getY()rect.getMaxY() is used several times, should be optimized "
+ , "c3" : "QC-JAV000021[00061] The same method call rect.getMinY()in.getY()rect.getMaxY() is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#17"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/RacorderOrthogonal.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.posimo.RacorderOrthogonal.getRacordIn@POLYN155781 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.posimo.RacorderOrthogonal.getRacordIn@POLYN155985 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

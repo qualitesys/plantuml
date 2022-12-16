@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.asciiart.TranslatedCharArea" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#48"
  , "c1" : "TranslatedCharArea"
  , "c2" : "TranslatedCharArea(UmlCharArea;int;int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#54"
  , "c1" : "void"
  , "c2" : "drawBoxSimple(int;int;int;int)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#59"
  , "c1" : "void"
  , "c2" : "drawBoxSimpleUnicode(int;int;int;int)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#63"
  , "c1" : "void"
  , "c2" : "drawNoteSimple(int;int;int;int)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#67"
  , "c1" : "void"
  , "c2" : "drawNoteSimpleUnicode(int;int;int;int)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#38"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#72"
  , "c1" : "void"
  , "c2" : "drawShape(AsciiShape;int;int)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00042"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#42"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#76"
  , "c1" : "void"
  , "c2" : "drawChar(char;int;int)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00046"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#46"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#80"
  , "c1" : "void"
  , "c2" : "drawHLine(char;int;int;int)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00049"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#49"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#83"
  , "c1" : "void"
  , "c2" : "drawHLine(char;int;int;int;char;char)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#53"
+ , "c5" : "00087"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#87"
  , "c1" : "void"
  , "c2" : "drawStringLR(String;int;int)"
  , "c3" : "1"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00057"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#57"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#91"
  , "c1" : "void"
  , "c2" : "drawStringTB(String;int;int)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00061"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#61"
+ , "c5" : "00095"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#95"
  , "c1" : "void"
  , "c2" : "drawVLine(char;int;int;int)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00065"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#65"
+ , "c5" : "00099"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#99"
  , "c1" : "int"
  , "c2" : "getHeight()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00069"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#69"
+ , "c5" : "00103"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#103"
  , "c1" : "int"
  , "c2" : "getWidth()"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#73"
+ , "c5" : "00107"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#107"
  , "c1" : "String"
  , "c2" : "getLine(int)"
  , "c3" : "1"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00077"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#77"
+ , "c5" : "00111"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#111"
  , "c1" : "List<String>"
  , "c2" : "getLines()"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#81"
+ , "c5" : "00115"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#115"
  , "c1" : "void"
  , "c2" : "print(PrintStream)"
  , "c3" : "1"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00085"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#85"
+ , "c5" : "00119"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#119"
  , "c1" : "void"
  , "c2" : "drawStringsLRSimple(Collection<?extendsCharSequence>;int;int)"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00089"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#89"
+ , "c5" : "00123"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#123"
  , "c1" : "void"
  , "c2" : "drawStringsLRUnicode(Collection<?extendsCharSequence>;int;int)"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#93"
+ , "c5" : "00127"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#127"
  , "c1" : "void"
  , "c2" : "fillRect(char;int;int;int;int)"
  , "c3" : "1"
@@ -239,115 +239,115 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00020] For method drawBoxSimple arguments int  x|int  y|int  width|int  height"
+ , "c3" : "QC-JAV000006[00054] For method drawBoxSimple arguments int  x|int  y|int  width|int  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00025] For method drawBoxSimpleUnicode arguments int  x|int  y|int  width|int  height"
+ , "c3" : "QC-JAV000006[00059] For method drawBoxSimpleUnicode arguments int  x|int  y|int  width|int  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method drawNoteSimple arguments int  x|int  y|int  width|int  height"
+ , "c3" : "QC-JAV000006[00063] For method drawNoteSimple arguments int  x|int  y|int  width|int  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method drawNoteSimpleUnicode arguments int  x|int  y|int  width|int  height"
+ , "c3" : "QC-JAV000006[00067] For method drawNoteSimpleUnicode arguments int  x|int  y|int  width|int  height"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#38"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#72"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method drawShape arguments AsciiShape  shape|int  x|int  y"
+ , "c3" : "QC-JAV000006[00072] For method drawShape arguments AsciiShape  shape|int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#42"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method drawChar arguments char  c|int  x|int  y"
+ , "c3" : "QC-JAV000006[00076] For method drawChar arguments char  c|int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method drawHLine arguments char  c|int  line|int  col1|int  col2"
+ , "c3" : "QC-JAV000006[00080] For method drawHLine arguments char  c|int  line|int  col1|int  col2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00049"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#49"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#83"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method drawHLine arguments char  c|int  line|int  col1|int  col2|char  ifFound|char  thenUse"
+ , "c3" : "QC-JAV000006[00083] For method drawHLine arguments char  c|int  line|int  col1|int  col2|char  ifFound|char  thenUse"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#53"
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#87"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method drawStringLR arguments String  string|int  x|int  y"
+ , "c3" : "QC-JAV000006[00087] For method drawStringLR arguments String  string|int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#57"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#91"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00057] For method drawStringTB arguments String  string|int  x|int  y"
+ , "c3" : "QC-JAV000006[00091] For method drawStringTB arguments String  string|int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00061"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#61"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#95"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method drawVLine arguments char  c|int  col|int  line1|int  line2"
+ , "c3" : "QC-JAV000006[00095] For method drawVLine arguments char  c|int  col|int  line1|int  line2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#73"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#107"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method getLine arguments int  line"
+ , "c3" : "QC-JAV000006[00107] For method getLine arguments int  line"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#81"
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#115"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00081] For method print arguments PrintStream  ps"
+ , "c3" : "QC-JAV000006[00115] For method print arguments PrintStream  ps"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00085"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#85"
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#119"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00085] For method drawStringsLRSimple arguments Collection&lt;?  extends CharSequence &gt;  strings|int  x|int  y"
+ , "c3" : "QC-JAV000006[00119] For method drawStringsLRSimple arguments Collection&lt;?  extends CharSequence &gt;  strings|int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#89"
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#123"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00089] For method drawStringsLRUnicode arguments Collection&lt;?  extends CharSequence &gt;  strings|int  x|int  y"
+ , "c3" : "QC-JAV000006[00123] For method drawStringsLRUnicode arguments Collection&lt;?  extends CharSequence &gt;  strings|int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#93"
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#127"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00093] For method fillRect arguments char  c|int  x|int  y|int  width|int  height"
+ , "c3" : "QC-JAV000006[00127] For method fillRect arguments char  c|int  x|int  y|int  width|int  height"
 }} 
 ]
 , 

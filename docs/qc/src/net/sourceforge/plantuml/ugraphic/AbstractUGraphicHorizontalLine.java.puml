@@ -2,10 +2,10 @@
 !pragma layout smetana
 "UGraphicDelegator" <|-- "net.sourceforge.plantuml.ugraphic.AbstractUGraphicHorizontalLine"
 class net.sourceforge.plantuml.ugraphic.AbstractUGraphicHorizontalLine {
-+apply(UChange) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#10]]]
-copy(UGraphic) : AbstractUGraphicHorizontalLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#26]]]
-AbstractUGraphicHorizontalLine(UGraphic) : AbstractUGraphicHorizontalLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#28]]]
-drawHline(UGraphic;UHorizontalLine;UTranslate) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#32]]]
-+draw(UShape) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#34]]]
++apply(UChange) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#44]]]
+copy(UGraphic) : AbstractUGraphicHorizontalLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#60]]]
+AbstractUGraphicHorizontalLine(UGraphic) : AbstractUGraphicHorizontalLine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#62]]]
+drawHline(UGraphic;UHorizontalLine;UTranslate) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#66]]]
++draw(UShape) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphicHorizontalLine.java.html#68]]]
 } 
 @enduml

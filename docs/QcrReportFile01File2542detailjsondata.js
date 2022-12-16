@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.timingdiagram.graphic.Ribbon" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00048"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#48"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#81"
  , "c1" : "Ribbon"
  , "c2" : "Ribbon(TimingRuler;ISkinParam;List<TimingNote>;boolean;TextBlock;int;Style)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00059"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#59"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#92"
  , "c1" : "IntricatedPoint"
  , "c2" : "getTimeProjection(StringBounder;TimeTick)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#71"
+ , "c5" : "00104"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#104"
  , "c1" : "void"
  , "c2" : "addChange(ChangeState)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#75"
+ , "c5" : "00108"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#108"
  , "c1" : "double"
  , "c2" : "getPosInPixel(ChangeState)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00079"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#79"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#112"
  , "c1" : "FontConfiguration"
  , "c2" : "getFontConfiguration()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00084"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#84"
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#117"
  , "c1" : "TextBlock"
  , "c2" : "createTextBlock(String)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00089"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#89"
+ , "c5" : "00122"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#122"
  , "c1" : "TextBlock"
  , "c2" : "getPart1(double)"
  , "c3" : "3"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#109"
+ , "c5" : "00142"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#142"
  , "c1" : "UDrawable"
  , "c2" : "getPart2()"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00117"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#117"
+ , "c5" : "00150"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#150"
  , "c1" : "void"
  , "c2" : "drawNotes(UGraphic;Position)"
  , "c3" : "3"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00126"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#126"
+ , "c5" : "00159"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#159"
  , "c1" : "double"
  , "c2" : "getInitialWidth(StringBounder)"
  , "c3" : "2"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00133"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#133"
+ , "c5" : "00166"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#166"
  , "c1" : "void"
  , "c2" : "drawHexa(UGraphic;double;ChangeState)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00138"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#138"
+ , "c5" : "00171"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#171"
  , "c1" : "void"
  , "c2" : "drawFlat(UGraphic;double;ChangeState)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00143"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#143"
+ , "c5" : "00176"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#176"
  , "c1" : "double"
  , "c2" : "getRibbonHeight()"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00147"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#147"
+ , "c5" : "00180"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#180"
  , "c1" : "void"
  , "c2" : "drawPentaB(UGraphic;double;ChangeState)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00152"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#152"
+ , "c5" : "00185"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#185"
  , "c1" : "void"
  , "c2" : "drawPentaA(UGraphic;double;ChangeState)"
  , "c3" : "3"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00165"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#165"
+ , "c5" : "00198"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#198"
  , "c1" : "double"
  , "c2" : "getHeightForConstraints(StringBounder)"
  , "c3" : "1"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00169"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#169"
+ , "c5" : "00202"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#202"
  , "c1" : "double"
  , "c2" : "getHeightForNotes(StringBounder;Position)"
  , "c3" : "3"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00178"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#178"
+ , "c5" : "00211"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#211"
  , "c1" : "double"
  , "c2" : "getMarginX()"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00182"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#182"
+ , "c5" : "00215"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#215"
  , "c1" : "void"
  , "c2" : "setInitialState(String;Colors)"
  , "c3" : "1"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00187"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#187"
+ , "c5" : "00220"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#220"
  , "c1" : "void"
  , "c2" : "addConstraint(TimeConstraint)"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00191"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#191"
+ , "c5" : "00224"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#224"
  , "c1" : "double"
  , "c2" : "getFullHeight(StringBounder)"
  , "c3" : "1"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00197"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#197"
+ , "c5" : "00230"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#230"
  , "c1" : "double"
  , "c2" : "getBottomMargin()"
  , "c3" : "1"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00201"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#201"
+ , "c5" : "00234"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#234"
  , "c1" : "void"
  , "c2" : "drawPart2(UGraphic)"
  , "c3" : "1"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00219"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#219"
+ , "c5" : "00252"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#252"
  , "c1" : "void"
  , "c2" : "drawBeforeZeroState(UGraphic)"
  , "c3" : "2"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00228"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#228"
+ , "c5" : "00261"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#261"
  , "c1" : "void"
  , "c2" : "drawBeforeZeroStateLabel(UGraphic)"
  , "c3" : "2"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00237"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#237"
+ , "c5" : "00270"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#270"
  , "c1" : "void"
  , "c2" : "drawStates(UGraphic)"
  , "c3" : "9"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00257"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#257"
+ , "c5" : "00290"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#290"
  , "c1" : "void"
  , "c2" : "drawStatesLabels(UGraphic)"
  , "c3" : "5"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00281"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#281"
+ , "c5" : "00314"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#314"
  , "c1" : "TextBlock"
  , "c2" : "getCommentTopBlock(ChangeState)"
  , "c3" : "2"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00288"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#288"
+ , "c5" : "00321"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#321"
  , "c1" : "double"
  , "c2" : "getHeightForTopComment(StringBounder)"
  , "c3" : "2"
@@ -279,8 +279,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00296"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#296"
+ , "c5" : "00329"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#329"
  , "c1" : "void"
  , "c2" : "drawConstraints(UGraphic)"
  , "c3" : "2"
@@ -350,640 +350,640 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#51"
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.Ribbon@POLYN203955 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#51"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.Ribbon@POLYN203955 the MagicNumber/String  24 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#59"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method getTimeProjection arguments StringBounder  stringBounder|TimeTick  tick"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#62"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getTimeProjection@POLYN204715 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#64"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getTimeProjection@POLYN204715 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getTimeProjection@POLYN204715 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#68"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getTimeProjection@POLYN204715 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00071"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#71"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method addChange arguments ChangeState  change"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#75"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00075] For method getPosInPixel arguments ChangeState  change"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#75"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00075] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.Ribbon@POLYN204153 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#84"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00084] For method createTextBlock arguments String  value"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#89"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00089] For method getPart1 arguments double  fullAvailableWidth"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getPart1@POLYN206685 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.Ribbon@POLYN204153 the MagicNumber/String  24 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00102"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#102"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getPart1@POLYN206685 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#117"
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#92"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00117] For method drawNotes arguments UGraphic  ug|Position  position"
+ , "c3" : "QC-JAV000006[00092] For method getTimeProjection arguments StringBounder  stringBounder|TimeTick  tick"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#117"
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#95"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getTimeProjection@POLYN204913 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#97"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getTimeProjection@POLYN204913 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#100"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getTimeProjection@POLYN204913 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#101"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getTimeProjection@POLYN204913 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00104"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#104"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00104] For method addChange arguments ChangeState  change"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#108"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00108] For method getPosInPixel arguments ChangeState  change"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#108"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00117] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00108] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00120"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#120"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00120] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawNotes@POLYN208035 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#121"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawNotes@POLYN208035 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#126"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#117"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00126] For method getInitialWidth arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00117] For method createTextBlock arguments String  value"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#122"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00122] For method getPart1 arguments double  fullAvailableWidth"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getInitialWidth@POLYN208685 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getPart1@POLYN206883 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#128"
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getInitialWidth@POLYN208685 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getPart1@POLYN206883 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00130"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#130"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getInitialWidth@POLYN208685 the MagicNumber/String  24 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#133"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#150"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00133] For method drawHexa arguments UGraphic  ug|double  len|ChangeState  change"
+ , "c3" : "QC-JAV000006[00150] For method drawNotes arguments UGraphic  ug|Position  position"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#133"
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#150"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00133] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00150] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#138"
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#153"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00153] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#154"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawNotes@POLYN208233 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#154"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawNotes@POLYN208233 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#159"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00138] For method drawFlat arguments UGraphic  ug|double  len|ChangeState  change"
+ , "c3" : "QC-JAV000006[00159] For method getInitialWidth arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#138"
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#160"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getInitialWidth@POLYN208883 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#161"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getInitialWidth@POLYN208883 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#163"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getInitialWidth@POLYN208883 the MagicNumber/String  24 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#166"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00166] For method drawHexa arguments UGraphic  ug|double  len|ChangeState  change"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#166"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00138] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00166] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawFlat@POLYN209395 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#147"
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#171"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00147] For method drawPentaB arguments UGraphic  ug|double  len|ChangeState  change"
+ , "c3" : "QC-JAV000006[00171] For method drawFlat arguments UGraphic  ug|double  len|ChangeState  change"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#147"
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#171"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00147] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00171] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#152"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#173"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawFlat@POLYN209593 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#180"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00152] For method drawPentaA arguments UGraphic  ug|double  len|ChangeState  change"
+ , "c3" : "QC-JAV000006[00180] For method drawPentaB arguments UGraphic  ug|double  len|ChangeState  change"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#152"
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#180"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00152] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00180] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#155"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPentaA@POLYN210378 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#158"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPentaA@POLYN210378 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#165"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#185"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00165] For method getHeightForConstraints arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00185] For method drawPentaA arguments UGraphic  ug|double  len|ChangeState  change"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#169"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00169] For method getHeightForNotes arguments StringBounder  stringBounder|Position  position"
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#185"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00185] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#170"
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getHeightForNotes@POLYN211526 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#179"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getMarginX@POLYN212005 the MagicNumber/String  12 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00182"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#182"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00182] For method setInitialState arguments String  initialState|Colors  initialColors"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#187"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00187] For method addConstraint arguments TimeConstraint  constraint"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPentaA@POLYN210576 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#191"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00191] For method getFullHeight arguments StringBounder  stringBounder"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPentaA@POLYN210576 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#198"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getBottomMargin@POLYN212879 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#201"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00201] For method drawPart2 arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00198] For method getHeightForConstraints arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#201"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00201] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#202"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00202] For method getHeightForNotes arguments StringBounder  stringBounder|Position  position"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#208"
+ , "c1" : "00203"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPart2@POLYN212959 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00210"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#210"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPart2@POLYN212959 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getHeightForNotes@POLYN211724 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00212"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPart2@POLYN212959 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getMarginX@POLYN212203 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00219"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#219"
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#215"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00219] For method drawBeforeZeroState arguments UGraphic  ug"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00219"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#219"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00219] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAV000006[00215] For method setInitialState arguments String  initialState|Colors  initialColors"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00220"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#220"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroState@POLYN214495 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00220"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#220"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroState@POLYN214495 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00222"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#222"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroState@POLYN214495 the MagicNumber/String  0 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00220] For method addConstraint arguments TimeConstraint  constraint"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00224"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#224"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroState@POLYN214495 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#228"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00228] For method drawBeforeZeroStateLabel arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00224] For method getFullHeight arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#228"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00228] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00230"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#230"
+ , "c1" : "00231"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#231"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroStateLabel@POLYN215231 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getBottomMargin@POLYN213077 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00233"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#233"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroStateLabel@POLYN215231 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00237"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#237"
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#234"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00237] For method drawStates arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00234] For method drawPart2 arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00237"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#237"
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#234"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00237] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00234] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00238"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#238"
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN215929 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPart2@POLYN213157 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00238"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#238"
+ , "c1" : "00243"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#243"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN215929 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPart2@POLYN213157 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00240"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#240"
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN215929 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#244"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN215929 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00247"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#247"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN215929 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00248"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#248"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN215929 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPart2@POLYN213157 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00252"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#252"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN215929 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00257"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#257"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00257] For method drawStatesLabels arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00252] For method drawBeforeZeroState arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00252"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#252"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00252] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#253"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroState@POLYN214693 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#253"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroState@POLYN214693 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#255"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroState@POLYN214693 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#257"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00257] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroState@POLYN214693 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00260"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#260"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00260] Avoid declaring class instance within loop, performance impact"
+ , "c1" : "00261"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#261"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00261] For method drawBeforeZeroStateLabel arguments UGraphic  ug"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00261"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#261"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00261] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00263"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#263"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00263] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00264"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#264"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00264] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00274"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#274"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00274] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00275"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#275"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00275] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00259"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#259"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218151 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00262"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#262"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218151 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00262"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#262"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218151 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00262"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#262"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218151 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00263] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroStateLabel@POLYN215429 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00266"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#266"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218151 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00269"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#269"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218151 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroStateLabel@POLYN215429 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00270"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#270"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218151 the MagicNumber/String  2 should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00270] For method drawStates arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00270"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#270"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218151 the MagicNumber/String  2 should be converted to const"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00270] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00272"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#272"
+ , "c1" : "00271"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#271"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218151 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN216127 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00271"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#271"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN216127 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00273"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#273"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN216127 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218151 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN216127 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00280"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#280"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN216127 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00281"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#281"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00281] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN216127 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00285"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#285"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00285] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN216127 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00290"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#290"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00281] For method getCommentTopBlock arguments ChangeState  change"
+ , "c3" : "QC-JAV000006[00290] For method drawStatesLabels arguments UGraphic  ug"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00281"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#281"
+ , "c1" : "00290"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#290"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00281] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00290] The argument ug is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00282"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#282"
+ , "c1" : "00293"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#293"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00282] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getCommentTopBlock@POLYN220475 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#283"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getCommentTopBlock@POLYN220475 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#283"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getCommentTopBlock@POLYN220475 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00288"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#288"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00288] For method getHeightForTopComment arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00289"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#289"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getHeightForTopComment@POLYN220813 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00293] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00296"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#296"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00296] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00297"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#297"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00297] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#307"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00307] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00308"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#308"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00308] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00292"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#292"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218349 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#295"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218349 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#295"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218349 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#295"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218349 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00299"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#299"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00299] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218349 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00302"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#302"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218349 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00303"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#303"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218349 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00303"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#303"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218349 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00305"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#305"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00305] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218349 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00310"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#310"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN218349 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00314"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#314"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00296] For method drawConstraints arguments UGraphic  ug"
+ , "c3" : "QC-JAV000006[00314] For method getCommentTopBlock arguments ChangeState  change"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00314"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#314"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00314] The argument change is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00315"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#315"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00315] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getCommentTopBlock@POLYN220673 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00316"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#316"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getCommentTopBlock@POLYN220673 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00316"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#316"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getCommentTopBlock@POLYN220673 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00321"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#321"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00321] For method getHeightForTopComment arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00322"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#322"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00322] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getHeightForTopComment@POLYN221011 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00329"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#329"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00329] For method drawConstraints arguments UGraphic  ug"
 }} 
 ]
 , 

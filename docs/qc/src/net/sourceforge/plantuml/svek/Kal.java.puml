@@ -2,16 +2,16 @@
 !pragma layout smetana
 "UDrawable" <|-- "net.sourceforge.plantuml.svek.Kal"
 class net.sourceforge.plantuml.svek.Kal {
-+Kal(SvekLine;String;FontConfiguration;ISkinParam;EntityImpl;Link;StringBounder) : Kal [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#33]]]
-+getDimension() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#66]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#71]]]
--getTranslate() : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#78]]]
-+getX1() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#83]]]
-+getX2() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#87]]]
--getTextDelta() : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#91]]]
-+getPosition() : Direction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#107]]]
-+setTranslate(UTranslate;UDrawable) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#111]]]
-+overlapx(Kal) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#120]]]
-+moveX(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#136]]]
++Kal(SvekLine;String;FontConfiguration;ISkinParam;EntityImpl;Link;StringBounder) : Kal [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#67]]]
++getDimension() : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#100]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#105]]]
+-getTranslate() : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#112]]]
++getX1() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#117]]]
++getX2() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#121]]]
+-getTextDelta() : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#125]]]
++getPosition() : Direction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#141]]]
++setTranslate(UTranslate;UDrawable) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#145]]]
++overlapx(Kal) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#154]]]
++moveX(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Kal.java.html#170]]]
 } 
 @enduml

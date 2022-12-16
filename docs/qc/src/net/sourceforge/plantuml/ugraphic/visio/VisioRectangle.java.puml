@@ -2,11 +2,11 @@
 !pragma layout smetana
 "VisioShape" <|-- "net.sourceforge.plantuml.ugraphic.visio.VisioRectangle"
 class net.sourceforge.plantuml.ugraphic.visio.VisioRectangle {
-+createInches(int;double;double;double;double) : VisioRectangle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioRectangle.java.html#15]]]
--VisioRectangle(int;double;double;double;double) : VisioRectangle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioRectangle.java.html#19]]]
-+yReverse(double) : VisioShape [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioRectangle.java.html#30]]]
--toInches(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioRectangle.java.html#35]]]
-+print(OutputStream) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioRectangle.java.html#39]]]
--out(OutputStream;String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioRectangle.java.html#82]]]
++createInches(int;double;double;double;double) : VisioRectangle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioRectangle.java.html#49]]]
+-VisioRectangle(int;double;double;double;double) : VisioRectangle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioRectangle.java.html#53]]]
++yReverse(double) : VisioShape [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioRectangle.java.html#64]]]
+-toInches(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioRectangle.java.html#69]]]
++print(OutputStream) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioRectangle.java.html#73]]]
+-out(OutputStream;String) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioRectangle.java.html#116]]]
 } 
 @enduml

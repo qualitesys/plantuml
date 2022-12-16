@@ -2,7 +2,7 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.DisplayPositionned"
 class net.sourceforge.plantuml.cucadiagram.DisplayPositionned {
-+getDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositionned.java.html#53]]]
-+isNull() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositionned.java.html#57]]]
++getDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositionned.java.html#95]]]
++isNull() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositionned.java.html#99]]]
 } 
 @enduml

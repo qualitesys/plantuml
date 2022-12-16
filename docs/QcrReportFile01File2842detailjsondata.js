@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "smetana.core.CArrayOfStar" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00015"
- , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#15"
+ , "c5" : "00049"
+ , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#49"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00020"
- , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#20"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#54"
  , "c1" : "CArrayOfStar"
  , "c2" : "CArrayOfStar(List<O>;int)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00040"
- , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#40"
+ , "c5" : "00074"
+ , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#74"
  , "c1" : "int"
  , "c2" : "comparePointer_(CArrayOfStar<O>)"
  , "c3" : "2"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#47"
+ , "c5" : "00081"
+ , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#81"
  , "c1" : "O"
  , "c2" : "get_(int)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00051"
- , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#51"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#85"
  , "c1" : "void"
  , "c2" : "set_(int;O)"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00055"
- , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#55"
+ , "c5" : "00089"
+ , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#89"
  , "c1" : "void"
  , "c2" : "realloc(int)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00064"
- , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#64"
+ , "c5" : "00098"
+ , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#98"
  , "c1" : "CArrayOfStar<O>"
  , "c2" : "plus_(int)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00068"
- , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#68"
+ , "c5" : "00102"
+ , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#102"
  , "c1" : "void"
  , "c2" : "_swap(int;int)"
  , "c3" : "2"
@@ -145,115 +145,115 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method smetana.core.CArrayOfStar.toString@POLYN154730 the MagicNumber/String  '*Array offset=' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method smetana.core.CArrayOfStar.toString@POLYN154934 the MagicNumber/String  '*Array offset=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method smetana.core.CArrayOfStar.toString@POLYN154730 the MagicNumber/String  ' [' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method smetana.core.CArrayOfStar.toString@POLYN154934 the MagicNumber/String  ' [' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method smetana.core.CArrayOfStar.toString@POLYN154730 the MagicNumber/String  ']' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#26"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method smetana.core.CArrayOfStar the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#32"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method smetana.core.CArrayOfStar the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#40"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00040] For method comparePointer_ arguments CArrayOfStar&lt;O &gt;  other"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#40"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00040] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#47"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00047] For method get_ arguments int  i"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00051"
- , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#51"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00051] For method set_ arguments int  i|O  value"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#55"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method realloc arguments int  size"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#56"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method smetana.core.CArrayOfStar.realloc@POLYN156782 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method smetana.core.CArrayOfStar.realloc@POLYN156782 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method smetana.core.CArrayOfStar.toString@POLYN154934 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method smetana.core.CArrayOfStar.realloc@POLYN156782 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method smetana.core.CArrayOfStar the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#64"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method plus_ arguments int  delta"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#68"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00068] For method _swap arguments int  i|int  j"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#69"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method smetana.core.CArrayOfStar._swap@POLYN157440 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method smetana.core.CArrayOfStar the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#74"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00074] For method comparePointer_ arguments CArrayOfStar&lt;O &gt;  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#74"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00074] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#81"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00081] For method get_ arguments int  i"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#85"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00085] For method set_ arguments int  i|O  value"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#89"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00089] For method realloc arguments int  size"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#90"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00090] In method smetana.core.CArrayOfStar.realloc@POLYN156986 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#93"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00093] In method smetana.core.CArrayOfStar.realloc@POLYN156986 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#94"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00094] In method smetana.core.CArrayOfStar.realloc@POLYN156986 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#98"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00098] For method plus_ arguments int  delta"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#102"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00102] For method _swap arguments int  i|int  j"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#103"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00103] In method smetana.core.CArrayOfStar._swap@POLYN157644 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

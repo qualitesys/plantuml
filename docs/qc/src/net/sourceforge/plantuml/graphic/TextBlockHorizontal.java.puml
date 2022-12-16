@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.TextBlockHorizontal"
 class net.sourceforge.plantuml.graphic.TextBlockHorizontal {
-TextBlockHorizontal(TextBlock;TextBlock;VerticalAlignment) : TextBlockHorizontal [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockHorizontal.java.html#16]]]
-+TextBlockHorizontal(List<TextBlock>;VerticalAlignment) : TextBlockHorizontal [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockHorizontal.java.html#22]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockHorizontal.java.html#30]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockHorizontal.java.html#38]]]
+TextBlockHorizontal(TextBlock;TextBlock;VerticalAlignment) : TextBlockHorizontal [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockHorizontal.java.html#50]]]
++TextBlockHorizontal(List<TextBlock>;VerticalAlignment) : TextBlockHorizontal [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockHorizontal.java.html#56]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockHorizontal.java.html#64]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockHorizontal.java.html#72]]]
 } 
 @enduml

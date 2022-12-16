@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<Help>" <|-- "net.sourceforge.plantuml.help.CommandHelpKeyword"
 class net.sourceforge.plantuml.help.CommandHelpKeyword {
-+CommandHelpKeyword() : CommandHelpKeyword [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpKeyword.java.html#15]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpKeyword.java.html#19]]]
-executeArg(Help;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpKeyword.java.html#27]]]
++CommandHelpKeyword() : CommandHelpKeyword [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpKeyword.java.html#49]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpKeyword.java.html#53]]]
+executeArg(Help;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpKeyword.java.html#61]]]
 } 
 @enduml

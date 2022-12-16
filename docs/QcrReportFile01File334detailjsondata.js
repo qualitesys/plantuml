@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.transformation.CartesianTransformation" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/jcckit/transformation/CartesianTransformation.java.html#18"
+ , "c5" : "00056"
+ , "c5link" : "././qc/src/jcckit/transformation/CartesianTransformation.java.html#56"
  , "c1" : "CartesianTransformation"
  , "c2" : "CartesianTransformation(boolean;boolean;DataPoint;GraphPoint;DataPoint;GraphPoint)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/jcckit/transformation/CartesianTransformation.java.html#38"
+ , "c5" : "00076"
+ , "c5link" : "././qc/src/jcckit/transformation/CartesianTransformation.java.html#76"
  , "c1" : "void"
  , "c2" : "check(double;String;String;double)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/jcckit/transformation/CartesianTransformation.java.html#47"
+ , "c5" : "00085"
+ , "c5link" : "././qc/src/jcckit/transformation/CartesianTransformation.java.html#85"
  , "c1" : "GraphPoint"
  , "c2" : "transformToGraph(DataPoint)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00053"
- , "c5link" : "././qc/src/jcckit/transformation/CartesianTransformation.java.html#53"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/jcckit/transformation/CartesianTransformation.java.html#91"
  , "c1" : "DataPoint"
  , "c2" : "transformToData(GraphPoint)"
  , "c3" : "1"
@@ -109,150 +109,150 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#19"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#57"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00019] The argument dataPoint1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00057] The argument dataPoint1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#19"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#57"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00019] The argument graphPoint1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00057] The argument graphPoint1 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#20"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#58"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument dataPoint2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00058] The argument dataPoint2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#20"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#58"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00020] The argument graphPoint2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00058] The argument graphPoint2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#24"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN156735 the MagicNumber/String  'data' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN156963 the MagicNumber/String  'data' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#24"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN156735 the MagicNumber/String  'x' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN156963 the MagicNumber/String  'x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#26"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN156735 the MagicNumber/String  'graphical' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN156963 the MagicNumber/String  'graphical' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#26"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN156735 the MagicNumber/String  'x' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN156963 the MagicNumber/String  'x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#32"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN156735 the MagicNumber/String  'data' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN156963 the MagicNumber/String  'data' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#32"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN156735 the MagicNumber/String  'y' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN156963 the MagicNumber/String  'y' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#34"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN156735 the MagicNumber/String  'graphical' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN156963 the MagicNumber/String  'graphical' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#34"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN156735 the MagicNumber/String  'y' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN156963 the MagicNumber/String  'y' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#38"
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00038] For method check arguments double  valueToCheck|String  type|String  axis|double  value"
+ , "c3" : "QC-JAV000006[00076] For method check arguments double  valueToCheck|String  type|String  axis|double  value"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#40"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method jcckit.transformation.CartesianTransformation.check@POLYN158745 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method jcckit.transformation.CartesianTransformation.check@POLYN158973 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#41"
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method jcckit.transformation.CartesianTransformation.check@POLYN158745 the MagicNumber/String  'The ' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method jcckit.transformation.CartesianTransformation.check@POLYN158973 the MagicNumber/String  'The ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#42"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method jcckit.transformation.CartesianTransformation.check@POLYN158745 the MagicNumber/String  ' reference points in ' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method jcckit.transformation.CartesianTransformation.check@POLYN158973 the MagicNumber/String  ' reference points in ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00042"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#42"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method jcckit.transformation.CartesianTransformation.check@POLYN158745 the MagicNumber/String  ' must be different; both are ' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method jcckit.transformation.CartesianTransformation.check@POLYN158973 the MagicNumber/String  ' must be different; both are ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#47"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#85"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00047] For method transformToGraph arguments DataPoint  point"
+ , "c3" : "QC-JAV000006[00085] For method transformToGraph arguments DataPoint  point"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#47"
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#85"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00047] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00085] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#53"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#91"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method transformToData arguments GraphPoint  point"
+ , "c3" : "QC-JAV000006[00091] For method transformToData arguments GraphPoint  point"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00053"
- , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#53"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#91"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00053] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00091] The argument point is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

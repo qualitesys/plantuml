@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "ext.plantuml.com.google.zxing.qrcode.decoder.Mode"
 class ext.plantuml.com.google.zxing.qrcode.decoder.Mode {
--Mode(int[];int;String) : Mode [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#24]]]
-+forBits(int) : Mode [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#31]]]
-+getCharacterCountBits(Version) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#57]]]
-+getBits() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#73]]]
-+getName() : String [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#77]]]
-+toString() : String [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#81]]]
+-Mode(int[];int;String) : Mode [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#43]]]
++forBits(int) : Mode [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#54]]]
++getCharacterCountBits(Version) : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#84]]]
++getBits() : int [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#100]]]
++getName() : String [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#104]]]
++toString() : String [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Mode.java.html#108]]]
 } 
 @enduml

@@ -2,9 +2,9 @@
 !pragma layout smetana
 "UnsupportedStarStruct" <|-- "h.ST_boxf"
 class h.ST_boxf {
-+toString() : String [[[./../../.././qc/src/h/ST_boxf.java.html#13]]]
-+malloc(int) : ST_boxf[] [[[./../../.././qc/src/h/ST_boxf.java.html#17]]]
-+copy() : ST_boxf [[[./../../.././qc/src/h/ST_boxf.java.html#26]]]
-+___(__struct__) : void [[[./../../.././qc/src/h/ST_boxf.java.html#34]]]
++toString() : String [[[./../../.././qc/src/h/ST_boxf.java.html#57]]]
++malloc(int) : ST_boxf[] [[[./../../.././qc/src/h/ST_boxf.java.html#61]]]
++copy() : ST_boxf [[[./../../.././qc/src/h/ST_boxf.java.html#70]]]
++___(__struct__) : void [[[./../../.././qc/src/h/ST_boxf.java.html#78]]]
 } 
 @enduml

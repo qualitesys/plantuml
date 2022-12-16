@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.vizjs.VizJsEngine" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#9"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#43"
  , "c1" : "boolean"
  , "c2" : "isOk()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#21"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#55"
  , "c1" : "VizJsEngine"
  , "c2" : "VizJsEngine()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#63"
  , "c1" : "String"
  , "c2" : "execute(String)"
  , "c3" : "1"
@@ -100,66 +100,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#11"
+ , "c1" : "00045"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.vizjs.VizJsEngine.isOk@POLYN148150 the MagicNumber/String  'ch.braincell.viz.VizJS' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.vizjs.VizJsEngine.isOk@POLYN148354 the MagicNumber/String  'ch.braincell.viz.VizJS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#12"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.vizjs.VizJsEngine.isOk@POLYN148150 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.vizjs.VizJsEngine.isOk@POLYN148354 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.vizjs.VizJsEngine.isOk@POLYN148150 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.vizjs.VizJsEngine.isOk@POLYN148354 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#23"
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.vizjs.VizJsEngine.VizJsEngine@POLYN148521 the MagicNumber/String  'ch.braincell.viz.VizJS' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.vizjs.VizJsEngine.VizJsEngine@POLYN148725 the MagicNumber/String  'ch.braincell.viz.VizJS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#24"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.vizjs.VizJsEngine.VizJsEngine@POLYN148521 the MagicNumber/String  'create' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.vizjs.VizJsEngine.VizJsEngine@POLYN148725 the MagicNumber/String  'create' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#25"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.vizjs.VizJsEngine.VizJsEngine@POLYN148521 the MagicNumber/String  'execute' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.vizjs.VizJsEngine.VizJsEngine@POLYN148725 the MagicNumber/String  'execute' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.vizjs.VizJsEngine.VizJsEngine@POLYN148521 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.vizjs.VizJsEngine.VizJsEngine@POLYN148725 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method execute arguments String  dot"
+ , "c3" : "QC-JAV000006[00063] For method execute arguments String  dot"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00009"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#9"
+ , "c1" : "00043"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#43"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00009] Public method isOk is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00043] Public method isOk is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

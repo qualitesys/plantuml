@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.command.regex.Pattern2" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/Pattern2.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/Pattern2.java.html#44"
  , "c1" : "Pattern2"
  , "c2" : "Pattern2(Pattern)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/Pattern2.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/Pattern2.java.html#48"
  , "c1" : "Matcher2"
  , "c2" : "matcher(CharSequence)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/Pattern2.java.html#18"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/Pattern2.java.html#52"
  , "c1" : "String"
  , "c2" : "pattern()"
  , "c3" : "1"
@@ -86,10 +86,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/Pattern2.java.html#14"
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/Pattern2.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method matcher arguments CharSequence  input"
+ , "c3" : "QC-JAV000006[00048] For method matcher arguments CharSequence  input"
 }} 
 ]
 , 

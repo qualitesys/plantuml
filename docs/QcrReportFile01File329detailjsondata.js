@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.plot.Symbol" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/jcckit/plot/Symbol.java.html#13"
+ , "c5" : "00035"
+ , "c5link" : "././qc/src/jcckit/plot/Symbol.java.html#35"
  , "c1" : "Symbol"
  , "c2" : "Symbol(GraphicalElement;Hint;Hint)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00021"
- , "c5link" : "././qc/src/jcckit/plot/Symbol.java.html#21"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/jcckit/plot/Symbol.java.html#43"
  , "c1" : "GraphicalElement"
  , "c2" : "getSymbol()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00026"
- , "c5link" : "././qc/src/jcckit/plot/Symbol.java.html#26"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/jcckit/plot/Symbol.java.html#48"
  , "c1" : "Hint"
  , "c2" : "getHintForNextPoint()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/jcckit/plot/Symbol.java.html#31"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/jcckit/plot/Symbol.java.html#53"
  , "c1" : "Hint"
  , "c2" : "getHintForNextCurve()"
  , "c3" : "1"

@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "gen.lib.cdt.dtopen__c"
 class gen.lib.cdt.dtopen__c {
-+dtopen(ST_dtdisc_s;ST_dtmethod_s) : ST_dt_s [[[./../../../../.././qc/src/gen/lib/cdt/dtopen__c.java.html#92]]]
++dtopen(ST_dtdisc_s;ST_dtmethod_s) : ST_dt_s [[[./../../../../.././qc/src/gen/lib/cdt/dtopen__c.java.html#136]]]
 } 
 @enduml

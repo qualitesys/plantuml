@@ -2,8 +2,8 @@
 !pragma layout smetana
 "PSystemCommandFactory" <|-- "net.sourceforge.plantuml.board.BoardDiagramFactory"
 class net.sourceforge.plantuml.board.BoardDiagramFactory {
-+BoardDiagramFactory() : BoardDiagramFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagramFactory.java.html#16]]]
-createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagramFactory.java.html#21]]]
-+createEmptyDiagram(UmlSource;Map<String,String>) : BoardDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagramFactory.java.html#37]]]
++BoardDiagramFactory() : BoardDiagramFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagramFactory.java.html#50]]]
+createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagramFactory.java.html#55]]]
++createEmptyDiagram(UmlSource;Map<String,String>) : BoardDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/board/BoardDiagramFactory.java.html#71]]]
 } 
 @enduml

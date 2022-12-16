@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.creole.legacy.StripeRaw" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/StripeRaw.java.html#9"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/StripeRaw.java.html#43"
  , "c1" : "boolean"
  , "c2" : "addAndCheckTermination(String)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/StripeRaw.java.html#11"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/legacy/StripeRaw.java.html#45"
  , "c1" : "boolean"
  , "c2" : "isTerminated()"
  , "c3" : "1"

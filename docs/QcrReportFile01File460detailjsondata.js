@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.TitledDiagram" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00054"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#54"
+ , "c5" : "00088"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#88"
  , "c1" : "Pragma"
  , "c2" : "getPragma()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00058"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#58"
+ , "c5" : "00092"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#92"
  , "c1" : "TitledDiagram"
  , "c2" : "TitledDiagram(UmlSource;UmlDiagramType;Map<String,String>)"
  , "c3" : "2"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#67"
+ , "c5" : "00101"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#101"
  , "c1" : "StyleBuilder"
  , "c2" : "getCurrentStyleBuilder()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00071"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#71"
+ , "c5" : "00105"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#105"
  , "c1" : "UmlDiagramType"
  , "c2" : "getUmlDiagramType()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00075"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#75"
+ , "c5" : "00109"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#109"
  , "c1" : "ISkinParam"
  , "c2" : "getSkinParam()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00079"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#79"
+ , "c5" : "00113"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#113"
  , "c1" : "void"
  , "c2" : "setParam(String;String)"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00083"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#83"
+ , "c5" : "00117"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#117"
  , "c1" : "void"
  , "c2" : "addSprite(String;Sprite)"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00087"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#87"
+ , "c5" : "00121"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#121"
  , "c1" : "CommandExecutionResult"
  , "c2" : "loadSkin(String)"
  , "c3" : "2"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00142"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#142"
+ , "c5" : "00176"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#176"
  , "c1" : "void"
  , "c2" : "setTitle(DisplayPositioned)"
  , "c3" : "2"
@@ -99,82 +99,10 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00149"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#149"
+ , "c5" : "00183"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#183"
  , "c1" : "DisplayPositionned"
  , "c2" : "getTitle()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00155"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#155"
- , "c1" : "Display"
- , "c2" : "getTitleDisplay()"
- , "c3" : "2"
- , "c4" : "2"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00161"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#161"
- , "c1" : "void"
- , "c2" : "setMainFrame(Display)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00165"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#165"
- , "c1" : "void"
- , "c2" : "setCaption(DisplayPositioned)"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00169"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#169"
- , "c1" : "DisplayPositioned"
- , "c2" : "getCaption()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00173"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#173"
- , "c1" : "DisplaySection"
- , "c2" : "getHeader()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00177"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#177"
- , "c1" : "DisplaySection"
- , "c2" : "getFooter()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00181"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#181"
- , "c1" : "DisplayPositioned"
- , "c2" : "getLegend()"
- , "c3" : "1"
- , "c4" : "1"
-}} 
-,
-{ "ligne" : { "" : ""
- , "c5" : "00185"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#185"
- , "c1" : "void"
- , "c2" : "setLegend(DisplayPositioned)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -183,14 +111,86 @@ var maDataBlocs = {
  , "c5" : "00189"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#189"
  , "c1" : "Display"
+ , "c2" : "getTitleDisplay()"
+ , "c3" : "2"
+ , "c4" : "2"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00195"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#195"
+ , "c1" : "void"
+ , "c2" : "setMainFrame(Display)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00199"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#199"
+ , "c1" : "void"
+ , "c2" : "setCaption(DisplayPositioned)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00203"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#203"
+ , "c1" : "DisplayPositioned"
+ , "c2" : "getCaption()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00207"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#207"
+ , "c1" : "DisplaySection"
+ , "c2" : "getHeader()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00211"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#211"
+ , "c1" : "DisplaySection"
+ , "c2" : "getFooter()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00215"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#215"
+ , "c1" : "DisplayPositioned"
+ , "c2" : "getLegend()"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00219"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#219"
+ , "c1" : "void"
+ , "c2" : "setLegend(DisplayPositioned)"
+ , "c3" : "1"
+ , "c4" : "1"
+}} 
+,
+{ "ligne" : { "" : ""
+ , "c5" : "00223"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#223"
+ , "c1" : "Display"
  , "c2" : "getMainFrame()"
  , "c3" : "1"
  , "c4" : "1"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00196"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#196"
+ , "c5" : "00230"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#230"
  , "c1" : "void"
  , "c2" : "setUseSmetana(boolean)"
  , "c3" : "1"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00200"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#200"
+ , "c5" : "00234"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#234"
  , "c1" : "void"
  , "c2" : "setUseElk(boolean)"
  , "c3" : "1"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00204"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#204"
+ , "c5" : "00238"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#238"
  , "c1" : "boolean"
  , "c2" : "isUseElk()"
  , "c3" : "2"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00210"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#210"
+ , "c5" : "00244"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#244"
  , "c1" : "boolean"
  , "c2" : "isUseSmetana()"
  , "c3" : "2"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00217"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#217"
+ , "c5" : "00251"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#251"
  , "c1" : "ClockwiseTopRightBottomLeft"
  , "c2" : "getDefaultMargins()"
  , "c3" : "1"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00221"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#221"
+ , "c5" : "00255"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#255"
  , "c1" : "void"
  , "c2" : "setAnimation(Iterable<CharSequence>)"
  , "c3" : "1"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00230"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#230"
+ , "c5" : "00264"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#264"
  , "c1" : "Animation"
  , "c2" : "getAnimation()"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00235"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#235"
+ , "c5" : "00269"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#269"
  , "c1" : "ImageBuilder"
  , "c2" : "createImageBuilder(FileFormatOption)"
  , "c3" : "1"
@@ -261,8 +261,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00239"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#239"
+ , "c5" : "00273"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#273"
  , "c1" : "HColor"
  , "c2" : "calculateBackColor()"
  , "c3" : "2"
@@ -270,8 +270,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00251"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#251"
+ , "c5" : "00285"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#285"
  , "c1" : "ColorMapper"
  , "c2" : "muteColorMapper(ColorMapper)"
  , "c3" : "7"
@@ -348,255 +348,255 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00036] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00070] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAVCWE500[00036] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
+ , "c3" : "QC-JAVCWE500[00070] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00037] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00071] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#37"
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#71"
  , "c2" : "MINOR"
- , "c3" : "QC-JAVCWE500[00037] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
+ , "c3" : "QC-JAVCWE500[00071] Static public field not marked final (see http://cwe.mitre.org/data/definitions/500.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#62"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.TitledDiagram.TitledDiagram@POLYN177334 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.TitledDiagram.TitledDiagram@POLYN177538 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#79"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#113"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00079] For method setParam arguments String  key|String  value"
+ , "c3" : "QC-JAV000006[00113] For method setParam arguments String  key|String  value"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#83"
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#117"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method addSprite arguments String  name|Sprite  sprite"
+ , "c3" : "QC-JAV000006[00117] For method addSprite arguments String  name|Sprite  sprite"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#87"
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#121"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00087] For method loadSkin arguments String  newSkin"
+ , "c3" : "QC-JAV000006[00121] For method loadSkin arguments String  newSkin"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#88"
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.TitledDiagram.loadSkin@POLYN178553 the MagicNumber/String  '.skin' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.TitledDiagram.loadSkin@POLYN178757 the MagicNumber/String  '.skin' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#90"
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.TitledDiagram.loadSkin@POLYN178553 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.TitledDiagram.loadSkin@POLYN178757 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#91"
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.TitledDiagram.loadSkin@POLYN178553 the MagicNumber/String  'Cannot find style ' should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.TitledDiagram.loadSkin@POLYN178757 the MagicNumber/String  'Cannot find style ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#129"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#163"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00129] For method setTitle arguments DisplayPositioned  title"
+ , "c3" : "QC-JAV000006[00163] For method setTitle arguments DisplayPositioned  title"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#142"
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#176"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00142] The argument title is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00176] The argument title is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#156"
+ , "c1" : "00190"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.TitledDiagram.getTitleDisplay@POLYN179565 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.TitledDiagram.getTitleDisplay@POLYN179769 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#157"
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.TitledDiagram.getTitleDisplay@POLYN179565 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.TitledDiagram.getTitleDisplay@POLYN179769 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#161"
+ , "c1" : "00195"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#195"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00161] For method setMainFrame arguments Display  mainFrame"
+ , "c3" : "QC-JAV000006[00195] For method setMainFrame arguments Display  mainFrame"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#165"
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#199"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00165] For method setCaption arguments DisplayPositioned  caption"
+ , "c3" : "QC-JAV000006[00199] For method setCaption arguments DisplayPositioned  caption"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00185"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#185"
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#219"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00185] For method setLegend arguments DisplayPositioned  legend"
+ , "c3" : "QC-JAV000006[00219] For method setLegend arguments DisplayPositioned  legend"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#196"
+ , "c1" : "00230"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#230"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00196] For method setUseSmetana arguments boolean  useSmetana"
+ , "c3" : "QC-JAV000006[00230] For method setUseSmetana arguments boolean  useSmetana"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00200"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#200"
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#234"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00200] For method setUseElk arguments boolean  useElk"
+ , "c3" : "QC-JAV000006[00234] For method setUseElk arguments boolean  useElk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#206"
+ , "c1" : "00240"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.TitledDiagram.isUseElk@POLYN180944 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.TitledDiagram.isUseElk@POLYN181148 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00212"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#212"
+ , "c1" : "00246"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.TitledDiagram.isUseSmetana@POLYN181109 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00218"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#218"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.TitledDiagram.getDefaultMargins@POLYN181278 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00221"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#221"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00221] For method setAnimation arguments Iterable&lt;CharSequence &gt;  animationData"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00235"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#235"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00235] For method createImageBuilder arguments FileFormatOption  fileFormatOption"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#244"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.TitledDiagram.calculateBackColor@POLYN182014 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00251"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#251"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00251] For method muteColorMapper arguments ColorMapper  init"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.TitledDiagram.isUseSmetana@POLYN181313 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00252"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#252"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182699 the MagicNumber/String  'dark' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00252"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#252"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182699 the MagicNumber/String  'mode' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00254"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#254"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182699 the MagicNumber/String  'monochrome' should be converted to const"
+ , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.TitledDiagram.getDefaultMargins@POLYN181482 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00255"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#255"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182699 the MagicNumber/String  'true' should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00255] For method setAnimation arguments Iterable&lt;CharSequence &gt;  animationData"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00257"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#257"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182699 the MagicNumber/String  'reverse' should be converted to const"
+ , "c1" : "00269"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#269"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00269] For method createImageBuilder arguments FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00260"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#260"
+ , "c1" : "00278"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#278"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182699 the MagicNumber/String  'reversecolor' should be converted to const"
+ , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.TitledDiagram.calculateBackColor@POLYN182218 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00261"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#261"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182699 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00285"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#285"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00285] For method muteColorMapper arguments ColorMapper  init"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00264"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#264"
+ , "c1" : "00286"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#286"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182699 the MagicNumber/String  'dark' should be converted to const"
+ , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182903 the MagicNumber/String  'dark' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00268"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#268"
+ , "c1" : "00286"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#286"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182699 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182903 the MagicNumber/String  'mode' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00288"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#288"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00288] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182903 the MagicNumber/String  'monochrome' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00289"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#289"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182903 the MagicNumber/String  'true' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00291"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#291"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182903 the MagicNumber/String  'reverse' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00294"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#294"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182903 the MagicNumber/String  'reversecolor' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#295"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182903 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00298"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#298"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182903 the MagicNumber/String  'dark' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00302"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#302"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN182903 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

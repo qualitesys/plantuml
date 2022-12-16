@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "jcckit.util.PropertiesBasedConfigData" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00011"
- , "c5link" : "././qc/src/jcckit/util/PropertiesBasedConfigData.java.html#11"
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/jcckit/util/PropertiesBasedConfigData.java.html#36"
  , "c1" : "PropertiesBasedConfigData"
  , "c2" : "PropertiesBasedConfigData(Properties)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00016"
- , "c5link" : "././qc/src/jcckit/util/PropertiesBasedConfigData.java.html#16"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/jcckit/util/PropertiesBasedConfigData.java.html#41"
  , "c1" : "PropertiesBasedConfigData"
  , "c2" : "PropertiesBasedConfigData(Properties;String)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/jcckit/util/PropertiesBasedConfigData.java.html#22"
+ , "c5" : "00052"
+ , "c5link" : "././qc/src/jcckit/util/PropertiesBasedConfigData.java.html#52"
  , "c1" : "String"
  , "c2" : "getValue(String)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/jcckit/util/PropertiesBasedConfigData.java.html#27"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/jcckit/util/PropertiesBasedConfigData.java.html#63"
  , "c1" : "ConfigData"
  , "c2" : "createConfigData(String)"
  , "c3" : "1"
@@ -102,24 +102,24 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00012"
- , "c1link" : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.html#12"
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method jcckit.util.PropertiesBasedConfigData.PropertiesBasedConfigData@POLYN148074 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method jcckit.util.PropertiesBasedConfigData.PropertiesBasedConfigData@POLYN148290 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.html#22"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.html#52"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method getValue arguments String  fullKey"
+ , "c3" : "QC-JAV000006[00052] For method getValue arguments String  fullKey"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.html#27"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00027] For method createConfigData arguments String  path"
+ , "c3" : "QC-JAV000006[00063] For method createConfigData arguments String  path"
 }} 
 ]
 , 

@@ -2,9 +2,9 @@
 !pragma layout smetana
 "AbstractComponentText" <|-- "net.sourceforge.plantuml.asciiart.ComponentTextDestroy"
 class net.sourceforge.plantuml.asciiart.ComponentTextDestroy {
-+ComponentTextDestroy() : ComponentTextDestroy [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDestroy.java.html#12]]]
-+drawU(UGraphic;Area;Context2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDestroy.java.html#15]]]
-+getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDestroy.java.html#24]]]
-+getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDestroy.java.html#28]]]
++ComponentTextDestroy() : ComponentTextDestroy [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDestroy.java.html#46]]]
++drawU(UGraphic;Area;Context2D) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDestroy.java.html#49]]]
++getPreferredHeight(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDestroy.java.html#58]]]
++getPreferredWidth(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDestroy.java.html#62]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "smetana.core.OFFSET" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/smetana/core/OFFSET.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/smetana/core/OFFSET.java.html#44"
  , "c1" : "int"
  , "c2" : "getSign()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/smetana/core/OFFSET.java.html#14"
+ , "c5" : "00048"
+ , "c5link" : "././qc/src/smetana/core/OFFSET.java.html#48"
  , "c1" : "OFFSET"
  , "c2" : "OFFSET(String)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00019"
- , "c5link" : "././qc/src/smetana/core/OFFSET.java.html#19"
+ , "c5" : "00053"
+ , "c5link" : "././qc/src/smetana/core/OFFSET.java.html#53"
  , "c1" : "OFFSET"
  , "c2" : "OFFSET(int)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00025"
- , "c5link" : "././qc/src/smetana/core/OFFSET.java.html#25"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/smetana/core/OFFSET.java.html#59"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "2"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00031"
- , "c5link" : "././qc/src/smetana/core/OFFSET.java.html#31"
+ , "c5" : "00065"
+ , "c5link" : "././qc/src/smetana/core/OFFSET.java.html#65"
  , "c1" : "OFFSET"
  , "c2" : "externalHolder()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00035"
- , "c5link" : "././qc/src/smetana/core/OFFSET.java.html#35"
+ , "c5" : "00069"
+ , "c5link" : "././qc/src/smetana/core/OFFSET.java.html#69"
  , "c1" : "OFFSET"
  , "c2" : "zero()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/smetana/core/OFFSET.java.html#39"
+ , "c5" : "00073"
+ , "c5link" : "././qc/src/smetana/core/OFFSET.java.html#73"
  , "c1" : "OFFSET"
  , "c2" : "negative()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00044"
- , "c5link" : "././qc/src/smetana/core/OFFSET.java.html#44"
+ , "c5" : "00078"
+ , "c5link" : "././qc/src/smetana/core/OFFSET.java.html#78"
  , "c1" : "String"
  , "c2" : "getField()"
  , "c3" : "1"
@@ -138,87 +138,87 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#16"
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method smetana.core.OFFSET.OFFSET@POLYN148055 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method smetana.core.OFFSET.OFFSET@POLYN148259 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#20"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method smetana.core.OFFSET.OFFSET@POLYN148245 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method smetana.core.OFFSET.OFFSET@POLYN148449 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00026"
- , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#26"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method smetana.core.OFFSET.toString@POLYN148460 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method smetana.core.OFFSET.toString@POLYN148664 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method smetana.core.OFFSET.toString@POLYN148460 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method smetana.core.OFFSET.toString@POLYN148664 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00027"
- , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#27"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method smetana.core.OFFSET.toString@POLYN148460 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method smetana.core.OFFSET.toString@POLYN148664 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method smetana.core.OFFSET.toString@POLYN148460 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method smetana.core.OFFSET.toString@POLYN148664 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#28"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method smetana.core.OFFSET.toString@POLYN148460 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method smetana.core.OFFSET.toString@POLYN148664 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#32"
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method smetana.core.OFFSET.externalHolder@POLYN148738 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method smetana.core.OFFSET.externalHolder@POLYN148942 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#36"
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method smetana.core.OFFSET.zero@POLYN148878 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method smetana.core.OFFSET.zero@POLYN149082 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#31"
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#65"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00031] Public method externalHolder is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00065] Public method externalHolder is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00035"
- , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#35"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#69"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00035] Public method zero is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00069] Public method zero is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#39"
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#73"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00039] Public method negative is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00073] Public method negative is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

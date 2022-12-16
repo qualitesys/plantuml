@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.shader.ShaderFlat" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.html#8"
+ , "c5" : "00014"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.html#14"
  , "c1" : "Color[]"
  , "c2" : "getShadedColors(int;int[])"
  , "c3" : "2"
@@ -82,31 +82,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.html#8"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.html#14"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00008] For method getShadedColors arguments int  pRowNo|int[]  pRowTypes"
+ , "c3" : "QC-JAV000006[00014] For method getShadedColors arguments int  pRowNo|int[]  pRowTypes"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00008"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.html#8"
+ , "c1" : "00014"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.html#14"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00008] For method getShadedColors list of called methods Object monObjet|java.awt.Color getShadedColorForTypeN139437"
+ , "c3" : "QC-JAV000007[00014] For method getShadedColors list of called methods Object monObjet|java.awt.Color getShadedColorForTypeN139473"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00011"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.html#11"
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method ext.plantuml.com.ctreber.acearth.shader.ShaderFlat.getShadedColors@POLYN139002 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method ext.plantuml.com.ctreber.acearth.shader.ShaderFlat.getShadedColors@POLYN139038 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.html#13"
+ , "c1" : "00019"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.html#19"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method ext.plantuml.com.ctreber.acearth.shader.ShaderFlat.getShadedColors@POLYN139002 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00019] In method ext.plantuml.com.ctreber.acearth.shader.ShaderFlat.getShadedColors@POLYN139038 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ]
 , 

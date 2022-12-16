@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.zopfli.BlockSplitter" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00007"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#7"
+ , "c5" : "00023"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#23"
  , "c1" : "int"
  , "c2" : "split(Cookie;byte[];int;int)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#30"
+ , "c5" : "00046"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#46"
  , "c1" : "int"
  , "c2" : "splitLz(Cookie;char[];char[];int)"
  , "c3" : "9"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00090"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#90"
+ , "c5" : "00106"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#106"
  , "c1" : "int"
  , "c2" : "findMinimum(Cookie;char[];char[];int;int)"
  , "c3" : "11"
@@ -100,332 +100,332 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#7"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#23"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00007] For method split arguments Cookie  cookie|byte[]  input|int  from|int  to"
+ , "c3" : "QC-JAV000006[00023] For method split arguments Cookie  cookie|byte[]  input|int  from|int  to"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00007"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#7"
+ , "c1" : "00023"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#23"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00007] The argument cookie is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00023] The argument cookie is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#10"
+ , "c1" : "00026"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.zopfli.BlockSplitter.split@POLYN162322 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#19"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.zopfli.BlockSplitter.split@POLYN162322 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.zopfli.BlockSplitter.split@POLYN162322 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#20"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.zopfli.BlockSplitter.split@POLYN162322 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.zopfli.BlockSplitter.split@POLYN162322 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#22"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.zopfli.BlockSplitter.split@POLYN162322 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#30"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method splitLz arguments Cookie  cookie|char[]  litLens|char[]  dists|int  llSize"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#30"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00030] The argument cookie is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#33"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#34"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.zopfli.BlockSplitter.split@POLYN162418 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00035"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.zopfli.BlockSplitter.split@POLYN162418 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00036"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.zopfli.BlockSplitter.split@POLYN162418 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00036"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.zopfli.BlockSplitter.split@POLYN162418 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#37"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.zopfli.BlockSplitter.split@POLYN162418 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00040"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#40"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#44"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method net.sourceforge.plantuml.zopfli.BlockSplitter.split@POLYN162418 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#46"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00046] For method splitLz arguments Cookie  cookie|char[]  litLens|char[]  dists|int  llSize"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#46"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00046] The argument cookie is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#51"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#52"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#52"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00054"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#54"
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#59"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#65"
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#66"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#67"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#73"
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#76"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#81"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164022 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#90"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#83"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#85"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00086"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#86"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#89"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#98"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.zopfli.BlockSplitter.splitLz@POLYN164118 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#106"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00090] For method findMinimum arguments Cookie  cookie|char[]  litLens|char[]  dists|int  from|int  to"
+ , "c3" : "QC-JAV000006[00106] For method findMinimum arguments Cookie  cookie|char[]  litLens|char[]  dists|int  from|int  to"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#90"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#106"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00090] The argument cookie is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00106] The argument cookie is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00091"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#91"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168088 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168184 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#93"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168088 the MagicNumber/String  1024 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168184 the MagicNumber/String  1024 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00112"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#112"
+ , "c1" : "00128"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168088 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168184 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#117"
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168088 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168088 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#118"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168088 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#122"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168088 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#123"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168088 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#124"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168088 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168184 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168088 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168184 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168088 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168184 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#135"
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168088 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168184 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#135"
+ , "c1" : "00139"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168088 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168184 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#140"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168184 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#150"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168184 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#150"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168184 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168184 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/BlockSplitter.java.html#151"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.zopfli.BlockSplitter.findMinimum@POLYN168184 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

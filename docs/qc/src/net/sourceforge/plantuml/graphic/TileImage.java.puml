@@ -2,8 +2,8 @@
 !pragma layout smetana
 "AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.TileImage"
 class net.sourceforge.plantuml.graphic.TileImage {
-+TileImage(BufferedImage;ImgValign;int) : TileImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileImage.java.html#19]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileImage.java.html#24]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileImage.java.html#28]]]
++TileImage(BufferedImage;ImgValign;int) : TileImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileImage.java.html#53]]]
++calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileImage.java.html#58]]]
++drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileImage.java.html#62]]]
 } 
 @enduml

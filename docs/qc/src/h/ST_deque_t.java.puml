@@ -2,7 +2,7 @@
 !pragma layout smetana
 "UnsupportedStarStruct" <|-- "h.ST_deque_t"
 class h.ST_deque_t {
-+malloc(int) : boolean [[[./../../.././qc/src/h/ST_deque_t.java.html#12]]]
-+realloc(int) : boolean [[[./../../.././qc/src/h/ST_deque_t.java.html#17]]]
++malloc(int) : boolean [[[./../../.././qc/src/h/ST_deque_t.java.html#56]]]
++realloc(int) : boolean [[[./../../.././qc/src/h/ST_deque_t.java.html#61]]]
 } 
 @enduml

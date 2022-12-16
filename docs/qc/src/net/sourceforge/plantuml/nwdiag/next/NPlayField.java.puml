@@ -2,12 +2,12 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.nwdiag.next.NPlayField"
 class net.sourceforge.plantuml.nwdiag.next.NPlayField {
-+getStage(int) : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#21]]]
-+getLast() : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#28]]]
-+createNewStage() : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#35]]]
-+addInPlayfield(NBar) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#39]]]
-+doLayout() : Map<NBar,Integer> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#50]]]
-+fixGroups(List<NwGroup>;Collection<NServer>) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#70]]]
--fixServerInGroup(NServer;NwGroup) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#77]]]
++getStage(int) : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#54]]]
++getLast() : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#61]]]
++createNewStage() : NStage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#68]]]
++addInPlayfield(NBar) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#72]]]
++doLayout() : Map<NBar,Integer> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#83]]]
++fixGroups(List<NwGroup>;Collection<NServer>) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#103]]]
+-fixServerInGroup(NServer;NwGroup) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#110]]]
 } 
 @enduml

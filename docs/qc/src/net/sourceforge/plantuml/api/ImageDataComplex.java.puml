@@ -2,10 +2,10 @@
 !pragma layout smetana
 "ImageDataAbstract" <|-- "net.sourceforge.plantuml.api.ImageDataComplex"
 class net.sourceforge.plantuml.api.ImageDataComplex {
-+ImageDataComplex(XDimension2D;CMapData;String) : ImageDataComplex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#15]]]
-+ImageDataComplex(XDimension2D;CMapData;String;int) : ImageDataComplex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#21]]]
-+containsCMapData() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#28]]]
-+getCMapData(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#32]]]
-+getWarningOrError() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#36]]]
++ImageDataComplex(XDimension2D;CMapData;String) : ImageDataComplex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#49]]]
++ImageDataComplex(XDimension2D;CMapData;String;int) : ImageDataComplex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#55]]]
++containsCMapData() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#62]]]
++getCMapData(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#66]]]
++getWarningOrError() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataComplex.java.html#70]]]
 } 
 @enduml

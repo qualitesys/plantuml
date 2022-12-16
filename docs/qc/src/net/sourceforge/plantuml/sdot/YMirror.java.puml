@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.sdot.YMirror"
 class net.sourceforge.plantuml.sdot.YMirror {
-+YMirror(double) : YMirror [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sdot/YMirror.java.html#13]]]
-+getMirrored(double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sdot/YMirror.java.html#17]]]
-+getMirrored(XPoint2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sdot/YMirror.java.html#24]]]
-+getMirrored(DotPath) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sdot/YMirror.java.html#29]]]
-+getMirrored(UTranslate) : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sdot/YMirror.java.html#38]]]
++YMirror(double) : YMirror [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sdot/YMirror.java.html#47]]]
++getMirrored(double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sdot/YMirror.java.html#51]]]
++getMirrored(XPoint2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sdot/YMirror.java.html#58]]]
++getMirrored(DotPath) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sdot/YMirror.java.html#63]]]
++getMirrored(UTranslate) : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sdot/YMirror.java.html#72]]]
 } 
 @enduml

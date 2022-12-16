@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00018"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#18"
+ , "c5" : "00026"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#26"
  , "c1" : "DotGeneratorLines"
  , "c2" : "DotGeneratorLines(Projection;int;int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00027"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#27"
+ , "c5" : "00037"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#37"
  , "c1" : "void"
  , "c2" : "generateScanDots()"
  , "c3" : "5"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00050"
- , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#50"
+ , "c5" : "00060"
+ , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#60"
  , "c1" : "void"
  , "c2" : "transformAndAddDot(Coordinate)"
  , "c3" : "3"
@@ -100,45 +100,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#29"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines.generateScanDots@POLYN146934 the MagicNumber/String  4 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#30"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines.generateScanDots@POLYN146934 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00039"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines.generateScanDots@POLYN146934 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines.generateScanDots@POLYN146994 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00040"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines.generateScanDots@POLYN146934 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines.generateScanDots@POLYN146994 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#49"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines.generateScanDots@POLYN146994 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#50"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00050] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines.generateScanDots@POLYN146994 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method transformAndAddDot arguments Coordinate  pPos"
+ , "c3" : "QC-JAV000006[00060] For method transformAndAddDot arguments Coordinate  pPos"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#50"
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#60"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00050] The argument pPos is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00060] The argument pPos is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.command.regex.FoxSignature"
 class net.sourceforge.plantuml.command.regex.FoxSignature {
-+printMe() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#22]]]
--getMask(char) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#31]]]
-+getFoxSignature(String) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#38]]]
-+backToString(long) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#46]]]
++printMe() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#56]]]
+-getMask(char) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#65]]]
++getFoxSignature(String) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#72]]]
++backToString(long) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#80]]]
 } 
 @enduml

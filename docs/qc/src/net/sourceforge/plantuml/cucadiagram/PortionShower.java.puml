@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.PortionShower"
 class net.sourceforge.plantuml.cucadiagram.PortionShower {
-showPortion(EntityPortion;IEntity) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/PortionShower.java.html#6]]]
+showPortion(EntityPortion;IEntity) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/PortionShower.java.html#40]]]
 } 
 @enduml

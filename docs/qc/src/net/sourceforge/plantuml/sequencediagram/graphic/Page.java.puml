@@ -2,18 +2,18 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.Page"
 class net.sourceforge.plantuml.sequencediagram.graphic.Page {
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#16]]]
-+Page(double;double;double;double;double;Display) : Page [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#20]]]
-+getHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#42]]]
-+getHeaderRelativePosition() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#46]]]
-+getBodyRelativePosition() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#50]]]
-+getBodyHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#54]]]
-+getTailRelativePosition() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#58]]]
-+getSignatureRelativePosition() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#62]]]
-+displaySignature() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#69]]]
-+getNewpage1() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#73]]]
-+getNewpage2() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#77]]]
-+getHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#81]]]
-+getTitle() : Display [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#85]]]
++toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#50]]]
++Page(double;double;double;double;double;Display) : Page [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#54]]]
++getHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#76]]]
++getHeaderRelativePosition() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#80]]]
++getBodyRelativePosition() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#84]]]
++getBodyHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#88]]]
++getTailRelativePosition() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#92]]]
++getSignatureRelativePosition() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#96]]]
++displaySignature() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#103]]]
++getNewpage1() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#107]]]
++getNewpage2() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#111]]]
++getHeaderHeight() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#115]]]
++getTitle() : Display [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Page.java.html#119]]]
 } 
 @enduml

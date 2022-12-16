@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "h.ST_pointf" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/h/ST_pointf.java.html#10"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/h/ST_pointf.java.html#54"
  , "c1" : "ST_pointf"
  , "c2" : "pointfof(double;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/h/ST_pointf.java.html#17"
+ , "c5" : "00061"
+ , "c5link" : "././qc/src/h/ST_pointf.java.html#61"
  , "c1" : "ST_pointf"
  , "c2" : "add_pointf(ST_pointf;ST_pointf)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00028"
- , "c5link" : "././qc/src/h/ST_pointf.java.html#28"
+ , "c5" : "00072"
+ , "c5link" : "././qc/src/h/ST_pointf.java.html#72"
  , "c1" : "boolean"
  , "c2" : "isSameThan(__ptr__)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/h/ST_pointf.java.html#33"
+ , "c5" : "00077"
+ , "c5link" : "././qc/src/h/ST_pointf.java.html#77"
  , "c1" : "String"
  , "c2" : "toString()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/h/ST_pointf.java.html#39"
+ , "c5" : "00083"
+ , "c5link" : "././qc/src/h/ST_pointf.java.html#83"
  , "c1" : "ST_pointf"
  , "c2" : "copy()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00047"
- , "c5link" : "././qc/src/h/ST_pointf.java.html#47"
+ , "c5" : "00091"
+ , "c5link" : "././qc/src/h/ST_pointf.java.html#91"
  , "c1" : "void"
  , "c2" : "___(__struct__)"
  , "c3" : "1"
@@ -127,66 +127,66 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00010"
- , "c1link" : "./qc/src/h/ST_pointf.java.html#10"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/h/ST_pointf.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00010] For method pointfof arguments double  x|double  y"
+ , "c3" : "QC-JAV000006[00054] For method pointfof arguments double  x|double  y"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/h/ST_pointf.java.html#17"
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/h/ST_pointf.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method add_pointf arguments ST_pointf  p|ST_pointf  q"
+ , "c3" : "QC-JAV000006[00061] For method add_pointf arguments ST_pointf  p|ST_pointf  q"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00024"
- , "c1link" : "./qc/src/h/ST_pointf.java.html#24"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/h/ST_pointf.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00024] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00068] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/h/ST_pointf.java.html#25"
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/h/ST_pointf.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00025] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00069] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00028"
- , "c1link" : "./qc/src/h/ST_pointf.java.html#28"
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/h/ST_pointf.java.html#72"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00028] For method isSameThan arguments __ptr__  other"
+ , "c3" : "QC-JAV000006[00072] For method isSameThan arguments __ptr__  other"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/h/ST_pointf.java.html#34"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/h/ST_pointf.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method h.ST_pointf.toString@POLYN157660 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method h.ST_pointf.toString@POLYN157924 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/h/ST_pointf.java.html#34"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/h/ST_pointf.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method h.ST_pointf.toString@POLYN157660 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method h.ST_pointf.toString@POLYN157924 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00034"
- , "c1link" : "./qc/src/h/ST_pointf.java.html#34"
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/h/ST_pointf.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method h.ST_pointf.toString@POLYN157660 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method h.ST_pointf.toString@POLYN157924 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/h/ST_pointf.java.html#47"
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/h/ST_pointf.java.html#91"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00047] For method ___ arguments __struct__  other"
+ , "c3" : "QC-JAV000006[00091] For method ___ arguments __struct__  other"
 }} 
 ]
 , 

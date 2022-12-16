@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "ext.plantuml.com.ctreber.aclib.gui.MonitoredObject"
 class ext.plantuml.com.ctreber.aclib.gui.MonitoredObject {
-+addChangeListener(MOChangeListener) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MonitoredObject.java.html#11]]]
-+removeChangeListener(MOChangeListener) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MonitoredObject.java.html#15]]]
-fireValueChanged() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MonitoredObject.java.html#19]]]
-+checkRange() : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MonitoredObject.java.html#28]]]
++addChangeListener(MOChangeListener) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MonitoredObject.java.html#21]]]
++removeChangeListener(MOChangeListener) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MonitoredObject.java.html#25]]]
+fireValueChanged() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MonitoredObject.java.html#29]]]
++checkRange() : boolean [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MonitoredObject.java.html#43]]]
 } 
 @enduml

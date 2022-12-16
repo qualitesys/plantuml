@@ -2,6 +2,6 @@
 !pragma layout smetana
 "Iterator<List<XPoint2D>>" <|-- "net.sourceforge.plantuml.svek.PointListIterator"
 class net.sourceforge.plantuml.svek.PointListIterator {
-+cloneMe() : PointListIterator [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PointListIterator.java.html#11]]]
++cloneMe() : PointListIterator [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/PointListIterator.java.html#45]]]
 } 
 @enduml

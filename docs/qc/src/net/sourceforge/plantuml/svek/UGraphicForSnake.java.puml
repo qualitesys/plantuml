@@ -2,13 +2,13 @@
 !pragma layout smetana
 "UGraphicDelegator" <|-- "net.sourceforge.plantuml.svek.UGraphicForSnake"
 class net.sourceforge.plantuml.svek.UGraphicForSnake {
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#21]]]
-+getTranslation() : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#25]]]
-+UGraphicForSnake(UGraphic) : UGraphicForSnake [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#79]]]
--UGraphicForSnake(UGraphic;double;double;List<PendingSnake>) : UGraphicForSnake [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#83]]]
-+draw(UShape) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#90]]]
--addPendingSnake(Snake) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#99]]]
-+flushUg() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#112]]]
-+apply(UChange) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#120]]]
++toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#55]]]
++getTranslation() : UTranslate [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#59]]]
++UGraphicForSnake(UGraphic) : UGraphicForSnake [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#113]]]
+-UGraphicForSnake(UGraphic;double;double;List<PendingSnake>) : UGraphicForSnake [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#117]]]
++draw(UShape) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#124]]]
+-addPendingSnake(Snake) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#133]]]
++flushUg() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#146]]]
++apply(UChange) : UGraphic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#154]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00056"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#56"
+ , "c5" : "00090"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#90"
  , "c1" : "DrawableSetInitializer"
  , "c2" : "DrawableSetInitializer(Rose;ISkinParam;boolean;double)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00063"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#63"
+ , "c5" : "00097"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#97"
  , "c1" : "boolean"
  , "c2" : "useContinueLineBecauseOfDelay()"
  , "c3" : "5"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00078"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#78"
+ , "c5" : "00112"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#112"
  , "c1" : "ParticipantRange"
  , "c2" : "getFullParticipantRange()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00082"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#82"
+ , "c5" : "00116"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#116"
  , "c1" : "ParticipantRange"
  , "c2" : "getParticipantRange(Event)"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#97"
+ , "c5" : "00131"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#131"
  , "c1" : "DrawableSet"
  , "c2" : "createDrawableSet(StringBounder)"
  , "c3" : "32"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00175"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#175"
+ , "c5" : "00209"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#209"
  , "c1" : "void"
  , "c2" : "takeParticipantEngloberPadding(StringBounder)"
  , "c3" : "3"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00190"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#190"
+ , "c5" : "00224"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#224"
  , "c1" : "void"
  , "c2" : "takeParticipantEngloberTitleWidth(StringBounder)"
  , "c3" : "3"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00207"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#207"
+ , "c5" : "00241"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#241"
  , "c1" : "double"
  , "c2" : "getTotalHeight(double;StringBounder)"
  , "c3" : "1"
@@ -90,8 +90,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00212"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#212"
+ , "c5" : "00246"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#246"
  , "c1" : "double"
  , "c2" : "getYposition(StringBounder;Newpage)"
  , "c3" : "1"
@@ -99,8 +99,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00218"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#218"
+ , "c5" : "00252"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#252"
  , "c1" : "void"
  , "c2" : "prepareMissingSpace(StringBounder)"
  , "c3" : "12"
@@ -108,8 +108,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00267"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#267"
+ , "c5" : "00301"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#301"
  , "c1" : "void"
  , "c2" : "prepareNewpage(StringBounder;Newpage;ParticipantRange)"
  , "c3" : "1"
@@ -117,8 +117,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00275"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#275"
+ , "c5" : "00309"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#309"
  , "c1" : "void"
  , "c2" : "prepareNewpageSpecial(StringBounder;Newpage;Event;ParticipantRange)"
  , "c3" : "1"
@@ -126,8 +126,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00284"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#284"
+ , "c5" : "00318"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#318"
  , "c1" : "void"
  , "c2" : "prepareDivider(StringBounder;Divider;ParticipantRange)"
  , "c3" : "1"
@@ -135,8 +135,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00292"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#292"
+ , "c5" : "00326"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#326"
  , "c1" : "void"
  , "c2" : "prepareHSpace(StringBounder;HSpace;ParticipantRange)"
  , "c3" : "1"
@@ -144,8 +144,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00298"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#298"
+ , "c5" : "00332"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#332"
  , "c1" : "void"
  , "c2" : "prepareDelay(StringBounder;Delay;List<ParticipantBox>;ParticipantRange)"
  , "c3" : "2"
@@ -153,8 +153,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00315"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#315"
+ , "c5" : "00349"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#349"
  , "c1" : "void"
  , "c2" : "prepareGroupingStart(StringBounder;GroupingStart;ParticipantRange)"
  , "c3" : "3"
@@ -162,8 +162,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00345"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#345"
+ , "c5" : "00379"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#379"
  , "c1" : "void"
  , "c2" : "prepareGroupingLeaf(StringBounder;GroupingLeaf;ParticipantRange)"
  , "c3" : "10"
@@ -171,8 +171,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00402"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#402"
+ , "c5" : "00436"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#436"
  , "c1" : "void"
  , "c2" : "prepareNote(StringBounder;Note;ParticipantRange)"
  , "c3" : "1"
@@ -180,8 +180,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00410"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#410"
+ , "c5" : "00444"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#444"
  , "c1" : "NoteBox"
  , "c2" : "createNoteBox(StringBounder;Note;ParticipantRange)"
  , "c3" : "7"
@@ -189,8 +189,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00439"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#439"
+ , "c5" : "00473"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#473"
  , "c1" : "void"
  , "c2" : "prepareNotes(StringBounder;Notes;ParticipantRange)"
  , "c3" : "2"
@@ -198,8 +198,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00455"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#455"
+ , "c5" : "00489"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#489"
  , "c1" : "void"
  , "c2" : "prepareLiveEvent(StringBounder;LifeEvent;ParticipantRange)"
  , "c3" : "14"
@@ -207,8 +207,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00505"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#505"
+ , "c5" : "00539"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#539"
  , "c1" : "void"
  , "c2" : "prepareMessageExo(StringBounder;MessageExo;ParticipantRange)"
  , "c3" : "1"
@@ -216,8 +216,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00510"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#510"
+ , "c5" : "00544"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#544"
  , "c1" : "void"
  , "c2" : "prepareMessage(StringBounder;Message;ParticipantRange)"
  , "c3" : "1"
@@ -225,8 +225,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00515"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#515"
+ , "c5" : "00549"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#549"
  , "c1" : "void"
  , "c2" : "prepareReference(StringBounder;Reference;ParticipantRange)"
  , "c3" : "4"
@@ -234,8 +234,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00553"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#553"
+ , "c5" : "00587"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#587"
  , "c1" : "void"
  , "c2" : "prepareParticipant(StringBounder;Participant)"
  , "c3" : "17"
@@ -243,8 +243,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00611"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#611"
+ , "c5" : "00645"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#645"
  , "c1" : "void"
  , "c2" : "addParticipant(Participant;ParticipantEnglober)"
  , "c3" : "1"
@@ -252,8 +252,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00615"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#615"
+ , "c5" : "00649"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#649"
  , "c1" : "void"
  , "c2" : "addEvent(Event)"
  , "c3" : "1"
@@ -330,192 +330,80 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00072"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#72"
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00072] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00106] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#64"
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.useContinueLineBecauseOfDelay@POLYN267392 the MagicNumber/String  'lifelineStrategy' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.useContinueLineBecauseOfDelay@POLYN267596 the MagicNumber/String  'lifelineStrategy' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#65"
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.useContinueLineBecauseOfDelay@POLYN267392 the MagicNumber/String  'nosolid' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.useContinueLineBecauseOfDelay@POLYN267596 the MagicNumber/String  'nosolid' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#66"
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.useContinueLineBecauseOfDelay@POLYN267392 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.useContinueLineBecauseOfDelay@POLYN267596 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#68"
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.useContinueLineBecauseOfDelay@POLYN267392 the MagicNumber/String  'solid' should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.useContinueLineBecauseOfDelay@POLYN267596 the MagicNumber/String  'solid' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00069"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#69"
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.useContinueLineBecauseOfDelay@POLYN267392 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.useContinueLineBecauseOfDelay@POLYN267596 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#73"
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.useContinueLineBecauseOfDelay@POLYN267392 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.useContinueLineBecauseOfDelay@POLYN267596 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00075"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#75"
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.useContinueLineBecauseOfDelay@POLYN267392 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.useContinueLineBecauseOfDelay@POLYN267596 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00079"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#79"
+ , "c1" : "00113"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.getFullParticipantRange@POLYN268063 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.getFullParticipantRange@POLYN268267 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#82"
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#116"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method getParticipantRange arguments Event  ev"
+ , "c3" : "QC-JAV000006[00116] For method getParticipantRange arguments Event  ev"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#97"
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#131"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method createDrawableSet arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#115"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00115] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00129"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#129"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00129] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00135"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#135"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00135] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#136"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00136] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00137"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#137"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00137] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00138"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#138"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00138] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#139"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00139] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00140"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#140"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00140] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#141"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00141] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00142"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#142"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00142] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00143"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#143"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00143] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#144"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00144] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00145"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#145"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00145] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#146"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00146] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00147"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#147"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00147] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#148"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00148] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000006[00131] For method createDrawableSet arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -526,115 +414,94 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#150"
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00150] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00163] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#151"
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00151] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00169] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#152"
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00152] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00170] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00153"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#153"
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00153] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00171] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#154"
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00154] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00172] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#155"
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00155] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00173] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#156"
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00156] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#157"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00157] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#158"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00158] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#98"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createDrawableSet@POLYN268371 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#116"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createDrawableSet@POLYN268371 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createDrawableSet@POLYN268371 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createDrawableSet@POLYN268371 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#132"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createDrawableSet@POLYN268371 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#133"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createDrawableSet@POLYN268371 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00174] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#175"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00175] For method takeParticipantEngloberPadding arguments StringBounder  stringBounder"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00175] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00176"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#176"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00176] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#177"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00177] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#178"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00178] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#179"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00179] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#180"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00180] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -645,6 +512,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#182"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00182] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#183"
  , "c2" : "MAJOR"
@@ -652,787 +526,913 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00177"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#177"
+ , "c1" : "00184"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.takeParticipantEngloberPadding@POLYN273699 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000001[00184] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.takeParticipantEngloberPadding@POLYN273699 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000001[00185] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.takeParticipantEngloberPadding@POLYN273699 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000001[00186] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#187"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00187] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#188"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00188] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00189"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#189"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00189] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#190"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00190] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#191"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00191] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#192"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00192] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#132"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createDrawableSet@POLYN268575 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#150"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createDrawableSet@POLYN268575 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#166"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createDrawableSet@POLYN268575 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#166"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createDrawableSet@POLYN268575 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#166"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createDrawableSet@POLYN268575 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#167"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createDrawableSet@POLYN268575 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#209"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00190] For method takeParticipantEngloberTitleWidth arguments StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00209] For method takeParticipantEngloberPadding arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00193"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#193"
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00193] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00215] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#195"
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00195] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00217] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00200"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#200"
+ , "c1" : "00211"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#211"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.takeParticipantEngloberTitleWidth@POLYN274589 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.takeParticipantEngloberPadding@POLYN273903 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#201"
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#219"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.takeParticipantEngloberTitleWidth@POLYN274589 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.takeParticipantEngloberPadding@POLYN273903 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#201"
+ , "c1" : "00220"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#220"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.takeParticipantEngloberTitleWidth@POLYN274589 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.takeParticipantEngloberPadding@POLYN273903 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#202"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.takeParticipantEngloberTitleWidth@POLYN274589 the MagicNumber/String  2 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#202"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.takeParticipantEngloberTitleWidth@POLYN274589 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#207"
+ , "c1" : "00224"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#224"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00207] For method getTotalHeight arguments double  y|StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00208"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#208"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.getTotalHeight@POLYN275879 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00212"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#212"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00212] For method getYposition arguments StringBounder  stringBounder|Newpage  newpage"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00218"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#218"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00218] For method prepareMissingSpace arguments StringBounder  stringBounder"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#225"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00225] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00238"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#238"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00238] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00239"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#239"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00239] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00239"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#239"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00239] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00243"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#243"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00243] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#244"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00244] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#244"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00244] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00249"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#249"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00249] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00250"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#250"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00250] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00250"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#250"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00250] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00221"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#221"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareMissingSpace@POLYN276481 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00222"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#222"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareMissingSpace@POLYN276481 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000006[00224] For method takeParticipantEngloberTitleWidth arguments StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareMissingSpace@POLYN276481 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00228"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#228"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareMissingSpace@POLYN276481 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000001[00227] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareMissingSpace@POLYN276481 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000001[00229] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00234"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#234"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.takeParticipantEngloberTitleWidth@POLYN274793 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00235"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#235"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.takeParticipantEngloberTitleWidth@POLYN274793 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00235"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#235"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.takeParticipantEngloberTitleWidth@POLYN274793 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#236"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.takeParticipantEngloberTitleWidth@POLYN274793 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#236"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.takeParticipantEngloberTitleWidth@POLYN274793 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#241"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00241] For method getTotalHeight arguments double  y|StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00242"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#242"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.getTotalHeight@POLYN276083 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00246"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#246"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00246] For method getYposition arguments StringBounder  stringBounder|Newpage  newpage"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00252"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#252"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00252] For method prepareMissingSpace arguments StringBounder  stringBounder"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#259"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00259] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00272"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#272"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00272] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00273"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#273"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00273] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00273"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#273"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00273] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00277"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#277"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00277] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00278"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#278"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00278] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00278"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#278"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00278] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00283"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#283"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00283] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00284"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#284"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00284] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00284"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#284"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00284] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#255"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareMissingSpace@POLYN276685 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#256"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareMissingSpace@POLYN276685 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00261"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#261"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareMissingSpace@POLYN276481 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareMissingSpace@POLYN276685 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00267"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#267"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00267] For method prepareNewpage arguments StringBounder  stringBounder|Newpage  newpage|ParticipantRange  range"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00275"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#275"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00275] For method prepareNewpageSpecial arguments StringBounder  stringBounder|Newpage  newpage|Event  justBefore|ParticipantRange  range"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00284"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#284"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00284] For method prepareDivider arguments StringBounder  stringBounder|Divider  divider|ParticipantRange  range"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00284"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#284"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00284] The argument divider is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00286"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#286"
+ , "c1" : "00262"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#262"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareDivider@POLYN280516 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareMissingSpace@POLYN276685 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00292"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#292"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00292] For method prepareHSpace arguments StringBounder  stringBounder|HSpace  hspace|ParticipantRange  range"
+ , "c1" : "00263"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#263"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00263] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareMissingSpace@POLYN276685 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00292"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#292"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00292] The argument hspace is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00298"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#298"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00298] For method prepareDelay arguments StringBounder  stringBounder|Delay  delay|List&lt;ParticipantBox &gt;  participants|ParticipantRange  range"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00298"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#298"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00298] The argument delay is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00298"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#298"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00298] The argument participants is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#295"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareMissingSpace@POLYN276685 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00301"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#301"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareDelay@POLYN281791 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00302"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#302"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareDelay@POLYN281791 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00303"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#303"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareDelay@POLYN281791 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00315"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#315"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00315] For method prepareGroupingStart arguments StringBounder  stringBounder|GroupingStart  start|ParticipantRange  range"
+ , "c3" : "QC-JAV000006[00301] For method prepareNewpage arguments StringBounder  stringBounder|Newpage  newpage|ParticipantRange  range"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00315"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#315"
+ , "c1" : "00309"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#309"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00309] For method prepareNewpageSpecial arguments StringBounder  stringBounder|Newpage  newpage|Event  justBefore|ParticipantRange  range"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00318"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#318"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00318] For method prepareDivider arguments StringBounder  stringBounder|Divider  divider|ParticipantRange  range"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00318"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#318"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00315] The argument start is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00318] The argument divider is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00322"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#322"
+ , "c1" : "00320"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#320"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00322] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingStart@POLYN283141 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareDivider@POLYN280720 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00322"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#322"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00322] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingStart@POLYN283141 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00327"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#327"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00327] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingStart@POLYN283141 the MagicNumber/String  'group' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00330"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#330"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00330] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingStart@POLYN283141 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00345"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#345"
+ , "c1" : "00326"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#326"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00345] For method prepareGroupingLeaf arguments StringBounder  stringBounder|GroupingLeaf  m|ParticipantRange  range"
+ , "c3" : "QC-JAV000006[00326] For method prepareHSpace arguments StringBounder  stringBounder|HSpace  hspace|ParticipantRange  range"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00373"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#373"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00373] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00374"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#374"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00374] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00347"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#347"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00347] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingLeaf@POLYN285727 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00354"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#354"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00354] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingLeaf@POLYN285727 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00358"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#358"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00358] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingLeaf@POLYN285727 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00359"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#359"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00359] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingLeaf@POLYN285727 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00384"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#384"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00384] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingLeaf@POLYN285727 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00390"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#390"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00390] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingLeaf@POLYN285727 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00390"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#390"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00390] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingLeaf@POLYN285727 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00402"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#402"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00402] For method prepareNote arguments StringBounder  stringBounder|Note  n|ParticipantRange  range"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00410"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#410"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00410] For method createNoteBox arguments StringBounder  stringBounder|Note  n|ParticipantRange  range"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00413"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#413"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00413] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createNoteBox@POLYN290466 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00414"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#414"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00414] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createNoteBox@POLYN290466 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00425"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#425"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00425] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createNoteBox@POLYN290466 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00425"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#425"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00425] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createNoteBox@POLYN290466 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00427"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#427"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00427] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createNoteBox@POLYN290466 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00439"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#439"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00439] For method prepareNotes arguments StringBounder  stringBounder|Notes  notes|ParticipantRange  range"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00442"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#442"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00442] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00443"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#443"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00443] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00444"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#444"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00444] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00444"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#444"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00444] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareNotes@POLYN292567 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00444"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#444"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00444] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareNotes@POLYN292567 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00455"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#455"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00455] For method prepareLiveEvent arguments StringBounder  stringBounder|LifeEvent  lifeEvent|ParticipantRange  range"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00455"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#455"
+ , "c1" : "00326"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#326"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00455] The argument lifeEvent is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00326] The argument hspace is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00471"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#471"
+ , "c1" : "00332"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#332"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00332] For method prepareDelay arguments StringBounder  stringBounder|Delay  delay|List&lt;ParticipantBox &gt;  participants|ParticipantRange  range"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00332"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#332"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00332] The argument delay is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00332"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#332"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00332] The argument participants is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00335"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#335"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000021[00471] The same method call lifeEvent.getType() is used several times, should be optimized "
+ , "c3" : "QC-JAV000010[00335] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareDelay@POLYN281995 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00336"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#336"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareDelay@POLYN281995 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00337"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#337"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareDelay@POLYN281995 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00349"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#349"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00349] For method prepareGroupingStart arguments StringBounder  stringBounder|GroupingStart  start|ParticipantRange  range"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00349"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#349"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00349] The argument start is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00356"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#356"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00356] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingStart@POLYN283345 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00356"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#356"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00356] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingStart@POLYN283345 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00361"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#361"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00361] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingStart@POLYN283345 the MagicNumber/String  'group' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00364"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#364"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00364] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingStart@POLYN283345 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00379"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#379"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00379] For method prepareGroupingLeaf arguments StringBounder  stringBounder|GroupingLeaf  m|ParticipantRange  range"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00407"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#407"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00407] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00408"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#408"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00408] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00381"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#381"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00381] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingLeaf@POLYN285931 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00388"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#388"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00388] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingLeaf@POLYN285931 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00392"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#392"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00392] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingLeaf@POLYN285931 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00393"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#393"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00393] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingLeaf@POLYN285931 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00418"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#418"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00418] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingLeaf@POLYN285931 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00424"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#424"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00424] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingLeaf@POLYN285931 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00424"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#424"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00424] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareGroupingLeaf@POLYN285931 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00436"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#436"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00436] For method prepareNote arguments StringBounder  stringBounder|Note  n|ParticipantRange  range"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00444"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#444"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00444] For method createNoteBox arguments StringBounder  stringBounder|Note  n|ParticipantRange  range"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00447"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#447"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00447] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createNoteBox@POLYN290670 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00448"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#448"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00448] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createNoteBox@POLYN290670 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00459"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#459"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00459] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN293923 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00459] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createNoteBox@POLYN290670 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00460"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#460"
+ , "c1" : "00459"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#459"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00460] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN293923 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00459] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createNoteBox@POLYN290670 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00461"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#461"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00461] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN293923 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00463"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#463"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00463] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN293923 the MagicNumber/String  10 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00465"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#465"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00465] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN293923 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00472"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#472"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00472] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN293923 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00461] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.createNoteBox@POLYN290670 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00473"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#473"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00473] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN293923 the MagicNumber/String  null should be converted to const"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00473] For method prepareNotes arguments StringBounder  stringBounder|Notes  notes|ParticipantRange  range"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00474"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#474"
+ , "c1" : "00476"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#476"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00474] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN293923 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000001[00476] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00479"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#479"
+ , "c1" : "00477"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#477"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00479] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN293923 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00477] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00486"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#486"
+ , "c1" : "00478"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#478"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00486] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN293923 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000001[00478] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00486"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#486"
+ , "c1" : "00478"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#478"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00486] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN293923 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00478] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareNotes@POLYN292771 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00487"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#487"
+ , "c1" : "00478"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#478"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00487] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN293923 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00478] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareNotes@POLYN292771 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00488"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#488"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00488] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN293923 the MagicNumber/String  2 should be converted to const"
+ , "c1" : "00489"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#489"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00489] For method prepareLiveEvent arguments StringBounder  stringBounder|LifeEvent  lifeEvent|ParticipantRange  range"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00492"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#492"
- , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00492] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN293923 the MagicNumber/String  null should be converted to const"
+ , "c1" : "00489"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#489"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE476[00489] The argument lifeEvent is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00505"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#505"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00505] For method prepareMessageExo arguments StringBounder  stringBounder|MessageExo  m|ParticipantRange  range"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000021[00505] The same method call lifeEvent.getType() is used several times, should be optimized "
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00510"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#510"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00510] For method prepareMessage arguments StringBounder  stringBounder|Message  m|ParticipantRange  range"
+ , "c1" : "00493"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#493"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00493] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN294127 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00515"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#515"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00515] For method prepareReference arguments StringBounder  stringBounder|Reference  reference|ParticipantRange  range"
+ , "c1" : "00494"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#494"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00494] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN294127 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00515"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#515"
+ , "c1" : "00495"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#495"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00495] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN294127 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00497"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#497"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00497] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN294127 the MagicNumber/String  10 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00499"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#499"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00499] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN294127 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00506"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#506"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00506] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN294127 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00507"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#507"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00507] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN294127 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00508"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#508"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00508] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN294127 the MagicNumber/String  7 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00513"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#513"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00513] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN294127 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00520"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#520"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00520] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN294127 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00520"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#520"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00520] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN294127 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00521"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#521"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00521] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN294127 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00522"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#522"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00522] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN294127 the MagicNumber/String  2 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00526"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#526"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000010[00526] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareLiveEvent@POLYN294127 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00539"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#539"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00539] For method prepareMessageExo arguments StringBounder  stringBounder|MessageExo  m|ParticipantRange  range"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00544"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#544"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00544] For method prepareMessage arguments StringBounder  stringBounder|Message  m|ParticipantRange  range"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00549"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#549"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000006[00549] For method prepareReference arguments StringBounder  stringBounder|Reference  reference|ParticipantRange  range"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00549"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#549"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00515] The argument reference is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00549] The argument reference is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00524"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#524"
+ , "c1" : "00558"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#558"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00524] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareReference@POLYN298333 the MagicNumber/String  'ref' should be converted to const"
+ , "c3" : "QC-JAV000010[00558] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareReference@POLYN298537 the MagicNumber/String  'ref' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00527"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#527"
+ , "c1" : "00561"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#561"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00527] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareReference@POLYN298333 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00561] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareReference@POLYN298537 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00534"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#534"
+ , "c1" : "00568"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#568"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00534] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareReference@POLYN298333 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00568] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareReference@POLYN298537 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00534"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#534"
+ , "c1" : "00568"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#568"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00534] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareReference@POLYN298333 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00568] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareReference@POLYN298537 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00553"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#553"
+ , "c1" : "00587"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#587"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00553] For method prepareParticipant arguments StringBounder  stringBounder|Participant  p"
+ , "c3" : "QC-JAV000006[00587] For method prepareParticipant arguments StringBounder  stringBounder|Participant  p"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00586"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#586"
+ , "c1" : "00620"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#620"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00586] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301044 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00620] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301248 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00588"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#588"
+ , "c1" : "00622"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#622"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00588] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301044 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00622] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301248 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00592"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#592"
+ , "c1" : "00626"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#626"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00592] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301044 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00626] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301248 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00594"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#594"
+ , "c1" : "00628"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#628"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00594] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301044 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00628] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301248 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00594"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#594"
+ , "c1" : "00628"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#628"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00594] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301044 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00628] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301248 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00597"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#597"
+ , "c1" : "00631"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#631"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00597] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301044 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00631] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301248 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00597"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#597"
+ , "c1" : "00631"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#631"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00597] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301044 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00631] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301248 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00597"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#597"
+ , "c1" : "00631"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#631"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00597] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301044 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00631] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301248 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00602"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#602"
+ , "c1" : "00636"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#636"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00602] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301044 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00636] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301248 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00602"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#602"
+ , "c1" : "00636"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#636"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00602] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301044 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00636] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.prepareParticipant@POLYN301248 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00611"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#611"
+ , "c1" : "00645"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#645"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00611] For method addParticipant arguments Participant  p|ParticipantEnglober  participantEnglober"
+ , "c3" : "QC-JAV000006[00645] For method addParticipant arguments Participant  p|ParticipantEnglober  participantEnglober"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00615"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#615"
+ , "c1" : "00649"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#649"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00615] For method addEvent arguments Event  event"
+ , "c3" : "QC-JAV000006[00649] For method addEvent arguments Event  event"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00616"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#616"
+ , "c1" : "00650"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#650"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00616] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.addEvent@POLYN305850 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00650] In method net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer.addEvent@POLYN306054 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

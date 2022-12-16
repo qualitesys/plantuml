@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.xmi.CucaDiagramXmiMaker" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00024"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#24"
+ , "c5" : "00058"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#58"
  , "c1" : "CucaDiagramXmiMaker"
  , "c2" : "CucaDiagramXmiMaker(CucaDiagram;FileFormat)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00029"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#29"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#63"
  , "c1" : "String"
  , "c2" : "getModel(UmlDiagram)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00033"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#33"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#67"
  , "c1" : "void"
  , "c2" : "createFiles(OutputStream)"
  , "c3" : "11"
@@ -100,31 +100,31 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00029] For method getModel arguments UmlDiagram  classDiagram"
+ , "c3" : "QC-JAV000006[00063] For method getModel arguments UmlDiagram  classDiagram"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#30"
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.xmi.CucaDiagramXmiMaker.getModel@POLYN153976 the MagicNumber/String  'model1' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.xmi.CucaDiagramXmiMaker.getModel@POLYN154180 the MagicNumber/String  'model1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#33"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00033] For method createFiles arguments OutputStream  fos"
+ , "c3" : "QC-JAV000006[00067] For method createFiles arguments OutputStream  fos"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00029"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#29"
+ , "c1" : "00063"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/CucaDiagramXmiMaker.java.html#63"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000003[00029] Public method getModel is dealing with none of the public properties of the class. Risk of useless strong coupling"
+ , "c3" : "QC-JAV000003[00063] Public method getModel is dealing with none of the public properties of the class. Risk of useless strong coupling"
 }} 
 ]
 , 

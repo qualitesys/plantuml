@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<AbstractPSystem>" <|-- "net.sourceforge.plantuml.command.CommandScaleWidthOrHeight"
 class net.sourceforge.plantuml.command.CommandScaleWidthOrHeight {
-+CommandScaleWidthOrHeight() : CommandScaleWidthOrHeight [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#15]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#19]]]
-executeArg(AbstractPSystem;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#29]]]
++CommandScaleWidthOrHeight() : CommandScaleWidthOrHeight [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#49]]]
+getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#53]]]
+executeArg(AbstractPSystem;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandScaleWidthOrHeight.java.html#63]]]
 } 
 @enduml

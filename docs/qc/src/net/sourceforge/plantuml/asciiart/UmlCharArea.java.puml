@@ -2,12 +2,12 @@
 !pragma layout smetana
 "BasicCharArea" <|-- "net.sourceforge.plantuml.asciiart.UmlCharArea"
 class net.sourceforge.plantuml.asciiart.UmlCharArea {
-drawBoxSimple(int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#8]]]
-drawBoxSimpleUnicode(int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#10]]]
-drawNoteSimple(int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#12]]]
-drawNoteSimpleUnicode(int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#14]]]
-drawShape(AsciiShape;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#16]]]
-drawStringsLRSimple(Collection<?extendsCharSequence>;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#18]]]
-drawStringsLRUnicode(Collection<?extendsCharSequence>;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#20]]]
+drawBoxSimple(int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#42]]]
+drawBoxSimpleUnicode(int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#44]]]
+drawNoteSimple(int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#46]]]
+drawNoteSimpleUnicode(int;int;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#48]]]
+drawShape(AsciiShape;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#50]]]
+drawStringsLRSimple(Collection<?extendsCharSequence>;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#52]]]
+drawStringsLRUnicode(Collection<?extendsCharSequence>;int;int) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#54]]]
 } 
 @enduml

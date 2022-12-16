@@ -2,8 +2,8 @@
 !pragma layout smetana
 "SingleLineCommand2<CucaDiagram>" <|-- "net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator"
 class net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator {
-+CommandNamespaceSeparator() : CommandNamespaceSeparator [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandNamespaceSeparator.java.html#16]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandNamespaceSeparator.java.html#20]]]
-executeArg(CucaDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandNamespaceSeparator.java.html#33]]]
++CommandNamespaceSeparator() : CommandNamespaceSeparator [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandNamespaceSeparator.java.html#50]]]
+getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandNamespaceSeparator.java.html#54]]]
+executeArg(CucaDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandNamespaceSeparator.java.html#67]]]
 } 
 @enduml

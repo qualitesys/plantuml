@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.nwdiag.next.Staged" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00006"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.html#6"
+ , "c5" : "00039"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.html#39"
  , "c1" : "NStage"
  , "c2" : "getStart()"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.html#8"
+ , "c5" : "00041"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.html#41"
  , "c1" : "NStage"
  , "c2" : "getEnd()"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.html#10"
+ , "c5" : "00043"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.html#43"
  , "c1" : "int"
  , "c2" : "getNWidth()"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00012"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.html#12"
+ , "c5" : "00045"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.html#45"
  , "c1" : "boolean"
  , "c2" : "contains(NStage)"
  , "c3" : "1"

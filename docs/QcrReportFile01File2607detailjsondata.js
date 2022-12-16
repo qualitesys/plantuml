@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.ugraphic.UShapeIgnorableForCompression" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00008"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UShapeIgnorableForCompression.java.html#8"
+ , "c5" : "00042"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UShapeIgnorableForCompression.java.html#42"
  , "c1" : "boolean"
  , "c2" : "isIgnoreForCompressionOn(CompressionMode)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00010"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UShapeIgnorableForCompression.java.html#10"
+ , "c5" : "00044"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UShapeIgnorableForCompression.java.html#44"
  , "c1" : "void"
  , "c2" : "drawWhenCompressed(UGraphic;CompressionMode)"
  , "c3" : "1"

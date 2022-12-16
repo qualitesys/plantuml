@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.security.authentication.oauth.OAuth2AccessInterceptor" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00013"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#13"
+ , "c5" : "00051"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#51"
  , "c1" : "void"
  , "c2" : "apply(SecurityAuthentication;URLConnection)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00017"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#17"
+ , "c5" : "00055"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#55"
  , "c1" : "String"
  , "c2" : "getAuth(SecurityAuthentication)"
  , "c3" : "1"
@@ -91,45 +91,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#13"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#51"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00013] For method apply arguments SecurityAuthentication  authentication|URLConnection  connection"
+ , "c3" : "QC-JAV000006[00051] For method apply arguments SecurityAuthentication  authentication|URLConnection  connection"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00013"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#13"
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#51"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00013] The argument connection is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00051] The argument connection is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#14"
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2AccessInterceptor.apply@POLYN148647 the MagicNumber/String  'Authorization' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2AccessInterceptor.apply@POLYN148875 the MagicNumber/String  'Authorization' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#17"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00017] For method getAuth arguments SecurityAuthentication  authentication"
+ , "c3" : "QC-JAV000006[00055] For method getAuth arguments SecurityAuthentication  authentication"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00017"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#17"
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#55"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00017] The argument authentication is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00055] The argument authentication is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#20"
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2AccessInterceptor.getAuth@POLYN148869 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2AccessInterceptor.getAuth@POLYN149097 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ]
 , 

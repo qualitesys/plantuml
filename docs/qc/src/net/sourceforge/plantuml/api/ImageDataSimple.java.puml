@@ -2,14 +2,14 @@
 !pragma layout smetana
 "ImageDataAbstract" <|-- "net.sourceforge.plantuml.api.ImageDataSimple"
 class net.sourceforge.plantuml.api.ImageDataSimple {
-+ImageDataSimple(int;int) : ImageDataSimple [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#11]]]
-+ImageDataSimple(XDimension2D) : ImageDataSimple [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#16]]]
-+ImageDataSimple(XDimension2D;int) : ImageDataSimple [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#20]]]
--ImageDataSimple() : ImageDataSimple [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#26]]]
-+containsCMapData() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#30]]]
-+getCMapData(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#34]]]
-+getWarningOrError() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#38]]]
-+error() : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#42]]]
-+ok() : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#48]]]
++ImageDataSimple(int;int) : ImageDataSimple [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#45]]]
++ImageDataSimple(XDimension2D) : ImageDataSimple [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#50]]]
++ImageDataSimple(XDimension2D;int) : ImageDataSimple [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#54]]]
+-ImageDataSimple() : ImageDataSimple [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#60]]]
++containsCMapData() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#64]]]
++getCMapData(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#68]]]
++getWarningOrError() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#72]]]
++error() : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#76]]]
++ok() : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#82]]]
 } 
 @enduml

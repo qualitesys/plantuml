@@ -2,19 +2,19 @@
 !pragma layout smetana
 "Bodier" <|-- "net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject"
 class net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject {
-+muteClassToObject() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#34]]]
-BodierLikeClassOrObject(LeafType;Set<VisibilityModifier>) : BodierLikeClassOrObject [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#40]]]
-+setLeaf(ILeaf) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#50]]]
-+addFieldOrMethod(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#56]]]
--isBodyEnhanced() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#64]]]
--isMethod(CharSequence) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#73]]]
-+getMethodsToDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#85]]]
--isMethod(int;List<CharSequence>) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#106]]]
-+getFieldsToDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#115]]]
--removeFinalEmptyMembers(List<Member>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#135]]]
-+hasUrl() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#142]]]
--rawBodyWithoutHidden() : List<CharSequence> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#161]]]
-+getBody(ISkinParam;boolean;boolean;Stereotype;Style;FontConfiguration) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#178]]]
-+getRawBody() : List<CharSequence> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#219]]]
++muteClassToObject() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#68]]]
+BodierLikeClassOrObject(LeafType;Set<VisibilityModifier>) : BodierLikeClassOrObject [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#74]]]
++setLeaf(ILeaf) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#84]]]
++addFieldOrMethod(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#90]]]
+-isBodyEnhanced() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#98]]]
+-isMethod(CharSequence) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#107]]]
++getMethodsToDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#119]]]
+-isMethod(int;List<CharSequence>) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#140]]]
++getFieldsToDisplay() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#149]]]
+-removeFinalEmptyMembers(List<Member>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#169]]]
++hasUrl() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#176]]]
+-rawBodyWithoutHidden() : List<CharSequence> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#195]]]
++getBody(ISkinParam;boolean;boolean;Stereotype;Style;FontConfiguration) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#212]]]
++getRawBody() : List<CharSequence> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#253]]]
 } 
 @enduml
