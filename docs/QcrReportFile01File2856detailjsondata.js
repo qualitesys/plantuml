@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/debug/Purify.java.html" 
- , "texte" : "File src/smetana/core/debug/Purify.java 65 rule violations " 
+ , "texte" : "File src/smetana/core/debug/Purify.java 68 rule violations " 
  , "fic2"  : "./qc/src/smetana/core/debug/Purify.java.xml" 
  , "fic3"  : "" 
 }
@@ -183,7 +183,36 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+{ "ligne" :  "R0:smetana.core.debug.Purify.this" }
+,
+{ "ligne" :  "R1:smetana.core.debug.Purify.entering@POLYN173407.signature" }
+,
+{ "ligne" :  "R2:smetana.core.debug.Purify.entering@POLYN173407.methodNameDeclared" }
+]
+,
+"data12b" : [
+{ "sequence" : { "noseq" : "0" , "pas" : [
+{ "ligne" : "S0:smetana.core.debug.Purify.entering@POLYN173407 (R0 in line [00077],R1 in line [00077],R2 in line [00077])" }
+,
+{ "ligne" : "S0:smetana.core.debug.Purify.recordMe@POLYN175365 (R0 in line [00111])" }
+,
+{ "ligne" : "S0:smetana.core.debug.Purify.getTheMethod@POLYN177457 (R0 in line [00146])" }
+ ]
+ } }
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVCWE833"
+ , "c3" : "Potential deadlock between at least two ressources"
+ , "c4" : "3"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV000003"
@@ -688,6 +717,27 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#163"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00163] Public method printMe is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R0 : smetana.core.debug.Purify.this"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R1 : smetana.core.debug.Purify.entering@POLYN173407.signature"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R2 : smetana.core.debug.Purify.entering@POLYN173407.methodNameDeclared"
 }} 
 ]
 , 

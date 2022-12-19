@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.zopfli.Options" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00038"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/Options.java.html#38"
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/Options.java.html#36"
  , "c1" : "Options"
  , "c2" : "Options(OutputFormat;BlockSplitting;int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00045"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/Options.java.html#45"
+ , "c5" : "00036"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/Options.java.html#36"
  , "c1" : "Options"
  , "c2" : "Options()"
  , "c3" : "1"
@@ -77,10 +77,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Options.java.html#46"
+ , "c1" : "00036"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Options.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.zopfli.Options.Options@POLYN141929 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.zopfli.Options.Options@POLYN141719 the MagicNumber/String  15 should be converted to const"
 }} 
 ]
 , 

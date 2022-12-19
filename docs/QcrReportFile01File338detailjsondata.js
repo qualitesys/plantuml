@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/util/ConfigParameters.java.html" 
- , "texte" : "File src/jcckit/util/ConfigParameters.java 51 rule violations " 
+ , "texte" : "File src/jcckit/util/ConfigParameters.java 60 rule violations " 
  , "fic2"  : "./qc/src/jcckit/util/ConfigParameters.java.xml" 
  , "fic3"  : "" 
 }
@@ -246,6 +246,15 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
@@ -255,10 +264,24 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -273,6 +296,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "21"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "7"
 }}
  ] 
 ,
@@ -292,6 +322,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#72"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00072] For method get list of called methods Object monObjet|java.lang.String _configData_getN209236"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#74"
  , "c2" : "MAJOR"
@@ -303,6 +340,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#87"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00087] For method get arguments String  key|String  defaultValue"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#87"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00087] For method get list of called methods Object monObjet|java.lang.String _configData_getN209910"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -324,6 +368,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#114"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00114] For method getBoolean arguments String  key|boolean  defaultValue"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#114"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00114] For method getBoolean list of called methods Object monObjet|java.lang.String _configData_getN211114"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -425,6 +476,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#168"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00168] For method getInt list of called methods Object monObjet|java.lang.String _configData_getN213560"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#170"
  , "c2" : "MAJOR"
@@ -460,6 +518,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#204"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00204] For method getDouble list of called methods Object monObjet|java.lang.String _configData_getN215143"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#206"
  , "c2" : "MAJOR"
@@ -492,6 +557,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#243"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00243] For method getDoubleArray arguments String  key|double[]  defaultValue"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00243"
+ , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#243"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00243] For method getDoubleArray list of called methods Object monObjet|java.lang.String _configData_getN216820"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -534,6 +606,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#291"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00291] For method getColor arguments String  key|Color  defaultValue"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00291"
+ , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#291"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00291] For method getColor list of called methods Object monObjet|java.lang.String _configData_getN219231"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -632,6 +711,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#273"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00273] Public method getColor is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.util.ConfigParameters.get@POLYN209788"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#89"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00089] In the recursive method jcckit.util.ConfigParameters.get@POLYN209788 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ]
 , 

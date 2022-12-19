@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.zopfli.Zopfli"
 class net.sourceforge.plantuml.zopfli.Zopfli {
-+compress(Options;byte[]) : Buffer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Zopfli.java.html#56]]]
--adler32(byte[]) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Zopfli.java.html#79]]]
--compressZlib(Options;byte[];Buffer) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Zopfli.java.html#97]]]
--compressGzip(Options;byte[];Buffer) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Zopfli.java.html#111]]]
-+Zopfli(int) : Zopfli [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Zopfli.java.html#141]]]
++compress(Options;byte[]) : Buffer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Zopfli.java.html#130]]]
+-adler32(byte[]) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Zopfli.java.html#130]]]
+-compressZlib(Options;byte[];Buffer) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Zopfli.java.html#130]]]
+-compressGzip(Options;byte[];Buffer) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Zopfli.java.html#130]]]
++Zopfli(int) : Zopfli [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Zopfli.java.html#1]]]
 } 
 @enduml

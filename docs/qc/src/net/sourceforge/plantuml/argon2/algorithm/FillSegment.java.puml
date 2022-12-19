@@ -2,16 +2,16 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.argon2.algorithm.FillSegment"
 class net.sourceforge.plantuml.argon2.algorithm.FillSegment {
-fillSegment(Instance;Position) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#21]]]
--isDataIndependentAddressing(Instance;Position) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#55]]]
--initAddressBlocks(Instance;Position;Block;Block;Block) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#63]]]
--isWithXor(Instance;Position) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#77]]]
--getPrevOffset(Instance;int) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#81]]]
--rotatePrevOffset(Instance;int;int) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#91]]]
--getStartingIndex(Position) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#98]]]
--nextAddresses(Block;Block;Block) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#106]]]
--getPseudoRandom(Instance;Position;Block;Block;Block;int;boolean) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#114]]]
--getRefLane(Instance;Position;long) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#125]]]
--getRefColumn(Instance;Position;long;boolean) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#135]]]
+fillSegment(Instance;Position) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#170]]]
+-isDataIndependentAddressing(Instance;Position) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#170]]]
+-initAddressBlocks(Instance;Position;Block;Block;Block) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#1]]]
+-isWithXor(Instance;Position) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#1]]]
+-getPrevOffset(Instance;int) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#1]]]
+-rotatePrevOffset(Instance;int;int) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#1]]]
+-getStartingIndex(Position) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#1]]]
+-nextAddresses(Block;Block;Block) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#1]]]
+-getPseudoRandom(Instance;Position;Block;Block;Block;int;boolean) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#1]]]
+-getRefLane(Instance;Position;long) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#1]]]
+-getRefColumn(Instance;Position;long;boolean) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillSegment.java.html#1]]]
 } 
 @enduml

@@ -60,17 +60,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/DeltaQ.java.html#20"
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/DeltaQ.java.html#11"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00020] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00011] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00021"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/DeltaQ.java.html#21"
+ , "c1" : "00011"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/DeltaQ.java.html#11"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAVCWE493[00021] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+ , "c3" : "QC-JAVCWE493[00011] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
 }} 
 ]
 , 

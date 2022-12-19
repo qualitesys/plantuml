@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.argon2.Argon2Factory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00009"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/Argon2Factory.java.html#9"
+ , "c5" : "00012"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/Argon2Factory.java.html#12"
  , "c1" : "Argon2"
  , "c2" : "create()"
  , "c3" : "1"

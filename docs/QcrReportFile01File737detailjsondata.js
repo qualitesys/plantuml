@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.argon2.algorithm.FillMemory" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00022"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#22"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c1" : "void"
  , "c2" : "fillMemoryBlocks(Instance)"
  , "c3" : "3"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#30"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c1" : "void"
  , "c2" : "fillMemoryBlockSingleThreaded(Instance)"
  , "c3" : "3"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00039"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#39"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c1" : "void"
  , "c2" : "fillMemoryBlockMultiThreaded(Instance)"
  , "c3" : "4"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00067"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#67"
+ , "c5" : "00080"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c1" : "void"
  , "c2" : "joinThreads(Instance;List<Future<?>>)"
  , "c3" : "2"
@@ -123,185 +123,185 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#20"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000008[00020] The class FillMemory contains no field, constructor, finalize. Must contain only static methods, check it"
+ , "c3" : "QC-JAV000008[00080] The class FillMemory contains no field, constructor, finalize. Must contain only static methods, check it"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#22"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00022] For method fillMemoryBlocks arguments Instance  instance"
+ , "c3" : "QC-JAV000006[00080] For method fillMemoryBlocks arguments Instance  instance"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00022"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#22"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00022] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00080] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00023"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#23"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlocks@POLYN147715 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlocks@POLYN147373 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#30"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00030] For method fillMemoryBlockSingleThreaded arguments Instance  instance"
+ , "c3" : "QC-JAV000006[00080] For method fillMemoryBlockSingleThreaded arguments Instance  instance"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00030"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#30"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00030] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00080] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#33"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00033] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00080] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#33"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00033] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00080] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00031"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#31"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlockSingleThreaded@POLYN148024 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlockSingleThreaded@POLYN147682 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#32"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlockSingleThreaded@POLYN148024 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlockSingleThreaded@POLYN147682 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#33"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlockSingleThreaded@POLYN148024 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlockSingleThreaded@POLYN147682 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#33"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlockSingleThreaded@POLYN148024 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlockSingleThreaded@POLYN147682 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#39"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00039] For method fillMemoryBlockMultiThreaded arguments Instance  instance"
+ , "c3" : "QC-JAV000006[00080] For method fillMemoryBlockMultiThreaded arguments Instance  instance"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#39"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00039] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00080] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#48"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00048] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00080] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#50"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00050] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00080] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#48"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00048] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00080] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#50"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00050] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00080] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#48"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00048] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00080] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#50"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000001[00050] Avoid declaring class instance within loop, performance impact"
+ , "c3" : "QC-JAV000001[00080] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#44"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlockMultiThreaded@POLYN148696 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlockMultiThreaded@POLYN148354 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00045"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#45"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlockMultiThreaded@POLYN148696 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlockMultiThreaded@POLYN148354 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#46"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlockMultiThreaded@POLYN148696 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlockMultiThreaded@POLYN148354 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#48"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlockMultiThreaded@POLYN148696 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.argon2.algorithm.FillMemory.fillMemoryBlockMultiThreaded@POLYN148354 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#67"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00067] For method joinThreads arguments Instance  instance|List&lt;Future&lt;? &gt; &gt;  futures"
+ , "c3" : "QC-JAV000006[00080] For method joinThreads arguments Instance  instance|List&lt;Future&lt;? &gt; &gt;  futures"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#67"
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00067] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00080] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ]
 , 

@@ -2,9 +2,9 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.zopfli.LzStore"
 class net.sourceforge.plantuml.zopfli.LzStore {
-LzStore(int) : LzStore [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#26]]]
-append(char;char) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#31]]]
-reset() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#36]]]
-copy(LzStore) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#40]]]
+LzStore(int) : LzStore [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#33]]]
+append(char;char) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#33]]]
+reset() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#33]]]
+copy(LzStore) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#33]]]
 } 
 @enduml

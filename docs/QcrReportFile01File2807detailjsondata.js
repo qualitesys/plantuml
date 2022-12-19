@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.zopfli.LongestMatchCache" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00030"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#30"
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c1" : "LongestMatchCache"
  , "c2" : "LongestMatchCache(int)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00037"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#37"
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c1" : "void"
  , "c2" : "init(int)"
  , "c3" : "5"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00073"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#73"
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c1" : "void"
  , "c2" : "subLenToCache(char[];int;int)"
  , "c3" : "6"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#97"
+ , "c5" : "00114"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c1" : "void"
  , "c2" : "cacheToSubLen(int;int;char[])"
  , "c3" : "5"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00119"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#119"
+ , "c5" : "00001"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#1"
  , "c1" : "int"
  , "c2" : "maxCachedSubLen(int)"
  , "c3" : "2"
@@ -111,213 +111,213 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#37"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00037] For method init arguments int  blockSize"
+ , "c3" : "QC-JAV000006[00114] For method init arguments int  blockSize"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00039"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#39"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN155208 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN154584 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00048"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#48"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN155208 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN154584 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#50"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN155208 the MagicNumber/String  65536 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN154584 the MagicNumber/String  65536 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#55"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN155208 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN154584 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#56"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN155208 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN154584 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00060"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#60"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN155208 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN154584 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00062"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#62"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN155208 the MagicNumber/String  65536 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN154584 the MagicNumber/String  65536 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00067"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#67"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN155208 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN154584 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#68"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN155208 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.init@POLYN154584 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00073"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#73"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method subLenToCache arguments char[]  input|int  pos|int  len"
+ , "c3" : "QC-JAV000006[00114] For method subLenToCache arguments char[]  input|int  pos|int  len"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#74"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.subLenToCache@POLYN157439 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.subLenToCache@POLYN156815 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#78"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.subLenToCache@POLYN157439 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.subLenToCache@POLYN156815 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00080"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#80"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.subLenToCache@POLYN157439 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.subLenToCache@POLYN156815 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#81"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.subLenToCache@POLYN157439 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.subLenToCache@POLYN156815 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#82"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.subLenToCache@POLYN157439 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.subLenToCache@POLYN156815 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#84"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.subLenToCache@POLYN157439 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.subLenToCache@POLYN156815 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#93"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.subLenToCache@POLYN157439 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.subLenToCache@POLYN156815 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00097"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#97"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method cacheToSubLen arguments int  pos|int  len|char[]  output"
+ , "c3" : "QC-JAV000006[00114] For method cacheToSubLen arguments int  pos|int  len|char[]  output"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#98"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.cacheToSubLen@POLYN158907 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.cacheToSubLen@POLYN158283 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00103"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#103"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.cacheToSubLen@POLYN158907 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.cacheToSubLen@POLYN158283 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#107"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.cacheToSubLen@POLYN158907 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.cacheToSubLen@POLYN158283 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00107"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#107"
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.cacheToSubLen@POLYN158907 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.cacheToSubLen@POLYN158283 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00115"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#115"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.cacheToSubLen@POLYN158907 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.cacheToSubLen@POLYN158283 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00119"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#119"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00119] For method maxCachedSubLen arguments int  pos"
+ , "c3" : "QC-JAV000006[00001] For method maxCachedSubLen arguments int  pos"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#121"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.maxCachedSubLen@POLYN160185 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.maxCachedSubLen@POLYN159561 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#122"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.maxCachedSubLen@POLYN160185 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.maxCachedSubLen@POLYN159561 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#124"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.maxCachedSubLen@POLYN160185 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.maxCachedSubLen@POLYN159561 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#124"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.maxCachedSubLen@POLYN160185 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.maxCachedSubLen@POLYN159561 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00124"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#124"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LongestMatchCache.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.maxCachedSubLen@POLYN160185 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.LongestMatchCache.maxCachedSubLen@POLYN159561 the MagicNumber/String  3 should be converted to const"
 }} 
 ]
 , 

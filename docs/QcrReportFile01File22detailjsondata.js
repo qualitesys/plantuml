@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java 65 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java 67 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.xml" 
  , "fic3"  : "" 
 }
@@ -137,11 +137,18 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "4"
 }}
  ] 
 ,
 "data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00032"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#32"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00032] For method scanOutline list of called methods Object monObjet|double fProjection_finalizeXN172932|double fProjection_finalizeXN173048|double fProjection_finalizeYN173155|double fProjection_finalizeYN173256"
+}} 
+,
 { "ligne" : {"" : ""
  , "c1" : "00039"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#39"
@@ -385,6 +392,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#177"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00177] For method addEdgeToScanbuf arguments ScanBuf  pScanBuf|EdgeCrossing  from|EdgeCrossing  to"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#177"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00177] For method addEdgeToScanbuf list of called methods Object monObjet|double fProjection_finalizeXN180257|double fProjection_finalizeYN180371|double fProjection_finalizeXN180845|double fProjection_finalizeYN180946|double fProjection_finalizeXN181148|double fProjection_finalizeYN181258|double fProjection_finalizeXN181460|double fProjection_finalizeYN181570|double fProjection_finalizeXN181781|double fProjection_finalizeYN181882"
 }} 
 ,
 { "ligne" : {"" : ""

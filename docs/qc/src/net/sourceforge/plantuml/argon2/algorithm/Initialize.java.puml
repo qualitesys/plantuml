@@ -2,8 +2,8 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.argon2.algorithm.Initialize"
 class net.sourceforge.plantuml.argon2.algorithm.Initialize {
-+initialize(Instance;Argon2) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Initialize.java.html#19]]]
--fillFirstBlocks(Instance;byte[]) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Initialize.java.html#43]]]
--getInitialHashLong(byte[];byte[]) : byte[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Initialize.java.html#66]]]
++initialize(Instance;Argon2) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Initialize.java.html#72]]]
+-fillFirstBlocks(Instance;byte[]) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Initialize.java.html#72]]]
+-getInitialHashLong(byte[];byte[]) : byte[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/algorithm/Initialize.java.html#1]]]
 } 
 @enduml

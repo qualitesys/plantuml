@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.argon2.algorithm.Finalize" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00014"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/algorithm/Finalize.java.html#14"
+ , "c5" : "00034"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/algorithm/Finalize.java.html#34"
  , "c1" : "void"
  , "c2" : "finalize(Instance;Argon2)"
  , "c3" : "3"
@@ -82,45 +82,45 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Finalize.java.html#14"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Finalize.java.html#34"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00014] For method finalize arguments Instance  instance|Argon2  argon2"
+ , "c3" : "QC-JAV000006[00034] For method finalize arguments Instance  instance|Argon2  argon2"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Finalize.java.html#14"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Finalize.java.html#34"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00034] The argument instance is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Finalize.java.html#14"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Finalize.java.html#34"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAVCWE476[00014] The argument argon2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+ , "c3" : "QC-JAVCWE476[00034] The argument argon2 is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00016"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Finalize.java.html#16"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Finalize.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.argon2.algorithm.Finalize.finalize@POLYN140826 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.argon2.algorithm.Finalize.finalize@POLYN140712 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00019"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Finalize.java.html#19"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Finalize.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.argon2.algorithm.Finalize.finalize@POLYN140826 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.argon2.algorithm.Finalize.finalize@POLYN140712 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00020"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Finalize.java.html#20"
+ , "c1" : "00034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Finalize.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.argon2.algorithm.Finalize.finalize@POLYN140826 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.argon2.algorithm.Finalize.finalize@POLYN140712 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java 234 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java 235 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.xml" 
  , "fic3"  : "" 
 }
@@ -164,7 +164,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "3"
 }}
  ] 
 ,
@@ -230,6 +230,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#60"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.google.zxing.datamatrix.decoder.BitMatrixParser.readVersion@POLYN212783 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#79"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00079] For method readCodewords list of called methods Object monObjet|int mappingBitMatrix_getHeightN213827"
 }} 
 ,
 { "ligne" : {"" : ""

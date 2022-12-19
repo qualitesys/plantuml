@@ -2,10 +2,10 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.zopfli.Squeeze"
 class net.sourceforge.plantuml.zopfli.Squeeze {
-optimal(Cookie;int;LongestMatchCache;byte[];int;int) : LzStore [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#23]]]
-optimalRun(Cookie;LongestMatchCache;byte[];int;int;char[];LzStore) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#68]]]
--fixedCost(int;int) : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#103]]]
--bestLengths(Cookie;LongestMatchCache;int;byte[];int;int;long;SymbolStats;char[];long[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#119]]]
-bestFixedLengths(Cookie;LongestMatchCache;byte[];int;int;char[];long[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#189]]]
+optimal(Cookie;int;LongestMatchCache;byte[];int;int) : LzStore [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#229]]]
+optimalRun(Cookie;LongestMatchCache;byte[];int;int;char[];LzStore) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#229]]]
+-fixedCost(int;int) : long [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#1]]]
+-bestLengths(Cookie;LongestMatchCache;int;byte[];int;int;long;SymbolStats;char[];long[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#1]]]
+bestFixedLengths(Cookie;LongestMatchCache;byte[];int;int;char[];long[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Squeeze.java.html#1]]]
 } 
 @enduml

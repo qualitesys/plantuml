@@ -1,8 +1,4 @@
 var datadependUndefined = { "lesdatas" : [
-   { "undefinedclass" : "gen.lib.cgraph.attr__c.AgDataRecName" , "callers" : [
-   {"caller" : "gen.lib.cgraph.edge__c"} ,
-   {"caller" : "gen.lib.cgraph.node__c"} ,
-   ]},
    { "undefinedclass" : "java.lang.Math.max" , "callers" : [
    {"caller" : "net.sourceforge.plantuml.ugraphic.g2d.DriverTextAsPathG2d"} ,
    {"caller" : "net.sourceforge.plantuml.ugraphic.g2d.DriverTextG2d"} ,
@@ -50,40 +46,313 @@ var datadependUndefined = { "lesdatas" : [
    {"caller" : "net.sourceforge.plantuml.BlockUmlBuilder"} ,
    {"caller" : "net.sourceforge.plantuml.tim.TContext"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.ErrorUmlType.SYNTAX_ERROR" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.picoweb.PicoWebServer"} ,
+   { "undefinedclass" : "javax.crypto.SecretKey" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.SignatureUtils"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.SkinParam.DEFAULT_PRESERVE_ASPECT_RATIO" , "callers" : [
+   { "undefinedclass" : "javax.crypto.SecretKeyFactory" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.SignatureUtils"} ,
+   ]},
+   { "undefinedclass" : "javax.crypto.spec.PBEKeySpec" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.SignatureUtils"} ,
+   ]},
+   { "undefinedclass" : "javax.imageio.IIOImage" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.png.PngIOMetadata"} ,
+   ]},
+   { "undefinedclass" : "javax.imageio.ImageReader" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.png.Metadata"} ,
+   {"caller" : "net.sourceforge.plantuml.png.MetadataTag"} ,
+   {"caller" : "net.sourceforge.plantuml.security.SImageIO"} ,
+   ]},
+   { "undefinedclass" : "javax.imageio.ImageTypeSpecifier" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.png.PngIOMetadata"} ,
+   ]},
+   { "undefinedclass" : "javax.imageio.ImageWriteParam" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.png.PngIOMetadata"} ,
+   ]},
+   { "undefinedclass" : "javax.imageio.ImageWriter" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.png.PngIOMetadata"} ,
+   {"caller" : "net.sourceforge.plantuml.security.SImageIO"} ,
+   ]},
+   { "undefinedclass" : "javax.imageio.event.IIOReadProgressListener" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.webp.VP8Frame"} ,
+   ]},
+   { "undefinedclass" : "javax.imageio.metadata.IIOInvalidTreeException" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.png.PngIOMetadata"} ,
+   ]},
+   { "undefinedclass" : "javax.imageio.metadata.IIOMetadata" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.png.Metadata"} ,
+   {"caller" : "net.sourceforge.plantuml.png.MetadataTag"} ,
+   {"caller" : "net.sourceforge.plantuml.png.PngIOMetadata"} ,
+   ]},
+   { "undefinedclass" : "javax.imageio.metadata.IIOMetadataNode" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.png.PngIOMetadata"} ,
+   ]},
+   { "undefinedclass" : "javax.imageio.stream.ImageInputStream" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.dedication.PSystemDedication"} ,
+   {"caller" : "net.sourceforge.plantuml.png.Metadata"} ,
+   {"caller" : "net.sourceforge.plantuml.png.MetadataTag"} ,
+   {"caller" : "net.sourceforge.plantuml.security.SImageIO"} ,
+   {"caller" : "net.sourceforge.plantuml.webp.BoolDecoder"} ,
+   {"caller" : "net.sourceforge.plantuml.webp.VP8Decoder"} ,
+   {"caller" : "net.sourceforge.plantuml.webp.VP8Frame"} ,
+   ]},
+   { "undefinedclass" : "javax.imageio.stream.ImageOutputStream" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.png.PngIOMetadata"} ,
+   {"caller" : "net.sourceforge.plantuml.security.SImageIO"} ,
+   ]},
+   { "undefinedclass" : "javax.net.ssl.HttpsURLConnection" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.security.SURL"} ,
+   ]},
+   { "undefinedclass" : "javax.script.ScriptException" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.math.AsciiMath"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.BorderFactory" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.AboutWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.LicenseWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.MainWindow"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.Icon" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.math.ConverterSvg"} ,
+   {"caller" : "net.sourceforge.plantuml.math.LatexBuilder"} ,
+   {"caller" : "net.sourceforge.plantuml.math.LatexBuilder.LatexImage"} ,
+   {"caller" : "net.sourceforge.plantuml.math.TeXIconBuilder"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.ImageIcon" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.security.SFile"} ,
+   {"caller" : "net.sourceforge.plantuml.security.SURL"} ,
+   {"caller" : "net.sourceforge.plantuml.security.SecurityUtils"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.AboutWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.ImageWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.LicenseWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.ScrollablePicture"} ,
    {"caller" : "net.sourceforge.plantuml.ugraphic.ImageBuilder"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.argon2.Constants.ARGON2_ADDRESSES_IN_BLOCK" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.FillSegment"} ,
+   { "undefinedclass" : "javax.swing.JButton" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.AboutWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.ImageWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.LicenseWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.MainWindow"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.argon2.Constants.ARGON2_BLOCK_SIZE" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.Functions"} ,
-   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.Initialize"} ,
-   {"caller" : "net.sourceforge.plantuml.argon2.model.Block"} ,
+   { "undefinedclass" : "javax.swing.JCheckBox" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.ImageWindow"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.argon2.Constants.ARGON2_PREHASH_DIGEST_LENGTH" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.Functions"} ,
-   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.Initialize"} ,
+   { "undefinedclass" : "javax.swing.JComponent" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.AboutWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.LicenseWindow"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.argon2.Constants.ARGON2_PREHASH_SEED_LENGTH" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.Functions"} ,
-   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.Initialize"} ,
+   { "undefinedclass" : "javax.swing.JEditorPane" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.AboutWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.LicenseWindow"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.argon2.Constants.ARGON2_QWORDS_IN_BLOCK" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.model.Block"} ,
+   { "undefinedclass" : "javax.swing.JFileChooser" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.MainWindow"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.argon2.Constants.ARGON2_SYNC_POINTS" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.FillMemory"} ,
-   {"caller" : "net.sourceforge.plantuml.argon2.model.Instance"} ,
+   { "undefinedclass" : "javax.swing.JFrame" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.AboutWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.ImageWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.LicenseWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.MainWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.SpriteWindow"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.argon2.Constants.ARGON2_VERSION_10" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.argon2.algorithm.FillSegment"} ,
+   { "undefinedclass" : "javax.swing.JLabel" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.AboutWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.LicenseWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.MainWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.ScrollablePicture"} ,
    ]},
-   { "undefinedclass" : "net.sourceforge.plantuml.graphic.GraphicPosition.BACKGROUND_CORNER_BOTTOM_RIGHT" , "callers" : [
-   {"caller" : "net.sourceforge.plantuml.version.PSystemVersion"} ,
+   { "undefinedclass" : "javax.swing.JList" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.MainWindow"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.JMenu" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.MainWindow"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.JMenuBar" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.MainWindow"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.JMenuItem" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.MainWindow"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.JPanel" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.AboutWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.ImageWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.LicenseWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.MainWindow"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.JScrollBar" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.ImageWindow"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.JScrollPane" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.ImageWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.LicenseWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.MainWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.SpriteWindow"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.JTextArea" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.SpriteWindow"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.JTextField" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.MainWindow"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.ListModel" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.ImageWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.MainWindow"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.Scrollable" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.ScrollablePicture"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.SwingConstants" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.ScrollablePicture"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.SwingUtilities" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.ImageWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.MainWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.SpriteWindow"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.Timer" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.MainWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.SpriteWindow"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.UIManager" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.Run"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.WindowConstants" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.AboutWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.ImageWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.LicenseWindow"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.border.BevelBorder" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.AboutWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.LicenseWindow"} ,
+   ]},
+   { "undefinedclass" : "javax.swing.border.CompoundBorder" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.swing.AboutWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.LicenseWindow"} ,
+   {"caller" : "net.sourceforge.plantuml.swing.MainWindow"} ,
+   ]},
+   { "undefinedclass" : "javax.xml.parsers.DocumentBuilder" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.stats.XmlConverter"} ,
+   {"caller" : "net.sourceforge.plantuml.svg.SvgGraphics"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiStateDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories"} ,
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories.DocumentBuilderFactoryHolder"} ,
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories.TransformerFactoryHolder"} ,
+   {"caller" : "net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard"} ,
+   ]},
+   { "undefinedclass" : "javax.xml.parsers.DocumentBuilderFactory" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories"} ,
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories.DocumentBuilderFactoryHolder"} ,
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories.TransformerFactoryHolder"} ,
+   ]},
+   { "undefinedclass" : "javax.xml.parsers.ParserConfigurationException" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.graphml.CucaDiagramGraphmlMaker"} ,
+   {"caller" : "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.stats.StatsUtils"} ,
+   {"caller" : "net.sourceforge.plantuml.stats.XmlConverter"} ,
+   {"caller" : "net.sourceforge.plantuml.svg.SvgGraphics"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.CucaDiagramXmiMaker"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramArgo"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramStandard"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramStar"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiStateDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmlDiagramTransformer"} ,
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories"} ,
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories.DocumentBuilderFactoryHolder"} ,
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories.TransformerFactoryHolder"} ,
+   {"caller" : "net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard"} ,
+   {"caller" : "net.sourceforge.plantuml.xmlsc.StateDiagramScxmlMaker"} ,
+   ]},
+   { "undefinedclass" : "javax.xml.transform.OutputKeys" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.stats.XmlConverter"} ,
+   {"caller" : "net.sourceforge.plantuml.svg.SvgGraphics"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiStateDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard"} ,
+   ]},
+   { "undefinedclass" : "javax.xml.transform.Result" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiStateDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard"} ,
+   ]},
+   { "undefinedclass" : "javax.xml.transform.Source" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiStateDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard"} ,
+   ]},
+   { "undefinedclass" : "javax.xml.transform.Transformer" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.stats.XmlConverter"} ,
+   {"caller" : "net.sourceforge.plantuml.svg.SvgGraphics"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiStateDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories"} ,
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories.DocumentBuilderFactoryHolder"} ,
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories.TransformerFactoryHolder"} ,
+   {"caller" : "net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard"} ,
+   ]},
+   { "undefinedclass" : "javax.xml.transform.TransformerConfigurationException" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories"} ,
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories.DocumentBuilderFactoryHolder"} ,
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories.TransformerFactoryHolder"} ,
+   ]},
+   { "undefinedclass" : "javax.xml.transform.TransformerException" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.graphml.CucaDiagramGraphmlMaker"} ,
+   {"caller" : "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.stats.StatsUtils"} ,
+   {"caller" : "net.sourceforge.plantuml.stats.XmlConverter"} ,
+   {"caller" : "net.sourceforge.plantuml.svg.SvgGraphics"} ,
+   {"caller" : "net.sourceforge.plantuml.ugraphic.FontChecker"} ,
+   {"caller" : "net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.CucaDiagramXmiMaker"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiStateDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmlDiagramTransformer"} ,
+   {"caller" : "net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard"} ,
+   {"caller" : "net.sourceforge.plantuml.xmlsc.StateDiagramScxmlMaker"} ,
+   ]},
+   { "undefinedclass" : "javax.xml.transform.TransformerFactory" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories"} ,
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories.DocumentBuilderFactoryHolder"} ,
+   {"caller" : "net.sourceforge.plantuml.xml.XmlFactories.TransformerFactoryHolder"} ,
+   ]},
+   { "undefinedclass" : "javax.xml.transform.dom.DOMSource" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.stats.XmlConverter"} ,
+   {"caller" : "net.sourceforge.plantuml.svg.SvgGraphics"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiStateDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard"} ,
+   ]},
+   { "undefinedclass" : "javax.xml.transform.stream.StreamResult" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.stats.XmlConverter"} ,
+   {"caller" : "net.sourceforge.plantuml.svg.SvgGraphics"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiStateDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard"} ,
    ]},
    { "undefinedclass" : "org.apache.tools.ant.BuildException" , "callers" : [
    {"caller" : "net.sourceforge.plantuml.ant.PlantUmlTask"} ,
@@ -100,544 +369,74 @@ var datadependUndefined = { "lesdatas" : [
    { "undefinedclass" : "org.apache.tools.ant.types.FileSet" , "callers" : [
    {"caller" : "net.sourceforge.plantuml.ant.PlantUmlTask"} ,
    ]},
-   { "undefinedclass" : "smetana.core.JUtils.USHRT_MAX" , "callers" : [
-   {"caller" : "gen.lib.dotgen.position__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.AGEDGE" , "callers" : [
-   {"caller" : "gen.lib.cgraph.attr__c"} ,
-   {"caller" : "gen.lib.cgraph.edge__c"} ,
-   {"caller" : "gen.lib.cgraph.id__c"} ,
-   {"caller" : "gen.lib.cgraph.imap__c"} ,
-   {"caller" : "gen.lib.common.labels__c"} ,
-   {"caller" : "gen.lib.dotgen.sameport__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.AGINEDGE" , "callers" : [
-   {"caller" : "gen.lib.cgraph.apply__c"} ,
-   {"caller" : "gen.lib.cgraph.attr__c"} ,
-   {"caller" : "gen.lib.cgraph.edge__c"} ,
-   {"caller" : "gen.lib.cgraph.imap__c"} ,
-   {"caller" : "gen.lib.cgraph.obj__c"} ,
-   {"caller" : "gen.lib.cgraph.rec__c"} ,
-   {"caller" : "gen.lib.dotgen.fastgr__c"} ,
-   {"caller" : "gen.lib.dotgen.position__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.AGNODE" , "callers" : [
-   {"caller" : "gen.lib.cgraph.apply__c"} ,
-   {"caller" : "gen.lib.cgraph.attr__c"} ,
-   {"caller" : "gen.lib.cgraph.node__c"} ,
-   {"caller" : "gen.lib.cgraph.obj__c"} ,
-   {"caller" : "gen.lib.cgraph.rec__c"} ,
-   {"caller" : "gen.lib.common.input__c"} ,
-   {"caller" : "gen.lib.common.labels__c"} ,
-   {"caller" : "gen.lib.dotgen.fastgr__c"} ,
-   {"caller" : "gen.lib.gvc.gvc__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.AGOUTEDGE" , "callers" : [
-   {"caller" : "gen.lib.cgraph.apply__c"} ,
-   {"caller" : "gen.lib.cgraph.attr__c"} ,
-   {"caller" : "gen.lib.cgraph.edge__c"} ,
-   {"caller" : "gen.lib.cgraph.obj__c"} ,
-   {"caller" : "gen.lib.cgraph.rec__c"} ,
-   {"caller" : "gen.lib.dotgen.fastgr__c"} ,
-   {"caller" : "gen.lib.dotgen.position__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.AGRAPH" , "callers" : [
-   {"caller" : "gen.lib.cgraph.apply__c"} ,
-   {"caller" : "gen.lib.cgraph.attr__c"} ,
-   {"caller" : "gen.lib.cgraph.graph__c"} ,
-   {"caller" : "gen.lib.cgraph.obj__c"} ,
-   {"caller" : "gen.lib.cgraph.rec__c"} ,
-   {"caller" : "gen.lib.cgraph.subg__c"} ,
-   {"caller" : "gen.lib.common.input__c"} ,
-   {"caller" : "gen.lib.common.labels__c"} ,
-   {"caller" : "gen.lib.common.postproc__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_BOX" , "callers" : [
-   {"caller" : "smetana.core.Z"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_CROW" , "callers" : [
-   {"caller" : "smetana.core.Z"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_CURVE" , "callers" : [
-   {"caller" : "smetana.core.Z"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_DIAMOND" , "callers" : [
-   {"caller" : "smetana.core.Z"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_DOT" , "callers" : [
-   {"caller" : "smetana.core.Z"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_GAP" , "callers" : [
-   {"caller" : "gen.lib.common.arrows__c"} ,
-   {"caller" : "smetana.core.Z"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_NONE" , "callers" : [
-   {"caller" : "gen.lib.common.arrows__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_NORM" , "callers" : [
-   {"caller" : "gen.lib.common.arrows__c"} ,
-   {"caller" : "smetana.core.Z"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.ARR_TYPE_TEE" , "callers" : [
-   {"caller" : "smetana.core.Z"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.BITS_PER_ARROW" , "callers" : [
-   {"caller" : "gen.lib.common.arrows__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.BITS_PER_ARROW_TYPE" , "callers" : [
-   {"caller" : "gen.lib.common.arrows__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.BOTTOM" , "callers" : [
-   {"caller" : "gen.lib.common.shapes__c"} ,
-   {"caller" : "gen.lib.common.splines__c"} ,
-   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.BOTTOM_IX" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   {"caller" : "gen.lib.dotgen.position__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.CB_UPDATE" , "callers" : [
-   {"caller" : "gen.lib.cgraph.obj__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.CLUSTER" , "callers" : [
-   {"caller" : "gen.lib.dotgen.class2__c"} ,
-   {"caller" : "gen.lib.dotgen.cluster__c"} ,
-   {"caller" : "gen.lib.dotgen.mincross__c"} ,
-   {"caller" : "gen.lib.dotgen.rank__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.CLUSTER_EDGE" , "callers" : [
-   {"caller" : "gen.lib.dotgen.class2__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.CL_CROSS" , "callers" : [
-   {"caller" : "gen.lib.dotgen.cluster__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.CL_OFFSET" , "callers" : [
-   {"caller" : "gen.lib.dotgen.dotinit__c"} ,
-   {"caller" : "gen.lib.dotgen.position__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DEFAULT_FONTSIZE" , "callers" : [
-   {"caller" : "gen.lib.common.utils__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DEFAULT_NODEHEIGHT" , "callers" : [
-   {"caller" : "gen.lib.common.utils__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DEFAULT_NODESEP" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DEFAULT_NODESHAPE" , "callers" : [
-   {"caller" : "gen.lib.common.utils__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DEFAULT_NODEWIDTH" , "callers" : [
-   {"caller" : "gen.lib.common.utils__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DEFAULT_RANKSEP" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_ATTACH" , "callers" : [
-   {"caller" : "gen.lib.cdt.dttree__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_BAG" , "callers" : [
-   {"caller" : "gen.lib.cdt.dtextract__c"} ,
-   {"caller" : "gen.lib.cdt.dtrestore__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_CLEAR" , "callers" : [
-   {"caller" : "gen.lib.cdt.dttree__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
-   {"caller" : "gen.lib.cdt.dtview__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_DELETE" , "callers" : [
-   {"caller" : "gen.lib.cdt.dttree__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
-   {"caller" : "gen.lib.cdt.dtview__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_DETACH" , "callers" : [
-   {"caller" : "gen.lib.cdt.dttree__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_FIRST" , "callers" : [
-   {"caller" : "gen.lib.cdt.dttree__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
-   {"caller" : "gen.lib.cdt.dtview__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_FLATTEN" , "callers" : [
-   {"caller" : "gen.lib.cdt.dtextract__c"} ,
-   {"caller" : "gen.lib.cdt.dtrestore__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_FOUND" , "callers" : [
-   {"caller" : "gen.lib.cdt.dttree__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_INSERT" , "callers" : [
-   {"caller" : "gen.lib.cdt.dttree__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
-   {"caller" : "gen.lib.cdt.dtview__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_LAST" , "callers" : [
-   {"caller" : "gen.lib.cdt.dttree__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
-   {"caller" : "gen.lib.cdt.dtview__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_LIST" , "callers" : [
-   {"caller" : "gen.lib.cdt.dtsize__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_MATCH" , "callers" : [
-   {"caller" : "gen.lib.cdt.dttree__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
-   {"caller" : "gen.lib.cdt.dtview__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_NEXT" , "callers" : [
-   {"caller" : "gen.lib.cdt.dttree__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
-   {"caller" : "gen.lib.cdt.dtview__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_OBAG" , "callers" : [
-   {"caller" : "gen.lib.cdt.dtextract__c"} ,
-   {"caller" : "gen.lib.cdt.dtrestore__c"} ,
-   {"caller" : "gen.lib.cdt.dtsize__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
-   {"caller" : "gen.lib.cdt.dtview__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_OSET" , "callers" : [
-   {"caller" : "gen.lib.cdt.dtextract__c"} ,
-   {"caller" : "gen.lib.cdt.dtrestore__c"} ,
-   {"caller" : "gen.lib.cdt.dtsize__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
-   {"caller" : "gen.lib.cdt.dtview__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_PREV" , "callers" : [
-   {"caller" : "gen.lib.cdt.dttree__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
-   {"caller" : "gen.lib.cdt.dtview__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_QUEUE" , "callers" : [
-   {"caller" : "gen.lib.cdt.dtsize__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_RENEW" , "callers" : [
-   {"caller" : "gen.lib.cdt.dttree__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
-   {"caller" : "gen.lib.cdt.dtview__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_SEARCH" , "callers" : [
-   {"caller" : "gen.lib.cdt.dttree__c"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.do_search"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_delete"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_insert"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.dt_next"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.has_root"} ,
-   {"caller" : "gen.lib.cdt.dttree__c.no_root"} ,
-   {"caller" : "gen.lib.cdt.dtview__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_SET" , "callers" : [
-   {"caller" : "gen.lib.cdt.dtextract__c"} ,
-   {"caller" : "gen.lib.cdt.dtrestore__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.DT_STACK" , "callers" : [
-   {"caller" : "gen.lib.cdt.dtsize__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.EDGETYPEMASK" , "callers" : [
-   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.EDGE_LABEL" , "callers" : [
-   {"caller" : "gen.lib.common.postproc__c"} ,
-   {"caller" : "gen.lib.common.utils__c"} ,
-   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
-   {"caller" : "gen.lib.dotgen.rank__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.EDGE_XLABEL" , "callers" : [
-   {"caller" : "gen.lib.common.postproc__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.ET_CURVED" , "callers" : [
-   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.ET_LINE" , "callers" : [
-   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.ET_NONE" , "callers" : [
-   {"caller" : "gen.lib.common.postproc__c"} ,
-   {"caller" : "gen.lib.common.utils__c"} ,
-   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.ET_SPLINE" , "callers" : [
-   {"caller" : "gen.lib.dotgen.dotinit__c"} ,
-   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.FIXEDSHAPE" , "callers" : [
-   {"caller" : "gen.lib.common.shapes__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.FLATEDGE" , "callers" : [
-   {"caller" : "gen.lib.common.splines__c"} ,
-   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.FLATORDER" , "callers" : [
-   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
-   {"caller" : "gen.lib.dotgen.flat__c"} ,
-   {"caller" : "gen.lib.dotgen.mincross__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.GLOBAL" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.GRAPH_LABEL" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   {"caller" : "gen.lib.common.postproc__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.GVBEGIN" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.GVRENDER_PLUGIN" , "callers" : [
-   {"caller" : "gen.lib.gvc.gvlayout__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.GVSPLINES" , "callers" : [
-   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.HEAD_ID" , "callers" : [
-   {"caller" : "gen.lib.common.utils__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.HEAD_LABEL" , "callers" : [
-   {"caller" : "gen.lib.common.postproc__c"} ,
-   {"caller" : "gen.lib.common.utils__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.HUGE_VAL" , "callers" : [
-   {"caller" : "gen.lib.pathplan.shortest__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.IGNORED" , "callers" : [
-   {"caller" : "gen.lib.common.postproc__c"} ,
-   {"caller" : "gen.lib.dotgen.class2__c"} ,
-   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.INT_MAX" , "callers" : [
-   {"caller" : "gen.lib.common.ns__c"} ,
-   {"caller" : "gen.lib.common.postproc__c"} ,
-   {"caller" : "gen.lib.common.routespl__c"} ,
-   {"caller" : "gen.lib.dotgen.mincross__c"} ,
-   {"caller" : "gen.lib.dotgen.position__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.INT_MIN" , "callers" : [
-   {"caller" : "gen.lib.common.routespl__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.LABEL_AT_BOTTOM" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.LABEL_AT_TOP" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.LAYOUT_USES_RANKDIR" , "callers" : [
-   {"caller" : "gen.lib.gvc.gvlayout__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.LEAFSET" , "callers" : [
-   {"caller" : "gen.lib.dotgen.position__c"} ,
-   {"caller" : "gen.lib.dotgen.rank__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.LEFT" , "callers" : [
-   {"caller" : "gen.lib.common.shapes__c"} ,
-   {"caller" : "gen.lib.common.splines__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.LOCAL" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   {"caller" : "gen.lib.dotgen.rank__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.LT_HTML" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   {"caller" : "gen.lib.common.labels__c"} ,
-   {"caller" : "gen.lib.common.shapes__c"} ,
-   {"caller" : "gen.lib.common.utils__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.LT_NONE" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   {"caller" : "gen.lib.common.shapes__c"} ,
-   {"caller" : "gen.lib.common.utils__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.LT_RECD" , "callers" : [
-   {"caller" : "gen.lib.common.labels__c"} ,
-   {"caller" : "gen.lib.common.utils__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.MAXRANK" , "callers" : [
-   {"caller" : "gen.lib.dotgen.rank__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.MAXSHORT" , "callers" : [
-   {"caller" : "gen.lib.dotgen.rank__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.MILLIPOINT" , "callers" : [
-   {"caller" : "gen.lib.common.splines__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.MINRANK" , "callers" : [
-   {"caller" : "gen.lib.dotgen.rank__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.MIN_FONTSIZE" , "callers" : [
-   {"caller" : "gen.lib.common.utils__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.MIN_NODEHEIGHT" , "callers" : [
-   {"caller" : "gen.lib.common.utils__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.MIN_NODESEP" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.MIN_NODEWIDTH" , "callers" : [
-   {"caller" : "gen.lib.common.utils__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.MYHUGE" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.M_PI" , "callers" : [
-   {"caller" : "gen.lib.common.shapes__c"} ,
-   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.NEW_RANK" , "callers" : [
-   {"caller" : "gen.lib.dotgen.dotinit__c"} ,
-   {"caller" : "gen.lib.dotgen.mincross__c"} ,
-   {"caller" : "gen.lib.dotgen.rank__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.NOCLUST" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.NODECARD" , "callers" : [
-   {"caller" : "gen.lib.label.split_q__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.NODENAME_ESC" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.NODE_XLABEL" , "callers" : [
-   {"caller" : "gen.lib.common.postproc__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.NORMAL" , "callers" : [
-   {"caller" : "gen.lib.common.ns__c"} ,
-   {"caller" : "gen.lib.common.splines__c"} ,
-   {"caller" : "gen.lib.common.utils__c"} ,
-   {"caller" : "gen.lib.dotgen.cluster__c"} ,
-   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
-   {"caller" : "gen.lib.dotgen.flat__c"} ,
-   {"caller" : "gen.lib.dotgen.mincross__c"} ,
-   {"caller" : "gen.lib.dotgen.rank__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.RANKDIR_TB" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.REGULAREDGE" , "callers" : [
-   {"caller" : "gen.lib.common.splines__c"} ,
-   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.RIGHT" , "callers" : [
-   {"caller" : "gen.lib.common.shapes__c"} ,
-   {"caller" : "gen.lib.common.splines__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.SAMERANK" , "callers" : [
-   {"caller" : "gen.lib.dotgen.rank__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.SEARCHSIZE" , "callers" : [
-   {"caller" : "gen.lib.common.ns__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.SELFEDGE" , "callers" : [
-   {"caller" : "gen.lib.common.splines__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.SINKRANK" , "callers" : [
-   {"caller" : "gen.lib.dotgen.rank__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.SOURCERANK" , "callers" : [
-   {"caller" : "gen.lib.dotgen.rank__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.SQRT2" , "callers" : [
-   {"caller" : "gen.lib.common.shapes__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.TAIL_ID" , "callers" : [
-   {"caller" : "gen.lib.common.utils__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.TAIL_LABEL" , "callers" : [
-   {"caller" : "gen.lib.common.postproc__c"} ,
-   {"caller" : "gen.lib.common.utils__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.TOP" , "callers" : [
-   {"caller" : "gen.lib.common.shapes__c"} ,
-   {"caller" : "gen.lib.common.splines__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.TOP_IX" , "callers" : [
-   {"caller" : "gen.lib.common.input__c"} ,
-   {"caller" : "gen.lib.dotgen.position__c"} ,
-   ]},
-   { "undefinedclass" : "smetana.core.Macro.VIRTUAL" , "callers" : [
-   {"caller" : "gen.lib.dotgen.cluster__c"} ,
-   {"caller" : "gen.lib.dotgen.dotsplines__c"} ,
-   {"caller" : "gen.lib.dotgen.fastgr__c"} ,
-   {"caller" : "gen.lib.dotgen.flat__c"} ,
-   {"caller" : "gen.lib.dotgen.mincross__c"} ,
+   { "undefinedclass" : "org.w3c.dom.CDATASection" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.svg.SvgGraphics"} ,
+   ]},
+   { "undefinedclass" : "org.w3c.dom.Comment" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.svg.SvgGraphics"} ,
+   {"caller" : "net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard"} ,
+   ]},
+   { "undefinedclass" : "org.w3c.dom.DOMImplementation" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.math.ConverterSvg"} ,
+   ]},
+   { "undefinedclass" : "org.w3c.dom.Document" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.math.ConverterSvg"} ,
+   {"caller" : "net.sourceforge.plantuml.stats.XmlConverter"} ,
+   {"caller" : "net.sourceforge.plantuml.svg.SvgGraphics"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiStateDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard"} ,
+   ]},
+   { "undefinedclass" : "org.w3c.dom.Element" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.stats.XmlConverter"} ,
+   {"caller" : "net.sourceforge.plantuml.svg.SvgGraphics"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramArgo"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramStandard"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiClassDiagramStar"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiDescriptionDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiStateDiagram"} ,
+   {"caller" : "net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard"} ,
+   ]},
+   { "undefinedclass" : "org.w3c.dom.NamedNodeMap" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.png.Metadata"} ,
+   {"caller" : "net.sourceforge.plantuml.png.MetadataTag"} ,
+   ]},
+   { "undefinedclass" : "org.w3c.dom.Node" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.png.Metadata"} ,
+   {"caller" : "net.sourceforge.plantuml.png.MetadataTag"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo"} ,
+   {"caller" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard"} ,
+   ]},
+   { "undefinedclass" : "org.xml.sax.Attributes" , "callers" : [
+   {"caller" : "org.stathissideris.ascii2image.core.DocBookConverter"} ,
+   {"caller" : "org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler"} ,
+   ]},
+   { "undefinedclass" : "org.xml.sax.SAXException" , "callers" : [
+   {"caller" : "org.stathissideris.ascii2image.core.DocBookConverter"} ,
+   {"caller" : "org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler"} ,
+   ]},
+   { "undefinedclass" : "org.xml.sax.XMLReader" , "callers" : [
+   {"caller" : "org.stathissideris.ascii2image.core.DocBookConverter"} ,
+   {"caller" : "org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler"} ,
+   ]},
+   { "undefinedclass" : "org.xml.sax.helpers.DefaultHandler" , "callers" : [
+   {"caller" : "org.stathissideris.ascii2image.core.DocBookConverter"} ,
+   {"caller" : "org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler"} ,
+   ]},
+   { "undefinedclass" : "org.xml.sax.helpers.XMLReaderFactory" , "callers" : [
+   {"caller" : "org.stathissideris.ascii2image.core.DocBookConverter"} ,
+   {"caller" : "org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler"} ,
    ]
    }
 ]

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java 43 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java 44 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.xml" 
  , "fic3"  : "" 
 }
@@ -137,7 +137,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "3"
 }}
  ] 
 ,
@@ -189,6 +189,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#37"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00037] For method addArcToScanbuf arguments ScanBuf  pScanBuf|double  pXFrom|double  pYFrom|double  pAngleFrom|double  pXTo|double  pYTo|double  pAngleTo"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#37"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00037] For method addArcToScanbuf list of called methods Object monObjet|double fProjection_finalizeXN165627|double fProjection_finalizeYN165721|double fProjection_finalizeXN166555|double fProjection_finalizeYN166648|double fProjection_finalizeXN167476|double fProjection_finalizeYN167569"
 }} 
 ,
 { "ligne" : {"" : ""

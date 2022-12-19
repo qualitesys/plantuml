@@ -311,7 +311,7 @@ var maDataBlocs = {
  , "c1" : "00138"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#138"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00138] For method createTicsAndGrid list of called methods Object monObjet|double[] parameters_calculateTicsN184943"
+ , "c3" : "QC-JAV000007[00138] For method createTicsAndGrid list of called methods Object monObjet|double[] parameters_calculateTicsN184943|jcckit.graphic.GraphPoint _transformation_transformToGraphN185610|double parameters_ticLabelPosition_getXN187588|double parameters_ticLabelPosition_getYN187701"
 }} 
 ,
 { "ligne" : {"" : ""

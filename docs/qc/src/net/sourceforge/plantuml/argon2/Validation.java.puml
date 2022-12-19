@@ -2,6 +2,6 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.argon2.Validation"
 class net.sourceforge.plantuml.argon2.Validation {
-validateInput(Argon2) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/argon2/Validation.java.html#34]]]
+validateInput(Argon2) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/argon2/Validation.java.html#63]]]
 } 
 @enduml

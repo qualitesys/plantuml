@@ -2,15 +2,15 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.argon2.model.Instance"
 class net.sourceforge.plantuml.argon2.model.Instance {
-+Instance(Argon2) : Instance [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#23]]]
--initMemory(int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#45]]]
-+clear() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#53]]]
-+getMemory() : Block[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#61]]]
-+getVersion() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#65]]]
-+getIterations() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#69]]]
-+getSegmentLength() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#73]]]
-+getLaneLength() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#77]]]
-+getLanes() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#81]]]
-+getType() : Argon2Type [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#85]]]
++Instance(Argon2) : Instance [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#88]]]
+-initMemory(int) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#88]]]
++clear() : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#88]]]
++getMemory() : Block[] [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#88]]]
++getVersion() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#88]]]
++getIterations() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#88]]]
++getSegmentLength() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#88]]]
++getLaneLength() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#88]]]
++getLanes() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#88]]]
++getType() : Argon2Type [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Instance.java.html#88]]]
 } 
 @enduml

@@ -2,11 +2,11 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.webp.SegmentQuants"
 class net.sourceforge.plantuml.webp.SegmentQuants {
--get_delta_q(BoolDecoder;int) : DeltaQ [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#22]]]
-+SegmentQuants() : SegmentQuants [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#46]]]
-+getqIndex() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#51]]]
-+getSegQuants() : SegmentQuant[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#55]]]
-+parse(BoolDecoder;boolean;boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#59]]]
-+setSegQuants(SegmentQuant[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#95]]]
+-get_delta_q(BoolDecoder;int) : DeltaQ [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#87]]]
++SegmentQuants() : SegmentQuants [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#87]]]
++getqIndex() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#87]]]
++getSegQuants() : SegmentQuant[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#87]]]
++parse(BoolDecoder;boolean;boolean) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#87]]]
++setSegQuants(SegmentQuant[]) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/SegmentQuants.java.html#87]]]
 } 
 @enduml

@@ -18,8 +18,8 @@ var maDataBlocs = {
 { "classe" : 
  { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.DisplayPositioned" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
- , "c5" : "00081"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#81"
+ , "c5" : "00047"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#47"
  , "c1" : "DisplayPositioned"
  , "c2" : "DisplayPositioned(Display;HorizontalAlignment;VerticalAlignment)"
  , "c3" : "1"
@@ -27,8 +27,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00088"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#88"
+ , "c5" : "00054"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#54"
  , "c1" : "DisplayPositioned"
  , "c2" : "single(Display;HorizontalAlignment;VerticalAlignment)"
  , "c3" : "1"
@@ -36,8 +36,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00093"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#93"
+ , "c5" : "00059"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#59"
  , "c1" : "DisplayPositioned"
  , "c2" : "none(HorizontalAlignment;VerticalAlignment)"
  , "c3" : "1"
@@ -45,8 +45,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00097"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#97"
+ , "c5" : "00063"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#63"
  , "c1" : "Display"
  , "c2" : "getDisplay()"
  , "c3" : "1"
@@ -54,8 +54,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00101"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#101"
+ , "c5" : "00067"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#67"
  , "c1" : "HorizontalAlignment"
  , "c2" : "getHorizontalAlignment()"
  , "c3" : "1"
@@ -63,8 +63,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00105"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#105"
+ , "c5" : "00071"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#71"
  , "c1" : "VerticalAlignment"
  , "c2" : "getVerticalAlignment()"
  , "c3" : "1"
@@ -72,8 +72,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00109"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#109"
+ , "c5" : "00075"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#75"
  , "c1" : "boolean"
  , "c2" : "isNull()"
  , "c3" : "1"
@@ -81,8 +81,8 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : { "" : ""
- , "c5" : "00113"
- , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#113"
+ , "c5" : "00079"
+ , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#79"
  , "c1" : "boolean"
  , "c2" : "hasUrl()"
  , "c3" : "1"
@@ -131,17 +131,17 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#88"
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method single arguments Display  display|HorizontalAlignment  horizontalAlignment|VerticalAlignment  verticalAlignment"
+ , "c3" : "QC-JAV000006[00054] For method single arguments Display  display|HorizontalAlignment  horizontalAlignment|VerticalAlignment  verticalAlignment"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#93"
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositioned.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00093] For method none arguments HorizontalAlignment  horizontalAlignment|VerticalAlignment  verticalAlignment"
+ , "c3" : "QC-JAV000006[00059] For method none arguments HorizontalAlignment  horizontalAlignment|VerticalAlignment  verticalAlignment"
 }} 
 ]
 , 

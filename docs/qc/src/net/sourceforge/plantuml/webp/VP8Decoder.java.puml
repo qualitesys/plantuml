@@ -2,12 +2,12 @@
 !pragma layout smetana
 "java.lang.Object" <|-- "net.sourceforge.plantuml.webp.VP8Decoder"
 class net.sourceforge.plantuml.webp.VP8Decoder {
-+VP8Decoder() : VP8Decoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#31]]]
-+decodeFrame(ImageInputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#35]]]
-+getFrame() : VP8Frame [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#46]]]
-+getHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#50]]]
-+getWidth() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#54]]]
-+writePGMFile(String;VP8Frame) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#59]]]
-+writeYV12File(String;VP8Frame) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#104]]]
++VP8Decoder() : VP8Decoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#131]]]
++decodeFrame(ImageInputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#131]]]
++getFrame() : VP8Frame [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#131]]]
++getHeight() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#131]]]
++getWidth() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#131]]]
++writePGMFile(String;VP8Frame) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#131]]]
++writeYV12File(String;VP8Frame) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/VP8Decoder.java.html#1]]]
 } 
 @enduml
