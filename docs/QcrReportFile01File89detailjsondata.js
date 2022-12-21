@@ -330,7 +330,7 @@ var maDataBlocs = {
  , "c1" : "00082"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00082] For method encode list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.Mode chooseModeN237650|ext.plantuml.com.google.zxing.common.CharacterSetECI CharacterSetECI_getCharacterSetECIByNameN238388"
+ , "c3" : "QC-JAV000007[00082] For method encode list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.Mode chooseModeN237650|int dataBits_getSizeInBytesN237961|ext.plantuml.com.google.zxing.common.CharacterSetECI CharacterSetECI_getCharacterSetECIByNameN238388"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -638,7 +638,7 @@ var maDataBlocs = {
  , "c1" : "00225"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#225"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00225] For method initQRCode list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.Version Version_getVersionForNumberN245076"
+ , "c3" : "QC-JAV000007[00225] For method initQRCode list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.Version Version_getVersionForNumberN245076|int version_getTotalCodewordsN245170"
 }} 
 ,
 { "ligne" : {"" : ""

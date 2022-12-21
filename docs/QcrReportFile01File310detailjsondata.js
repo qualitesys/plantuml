@@ -147,7 +147,7 @@ var maDataBlocs = {
  , "c1" : "00083"
  , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#83"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00083] For method createSymbol list of called methods Object monObjet|double point_getXN167847|double point_getYN167964"
+ , "c3" : "QC-JAV000007[00083] For method createSymbol list of called methods Object monObjet|double position_getXN167697|double position_getYN167772|double point_getXN167847|double point_getYN167964"
 }} 
 ,
 { "ligne" : {"" : ""

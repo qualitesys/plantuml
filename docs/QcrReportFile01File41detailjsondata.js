@@ -512,7 +512,7 @@ var maDataBlocs = {
  , "c1" : "00212"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#212"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00212] For method getSunPositionOnEarth list of called methods Object monObjet|double Toolkit_limitRadsN191137"
+ , "c3" : "QC-JAV000007[00212] For method getSunPositionOnEarth list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Coordinate lSunPosEc_eclipticToEquatorialN191057|double Toolkit_limitRadsN191137"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/JUtils.java.html" 
- , "texte" : "File src/smetana/core/JUtils.java 140 rule violations " 
+ , "texte" : "File src/smetana/core/JUtils.java 144 rule violations " 
  , "fic2"  : "./qc/src/smetana/core/JUtils.java.xml" 
  , "fic3"  : "" 
 }
@@ -433,7 +433,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "1"
+ , "c4" : "5"
 }}
  ] 
 ,
@@ -548,6 +548,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#94"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00094] For method strtol arguments CString  str|CString[]  endptr|int  base"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/smetana/core/JUtils.java.html#94"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00094] For method strtol list of called methods Object monObjet|smetana.core.CString end_plus_N191306"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -882,6 +889,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00216"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#216"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00216] For method qsort1 list of called methods Object monObjet|smetana.core.CArrayOfStar array_plus_N197430|smetana.core.CArrayOfStar array_plus_N197524"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/smetana/core/JUtils.java.html#216"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00216] The argument array is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -1181,6 +1195,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00266"
+ , "c1link" : "./qc/src/smetana/core/JUtils.java.html#266"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00266] For method printDebugEdge list of called methods Object monObjet|O splines_list_get__N200167"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00267"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#267"
  , "c2" : "MAJOR"
@@ -1248,6 +1269,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#289"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00289] For method printDebugBezier arguments ST_bezier  bezier"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00289"
+ , "c1link" : "./qc/src/smetana/core/JUtils.java.html#289"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00289] For method printDebugBezier list of called methods Object monObjet|O bezier_list_get__N201961"
 }} 
 ,
 { "ligne" : {"" : ""

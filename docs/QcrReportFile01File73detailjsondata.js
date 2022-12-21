@@ -564,7 +564,7 @@ var maDataBlocs = {
  , "c1" : "00200"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/GF256Poly.java.html#200"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00200] For method divide list of called methods Object monObjet|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly field_getZeroN187220|int other_getCoefficientN187348|int field_inverseN187462|int field_multiplyN187835|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly other_multiplyByMonomialN188010|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly field_buildMonomialN188126"
+ , "c3" : "QC-JAV000007[00200] For method divide list of called methods Object monObjet|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly field_getZeroN187220|int other_getCoefficientN187348|int field_inverseN187462|int remainder_getDegreeN187718|int field_multiplyN187835|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly other_multiplyByMonomialN188010|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly field_buildMonomialN188126|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly quotient_addOrSubtractN188241|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly remainder_addOrSubtractN188334"
 }} 
 ,
 { "ligne" : {"" : ""

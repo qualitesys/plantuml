@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/common/postproc__c.java.html" 
- , "texte" : "File src/gen/lib/common/postproc__c.java 514 rule violations " 
+ , "texte" : "File src/gen/lib/common/postproc__c.java 423 rule violations " 
  , "fic2"  : "./qc/src/gen/lib/common/postproc__c.java.xml" 
  , "fic3"  : "" 
 }
@@ -296,7 +296,7 @@ var maDataBlocs = {
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV999993"
  , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "133"
+ , "c4" : "38"
 }}
 ,
 { "ligne" : { "" : ""
@@ -310,7 +310,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "4"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
@@ -339,6 +339,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "26"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "5"
 }}
  ] 
 ,
@@ -813,6 +820,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00292"
+ , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#292"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00292] For method edgeTailpoint_ list of called methods Object monObjet|O spl_list_get__N308223"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00296"
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#296"
  , "c2" : "MAJOR"
@@ -901,6 +915,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#327"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00327] For method edgeHeadpoint_ arguments ST_Agedge_s  e"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00327"
+ , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#327"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00327] For method edgeHeadpoint_ list of called methods Object monObjet|O spl_list_get__N309645"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -999,6 +1020,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#361"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00361] For method adjustBB_ arguments CArray&lt;ST_object_t &gt;  objp|ST_boxf  bb"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00361"
+ , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#361"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00361] For method adjustBB_ list of called methods Object monObjet|O objp_get__N311342|O objp_get__N311556"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1104,6 +1132,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#392"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00392] For method addXLabel_ arguments ST_textlabel_t  lp|CArray&lt;ST_object_t &gt;  objp|CArray&lt;ST_xlabel_t &gt;  xlp|int  initObj|ST_pointf  pos"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00392"
+ , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#392"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00392] For method addXLabel_ list of called methods Object monObjet|O objp_get__N313252|O objp_get__N313373|O xlp_get__N313986|O xlp_get__N314093|O objp_get__N314202"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1559,6 +1594,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#498"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00498] For method addClusterObj_ arguments ST_Agraph_s  g|ST_cinfo_t  info"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00498"
+ , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#498"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00498] For method addClusterObj_ list of called methods Object monObjet|smetana.core.CArray info_objp_plus_N320861"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3000,13 +3042,6 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.postproc__c.addXLabels@POLYN322786"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#1"
- , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.postproc__c.translate_bb@POLYN301686"
 }} 
 ,
@@ -3204,671 +3239,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#528"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV999993[00528] In the recursive method gen.lib.common.postproc__c.countClusterLabels@POLYN321246 the MagicNumber/String 'countClusterLabels' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00544"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#544"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00544] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'addXLabels' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00544"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#544"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00544] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'd4215jd9wukfn6t0iknwzjcof' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00549"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#549"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00549] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00550"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#550"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00550] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00551"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#551"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00551] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00552"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#552"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00552] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00562"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#562"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00562] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00562"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#562"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00562] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 7 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00568"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#568"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00568] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00571"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#571"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00571] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00572"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#572"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00572] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00573"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#573"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00573] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '6oje33bnpp4jv5mclsrrhl005' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00574"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#574"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00574] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'cfkrw6t4lrs7dfgx86sgrz26' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00575"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#575"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00575] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '5c97f6vfxny0zz35l2bu4maox' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00576"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#576"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00576] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '26eewzzknvqt2nbcrqds5fmti' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00578"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#578"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00578] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00579"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#579"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00579] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00580"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#580"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00580] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'appkettxihy2o612jk6fahbnh' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00581"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#581"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00581] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '8k2rclvg6eaoph9r2pz4620xq' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00582"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#582"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00582] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '14y6caappoxe17mogr979qf75' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00583"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#583"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00583] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'q3t8uxncrxc4n8rtuabtzxya' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00585"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#585"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00585] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00586"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#586"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00586] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00591"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#591"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00591] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00592"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#592"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00592] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00597"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#597"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00597] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00598"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#598"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00598] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00605"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#605"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00605] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00609"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#609"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00609] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00620"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#620"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00620] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00623"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#623"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00623] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00624"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#624"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00624] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'd5pjy3dwui27jfdz550cy0cln' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00625"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#625"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00625] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'cls7z8l7wi371a4wrec0viqil' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00626"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#626"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00626] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '3zy3jhlqyioeyh9mlrspjjgc6' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00627"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#627"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00627] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '6t98dcecgbvbvtpycwiq2ynnj' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00628"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#628"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00628] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '6q044im7742qhglc4553noina' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00629"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#629"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00629] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '2msn58w2dse7pbq2esv7awk4r' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00630"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#630"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00630] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '1zpq9rd3nn9kjrmun8ivs9zx5' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00631"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#631"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00631] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '6t98dcecgbvbvtpycwiq2ynnj' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00633"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#633"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00633] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00634"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#634"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00634] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00636"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#636"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00636] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00637"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#637"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00637] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00641"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#641"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00641] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00642"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#642"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00642] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00645"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#645"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00645] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '3ia66n3hqrwmh3hybkoh6f8wa' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00646"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#646"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00646] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '9npeksy1st7v005znerttzzzv' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00647"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#647"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00647] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '2yi9az7ibt7j9bwztjilyo0v2' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00649"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#649"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00649] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00652"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#652"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00652] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00653"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#653"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00653] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00654"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#654"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00654] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '7rwrlod7lkgin3rnnzy3iw2rw' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00657"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#657"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00657] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00658"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#658"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00658] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00661"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#661"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00661] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '5ixexxcbcix5hrfl43td7pj4s' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00662"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#662"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00662] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'cf9qaysecgkvv4165la4uu6cb' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00663"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#663"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00663] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '2yi9az7ibt7j9bwztjilyo0v2' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00665"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#665"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00665] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00668"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#668"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00668] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00669"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#669"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00669] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00670"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#670"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00670] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '7rwrlod7lkgin3rnnzy3iw2rw' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00673"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#673"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00673] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00674"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#674"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00674] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00677"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#677"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00677] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '8nrkavpg9ifts9yylhfijn9rp' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00678"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#678"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00678] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'a5omwtwd411hsfrc37d8t6m8b' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00679"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#679"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00679] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '2yi9az7ibt7j9bwztjilyo0v2' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00681"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#681"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00681] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00684"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#684"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00684] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00685"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#685"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00685] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '5dapykbxjvnhw0dpi7jfpcazk' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00686"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#686"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00686] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '7rwrlod7lkgin3rnnzy3iw2rw' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00687"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#687"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00687] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '6eq5kf0bj692bokt0bixy1ixh' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00688"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#688"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00688] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'dfnmpe0hri6ksye0gnxssi4zz' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00689"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#689"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00689] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '9ffmrymv8cg4h4b3ea97t9qbp' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00690"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#690"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00690] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '808184nt3k6cxj5dsg27yvpvg' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00691"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#691"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00691] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '6eq5kf0bj692bokt0bixy1ixh' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00692"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#692"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00692] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'd28blrbmwwqp80cyksuz7dwx9' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00693"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#693"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00693] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'dbskad3xgu5oqqhwl1cr9f88g' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00694"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#694"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00694] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'dtpynjioyrbt2xfca2o46eb0j' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00695"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#695"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00695] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '2yi9az7ibt7j9bwztjilyo0v2' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00696"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#696"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00696] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '6eq5kf0bj692bokt0bixy1ixh' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00697"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#697"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00697] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'cls7z8l7wi371a4wrec0viqil' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00701"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#701"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00701] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00708"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#708"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00708] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'forcelabels' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00708"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#708"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00708] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00709"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#709"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00709] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00715"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#715"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00715] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00716"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#716"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00716] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00717"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#717"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00717] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00717"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#717"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00717] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00719"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#719"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00719] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00720"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#720"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00720] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00724"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#724"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00724] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00729"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#729"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00729] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String '9hqu9h8q1a2xl4ty48ct0fdyp' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00733"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#733"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00733] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'addXLabels' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00733"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#733"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00733] In the recursive method gen.lib.common.postproc__c.addXLabels@POLYN322786 the MagicNumber/String 'd4215jd9wukfn6t0iknwzjcof' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""

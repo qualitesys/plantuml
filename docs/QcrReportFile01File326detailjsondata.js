@@ -282,7 +282,7 @@ var maDataBlocs = {
  , "c1" : "00158"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#158"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00158] For method addPoint list of called methods Object monObjet|jcckit.plot.Symbol _symbolFactory_createSymbolN180712"
+ , "c3" : "QC-JAV000007[00158] For method addPoint list of called methods Object monObjet|jcckit.plot.Symbol _symbolFactory_createSymbolN180712|jcckit.plot.Hint symbol_getHintForNextPointN181108|jcckit.plot.Hint symbol_getHintForNextCurveN181182"
 }} 
 ,
 { "ligne" : {"" : ""

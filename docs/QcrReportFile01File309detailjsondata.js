@@ -712,7 +712,7 @@ var maDataBlocs = {
  , "c1" : "00446"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#446"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00446] For method createAxis list of called methods Object monObjet|jcckit.util.TicLabelFormat createTicLabelFormatN298270"
+ , "c3" : "QC-JAV000007[00446] For method createAxis list of called methods Object monObjet|boolean c_getBooleanN296433|double c_getDoubleN296534|double c_getDoubleN296635|double c_getDoubleN296736|java.lang.String c_getN296996|double c_getDoubleN297395|boolean c_getBooleanN297496|double c_getDoubleN297715|double c_getDoubleN297846|int c_getIntN297977|jcckit.util.TicLabelFormat createTicLabelFormatN298270|boolean c_getBooleanN298661"
 }} 
 ,
 { "ligne" : {"" : ""

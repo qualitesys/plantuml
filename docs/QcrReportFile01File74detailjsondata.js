@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java 24 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java 25 rule violations " 
  , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.xml" 
  , "fic3"  : "" 
 }
@@ -124,7 +124,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "1"
+ , "c4" : "2"
 }}
  ] 
 ,
@@ -148,6 +148,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#41"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00041] For method buildGenerator arguments int  degree"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00041"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#41"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00041] For method buildGenerator list of called methods Object monObjet|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly lastGenerator_multiplyN150751"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -189,7 +196,7 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00053] For method encode list of called methods Object monObjet|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly buildGeneratorN151743"
+ , "c3" : "QC-JAV000007[00053] For method encode list of called methods Object monObjet|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly buildGeneratorN151743|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly info_multiplyByMonomialN152203|ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly[] info_divideN152321|int[] remainder_getCoefficientsN152452"
 }} 
 ,
 { "ligne" : {"" : ""

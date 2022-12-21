@@ -180,7 +180,7 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/QRCodeWriter.java.html#71"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00071] For method renderResult list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.encoder.ByteMatrix code_getMatrixN154304"
+ , "c3" : "QC-JAV000007[00071] For method renderResult list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.encoder.ByteMatrix code_getMatrixN154304|int input_getWidthN154379|int input_getHeightN154454"
 }} 
 ,
 { "ligne" : {"" : ""

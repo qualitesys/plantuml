@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/plot/Plot.java.html" 
- , "texte" : "File src/jcckit/plot/Plot.java 57 rule violations " 
+ , "texte" : "File src/jcckit/plot/Plot.java 58 rule violations " 
  , "fic2"  : "./qc/src/jcckit/plot/Plot.java.xml" 
  , "fic3"  : "" 
 }
@@ -252,7 +252,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "4"
+ , "c4" : "5"
 }}
 ,
 { "ligne" : { "" : ""
@@ -444,6 +444,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#293"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00293] For method dataChanged arguments DataEvent  event"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00293"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#293"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00293] For method dataChanged list of called methods Object monObjet|jcckit.data.DataContainer curve_getContainerN224140"
 }} 
 ,
 { "ligne" : {"" : ""

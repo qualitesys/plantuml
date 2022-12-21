@@ -422,7 +422,7 @@ var maDataBlocs = {
  , "c1" : "00150"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#150"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00150] For method getDistinctShapes list of called methods Object monObjet|org.stathissideris.ascii2image.text.CellSet grid_getAllNonBlankN177057"
+ , "c3" : "QC-JAV000007[00150] For method getDistinctShapes list of called methods Object monObjet|org.stathissideris.ascii2image.text.CellSet grid_getAllNonBlankN177057|java.util.ArrayList nonBlank_breakIntoDistinctBoundariesN177132"
 }} 
 ,
 { "ligne" : {"" : ""

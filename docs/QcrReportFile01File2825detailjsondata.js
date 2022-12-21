@@ -1797,7 +1797,7 @@ var maDataBlocs = {
  , "c1" : "00651"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#651"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00651] For method removeObsoleteShapes list of called methods Object monObjet|boolean common_iteratorN319186|boolean common_iteratorN320127"
+ , "c3" : "QC-JAV000007[00651] For method removeObsoleteShapes list of called methods Object monObjet|org.stathissideris.ascii2image.text.CellSet set_getFilledEquivalentN317592|boolean common_iteratorN319186|boolean common_iteratorN320127"
 }} 
 ,
 { "ligne" : {"" : ""

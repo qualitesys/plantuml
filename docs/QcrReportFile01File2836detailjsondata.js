@@ -320,7 +320,7 @@ var maDataBlocs = {
  , "c1" : "00123"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/GridPattern.java.html#123"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00123] For method prepareRegExps list of called methods Object monObjet|java.util.ArrayList&lt;StringBuffer&gt; getRowsN191384|java.util.ArrayList&lt;StringBuffer&gt; getRowsN192009|java.util.ArrayList&lt;StringBuffer&gt; it_nextN192165"
+ , "c3" : "QC-JAV000007[00123] For method prepareRegExps list of called methods Object monObjet|java.util.ArrayList getRowsN191384|java.util.ArrayList getRowsN192009"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/cdt/dttree__c.java.html" 
- , "texte" : "File src/gen/lib/cdt/dttree__c.java 258 rule violations " 
+ , "texte" : "File src/gen/lib/cdt/dttree__c.java 259 rule violations " 
  , "fic2"  : "./qc/src/gen/lib/cdt/dttree__c.java.xml" 
  , "fic3"  : "" 
 }
@@ -173,6 +173,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "6"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "1"
 }}
  ] 
 ,
@@ -1099,6 +1106,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00001] For method _DTLNK arguments __ptr__  o|OFFSET  lk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cdt/dttree__c.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00001] For method _DTLNK list of called methods Object monObjet|smetana.core.__ptr__ tmp1_castToN239100"
 }} 
 ,
 { "ligne" : {"" : ""
