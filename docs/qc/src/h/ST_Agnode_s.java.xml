@@ -742,7 +742,7 @@
 <leniv><indtoken>732</indtoken><nbappels>18</nbappels></leniv>
 </nbappelsparniv>
 <nbappelspartoken>
-<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.671966433073E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
+<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.672011693123E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>15</proffinale><profmax>15</profmax><indtoken>1</indtoken><temps>0.003</temps><nbappels>15</nbappels><token>/*</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>2</indtoken><temps>0.003</temps><nbappels>28</nbappels><token>===</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>3</indtoken><temps>0.003</temps><nbappels>29</nbappels><token>===</token></leniv>
@@ -955,7 +955,7 @@
 <leniv><noligne>19</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>210</indtoken><temps>0.003</temps><nbappels>29</nbappels><token>*</token></leniv>
 <leniv><noligne>19</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>211</indtoken><temps>0.003</temps><nbappels>29</nbappels><token>*</token></leniv>
 <leniv><noligne>19</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>212</indtoken><temps>0.003</temps><nbappels>29</nbappels><token>*</token></leniv>
-<leniv><noligne>19</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>213</indtoken><temps>0.004</temps><nbappels>29</nbappels><token>*</token></leniv>
+<leniv><noligne>19</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>213</indtoken><temps>0.003</temps><nbappels>29</nbappels><token>*</token></leniv>
 <leniv><noligne>19</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>214</indtoken><temps>0.004</temps><nbappels>29</nbappels><token>*</token></leniv>
 <leniv><noligne>19</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>215</indtoken><temps>0.004</temps><nbappels>29</nbappels><token>*</token></leniv>
 <leniv><noligne>19</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>216</indtoken><temps>0.004</temps><nbappels>29</nbappels><token>*</token></leniv>
@@ -1376,7 +1376,7 @@
 <leniv><noligne>56</noligne><profmin>0</profmin><proffinale>96</proffinale><profmax>101</profmax><indtoken>631</indtoken><temps>0.005</temps><nbappels>57</nbappels><token>this</token></leniv>
 <leniv><noligne>56</noligne><profmin>0</profmin><proffinale>43</proffinale><profmax>101</profmax><indtoken>632</indtoken><temps>0.005</temps><nbappels>83</nbappels><token>;</token></leniv>
 <leniv><noligne>57</noligne><profmin>0</profmin><proffinale>51</proffinale><profmax>52</profmax><indtoken>633</indtoken><temps>0.005</temps><nbappels>39</nbappels><token>public</token></leniv>
-<leniv><noligne>57</noligne><profmin>0</profmin><proffinale>64</proffinale><profmax>64</profmax><indtoken>634</indtoken><temps>0.006</temps><nbappels>60</nbappels><token>ST_Agraph_s</token></leniv>
+<leniv><noligne>57</noligne><profmin>0</profmin><proffinale>64</proffinale><profmax>64</profmax><indtoken>634</indtoken><temps>0.005</temps><nbappels>60</nbappels><token>ST_Agraph_s</token></leniv>
 <leniv><noligne>57</noligne><profmin>0</profmin><proffinale>57</proffinale><profmax>64</profmax><indtoken>635</indtoken><temps>0.006</temps><nbappels>49</nbappels><token>root</token></leniv>
 <leniv><noligne>57</noligne><profmin>0</profmin><proffinale>43</proffinale><profmax>66</profmax><indtoken>636</indtoken><temps>0.006</temps><nbappels>55</nbappels><token>;</token></leniv>
 <leniv><noligne>58</noligne><profmin>0</profmin><proffinale>51</proffinale><profmax>52</profmax><indtoken>637</indtoken><temps>0.006</temps><nbappels>39</nbappels><token>public</token></leniv>
